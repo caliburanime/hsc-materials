@@ -96,7 +96,7 @@ def insert_question(cur, sid, number, qtype, q):
     if qtype == "cq_short":
         keys += ["answer", "answer_image"]          # MCQ answers live in mcq_options.is_correct
     extra = {k: q[k] for k in keys if q.get(k) is not None}
-    for k in ("set", "qno", "session"):
+    for k in ("qno", "session"):
         if src.get(k) is not None:
             extra["source_" + k] = src[k]
 

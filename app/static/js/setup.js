@@ -4,6 +4,8 @@
   const subjectSel = $('subject'), typeSel = $('type'), chaptersBox = $('chapters');
   const board = $('board'), year = $('year'), count = $('count'), avail = $('avail');
   const timed = $('timed'), minutes = $('minutes'), err = $('err');
+  const preChapter = $('setup').dataset.preChapter;   // from the dashboard's "practise this chapter" link
+  let firstRender = true;
   const current = () => subjects.find((s) => s.id === subjectSel.value);
 
   function fillSelect(sel, values, labelFn) {
@@ -26,10 +28,12 @@
         `<span>${bnDigits(c.number)}. </span><span class="grow"></span><em>${bnDigits(n)}টি</em>`;
       label.querySelector('.grow').textContent = c.name;
       const box = label.querySelector('input');
-      if (n && (prev.size ? prev.has(String(c.number)) : true)) box.checked = true;
+      const want = firstRender && preChapter ? String(c.number) === preChapter : (prev.size ? prev.has(String(c.number)) : true);
+      if (n && want) box.checked = true;
       box.addEventListener('change', updateAvail);
       chaptersBox.appendChild(label);
     });
+    firstRender = false;
     updateAvail();
   }
 

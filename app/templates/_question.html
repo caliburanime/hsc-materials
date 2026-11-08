@@ -2,15 +2,15 @@
    question(q, num, reveal, picked, name):
      reveal  – mark the correct option (browse / results)
      picked  – label the student chose (results) or None
-     name    – when set, options are radio inputs with this group name (live quiz)  #}
+     name    – when set, options are radio inputs with this group name (live quiz)
+     flags   – show ⚠ review flags/notes (maintainer view only: Browse). Never in quiz/results. #}
 {% set BL = {'a': 'ক', 'b': 'খ', 'c': 'গ', 'd': 'ঘ', 'e': 'ঙ', 'f': 'চ'} %}
 
-{% macro meta(q) %}
+{% macro meta(q, flags=False) %}
   <div class="meta">
     {% if q.board %}<span class="chip">{{ board_names.get(q.board, q.board) }}{% if q.year %} · {{ q.year|bn }}{% endif %}</span>{% endif %}
-    {% if q.set %}<span class="chip">সেট {{ q.set }}</span>{% endif %}
     <span class="chip chip-muted">অধ্যায় {{ q.chapter|bn }}</span>
-    {% if q.review_note %}<span class="chip chip-warn" title="{{ q.review_note }}">⚠ যাচাই দরকার</span>{% endif %}
+    {% if flags and q.review_note %}<span class="chip chip-warn" title="{{ q.review_note }}">⚠ যাচাই দরকার</span>{% endif %}
   </div>
 {% endmacro %}
 
@@ -24,11 +24,11 @@
   {% endif %}
 {% endmacro %}
 
-{% macro question(q, num, reveal=False, picked=None, name=None) %}
+{% macro question(q, num, reveal=False, picked=None, name=None, flags=False) %}
 <article class="q" id="q-{{ q.id }}" data-id="{{ q.id }}">
   <div class="q-head">
     <span class="q-num">{{ num|bn }}।</span>
-    {{ meta(q) }}
+    {{ meta(q, flags) }}
   </div>
   {{ stem_block(q) }}
   <div class="q-text">{{ q.text }}</div>
@@ -61,16 +61,16 @@
     {% endfor %}
   </div>
   {% if reveal and q.explanation %}<div class="explain"><b>ব্যাখ্যা:</b> {{ q.explanation }}</div>{% endif %}
-  {% if reveal and q.review_note %}<div class="note">⚠ {{ q.review_note }}</div>{% endif %}
+  {% if flags and reveal and q.review_note %}<div class="note">⚠ {{ q.review_note }}</div>{% endif %}
 </article>
 {% endmacro %}
 
 {# CQ renderer: short (text + answer) or analytical (stem + parts). Answers sit in hidden blocks. #}
-{% macro cq(q, num) %}
+{% macro cq(q, num, flags=False) %}
 <article class="q" id="q-{{ q.id }}" data-id="{{ q.id }}" data-marks="{{ q.marks }}">
   <div class="q-head">
     <span class="q-num">{{ num|bn }}।</span>
-    {{ meta(q) }}
+    {{ meta(q, flags) }}
     <span class="chip chip-muted">{{ q.marks|bn }} নম্বর</span>
   </div>
   {% if q.type == 'cq_analytical' %}

@@ -26,8 +26,7 @@
         "board": { "type": "string" },
         "year": { "type": "string", "pattern": "^[0-9]{4}$" },
         "session": { "type": ["string", "null"] },
-        "set": { "type": ["string", "null"], "description": "Question set / code printed on the paper (e.g. গ)" },
-        "qno": { "type": ["integer", "null"], "description": "Question number on the original paper" }
+        "qno": { "type": ["integer", "null"], "description": "Question number in the scan it was transcribed from (sets are shuffled copies, so this is only an audit pointer)" }
       }
     },
     "tags": { "type": "array", "items": { "type": "string" } },

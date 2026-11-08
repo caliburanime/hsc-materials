@@ -55,7 +55,7 @@ def mmss(seconds):
 @app.route("/")
 def index():
     return render_template("index.html", subjects=db.subjects(con()), stats=db.stats(con()),
-                           recent=db.history(con(), limit=5))
+                           recent=db.history(con(), limit=6), att=db.attention(con()))
 
 
 @app.route("/quiz/setup")
@@ -63,7 +63,8 @@ def quiz_setup():
     subjects = db.subjects(con())
     for s in subjects:
         s["boards"], s["years"] = db.filter_options(con(), s["id"])
-    return render_template("quiz-setup.html", subjects=subjects, preselect=request.args.get("subject"))
+    return render_template("quiz-setup.html", subjects=subjects, preselect=request.args.get("subject"),
+                           pre_chapter=request.args.get("chapter", type=int))
 
 
 @app.route("/quiz/mcq/<int:sid>")
@@ -116,7 +117,7 @@ def _browse_filters():
     chapter = a.get("chapter", type=int)
     form = {"subject": subject, "chapter": chapter, "type": a.get("type", ""), "board": a.get("board", ""),
             "year": a.get("year", ""), "q": a.get("q", "").strip(), "flagged": a.get("flagged") == "1"}
-    query = dict(subject=subject or None, chapters=[chapter] if chapter else None, qtype=form["type"] or None,
+    query = dict(ids=[a["id"]] if a.get("id") else None, subject=subject or None, chapters=[chapter] if chapter else None, qtype=form["type"] or None,
                  board=form["board"] or None, year=form["year"] or None, q=form["q"] or None, flagged=form["flagged"])
     return {"form": form, "query": query}
 
@@ -177,6 +178,12 @@ def api_quiz_start():
     sid = db.create_session(con(), subject, mode, chapters, ids, config)
     page = "quiz_mcq" if mode == "mcq" else "quiz_cq"
     return jsonify(session_id=sid, total=len(ids), url=url_for(page, sid=sid))
+
+
+@app.route("/quiz/discard/<int:sid>", methods=["POST"])
+def quiz_discard(sid):
+    db.discard_session(con(), sid)
+    return redirect(url_for("index"))
 
 
 @app.route("/api/quiz/submit", methods=["POST"])

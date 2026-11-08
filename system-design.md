@@ -294,7 +294,8 @@ Each subject folder has a `meta.json` describing its structure.
 > - `stem` / `stem_image` — shared উদ্দীপক for grouped questions (e.g. "answer Q19 and Q20").
 >   Each question in the group **carries its own copy**; `group` (e.g. `"hse26-q19-20"`) links them.
 >   Code stems keep their newlines and are shown monospaced.
-> - `source.set` (paper set, e.g. `"গ"`) and `source.qno` (number on the original paper).
+> - `source.qno` (question number in the scan it came from; an audit pointer only).
+>   The paper *set* (ক/খ/গ/ঘ) is deliberately **not** stored: all sets contain the same questions, just shuffled.
 >   `source.board` may be `"ALL"` for the 2026 paper, which is identical for every board.
 > - `review_note` — an open doubt about transcription or about the printed answer key.
 >   The question is flagged ⚠ in the UI; `validate.py` lists these as warnings.
@@ -458,7 +459,7 @@ CREATE TABLE questions (
     difficulty  TEXT,                   -- "easy" | "medium" | "hard" | NULL
     tags        TEXT,                   -- JSON array as text: '["tag1","tag2"]'
     review_note TEXT,                   -- NULL unless flagged for review
-    extra_json  TEXT                    -- stem, stem_image, statements, group, source_set, source_qno,
+    extra_json  TEXT                    -- stem, stem_image, statements, group, source_qno,
                                         -- explanation; for cq_short also answer / answer_image
 );
 
@@ -559,7 +560,7 @@ flowchart LR
 
 | Route | Method | Description |
 |-------|--------|-------------|
-| `GET /` | — | Home / dashboard |
+| `GET /` | — | Dashboard: stats, **needs attention** (unfinished quizzes, weak chapters <60%, often-missed questions, chapters never tested), recent tests, content health |
 | `GET /quiz/setup` | — | Pick subject, chapters, question count, mode |
 | `POST /quiz/start` | JSON | Start a quiz session, returns question IDs |
 | `GET /quiz/mcq/<session_id>` | — | MCQ test page |
@@ -568,6 +569,7 @@ flowchart LR
 | `GET /quiz/results/<session_id>` | — | Review results + correct answers |
 | `GET /browse` | — | Browse/filter all questions |
 | `GET /history` | — | Past test sessions + stats |
+| `POST /quiz/discard/<session_id>` | — | Delete an *unfinished* session (finished history is never deleted) |
 | `GET /api/questions` | JSON | API: filter questions (for AJAX) |
 | `GET /api/stats` | JSON | API: performance stats |
 | `GET /media/<subject_id>/<path>` | — | Serve question images (`/media/ict/assets/ch3-mcq-004-stem.png`) |

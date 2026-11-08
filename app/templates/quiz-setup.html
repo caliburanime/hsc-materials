@@ -2,7 +2,7 @@
 {% block title %}কুইজ সেটআপ{% endblock %}
 {% block content %}
 <h1>কুইজ সেটআপ</h1>
-<form id="setup" class="form">
+<form id="setup" class="form" data-pre-chapter="{{ pre_chapter or '' }}">
   <label>বিষয়
     <select name="subject" id="subject">
       {% for s in subjects %}<option value="{{ s.id }}" {% if s.id == preselect %}selected{% endif %}>{{ s.name }} ({{ s.name_en }})</option>{% endfor %}

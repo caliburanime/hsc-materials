@@ -145,7 +145,7 @@ def fetch(con, ids=None, reveal=False, ordered_ids=None, limit=None, offset=0, *
             "text": r["text"], "text_en": r["text_en"], "image": media_url(qid, r["image"]),
             "stem": extra.get("stem"), "stem_image": media_url(qid, extra.get("stem_image")),
             "statements": extra.get("statements", []), "group": extra.get("group"),
-            "board": r["board"], "year": r["year"], "set": extra.get("source_set"), "qno": extra.get("source_qno"),
+            "board": r["board"], "year": r["year"], "qno": extra.get("source_qno"),
             "tags": json.loads(r["tags"] or "[]"), "marks": r["marks"], "review_note": r["review_note"],
         }
         q["stem_is_code"] = _looks_like_code(q["stem"])
@@ -275,3 +275,69 @@ def stats(con, subject=None):
             "best_score": t["best"], "by_chapter": by_chapter,
             "recent": [{"id": s["id"], "finished_at": s["finished_at"], "score_pct": s["score_pct"], "mode": s["mode"]}
                        for s in history(con, subject, 10)]}
+
+
+# ---------------------------------------------------------------- dashboard
+
+WEAK_BELOW_PCT = 60      # chapter accuracy under this is "weak"...
+WEAK_MIN_ANSWERS = 5     # ...once at least this many answers back it up
+MISSED_MIN_ATTEMPTS = 2  # a question needs this many attempts to be called "often missed"
+THIN_BELOW = 5           # fewer MCQs than this in a chapter = thin coverage
+
+
+def unfinished_sessions(con):
+    """Quizzes that were started but never submitted, newest first."""
+    out = []
+    for r in con.execute("SELECT * FROM test_sessions WHERE finished_at IS NULL ORDER BY id DESC"):
+        s = dict(r)
+        cfg = json.loads(s["config_json"] or "{}")
+        s["chapters"] = json.loads(s["chapters"] or "[]")
+        minutes = cfg.get("time_minutes") or 0
+        s["timed"] = bool(minutes)
+        s["expired"] = bool(minutes) and (datetime.now() - datetime.fromisoformat(s["started_at"])).total_seconds() > minutes * 60
+        out.append(s)
+    return out
+
+
+def discard_session(con, sid):
+    """Delete an unfinished session. Finished ones are history and are never deleted here."""
+    row = con.execute("SELECT finished_at FROM test_sessions WHERE id=?", (sid,)).fetchone()
+    if not row or row["finished_at"]:
+        return False
+    con.execute("DELETE FROM test_answers WHERE session_id=?", (sid,))
+    con.execute("DELETE FROM test_sessions WHERE id=?", (sid,))
+    con.commit()
+    return True
+
+
+def attention(con):
+    """Everything on the dashboard that wants the teacher's eye."""
+    by_chapter = {(c["subject"], c["chapter"]): c for c in stats(con)["by_chapter"]}
+
+    weak = sorted((c for c in by_chapter.values() if c["answered"] >= WEAK_MIN_ANSWERS and c["pct"] < WEAK_BELOW_PCT),
+                  key=lambda c: c["pct"])
+
+    missed = []
+    for r in con.execute(
+        "SELECT q.id, q.text, c.subject_id, c.number, COUNT(*) n, SUM(a.is_correct) ok "
+        "FROM test_answers a JOIN test_sessions s ON s.id=a.session_id "
+        "JOIN questions q ON q.id=a.question_id JOIN chapters c ON c.id=q.chapter_id "
+        "WHERE s.finished_at IS NOT NULL AND q.type='mcq' GROUP BY q.id "
+        "HAVING n >= ? AND 1.0 * COALESCE(ok, 0) / n < 0.5 ORDER BY 1.0 * COALESCE(ok, 0) / n, n DESC LIMIT 5",
+            (MISSED_MIN_ATTEMPTS,)):
+        text = " ".join((r["text"] or "").split())
+        missed.append({"id": r["id"], "text": text if len(text) <= 90 else text[:87] + "…", "chapter": r["number"],
+                       "attempts": r["n"], "wrong": r["n"] - (r["ok"] or 0)})
+
+    untested, thin = [], []
+    for s in subjects(con):
+        for c in s["chapters"]:
+            n = c["counts"].get("mcq", 0)
+            if n and (s["id"], c["number"]) not in by_chapter:
+                untested.append({"subject": s["id"], "subject_name": s["name_en"], "chapter": c["number"], "name": c["name"], "mcq": n})
+            if n < THIN_BELOW:
+                thin.append({"subject_name": s["name_en"], "chapter": c["number"], "name": c["name"], "mcq": n})
+
+    flagged = con.execute("SELECT COUNT(*) FROM questions WHERE review_note IS NOT NULL").fetchone()[0]
+    return {"weak": weak, "missed": missed, "untested": untested, "thin": thin, "flagged": flagged,
+            "unfinished": unfinished_sessions(con)}

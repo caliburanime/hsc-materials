@@ -109,3 +109,22 @@ label.opt:has(input:checked) { border-color: var(--accent); background: color-mi
 /* diagram crops are small scans: scale them up for readability */
 .qimg { width: 420px; max-width: 100%; }
 .oimg { width: 260px; max-width: 100%; }
+
+/* ---- dashboard ---- */
+.dash-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+h2.first { margin-top: 0; }
+.attn { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 16px; }
+@media (max-width: 480px) { .attn { grid-template-columns: 1fr; } }
+.attn-card h3, .card h3 { margin: 0 0 6px; font-size: 1.05rem; display: flex; align-items: center; gap: 8px; }
+.attn-card p.muted { margin: 0 0 6px; }
+.count { margin-left: auto; font-size: .8rem; background: var(--code-bg); border-radius: 999px; padding: 0 9px; color: var(--muted); }
+.dot { width: 10px; height: 10px; border-radius: 50%; background: var(--muted); display: inline-block; flex: none; }
+.dot.bad { background: var(--bad); } .dot.warn { background: var(--warn); }
+.alist { list-style: none; margin: 0; padding: 0; }
+.alist li { display: flex; gap: 10px; align-items: center; padding: 8px 0; border-top: 1px solid var(--border); font-size: .95rem; }
+.alist li:first-child { border-top: 0; } .alist .grow { flex: 1; min-width: 0; }
+.alist form { margin: 0; } .pct { font-weight: 700; white-space: nowrap; }
+.btn-sm { padding: 3px 12px; font-size: .88rem; white-space: nowrap; }
+.bar.slim { height: 6px; margin-top: 4px; }
+.callout { padding: 12px 16px; border-radius: var(--radius); }
+.callout.ok { background: var(--good-bg); color: var(--good); }
