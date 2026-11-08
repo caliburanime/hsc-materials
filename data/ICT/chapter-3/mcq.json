@@ -1,0 +1,8435 @@
+{
+  "subject": "ict",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch3-mcq-001",
+      "text": "(১০০)₁₀ গণনা করার জন্য কতটি বাইনারি ডিজিট প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1
+      },
+      "tags": [
+        "number-system",
+        "binary"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-002",
+      "text": "(১০০)₂ এবং (AA)₁₆ এর যোগফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AE",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1AA",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-003",
+      "text": "((̅A̅̅̅+̅B̅)̅).B এর সরলীকৃত মান হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null,
+      "review_note": "Answer key printed in source is (খ) 1, but with the bar over the bracket only, (Ā+B) negated times B = A·B̄·B = 0, which is option (ক). Check the source/exact bar extent."
+    },
+    {
+      "id": "ict-ch3-mcq-004",
+      "text": "উদ্দীপকের লজিক গেইটটি আউটপুটে ১ পেতে হলে ইনপুট দিতে হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-mcq-004-stem.png",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 0, B = 0, C = 0"
+        },
+        {
+          "label": "ii",
+          "text": "A = 0, B = 1, C = 1"
+        },
+        {
+          "label": "iii",
+          "text": "A = 1, B = 0, C = 1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null,
+      "group": "hse26-q04-05"
+    },
+    {
+      "id": "ict-ch3-mcq-005",
+      "text": "উপরের লজিক চিত্রটির জন্য সরলীকৃত মান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-mcq-004-stem.png",
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/ch3-mcq-005-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/ch3-mcq-005-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/ch3-mcq-005-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/ch3-mcq-005-opt-d.png"
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5
+      },
+      "tags": [
+        "logic-gate",
+        "simplification"
+      ],
+      "difficulty": null,
+      "group": "hse26-q04-05"
+    },
+    {
+      "id": "ict-ch3-mcq-006",
+      "text": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "101100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "010010",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "101000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "101111",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1
+      },
+      "tags": [
+        "number-system",
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-007",
+      "text": "উদ্দীপকের Y এর সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-mcq-007-stem.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅B̅ + AB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B + AB̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅·̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅+̅B̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8
+      },
+      "tags": [
+        "boolean",
+        "switching-circuit"
+      ],
+      "difficulty": null,
+      "group": "hse25-q08-09",
+      "review_note": "Source key marks (খ) Ā·B + A·B̄ (XOR). Reading the switch circuit as (A+B̄)(Ā+B) gives Ā·B̄ + A·B (XNOR) = option (ক), which is also what Q9's key implies. Likely a wrong key in the source; verify."
+    },
+    {
+      "id": "ict-ch3-mcq-008",
+      "text": "উদ্দীপকে Y এর মান 0, যখন—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-mcq-007-stem.png",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 1, B = 0"
+        },
+        {
+          "label": "ii",
+          "text": "A = 0, B = 1"
+        },
+        {
+          "label": "iii",
+          "text": "A = 1, B = 1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9
+      },
+      "tags": [
+        "boolean",
+        "switching-circuit"
+      ],
+      "difficulty": null,
+      "group": "hse25-q08-09",
+      "review_note": "Consistent with XNOR (Y=0 when A≠B); conflicts with the source key for Q8."
+    },
+    {
+      "id": "ict-ch3-mcq-009",
+      "text": "একটি বইয়ের মূল্য (AA)₁₆ হলে তার সমকক্ষ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(170)₁₀"
+        },
+        {
+          "label": "ii",
+          "text": "(252)₈"
+        },
+        {
+          "label": "iii",
+          "text": "(10101010)₂"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-010",
+      "text": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমানে ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "EBCDIC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ASCII-7",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ASCII-8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UniCode",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18
+      },
+      "tags": [
+        "character-code",
+        "unicode"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-011",
+      "text": "বাইনারি ডেটা একদিকে বা উভয় দিকে স্থানান্তর করতে পারে কোন রেজিস্টার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্যারালাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিফট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাফার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাকুমুলেটর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23
+      },
+      "tags": [
+        "digital-device",
+        "register"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-012",
+      "text": "(5A)₁₆ এর পরের সংখ্যাটি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(6A)₁₆",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(5B)₁₆",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(91)₁₆",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(90)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "হেক্সাডেসিমেলে A এর সাথে 1 যোগ করলে B পাওয়া যায়, তাই (5A)₁₆ এর পরবর্তী সংখ্যা (5B)₁₆।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-013",
+      "text": "'Y' এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q002.png",
+      "group": "bank-ch3-db23-q2",
+      "options": [
+        {
+          "label": "a",
+          "text": "A + B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅+̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A⊕B",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "Y = A̅+̅B̅+̅A̅+̅B̅ = A̅+̅B̅",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-014",
+      "text": "উদ্দীপকে বর্ণিত বর্তনীটির আউটপুট Y = 1 পেতে হলে A ও B-এর ইনপুট কত দিতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q002.png",
+      "group": "bank-ch3-db23-q2",
+      "options": [
+        {
+          "label": "a",
+          "text": "A = 0 ও B = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A = 0 ও B = 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A = 1 ও B = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A = 1 ও B = 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "NOR গেইট সকল input = 0 হলেই output = 1 হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-015",
+      "text": "আতিকের বয়সের সমকক্ষ সংখ্যা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "ক্লাসে শিক্ষক আতিককে তার বয়স জিজ্ঞেস করেন। আতিক বলল, তার বয়স (10100)₂।",
+      "stem_image": null,
+      "group": "bank-ch3-db23-q4",
+      "options": [
+        {
+          "label": "a",
+          "text": "(20)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(24)₈",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(24)₁₀",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(24)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(010 100)₂ = (24)₈",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-016",
+      "text": "দশ বছর পর আতিকের বয়স হেক্সাডেসিমেলে কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "ক্লাসে শিক্ষক আতিককে তার বয়স জিজ্ঞেস করেন। আতিক বলল, তার বয়স (10100)₂।",
+      "stem_image": null,
+      "group": "bank-ch3-db23-q4",
+      "options": [
+        {
+          "label": "a",
+          "text": "(1D)₁₆",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(1E)₁₆",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(1F)₁₆",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(2D)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(10100)₂ = (20)₁₀; 20 + 10 = 30; (30)₁₀ = (1E)₁₆",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-017",
+      "text": "উপরের সত্যক সারণি কোন গেটকে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q006.png",
+      "group": "bank-ch3-db23-q6",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "EX-OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "EX-NOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "A̅B + AB̅ = X ∴ X = EX-OR",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-018",
+      "text": "উদ্দীপকের Y এর মান হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "P ⊕ Q"
+        },
+        {
+          "label": "ii",
+          "text": "P̅Q + PQ̅"
+        },
+        {
+          "label": "iii",
+          "text": "P̅ ⊕̅ Q̅"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q007.png",
+      "group": "bank-ch3-rb23-q7",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-019",
+      "text": "উদ্দীপক বর্তনীর আউটপুট Y = 0 হবে, যখন—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q007.png",
+      "group": "bank-ch3-rb23-q7",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 ও 2 নং gate এর পরিবর্তে NOR gate",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 নং gate এর পরিবর্তে NAND gate",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 নং gate এর পরিবর্তে AND gate",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5 নং gate এর পরিবর্তে NAND gate ব্যবহার করা হবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-020",
+      "text": "এনকোডারের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইনপুট 2ⁿ হলে আউটপুট হবে n",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইনপুট n হলে আউটপুট হবে 2ⁿ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইনপুট n হলে আউটপুট হবে n",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোডেড ডেটাকে আনকোডেড ডেটায় রূপান্তর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-021",
+      "text": "নন-পজিশনাল সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1011",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "V",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-022",
+      "text": "(২৫)₁₀ এর ১'s এর পরিপূরক মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "00011001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11100110",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11100111",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11000110",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(২৫)₁₀ এর বাইনারি রূপ: (00011001)₂; 1 এর পরিপূরক: 11100110",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-023",
+      "text": "ডিকোডারের ইনপুট সংখ্যা 4 হলে আউটপুট হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 12
+      },
+      "tags": [
+        "digital-device",
+        "decoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-024",
+      "text": "a = 1, b = 0 এর জন্য a⊕b = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0, 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1, 0",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 13
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-025",
+      "text": "অক্টাল সংখ্যার বেজ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 14
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-026",
+      "text": "সার্বজনীন গেইট তৈরিতে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": "assets/ch3-bank-q015.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-027",
+      "text": "দশমিক পদ্ধতিতে বিক্রেতার লাভের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একজন ফল বিক্রেতা (৫A)₁₆ টাকার আপেল ও (৫০)₈ টাকার কমলা বিক্রয় করে সর্বমোট (২০)₈ টাকা লাভ করে।",
+      "stem_image": null,
+      "group": "bank-ch3-cb23-q16",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(২০)₈ = (১৬)₁₀",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-028",
+      "text": "বিক্রেতার মোট বিক্রয় মূল্য অষ্টাল পদ্ধতিতে কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একজন ফল বিক্রেতা (৫A)₁₆ টাকার আপেল ও (৫০)₈ টাকার কমলা বিক্রয় করে সর্বমোট (২০)₈ টাকা লাভ করে।",
+      "stem_image": null,
+      "group": "bank-ch3-cb23-q16",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৩০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০২",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "(5A)₁₆ + (50)₈ = (90)₁₀ + (40)₁₀ = (130)₁₀ = (202)₈",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 17
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-029",
+      "text": "কোনটি জটিল ও অবৈজ্ঞানিক সংখ্যা যা এখনও ব্যবহৃত করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিশরীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবলিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মায়ান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রোমান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-030",
+      "text": "Y এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q019.png",
+      "group": "bank-ch3-cb23-q19",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅+B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AB̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A+B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅B",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "NAND গেইটে ডি-মরগ্যান সূত্র প্রয়োগ করে Y = A + B̅",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 19
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-031",
+      "text": "A ও B এর মান কত হলে Y = 1 হবে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 0, B = 0"
+        },
+        {
+          "label": "ii",
+          "text": "A = 1, B = 0"
+        },
+        {
+          "label": "iii",
+          "text": "A = 0, B = 1"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q019.png",
+      "group": "bank-ch3-cb23-q19",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "Y = A + B̅: A=0,B=0 → 0+1 = 1; A=1,B=0 → 1+1 = 1; A=0,B=1 → 0+0 = 0",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 20
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-032",
+      "text": "৮ ভিত্তিক সংখ্যা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "০"
+        },
+        {
+          "label": "ii",
+          "text": "৭"
+        },
+        {
+          "label": "iii",
+          "text": "৮"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 21
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-033",
+      "text": "অ্যাসকিতে প্রতীক নির্দেশক কোড কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22
+      },
+      "tags": [
+        "character-code",
+        "ascii"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-034",
+      "text": "উপরিউক্ত যুক্তি বর্তনীটি কোন গেইট নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q023.png",
+      "group": "bank-ch3-sb23-q23",
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23
+      },
+      "tags": [
+        "switching-circuit"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-035",
+      "text": "NAND এর ক্ষেত্রে কখন আলো জ্বলবে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 0, B = 0"
+        },
+        {
+          "label": "ii",
+          "text": "A = 1, B = 0"
+        },
+        {
+          "label": "iii",
+          "text": "A = 1, B = 1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "A̅·̅B̅ = A̅+B̅: (i) A=0,B=0 → 1+1 = 1 → আলো জ্বলবে; (ii) A=1,B=0 → 0+1 = 1 → আলো জ্বলবে; (iii) A=1,B=1 → 0+0 = 0 → আলো জ্বলবে না।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [
+        "logic-gate",
+        "switching-circuit"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-036",
+      "text": "F = XY + X̅Y + X এর সরলীকৃত মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "XY",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X(Y+1)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X+Y",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "F = Y(X+X̅) + X = Y·1 + X = Y + X = X + Y",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-037",
+      "text": "কোন ডিজিটাল সার্কিটের ইনপুট এবং আউটপুট সংখ্যা সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাফ অ্যাডার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফুল অ্যাডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [
+        "digital-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-038",
+      "text": "(1001110)₂ এর সমকক্ষ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(78)₁₀"
+        },
+        {
+          "label": "ii",
+          "text": "(114)₈"
+        },
+        {
+          "label": "iii",
+          "text": "(4E)₁₆"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(1001110)₂ = (78)₁₀ = (116)₈ = (4E)₁₆",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 27
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-039",
+      "text": "দশমিক সংখ্যা 13 এর 2's Complement কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "00001100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11110101",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11110011",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11110100",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "(13)₁₀ = (00001101)₂; 1's complement = 11110010; +1 → 2's complement = 11110011",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 28
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-040",
+      "text": "কুড়িভিত্তিক সংখ্যা পদ্ধতির প্রচলন কোন সভ্যতার শুরু হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মায়ান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভারতীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবলিয়ান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 29
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-041",
+      "text": "A, B, C, D ইনপুটবিশিষ্ট ডিকোডারের আউটপুট সংখ্যা হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 30
+      },
+      "tags": [
+        "digital-device",
+        "decoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-042",
+      "text": "উদ্দীপকের সত্যক সারণি যে গেইট নির্দেশ করে তা হল—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q031.png",
+      "group": "bank-ch3-bb23-q31",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XNOR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 31
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-043",
+      "text": "উদ্দীপকে Y এর মান 0, 1, 1, 0 হলে যে গেইট নির্দেশ করবে তা হল—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q031.png",
+      "group": "bank-ch3-bb23-q31",
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch3-bank-q032-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch3-bank-q032-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch3-bank-q032-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch3-bank-q032-opt-d.png"
+        }
+      ],
+      "answer": "c",
+      "explanation": "আউটপুট 0, 1, 1, 0 হলে গেইটটি XOR গেইট নির্দেশ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 32
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-044",
+      "text": "(41)₈ এর সমকক্ষ মান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(100001)₂"
+        },
+        {
+          "label": "ii",
+          "text": "(20)₁₆"
+        },
+        {
+          "label": "iii",
+          "text": "(33)₁₀"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(41)₈ = (100001)₂ = (33)₁₀ = (21)₁₆",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 33
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-045",
+      "text": "Inverter হিসেবে কাজ করে কোন লজিক গেইট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-OR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 34
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-046",
+      "text": "উদ্দীপকের লজিক সার্কিটের আউটপুট সমীকরণ কোন গেইটের সমতুল্য?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q035.png",
+      "group": "bank-ch3-jb23-q35",
+      "options": [
+        {
+          "label": "a",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "সরলীকরণ: A̅·̅\\̅o̅v̅{̅A̅ + AB̅ + A̅B + BB̅} = A̅\\̅o̅v̅{̅B̅ + A̅B} = A̅ ⊕̅ B̅ = X-NOR গেইট।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 35
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-047",
+      "text": "উদ্দীপকে সার্কিটের ইনপুট A, B ও C হলে কখন X = 1 হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q035.png",
+      "group": "bank-ch3-jb23-q35",
+      "options": [
+        {
+          "label": "a",
+          "text": "A = 0, B = 0, C = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A = 0, B = 0, C = 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A = 0, B = 1, C = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A = 1, B = 0, C = 0",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "X-NOR গেইটে জোড় সংখ্যক ইনপুট 1 হলে আউটপুট 1 হবে। Option (a) এ ইনপুট 1 হবে শূন্য (0) টি, যা জোড় সংখ্যা; সুতরাং আউটপুট 1 হবে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 36
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-048",
+      "text": "কোন সংখ্যা পদ্ধতিতে সর্বমোট যতগুলো অংক ব্যবহার করা হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কোড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাইন বিট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 37
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-049",
+      "text": "(−293)₁₀ সংখ্যাটি রেজিস্টারে স্টোর করতে কমপক্ষে কত বিটের প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৪",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(293)₁₀ = (1 0010 0101)₂; 293 কে বাইনারিতে প্রকাশ করতে ৮ বিটের বেশি প্রয়োজন। চিহ্নসহ (−293) প্রকাশ করতে সাইনবিটসহ ৮ বিটের অধিক প্রয়োজন।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 38
+      },
+      "tags": [
+        "complement",
+        "register"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-050",
+      "text": "দুটি সংখ্যার পার্থক্য (1F)₁₆। ১ম সংখ্যাটি (58)₁₀ হলে ২য় সংখ্যাটি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(11011)₂",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(11111)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(110010)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(11010)₂",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "২য় সংখ্যা = ১ম সংখ্যা − পার্থক্য = (58)₁₀ − (1F)₁₆ = (58)₁₀ − (31)₁₀ = (27)₁₀ = (11011)₂",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 39
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-051",
+      "text": "উদ্দীপকের সংখ্যাটির সমকক্ষ দশমিক সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "শিক্ষক করিমকে জিজ্ঞেস করলেন, তোমার ক্লাস রোল কত? করিম উত্তর দিল 3D।",
+      "stem_image": null,
+      "group": "bank-ch3-cb23-q40",
+      "options": [
+        {
+          "label": "a",
+          "text": "61",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "71",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "81",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "91",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "(3D)₁₆ = (61)₁₀",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 40
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-052",
+      "text": "উদ্দীপকে করিমের রোলের সাথে (৫)₁₀ যোগ করলে সংখ্যাটি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "শিক্ষক করিমকে জিজ্ঞেস করলেন, তোমার ক্লাস রোল কত? করিম উত্তর দিল 3D।",
+      "stem_image": null,
+      "group": "bank-ch3-cb23-q40",
+      "options": [
+        {
+          "label": "a",
+          "text": "(২৮)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(৬৬)₁₀",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(১০০০০১১)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(২৪)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(61)₁₀ + (5)₁₀ = (66)₁₀",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 41
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-053",
+      "text": "(110110)₂ এর সমকক্ষ মান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(66)₈"
+        },
+        {
+          "label": "ii",
+          "text": "(54)₁₀"
+        },
+        {
+          "label": "iii",
+          "text": "(36)₁₆"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "(110110)₂ = (66)₈; (54)₁₀ = (36)₁₆",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 42
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-054",
+      "text": "২ এর পরিপূরক পদ্ধতিতে কোনটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যোগ করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিয়োগ করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভাগ করে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গুণ করে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "2 এর পরিপূরক ব্যবহার করে আমরা বিয়োগফল বের করতে পারলেও আমরা সবসময় যোগ ব্যবহার করে হিসাবগুলো করি।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 43
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-055",
+      "text": "মৌলিক লজিক গেট কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 44
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-056",
+      "text": "চিত্রের আউটপুট হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q045.png",
+      "group": "bank-ch3-cb23-q45",
+      "options": [
+        {
+          "label": "a",
+          "text": "AB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AB̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "আউটপুট = A̅·B",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 45
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-057",
+      "text": "এই সমীকরণটি সরল করতে হলে যে সূত্র ব্যবহার করতে হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A ⊕ B"
+        },
+        {
+          "label": "ii",
+          "text": "A̅B + AB̅"
+        },
+        {
+          "label": "iii",
+          "text": "A̅ ⊕̅ B̅"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q046.png",
+      "group": "bank-ch3-cb23-q46",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "পুরো রাশির উপর বার ডি-মরগ্যান সূত্রে ভেঙে পাওয়া যায়: (a̅·b) + (a·b̅) = a ⊕ b",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 46
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-058",
+      "text": "ASCII কোডে যান্ত্রিক নিয়ন্ত্রণের জন্য কতটি কোড ব্যবহৃত হয়।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৪",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 47
+      },
+      "tags": [
+        "character-code",
+        "ascii"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-059",
+      "text": "F এর সরলীকৃত মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q048.png",
+      "group": "bank-ch3-dib23-q48",
+      "options": [
+        {
+          "label": "a",
+          "text": "P ⊕ Q",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P̅ ⊕̅ Q̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "P + Q",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "P̅ + Q̅",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "F = P̅Q + PQ̅ = P ⊕ Q",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 48
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-060",
+      "text": "F এর সরলীকৃত মানকে মোট কয়টি মৌলিক গেইট দ্বারা বাস্তবায়ন সম্ভব?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q048.png",
+      "group": "bank-ch3-dib23-q48",
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 49
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-061",
+      "text": "(1010.1101)₂ + (101.101)₂ = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(10000.0111)₂",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(11011.0111)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(11010.0101)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(10001.0110)₂",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "(101.101)₂ = (101.1010)₂; 1010.1101 + 101.1010 = 10000.0111",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 50
+      },
+      "tags": [
+        "binary",
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-062",
+      "text": "গতি বেশি কিন্তু ধারণক্ষমতা কম; এ রকম মেমোরি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্যাশ লেভেল-১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভার্চুয়াল মেমোরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "র‍্যাম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 51
+      },
+      "tags": [
+        "register"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-063",
+      "text": "x = c̅+̅b̅(a + bc); x এর মান 1 হবে যখন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "a = 0, b = 0, c = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "a = 1, b = 0, c = 0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "a = 1, b = 1, c = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "a = 0, b = 1, c = 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "x = c̅+̅b̅(a+bc) = b̅c̅(a+bc) = ab̅c̅ + b̅bc̅c = ab̅c̅ ⇒ x(a,b,c) = x(1,0,0) = 1·1·1 = 1",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 52
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-064",
+      "text": "(AB)₁₆ এর সমতুল্য–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(10101011)₂"
+        },
+        {
+          "label": "ii",
+          "text": "(253)₁₀"
+        },
+        {
+          "label": "iii",
+          "text": "(73)₁₀"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 53
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপায় (ii) হলো (253)₁₀, কিন্তু বইয়ের সমাধানে (253)₈ লেখা আছে (সম্ভবত (ii) অক্টাল)। তাছাড়া (AB)₁₆ = (171)₁₀ — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch3-mcq-065",
+      "text": "(1000.11100)₂ − (101.01001)₂ = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0011.10011",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1010.10011",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1011.10011",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1011.11011",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 54
+      },
+      "tags": [
+        "binary",
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-066",
+      "text": "(100)₂ এবং (1A)₁₆ এর যোগফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1AA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1E",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "(100)₂ = (4)₁₆; (4)₁₆ + (1A)₁₆ = (1E)₁₆",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 55
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-067",
+      "text": "X এর মান হবে–",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q055.png",
+      "group": "bank-ch3-mb23-q56",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅ + B̅ + C̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A + B + C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A + BC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AB + C",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "X = A̅·̅B̅·̅C̅ = A̅ + B̅ + C̅ (ডি-মরগ্যানের উপপাদ্য)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 56
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-068",
+      "text": "A = 0, B = 1, C = 1 হলে আউটপুট কত?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q055.png",
+      "group": "bank-ch3-mb23-q56",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "A = 0, A̅ = 1; B = 1, B̅ = 0; C = 1, C̅ = 0; A̅ + B̅ + C̅ = 1 + 0 + 0 = 1",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 57
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-069",
+      "text": "পাঁচটি ইনপুটবিশিষ্ট ডিকোডারের আউটপুট লাইন কতটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৪",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 58
+      },
+      "tags": [
+        "digital-device",
+        "decoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-070",
+      "text": "(17)₈ এর পরের সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "14",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 59
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-071",
+      "text": "(1110.11)₂ এর সমকক্ষ হেক্সাডেসিমালের সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "E.A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "E.C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C.E",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "E.3",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 60
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-072",
+      "text": "NOR এর আউটপুট 0 (শূন্য) হবে যখন–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সবগুলো ইনপুটে 1"
+        },
+        {
+          "label": "ii",
+          "text": "সবগুলো ইনপুটে 0"
+        },
+        {
+          "label": "iii",
+          "text": "যেকোনো একটি ইনপুটে 1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 61
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-073",
+      "text": "Y এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q062.png",
+      "group": "bank-ch3-db19-q62",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅B̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̿B̿",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅+̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AB",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 62
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-074",
+      "text": "উদ্দীপকের বর্তনীটির আউটপুট Y = 1 পেতে হলে A ও B এর কত ইনপুট দিতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q062.png",
+      "group": "bank-ch3-db19-q62",
+      "options": [
+        {
+          "label": "a",
+          "text": "A = 0 ও B = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A = 0 ও B = 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A = 1 ও B = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A = 1 ও B = 1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 63
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-075",
+      "text": "নিচের কোনটি 16 বিটের কোড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ASCII",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BCD",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "EBCDIC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UNICODE",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 64
+      },
+      "tags": [
+        "character-code",
+        "unicode"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-076",
+      "text": "উদ্দীপকের F এর সমতুল্য লজিক গেইট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q065.png",
+      "group": "bank-ch3-rb19-q65",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XNOR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 65
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-077",
+      "text": "উদ্দীপকের G থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দুটি বিটের অবস্থা তুলনা করার জন্য"
+        },
+        {
+          "label": "ii",
+          "text": "হাফ অ্যাডার তৈরির ক্ষেত্রে"
+        },
+        {
+          "label": "iii",
+          "text": "কাউন্টার তৈরির ক্ষেত্রে"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q065.png",
+      "group": "bank-ch3-rb19-q65",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 66
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-078",
+      "text": "চিত্রের আউটপুট F এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q067.png",
+      "group": "bank-ch3-cb19-q67",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅B + AB̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B̅ + AB̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅B + A̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AB + A̅B̅",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "F = (A̅·B) + (A·B̅) [ডি-মরগ্যানের সূত্র]",
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 67
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-079",
+      "text": "উদ্দীপকের চিত্রে OR গেইটের পরিবর্তে AND গেইট ব্যবহার করলে F এর মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q067.png",
+      "group": "bank-ch3-cb19-q67",
+      "options": [
+        {
+          "label": "a",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "F = A̅·B·A·B̅ = 0",
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 68
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-080",
+      "text": "ক্লাসে শিক্ষক (1011.11)₂ ও (1101.10)₂ এর যোগফল নির্ণয় করতে বললেন। একজন শিক্ষার্থী (11011.11)₂ লিখল। সে কত বেশি লিখল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10.10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11.10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11.11",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "101.10",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "(1011.11)₂ + (1101.10)₂ = (11001.01)₂; (11011.11)₂ − (11001.01)₂ = (10.10)₂",
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 69
+      },
+      "tags": [
+        "binary",
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-081",
+      "text": "EFF এর পরের সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "F00",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "FF0",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 70
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-082",
+      "text": "P এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q071.png",
+      "group": "bank-ch3-sb19-q71",
+      "options": [
+        {
+          "label": "a",
+          "text": "A + B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅ + B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A + B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅ + B̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "P = A̅+̅B̅ + B = A̅·B̅ + B = (A̅+B)(B̅+B) = A̅ + B [ডি-মরগ্যানের উপপাদ্য]",
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 71
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-083",
+      "text": "উদ্দীপকের P = 0 যখন–",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q071.png",
+      "group": "bank-ch3-sb19-q71",
+      "options": [
+        {
+          "label": "a",
+          "text": "A = 0, B = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A = 0, B = 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A = 1, B = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A = 1, B = 1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 72
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-084",
+      "text": "কোনটি বুলিয়ান অ্যালজেব্রার মৌলিক উপপাদ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "a + 1 = a",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "a + a = a",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "a + 0 = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "a + a̅ = 0",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 73
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-085",
+      "text": "(11011.110111)₂ এর সমতুল্য হেক্সাডেসিমেল সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1B.37",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1B.DC",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "D8.DC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "D8.37",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 74
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-086",
+      "text": "F-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q075.png",
+      "group": "bank-ch3-bb19-q75",
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "F = A + A̅ = 1",
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 75
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-087",
+      "text": "(29)₁₀ সংখ্যাটির বাইনারি মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "11100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11011",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10111",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11101",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 76
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-088",
+      "text": "উদ্দীপকে বর্ণিত সংখ্যাটির হেক্সাডেসিমাল সংখ্যা হলো–",
+      "text_en": null,
+      "image": null,
+      "stem": "'Q' নির্বাচনী পরীক্ষায় ICT বিষয়ে (100)₈ নম্বর পেয়েছে।",
+      "stem_image": null,
+      "group": "bank-ch3-bb19-q77",
+      "options": [
+        {
+          "label": "a",
+          "text": "40",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 77
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-089",
+      "text": "উদ্দীপকে বর্ণিত সংখ্যাটির আগের সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "'Q' নির্বাচনী পরীক্ষায় ICT বিষয়ে (100)₈ নম্বর পেয়েছে।",
+      "stem_image": null,
+      "group": "bank-ch3-bb19-q77",
+      "options": [
+        {
+          "label": "a",
+          "text": "(55)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(64)₈",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(66)₈",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(77)₈",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 78
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-090",
+      "text": "Y = A̅·B + C বুলিয়ান সমীকরণ বাস্তবায়ন করতে মোট কয়টি মৌলিক গেইট প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 79
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-091",
+      "text": "কোন বর্তনীতে n সংখ্যক ইনপুট এবং 2ⁿ সংখ্যক আউটপুট থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডিকোডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 80
+      },
+      "tags": [
+        "digital-device",
+        "decoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-092",
+      "text": "উদ্দীপক বর্তনীর আউটপুটের সরলীকরণ মান কোন গেইটের সাথে সাদৃশ্যপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q081.png",
+      "group": "bank-ch3-jb19-q81",
+      "options": [
+        {
+          "label": "a",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XNOR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "সরলীকরণ করলে আউটপুট = A̅B + AB̅ = A ⊕ B",
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 81
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-093",
+      "text": "কোনটি ৮ বিটের কোড?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ASCII Code"
+        },
+        {
+          "label": "ii",
+          "text": "EBCDIC Code"
+        },
+        {
+          "label": "iii",
+          "text": "BCD code"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 83
+      },
+      "tags": [
+        "character-code"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-094",
+      "text": "উভয় ইনপুট 1 হলে আউটপুট 0 হয় কোন গেইটে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "NAND"
+        },
+        {
+          "label": "ii",
+          "text": "NOR"
+        },
+        {
+          "label": "iii",
+          "text": "XNOR"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 85
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-095",
+      "text": "(10)₁₆ এর পূর্বের মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "E",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "F",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 86
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-096",
+      "text": "F = R̅S + RS̅ সমীকরণটি কোন গেইট নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 87
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-097",
+      "text": "(A + B + C)₁₆ এর সমতুল্য মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(33)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(100001)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(ABC)₁₆",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(CBA)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 88
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-098",
+      "text": "x এর মান ১ হবে যখন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "P = 1, Q = 1, R = 0"
+        },
+        {
+          "label": "ii",
+          "text": "P = 0, Q = 1, R = 1"
+        },
+        {
+          "label": "iii",
+          "text": "P = 1, Q = 1, R = 1"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q089.png",
+      "group": "bank-ch3-cb19-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 89
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-099",
+      "text": "x এর সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q089.png",
+      "group": "bank-ch3-cb19-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "P̅QR + PQ̅R + PQR̅ + PQR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P̅Q̅R + PQ̅R̅ + P̅QR̅ + PQR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "P ⊕ Q ⊕ R",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "P̅ ⊕̅ Q̅ ⊕̅ R̅",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 90
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-100",
+      "text": "2BAD.8C কোন ধরনের সংখ্যা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দশমিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাইনারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অক্টাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেক্সাডেসিম্যাল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 91
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-101",
+      "text": "সত্যক সারণির লজিক গেইট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q092.png",
+      "group": "bank-ch3-dib19-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 92
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-102",
+      "text": "X কলামে '0' স্থলে '1' এবং '1' এর স্থলে '0' বসালে প্রাপ্ত গেইটটি হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q092.png",
+      "group": "bank-ch3-dib19-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch3-bank-q093-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch3-bank-q093-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch3-bank-q093-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch3-bank-q093-opt-d.png"
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 93
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-103",
+      "text": "4, 8, C অণুক্রমটির পরের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "D",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "F",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 94
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-104",
+      "text": "কোন গেইটের সকল ইনপুট 0 হলে আউটপুট 1 হবে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "NAND"
+        },
+        {
+          "label": "ii",
+          "text": "NOR"
+        },
+        {
+          "label": "iii",
+          "text": "X-NOR"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 96
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-105",
+      "text": "F এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q097.png",
+      "group": "bank-ch3-all18-q97",
+      "options": [
+        {
+          "label": "a",
+          "text": "AB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AB̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅B̅",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 97
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-106",
+      "text": "ইউনিকোডে মোট কতগুলো ভিন্ন অক্ষরকে কোডভুক্ত করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "256",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "65536",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 98
+      },
+      "tags": [
+        "character-code",
+        "unicode"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-107",
+      "text": "X-NOR এর স্থলে কোন গেইট বসালে আউটপুট 0 হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 99
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-108",
+      "text": "A ফলাফল হতে পারে যখন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A + A + A"
+        },
+        {
+          "label": "ii",
+          "text": "A · A"
+        },
+        {
+          "label": "iii",
+          "text": "A ⊕ A"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 100
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-109",
+      "text": "কোন লজিক গেইটের ইনপুট ও আউটপুট লাইন সমান থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 101
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-110",
+      "text": "F = A̅B̅.B̅C̅ এর সরলীকৃত মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AB.BC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ABC",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AB + AC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅B̅C̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 102
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (b) ABC; কিন্তু প্রশ্নের সমীকরণ সরল করলে এটি মেলে না (বারের বিন্যাস অস্পষ্ট হতে পারে) — প্রশ্ন ও উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch3-mcq-111",
+      "text": "প্যারিটি বিটযুক্ত কোড কত বিটের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 103
+      },
+      "tags": [
+        "character-code"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-112",
+      "text": "A + BC = (A + B)(A + C) উপপাদ্যটি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিনিময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনুবন্ধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মৌলিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিভাজন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 104
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-113",
+      "text": "দশমিক সংখ্যা 12 এর 2's complement কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "00001100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11111100",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11110011",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11110100",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "(12)₁₀ = 00001100; 1's complement = 11110011; +1 → 11110100",
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 105
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-114",
+      "text": "উদ্দীপকের বর্তনীটির Q-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q106.png",
+      "group": "bank-ch3-rb17-q106",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "M",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "M+N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 106
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-115",
+      "text": "উদ্দীপকের Q এর গেইটটি পরিবর্তে কোন গেইট ব্যবহার করলে বর্তনীর Q = 0 হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q106.png",
+      "group": "bank-ch3-rb17-q106",
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XNOR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 107
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-116",
+      "text": "যে যান্ত্রিক বর্তনী আলফা নিউমেরিক ক্যারেক্টারকে বাইনারি কোডে পরিণত করে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q106.png",
+      "group": "bank-ch3-rb17-q106",
+      "options": [
+        {
+          "label": "a",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিকোডার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 108
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-117",
+      "text": "1, 8, F ধারাটির পরবর্তী মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "22",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "এখানে (1)₁₆ + (7)₁₆ = (8)₁₆; (8)₁₆ + (7)₁₆ = (15)₁₀ বা (F)₁₆; অতএব (F)₁₆ + (7)₁₆ = (16)₁₆।",
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 109
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-118",
+      "text": "(100)₂ এবং (AA)₁₆ এর যোগফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1AA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AE",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 110
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-119",
+      "text": "মাইক্রো কম্পিউটারে সকল ইংরেজি বর্ণকে অন্তর্ভুক্ত করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ASCII দ্বারা"
+        },
+        {
+          "label": "ii",
+          "text": "EBCDIC দ্বারা"
+        },
+        {
+          "label": "iii",
+          "text": "Unicode দ্বারা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 111
+      },
+      "tags": [
+        "character-code"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-120",
+      "text": "এনকোডারের ইনপুট হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অক্টাল সংখ্যা"
+        },
+        {
+          "label": "ii",
+          "text": "দশমিক সংখ্যা"
+        },
+        {
+          "label": "iii",
+          "text": "হেক্সাডেসিমেল সংখ্যা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 112
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-121",
+      "text": "১৬ ইনপুট বিশিষ্ট এনকোডারের আউটপুট সংখ্যা কতটি হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 113
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-122",
+      "text": "বাংলা ভাষাকে কম্পিউটারে অন্তর্ভুক্ত করার জন্য বর্তমানে কোন ধরনের কোড ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BCD",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ASCII",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "EBCDIC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Unicode",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 114
+      },
+      "tags": [
+        "character-code",
+        "unicode"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-123",
+      "text": "A + BC = কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(A + B) + (AC)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(A + C) + (AB)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(A + B).(A + C)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(A + B) + (A + C)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 115
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-124",
+      "text": "যদি তিন ইনপুট OR গেটের আউটপুট 0 (শূন্য) করা প্রয়োজন হয় তাহলে কোনটি প্রয়োগ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সকল ইনপুট 0 (শূন্য) করতে হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সকল ইনপুট 1 করতে হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যেকোনো একটি ইনপুট 0 (শূন্য) করতে হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যেকোনো একটি ইনপুট 1 করতে হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 116
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-125",
+      "text": "কোনটি মৌলিক উপপাদ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A + 1 = A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A + 0 = A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A + A = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A + A = 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 117
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-126",
+      "text": "111 সংখ্যাটি হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাইনারি"
+        },
+        {
+          "label": "ii",
+          "text": "অক্টাল"
+        },
+        {
+          "label": "iii",
+          "text": "ডেসিম্যাল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 118
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-127",
+      "text": "B বর্তনীটি হলো–",
+      "text_en": null,
+      "image": null,
+      "stem": "A ও B দুটি বর্তনীর প্রথমটি দুটি সংখ্যা কম্পিউটারে বোধগম্যভাবে উপস্থাপন করে এবং অপরটি সংখ্যা দুটির গুণফল বের করতে সহায়তা করে।",
+      "stem_image": null,
+      "group": "bank-ch3-bb17-q119",
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাডার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 119
+      },
+      "tags": [
+        "digital-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-128",
+      "text": "A বর্তনীটি কোথায় যুক্ত থাকে?",
+      "text_en": null,
+      "image": null,
+      "stem": "A ও B দুটি বর্তনীর প্রথমটি দুটি সংখ্যা কম্পিউটারে বোধগম্যভাবে উপস্থাপন করে এবং অপরটি সংখ্যা দুটির গুণফল বের করতে সহায়তা করে।",
+      "stem_image": null,
+      "group": "bank-ch3-bb17-q119",
+      "options": [
+        {
+          "label": "a",
+          "text": "মনিটরে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কী বোর্ডে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রিন্টারে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্পীকারে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 120
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-129",
+      "text": "উদ্দীপকে উল্লিখিত সংখ্যাটির দশমিক সংখ্যা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "কম্পিউটার শিক্ষক সফিক স্যার বোর্ডে একটি সংখ্যা (৭৭)₈ লিখবেন।",
+      "stem_image": null,
+      "group": "bank-ch3-jb17-q121",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৬",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭৭",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 121
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-130",
+      "text": "উদ্দীপকের সংখ্যাটির পরবর্তী সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "কম্পিউটার শিক্ষক সফিক স্যার বোর্ডে একটি সংখ্যা (৭৭)₈ লিখবেন।",
+      "stem_image": null,
+      "group": "bank-ch3-jb17-q122",
+      "options": [
+        {
+          "label": "a",
+          "text": "(৭৮)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(১০০)₈",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(২০০)₈",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(৭৭৭)₈",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 122
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-131",
+      "text": "উদ্দীপকে যুক্ত বর্তনীটি কোন গেইট নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q123.png",
+      "group": "bank-ch3-jb17-q123",
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 123
+      },
+      "tags": [
+        "switching-circuit"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-132",
+      "text": "উদ্দীপকের চিত্রের গেইটের সাথে NOT Gate যুক্ত করলে কোন গেইট পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q123.png",
+      "group": "bank-ch3-jb17-q123",
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 124
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-133",
+      "text": "ভিত্তির উপর নির্ভর করে সংখ্যা পদ্ধতি কত প্রকার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 125
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-134",
+      "text": "সার্বজনীন গেইট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 126
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-135",
+      "text": "(37.125)₁₀ এর বাইনারি মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100101.01",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100101.001",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "101001.01",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "101001.001",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 127
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-136",
+      "text": "উদ্দীপকের বর্তনীর আউটপুটের সরলীকৃত মানের বর্তনী হতে পারে–",
+      "text_en": null,
+      "image": "assets/ch3-bank-q128-stmts.png",
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q128.png",
+      "group": "bank-ch3-cb17-q128",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "X = (A + B)·(A + B̅) = A + BB̅ = A + 0 = A",
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 128
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-137",
+      "text": "(1010)₂ এর সমতুল্য মান–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(10)₁₀"
+        },
+        {
+          "label": "ii",
+          "text": "(12)₈"
+        },
+        {
+          "label": "iii",
+          "text": "(14)₁₆"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 131
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-138",
+      "text": "কোনটি NAND গেইট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch3-bank-q132-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch3-bank-q132-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch3-bank-q132-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch3-bank-q132-opt-d.png"
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 132
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-139",
+      "text": "ASCII-8 কোডের মাধ্যমে কতটি অদ্বিতীয় চিহ্নকে নির্দিষ্ট করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১২৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২৫৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫১২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৫৫৩৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 133
+      },
+      "tags": [
+        "character-code",
+        "ascii"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-140",
+      "text": "উপাত্ত ও তথ্য সংরক্ষণের সাথে জড়িত–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফ্লিপ-ফ্লপ"
+        },
+        {
+          "label": "ii",
+          "text": "অ্যাডার"
+        },
+        {
+          "label": "iii",
+          "text": "রেজিস্টার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 134
+      },
+      "tags": [
+        "digital-device",
+        "register"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-141",
+      "text": "কামালের বয়সের সমকক্ষ সংখ্যা হলো–",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আতিক কামালকে বলল, \"তোমার বয়স কত?\" কামাল বলল যে তার বয়স (101101)₂।",
+      "stem_image": null,
+      "group": "bank-ch3-dib17-q136",
+      "options": [
+        {
+          "label": "a",
+          "text": "(25)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(35)₈",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(55)₈",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(65)₈",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "(101 101)₂ = (55)₈",
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 136
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-142",
+      "text": "দশ বছর পর কামালের বয়স বাইনারিতে কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আতিক কামালকে বলল, \"তোমার বয়স কত?\" কামাল বলল যে তার বয়স (101101)₂।",
+      "stem_image": null,
+      "group": "bank-ch3-dib17-q136",
+      "options": [
+        {
+          "label": "a",
+          "text": "(101011)₂",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(101110)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(101111)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(110111)₂",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 137
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-143",
+      "text": "উপরের চিত্রটি কোন গেইটের সমতুল্য?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q138.png",
+      "group": "bank-ch3-dib17-q138",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 138
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-144",
+      "text": "Y এর মান ১ হবে যদি–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 0, B = 1"
+        },
+        {
+          "label": "ii",
+          "text": "A = 0, B = 0"
+        },
+        {
+          "label": "iii",
+          "text": "A = 1, B = 0"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q138.png",
+      "group": "bank-ch3-dib17-q138",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 139
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-145",
+      "text": "F এর মান–",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q141.png",
+      "group": "bank-ch3-db16-q141",
+      "options": [
+        {
+          "label": "a",
+          "text": "B(C + A)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A(B + C)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C(A + B)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AC + B",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 141
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-146",
+      "text": "২ ও ৩ নং গেইটের কীরূপ পরিবর্তন করলে F এর মান শূন্য হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q141.png",
+      "group": "bank-ch3-db16-q141",
+      "options": [
+        {
+          "label": "a",
+          "text": "2 কে NAND এবং 3-কে NOR করলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 কে NOR এবং 3-কে AND করলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 কে OR এবং 3-কে NAND করলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 কে NAND এবং 3-কে NAND করলে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 142
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-147",
+      "text": "AND এবং NOT গেইট মিলে গেইট—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-OR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 143
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-148",
+      "text": "−5 এর 2 এর পরিপূরক মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1101",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1001",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1010",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1011",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 144
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-149",
+      "text": "(78)₁₀ এর BCD এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "01111001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "01111000",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "01101000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "01101100",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 145
+      },
+      "tags": [
+        "character-code",
+        "bcd"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-150",
+      "text": "সার্বজনীন গেইট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "OR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 146
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-151",
+      "text": "আলফা নিউমারিক ডেটা আদান প্রদানের জন্য ব্যবহৃত হয়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ASCII code"
+        },
+        {
+          "label": "ii",
+          "text": "EBCDIC code"
+        },
+        {
+          "label": "iii",
+          "text": "Unicode"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 147
+      },
+      "tags": [
+        "character-code"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-152",
+      "text": "ASCII-8 কোডে সংখ্যাসূচক বিট কতটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 148
+      },
+      "tags": [
+        "character-code",
+        "ascii"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-153",
+      "text": "নিচের চিত্রে আউটপুট হচ্ছে?",
+      "text_en": null,
+      "image": "assets/ch3-bank-q149.png",
+      "statements": [
+        {
+          "label": "i",
+          "text": "x̅+̅y̅"
+        },
+        {
+          "label": "ii",
+          "text": "x̅ + y̅"
+        },
+        {
+          "label": "iii",
+          "text": "x̅y̅"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 149
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-154",
+      "text": "উদ্দীপকটিতে OR গেইটটির স্থলে NOR Gate বসালে ফলাফলটি কোন গেইটটির সমান?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q150.png",
+      "group": "bank-ch3-rb16-q150",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 150
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-155",
+      "text": "ইউনিকোডের বিটের সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 151
+      },
+      "tags": [
+        "character-code",
+        "unicode"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) 32; একই বইয়ের ৬৪ নং প্রশ্নে ইউনিকোডকে 16 বিটের কোড ধরা হয়েছে — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch3-mcq-156",
+      "text": "সংখ্যা পদ্ধতিকে প্রধানত কয় ভাগে ভাগ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 152
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-157",
+      "text": "পজিশনাল সংখ্যা পদ্ধতিতে কোনো একটি সংখ্যার মান নির্ণয় করার জন্য দরকার–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সংখ্যাটিতে ব্যবহৃত অংকগুলোর নিজস্ব মান"
+        },
+        {
+          "label": "ii",
+          "text": "সংখ্যাটিতে ব্যবহৃত অংকগুলোর স্থানীয় মান বা ভিত্তি"
+        },
+        {
+          "label": "iii",
+          "text": "সংখ্যা পদ্ধতির বেজ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 153
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-158",
+      "text": "X-OR গেইট তৈরিতে ব্যবহৃত হয়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "OR Gate"
+        },
+        {
+          "label": "ii",
+          "text": "AND Gate"
+        },
+        {
+          "label": "iii",
+          "text": "NOT Gate"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 154
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-159",
+      "text": "F = ABC + ABC এর সরলীকৃত মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅+̅B̅+̅C̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B̅C̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ABC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A+B+C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 155
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-160",
+      "text": "(১২)₁₀ এর সমকক্ষ বাইনারি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(১১০১)₂",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(১১০০)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(১১১১)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(১০১০)₂",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 156
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-161",
+      "text": "উদ্দীপকের আউটপুট F এর সরলীকৃত মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q157-158-stem.png",
+      "group": "bank-ch3-cb16-q157",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅+̅B̅+̅C̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅ + B̅ + C̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ABC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅ + B̅+̅B̿",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 157
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-162",
+      "text": "উদ্দীপকের প্রথম গেইটের স্থলে দ্বিতীয় গেইট বসালে F এর সরলীকৃত মান নিচের কোন গেইটকে সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q157-158-stem.png",
+      "group": "bank-ch3-cb16-q157",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 158
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-163",
+      "text": "(100101.101011)₂ এর হেক্সাডেসিমেল মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "25.AC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45.53",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "37.53",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "94.AC",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 159
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-164",
+      "text": "(1F)₁₆ এর সাথে ১ যোগ করলে কত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(11F)₁₆",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(2F)₁₆",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(20)₁₆",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(21)₁₆",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 160
+      },
+      "tags": [
+        "number-system",
+        "hexadecimal"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-165",
+      "text": "উপরি-উক্ত বর্তনীর আউটপুট হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A+B"
+        },
+        {
+          "label": "ii",
+          "text": "A̅B + AB̅"
+        },
+        {
+          "label": "iii",
+          "text": "A ⊕ B"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q161.png",
+      "group": "bank-ch3-sb16-q161",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 161
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-166",
+      "text": "'ক' চিত্রের আউটপুটে যোগফল S এর সমীকরণ হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q162.png",
+      "group": "bank-ch3-sb16-q162",
+      "options": [
+        {
+          "label": "a",
+          "text": "S = M + N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "S = M ⊕ N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "S = M̅ ⊕̅ N̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "S = M̅ +̅ N̅",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 162
+      },
+      "tags": [
+        "digital-device",
+        "adder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-167",
+      "text": "'খ' চিত্রের আউটপুট ক্যারি C = 0 পেতে হলে ইনপুট M, N ও Cin এর মান হতে হবে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "M = 0, N = 1, Cin = 1"
+        },
+        {
+          "label": "ii",
+          "text": "M = 0, N = 0, Cin = 0"
+        },
+        {
+          "label": "iii",
+          "text": "M = 1, N = 0, Cin = 0"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q162.png",
+      "group": "bank-ch3-sb16-q162",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 163
+      },
+      "tags": [
+        "digital-device",
+        "adder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-168",
+      "text": "বাইনারি যোগে 1 + 0 + 1 = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "০১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১১",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 164
+      },
+      "tags": [
+        "binary"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) 11; কিন্তু বাইনারিতে 1 + 0 + 1 = (10)₂ (অপশন a) — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch3-mcq-169",
+      "text": "BCD কোড কত বিটের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 166
+      },
+      "tags": [
+        "character-code",
+        "bcd"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-170",
+      "text": "(−82)₁₀ সংখ্যাটি উপস্থাপনায় ব্যবহৃত গঠন হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রকৃত মান গঠন"
+        },
+        {
+          "label": "ii",
+          "text": "১-এর পরিপূরক গঠন"
+        },
+        {
+          "label": "iii",
+          "text": "২-এর পরিপূরক গঠন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 167
+      },
+      "tags": [
+        "complement"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-171",
+      "text": "কোন সার্কিটে সর্বোচ্চ ষোলটি ইনপুট থেকে চারটি আউটপুট পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডিকোডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 168
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-172",
+      "text": "আউটপুট F এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q169.png",
+      "group": "bank-ch3-bb16-q169",
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅+̅B̅+̅C̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A ⊕ B ⊕ C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A + B + C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅B̅C̅",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 169
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null,
+      "review_note": "চিত্রে X চিহ্নিত গেইটের আকৃতি AND গেইটের মতো দেখায়; তা হলে F = A̅+̅B̅+̅C̅ (অপশন a) হতো। ছাপা উত্তর (d) — চিত্র ও উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch3-mcq-173",
+      "text": "চিত্রে 'X' চিহ্নিত গেইট পরিবর্তন করে কোন গেইট বসালে আউটপুট ABC হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q169.png",
+      "group": "bank-ch3-bb16-q169",
+      "options": [
+        {
+          "label": "a",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XNOR",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 170
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-174",
+      "text": "মি: সুবীর একজন ছাত্রকে বয়স জিজ্ঞাসা করায় সে বলল, বাইনারিতে তার বয়স ১০০১০। তার এই সংখ্যার সাথে (১০১১)₂ যোগ করলে বাইনারিতে যোগফল কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১১০০১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১১০১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০০১১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০১১১",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "১০০১০ + ১০১১ = ১১১০১",
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 171
+      },
+      "tags": [
+        "binary",
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-175",
+      "text": "নিচের কোনটি মৌলিক gate?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-NOR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 172
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-176",
+      "text": "ডেসিম্যাল সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 173
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-177",
+      "text": "ডি-মরগ্যানের উপপাদ্য অনুযায়ী পাই-",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A̅B̅ = A̅.B̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅+̅B̅ = A̅ + B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̿+̅B̅ = A̅ + B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A̅+̅B̿ = A̅.B",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 174
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-178",
+      "text": "কোন বর্তনী B বর্ণকে ASCII-তে রূপান্তর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাডার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিকোডার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাউন্টার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 175
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-179",
+      "text": "১৬ লাইন Encoder-এর ক্ষেত্রে Output লাইন কয়টি হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 176
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-180",
+      "text": "(11011110.1)₂ এর হেক্সাডেসিমাল সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "DD.1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "DE.1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "DE.8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ED.8",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 177
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-181",
+      "text": "ডি-মরগ্যানের উপপাদ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A ⊕ B = A̅B + AB̅",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A̅B̅ = A̅ + B̅",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A̅ ⊕̅ B̅ = AB + A̅B̅",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A + AB = A",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 178
+      },
+      "tags": [
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-182",
+      "text": "Y = 1 পেতে হলে, A এবং B এর মান হবে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = 0, B = 0"
+        },
+        {
+          "label": "ii",
+          "text": "A = 0, B = 1"
+        },
+        {
+          "label": "iii",
+          "text": "A = 1, B = 0"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q179.png",
+      "group": "bank-ch3-cb16-q179",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 180
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-183",
+      "text": "MSB এর পূর্ণরূপ হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Most Suitable Bit",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Most Significant Bit",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Maximum Suitable",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Maximum Significant Bit",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 181
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-184",
+      "text": "অক্টাল সংখ্যা পদ্ধতিতে ১৭৭ এর পরের সংখ্যাটি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৯০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 182
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-185",
+      "text": "৭৬২ সংখ্যাটি হতে পারে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দশমিক"
+        },
+        {
+          "label": "ii",
+          "text": "অক্টাল"
+        },
+        {
+          "label": "iii",
+          "text": "হেক্সাডেসিমাল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 183
+      },
+      "tags": [
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-186",
+      "text": "উদ্দীপকে উল্লিখিত সংখ্যা সাথে (১০০১)₂ এর যোগফল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "শিক্ষক ছাত্রকে রোল নং জিজ্ঞাসা করল। ছাত্রটি বাইনারি পদ্ধতিতে রোল নং ১১০১ বলল।",
+      "stem_image": null,
+      "group": "bank-ch3-cb16-q184",
+      "options": [
+        {
+          "label": "a",
+          "text": "(০১১০০)₂",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(১০১১০)₂",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(১০০১০)₂",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(১১১১০)₂",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 184
+      },
+      "tags": [
+        "binary",
+        "number-system"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-187",
+      "text": "উদ্দীপকের রোল নং সমকক্ষ হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "(১৩)₁₀"
+        },
+        {
+          "label": "ii",
+          "text": "(১১)₁₆"
+        },
+        {
+          "label": "iii",
+          "text": "(১৫)₈"
+        }
+      ],
+      "stem": "শিক্ষক ছাত্রকে রোল নং জিজ্ঞাসা করল। ছাত্রটি বাইনারি পদ্ধতিতে রোল নং ১১০১ বলল।",
+      "stem_image": null,
+      "group": "bank-ch3-cb16-q184",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 185
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-188",
+      "text": "উদ্দীপকে কোন গেইটের আউটপুট দেয়া আছে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q186.png",
+      "group": "bank-ch3-cb16-q186",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-OR",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 186
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-189",
+      "text": "(BFE)₁₆ এর সমতুল্য অষ্টাল মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(5774)₈",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(5776)₈",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(5976)₈",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(101111111110)₈",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 187
+      },
+      "tags": [
+        "number-system",
+        "conversion"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-190",
+      "text": "NOR গেইটের আউটপুটকে NOT গেইটের মধ্যে দিয়ে প্রবেশ করালে কোন গেইট পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X-NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AND",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 188
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-191",
+      "text": "F = A + A̅B + A̅B̅ হলে F এর সরলীকৃত মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "B",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 189
+      },
+      "tags": [
+        "boolean",
+        "simplification"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-192",
+      "text": "কোন কোড দশমিক সংখ্যাকে বাইনারি সংখ্যায় রূপান্তর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ASCII",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "EBCDIC",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UNICODE",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "BCD",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 190
+      },
+      "tags": [
+        "character-code",
+        "bcd"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-193",
+      "text": "কোন সার্কিটের সাহায্যে ডেটাকে কম্পিউটারের বোধগম্য ভাষায় রূপান্তর করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রেজিস্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাউন্টার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এনকোডার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিকোডার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 191
+      },
+      "tags": [
+        "digital-device",
+        "encoder"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-194",
+      "text": "এখানে, P = ?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q193.png",
+      "group": "bank-ch3-dib16-q193",
+      "options": [
+        {
+          "label": "a",
+          "text": "X + Y + Z",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(X + Z)Y",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "XY + XZ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XYZ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 193
+      },
+      "tags": [
+        "logic-gate",
+        "boolean"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch3-mcq-195",
+      "text": "X = 0, Y = 1, Z = 1 হলে P = ? P' = ?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch3-bank-q193.png",
+      "group": "bank-ch3-dib16-q193",
+      "options": [
+        {
+          "label": "a",
+          "text": "P = 1, P' = 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P = 1, P' = 0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "P = 0, P' = 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "P = 0, P' = 0",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 194
+      },
+      "tags": [
+        "logic-gate"
+      ],
+      "difficulty": null
+    }
+  ]
+}

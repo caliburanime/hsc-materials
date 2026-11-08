@@ -112,7 +112,8 @@ def media_url(question_id, path):
 
 
 def _looks_like_code(s):
-    return bool(s) and ("{" in s or ";" in s) and "\n" in s
+    """Multi-line stems that are source code (C, HTML) are shown monospaced."""
+    return bool(s) and "\n" in s and ("{" in s or ";" in s or ("<" in s and ">" in s))
 
 
 def fetch(con, ids=None, reveal=False, ordered_ids=None, limit=None, offset=0, **f):

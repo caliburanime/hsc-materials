@@ -214,7 +214,7 @@ Each subject folder has a `meta.json` describing its structure.
     { "code": "MB", "name": "ময়মনসিংহ বোর্ড" },
     { "code": "MAD", "name": "মাদ্রাসা বোর্ড" }
   ],
-  "years_available": ["2025", "2026"]
+  "years_available": ["2016", "2017", "2018", "2019", "2023", "2025", "2026"]
 }
 ```
 
@@ -294,6 +294,10 @@ Each subject folder has a `meta.json` describing its structure.
 > - `stem` / `stem_image` — shared উদ্দীপক for grouped questions (e.g. "answer Q19 and Q20").
 >   Each question in the group **carries its own copy**; `group` (e.g. `"hse26-q19-20"`) links them.
 >   Code stems keep their newlines and are shown monospaced.
+> - Chapter-wise question-bank PDFs (mixed boards/years, e.g. `ICT/mcq/CHP-N-*.pdf`): `source.board`/`year`
+>   hold the *first* board tag printed after the question (e.g. `[DB, SB, MB'23]` → DB 2023); `qno` is the
+>   number in that booklet chapter, `group` ids look like `bank-ch3-db23-q2`. Questions repeated across boards
+>   are stored once. Items with no correct option in the printed key were not imported.
 > - `source.qno` (question number in the scan it came from; an audit pointer only).
 >   The paper *set* (ক/খ/গ/ঘ) is deliberately **not** stored: all sets contain the same questions, just shuffled.
 >   `source.board` may be `"ALL"` for the 2026 paper, which is identical for every board.

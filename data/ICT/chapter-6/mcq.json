@@ -1,0 +1,173 @@
+{
+  "subject": "ict",
+  "chapter": 6,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch6-mcq-001",
+      "text": "Result টেবিলের 'ID' ফিল্ডটি কোন ধরনের কী?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch6-mcq-001-stem.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাইমারী কী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফরেন কী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কম্পোজিট কী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্যান্ডিডেট কী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7
+      },
+      "tags": [
+        "database",
+        "key"
+      ],
+      "difficulty": null,
+      "group": "hse26-q07-08"
+    },
+    {
+      "id": "ict-ch6-mcq-002",
+      "text": "উদ্দীপকের টেবিল দুটির মধ্যে বিদ্যমান রিলেশনশিপের ধরন কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch6-mcq-001-stem.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "One to one",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "One to many",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Many to one",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Many to many",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8
+      },
+      "tags": [
+        "database",
+        "relationship"
+      ],
+      "difficulty": null,
+      "group": "hse26-q07-08"
+    },
+    {
+      "id": "ict-ch6-mcq-003",
+      "text": "কোন কমান্ডটি টেবিল থেকে সব ডেটা নেয়ার জন্য ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "SELECT ALL",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "SELECT ALL *",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "SELECT *",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "SELECT **",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14
+      },
+      "tags": [
+        "database",
+        "sql"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch6-mcq-004",
+      "text": "Student টেবিল থেকে Class Five এবং Morning Section এর শিক্ষার্থীদের তথ্য পাওয়ার কুয়েরী কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Select * From Student Where Class = 5 OR Section = 'morning';",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Select * From Student Where Class = 5 AND Section = 'morning';",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Select * From Student Where Class = '5' OR Section = morning;",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Select * From Student Where Class = '5' AND Section = morning;",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15
+      },
+      "tags": [
+        "database",
+        "sql"
+      ],
+      "difficulty": null
+    }
+  ]
+}

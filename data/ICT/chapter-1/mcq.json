@@ -1,0 +1,5606 @@
+{
+  "subject": "ict",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch1-mcq-001",
+      "text": "মেশিন লার্নিং ব্যবহার করে তৈরিকৃত NLP সফটওয়্যার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Microsoft Azure",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Microsoft Copilot",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Microsoft Bard",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Microsoft Hub",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9
+      },
+      "tags": [
+        "ai",
+        "nlp"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-002",
+      "text": "শারীরবৃত্তীয় বায়োমেট্রিক পদ্ধতি —",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফিঙ্গার প্রিন্ট"
+        },
+        {
+          "label": "ii",
+          "text": "কি-স্ট্রোক"
+        },
+        {
+          "label": "iii",
+          "text": "ডিএনএ পর্যবেক্ষণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-003",
+      "text": "ন্যানোটেকনোলজির কোন পদ্ধতিতে ক্ষুদ্র পরমাণু থেকে বড় কাঠামো তৈরি করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টপ-ডাউন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টপ-আপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বটম-ডাউন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বটম-আপ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-004",
+      "text": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাশ্রয়ী ও সহজলভ্যতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লাইসেন্স ফি লাগে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তথ্যের গোপনীয়তা বজায় থাকে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-005",
+      "text": "জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিনোম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউক্লিয়াস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রোমোজোম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12
+      },
+      "tags": [
+        "bioinformatics",
+        "genome"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-006",
+      "text": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 13
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-007",
+      "text": "হার্ডওয়্যার ও সফটওয়্যারের সমন্বয়ে চিত্রায়নকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভার্চ্যুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃত্রিম বুদ্ধিমত্তা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-008",
+      "text": "মিঃ রাজিবের যন্ত্রটি ব্যবহৃত হয় কোথায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ রাজিবের নিকট এমন একটি মানুষের ন্যায় যন্ত্র রয়েছে যার সিদ্ধান্ত নেওয়ার ক্ষমতা, হাঁটা-চলা এবং স্পর্শানুভূতি রয়েছে। তিনি টিউমার অপারেশনে ক্রায়োজনিক এজেন্ট ব্যবহার করে চিকিৎসা গ্রহণ করেন।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জটিল সার্জারি চিকিৎসায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যক্তির স্বাক্ষর শনাক্তকরণে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নতুন জাতের বীজ উৎপাদনে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টেনিস বলের আকৃতি তৈরিতে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null,
+      "group": "hse25-q24-25"
+    },
+    {
+      "id": "ict-ch1-mcq-009",
+      "text": "মিঃ রাজিব উক্ত পদ্ধতিতে চিকিৎসা গ্রহণের কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ রাজিবের নিকট এমন একটি মানুষের ন্যায় যন্ত্র রয়েছে যার সিদ্ধান্ত নেওয়ার ক্ষমতা, হাঁটা-চলা এবং স্পর্শানুভূতি রয়েছে। তিনি টিউমার অপারেশনে ক্রায়োজনিক এজেন্ট ব্যবহার করে চিকিৎসা গ্রহণ করেন।",
+      "stem_image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তুলনামূলক ব্যয় কম"
+        },
+        {
+          "label": "ii",
+          "text": "কাটা ছেঁড়ার প্রয়োজন নেই"
+        },
+        {
+          "label": "iii",
+          "text": "দীর্ঘ মেয়াদি কার্যকারিতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null,
+      "group": "hse25-q24-25"
+    },
+    {
+      "id": "ict-ch1-mcq-010",
+      "text": "টেলিপ্রেজেন্সের প্রয়োগক্ষেত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্টিফিসিয়াল ইন্টেলিজেন্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-011",
+      "text": "বায়োইনফরমেটিক্স ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডিএনএ ম্যাপিং"
+        },
+        {
+          "label": "ii",
+          "text": "জিন ফাইন্ডিং"
+        },
+        {
+          "label": "iii",
+          "text": "মেশিন লার্নিং"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-012",
+      "text": "বৈশিষ্ট্য অনুযায়ী জীবকে শনাক্তকরণের প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-013",
+      "text": "ন্যানোপার্টিকেলের আকৃতি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 থেকে 100nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 থেকে 200nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 থেকে 300nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 থেকে 400nm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-014",
+      "text": "কোন তাপমাত্রায় কোষে অক্সিজেন সরবরাহ বন্ধ হয়ে যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−41°C থেকে −196°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−31°C থেকে −186°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−21°C থেকে −176°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−0°C থেকে −100°C",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-015",
+      "text": "CERN কোথায় অবস্থিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইতালি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আমেরিকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইংল্যান্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুইজারল্যান্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-016",
+      "text": "মেশিন লার্নিং অ্যাপ্লিকেশনে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "C++",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Algol",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Python",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Fortran",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-017",
+      "text": "লাইভ-ক্লাসে সরাসরি শিক্ষার্থীদের পাঠদান করা যায় কোনটির মাধ্যমে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "WebEx",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Google",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Facebook",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Yahoo",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "NCTB বই এর পৃষ্ঠা ৫; Google Meet, WebEx, Facebook messenger কিন্তু Google ও Facebook নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-018",
+      "text": "উদ্দীপকের কক্ষে প্রবেশে ব্যবহৃত প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "প্রতাপ একটি প্রতিষ্ঠানের একটি কক্ষে আঙুলের ছাপ দিয়ে প্রবেশ করে এবং সেখানে কার ড্রাইভিং প্রশিক্ষণ নেয়।",
+      "stem_image": null,
+      "group": "bank-ch1-rb23-q9",
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-019",
+      "text": "প্রতাপের প্রশিক্ষণে ব্যবহৃত প্রযুক্তি ভূমিকা রাখে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শিক্ষা ও গবেষণায়"
+        },
+        {
+          "label": "ii",
+          "text": "নিরাপত্তায়"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যবসা-বাণিজ্যে"
+        }
+      ],
+      "stem": "প্রতাপ একটি প্রতিষ্ঠানের একটি কক্ষে আঙুলের ছাপ দিয়ে প্রবেশ করে এবং সেখানে কার ড্রাইভিং প্রশিক্ষণ নেয়।",
+      "stem_image": null,
+      "group": "bank-ch1-rb23-q9",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "NCTB বই এর পৃষ্ঠা ১২-১৩; ভার্চুয়াল রিয়েলিটির ব্যবহার।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-020",
+      "text": "রাইয়ানার প্রশিক্ষণ গ্রহণের পদ্ধতিটি হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "রাইয়ানা এমবিবিএস পাস করে মেডিকেল বিশ্ববিদ্যালয়ে উচ্চতর ডিগ্রির জন্য ভর্তি হয়। সেখানে সে কৃত্রিম পরিবেশে কোনো রোগী ছাড়াই সার্জারি প্রশিক্ষণ গ্রহণ করে।",
+      "stem_image": null,
+      "group": "bank-ch1-rb23-q11",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-021",
+      "text": "উক্ত পদ্ধতি বাস্তবায়নে প্রয়োজন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম্পিউটার সিমুলেশন"
+        },
+        {
+          "label": "ii",
+          "text": "ত্রি-মাত্রিক ইমেজ"
+        },
+        {
+          "label": "iii",
+          "text": "অ্যাকুয়েটর"
+        }
+      ],
+      "stem": "রাইয়ানা এমবিবিএস পাস করে মেডিকেল বিশ্ববিদ্যালয়ে উচ্চতর ডিগ্রির জন্য ভর্তি হয়। সেখানে সে কৃত্রিম পরিবেশে কোনো রোগী ছাড়াই সার্জারি প্রশিক্ষণ গ্রহণ করে।",
+      "stem_image": null,
+      "group": "bank-ch1-rb23-q11",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 12
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-022",
+      "text": "ন্যানো প্রযুক্তি কয়টি পদ্ধতিতে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫টি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-023",
+      "text": "বঙ্গবন্ধু স্যাটেলাইট-১ এর সুবিধা ভোগ করবে কারা?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিরক্ষা বাহিনী"
+        },
+        {
+          "label": "ii",
+          "text": "অনলাইন ব্যাংকিং"
+        },
+        {
+          "label": "iii",
+          "text": "টেলিমেডিসিন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 14
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-024",
+      "text": "কোনটি বায়োইনফরমেটিক্সের উপাদান নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রসায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডেটাবেস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোগ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গণিত ও পরিসংখ্যান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-025",
+      "text": "AI এর ক্ষেত্রগুলো হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মেশিন লার্নিং"
+        },
+        {
+          "label": "ii",
+          "text": "রোবটিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "ওয়ার্ড প্রসেসিং"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-026",
+      "text": "অনাকাঙ্ক্ষিত বা অবাঞ্ছিত ই-মেইল বা মেসেজ পাঠানোকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্প্যামিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফিশিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হ্যাকিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভাইরাস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-027",
+      "text": "ক্যাপচার, এক্সট্রাকশন, কমপারিজন ও ম্যাচিং কোন প্রযুক্তির ক্ষেত্রে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃত্রিম বুদ্ধিমত্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-028",
+      "text": "মেশিন লার্নিং অ্যাপ্লিকেশন তৈরিতে কোন প্রোগ্রামিং ভাষা ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Python",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Java",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Algol",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-029",
+      "text": "ভার্চুয়াল রিয়েলিটিতে ব্যবহৃত HMD কোনটিকে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশেষ চশমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হ্যান্ড গ্লাভস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বডি স্যুট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রিয়েলিটি ইঞ্জিন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-030",
+      "text": "সানস্ক্রিন ও ময়েশ্চারাইজার তৈরিতে ব্যবহৃত প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-031",
+      "text": "মিঃ 'X' গবেষণায় কোন প্রযুক্তি ব্যবহার করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ 'X' তুলার উন্নত জাত উদ্ভাবনে গবেষণা করেন। তিনি খরা সহিষ্ণু, অধিক ফলনশীল ও আগাম জাতের তুলা উদ্ভাবনে সাফল্য লাভ করেন।",
+      "stem_image": null,
+      "group": "bank-ch1-bb23-q22",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-032",
+      "text": "মিঃ 'X' এর ব্যবহৃত প্রযুক্তির প্রভাবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রোগ প্রতিরোধ ক্ষমতা হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "জীববৈচিত্র্যে পরিবর্তন সাধন হবে"
+        },
+        {
+          "label": "iii",
+          "text": "জীববিধ্বংসী ভাইরাসের উদ্ভব হতে পারে"
+        }
+      ],
+      "stem": "মিঃ 'X' তুলার উন্নত জাত উদ্ভাবনে গবেষণা করেন। তিনি খরা সহিষ্ণু, অধিক ফলনশীল ও আগাম জাতের তুলা উদ্ভাবনে সাফল্য লাভ করেন।",
+      "stem_image": null,
+      "group": "bank-ch1-bb23-q22",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-033",
+      "text": "কৃত্রিম বুদ্ধিমত্তার প্রয়োগক্ষেত্র হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কৃষি"
+        },
+        {
+          "label": "ii",
+          "text": "ই-কমার্স"
+        },
+        {
+          "label": "iii",
+          "text": "যুদ্ধক্ষেত্র"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-034",
+      "text": "প্রোটিনের সিকুয়েন্স তৈরির প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-035",
+      "text": "Top down পদ্ধতি ব্যবহৃত হয় কোনটিতে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-036",
+      "text": "ক্রায়োসার্জারি চিকিৎসা পদ্ধতিতে নিম্নের কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রায়োজেনিক এজেন্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অস্ত্রোপচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেডিও থেরাপি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কেমোথেরাপি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 27
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-037",
+      "text": "DNA পর্যবেক্ষণে মানব শরীরের কোন উপাদান ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুখমণ্ডল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কণ্ঠস্বর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেটিনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রক্ত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 28
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-038",
+      "text": "উদ্দীপকের যন্ত্রটির নিয়ন্ত্রণ মাধ্যম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "আরিশার বাবা গৃহস্থালীর কাজে সহায়তা করতে সক্ষম একটি যন্ত্র তৈরি করেন। আরিশা দেখল যন্ত্রটি গৃহকর্মীর মতো ঘর পরিষ্কার, রান্নাসহ নানা ধরনের কাজে সহায়তা করে।",
+      "stem_image": null,
+      "group": "bank-ch1-jb23-q29",
+      "options": [
+        {
+          "label": "a",
+          "text": "পাওয়ার সিস্টেম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৈদ্যুতিক মোটর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রসেসর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইলেকট্রিক সার্কিট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "সঠিক উত্তর \"কম্পিউটার প্রোগ্রামিং\" যেহেতু এটি অপশনে নেই, চারটি অপশনের মধ্যে অধিকতর সঠিক অপশন নং (c)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 29
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null,
+      "review_note": "বইয়ের সমাধান অনুযায়ী প্রকৃত সঠিক উত্তর \"কম্পিউটার প্রোগ্রামিং\", যা অপশনে নেই; (c) চারটির মধ্যে নিকটতম হিসেবে ধরা হয়েছে।"
+    },
+    {
+      "id": "ict-ch1-mcq-039",
+      "text": "কোন কোন ক্ষেত্রে যন্ত্রটির ব্যবহার রয়েছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সামরিক ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "চিকিৎসা কাজে"
+        },
+        {
+          "label": "iii",
+          "text": "ম্যানুফ্যাকচারিং"
+        }
+      ],
+      "stem": "আরিশার বাবা গৃহস্থালীর কাজে সহায়তা করতে সক্ষম একটি যন্ত্র তৈরি করেন। আরিশা দেখল যন্ত্রটি গৃহকর্মীর মতো ঘর পরিষ্কার, রান্নাসহ নানা ধরনের কাজে সহায়তা করে।",
+      "stem_image": null,
+      "group": "bank-ch1-jb23-q29",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 30
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-040",
+      "text": "শীতল তাপমাত্রায় অস্বাভাবিক রোগাক্রান্ত টিস্যু ধ্বংস করার চিকিৎসা পদ্ধতিকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রায়োবলেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রায়োপ্রব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রায়োজেনিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 31
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-041",
+      "text": "কামাল যন্ত্রটিকে কোন প্রযুক্তি ব্যবহার করে তৈরি করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "কম্পিউটার বিজ্ঞানের শিক্ষার্থী কামাল একটি যন্ত্র তৈরি করে। যেটি উঁচু নিচু স্থানে চলাফেরা করতে পারে এবং ভিডিও ধারণ করে অন্যদের নিকট পাঠাতে পারে।",
+      "stem_image": null,
+      "group": "bank-ch1-cb23-q32",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 32
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-042",
+      "text": "কামালের যন্ত্রটি ব্যবহার করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চিকিৎসা ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "গৃহব্যবস্থাপনায়"
+        },
+        {
+          "label": "iii",
+          "text": "শিল্প কারখানায়"
+        }
+      ],
+      "stem": "কম্পিউটার বিজ্ঞানের শিক্ষার্থী কামাল একটি যন্ত্র তৈরি করে। যেটি উঁচু নিচু স্থানে চলাফেরা করতে পারে এবং ভিডিও ধারণ করে অন্যদের নিকট পাঠাতে পারে।",
+      "stem_image": null,
+      "group": "bank-ch1-cb23-q32",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 33
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-043",
+      "text": "আচরণগত বৈশিষ্ট্যের বায়োমেট্রিক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হাতে করা স্বাক্ষর যাচাইকরণ"
+        },
+        {
+          "label": "ii",
+          "text": "DNA পর্যবেক্ষণ"
+        },
+        {
+          "label": "iii",
+          "text": "কণ্ঠস্বর যাচাইকরণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "i ও iii আচরণগত, ii শারীরবৃত্তীয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 34
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-044",
+      "text": "রোবট গঠনে কয়টি নির্দিষ্ট বিশেষত্ব রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 35
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-045",
+      "text": "কৃত্রিম বুদ্ধিমত্তা প্রয়োগের ক্ষেত্রে যে সকল প্রোগ্রামিং ভাষা ব্যবহার করা হয় তা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "MATLAB"
+        },
+        {
+          "label": "ii",
+          "text": "SHRDLU"
+        },
+        {
+          "label": "iii",
+          "text": "CSS"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "CSS একটি Web Designing Language, AI প্রয়োগে এর ভূমিকা নেই।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 36
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-046",
+      "text": "সেলিম মিয়া কোন প্রযুক্তি ব্যবহার করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "সেলিম মিয়া কৃষি বিশ্ববিদ্যালয়ের শিক্ষার্থী। সে এক ধরনের প্রযুক্তি ব্যবহার করে জমিতে উচ্চ ফলনশীল হাইব্রিড জাতের ফসল উৎপাদন করেছেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib23-q37",
+      "options": [
+        {
+          "label": "a",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়ো ইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োমেট্রিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "উচ্চ ফলনশীল জাত উদ্ভাবনের প্রযুক্তি জিনপ্রকৌশল।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 37
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-047",
+      "text": "উদ্দীপকে সেলিম মিয়ার ব্যবহৃত প্রযুক্তিটির লক্ষ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফসল উৎপাদন বৃদ্ধি করা"
+        },
+        {
+          "label": "ii",
+          "text": "রোগ প্রতিরোধ ক্ষমতা হ্রাস করা"
+        },
+        {
+          "label": "iii",
+          "text": "আগাছা সহিষ্ণু করা"
+        }
+      ],
+      "stem": "সেলিম মিয়া কৃষি বিশ্ববিদ্যালয়ের শিক্ষার্থী। সে এক ধরনের প্রযুক্তি ব্যবহার করে জমিতে উচ্চ ফলনশীল হাইব্রিড জাতের ফসল উৎপাদন করেছেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib23-q37",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "জিন প্রযুক্তি রোগ প্রতিরোধ ক্ষমতা হ্রাসের লক্ষ্যে নয়, বৃদ্ধির লক্ষ্যে কাজ করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 38
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-048",
+      "text": "বিভিন্ন জটিল রোগের কারণ আবিষ্কারে কোন প্রযুক্তি কাজ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 39
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-049",
+      "text": "বায়োইনফরমেটিক্সের ব্যবহারের ক্ষেত্রগুলো হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জৈব প্রযুক্তি"
+        },
+        {
+          "label": "ii",
+          "text": "জীবাণু অস্ত্র তৈরি"
+        },
+        {
+          "label": "iii",
+          "text": "মহাকাশ গবেষণা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 40
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-050",
+      "text": "ক্রায়োসার্জারিতে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তরল হাইড্রোজেন"
+        },
+        {
+          "label": "ii",
+          "text": "আর্গন গ্যাস"
+        },
+        {
+          "label": "iii",
+          "text": "হিলিয়াম গ্যাস"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 41
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-051",
+      "text": "কাজের প্রয়োজনে রোবটকে কত ডিগ্রি কোণ পর্যন্ত ঘুরানো যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯০°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮০°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৯০°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৬০°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 42
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-052",
+      "text": "দুর্ঘটনায় নিহত যাত্রীদের শনাক্তকরণের জন্য ব্যবহৃত প্রযুক্তিটি হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. 'ক' ফ্লাইট সিমুলেটরের সাহায্যে বিমান চালনার প্রশিক্ষণ নেন। প্রশিক্ষণ শেষে যাত্রীবাহী বিমান চালনার সময় যান্ত্রিক ত্রুটির কারণে তার বিমানটি বিধ্বস্ত হয় এবং সকল যাত্রীর দেহ সম্পূর্ণরূপে আগুনে পুড়ে যায়।",
+      "stem_image": null,
+      "group": "bank-ch1-rb19-q43",
+      "options": [
+        {
+          "label": "a",
+          "text": "Finger Print",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Hand Geometry",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Retina Scan",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "DNA Analysis",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 43
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-053",
+      "text": "মি. 'ক' এর প্রশিক্ষণে ব্যবহৃত প্রযুক্তিটি ব্যবহৃত হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চিকিৎসাবিদ্যার শিক্ষার্থীদেরকে হৃৎপিণ্ডের কার্যকারিতা বুঝানোর ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রকৌশল বিদ্যার শিক্ষার্থীদেরকে ঝুঁকিপূর্ণ কাজের প্রশিক্ষণ প্রদানে"
+        },
+        {
+          "label": "iii",
+          "text": "পুলিশ বাহিনীকে ট্রাফিক ব্যবস্থাপনার প্রশিক্ষণের ক্ষেত্রে"
+        }
+      ],
+      "stem": "মি. 'ক' ফ্লাইট সিমুলেটরের সাহায্যে বিমান চালনার প্রশিক্ষণ নেন। প্রশিক্ষণ শেষে যাত্রীবাহী বিমান চালনার সময় যান্ত্রিক ত্রুটির কারণে তার বিমানটি বিধ্বস্ত হয় এবং সকল যাত্রীর দেহ সম্পূর্ণরূপে আগুনে পুড়ে যায়।",
+      "stem_image": null,
+      "group": "bank-ch1-rb19-q43",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 44
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-054",
+      "text": "জীব সংক্রান্ত তথ্য ব্যবস্থাপনার কাজে কম্পিউটার প্রযুক্তি প্রয়োগ হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 45
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-055",
+      "text": "কৃত্রিম বুদ্ধিমত্তার ব্যবহারিক ক্ষেত্রসমূহ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এক্সপার্ট সিস্টেম"
+        },
+        {
+          "label": "ii",
+          "text": "ফাজি লজিক"
+        },
+        {
+          "label": "iii",
+          "text": "লার্নিং সিস্টেম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 46
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-056",
+      "text": "কম্পিউটার ইথিকস এর নির্দেশনা কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৪",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 47
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-057",
+      "text": "মানুষের চিন্তা ভাবনাকে যন্ত্রের মাধ্যমে প্রকাশ করার প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃত্রিম বুদ্ধিমত্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 48
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-058",
+      "text": "আচরণগত বৈশিষ্ট্যের বায়োমেট্রিক্স হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফেইস রিকোগনিশন"
+        },
+        {
+          "label": "ii",
+          "text": "ভয়েস রিকোগনিশন"
+        },
+        {
+          "label": "iii",
+          "text": "টাইপিং কী স্ট্রোক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 49
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-059",
+      "text": "দশ ন্যানোমিটার = কত মিটার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10⁻¹¹",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10⁻¹⁰",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10⁻⁹",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10⁻⁸",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 50
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-060",
+      "text": "কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হার্ডওয়্যার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সফটওয়্যার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইন্টারনেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মানুষের জ্ঞান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 51
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-061",
+      "text": "জেনেটিক ইঞ্জিনিয়ারিং এর জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Jack Williamson",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "E. Coli",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Paul Berg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Stanley Cohen",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 52
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-062",
+      "text": "উদ্দীপকের গবেষণার সহায়ক প্রযুক্তি হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট গবেষণা করে উপকূলীয় অঞ্চলে চাষযোগ্য নতুন জাতের ধান উদ্ভাবন করেছে যার ফলে উপকূলীয় অঞ্চলে ধানের উৎপাদন বহুগুণে বেড়ে গেছে।",
+      "stem_image": null,
+      "group": "bank-ch1-bb19-q53",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 53
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-063",
+      "text": "প্রতিষ্ঠানটির সাফল্যে দেশে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অর্থনৈতিক উন্নয়ন হবে"
+        },
+        {
+          "label": "ii",
+          "text": "জীববৈচিত্র্য সৃষ্টির পথ সুগম হবে"
+        },
+        {
+          "label": "iii",
+          "text": "ধানের দেশীয় প্রজাতি বিলুপ্ত হবে"
+        }
+      ],
+      "stem": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট গবেষণা করে উপকূলীয় অঞ্চলে চাষযোগ্য নতুন জাতের ধান উদ্ভাবন করেছে যার ফলে উপকূলীয় অঞ্চলে ধানের উৎপাদন বহুগুণে বেড়ে গেছে।",
+      "stem_image": null,
+      "group": "bank-ch1-bb19-q53",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 54
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-064",
+      "text": "ক্রায়োসার্জারিতে ব্যবহৃত প্রধান উপাদান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অক্সিজেন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নাইট্রোজেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাইড্রোজেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিথেন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 55
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-065",
+      "text": "ভার্চুয়াল রিয়েলিটির প্রভাব রয়েছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সামরিক ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রশিক্ষণে"
+        },
+        {
+          "label": "iii",
+          "text": "শিক্ষা ক্ষেত্রে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 56
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-066",
+      "text": "প্রত্যন্ত অঞ্চলে চিকিৎসা দেয়ার প্রক্রিয়াটি হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভিডিও কনফারেন্স"
+        },
+        {
+          "label": "ii",
+          "text": "টেলি-মেডিসিন"
+        },
+        {
+          "label": "iii",
+          "text": "ই-মেইল"
+        }
+      ],
+      "stem": "ডা. রাজ শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধু আঁচিলের অপারেশনে নিম্ন তাপমাত্রা প্রয়োগ করে চিকিৎসা করেন এবং তিনি দ্রুত সুস্থ হয়ে বাড়ি ফিরে যান।",
+      "stem_image": null,
+      "group": "bank-ch1-jb19-q57",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 57
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-067",
+      "text": "বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পার্শ্ব-প্রতিক্রিয়া কম হবে"
+        },
+        {
+          "label": "ii",
+          "text": "রোগীর ব্যথা কম হবে"
+        },
+        {
+          "label": "iii",
+          "text": "সুস্থ হতে সময় কম লাগবে"
+        }
+      ],
+      "stem": "ডা. রাজ শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধু আঁচিলের অপারেশনে নিম্ন তাপমাত্রা প্রয়োগ করে চিকিৎসা করেন এবং তিনি দ্রুত সুস্থ হয়ে বাড়ি ফিরে যান।",
+      "stem_image": null,
+      "group": "bank-ch1-jb19-q57",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 58
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-068",
+      "text": "বায়োমেট্রিক্সের আচরণগত বৈশিষ্ট্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কী স্ট্রোক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "DNA গঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেটিনা স্ক্যান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুখমণ্ডল শনাক্তকরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 59
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-069",
+      "text": "ক্রায়োসার্জারি চিকিৎসা পদ্ধতিতে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্গন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্বন মনোক্সাইড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কঠিন নাইট্রোজেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাই মিথানল ইথেন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 60
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-070",
+      "text": "বাবুর ব্যবহৃত প্রযুক্তিটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "বাবু এক বিশেষ ব্যবস্থাপনায় ঘরে বসেই ড্রাইভিং প্রশিক্ষণ নিচ্ছে। তার বাবা অন্য একটি প্রযুক্তি ব্যবহার করে উন্নত জাতের ফুল চাষ করছেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib19-q61",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ই-লার্নিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ই-কমার্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃত্রিম বুদ্ধিমত্তা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 61
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-071",
+      "text": "বাবুর ব্যবহৃত প্রযুক্তিটির সীমাবদ্ধতা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দেশীয় প্রজাতির বিলুপ্তি"
+        },
+        {
+          "label": "ii",
+          "text": "ফলন কমে যাওয়া"
+        },
+        {
+          "label": "iii",
+          "text": "নতুন রোগ সৃষ্টি হতে পারে"
+        }
+      ],
+      "stem": "বাবু এক বিশেষ ব্যবস্থাপনায় ঘরে বসেই ড্রাইভিং প্রশিক্ষণ নিচ্ছে। তার বাবা অন্য একটি প্রযুক্তি ব্যবহার করে উন্নত জাতের ফুল চাষ করছেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib19-q61",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 62
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null,
+      "review_note": "প্রশ্নে \"বাবুর\" ছাপা আছে, কিন্তু উত্তর (i, iii) বাবুর বাবার প্রযুক্তি (জেনেটিক ইঞ্জিনিয়ারিং) অনুযায়ী; সম্ভবত প্রশ্নে \"বাবার\" হওয়ার কথা।"
+    },
+    {
+      "id": "ict-ch1-mcq-072",
+      "text": "মলিকুলার কম্পোনেন্ট থেকে তৈরি অবজেক্টকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 63
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-073",
+      "text": "আণবিক পর্যায়ে ধাতু পদার্থকে পরিবর্তন ও নিয়ন্ত্রণের প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 64
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-074",
+      "text": "বায়োমেট্রিক্স প্রযুক্তি ব্যবহৃত হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জাতীয় পরিচয়পত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "পাসপোর্টে"
+        },
+        {
+          "label": "iii",
+          "text": "জন্ম নিবন্ধনে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 65
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-075",
+      "text": "ন্যানো বুঝায় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10⁻⁶",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10⁻⁹",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10⁻¹²",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10⁻¹⁵",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 66
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-076",
+      "text": "ন্যানো টেকনোলজি দিয়ে তৈরিকৃত যন্ত্র হতে পারে:",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম্পিউটার"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রায়োপ্রোব"
+        },
+        {
+          "label": "iii",
+          "text": "রোবট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 67
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-077",
+      "text": "মানুষের দুঃসাধ্য কাজের প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃত্রিম বুদ্ধিমত্তা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 68
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-078",
+      "text": "উদ্দীপকের আলোকে 'ক' শিক্ষার্থীর কর্মকাণ্ড—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কপিরাইট আইন মানা"
+        },
+        {
+          "label": "ii",
+          "text": "টেলেন্ট"
+        },
+        {
+          "label": "iii",
+          "text": "কম্পিউটার এথিকস"
+        }
+      ],
+      "stem": "'ক' শিক্ষার্থী কলেজে পড়াশুনা করে। তথ্যের উৎস উল্লেখ করে পড়াশুনার প্রয়োজনে কম্পিউটার এবং ইন্টারনেটের সহায়তায় টার্মপেপার তৈরি করে। কিন্তু 'খ' শিক্ষার্থী কোনো অনুমতি ছাড়াই লাইব্রেরির কম্পিউটার থেকে ফাইল কপি করে নেয়। এমনকি ইন্টারনেট থেকে প্রাপ্ত তথ্যের কোনোরূপ কৃতজ্ঞতা ছাড়াই নিজের নামে প্রকাশ করে।",
+      "stem_image": null,
+      "group": "bank-ch1-db17-q70",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 70
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-079",
+      "text": "ব্যক্তিকে অদ্বিতীয়ভাবে শনাক্ত করার প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রোবোটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 71
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-080",
+      "text": "রোবট ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাসাবাড়িতে গৃহস্থালির কাজে"
+        },
+        {
+          "label": "ii",
+          "text": "পরিকল্পনা প্রণয়নে"
+        },
+        {
+          "label": "iii",
+          "text": "খনির অভ্যন্তরীণ কাজে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 72
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-081",
+      "text": "উদ্দীপকের কর্মকাণ্ডে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অর্থনৈতিক উন্নয়ন হবে"
+        },
+        {
+          "label": "ii",
+          "text": "চিকিৎসাক্ষেত্রে বিরূপ প্রভাব পড়বে"
+        },
+        {
+          "label": "iii",
+          "text": "জীববৈচিত্র্যের উদ্ভব হবে"
+        }
+      ],
+      "stem": "BRRI কর্তৃক উদ্ভাবিত বিভিন্ন উচ্চফলনশীল ধান আবিষ্কারের ফলে বাংলাদেশ এখন চাল রপ্তানীকারক দেশ হিসাবে পরিচিতি লাভ করেছে।",
+      "stem_image": null,
+      "group": "bank-ch1-rb17-q73",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 73
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-082",
+      "text": "ইন্টারনেট ব্যবহার করে কর্মসংস্থানের সুযোগকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ই-কমার্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আউটসোর্সিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ই-বিজনেস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ই-গভর্নেন্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 74
+      },
+      "tags": [
+        "outsourcing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-083",
+      "text": "কোন পদ্ধতিতে Actuator ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 75
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-084",
+      "text": "কম্পিউটার সিমুলেশন প্রয়োগের ক্ষেত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইন্টারনেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভিডিও কনফারেন্সিং",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 76
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-085",
+      "text": "উচ্চ ফলনশীল শস্য উৎপাদনে কোন প্রযুক্তি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 77
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-086",
+      "text": "জিন ফাইন্ডিং গবেষণায় কী ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 78
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (a) বায়োমেট্রিক্স; জিন ফাইন্ডিং সাধারণত বায়োইনফরমেটিক্সের কাজ (b) — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch1-mcq-087",
+      "text": "খাদ্যজাত দ্রব্যের মান সঠিক রাখার জন্য প্যাকেটের ভিতর প্রলেপ করার প্রযুক্তি কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 79
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-088",
+      "text": "শিক্ষক মিজান কোন বৈশিষ্ট্যের প্রয়োগ দ্বারা ল্যাবে প্রবেশ করলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "ICT শিক্ষক মিজান স্যার ছাত্রদের নিয়ে ল্যাবে যেতে ল্যাবের দরজার দিকে তাকাতেই ল্যাবের দরজা খুলে গেল। তারপর ছাত্রদের মাথায় হেলমেট পরিয়ে আলো নিভিয়ে নিয়ে গেল সমুদ্র সৈকতে যেখানে তারা সৈকতের বাস্তব স্বাদ পেল।",
+      "stem_image": null,
+      "group": "bank-ch1-cb17-q80",
+      "options": [
+        {
+          "label": "a",
+          "text": "আঙ্গুলের ছাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুখের গড়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কণ্ঠস্বর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেটিনা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 80
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-089",
+      "text": "ছাত্ররা বাস্তব স্বাদ পাওয়ার সময় দেখতে পেল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দ্বি-মাত্রিক দৃশ্য"
+        },
+        {
+          "label": "ii",
+          "text": "ত্রি-মাত্রিক দৃশ্য"
+        },
+        {
+          "label": "iii",
+          "text": "কৃত্রিম জীবন্ত দৃশ্য"
+        }
+      ],
+      "stem": "ICT শিক্ষক মিজান স্যার ছাত্রদের নিয়ে ল্যাবে যেতে ল্যাবের দরজার দিকে তাকাতেই ল্যাবের দরজা খুলে গেল। তারপর ছাত্রদের মাথায় হেলমেট পরিয়ে আলো নিভিয়ে নিয়ে গেল সমুদ্র সৈকতে যেখানে তারা সৈকতের বাস্তব স্বাদ পেল।",
+      "stem_image": null,
+      "group": "bank-ch1-cb17-q80",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 81
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-090",
+      "text": "বিশ্বগ্রাম প্রতিষ্ঠায় প্রয়োজনীয় উপাদান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কানেকটিভিটি"
+        },
+        {
+          "label": "ii",
+          "text": "ডেটা"
+        },
+        {
+          "label": "iii",
+          "text": "সক্ষমতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 82
+      },
+      "tags": [
+        "world-village"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-091",
+      "text": "ক্রায়োসার্জারিতে ব্যবহৃত যন্ত্রপাতি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্রায়োপ্রোব"
+        },
+        {
+          "label": "ii",
+          "text": "স্প্রে ডিভাইস"
+        },
+        {
+          "label": "iii",
+          "text": "অ্যাকচুয়েটর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 83
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-092",
+      "text": "কোনটি ভার্চুয়াল রিয়েলিটিতে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ত্রিমাত্রিক সিমুলেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিমাত্রিক সিমুলেশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হ্যান্ড জিওমেট্রি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োলজিক্যাল ডেটা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 84
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-093",
+      "text": "কৃত্রিম বুদ্ধিমত্তায় প্রধানত ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PYTHON",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HTML",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "COBOL",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PROLOG",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 85
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (a) PYTHON; PROLOG-ও AI-র ঐতিহ্যবাহী ভাষা — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch1-mcq-094",
+      "text": "উদ্দীপকে উল্লিখিত প্রযুক্তি হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং"
+        },
+        {
+          "label": "ii",
+          "text": "বায়োমেট্রিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "বায়োইনফরমেটিক্স"
+        }
+      ],
+      "stem": "সোনার বাংলা নামক প্রতিষ্ঠান দীর্ঘ ১৫ বছর যাবত গবেষণা করে একটি নতুন জাতের ধানের উদ্ভাবন করেছে যা বন্যার পানিতে ডুবে থাকার পরেও নষ্ট হয় না। বর্তমানে প্রতিষ্ঠানটি গবেষণা সংক্রান্ত তাদের যাবতীয় ডেটা অন্যান্য প্রতিষ্ঠানের সাথে বিনিময় করছে। প্রতিষ্ঠানটি নিজেদের অভ্যন্তরীণ নিরাপত্তা ও কর্মী ব্যবস্থাপনায় অত্যাধুনিক প্রযুক্তি ব্যবহার করছে।",
+      "stem_image": null,
+      "group": "bank-ch1-db16-q86",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 86
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-095",
+      "text": "উদ্দীপকের প্রতিষ্ঠানটির বিদ্যমান ব্যবস্থায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নতুন গবেষণার ক্ষেত্র তৈরি হবে"
+        },
+        {
+          "label": "ii",
+          "text": "জীববৈচিত্র্য সৃষ্টির পথ সুগম করবে"
+        },
+        {
+          "label": "iii",
+          "text": "তথ্য প্রযুক্তির নৈতিকতা বিঘ্নিত হবে"
+        }
+      ],
+      "stem": "সোনার বাংলা নামক প্রতিষ্ঠান দীর্ঘ ১৫ বছর যাবত গবেষণা করে একটি নতুন জাতের ধানের উদ্ভাবন করেছে যা বন্যার পানিতে ডুবে থাকার পরেও নষ্ট হয় না। বর্তমানে প্রতিষ্ঠানটি গবেষণা সংক্রান্ত তাদের যাবতীয় ডেটা অন্যান্য প্রতিষ্ঠানের সাথে বিনিময় করছে। প্রতিষ্ঠানটি নিজেদের অভ্যন্তরীণ নিরাপত্তা ও কর্মী ব্যবস্থাপনায় অত্যাধুনিক প্রযুক্তি ব্যবহার করছে।",
+      "stem_image": null,
+      "group": "bank-ch1-db16-q86",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 87
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-096",
+      "text": "কোনটি ক্রায়োসার্জারির সাথে সম্পর্কিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাজি লজিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশেষ ধরনের গ্লাভস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নাইট্রোজেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নেভিগেশন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 88
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-097",
+      "text": "কোনটি রোবটের ব্যবহার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জটিল সার্জারি চিকিৎসায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যক্তির স্বাক্ষর শনাক্তকরণে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নতুন জাতের বীজ উৎপাদনে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টেনিস বলের আকৃতি তৈরিতে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 89
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-098",
+      "text": "উদ্দীপকে বিশ্বগ্রামের কোন উৎপাদনের ইঙ্গিত দেয়া হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "শুভ সাহেব এর ছোট ভাই নীল ইউএন মিশনে গেলেন। একদিন একটি প্রযুক্তি ব্যবহার করে শুভ তার অসুস্থ মা এর সাথে নীলের কথা বলার ব্যবস্থা করলেন। আরেকদিন তিনি দ্বিতীয় আরেকটি প্রযুক্তি ব্যবহার করে নীলের সাথে মায়ের কথা ও দেখার ব্যবস্থা করে দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch1-rb16-q90",
+      "options": [
+        {
+          "label": "a",
+          "text": "শিক্ষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যোগাযোগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চিকিৎসা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অফিস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 90
+      },
+      "tags": [
+        "world-village"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-099",
+      "text": "উদ্দীপকের নীলের ব্যবহৃত প্রযুক্তিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিশেষ সফটওয়্যার প্রয়োজন"
+        },
+        {
+          "label": "ii",
+          "text": "টেলিমেডিসিন সেবা পাওয়া যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "বাসস্থানের নিরাপত্তা নিশ্চিত করবে"
+        }
+      ],
+      "stem": "শুভ সাহেব এর ছোট ভাই নীল ইউএন মিশনে গেলেন। একদিন একটি প্রযুক্তি ব্যবহার করে শুভ তার অসুস্থ মা এর সাথে নীলের কথা বলার ব্যবস্থা করলেন। আরেকদিন তিনি দ্বিতীয় আরেকটি প্রযুক্তি ব্যবহার করে নীলের সাথে মায়ের কথা ও দেখার ব্যবস্থা করে দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch1-rb16-q90",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 91
+      },
+      "tags": [
+        "world-village"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-100",
+      "text": "ভার্চুয়াল রিয়েলিটিতে কী ধরনের ইমেজ তৈরি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক-মাত্রিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বি-মাত্রিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্রি-মাত্রিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বহুমাত্রিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 92
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-101",
+      "text": "কোনটি বায়োইনফরমেটিক্সের বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বল্পডেটা সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জৈবিক ডেটার সমাহার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানো টেকনোলজির ব্যবহার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রযুক্তি নির্ভর নিরাপত্তা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 93
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-102",
+      "text": "কর্মসংস্থানের জন্য বর্তমানে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঘরে বসেই কাজ পাওয়া যায়"
+        },
+        {
+          "label": "ii",
+          "text": "ইন্টারনেটে সুবিধা নেয়া যায়"
+        },
+        {
+          "label": "iii",
+          "text": "বিভিন্ন ওয়েব সুবিধা পাওয়া যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 94
+      },
+      "tags": [
+        "outsourcing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-103",
+      "text": "অনুমতি ব্যতীত কোনো কম্পিউটার নেটওয়ার্কে প্রবেশ করে কম্পিউটার ব্যবহার করাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সফটওয়্যার পাইরেসি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্লেজিয়ারিজম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হ্যাকিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 95
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-104",
+      "text": "ক্রায়োসার্জারিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টিউমার টিস্যুর তাপমাত্রা হ্রাস-বৃদ্ধি করা হয়"
+        },
+        {
+          "label": "ii",
+          "text": "নাইট্রোজেন ও অন্যান্য ক্রায়োজেনিক এজেন্ট ব্যবহার করা হয়"
+        },
+        {
+          "label": "iii",
+          "text": "অত্যধিক শীতল তাপমাত্রা প্রয়োগ করা হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 96
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-105",
+      "text": "উদ্দীপকে অফিসের প্রবেশ পথে কোন প্রযুক্তি ব্যবহার করা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "চার বন্ধু চারটি ভিন্ন ভিন্ন কোম্পানিতে কর্মকর্তা হিসেবে কর্মরত। এদের অফিসের প্রবেশ পথে কাউকে হাতের আঙুল বা কাউকে সম্পূর্ণ হাত একটি যন্ত্রের ওপর রেখে অফিসে ঢুকতে হয়। কাউকে একটি ক্যামেরার সামনে চোখ স্থির করে দাঁড়াতে হয় কিংবা সম্পূর্ণ মুখগুলোই ক্যামেরার সামনে কয়েক মুহূর্ত রাখতে হয়। এদের প্রত্যেকের দাবি হচ্ছে, অফিসের উপস্থিতি ও নিরাপত্তা নিশ্চিতকরণে স্ব স্ব অফিসে ব্যবহৃত পদ্ধতি অধিক কার্যকর।",
+      "stem_image": null,
+      "group": "bank-ch1-cb16-q97",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 97
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-106",
+      "text": "উদ্দীপকে ব্যবহৃত প্রযুক্তিগুলোর মধ্যে নির্ভুলভাবে কর্মকর্তাদের দাবি পূরণে কোনটি সবচেয়ে বেশি কার্যকর?",
+      "text_en": null,
+      "image": null,
+      "stem": "চার বন্ধু চারটি ভিন্ন ভিন্ন কোম্পানিতে কর্মকর্তা হিসেবে কর্মরত। এদের অফিসের প্রবেশ পথে কাউকে হাতের আঙুল বা কাউকে সম্পূর্ণ হাত একটি যন্ত্রের ওপর রেখে অফিসে ঢুকতে হয়। কাউকে একটি ক্যামেরার সামনে চোখ স্থির করে দাঁড়াতে হয় কিংবা সম্পূর্ণ মুখগুলোই ক্যামেরার সামনে কয়েক মুহূর্ত রাখতে হয়। এদের প্রত্যেকের দাবি হচ্ছে, অফিসের উপস্থিতি ও নিরাপত্তা নিশ্চিতকরণে স্ব স্ব অফিসে ব্যবহৃত পদ্ধতি অধিক কার্যকর।",
+      "stem_image": null,
+      "group": "bank-ch1-cb16-q97",
+      "options": [
+        {
+          "label": "a",
+          "text": "ফিঙ্গার প্রিন্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হ্যান্ড জিওমেট্রি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আইরিশ ও রেটিনা স্ক্যান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফেইস রিকগনিশন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 98
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-107",
+      "text": "কোনটি ডিএনএ-এর নতুন সিকুয়েন্স তৈরির প্রযুক্তি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 99
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-108",
+      "text": "হ্যাকার বলা হয় কাদেরকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যারা পণ্য বাজারজাত করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যারা সংবাদপত্র বাজারজাত করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যারা ইন্টারনেটের মাধ্যমে কম্পিউটারে অবৈধভাবে প্রবেশ করে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যারা ইন্টারনেট ব্যবহার করে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 100
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-109",
+      "text": "ড. সিরাজ এর ব্যবহৃত প্রযুক্তিটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "ড. সিরাজ একজন কৃষিবিজ্ঞানী। সে এখন একটি উচ্চফলনশীল পেঁপে উদ্ভাবন করল যার প্রতিটির ওজন প্রায় ১৫ কেজি।",
+      "stem_image": null,
+      "group": "bank-ch1-sb16-q101",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 101
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-110",
+      "text": "উদ্দীপকের আলোকে ড. সিরাজের লক্ষ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিকূল পরিবেশে উৎপাদন নিশ্চিত করা"
+        },
+        {
+          "label": "ii",
+          "text": "রোগ-প্রতিরোধ ক্ষমতা বৃদ্ধি করা"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদনের পরিমাণ বাড়ানো"
+        }
+      ],
+      "stem": "ড. সিরাজ একজন কৃষিবিজ্ঞানী। সে এখন একটি উচ্চফলনশীল পেঁপে উদ্ভাবন করল যার প্রতিটির ওজন প্রায় ১৫ কেজি।",
+      "stem_image": null,
+      "group": "bank-ch1-sb16-q101",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 102
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-111",
+      "text": "নিচের কোনটিতে জীববিজ্ঞানের সাথে ডেটাবেজ, অ্যালগরিদম, পরিসংখ্যান ইত্যাদি বিষয়ের সমন্বয় হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 103
+      },
+      "tags": [
+        "bioinformatics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-112",
+      "text": "কৃত্রিম বুদ্ধিমত্তা প্রধানত কোথায় ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোবটিক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 104
+      },
+      "tags": [
+        "ai"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-113",
+      "text": "প্রশিক্ষণে ব্যবহৃত প্রযুক্তিটি হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "ডাঃ মুনির শিক্ষানবিশদের কম্পিউটার নিয়ন্ত্রিত পরিবেশের মাধ্যমে কৃত্রিমভাবে বাস্তবের অনুকরণে সার্জারি প্রশিক্ষণ দেন যাতে কোনোরূপ ঝুঁকি না থাকে। একজন যকৃত ক্যান্সারের রোগী তার কাছে এলে তিনি তাকে −১২০°C তাপমাত্রার মাধ্যমে চিকিৎসা দেন।",
+      "stem_image": null,
+      "group": "bank-ch1-bb16-q105",
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্টিফিসিয়াল ইন্টেলিজেন্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভার্চুয়াল রিয়েলিটি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 105
+      },
+      "tags": [
+        "virtual-reality"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-114",
+      "text": "ব্যবহৃত চিকিৎসা পদ্ধতিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চিকিৎসা ব্যয় তুলনামূলকভাবে কম"
+        },
+        {
+          "label": "ii",
+          "text": "অপারেশনের ধকল সহ্য করতে হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "আশে পাশের কোষের ক্ষতি হয় না"
+        }
+      ],
+      "stem": "ডাঃ মুনির শিক্ষানবিশদের কম্পিউটার নিয়ন্ত্রিত পরিবেশের মাধ্যমে কৃত্রিমভাবে বাস্তবের অনুকরণে সার্জারি প্রশিক্ষণ দেন যাতে কোনোরূপ ঝুঁকি না থাকে। একজন যকৃত ক্যান্সারের রোগী তার কাছে এলে তিনি তাকে −১২০°C তাপমাত্রার মাধ্যমে চিকিৎসা দেন।",
+      "stem_image": null,
+      "group": "bank-ch1-bb16-q105",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 106
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-115",
+      "text": "জেনেটিক ইঞ্জিনিয়ারিংয়ের মাধ্যমে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জীবের নতুন জিনোম আবিষ্কার করা যায়"
+        },
+        {
+          "label": "ii",
+          "text": "বাণিজ্যিকভাবে ইনসুলিন তৈরি করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "খুব সহজে ব্যক্তি শনাক্ত করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 107
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-116",
+      "text": "রোবটিক্স-এর ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হার্ডওয়্যার"
+        },
+        {
+          "label": "ii",
+          "text": "আর্টিফিসিয়াল ইন্টেলিজেন্স"
+        },
+        {
+          "label": "iii",
+          "text": "নতুন গবেষণা পরিচালনা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 108
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-117",
+      "text": "ন্যানো অবজেক্ট তৈরি করা হয় কোথা থেকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মলিকুলার কম্পোনেন্ট থেকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লার্জার এন্টিটি হতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাইনিং-এর মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রোগ্রামিং দ্বারা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 109
+      },
+      "tags": [
+        "nanotechnology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-118",
+      "text": "ক্রায়োসার্জারি ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্লাস্টিক সার্জারিতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হার্টের বাইপাসে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চোখের লেন্স প্রতিস্থাপনে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লিভার ক্যান্সারে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 110
+      },
+      "tags": [
+        "cryosurgery"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-119",
+      "text": "মোবাইল সিম ক্রয়ে কোন প্রযুক্তি গ্রাহককে সহায়তা করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ন্যানো টেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রায়োসার্জারি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 111
+      },
+      "tags": [
+        "biometrics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-120",
+      "text": "রোবোটিক্স কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোবট বিজ্ঞান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রোবটের ক্রিয়ানীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিল্পে ব্যবহৃত রোবট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রোবট তৈরিতে ব্যবহৃত ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 112
+      },
+      "tags": [
+        "robotics"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-121",
+      "text": "উদ্দীপকে লোকমান সাহেবের গবেষণা সহায়ক প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "লোকমান সাহেব গবেষণা করে নানান প্রজাতির ফল ও ফুল ফলানোর জন্য নতুন প্রযুক্তি প্রয়োগ করেন; এতে তিনি আকারে বড় ও আকর্ষণীয় ফল ও ফুল উৎপাদন করতে সক্ষম হলেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib16-q113",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়োমেট্রিক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানোটেকনোলজি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বায়োইনফরমেটিক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 113
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-122",
+      "text": "লোকমান সাহেবের সাফল্যে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অর্থনৈতিক উন্নয়ন ঘটবে"
+        },
+        {
+          "label": "ii",
+          "text": "দেশে প্রচুর ফল ও ফুল উৎপাদন হবে"
+        },
+        {
+          "label": "iii",
+          "text": "দেশীয় প্রজাতির বিলুপ্তির সম্ভাবনা রয়েছে"
+        }
+      ],
+      "stem": "লোকমান সাহেব গবেষণা করে নানান প্রজাতির ফল ও ফুল ফলানোর জন্য নতুন প্রযুক্তি প্রয়োগ করেন; এতে তিনি আকারে বড় ও আকর্ষণীয় ফল ও ফুল উৎপাদন করতে সক্ষম হলেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib16-q113",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 114
+      },
+      "tags": [
+        "genetic-engineering"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-123",
+      "text": "উদ্দীপকের প্রযুক্তি দাপ্তরিক কার্যক্রম ব্যতীত আর যে ক্ষেত্রে ব্যবহৃত হয় তা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শিক্ষা ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "গোয়েন্দা নজরদারীতে"
+        },
+        {
+          "label": "iii",
+          "text": "সামাজিক যোগাযোগ"
+        }
+      ],
+      "stem": "মঈন সাহেব একটি সরকারি দপ্তরে চাকরি করেন। তিনি সরকারি নির্দেশনা ও তথ্য আদান প্রদানের জন্য ইন্টারনেট ব্যবহার করেন এবং ভিডিও কনফারেন্সিং ব্যবহার করে জরুরি সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib16-q115",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 115
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-124",
+      "text": "মঈন সাহেবের তথ্য ও প্রযুক্তি ব্যবহার কোন ধরনের কর্মকাণ্ড?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইতিবাচক"
+        },
+        {
+          "label": "ii",
+          "text": "কার্যকারী"
+        },
+        {
+          "label": "iii",
+          "text": "সময়োপযোগী"
+        }
+      ],
+      "stem": "মঈন সাহেব একটি সরকারি দপ্তরে চাকরি করেন। তিনি সরকারি নির্দেশনা ও তথ্য আদান প্রদানের জন্য ইন্টারনেট ব্যবহার করেন এবং ভিডিও কনফারেন্সিং ব্যবহার করে জরুরি সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "bank-ch1-dib16-q115",
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 116
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch1-mcq-125",
+      "text": "প্লেজিয়ারিজম কোন অপরাধের সাথে জড়িত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অন্যের লেখা চুরি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সফটওয়্যার পাইরেসি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কপিরাইট লঙ্ঘন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইডেন্টিটি চুরি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 117
+      },
+      "tags": [
+        "ethics"
+      ],
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,6932 @@
+{
+  "subject": "ict",
+  "chapter": 5,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch5-mcq-001",
+      "text": "সি-ভাষায় উপাত্ত গ্রহণের কমান্ড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "main ( )",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "printf ( )",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "scanf ( )",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "getch ( )",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21
+      },
+      "tags": [
+        "c-programming",
+        "input"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-002",
+      "text": "Apple লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for (C = 15; C <= 25; C = C + 2)\n{\n    printf(\"Apple\");\n    if (C == 21)\n        break;\n}",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "break"
+      ],
+      "difficulty": null,
+      "group": "hse26-q22-23"
+    },
+    {
+      "id": "ict-ch5-mcq-003",
+      "text": "if শর্তটি বাদ দিলে Apple লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for (C = 15; C <= 25; C = C + 2)\n{\n    printf(\"Apple\");\n    if (C == 21)\n        break;\n}",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null,
+      "group": "hse26-q22-23"
+    },
+    {
+      "id": "ict-ch5-mcq-004",
+      "text": "একটি প্রোগ্রামে int a[5] = {10, 20, 30, 40, 50}; থাকলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "a[0] এর মান 10"
+        },
+        {
+          "label": "ii",
+          "text": "a[2] এর মান 30"
+        },
+        {
+          "label": "iii",
+          "text": "a[5] এর মান 50"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24
+      },
+      "tags": [
+        "c-programming",
+        "array"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-005",
+      "text": "সি-প্রোগ্রামের ক্ষেত্রে লজিক্যাল অপারেটর কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "&&",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<=",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "!=",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "==",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-006",
+      "text": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "%c",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "%f",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "%lf",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "%d",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-007",
+      "text": "প্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for (i = 3; i <= 15; i = i + 2)\n{\n    if (i == 7 || i > 12)\n        continue;\n    printf(\"ICT\");\n}",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "continue"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-008",
+      "text": "উদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "void main ( )\n{\n    int i = 15, j;\n    j = j++;\n    printf(\"%d %d\", i, j);\n}",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "15, 15",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15, 16",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16, 16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16, 17",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null,
+      "review_note": "Code as printed uses an uninitialised j (j = j++). Source key is (খ) 15, 16; the intended code may differ (e.g. j = i++). Verify."
+    },
+    {
+      "id": "ict-ch5-mcq-009",
+      "text": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "main",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "DIV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "return",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Int",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15
+      },
+      "tags": [
+        "assembly",
+        "mnemonic"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-010",
+      "text": "x = 10 এবং y = 20 হলে z = (x > y)? x : y কন্ডিশনাল এক্সপ্রেশনের ফলাফল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21
+      },
+      "tags": [
+        "c-programming",
+        "conditional"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-011",
+      "text": "একই ধরনের ডেটা সংরক্ষণ করে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাংশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যারে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পয়েন্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্ট্রাকচার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1
+      },
+      "tags": [
+        "c-programming",
+        "array"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-012",
+      "text": "উদ্দীপকে 'b' এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "{\nint a = 2, b;\nb = ++a;\nprintf(\"%d\", b);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-db23-q2",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "b = a + 1 ∴ b = 2 + 1 = 3",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-013",
+      "text": "সিনট্যাক্সের কোন পরিবর্তনে আউটপুট 5 হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "{\nint a = 2, b;\nb = ++a;\nprintf(\"%d\", b);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-db23-q2",
+      "options": [
+        {
+          "label": "a",
+          "text": "b = a++",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "b = a--",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "b = a − 3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "b = a + 3",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "b = a + 3; b = 2 + 3 ∴ b = 5",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-014",
+      "text": "'সি' ভাষায় বৈধ চলক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ab@yahoo",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Roll107",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "abe ny",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "abc-n",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-015",
+      "text": "X এর মান 5 হলে, এক্সপ্রেশন X += 15 এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "X += 15 ∴ X = X + 15 = 5 + 15 = 20",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-016",
+      "text": "উদ্দীপকে কোনটি কাউন্টার ডিক্লিয়ারেশন?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nvoid main( ) {\nint i;\nfor (i=1;i<=5;i++) {\nprintf(\"%d\", i);\n}\n}",
+      "stem_image": null,
+      "group": "bank-ch5-rb23-q6",
+      "options": [
+        {
+          "label": "a",
+          "text": "i = 1;",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "int i;",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i <= 5;",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i++",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 6
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-017",
+      "text": "উদ্দীপকে প্রোগ্রামটিকে for লুপ ছাড়াও বাস্তবায়ন করা যাবে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "if…… else"
+        },
+        {
+          "label": "ii",
+          "text": "if ……goto"
+        },
+        {
+          "label": "iii",
+          "text": "do while"
+        }
+      ],
+      "stem": "#include<stdio.h>\nvoid main( ) {\nint i;\nfor (i=1;i<=5;i++) {\nprintf(\"%d\", i);\n}\n}",
+      "stem_image": null,
+      "group": "bank-ch5-rb23-q6",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-018",
+      "text": "সঠিক চলক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1number",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "numberl",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "number 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "number-1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-019",
+      "text": "তিনটি অক্ষর ইনপুটের জন্য \"?\" স্থানের সংখ্যাটি কী হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "{\nchar name [?];\nint K, length;\nscanf (\"%s\", name);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-cb23-q9",
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [
+        "c-programming",
+        "array",
+        "string"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (b) ৩; কিন্তু স্ট্রিংয়ের শেষে নাল ক্যারেক্টারের জন্য ১টি জায়গা বাড়তি লাগে (তিন অক্ষরের জন্য ৪, অপশন c) — উত্তর যাচাই দরকার। (মূল ছাপায় scanf-এর ফরম্যাট \"%, S\" লেখা ছিল, \"%s\" ধরা হয়েছে।)"
+    },
+    {
+      "id": "ict-ch5-mcq-020",
+      "text": "উদ্দীপকের Syntax ব্যবহার করলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অক্ষরগুলো একত্রে থাকবে"
+        },
+        {
+          "label": "ii",
+          "text": "মোট অক্ষরের সংখ্যা জানা যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "অক্ষরগুলো একবার ইনপুট নিবে"
+        }
+      ],
+      "stem": "{\nchar name [?];\nint K, length;\nscanf (\"%s\", name);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-cb23-q9",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [
+        "c-programming",
+        "string"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-021",
+      "text": "ডেটা টাইপ ইন্টিজার এর ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "%c",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "%i",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "%d",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "%lf",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-022",
+      "text": "ফ্লোচার্টে বৃত্তাকার চিহ্নটি বুঝায়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শুরু"
+        },
+        {
+          "label": "ii",
+          "text": "ইনপুট"
+        },
+        {
+          "label": "iii",
+          "text": "সংযোগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-023",
+      "text": "Float type ডেটা মেমোরীতে কত byte জায়গা দখল করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-024",
+      "text": "একটি স্ট্রিংয়ের দৈর্ঘ্য বের করার জন্য সি ল্যাংগুয়েজে কোন লাইব্রেরি ফাংশন ব্যবহার হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Strcat ()",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Strcmp ()",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Strln ()",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Strlen ()",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 14
+      },
+      "tags": [
+        "c-programming",
+        "string"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-025",
+      "text": "প্রোগ্রামটির আউটপুট কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include <stdio.h>\nint main () {\nint sum=0;\nint i=1;\nwhile (i<=8) {\nsum=sum+i;\ni=i+1; }\nprintf (\"%d\",sum);\nreturn 0; }",
+      "stem_image": null,
+      "group": "bank-ch5-sb23-q15",
+      "options": [
+        {
+          "label": "a",
+          "text": "21",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "28",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "36",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "55",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "প্রোগ্রামটির ধারা, s = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 36",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-026",
+      "text": "'i' এর মানের কোন পরিবর্তনে আউটপুট '20' হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include <stdio.h>\nint main () {\nint sum=0;\nint i=1;\nwhile (i<=8) {\nsum=sum+i;\ni=i+1; }\nprintf (\"%d\",sum);\nreturn 0; }",
+      "stem_image": null,
+      "group": "bank-ch5-sb23-q15",
+      "options": [
+        {
+          "label": "a",
+          "text": "i=0, i=i+1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i=1, i=i+2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i=2, i=i+1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i=2, i=i+2",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "Option test: s = 2 + 4 + 6 + 8 = 20",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-027",
+      "text": "কোনটি রিলেশনাল অপারেটরের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "==",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AND",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-028",
+      "text": "সি ভাষার উদ্ভাবক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জন স্ট্রাউস্ট্রাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডেনিস রিচি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ড. ই. এফ কড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ড. রেমন সি বারকুইন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-029",
+      "text": "কম্পাইলারের বৈশিষ্ট্য হল–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টেস্টিং ও ডিবাগিং এর ক্ষেত্রে ধীরগতিসম্পন্ন"
+        },
+        {
+          "label": "ii",
+          "text": "প্রোগ্রাম নির্বাহে বেশি সময় লাগে"
+        },
+        {
+          "label": "iii",
+          "text": "অনুদিতকৃত প্রোগ্রাম পূর্ণাঙ্গ মেশিন প্রোগ্রামে রূপান্তর হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-030",
+      "text": "Double টাইপ ডাটা নির্ধারণে মেমোরিতে কত বাইট জায়গা প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-031",
+      "text": "প্রোগ্রামটি রান করলে \"DHAKA\" শব্দটি কতবার দেখাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nint main ( ) {\nint p;\nfor (p=0; p<= 10; p++) {\nprintf (\"\\n DHAKA\"); }\nreturn 0; }",
+      "stem_image": null,
+      "group": "bank-ch5-bb23-q21",
+      "options": [
+        {
+          "label": "a",
+          "text": "৯",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "লুপটি 0 থেকে 10 পর্যন্ত চলে, যার মাঝে 11টি সংখ্যা রয়েছে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-032",
+      "text": "প্রোগ্রামটিতে কী ধরনের পরিবর্তন আনলে \"DHAKA\" শব্দটি ৫ বার প্রদর্শন করবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nint main ( ) {\nint p;\nfor (p=0; p<= 10; p++) {\nprintf (\"\\n DHAKA\"); }\nreturn 0; }",
+      "stem_image": null,
+      "group": "bank-ch5-bb23-q21",
+      "options": [
+        {
+          "label": "a",
+          "text": "p = 1, p = p + 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "p = 0, p = p + 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "p = 2, p += 3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "p = 3, p = p + 3",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "p = 1, p = p + 2 এর মান 1, 3, 5, 7 … 9 পর্যন্ত চলবে, যার মাঝে ৫টি সংখ্যা রয়েছে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-033",
+      "text": "প্রোগ্রাম রান করলে \"ICT\" লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "int x;\nfor (x = 5; x <= 14; x = x + 3){\nif(x == 11)\nbreak;\nprintf(\"ICT\");}",
+      "stem_image": null,
+      "group": "bank-ch5-jb23-q23",
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "x = 5 হলে print হবে; x = 8 হলে print হবে; x = 11 হলে loop হতে বের হয়ে যাবে (break স্টেটমেন্ট আছে বলে)। মোট 2 বার print হবে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 23
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "break"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-034",
+      "text": "break এর পরিবর্তে continue ব্যবহার করলে \"ICT\" লেখা কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "int x;\nfor (x = 5; x <= 14; x = x + 3){\nif(x == 11)\nbreak;\nprintf(\"ICT\");}",
+      "stem_image": null,
+      "group": "bank-ch5-jb23-q23",
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "x = 5 হলে print হবে; x = 8 হলে print হবে; x = 11 হলে print না হয়ে x এর মান বেড়ে loop-এ প্রবেশ করবে (continue স্টেটমেন্ট থাকলে পরবর্তী কাজ ১বার skip করে চলতে থাকে); x = 14 হলে print হবে; x = 17 > 14 বলে print হবে না ও loop শেষ হয়ে যাবে। মোট 3 বার print হবে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "continue"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-035",
+      "text": "\"C\" ভাষায় গাণিতিক অপারেটরের সাহায্যে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "যোগ করা যায়"
+        },
+        {
+          "label": "ii",
+          "text": "ছোট বড় তুলনা করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "ভাগশেষ নির্ণয় করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "(i) যোগ (+) → গাণিতিক অপারেটর; (ii) ছোট বড় তুলনা (>, < ইত্যাদি) → রিলেশনাল অপারেটর।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-036",
+      "text": "ইন্টারপ্রেটার এর কাজ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক লাইন করে অনুবাদ করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এক সাথে পুরো প্রোগ্রাম অনুবাদ করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সব ভুল একসাথে প্রদর্শন করে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিবাগিং ও টেস্টিং ধীরগতিসম্পন্ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-037",
+      "text": "সরাসরি কম্পিউটারের সাথে সংযোগ স্থাপন করে কোন ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যাসেম্বলি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চতর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অতি উচ্চতর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 27
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-038",
+      "text": "উদ্দীপকে উল্লিখিত প্রোগ্রামটি কোন ভাষায় রচিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মীম একটি কম্পিউটার প্রোগ্রাম SQL ব্যবহার করে ইংরেজিতে ডেভেলপ করল যা মানুষ সহজে বুঝতে পারে এবং তা কোনো কম্পিউটারের উপর নির্ভরশীল নয়।",
+      "stem_image": null,
+      "group": "bank-ch5-cb23-q28",
+      "options": [
+        {
+          "label": "a",
+          "text": "হাই লেভেল ভাষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চতুর্থ প্রজন্মের ভাষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেশিন ভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাসেম্বলি ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 28
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-039",
+      "text": "প্রোগ্রামটি অনুবাদ করার জন্য যে অনুবাদক প্রোগ্রামের প্রয়োজন–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অ্যাসেম্বলার"
+        },
+        {
+          "label": "ii",
+          "text": "কম্পাইলার"
+        },
+        {
+          "label": "iii",
+          "text": "ইন্টারপ্রেটার"
+        }
+      ],
+      "stem": "মীম একটি কম্পিউটার প্রোগ্রাম SQL ব্যবহার করে ইংরেজিতে ডেভেলপ করল যা মানুষ সহজে বুঝতে পারে এবং তা কোনো কম্পিউটারের উপর নির্ভরশীল নয়।",
+      "stem_image": null,
+      "group": "bank-ch5-cb23-q28",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 29
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-040",
+      "text": "প্রোগ্রামিং এর ক্ষেত্রে ইনপুট বা আউটপুট চিহ্ন হিসেবে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch5-bank-q030-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch5-bank-q030-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch5-bank-q030-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch5-bank-q030-opt-d.png"
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 30
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-041",
+      "text": "C ভাষায় লাইব্রেরি ফাংশন কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "printf ()",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "sum ()",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "average ()",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "if ()",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 31
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-042",
+      "text": "প্রোগ্রামিং ভাষার সর্বনিম্ন স্তর কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাই লেভেল ভাষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যাসেম্বলি ভাষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেশিন ভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভেরি হাই লেভেল ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 32
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-043",
+      "text": "প্রবাহচিত্রের কোন প্রতীকটি প্রসেস এর জন্য ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch5-bank-q033-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch5-bank-q033-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch5-bank-q033-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch5-bank-q033-opt-d.png"
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 33
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-044",
+      "text": "উচ্চস্তরের ভাষায় লিখিত পুরো প্রোগ্রামটি এক সাথে অনুবাদ করে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাসেম্বলার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টারপ্রেটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিবাগার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কম্পাইলার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 34
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-045",
+      "text": "কোনটি মধ্যম স্তরের ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেসিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কোবোল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফোর্ট্রান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 35
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-046",
+      "text": "কোনটি রিলেশনাল অপারেটর–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "==",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 36
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-047",
+      "text": "উদ্দীপকের প্রোগ্রামটি রান করলে b এর মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include < stdio.h>\nmain ( )\n{\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-db19-q37",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 37
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-048",
+      "text": "\"সি\" ভাষায় ইন্টিজার ডেটা টাইপ কত বিটের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৪",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 38
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-049",
+      "text": "বিট, বাইট, মেমোরি অ্যাড্রেস নিয়ে কাজ করে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মেশিন ভাষা"
+        },
+        {
+          "label": "ii",
+          "text": "মধ্যস্তরের ভাষা"
+        },
+        {
+          "label": "iii",
+          "text": "উচ্চস্তরের ভাষা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 39
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-050",
+      "text": "C ভাষায় লাইব্রেরি ফাংশন হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "printf()"
+        },
+        {
+          "label": "ii",
+          "text": "scanf()"
+        },
+        {
+          "label": "iii",
+          "text": "add()"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 40
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-051",
+      "text": "কোন ভাষায় লিখিত প্রোগ্রামের জন্য অনুবাদকের প্রয়োজন হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Natural",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Machine",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "High Level",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Assembly",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 41
+      },
+      "tags": [
+        "language-generation",
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-052",
+      "text": "কোন ভাষায় হার্ডওয়্যার নিয়ন্ত্রণের পাশাপাশি উচ্চস্তরের ভাষার সুবিধা পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PASCAL",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "COBOL",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "FORTRAN",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 42
+      },
+      "tags": [
+        "c-programming",
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-053",
+      "text": "সি ভাষায় float ডেটা টাইপ কত বিটের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "32",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "48",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "64",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 43
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-054",
+      "text": "প্রোগ্রামটির আউটপুট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include <stdio.h>\nmain ( )\n{\nint x ;\nfor (x = 5 ; x <= 10 ; x++)\n{\nprintf (\"%d\", x);\nif (x == 6)\nbreak ;\n}\n}",
+      "stem_image": null,
+      "group": "bank-ch5-cb19-q44",
+      "options": [
+        {
+          "label": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "56",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5789",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6789",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 44
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "break"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-055",
+      "text": "'সি' ভাষার এক্সপ্রেশন X = pow (3,2) + (5%2) + 3. X এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "13",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 45
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-056",
+      "text": "সাংকেতিক চিহ্ন দিয়ে লিখিত ভাষা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যান্ত্রিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যাসেম্বলি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চস্তরের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চতুর্থ প্রজন্মের",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 46
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-057",
+      "text": "সি-ভাষায় ধ্রুবক ঘোষণা করার নিয়ম হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "const float pi = 3.1416;"
+        },
+        {
+          "label": "ii",
+          "text": "float pi = 3.1416;"
+        },
+        {
+          "label": "iii",
+          "text": "# define pi 3.1416"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 47
+      },
+      "tags": [
+        "c-programming",
+        "constant"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-058",
+      "text": "প্রোগ্রামটির আউটপুট কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain()\n{\nint a, b;\nb = 50;\na = b% 25;\nprintf(\"%d\", a);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-sb19-q48",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "25",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 48
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-059",
+      "text": "উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "General purpose language"
+        },
+        {
+          "label": "ii",
+          "text": "Mid-level language"
+        },
+        {
+          "label": "iii",
+          "text": "Case sensitive language"
+        }
+      ],
+      "stem": "#include<stdio.h>\nmain()\n{\nint a, b;\nb = 50;\na = b% 25;\nprintf(\"%d\", a);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-sb19-q48",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 49
+      },
+      "tags": [
+        "c-programming",
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-060",
+      "text": "সি প্রোগ্রামিং ভাষায় switch কি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভ্যারিয়েবল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফাংশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কী-ওয়ার্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপারেন্ড",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 50
+      },
+      "tags": [
+        "c-programming",
+        "keyword"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-061",
+      "text": "কোনটি অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BASIC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HTML",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Java",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 51
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-062",
+      "text": "প্রতীকটি কোন কাজে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch5-bank-q052.png",
+      "group": "bank-ch5-bb19-q52",
+      "options": [
+        {
+          "label": "a",
+          "text": "সিদ্ধান্ত গ্রহণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রক্রিয়াকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেটা ইনপুট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডেটা আউটপুট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 52
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-063",
+      "text": "উদ্দীপকের প্রোগ্রামটির আউটপুট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\n#include<conio.h>\nvoid main()\n{ int i,k;\ni=8;\nk=i++;\nprintf(\"i and k : %d%d\",i,k);\ngetch(); }",
+      "stem_image": null,
+      "group": "bank-ch5-bb19-q53",
+      "options": [
+        {
+          "label": "a",
+          "text": "10 9",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9 10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9 8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8 9",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 53
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-064",
+      "text": "প্রোগ্রাম লিখতে মেশিন ভাষা ব্যবহার করা হলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রোগ্রাম পরিবর্তন করা কষ্টসাধ্য হয়"
+        },
+        {
+          "label": "ii",
+          "text": "দক্ষ প্রোগ্রামার প্রয়োজন হয়"
+        },
+        {
+          "label": "iii",
+          "text": "প্রোগ্রাম দ্রুত নির্বাহ হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 55
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-065",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "int number-1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "int number 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "int 1 number",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "int number_1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 56
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-066",
+      "text": "ইনহেরিটেন্স কোন প্রোগ্রামিং মডেল-এর বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্ট্রাকচার্ড প্রোগ্রামিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভিজ্যুয়াল প্রোগ্রামিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইভেন্ট ড্রাইভেন প্রোগ্রামিং",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 57
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-067",
+      "text": "ফ্লোটিং ডেটার ফরমেট স্পেসিফায়ার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "%d",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "%f",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "%c",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "%s",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 58
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-068",
+      "text": "নিচের কোনটি কী ওয়ার্ডের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "long, int, scanf",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "short, cos, void",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "for, line, while",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "return, goto, break",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 60
+      },
+      "tags": [
+        "c-programming",
+        "keyword"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-069",
+      "text": "OPS5 কোন প্রজন্মের ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পঞ্চম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চতুর্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তৃতীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দ্বিতীয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 61
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-070",
+      "text": "উৎস প্রোগ্রাম → ( ? ) → বস্তু প্রোগ্রাম — (?) চিহ্নিত স্থানে কী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কম্পাইলার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টারপ্রেটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যাসেম্বলার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লিংকার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "ইন্টারপ্রেটারও হতে পারত কিন্তু তা লাইন বাই লাইন অনুবাদ করে।",
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 62
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null,
+      "review_note": "উত্তর-তালিকায় (a) আছে, কিন্তু বইয়ের সমাধানে \"(c)\" লেখা (ব্যাখ্যা কম্পাইলারের পক্ষে যায়) — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch5-mcq-071",
+      "text": "প্রোগ্রামটির আউটপুট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include <stdio.h>\nmain ( )\n{\nint i ;\nfor (i = 1 ; i <= 10; i += 2) {\nprintf (\"%d\", i);\n}\n}",
+      "stem_image": null,
+      "group": "bank-ch5-cb19-q63",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 2 3 4 5 6 7 8 9 10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 2 3 4 5 6 7 8 9",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 3 5 7 9",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 4 6 8 10",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 63
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-072",
+      "text": "কোনটি লজিক্যাল অ্যান্ড অপারেটরের চিহ্ন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "||",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "!",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "&&",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "==",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 64
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-073",
+      "text": "প্রোগ্রাম কোডিং এর পূর্ববর্তী ধাপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমস্যা বিশ্লেষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোগ্রাম ডিজাইন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোগ্রাম বাস্তবায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রোগ্রাম রক্ষণাবেক্ষণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 65
+      },
+      "tags": [
+        "c-programming",
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-074",
+      "text": "প্রোগ্রাম ফ্লোচার্টে প্রক্রিয়াকরণে কোন প্রতীকটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch5-bank-q066-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch5-bank-q066-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch5-bank-q066-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch5-bank-q066-opt-d.png"
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 66
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-075",
+      "text": "প্রোগ্রামটির আউটপুট কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include < stdio.h>\nmain ( )\n{\nint i, s = 0;\nfor (i =1 ; i <=6; i++)\n{\ns=s+i;\n}\nprintf (\"%d\", s);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-dib19-q67",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২১",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 67
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-076",
+      "text": "'i' এর মানের কী পরিবর্তনে আউটপুট ১২ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include < stdio.h>\nmain ( )\n{\nint i, s = 0;\nfor (i =1 ; i <=6; i++)\n{\ns=s+i;\n}\nprintf (\"%d\", s);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-dib19-q67",
+      "options": [
+        {
+          "label": "a",
+          "text": "i = 0; i = i + 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i = 1, i = i + 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i = 2, i = i + 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i = 2, i = i + 2",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 68
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-077",
+      "text": "উদ্দীপকের প্রোগ্রামটিতে \"HSC Exam\" কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for (i=1; i<=5; i++)\n{if(i==3) continue;\nprintf (\"HSC Exam\");}",
+      "stem_image": null,
+      "group": "bank-ch5-all18-q69",
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 69
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "continue"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-078",
+      "text": "প্রোগ্রাম তৈরিতে প্রোগ্রাম ডিজাইনের পরবর্তী ধাপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমস্যা বিশ্লেষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোগ্রাম কোডিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোগ্রাম বাস্তবায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রোগ্রাম রক্ষণাবেক্ষণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 70
+      },
+      "tags": [
+        "c-programming",
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-079",
+      "text": "সি-ভাষার চলকগুলো লক্ষ্য কর–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "student_name"
+        },
+        {
+          "label": "ii",
+          "text": "student name"
+        },
+        {
+          "label": "iii",
+          "text": "student@name"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 71
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-080",
+      "text": "সি ভাষায় সমজাতীয় ডেটা সংরক্ষণের জন্য কোনটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাংশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পয়েন্টার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্ট্রাকচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যারে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 72
+      },
+      "tags": [
+        "c-programming",
+        "array"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-081",
+      "text": "উৎস প্রোগ্রামকে একত্রে বস্তু প্রোগ্রামে রূপান্তর করে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কম্পাইলার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টারপ্রেটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিংকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাসেম্বলার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 73
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-082",
+      "text": "মেশিন ভাষায় অনূদিত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপারেন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেবেল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কমেন্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপারেশন কোড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 74
+      },
+      "tags": [
+        "assembly"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-083",
+      "text": "প্রোগ্রামে ভ্যারিয়েবল r কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain()\n{\nfloat r;\nprintf (\"Enter your GPA\")\nscanf (\"%d\",&r);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-all18-q75",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভেরিয়েবল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কী ওয়ার্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্টেটমেন্ট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 75
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-084",
+      "text": "প্রোগ্রামে উল্লিখিত %d এর পরিবর্তে ব্যবহার করা যায়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "%.2f"
+        },
+        {
+          "label": "ii",
+          "text": "%f"
+        },
+        {
+          "label": "iii",
+          "text": "%r"
+        }
+      ],
+      "stem": "#include<stdio.h>\nmain()\n{\nfloat r;\nprintf (\"Enter your GPA\")\nscanf (\"%d\",&r);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-all18-q75",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 76
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-085",
+      "text": "কোনটি চতুর্থ প্রজন্মের ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BASIC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "PASCAL",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "INTELLECT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CSL",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 77
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-086",
+      "text": "প্রোগ্রামটির আউটপুট কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain()\n{\nint a, s = 0;\nfor (a =1 ; a <=5; a++)\ns = s + a;\nprintf (\"%d\",s);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-all18-q78",
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "15",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 78
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-087",
+      "text": "\"a\" এর মানের কোন কোন পরিবর্তনে আউটপুট 6 হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain()\n{\nint a, s = 0;\nfor (a =1 ; a <=5; a++)\ns = s + a;\nprintf (\"%d\",s);\n}",
+      "stem_image": null,
+      "group": "bank-ch5-all18-q78",
+      "options": [
+        {
+          "label": "a",
+          "text": "a = 1, a = a + 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "a = 2, a = a + 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "a = 2, a = a + 2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "a = 0, a = a + 1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 79
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-088",
+      "text": "প্রোগ্রাম রান করলে আউটপুট মান ৩ হবে যখন–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "b=a++;"
+        },
+        {
+          "label": "ii",
+          "text": "b=a--;"
+        },
+        {
+          "label": "iii",
+          "text": "b+=a;"
+        }
+      ],
+      "stem": "# include <stdio.h>\nmain( ) {\nint a=3, b;\nb=2*a;\nprintf(\"%d\", b); }",
+      "stem_image": null,
+      "group": "bank-ch5-db17-q80",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 80
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-089",
+      "text": "মেশিন ভাষার সুবিধা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোগ্রাম সহজে লেখা যায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সবধরনের মেশিনে ব্যবহার উপযোগী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোগ্রাম সরাসরি ও দ্রুত কার্যকরি হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রোগ্রামের ভুল সহজে শনাক্ত করা যায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 81
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-090",
+      "text": "C প্রোগ্রামের কাঠামো সিকুয়েন্স কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "main ( ) → # include",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "# include → main ( )",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "main ( ) → # include < >",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "# include < > → main ( )",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 82
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-091",
+      "text": "সি ভাষায় && কে কোন ধরনের অপারেটর বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Arithmetic",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Relation",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Logical",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Assignment",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 83
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-092",
+      "text": "double ডেটা টাইপের জন্য ফরমেট স্পেসিফায়ার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "%d",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "%f",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "%lf",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "%s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 84
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-093",
+      "text": "নিচের কোনটি দ্বি-মাত্রিক অ্যারের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "mark[5, 6]",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "mark(5, 6)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "mark[5][6]",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "mark (5)(6)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 85
+      },
+      "tags": [
+        "c-programming",
+        "array"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-094",
+      "text": "\"Hello World!\" লেখাটি ৫ বার প্রদর্শনের ক্ষেত্রে C প্রোগ্রাম স্টেটমেন্টসমূহ হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "for(n=1; n<6;n++) printf(\"Hello World!\");"
+        },
+        {
+          "label": "ii",
+          "text": "n=3; do {printf(\"Hello World!\"); n++;} while (n<=8);"
+        },
+        {
+          "label": "iii",
+          "text": "n=5; while (n<10) {printf(\"Hello World!\"); n++;}"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 86
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-095",
+      "text": "float type চলকের জন্য মেমোরিতে কত বাইট জায়গার প্রয়োজন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 88
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-096",
+      "text": "ICT লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for(c = 2; c <=10; c = c+2)\n{printf (\"ICT\");\nif (c==6)\nbreak;}",
+      "stem_image": null,
+      "group": "bank-ch5-cb17-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 89
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "break"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-097",
+      "text": "if শর্তটি বাদ দিলে ICT লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for(c = 2; c <=10; c = c+2)\n{printf (\"ICT\");\nif (c==6)\nbreak;}",
+      "stem_image": null,
+      "group": "bank-ch5-cb17-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 90
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-098",
+      "text": "প্রোগ্রামের ভুলত্রুটি খুঁজে বের করে তা সংশোধনের পদ্ধতিকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কোডিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডিকোডিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এনকোডিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিবাগিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 91
+      },
+      "tags": [
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-099",
+      "text": "উদ্দীপকের আলোকে \"ICT\" লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for(i=1;i<=10; i=i+2)\n{\nprintf(\"ICT\");\nif(i==7)\nbreak;\n}",
+      "stem_image": null,
+      "group": "bank-ch5-sb17-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 92
+      },
+      "tags": [
+        "c-programming",
+        "loop",
+        "break"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-100",
+      "text": "if শর্তটি বাদ দিলে \"ICT\" লেখাটি কতবার প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "for(i=1;i<=10; i=i+2)\n{\nprintf(\"ICT\");\nif(i==7)\nbreak;\n}",
+      "stem_image": null,
+      "group": "bank-ch5-sb17-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 93
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-101",
+      "text": "সমপ্রকৃতির ডেটার সমাবেশকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্ট্রাকচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফাংশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিংকলিস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যারে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 94
+      },
+      "tags": [
+        "c-programming",
+        "array"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-102",
+      "text": "getch () এর জন্য প্রয়োজনীয় Header File কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "stdio.h",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "conio.h",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "math.h",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "graphics.h",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 95
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-103",
+      "text": "C ভাষায় সঠিক চলক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "st_name",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "$ stname",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1stname",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1st-name",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 96
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-104",
+      "text": "কোনটি স্বাভাবিক ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4GL",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5GL",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেশিনভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাসেম্বলি ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 97
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-105",
+      "text": "for(i=2; i<=10; i=i+2) এর printf(\"%d\",i) ধারা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2, 4, 6, 8, 10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1, 3, 5, 7, 9",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2, 3, 4, 5, 6, 7, 8, 9, 10",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 98
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-106",
+      "text": "উদ্দীপকের m এর জন্য কত বাইট জায়গা প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain() {\nint m;\nprintf(\"Enter your marks\");\nscanf(\"%d\", &m);\nprintf(\"%d\",&m); }",
+      "stem_image": null,
+      "group": "bank-ch5-jb17-q99",
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 99
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-107",
+      "text": "উদ্দীপকের কোন স্টেটমেন্টটি ভুল?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain() {\nint m;\nprintf(\"Enter your marks\");\nscanf(\"%d\", &m);\nprintf(\"%d\",&m); }",
+      "stem_image": null,
+      "group": "bank-ch5-jb17-q99",
+      "options": [
+        {
+          "label": "a",
+          "text": "int m;",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "printf(\"Enter your marks\");",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "scanf(\"%d\",&m);",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "printf(\"%d\",&m);",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 100
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-108",
+      "text": "হেডার ফাইল হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "stdio.h"
+        },
+        {
+          "label": "ii",
+          "text": "math.h"
+        },
+        {
+          "label": "iii",
+          "text": "printf.h"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 101
+      },
+      "tags": [
+        "c-programming",
+        "header-file"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-109",
+      "text": "প্রোগ্রামে কোন ধরনের ভুলের জন্য কম্পিউটার বার্তা দেয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিনট্যাক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লজিক্যাল ভুল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেটা ভুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যেকোনো ভুল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 102
+      },
+      "tags": [
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-110",
+      "text": "আউটপুট স্টেটমেন্ট হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "printf ()"
+        },
+        {
+          "label": "ii",
+          "text": "gets ()"
+        },
+        {
+          "label": "iii",
+          "text": "puts ()"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 103
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-111",
+      "text": "সি ভাষায় রিলেশনাল অপারেটরের কয় ধরনের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 104
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-112",
+      "text": "নিচের কোনটি সংরক্ষিত ওয়ার্ড নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "break",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "if",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "else",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "function",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 105
+      },
+      "tags": [
+        "c-programming",
+        "keyword"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-113",
+      "text": "প্রোগ্রাম রচনার জন্য প্রয়োজন–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমস্যা শনাক্তকরণ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রোগ্রাম বাগ করা"
+        },
+        {
+          "label": "iii",
+          "text": "প্রোগ্রাম ডিবাগিং করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 106
+      },
+      "tags": [
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-114",
+      "text": "সি-প্রোগ্রামের ক্ষেত্রে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রোগ্রাম কম্পাইল করার জন্য Alt এবং F9 কী-দ্বয় একত্রে চাপতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রোগ্রাম সেভ করার জন্য Alt এবং S কী-দ্বয় একত্রে চাপতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রোগ্রাম রান করার জন্য Ctrl এবং F9 কী-দ্বয় একত্রে চাপতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 107
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-115",
+      "text": "কোন ভাষায় লিখিত প্রোগ্রাম কম্পিউটার সরাসরি বুঝতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশিন ভাষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চস্তরের ভাষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যাসেম্বলি ভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চতুর্থ প্রজন্মের ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 108
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-116",
+      "text": "লাইব্রেরি ফাংশন হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পূর্ব থেকে তৈরিকৃত বিভিন্ন বিষয়বস্তু"
+        },
+        {
+          "label": "ii",
+          "text": "এক ধরনের বিশেষ স্টেটমেন্ট"
+        },
+        {
+          "label": "iii",
+          "text": "শুধুমাত্র গাণিতিক কার্যে ব্যবহারযোগ্য নির্দেশ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 109
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-117",
+      "text": "কোনটি সি ভাষায় ফাংশন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "int",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "stdio.h",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "printf",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "for",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 110
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-118",
+      "text": "প্রোগ্রাম তৈরির ধাপে কোডিং–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমস্যা বিশ্লেষণের সাথে সম্পর্কিত"
+        },
+        {
+          "label": "ii",
+          "text": "প্রোগ্রামিং ভাষার সাহায্যে করা"
+        },
+        {
+          "label": "iii",
+          "text": "প্রোগ্রাম তৈরির পর ভুল খোঁজা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 111
+      },
+      "tags": [
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-119",
+      "text": "সি ভাষার হেডার ফাইল হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রোগ্রামের আবশ্যকীয় অংশ"
+        },
+        {
+          "label": "ii",
+          "text": "ডেটাটাইপ ধারণকারী ফাইল"
+        },
+        {
+          "label": "iii",
+          "text": "ফাংশনের বর্ণনা ধারণকারী ফাইল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "যদিও হেডার ফাইল আবশ্যকীয় না, তবু শুধু অপশন (iii) না থাকায় (i, iii) দাগানো হলো।",
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 112
+      },
+      "tags": [
+        "c-programming",
+        "header-file"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-120",
+      "text": "উদ্দীপকে উদ্ভূত সমস্যার কারণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "জেরি সি-ভাষায় একটি প্রোগ্রাম রচনা করে যাতে দুইটি সংখ্যার যোগফল নির্ণয় করা যায়। প্রোগ্রামটি রান করার পর ২টি সংখ্যা প্রদান করলে ফলাফলে শুধু ২য় সংখ্যাটি প্রদর্শিত হয়।",
+      "stem_image": null,
+      "group": "bank-ch5-db16-q113",
+      "options": [
+        {
+          "label": "a",
+          "text": "সঠিক হেডার ফাইল উল্লেখ না করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইনপুটে ভগ্নাংশ সংখ্যা প্রদান করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আউটপুট ফাংশনে ভুল চলক ঘোষণা করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রয়োজনীয় চলক ঘোষণা না করা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 113
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-121",
+      "text": "উদ্দীপকের ন্যায় প্রোগ্রাম তৈরির ক্ষেত্রে প্রয়োজন–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিশেষ ডেটাবেজ প্রোগ্রামিং ভাষা জানা থাকা"
+        },
+        {
+          "label": "ii",
+          "text": "চলক ও ডেটা টাইপ সম্পর্কে ধারণা থাকা"
+        },
+        {
+          "label": "iii",
+          "text": "ইনপুট আউটপুট সম্পর্কে সঠিক ধারণা থাকা"
+        }
+      ],
+      "stem": "জেরি সি-ভাষায় একটি প্রোগ্রাম রচনা করে যাতে দুইটি সংখ্যার যোগফল নির্ণয় করা যায়। প্রোগ্রামটি রান করার পর ২টি সংখ্যা প্রদান করলে ফলাফলে শুধু ২য় সংখ্যাটি প্রদর্শিত হয়।",
+      "stem_image": null,
+      "group": "bank-ch5-db16-q113",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 114
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-122",
+      "text": "সি-ভাষায় উপাত্ত গ্রহণের কমান্ড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "main()",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "print()",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "scanf()",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "getch()",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 115
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-123",
+      "text": "কোনটি সি-ভাষায় ব্যবহৃত কী-ওয়ার্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ing",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "for",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "select",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "href",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 116
+      },
+      "tags": [
+        "c-programming",
+        "keyword"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-124",
+      "text": "উদ্দীপকে প্রাপ্ত আউটপুটে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "c এর মান প্রদর্শন করবে"
+        },
+        {
+          "label": "ii",
+          "text": "যোগফল প্রদর্শন করবে"
+        },
+        {
+          "label": "iii",
+          "text": "a ও b এর মান প্রদর্শন করবে"
+        }
+      ],
+      "stem": "# include <stdio.h>\n#include <conio.h>\nmain () {\nint a,b,c;\nprintf(\"Enter value:\");\nscanf (\"%d %d\", &a, &b);\nc=a+b;\nprintf(\"\\n%d\", c);\ngetch(); }",
+      "stem_image": null,
+      "group": "bank-ch5-rb16-q117",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 117
+      },
+      "tags": [
+        "c-programming"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-125",
+      "text": "উদ্দীপকের প্রোগ্রামের আউটপুটে ভগ্নাংশ মান পেতে হলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেটা টাইপ পরিবর্তন করতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "ফরমেট স্পেসিফায়ার পরিবর্তন করতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "ভগ্নাংশ মান ইনপুট দিতে হবে"
+        }
+      ],
+      "stem": "# include <stdio.h>\n#include <conio.h>\nmain () {\nint a,b,c;\nprintf(\"Enter value:\");\nscanf (\"%d %d\", &a, &b);\nc=a+b;\nprintf(\"\\n%d\", c);\ngetch(); }",
+      "stem_image": null,
+      "group": "bank-ch5-rb16-q117",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 118
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-126",
+      "text": "কোনটি সম্পর্কযুক্ত অপারেটরের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": ">=",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<<",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 119
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-127",
+      "text": "অনুবাদক সফটওয়্যার কয় ধরনের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 120
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-128",
+      "text": "সকল ধনাত্মক ও ঋণাত্মক পূর্ণসংখ্যাকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্যারেক্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টিজার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিয়াল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাবল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 121
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-129",
+      "text": "মেশিন ভাষা হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অন্যান্য ভাষা হতে দ্রুত নির্বাহ হয়"
+        },
+        {
+          "label": "ii",
+          "text": "যন্ত্রের ওপর নির্ভরশীল থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "তাড়াতাড়ি প্রোগ্রাম লেখা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 122
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-130",
+      "text": "মেশিন ভাষার প্রোগ্রাম–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সরাসরি ও দ্রুত কার্যকর হয়"
+        },
+        {
+          "label": "ii",
+          "text": "কম্পিউটার সংগঠন বর্ণনা করে"
+        },
+        {
+          "label": "iii",
+          "text": "লেখা সহজ ও সাধারণের ব্যবহার উপযোগী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 123
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-131",
+      "text": "তিনটি পূর্ণসংখ্যা (a, b, c) কী-বোর্ডের দ্বারা ইনপুট নেয়ার জন্য ইনপুট ফাংশনের সঠিক ব্যবহার নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "scanf(\"%d %d %d\", &b, &c);",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "scanf(\"%d %d %d\", &a, &b, &c);",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "scanf(\"% % ddd\", &a, &b, &c);",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "scanf ( \"%d %d %d\", a, b, c );",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 124
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-132",
+      "text": "প্রোগ্রাম রান করলে printf () ফাংশনে b এর মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain () {\nint a = 3, b;\nb = ++a;\nprintf (\"%d\", b); }",
+      "stem_image": null,
+      "group": "bank-ch5-cb16-q125",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 125
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-133",
+      "text": "অতিরিক্ত লাইন না লিখে প্রোগ্রাম রান করলে printf () ফাংশনে b এর মান ৮ হবে কী পরিবর্তন করলে?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include<stdio.h>\nmain () {\nint a = 3, b;\nb = ++a;\nprintf (\"%d\", b); }",
+      "stem_image": null,
+      "group": "bank-ch5-cb16-q125",
+      "options": [
+        {
+          "label": "a",
+          "text": "b = a++",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "b = a--",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "b = a − 5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "b = a + 5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 126
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-134",
+      "text": "ফ্লোচার্ট কত প্রকার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 127
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-135",
+      "text": "প্রোগ্রামের ভাষায় লেখা প্রোগ্রামকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গন্তব্য প্রোগ্রাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎস প্রোগ্রাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভিজুয়াল প্রোগ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অনুবাদক প্রোগ্রাম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 128
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-136",
+      "text": "সরাসরি কোন ভাষা কম্পিউটারে ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাসেম্বলি ভাষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যান্ত্রিক ভাষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চস্তরের ভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অতি উচ্চস্তরের ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 129
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-137",
+      "text": "প্রোগ্রামে ডিক্লেয়ার করা m কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "#include <stdio.h>\nmain () {\nfloat m;\nprintf (\"Enter the Number\");\nscanf (\"%d\", &m); }",
+      "stem_image": null,
+      "group": "bank-ch5-sb16-q130",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভেরিয়েবল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টেটমেন্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কী-ওয়ার্ড",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 130
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-138",
+      "text": "প্রোগ্রামে উল্লিখিত %d এর পরিবর্তে হবে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "%.f"
+        },
+        {
+          "label": "ii",
+          "text": "%.2f"
+        },
+        {
+          "label": "iii",
+          "text": "%s"
+        }
+      ],
+      "stem": "#include <stdio.h>\nmain () {\nfloat m;\nprintf (\"Enter the Number\");\nscanf (\"%d\", &m); }",
+      "stem_image": null,
+      "group": "bank-ch5-sb16-q130",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 131
+      },
+      "tags": [
+        "c-programming",
+        "format-specifier"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-139",
+      "text": "প্রোগ্রাম ফ্লোচার্টে প্রক্রিয়াকরণের জন্য কোন প্রতীকটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সামান্তরিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তক্ষেত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রম্বস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 132
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-140",
+      "text": "প্রোগ্রাম ডিজাইনের অন্তর্ভুক্ত কাজ হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অ্যালগরিদম প্রণয়ন"
+        },
+        {
+          "label": "ii",
+          "text": "প্রবাহচিত্র তৈরি"
+        },
+        {
+          "label": "iii",
+          "text": "সুডোকোড তৈরি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 133
+      },
+      "tags": [
+        "program-development"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-141",
+      "text": "উদ্দীপকে ব্যবহৃত ডেটা টাইপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "main( ) {\nint n;\nscanf(\"\\\"%d\\\"\", &n);\nprintf(\"d\" ,sqrt(n)); }",
+      "stem_image": null,
+      "group": "bank-ch5-bb16-q134",
+      "options": [
+        {
+          "label": "a",
+          "text": "Primary",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "User defined",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Derived",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Empty",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 134
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-142",
+      "text": "উদ্দীপকে আবশ্যক হেডার ফাইল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "stdio.h"
+        },
+        {
+          "label": "ii",
+          "text": "conio.h"
+        },
+        {
+          "label": "iii",
+          "text": "math.h"
+        }
+      ],
+      "stem": "main( ) {\nint n;\nscanf(\"\\\"%d\\\"\", &n);\nprintf(\"d\" ,sqrt(n)); }",
+      "stem_image": null,
+      "group": "bank-ch5-bb16-q134",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 135
+      },
+      "tags": [
+        "c-programming",
+        "header-file"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-143",
+      "text": "নিচের কোনটি সঠিক চলক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 test",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "test 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "test @ 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "test_1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 136
+      },
+      "tags": [
+        "c-programming",
+        "variable"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-144",
+      "text": "x-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "x = 100; x /= 5; x = x % 10;",
+      "stem_image": null,
+      "group": "bank-ch5-bb16-q137",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 137
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-145",
+      "text": "উদ্দীপকে ব্যবহৃত অপারেটর হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "Arithmetic"
+        },
+        {
+          "label": "ii",
+          "text": "Assignment"
+        },
+        {
+          "label": "iii",
+          "text": "Logical"
+        }
+      ],
+      "stem": "x = 100; x /= 5; x = x % 10;",
+      "stem_image": null,
+      "group": "bank-ch5-bb16-q137",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 138
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-146",
+      "text": "বেতন ২০,০০০ টাকার অধিক বুঝাতে কোনটি ব্যবহার করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "= < 20,000",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "> 20,000",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": ">=20,000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "< 20,000",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 139
+      },
+      "tags": [
+        "c-programming",
+        "operator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-147",
+      "text": "কোনটিতে কম মেমোরি ও রিসোর্স নিয়ে সহজে প্রোগ্রাম লেখা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাকসেস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওরাকল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পাইথন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 140
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-148",
+      "text": "প্রোগ্রামিং ভাষার সর্বনিম্নস্তর কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যাসেম্বলি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাই লেভেল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভেরি হাই লেভেল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 141
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-149",
+      "text": "মেমোরি অ্যাড্রেস নিয়ে সরাসরি কাজ হয়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মেশিন ভাষায়"
+        },
+        {
+          "label": "ii",
+          "text": "অ্যাসেম্বলি ভাষায়"
+        },
+        {
+          "label": "iii",
+          "text": "C তে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 142
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-150",
+      "text": "4GL বলতে বুঝায়–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতি উচ্চস্তরের ভাষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চস্তরের ভাষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মধ্যম স্তরের ভাষা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিম্নস্তরের ভাষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 143
+      },
+      "tags": [
+        "language-generation"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (b) উচ্চস্তরের ভাষা; 4GL সাধারণত \"অতি উচ্চস্তরের ভাষা\" (a) বলা হয় — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch5-mcq-151",
+      "text": "C প্রোগ্রামিং ভাষায় long integer চলক মেমোরিতে কত বাইট জায়গা নেয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ বাইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪ বাইট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮ বাইট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬ বাইট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 144
+      },
+      "tags": [
+        "c-programming",
+        "data-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-152",
+      "text": "কোনটি ফ্লোচার্টের সংযোগ প্রতীক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch5-bank-q145-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch5-bank-q145-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch5-bank-q145-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch5-bank-q145-opt-d.png"
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 145
+      },
+      "tags": [
+        "c-programming",
+        "flowchart"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-153",
+      "text": "for(i=1; i<8; i+=2) printf(\"%d\", i); কোনটি উপরের স্টেটমেন্টের ফলাফল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১২৩৪৫৬",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৩৫৭",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৪৬৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২৩৪৫৬৭৮",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 146
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-154",
+      "text": "'কম্পাইলার' ও 'ইন্টারপ্রেটার' এর মধ্যে পার্থক্য রয়েছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রোগ্রামটি অনুবাদের ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "কাজের গতির ক্ষেত্রে"
+        },
+        {
+          "label": "iii",
+          "text": "ভুল প্রদর্শনের ক্ষেত্রে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 147
+      },
+      "tags": [
+        "translator"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-155",
+      "text": "অ্যাসেম্বলি ভাষা কোন প্রজন্মের ভাষা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২য়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩য়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪র্থ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 148
+      },
+      "tags": [
+        "language-generation",
+        "assembly"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch5-mcq-156",
+      "text": "প্রোগ্রামটি রান করালে এবং কী বোর্ডে 10 টাইপ করলে কত ফলাফল পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include<stdio.h>\n# include<conio.h>\nvoid main () {\nint n, i, s;\nscanf (\"%d\" , & n);\ns=0;\nfor (i=1; i<=n; i++)\ns=s+i;\nprintf(\"%d\" , s);\ngetch( ); }",
+      "stem_image": null,
+      "group": "bank-ch5-dib16-q149",
+      "options": [
+        {
+          "label": "a",
+          "text": "25",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "55",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "165",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 149
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null,
+      "review_note": "মূল ছাপায় লুপের লাইনটি \"for (i=1< =n;i++);\" ছিল (বানান/চিহ্নের ভুল); এখানে \"for (i=1; i<=n; i++)\" ধরে সংশোধন করা হয়েছে।"
+    },
+    {
+      "id": "ict-ch5-mcq-157",
+      "text": "10 সংখ্যাটি ঠিক রেখে ফলাফল 387 পেতে লুপ স্টেটমেন্টে কী ধরনের পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "# include<stdio.h>\n# include<conio.h>\nvoid main () {\nint n, i, s;\nscanf (\"%d\" , & n);\ns=0;\nfor (i=1; i<=n; i++)\ns=s+i;\nprintf(\"%d\" , s);\ngetch( ); }",
+      "stem_image": null,
+      "group": "bank-ch5-dib16-q149",
+      "options": [
+        {
+          "label": "a",
+          "text": "s = s * i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "s = s + i * i",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "s = s + i * i * 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "s = s + i * i * i",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 150
+      },
+      "tags": [
+        "c-programming",
+        "loop"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা প্রশ্নে সংখ্যাটি 387; কিন্তু 1² + 2² + … + 10² = 385, তাই সংখ্যাটি ভুল ছাপা হয়ে থাকতে পারে (ছাপা উত্তর (b)) — যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch5-mcq-158",
+      "text": "printf () এর সাহায্যে ডেটা কোথায় পাঠানো হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইনপুট মান ইনপুট মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আউটপুট মান আউটপুট মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইনপুট মান আউটপুট মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আউটপুট মান ইনপুট মাধ্যমে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 151
+      },
+      "tags": [
+        "c-programming",
+        "function"
+      ],
+      "difficulty": null
+    }
+  ]
+}

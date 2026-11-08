@@ -1,0 +1,6957 @@
+{
+  "subject": "ict",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch2-mcq-001",
+      "text": "কম্পিউটার ও মাল্টিমিডিয়া প্রজেক্টরের মধ্যে ডেটা সঞ্চালন মোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যানিকাস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12
+      },
+      "tags": [
+        "data-transmission",
+        "simplex"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-002",
+      "text": "বিট সিনক্রোনাইজেশন হচ্ছে —",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিট প্রেরণের সমন্বিত পদ্ধতি"
+        },
+        {
+          "label": "ii",
+          "text": "বিটের শুরু এবং শেষ বুঝানো"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যান্ডউইথ বৃদ্ধি পাওয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13
+      },
+      "tags": [
+        "data-transmission",
+        "synchronization"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-003",
+      "text": "এই ধরনের নেটওয়ার্কে মোট তারের সংখ্যা হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-mcq-003-stem.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "n",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n(n−1)/2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(n−1)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(n−1)/2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16
+      },
+      "tags": [
+        "topology",
+        "mesh"
+      ],
+      "difficulty": null,
+      "group": "hse26-q16-17"
+    },
+    {
+      "id": "ict-ch2-mcq-004",
+      "text": "উল্লিখিত টপোলজির সুবিধাগুলো —",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-mcq-003-stem.png",
+      "statements": [
+        {
+          "label": "i",
+          "text": "শক্তিশালী কাঠামো"
+        },
+        {
+          "label": "ii",
+          "text": "নেটওয়ার্ক ইনস্টলেশন ও কনফিগারেশন সহজ"
+        },
+        {
+          "label": "iii",
+          "text": "একটি লিংক নষ্ট হলেও ডেটা আদান প্রদান সম্ভব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17
+      },
+      "tags": [
+        "topology",
+        "mesh"
+      ],
+      "difficulty": null,
+      "group": "hse26-q16-17"
+    },
+    {
+      "id": "ict-ch2-mcq-005",
+      "text": "উদ্দীপকের নেটওয়ার্কটি কোন টপোলজিতে ছিল?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি অফিসে ১০টি কম্পিউটার এমন একটি কেন্দ্রীয় ডিভাইসের মাধ্যমে সংযুক্ত যা নেটওয়ার্কে ডেটা পাঠালে সব কম্পিউটারে যায়। এ কারণে কেন্দ্রীয় ডিভাইসটি পরিবর্তন করা হলো।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19
+      },
+      "tags": [
+        "topology",
+        "hub"
+      ],
+      "difficulty": null,
+      "group": "hse26-q19-20"
+    },
+    {
+      "id": "ict-ch2-mcq-006",
+      "text": "ডিভাইস পরিবর্তনের ফলে নেটওয়ার্কটির কাঠামোতে কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি অফিসে ১০টি কম্পিউটার এমন একটি কেন্দ্রীয় ডিভাইসের মাধ্যমে সংযুক্ত যা নেটওয়ার্কে ডেটা পাঠালে সব কম্পিউটারে যায়। এ কারণে কেন্দ্রীয় ডিভাইসটি পরিবর্তন করা হলো।",
+      "stem_image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "লজিক্যাল টপোলজি বা ডেটা প্রবাহের উন্নতি হবে"
+        },
+        {
+          "label": "ii",
+          "text": "ফিজিক্যাল বা গাঠনিক টপোলজি বদলে যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "নেটওয়ার্ক পারফরম্যান্স বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20
+      },
+      "tags": [
+        "topology",
+        "switch"
+      ],
+      "difficulty": null,
+      "group": "hse26-q19-20"
+    },
+    {
+      "id": "ict-ch2-mcq-007",
+      "text": "ফাইবার অপটিকে ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লেজার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গামা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিটা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলফা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2
+      },
+      "tags": [
+        "fiber-optic",
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-008",
+      "text": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কী-বোর্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পেজার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এসএমএস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোবাইল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 14
+      },
+      "tags": [
+        "data-transmission",
+        "half-duplex"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-009",
+      "text": "মিঃ শাহীন LAN নেটওয়ার্ক তৈরি করতে কোন ধরনের ডিভাইস ব্যবহার করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ শাহীন বাসায় ব্যবহৃত ল্যাপটপ, ডেস্কটপ ও মোবাইল WiFi এর মাধ্যমে LAN নেটওয়ার্ক তৈরি করেন। তিনি উক্ত নেটওয়ার্কের সাথে WAN যুক্ত করতে একটি ডিভাইস ব্যবহার করেন।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুইচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রিজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাউটার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 19
+      },
+      "tags": [
+        "networking-device",
+        "lan"
+      ],
+      "difficulty": null,
+      "group": "hse25-q19-20"
+    },
+    {
+      "id": "ict-ch2-mcq-010",
+      "text": "উদ্দীপকে কোন ধরনের নেটওয়ার্ক টপোলজি গড়ে উঠেছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ শাহীন বাসায় ব্যবহৃত ল্যাপটপ, ডেস্কটপ ও মোবাইল WiFi এর মাধ্যমে LAN নেটওয়ার্ক তৈরি করেন। তিনি উক্ত নেটওয়ার্কের সাথে WAN যুক্ত করতে একটি ডিভাইস ব্যবহার করেন।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইব্রিড",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null,
+      "group": "hse25-q19-20"
+    },
+    {
+      "id": "ict-ch2-mcq-011",
+      "text": "নেটওয়ার্কিংয়ের উদ্দেশ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইনফরমেশন শেয়ার"
+        },
+        {
+          "label": "ii",
+          "text": "সফটওয়্যার শেয়ার"
+        },
+        {
+          "label": "iii",
+          "text": "হার্ডওয়্যার শেয়ার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-012",
+      "text": "ব্লুটুথ এর ফ্রিকোয়েন্সি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.45KHz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.45MHz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.45GHz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.45THz",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [
+        "bluetooth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-013",
+      "text": "১০টি কম্পিউটারকে মেশ নেটওয়ার্কিং এর আওতায় আনতে কয়টি তারের প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [
+        "topology",
+        "mesh"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-014",
+      "text": "উদ্দীপকের নেটওয়ার্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "করিম সাহেব তার প্রয়োজনে কম্পিউটারভিত্তিক একটি সেবা গ্রহণ করলেন, যা ২৪ ঘণ্টা খোলা থাকে। সকল সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, খরচ কম এবং ব্যাকআপ ক্যাপাসিটি অনেক বেশি। তার কম্পিউটারটি বিভিন্ন দেশের কম্পিউটারের সাথে যুক্ত।",
+      "stem_image": null,
+      "group": "bank-ch2-db23-q4",
+      "options": [
+        {
+          "label": "a",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-015",
+      "text": "উদ্দীপকে উল্লিখিত সেবাটি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রিসোর্স স্কেলিবিলিটি"
+        },
+        {
+          "label": "ii",
+          "text": "অন-ডিমান্ড সেবা"
+        },
+        {
+          "label": "iii",
+          "text": "পে-অ্যাজ-ইউ-গো সেবা"
+        }
+      ],
+      "stem": "করিম সাহেব তার প্রয়োজনে কম্পিউটারভিত্তিক একটি সেবা গ্রহণ করলেন, যা ২৪ ঘণ্টা খোলা থাকে। সকল সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, খরচ কম এবং ব্যাকআপ ক্যাপাসিটি অনেক বেশি। তার কম্পিউটারটি বিভিন্ন দেশের কম্পিউটারের সাথে যুক্ত।",
+      "stem_image": null,
+      "group": "bank-ch2-db23-q4",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-016",
+      "text": "বিল্ডিং, পাহাড়-পর্বতসহ যেকোনো বাঁধা অতিক্রম করতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রেডিও ওয়েভ"
+        },
+        {
+          "label": "ii",
+          "text": "টেরিস্ট্রিয়াল মাইক্রোওয়েভ"
+        },
+        {
+          "label": "iii",
+          "text": "স্যাটেলাইট মাইক্রোওয়েভ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 6
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-017",
+      "text": "প্রাইভেট নেটওয়ার্ক হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "PAN"
+        },
+        {
+          "label": "ii",
+          "text": "LAN"
+        },
+        {
+          "label": "iii",
+          "text": "WAN"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-018",
+      "text": "নিচের চিত্রটি হতে পারে:",
+      "text_en": null,
+      "image": "assets/ch2-bank-q008.png",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্রডকাস্ট"
+        },
+        {
+          "label": "ii",
+          "text": "মাল্টি কাস্ট"
+        },
+        {
+          "label": "iii",
+          "text": "সিমপ্লেক্স"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-019",
+      "text": "কোন ট্রান্সমিশনে ডেটা ক্যারেক্টার বাই ক্যারেক্টার ট্রান্সমিট হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্যারালাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যাসিনক্রোনাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সিনক্রোনাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইসোক্রোনাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [
+        "synchronization"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-020",
+      "text": "জনাব শারার এর অফিসের নেটওয়ার্ক কী হতে পারে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব শারার একজন ব্যবসায়ী। তার অফিসে ৭টি ডেস্কটপ কম্পিউটার রয়েছে। তিনি কম্পিউটারগুলো নেটওয়ার্কের সাথে যুক্ত করতে চান।",
+      "stem_image": null,
+      "group": "bank-ch2-cb23-q10",
+      "options": [
+        {
+          "label": "a",
+          "text": "CAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-021",
+      "text": "উদ্দীপকে উল্লিখিত অফিসের নেটওয়ার্কের জন্য সাশ্রয়ী মাধ্যম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব শারার একজন ব্যবসায়ী। তার অফিসে ৭টি ডেস্কটপ কম্পিউটার রয়েছে। তিনি কম্পিউটারগুলো নেটওয়ার্কের সাথে যুক্ত করতে চান।",
+      "stem_image": null,
+      "group": "bank-ch2-cb23-q10",
+      "options": [
+        {
+          "label": "a",
+          "text": "অপটিক্যাল ফাইবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কো-এক্সিয়াল ক্যাবল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টুইস্টেড পেয়ার ক্যাবল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাইক্রোওয়েভ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-022",
+      "text": "ভিন্ন প্রোটোকলবিশিষ্ট নেটওয়ার্কের মধ্যে সংযোগ স্থাপনের ডিভাইস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুইচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গেটওয়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাউটার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-023",
+      "text": "প্যাকেট বা সার্কিট সুইচিং ডেটা ট্রান্সমিশনের পরিবর্তে ইন্টারনেট প্রোটোকলভিত্তিক নেটওয়ার্কের সুবিধা হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "গতি 3G এর তুলনায় ৫০ গুণ বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "এটি LTE স্ট্যান্ডার্ডে কাজ করে"
+        },
+        {
+          "label": "iii",
+          "text": "এর মাধ্যমে 4K TV বা Video দেখা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-024",
+      "text": "ব্রডকাস্টের ক্ষেত্রে কোন মাধ্যম বেশি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপটিক্যাল ফাইবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাইক্রোওয়েভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টুইস্টেড পেয়ার ক্যাবল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 14
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-025",
+      "text": "একটি চ্যানেল দিয়ে 5 সেকেন্ডে 9000 bit স্থানান্তরিত হলে তার ব্যান্ডউইথ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1800 gbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1800 mbps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1800 kbps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1800 bps",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "ব্যান্ডউইথ = মোট প্রবাহিত ডেটা (bit) ÷ প্রবাহের সময় (s) = 9000 ÷ 5 = 1800 bps।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-026",
+      "text": "ইন্টারনেট প্রোটোকলভিত্তিক নেটওয়ার্ক ব্যবহৃত হয় মোবাইলের কোন প্রজন্ম হতে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্বিতীয় প্রজন্ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তৃতীয় প্রজন্ম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চতুর্থ প্রজন্ম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পঞ্চম প্রজন্ম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-027",
+      "text": "উদ্দীপকের সার্ভিসটি কী নামে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সামিহা তার কম্পিউটারে অনেক নতুন সফটওয়্যার ব্যবহার করতে পারে না। পরে সে এমন এক সার্ভিস গ্রহণ করল যা দ্বারা সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, উচ্চগতি সম্পন্ন কম্পিউটারের সুবিধা পাওয়া যায় এবং খরচও কম হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-sb23-q17",
+      "options": [
+        {
+          "label": "a",
+          "text": "Bluetooth",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Wi-fi",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Wimax",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Cloud computing",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-028",
+      "text": "উদ্দীপকে ব্যবহৃত সার্ভিসটি পেতে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিরাপত্তা ঝুঁকি নাই"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবহারের অতিরিক্ত মূল্য দিতে হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "রক্ষণাবেক্ষণের খরচ নেই"
+        }
+      ],
+      "stem": "সামিহা তার কম্পিউটারে অনেক নতুন সফটওয়্যার ব্যবহার করতে পারে না। পরে সে এমন এক সার্ভিস গ্রহণ করল যা দ্বারা সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, উচ্চগতি সম্পন্ন কম্পিউটারের সুবিধা পাওয়া যায় এবং খরচও কম হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-sb23-q17",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-029",
+      "text": "একটি সুইচ দিয়ে কয়টি LAN তৈরি করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-030",
+      "text": "ডেটা যোগাযোগের নির্ভরশীলতা যেখানে মুখ্য সেসব ক্ষেত্রে কোন টপোলজি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 20
+      },
+      "tags": [
+        "topology",
+        "mesh"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-031",
+      "text": "Group SMS এর মোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফুল ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইউনিকাস্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-032",
+      "text": "ফাইবার অপটিক ক্যাবলে কোন তরঙ্গদৈর্ঘ্য ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "500nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1000nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1500nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2000nm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-033",
+      "text": "ভিন্ন প্রকৃতির দুটি নেটওয়ার্কের সাথে সংযোগ স্থাপনে ব্যবহৃত ডিভাইস হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুইচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গেটওয়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাউটার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-034",
+      "text": "উদ্দীপকে মিঃ আরিফের গঠিত নেটওয়ার্ক টপোলজি হল—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ আরিফ তার অফিসের কম্পিউটার ও অন্যান্য ইলেক্ট্রনিক ডিভাইসগুলো একটি নেটওয়ার্কের সাহায্যে সংযুক্ত করার পরিকল্পনা করলেন। এতে নেটওয়ার্ক ব্যাকবোন হিসাবে তিনি এক ধরনের ক্যাবল ব্যবহার করেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb23-q24",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-035",
+      "text": "উদ্দীপকে মিঃ আরিফের গঠিত নেটওয়ার্ক টপোলজি হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি দ্বিমুখী ডেটা ব্যবস্থা"
+        },
+        {
+          "label": "ii",
+          "text": "ডেটা ট্রান্সমিশন অপেক্ষাকৃত ধীরগতিসম্পন্ন"
+        },
+        {
+          "label": "iii",
+          "text": "শুধু প্রাপক কম্পিউটার ডেটা গ্রহণ করে এবং অন্যগুলো অগ্রাহ্য করে"
+        }
+      ],
+      "stem": "মিঃ আরিফ তার অফিসের কম্পিউটার ও অন্যান্য ইলেক্ট্রনিক ডিভাইসগুলো একটি নেটওয়ার্কের সাহায্যে সংযুক্ত করার পরিকল্পনা করলেন। এতে নেটওয়ার্ক ব্যাকবোন হিসাবে তিনি এক ধরনের ক্যাবল ব্যবহার করেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb23-q24",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-036",
+      "text": "পিকোনেট কোনটির সাথে সংশ্লিষ্ট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইনফ্রারেড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্লুটুথ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়াইফাই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওয়াইম্যাক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [
+        "bluetooth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-037",
+      "text": "কম্পিউটার নেটওয়ার্কে ডেটা গ্রহণ ও প্রদানের নিয়মকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "URL",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "IP address",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Browser",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Protocol",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 27
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-038",
+      "text": "Amazon, Microsoft এবং Google তাদের অবকাঠামো স্থাপন ও পরিচালনায় কোন ধরনের ক্লাউড সার্ভিস প্রদান করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাইভেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পাবলিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিস্ট্রিবিউটেড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইব্রিড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 28
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-039",
+      "text": "স্টার টপোলজিতে ডিভাইসগুলোর সংযোগ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শাখা-প্রশাখার মতো",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পিয়ার-টু-পিয়ার আকারে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কেন্দ্রিয় হাবের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রথম ও শেষের মধ্যে বৃত্তাকারে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 29
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-040",
+      "text": "রাজুর ফাইল সংরক্ষণে কোন প্রোটোকল কাজ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাজু ইন্টারনেট হতে ছবি ও ফাইল নিজের কম্পিউটারে সংরক্ষণ করে আবার মাঝে মাঝে প্রিন্টও করে।",
+      "stem_image": null,
+      "group": "bank-ch2-jb23-q30",
+      "options": [
+        {
+          "label": "a",
+          "text": "http",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "FTP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "VOIP",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "SMTP",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "FTP = File Transfer Protocol।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 30
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-041",
+      "text": "রাজুর প্রিন্টার কাজে ট্রান্সমিশন মোডটির বৈশিষ্ট্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রেরক ও প্রাপক যেকোনো সময় ডেটা প্রেরণ ও গ্রহণ করে"
+        },
+        {
+          "label": "ii",
+          "text": "জটিল সার্কিট ছাড়াই বাস্তবায়ন করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "ট্রান্সমিশন দক্ষতা বেশি"
+        }
+      ],
+      "stem": "রাজু ইন্টারনেট হতে ছবি ও ফাইল নিজের কম্পিউটারে সংরক্ষণ করে আবার মাঝে মাঝে প্রিন্টও করে।",
+      "stem_image": null,
+      "group": "bank-ch2-jb23-q30",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "প্যারালাল ট্রান্সমিশন মোডে একই সাথে ডেটা আদান-প্রদান করা যায় না কারণ এটি হাফ-ডুপ্লেক্স। তাছাড়া যেকোনো সময় ডেটা প্রেরণ ও গ্রহণ করা অ্যাসিনক্রোনাস ট্রান্সমিশনের বৈশিষ্ট্য, যা সিরিয়াল ট্রান্সমিশনের মধ্যে পড়ে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 31
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-042",
+      "text": "নেটওয়ার্কভুক্ত কম্পিউটার ও অন্যান্য ইলেকট্রনিক ডিভাইসগুলোর সংযোগ বিন্যাসকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোটোকল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নেটওয়ার্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টপোলজি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিডিয়া",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 32
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-043",
+      "text": "উদ্দীপকের সার্ভিসটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিনা তার ল্যাপটপে নতুন কোনো সফটওয়্যার ব্যবহার করতে পারে না। যার ফলে সে এমন একটি সার্ভিস গ্রহণ করল যার মাধ্যমে সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, উচ্চ গতি সম্পন্ন কম্পিউটারের সুবিধা পাওয়া যায় এবং খরচও কমে যায়।",
+      "stem_image": null,
+      "group": "bank-ch2-cb23-q33",
+      "options": [
+        {
+          "label": "a",
+          "text": "Wi-Fi",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Wi-Max",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Bluetooth",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Cloud computing",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 33
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-044",
+      "text": "উদ্দীপকের ব্যবহৃত সার্ভিসটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "লাইসেন্স ফি প্রয়োজন হয় না"
+        },
+        {
+          "label": "ii",
+          "text": "রক্ষণাবেক্ষণ খরচ নাই"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যবহারের অতিরিক্ত মূল্য দিতে হয় না"
+        }
+      ],
+      "stem": "মিনা তার ল্যাপটপে নতুন কোনো সফটওয়্যার ব্যবহার করতে পারে না। যার ফলে সে এমন একটি সার্ভিস গ্রহণ করল যার মাধ্যমে সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়, উচ্চ গতি সম্পন্ন কম্পিউটারের সুবিধা পাওয়া যায় এবং খরচও কমে যায়।",
+      "stem_image": null,
+      "group": "bank-ch2-cb23-q33",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 34
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-045",
+      "text": "ব্যান্ডউইথের অন্য নাম হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেটা ট্রান্সমিশন স্পিড"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যান্ড স্পিড"
+        },
+        {
+          "label": "iii",
+          "text": "মোবাইল স্পিড"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 36
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-046",
+      "text": "টেক্সট ও ছবি পাঠানোর প্রযুক্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফ্যাক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এসএমএস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এমএমএস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টেলিগ্রাফ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 37
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-047",
+      "text": "শিক্ষা প্রতিষ্ঠানে ল্যানের ক্ষেত্রে সাধারণত কোন ধরনের ক্যাবল ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টুইস্টেড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কো-এক্সিয়াল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "থিকনেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপটিক ফাইবার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 38
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-048",
+      "text": "WiFi কোন ধরনের নেটওয়ার্ক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "WPAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "WLAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "WCAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WMAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 39
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-049",
+      "text": "সিঙ্গেল মোড ফাইবারের কোরের ব্যাস কত মাইক্রন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1–4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4–8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8–12",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12–16",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 40
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-050",
+      "text": "মেশ টপোলজিতে ১০টি নোডের জন্য মোট তার সংখ্যা হবে—টি।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "n সংখ্যক ডিভাইসে তার লাগে ⁿC₂টি; ∴ ১০টি নোডে তার লাগে ¹⁰C₂ = ৪৫টি।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 41
+      },
+      "tags": [
+        "topology",
+        "mesh"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-051",
+      "text": "ক্লাউড কম্পিউটিং এর সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আগে থেকে কোনো সার্ভিস রিজার্ভ করতে হয় না"
+        },
+        {
+          "label": "ii",
+          "text": "যতটুকু ব্যবহার, শুধু ততটুকুর জন্যই মূল্য পরিশোধ করতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "গোপনীয়তা ও নিরাপত্তা বেশি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 42
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-052",
+      "text": "ফোন কল (VOIP) এর ব্যান্ডউইডথ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5 Mbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.7 Mbps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.5 Mbps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 Mbps",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 43
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-053",
+      "text": "উদ্দীপকে ব্যবহৃত সার্ভিসটির ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিরাপত্তা ঝুঁকি নাই"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবহারের অতিরিক্ত মূল্য দিতে হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "রক্ষণাবেক্ষণের খরচ নাই"
+        }
+      ],
+      "stem": "সাহিনা তার কম্পিউটারে অনেক নতুন সফটওয়্যার ব্যবহার করতে পারে না। পরে সে এমন একটি সার্ভিস গ্রহণ করল, যা দ্বারা সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়। উচ্চগতি সম্পন্ন কম্পিউটারের সুবিধা পাওয়া যায় এবং খরচও কম হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-mb23-q44",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 45
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-054",
+      "text": "কো-অ্যাক্সিয়াল ক্যাবলের ডেটা প্রেরণের সাধারণ হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100 Mbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200 Mbps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 Gbps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40 Gbps",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 46
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-055",
+      "text": "একই প্রোটোকলবিশিষ্ট দুই বা ততোধিক নেটওয়ার্ককে সংযুক্ত করে কোন ডিভাইস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গেটওয়ে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাউটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিপিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 47
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-056",
+      "text": "কোন প্রজন্মের মোবাইলে ভিডিও কলের শুরু হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রথম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিতীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তৃতীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চতুর্থ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 48
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-057",
+      "text": "ক্লাউড কম্পিউটিং এর মাধ্যমে কাজ করা সুবিধাজনক কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শুধুমাত্র নিজস্ব হার্ডওয়্যার প্রয়োজন"
+        },
+        {
+          "label": "ii",
+          "text": "সফটওয়্যার স্বয়ংক্রিয়ভাবে আপডেট হয়"
+        },
+        {
+          "label": "iii",
+          "text": "সার্বক্ষণিক ব্যবহার করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 49
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) i, ii ও iii; কিন্তু (i) \"শুধুমাত্র নিজস্ব হার্ডওয়্যার প্রয়োজন\" ক্লাউডের সুবিধার সাথে মেলে না (সম্ভবত \"না\" বাদ পড়েছে) — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-058",
+      "text": "তারগুলো পেঁচানো ও জোড়া জোড়া থাকে বলে ঐ তারকে বলা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টেলিফোন ক্যাবল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কো-এক্সিয়াল ক্যাবল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টুইস্টেড পেয়ার ক্যাবল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফাইবার অপটিক ক্যাবল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 50
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-059",
+      "text": "WiMax এর স্ট্যান্ডার্ড কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "802.11",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "802.11a",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "802.15",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "802.16",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 51
+      },
+      "tags": [
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-060",
+      "text": "উদ্দীপকে সার্ভিসটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "'X' তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ডিজিটাল সুবিধা পায়।",
+      "stem_image": null,
+      "group": "bank-ch2-db19-q52",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্লুটুথ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওয়াইফাই",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়াইম্যাক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্লাউড কম্পিউটিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 52
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-061",
+      "text": "সার্ভিস ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডাটা নিয়ন্ত্রণ"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবহারে অতিরিক্ত মূল্য দিতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "রক্ষণাবেক্ষণের খরচ নাই"
+        }
+      ],
+      "stem": "'X' তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ডিজিটাল সুবিধা পায়।",
+      "stem_image": null,
+      "group": "bank-ch2-db19-q52",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 53
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) i, ii ও iii; কিন্তু (ii) \"অতিরিক্ত মূল্য দিতে হয়\" ক্লাউডের বৈশিষ্ট্যের সাথে মেলে না (অন্য বোর্ডের অনুরূপ প্রশ্নে \"দিতে হয় না\") — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-062",
+      "text": "কোন প্রজন্মের মোবাইলে সর্বপ্রথম MMS সার্ভিস চালু হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রথম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিতীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তৃতীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চতুর্থ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 54
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-063",
+      "text": "উদ্দীপক অনুযায়ী উপযুক্ত সংযোগ ব্যবস্থা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "'ক' কলেজের মান উন্নয়নের জন্য সরকার ১২টি কম্পিউটার প্রদান করে। কম্পিউটারগুলো একই ফ্লোরে অবস্থিত। কম্পিউটার ল্যাব, লাইব্রেরি এবং ক্লাসরুমে ব্যবহৃত হচ্ছে। কম্পিউটারগুলোর মধ্যে ডেটা স্থানান্তরের জন্য পেনড্রাইভ ব্যবহৃত হওয়ার কারণে অনেক অসুবিধা হচ্ছিল। তাই আইসিটি শিক্ষকের পরামর্শে কলেজ কর্তৃপক্ষ কম্পিউটারগুলোকে পরস্পরের সাথে সংযোগের ব্যবস্থা করলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-rb19-q55",
+      "options": [
+        {
+          "label": "a",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 55
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-064",
+      "text": "কলেজ কর্তৃপক্ষের গৃহীত ব্যবস্থায় যে যে রিসোর্সসমূহ শেয়ার করা সম্ভব হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হার্ডওয়্যার"
+        },
+        {
+          "label": "ii",
+          "text": "সফটওয়্যার"
+        },
+        {
+          "label": "iii",
+          "text": "ইনফরমেশন"
+        }
+      ],
+      "stem": "'ক' কলেজের মান উন্নয়নের জন্য সরকার ১২টি কম্পিউটার প্রদান করে। কম্পিউটারগুলো একই ফ্লোরে অবস্থিত। কম্পিউটার ল্যাব, লাইব্রেরি এবং ক্লাসরুমে ব্যবহৃত হচ্ছে। কম্পিউটারগুলোর মধ্যে ডেটা স্থানান্তরের জন্য পেনড্রাইভ ব্যবহৃত হওয়ার কারণে অনেক অসুবিধা হচ্ছিল। তাই আইসিটি শিক্ষকের পরামর্শে কলেজ কর্তৃপক্ষ কম্পিউটারগুলোকে পরস্পরের সাথে সংযোগের ব্যবস্থা করলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-rb19-q55",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 56
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-065",
+      "text": "গ্রীন ফোন বলা হয় কোন প্রযুক্তির মোবাইল ফোনকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "FDMA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "TDMA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "CDMA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PDMA",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 57
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-066",
+      "text": "মাইক্রোওয়েভ প্রযুক্তির অসুবিধা দূর করতে কোন প্রযুক্তি আবশ্যক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইনফ্রারেড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিপিএস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃত্রিম উপগ্রহ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 58
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-067",
+      "text": "কোন ডিভাইসটি প্রোটোকল ট্রান্সলেশনে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গেটওয়ে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাউটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রিজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুইচ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 59
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-068",
+      "text": "ন্যারো ব্যান্ডে কত গতিতে ডেটা স্থানান্তর হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 Mbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9600 bps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1200 bps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "300 bps",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 60
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-069",
+      "text": "কী-বোর্ড থেকে সিপিইউতে ডেটা স্থানান্তরের সময় ব্যবহৃত ট্রান্সমিশনের বৈশিষ্ট্য হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেটা ব্লক আকারে স্থানান্তরিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "যেকোনো সময় ডেটা প্রেরণ ও গ্রহণ করতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 61
+      },
+      "tags": [
+        "synchronization"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-070",
+      "text": "5 কিলোবাইট ডেটা আদান-প্রদানের ক্ষেত্রে অ্যাসিনক্রোনাস ট্রান্সমিশনের দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "72.73%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "77.23%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90.25%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "95.24%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 62
+      },
+      "tags": [
+        "synchronization"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-071",
+      "text": "উদ্দীপকের আলোকে রায়হান সাহেবের ক্লাস নেয়ার সময় কোন ধরনের ডেটা ট্রান্সমিশন মোড ব্যবহৃত হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রায়হান সাহেব মাল্টিমিডিয়া প্রজেক্টর ব্যবহার করে ক্লাস নেন। যে সকল শিক্ষার্থীরা ক্লাসে অনুপস্থিত থাকে তাদের অভিভাবকদের SMS এর মাধ্যমে অনুপস্থিতির বিষয়টি অবহিত করা হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-cb19-q63",
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুল ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 63
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-072",
+      "text": "অনুপস্থিতির বিষয়টি জানানোর জন্য ব্যবহৃত ডেটা ট্রান্সমিশন মোড হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইউনিকাস্ট"
+        },
+        {
+          "label": "ii",
+          "text": "মাল্টিকাস্ট"
+        },
+        {
+          "label": "iii",
+          "text": "ব্রডকাস্ট"
+        }
+      ],
+      "stem": "রায়হান সাহেব মাল্টিমিডিয়া প্রজেক্টর ব্যবহার করে ক্লাস নেন। যে সকল শিক্ষার্থীরা ক্লাসে অনুপস্থিত থাকে তাদের অভিভাবকদের SMS এর মাধ্যমে অনুপস্থিতির বিষয়টি অবহিত করা হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-cb19-q63",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 64
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-073",
+      "text": "টেলিভিশনের ডেটা ট্রান্সমিশন মোড হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিমপ্লেক্স"
+        },
+        {
+          "label": "ii",
+          "text": "মাল্টিকাস্ট"
+        },
+        {
+          "label": "iii",
+          "text": "ব্রডকাস্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 65
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-074",
+      "text": "IEEE 802.11 প্রযুক্তির সাহায্যে কোন নেটওয়ার্কটি তৈরি করা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "CAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 66
+      },
+      "tags": [
+        "network-type",
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-075",
+      "text": "ডেটা কমিউনিকেশনের মাধ্যম হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টুইস্টেড পেয়ার ক্যাবল"
+        },
+        {
+          "label": "ii",
+          "text": "রেডিও ওয়েভ"
+        },
+        {
+          "label": "iii",
+          "text": "মডেম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 67
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-076",
+      "text": "উদ্দীপকে বর্ণিত ভবনে ব্যবহৃত নেটওয়ার্কটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "কলেজের বিজ্ঞান ভবনে বিশটি কম্পিউটার নেটওয়ার্কে সংযুক্ত করা হলো। ২০১৮ সালে শিক্ষা সচিব মহোদয় ভিডিও কনফারেন্স এর মাধ্যমে উক্ত ভবনে অনার্স প্রথম বর্ষের ওরিয়েন্টেশন ক্লাস উদ্বোধন করেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb19-q68",
+      "options": [
+        {
+          "label": "a",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "WAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PAN",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 68
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-077",
+      "text": "উদ্দীপকের নেটওয়ার্কে ব্যবহৃত ডেটা ট্রান্সমিশন মোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "কলেজের বিজ্ঞান ভবনে বিশটি কম্পিউটার নেটওয়ার্কে সংযুক্ত করা হলো। ২০১৮ সালে শিক্ষা সচিব মহোদয় ভিডিও কনফারেন্স এর মাধ্যমে উক্ত ভবনে অনার্স প্রথম বর্ষের ওরিয়েন্টেশন ক্লাস উদ্বোধন করেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb19-q68",
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 69
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-078",
+      "text": "সেলুলার ফোনে কোন টপোলজি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইব্রিড",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 70
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-079",
+      "text": "রেডিও সিগন্যাল প্রথমে ডিজিটাল পদ্ধতিতে কোন প্রজন্মের মোবাইলে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1G",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2G",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3G",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4G",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 71
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-080",
+      "text": "টেলিভিশনের রিমোট কন্ট্রোলে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Infrared",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Radio Wave",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Microwave",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Bluetooth",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 72
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-081",
+      "text": "কম্পিউটার থেকে প্রিন্টারে ডেটা স্থানান্তরিত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ন্যারো ব্যান্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভয়েস ব্যান্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 73
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (b) ভয়েস ব্যান্ড; অপশনে \"হাফ-ডুপ্লেক্স\" (c)-ও আছে (একই বইয়ের 31 নং প্রশ্নে প্রিন্টারের মোড নিয়ে আলোচনা) — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-082",
+      "text": "কোন প্রজন্মের মোবাইল ফোনে আল্ট্রা ব্রড ব্যান্ড গতির ইন্টারনেট ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২য়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩য়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪র্থ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 74
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-083",
+      "text": "নেটওয়ার্ক টপোলজিতে কেন্দ্রীয় ডিভাইস হিসাবে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সক্রিয় হাব"
+        },
+        {
+          "label": "ii",
+          "text": "নিষ্ক্রিয় হাব"
+        },
+        {
+          "label": "iii",
+          "text": "সুইচ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 75
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-084",
+      "text": "ভয়েস ব্যান্ড কোথায় ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টেলিগ্রাফে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টেলিফোনে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাউটারে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গেটওয়েতে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 76
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-085",
+      "text": "GEO স্যাটেলাইট ভূমি থেকে কত উচ্চতায় নির্দিষ্ট কক্ষপথে রাখতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12000 km",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "22000 km",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "27000 km",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "36000 km",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 77
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-086",
+      "text": "একই সাথে উভয় প্রান্ত দিয়ে ডেটা স্থানান্তর পদ্ধতিকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 78
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-087",
+      "text": "কোন টপোলজিতে একটি কেন্দ্রীয় কম্পিউটার থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 79
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-088",
+      "text": "কোনটি ব্লু-টুথ স্ট্যান্ডার্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০২.১১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮০২.১৮",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮০২.১৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮০২.১৬",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 80
+      },
+      "tags": [
+        "bluetooth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-089",
+      "text": "উদ্দীপকে প্রিন্টিং এর ক্ষেত্রে নেটওয়ার্কের ধরন হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি অফিসের দু'টি কক্ষ থেকে দু'জন কম্পিউটার অপারেটর একটি প্রিন্টার থেকে প্রিন্ট দিতে পারেন। অফিসের পরিচালক কম্পিউটার ব্যবহার করে বিশেষ ব্যবস্থায় তার ছেলের সাথে প্রবাসী মেয়ের কথা বলিয়ে দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-dib19-q81",
+      "options": [
+        {
+          "label": "a",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 81
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-090",
+      "text": "উদ্দীপকের ব্যবস্থায় সম্ভব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্বল্প প্রযুক্তিতে অধিক সেবা"
+        },
+        {
+          "label": "ii",
+          "text": "স্বল্প পরিসরে সীমাবদ্ধ কার্যক্রম"
+        },
+        {
+          "label": "iii",
+          "text": "সহজ যোগাযোগ"
+        }
+      ],
+      "stem": "একটি অফিসের দু'টি কক্ষ থেকে দু'জন কম্পিউটার অপারেটর একটি প্রিন্টার থেকে প্রিন্ট দিতে পারেন। অফিসের পরিচালক কম্পিউটার ব্যবহার করে বিশেষ ব্যবস্থায় তার ছেলের সাথে প্রবাসী মেয়ের কথা বলিয়ে দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-dib19-q81",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 82
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-091",
+      "text": "কোন টপোলজিতে প্রথম ও শেষ কম্পিউটার পরস্পর সরাসরি যুক্ত থাকে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাস"
+        },
+        {
+          "label": "ii",
+          "text": "রিং"
+        },
+        {
+          "label": "iii",
+          "text": "মেশ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 83
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-092",
+      "text": "কোন ডিভাইসের সাহায্যে প্রেরক কম্পিউটার থেকে সিগন্যাল নির্দিষ্ট প্রাপক কম্পিউটারেই প্রেরণ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুইচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিপিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রিজ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 84
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-093",
+      "text": "Wi-Max কোন ধরনের নেটওয়ার্কে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 85
+      },
+      "tags": [
+        "network-type",
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-094",
+      "text": "বার্তা জানানোর মোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাসেল 4G মোবাইল ফোন ব্যবহার করে তার নির্দিষ্ট কিছু বন্ধুকে SMS-এর মাধ্যমে একটি বার্তা প্রেরণ করে।",
+      "stem_image": null,
+      "group": "bank-ch2-all18-q86",
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফুল ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 86
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-095",
+      "text": "রাসেলের মোবাইল ফোনের প্রযুক্তি দিয়ে সম্ভব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সার্কিট সুইচিং পদ্ধতিতে ডেটা প্রেরণ"
+        },
+        {
+          "label": "ii",
+          "text": "IP নির্ভর ওয়্যারলেস নেটওয়ার্ক স্থাপন"
+        },
+        {
+          "label": "iii",
+          "text": "ত্রি-মাত্রিক পরিবেশে ডেটা স্থানান্তর"
+        }
+      ],
+      "stem": "রাসেল 4G মোবাইল ফোন ব্যবহার করে তার নির্দিষ্ট কিছু বন্ধুকে SMS-এর মাধ্যমে একটি বার্তা প্রেরণ করে।",
+      "stem_image": null,
+      "group": "bank-ch2-all18-q86",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 87
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-096",
+      "text": "আইপি ডেটা নেটওয়ার্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1G",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2G",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3G",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4G",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 88
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-097",
+      "text": "উদ্দীপকে উল্লিখিত নেটওয়ার্ক হবে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি রুমে থাকা ল্যাপটপগুলো নেটওয়ার্কের আওতায় আনার পরিকল্পনা গ্রহণ করা হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-db17-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "WPAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "WLAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "WMAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WWAN",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 89
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-098",
+      "text": "উদ্দীপকের নেটওয়ার্ক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্যাবলের মাধ্যমে"
+        },
+        {
+          "label": "ii",
+          "text": "ক্লায়েন্ট সার্ভার"
+        },
+        {
+          "label": "iii",
+          "text": "ওয়াইফাই-এর মাধ্যমে"
+        }
+      ],
+      "stem": "একটি রুমে থাকা ল্যাপটপগুলো নেটওয়ার্কের আওতায় আনার পরিকল্পনা গ্রহণ করা হয়।",
+      "stem_image": null,
+      "group": "bank-ch2-db17-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 90
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-099",
+      "text": "মডেমের অ্যানালগ সংকেতকে ডিজিটাল সংকেতে পরিণত করার কাজকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মডুলেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডিমডুলেশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাফ ডুপ্লেক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 91
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-100",
+      "text": "তাদের নেটওয়ার্কটি কী ধরনের হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি অফিসের আটতলা ভবনের বিভিন্ন তলায় অবস্থিত সকল কম্পিউটারকে নেটওয়ার্কের আওতায় আনার পরিকল্পনা করা হচ্ছে।",
+      "stem_image": null,
+      "group": "bank-ch2-rb17-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "WAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PAN",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 92
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-101",
+      "text": "অফিসটির নেটওয়ার্কটিকে তারবিহীন প্রযুক্তিতে গড়ে তুলতে কোন ব্যান্ডউইডথ সীমা ব্যবহৃত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি অফিসের আটতলা ভবনের বিভিন্ন তলায় অবস্থিত সকল কম্পিউটারকে নেটওয়ার্কের আওতায় আনার পরিকল্পনা করা হচ্ছে।",
+      "stem_image": null,
+      "group": "bank-ch2-rb17-q92",
+      "options": [
+        {
+          "label": "a",
+          "text": "1-9 Mbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10-50 Mbps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "51-100 Mbps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "101-150 Mbps",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 93
+      },
+      "tags": [
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-102",
+      "text": "নিচের কোনটি wifi স্ট্যান্ডার্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "802.10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "802.11",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "802.01",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "802.16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 94
+      },
+      "tags": [
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-103",
+      "text": "কম্পিউটার ও মাল্টিমিডিয়া প্রজেক্টরের মধ্যে ডেটা সঞ্চালন মোড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 95
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) মাল্টিকাস্ট; কম্পিউটার থেকে প্রজেক্টরে একমুখী ডেটা যায় বলে সাধারণত সিমপ্লেক্স (a) ধরা হয় — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-104",
+      "text": "ফটোডিটেক্টরের কাজ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যানালগ সিগন্যালকে ডিজিটাল সিগন্যালে রূপান্তরিত করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডিজিটাল সিগন্যালকে অ্যানালগ সিগন্যালে রূপান্তরিত করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিদ্যুৎ শক্তিকে আলোক শক্তিতে রূপান্তরিত করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলোক শক্তিকে বিদ্যুৎ শক্তিতে রূপান্তরিত করা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 96
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-105",
+      "text": "কলেজটিতে কোন ধরনের টপোলজি ব্যবহৃত হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "কুশিয়ারা কলেজে বিভিন্ন বিভাগের কম্পিউটারগুলো এমনভাবে যুক্ত রয়েছে যেন প্রথম হতে শেষ পর্যন্ত কম্পিউটারগুলো পরস্পর চক্রাকারে যুক্ত। কিন্তু সময় বাঁচানোর জন্য আইসিটি শিক্ষক নেটওয়ার্ক টপোলজির পরিবর্তন করলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-cb17-q97",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 97
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-106",
+      "text": "আইসিটি বিভাগের শিক্ষক দ্রুত ডেটা আদান-প্রদানের জন্য কোন ধরনের টপোলজি ব্যবহার করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "কুশিয়ারা কলেজে বিভিন্ন বিভাগের কম্পিউটারগুলো এমনভাবে যুক্ত রয়েছে যেন প্রথম হতে শেষ পর্যন্ত কম্পিউটারগুলো পরস্পর চক্রাকারে যুক্ত। কিন্তু সময় বাঁচানোর জন্য আইসিটি শিক্ষক নেটওয়ার্ক টপোলজির পরিবর্তন করলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-cb17-q97",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 98
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-107",
+      "text": "ফুল ডুপ্লেক্স মোডে চলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোবাইল ফোন"
+        },
+        {
+          "label": "ii",
+          "text": "ল্যান্ড ফোন"
+        },
+        {
+          "label": "iii",
+          "text": "রেডিও ব্রডকাস্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 99
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-108",
+      "text": "একটি চ্যানেলের মধ্য দিয়ে ১০ সেকেন্ডে ১,০০,০০০ বিট ডেটা ট্রান্সফার হলে এর ব্যান্ডউইথ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১০০০০ kbps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০০০০ bps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০০০ kbps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০০০ bps",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 100
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-109",
+      "text": "গ্রুপ SMS প্রদান হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইউনিকাস্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মাল্টিকাস্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টেলিকাস্ট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 101
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-110",
+      "text": "চিত্রের নেটওয়ার্কটি কোন ধরনের টপোলজি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q102.png",
+      "group": "bank-ch2-sb17-q102",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 102
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-111",
+      "text": "A ও B এর মধ্যে সর্বোচ্চ গতিতে ডেটা আদান প্রদানের জন্য করা উচিৎ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "HUB এর পরিবর্তে switch ব্যবহার"
+        },
+        {
+          "label": "ii",
+          "text": "HUB এর পরিবর্তে রাউটার ব্যবহার"
+        },
+        {
+          "label": "iii",
+          "text": "Twisted pair cable এর পরিবর্তে optical fiber cable ব্যবহার"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q102.png",
+      "group": "bank-ch2-sb17-q102",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 103
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-112",
+      "text": "কোনটি চতুর্থ প্রজন্মের মোবাইল ফোনের প্রধান বৈশিষ্ট্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আইপি নির্ভর ওয়্যারলেস নেটওয়ার্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশ্বব্যাপী রোমিং সুবিধা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফোনের মাধ্যমে ইন্টারনেট সংযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেমিকন্ডাকটর ও মাইক্রোপ্রসেসর প্রযুক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 104
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-113",
+      "text": "GSM এর পূর্ণরূপ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "General System for Mobile Communication",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Global Standard for Mobile Communication",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "General Standard for Mobile Communication",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Global System for Mobile Communication",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 105
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-114",
+      "text": "অ্যাসিনক্রোনাস ট্রান্সমিশনের সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডাটা ট্রান্সমিশনের গতি বেশি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্লক আকারে ডেটা প্রেরিত হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্যাটেলাইটে ব্যবহার অধিক উপযোগী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 106
+      },
+      "tags": [
+        "synchronization"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-115",
+      "text": "সাশ্রয়ীভাবে পাহাড়ী এলাকায় কার্যকরী নেটওয়ার্ক স্থাপনের জন্য কোন মাধ্যমটি সুবিধাজনক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপটিক্যাল ফাইবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়াই ফাই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওয়াইম্যাক্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 107
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-116",
+      "text": "উপরের চিত্রটিতে কয়টি ভিন্ন ভিন্ন নেটওয়ার্ক টপোলজি রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি লক্ষ কর—",
+      "stem_image": "assets/ch2-bank-q108.png",
+      "group": "bank-ch2-bb17-q108",
+      "options": [
+        {
+          "label": "a",
+          "text": "১টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪টি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 108
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-117",
+      "text": "ব্রডকাস্ট মোডের উদাহরণ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টিভি সম্প্রচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভিডিও কনফারেন্সিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টেলিফোনে কথোপকথন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "SMS প্রেরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 109
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-118",
+      "text": "ডেটা স্থানান্তরের হারকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যান্ড মিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যান্ডউইথ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেটা ট্রান্সমিশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডেটা কানেকশন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 110
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-119",
+      "text": "ব্লুটুথের মাধ্যমে তৈরি নেটওয়ার্ককে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 111
+      },
+      "tags": [
+        "network-type",
+        "bluetooth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-120",
+      "text": "চিত্র-২ কোন ধরনের টপোলজি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q112.png",
+      "group": "bank-ch2-jb17-q112",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইব্রিড",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 112
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-121",
+      "text": "চিত্র-১ টপোলজির নোডগুলো পরস্পর সংযুক্ত করলে কোন টপোলজির গঠন করা যাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q112.png",
+      "group": "bank-ch2-jb17-q112",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শংকর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 113
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-122",
+      "text": "নিচের চিত্রটি কোন মোডের—",
+      "text_en": null,
+      "image": "assets/ch2-bank-q114.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্রডকাস্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফুল ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 114
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-123",
+      "text": "GPRS এর পূর্ণরূপ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "General Packet Radio Service",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Global Packet Radio Service",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Global Package Radio Service",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "General Package Radio Service",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 115
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-124",
+      "text": "কলেজটির নেটওয়ার্ক গড়ে উঠতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্যাবল ব্যবহারের মাধ্যমে"
+        },
+        {
+          "label": "ii",
+          "text": "স্যাটেলাইট ব্যবহারের মাধ্যমে"
+        },
+        {
+          "label": "iii",
+          "text": "রেডিও লিঙ্ক ব্যবহারের মাধ্যমে"
+        }
+      ],
+      "stem": "মনিমার কলেজটি ৩ তলা। তাদের কম্পিউটার শিক্ষক সিদ্ধান্ত নিয়েছেন বিভিন্ন তলায় অবস্থিত তাদের সকল কম্পিউটার একই নেটওয়ার্কের আওতায় আনবেন।",
+      "stem_image": null,
+      "group": "bank-ch2-dib17-q117",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 117
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-125",
+      "text": "নেটওয়ার্ক চালুর ফলে মনিমারা যে সুবিধা পাবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সবাই সফটওয়্যারসমূহ ব্যবহার করতে পারবে"
+        },
+        {
+          "label": "ii",
+          "text": "সকল কম্পিউটারের কাজের মধ্যে সমন্বয় করতে পারবে"
+        },
+        {
+          "label": "iii",
+          "text": "এক কম্পিউটারের ডিভাইস অন্য কম্পিউটারে স্থানান্তর করতে পারবে"
+        }
+      ],
+      "stem": "মনিমার কলেজটি ৩ তলা। তাদের কম্পিউটার শিক্ষক সিদ্ধান্ত নিয়েছেন বিভিন্ন তলায় অবস্থিত তাদের সকল কম্পিউটার একই নেটওয়ার্কের আওতায় আনবেন।",
+      "stem_image": null,
+      "group": "bank-ch2-dib17-q117",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 118
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-126",
+      "text": "ISP এর পূর্ণ নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Internet Super Power",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Internet Server Provider",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Internet Server Programme",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Internet Service Provider",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2017",
+        "qno": 119
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-127",
+      "text": "ডেটা কমিউনিকেশন কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দুইটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মাধ্যমবিহীন তথ্যের প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শুধুমাত্র তারযুক্ত তথ্যের প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শুধুমাত্র কম্পিউটার নির্ভর যোগাযোগ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 120
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-128",
+      "text": "ন্যারো ব্যান্ডে সর্বনিম্ন ডেটা স্পিড কত বিপিএস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "35",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "300",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 122
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-129",
+      "text": "উদ্দীপকে নেটওয়ার্কের ধরন হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "LAN"
+        },
+        {
+          "label": "ii",
+          "text": "MAN"
+        },
+        {
+          "label": "iii",
+          "text": "WAN"
+        }
+      ],
+      "stem": "রাজিব তার বাবার অফিসে গিয়ে দেখল তার বাবা নিজের টেবিলে বসে কম্পিউটারে প্রিন্ট কমান্ড দিলেন এবং তাঁর থেকে কিছু দূরে অবস্থিত আরেকজন অফিসারও একই সাথে প্রিন্ট কমান্ড দিয়ে একই প্রিন্টার থেকে প্রিন্ট নিলেন। রাজিবের বাবা নিজের কম্পিউটার ব্যবহার করে রাজিবকে তার প্রবাসী ফুফুর সাথে সরাসরি কথা বলিয়ে দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-db16-q123",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 123
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-130",
+      "text": "টুইস্টেড পেয়ার ক্যাবল এর সাধারণ রং কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কমলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাদামী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কালো",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাদা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 124
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-131",
+      "text": "ভয়েস ব্যান্ড এর সর্বোচ্চ গতি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6900 bps",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6900 kbps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9600 bps",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9600 kbps",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 125
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) 9600 kbps; ভয়েস ব্যান্ডের সর্বোচ্চ গতি সাধারণত 9600 bps (c) বলা হয় — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-132",
+      "text": "চিত্রের নেটওয়ার্কটি কোন ধরনের টপোলজি?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q126.png",
+      "group": "bank-ch2-rb16-q126",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 126
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-133",
+      "text": "চিত্রে A ও B এর মধ্যে সর্বোচ্চ গতিতে ডেটা আদান-প্রদানের জন্য কী করা যেতে পারে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch2-bank-q126.png",
+      "group": "bank-ch2-rb16-q126",
+      "options": [
+        {
+          "label": "a",
+          "text": "সুইচটি পাল্টাতে হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টুইস্টেড ক্যাবলের পরিবর্তে অপটিক্যাল ফাইবার ব্যবহার করা যেতে পারে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপটিক্যাল ক্যাবলের পরিবর্তে কো-এক্সিয়াল ক্যাবল ব্যবহার করতে হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রিং টপোলজিতে রূপান্তরিত করতে হবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 127
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-134",
+      "text": "হটস্পট কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশেষ নিরাপত্তার ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারযুক্ত ইন্টারনেট ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারবিহীন ইন্টারনেট ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশেষ ধরনের সফটওয়্যার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 128
+      },
+      "tags": [
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-135",
+      "text": "ডেটা কমিউনিকেশনের গতিকে কয় ভাগে ভাগ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 129
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-136",
+      "text": "কম্পিউটার নেটওয়ার্কিং এর জন্য কয় ধরনের টপোলজি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 130
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-137",
+      "text": "কম্পিউটার নেটওয়ার্কের উদ্দেশ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হার্ডওয়্যার রিসোর্স শেয়ার"
+        },
+        {
+          "label": "ii",
+          "text": "সফটওয়্যার রিসোর্স শেয়ার"
+        },
+        {
+          "label": "iii",
+          "text": "ইনফরমেশন শেয়ার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 131
+      },
+      "tags": [
+        "networking"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-138",
+      "text": "মডেম—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডিজিটাল সংকেতকে অ্যানালগ সংকেতে পরিণত করে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রেরক ও প্রাপক যন্ত্র হিসেবে কাজ করে"
+        },
+        {
+          "label": "iii",
+          "text": "ডেটা কমিউনিকেশনের মাধ্যম হিসেবে কাজ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 132
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-139",
+      "text": "উদ্দীপকের উঁচু টাওয়ারগুলো কোন ধরনের মিডিয়া ব্যবহার করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মোহনা লক্ষ করল, তাদের এলাকার সবচেয়ে উঁচু দালানগুলোর ওপর বিভিন্ন মোবাইল কোম্পানির টাওয়ার বসানো আছে। এমনকি খোলা প্রান্তরেও অনেক দূরে দূরে টাওয়ারগুলো বসানো যাদের মাঝখানে কোনো বাঁধা নেই। একটি দালানের ওপর কিছু যন্ত্রপাতিসহ একটি অ্যান্টিনা আকাশমুখী করে রাখা হয়েছে।",
+      "stem_image": null,
+      "group": "bank-ch2-cb16-q133",
+      "options": [
+        {
+          "label": "a",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টেরিস্ট্রিয়াল মাইক্রোওয়েভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইনফ্রারেড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্যাটেলাইট মাইক্রোওয়েভ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 133
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-140",
+      "text": "উদ্দীপকের আকাশমুখী ব্যবস্থা ব্যবহার করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টেলিভিশনের সিগন্যাল পাঠানোর ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "আবহাওয়ার সর্বশেষ অবস্থা পর্যবেক্ষণে"
+        },
+        {
+          "label": "iii",
+          "text": "আন্তঃমহাদেশীয় টেলিফোন কলের ক্ষেত্রে"
+        }
+      ],
+      "stem": "মোহনা লক্ষ করল, তাদের এলাকার সবচেয়ে উঁচু দালানগুলোর ওপর বিভিন্ন মোবাইল কোম্পানির টাওয়ার বসানো আছে। এমনকি খোলা প্রান্তরেও অনেক দূরে দূরে টাওয়ারগুলো বসানো যাদের মাঝখানে কোনো বাঁধা নেই। একটি দালানের ওপর কিছু যন্ত্রপাতিসহ একটি অ্যান্টিনা আকাশমুখী করে রাখা হয়েছে।",
+      "stem_image": null,
+      "group": "bank-ch2-cb16-q133",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 134
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-141",
+      "text": "টেলিফোনের জন্য ব্যবহৃত ক্যাবল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কো-অ্যাক্সিয়াল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টুইস্টেড পেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফাইবার অপটিক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 135
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) ফাইবার অপটিক; টেলিফোনের জন্য সাধারণত টুইস্টেড পেয়ার (c) ক্যাবল ব্যবহৃত হয় — উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-142",
+      "text": "৫ ও ৭ নং কম্পিউটার নষ্ট হলে কোন কম্পিউটারগুলোর মধ্যে নেটওয়ার্ক সচল থাকবে?",
+      "text_en": null,
+      "image": "assets/ch2-bank-q136.png",
+      "options": [
+        {
+          "label": "a",
+          "text": "1, 3 এবং 6",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 এবং 6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1, 3 এবং 6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1, 3, 4 এবং 6",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 136
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null,
+      "review_note": "উৎসে (a) ও (c) অপশন হুবহু একই (\"1, 3 এবং 6\"); ছাপা উত্তর (b) — প্রশ্ন ও উত্তর যাচাই দরকার।"
+    },
+    {
+      "id": "ict-ch2-mcq-143",
+      "text": "মোবাইলের কোন প্রজন্ম হতে ইন্টারনেট ব্যবহার শুরু হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২য়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩য়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪র্থ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 137
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-144",
+      "text": "Wifi এবং WiMax এর মধ্যে পার্থক্য হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কাভারেজ এরিয়ার"
+        },
+        {
+          "label": "ii",
+          "text": "ট্রান্সমিশন মোডে"
+        },
+        {
+          "label": "iii",
+          "text": "ট্রান্সমিশন স্পীডে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 138
+      },
+      "tags": [
+        "wireless"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-145",
+      "text": "স্টার টপোলজিতে কোন ডিভাইসটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মডেম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাউটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রিপিটার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 139
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-146",
+      "text": "উদ্দীপকের নেটওয়ার্ক টপোলজিটি কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি: বিশ্বজিৎ তার অফিসের দশটি কম্পিউটার এমনভাবে যুক্ত করে নেটওয়ার্ক তৈরি করলেন যাতে ১ম ও শেষ কম্পিউটার পরস্পরে যুক্ত থাকে। হঠাৎ একদিন কম্পিউটার নষ্ট হওয়ায় নেটওয়ার্কটি বন্ধ হয়ে যায়। তিনি নেটওয়ার্কটির কাঠামো পরিবর্তনের সিদ্ধান্ত নিলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb16-q140",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 140
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-147",
+      "text": "মি: বিশ্বজিতের সিদ্ধান্ত বাস্তবায়নের জন্য সম্ভাব্য সমাধান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম্পিউটার পরিবর্তন করা"
+        },
+        {
+          "label": "ii",
+          "text": "হাব/সুইচ স্থাপন করা"
+        },
+        {
+          "label": "iii",
+          "text": "একটি মূল লাইন স্থাপন করা"
+        }
+      ],
+      "stem": "মি: বিশ্বজিৎ তার অফিসের দশটি কম্পিউটার এমনভাবে যুক্ত করে নেটওয়ার্ক তৈরি করলেন যাতে ১ম ও শেষ কম্পিউটার পরস্পরে যুক্ত থাকে। হঠাৎ একদিন কম্পিউটার নষ্ট হওয়ায় নেটওয়ার্কটি বন্ধ হয়ে যায়। তিনি নেটওয়ার্কটির কাঠামো পরিবর্তনের সিদ্ধান্ত নিলেন।",
+      "stem_image": null,
+      "group": "bank-ch2-bb16-q140",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 141
+      },
+      "tags": [
+        "topology"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-148",
+      "text": "নিচের কোনটিতে ন্যারোব্যান্ড ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টেলিফোন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টেলিগ্রাফ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্যাটেলাইট ফোন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওয়াকিটকি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 142
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-149",
+      "text": "ক্লায়েন্ট সার্ভার নেটওয়ার্ক ব্যবহৃত হয় কোন ক্ষেত্রে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PAN",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LAN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MAN",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 143
+      },
+      "tags": [
+        "network-type"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-150",
+      "text": "অপটিক্যাল ফাইবার ক্যাবল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উচ্চগতি সম্পন্ন"
+        },
+        {
+          "label": "ii",
+          "text": "দামে সস্তা"
+        },
+        {
+          "label": "iii",
+          "text": "বিদ্যুৎ চৌম্বক প্রভাবমুক্ত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 144
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-151",
+      "text": "রহিম বাসায় নেটওয়ার্ক স্থাপনের জন্য দোকান থেকে RJ45 কানেক্টর ও ১টি সুইচ কিনে আনে। রহিমের বাসার নেটওয়ার্ক কোন টপোলজির হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্টার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেশ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 145
+      },
+      "tags": [
+        "topology",
+        "star"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-152",
+      "text": "একটি দালানের উপর তলায় যন্ত্রপাতিসহ একটি এন্টেনা আকাশমুখী করে রাখা হয়েছে। উক্ত আকাশমুখী ব্যবস্থার ব্যবহার—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টেলিভিশনের সিগন্যাল পাঠানোর ক্ষেত্রে"
+        },
+        {
+          "label": "ii",
+          "text": "আবহাওয়ার সর্বশেষ অবস্থা পর্যবেক্ষণে"
+        },
+        {
+          "label": "iii",
+          "text": "আন্তঃমহাদেশীয় টেলিফোন কলের ক্ষেত্রে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2016",
+        "qno": 146
+      },
+      "tags": [
+        "transmission-media"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-153",
+      "text": "তারা কোন ডেটা ট্রান্সমিশন মোড ব্যবহার করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো কোম্পানির দুইজন নিরাপত্তা কর্মকর্তা নিজেদের মধ্যে যোগাযোগ করেন কিন্তু একই সময়ে তারা কথা বলতে পারেন না।",
+      "stem_image": null,
+      "group": "bank-ch2-cb16-q147",
+      "options": [
+        {
+          "label": "a",
+          "text": "সিমপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হাফ-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুল-ডুপ্লেক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাল্টিপ্লেক্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 147
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-154",
+      "text": "একই সময়ে যোগাযোগ করার ক্ষেত্রে তাদের যে ডিভাইস প্রয়োজন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোবাইল"
+        },
+        {
+          "label": "ii",
+          "text": "ওয়াকি-টকি"
+        },
+        {
+          "label": "iii",
+          "text": "রেডিও"
+        }
+      ],
+      "stem": "কোনো কোম্পানির দুইজন নিরাপত্তা কর্মকর্তা নিজেদের মধ্যে যোগাযোগ করেন কিন্তু একই সময়ে তারা কথা বলতে পারেন না।",
+      "stem_image": null,
+      "group": "bank-ch2-cb16-q147",
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 148
+      },
+      "tags": [
+        "data-transmission"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-155",
+      "text": "ব্রডব্যান্ডের ব্যান্ডউইথ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ mbps বা অধিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯৬০০ bps",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫-৩০০ bps এর মধ্যে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪৫ bps এর কম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 149
+      },
+      "tags": [
+        "bandwidth"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-156",
+      "text": "সাধারণত মোবাইল কমিউনিকেশন হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারবিহীন যোগাযোগ ব্যবস্থা"
+        },
+        {
+          "label": "ii",
+          "text": "শুধুমাত্র কথা বলার ব্যবস্থা"
+        },
+        {
+          "label": "iii",
+          "text": "ফুল ডুপ্লেক্স নেটওয়ার্ক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 150
+      },
+      "tags": [
+        "mobile-generation"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-157",
+      "text": "মডেমের কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেটা পাঠানো"
+        },
+        {
+          "label": "ii",
+          "text": "ডেটা গ্রহণ"
+        },
+        {
+          "label": "iii",
+          "text": "ডেটা সংরক্ষণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 151
+      },
+      "tags": [
+        "networking-device"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch2-mcq-158",
+      "text": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাশ্রয়ী ও সহজলভ্যতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টারনেট সংযোগ লাগে না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তথ্যের গোপনীয়তা বজায় থাকে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 152
+      },
+      "tags": [
+        "cloud-computing"
+      ],
+      "difficulty": null
+    }
+  ]
+}

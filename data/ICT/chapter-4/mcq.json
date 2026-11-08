@@ -1,0 +1,4879 @@
+{
+  "subject": "ict",
+  "chapter": 4,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "ict-ch4-mcq-001",
+      "text": "HTML ফাইল এডিট করার জন্য টেক্সট এডিটর কোনটি?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নোটপ্যাড"
+        },
+        {
+          "label": "ii",
+          "text": "নোটপ্যাড++"
+        },
+        {
+          "label": "iii",
+          "text": "সাবলাইম টেক্সট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6
+      },
+      "tags": [
+        "html",
+        "editor"
+      ],
+      "difficulty": null,
+      "review_note": "Source prints 'নোডপ্যাড + +' (typo); normalised to 'নোটপ্যাড++'."
+    },
+    {
+      "id": "ict-ch4-mcq-002",
+      "text": "নিচের কোনটি html ডকুমেন্ট টাইপ ডিক্লারেশনে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<| DOCTYPE html >",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "< DOCTYPE html!>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<! DOCTYPE html >",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "< DOCTYPE html; >",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10
+      },
+      "tags": [
+        "html",
+        "doctype"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-003",
+      "text": "উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
+      "text_en": null,
+      "image": null,
+      "stem": "কামাল একজন ওয়েব ডেভেলপার। সে www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিক্ষা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাণিজ্যিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরকারি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আন্তর্জাতিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null,
+      "group": "hse25-q03-04",
+      "review_note": "Stem text partly inferred from a low-resolution scan; verify wording."
+    },
+    {
+      "id": "ict-ch4-mcq-004",
+      "text": "উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "কামাল একজন ওয়েব ডেভেলপার। সে www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়।",
+      "stem_image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "SMTP",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "VOIP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "FTP",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "HTTP",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4
+      },
+      "tags": [
+        "web",
+        "protocol"
+      ],
+      "difficulty": null,
+      "group": "hse25-q03-04"
+    },
+    {
+      "id": "ict-ch4-mcq-005",
+      "text": "\"# FFFFFF\" কোন রং নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নীল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সায়ান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লাল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10
+      },
+      "tags": [
+        "html",
+        "color"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-006",
+      "text": "নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<table bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<tr bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<td bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<tr td bgcolor=\"green\">",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17
+      },
+      "tags": [
+        "html",
+        "table"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-007",
+      "text": "HTML এ ইমেজ ফরমেট হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": ".gif"
+        },
+        {
+          "label": "ii",
+          "text": ".png"
+        },
+        {
+          "label": "iii",
+          "text": ".psd"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-008",
+      "text": "HTML এ বড় হেডিং এলিমেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<h1>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<h2>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<h5>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<h6>",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [
+        "html",
+        "heading"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-009",
+      "text": "নিচের কোন ট্যাগে অ্যাট্রিবিউট থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শুরু ট্যাগে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেষ ট্যাগে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দুই ট্যাগের মাঝে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উভয় ট্যাগে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [
+        "html",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-010",
+      "text": "ফাঁকা ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<b>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<li>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<br>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<Del>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-011",
+      "text": "উদ্দীপকের অ্যাট্রিবিউট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<font size=\"7\"> Bangladesh</font>",
+      "stem_image": null,
+      "group": "bank-ch4-rb23-q5",
+      "options": [
+        {
+          "label": "a",
+          "text": "font",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "size",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "7",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Bangladesh",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "HTML4 ভার্সনে color, bgcolor, face ও size অ্যাট্রিবিউট ব্যবহার করে Text Color, Background Color, ফন্টের নাম ও সাইজ কাস্টোমাইজ করা হলেও বর্তমানে (HTML5) একাজে style অ্যাট্রিবিউটের অধীনে যথাক্রমে color, background-color, font-family ও font-size প্রোপার্টি ব্যবহৃত হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [
+        "html",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-012",
+      "text": "কোনটি ফরমেটিং ট্যাগ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<ol>….</ol>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<hl>….</hl>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<big> …. </big>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<a> …</a>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 6
+      },
+      "tags": [
+        "html",
+        "formatting"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-013",
+      "text": "লিস্ট তৈরিতে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<UL>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<tr>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<td>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<hr>",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7
+      },
+      "tags": [
+        "html",
+        "list"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-014",
+      "text": "স্টাইল অ্যাট্রিবিউট এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<div style=\"color:red, float:left\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<div style=\"color=red:float=left\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<div style=\"color:red;float:left;\">",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<div style=\"color:red\" \"float:left\">",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8
+      },
+      "tags": [
+        "html",
+        "style"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-015",
+      "text": "উদ্দীপকটির আউটপুট হবে–",
+      "text_en": null,
+      "image": null,
+      "stem": "<ul type=\"disc\"> <li> Book </li> </ul>",
+      "stem_image": null,
+      "group": "bank-ch4-cb23-q9",
+      "options": [
+        {
+          "label": "a",
+          "text": "■ Book",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "○ Book",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "□ Book",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "• Book",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [
+        "html",
+        "list"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-016",
+      "text": "কোনটি Italic tag?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "<i>"
+        },
+        {
+          "label": "ii",
+          "text": "<em>"
+        },
+        {
+          "label": "iii",
+          "text": "<Italic>"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [
+        "html",
+        "formatting"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-017",
+      "text": "কোনটি এম্পটি এলিমেন্ট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<p>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<ahref>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<ol>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<img>",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-018",
+      "text": "কোডটিতে ব্যবহৃত ট্যাগের ধরন হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টেবিল"
+        },
+        {
+          "label": "ii",
+          "text": "হাইপার লিংক"
+        },
+        {
+          "label": "iii",
+          "text": "ফরমেটিং"
+        }
+      ],
+      "stem": "<body><p> <i> My page </i> </p>\n<a href=\"pic html\"> picture </a></body>",
+      "stem_image": null,
+      "group": "bank-ch4-cb23-q12",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-019",
+      "text": "উদ্দীপকে এলিমেন্ট কন্টেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<span style=\"color:red\"> Text </span>",
+      "stem_image": null,
+      "group": "bank-ch4-sb23-q13",
+      "options": [
+        {
+          "label": "a",
+          "text": "style",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "color:red",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "span",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "text",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "<span style=\"color:red\"> Text </span> — span: element tag; style: attribute name; \"color:red\": attribute value; Text: element content।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13
+      },
+      "tags": [
+        "html",
+        "element"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-020",
+      "text": "উদ্দীপকে অ্যাট্রিবিউট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<span style=\"color:red\"> Text </span>",
+      "stem_image": null,
+      "group": "bank-ch4-sb23-q13",
+      "options": [
+        {
+          "label": "a",
+          "text": "style",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "color:red",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "span",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "text",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 14
+      },
+      "tags": [
+        "html",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-021",
+      "text": "ব্রাউজারে যদি কোনো কারণে ইমেজ লোড করতে ব্যর্থ হয়, তখন ইমেজের পরিবর্তে কোনো টেক্সট প্রদর্শনের জন্য ব্যবহৃত অ্যাট্রিবিউট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Src",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Title",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Alt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Align",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [
+        "html",
+        "image",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-022",
+      "text": "<font> ট্যাগের কাজ হলো ওয়েবসাইটের–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "টেক্সটের ফন্ট ঠিক করা"
+        },
+        {
+          "label": "ii",
+          "text": "টেক্সটকে লিস্ট আকারে সাজানো"
+        },
+        {
+          "label": "iii",
+          "text": "টেক্সটটির রং ঠিক করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16
+      },
+      "tags": [
+        "html",
+        "formatting"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-023",
+      "text": "ছবি প্রদর্শনের ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<ul>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<ol>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<img>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<li>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 17
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-024",
+      "text": "উদ্দীপকে ICT শিক্ষকের নির্দেশিত ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "কেয়া ও দিয়া প্রায়ই পরস্পরের ওয়েবসাইটে ঢুকে প্রয়োজনীয় তথ্য সংগ্রহ করে। বিষয়টি তাদের কাছে বেশ সময়-সাপেক্ষ বলে মনে হয়। তারা সমস্যাটির কথা তাদের ICT শিক্ষককে জানালে তিনি তাদেরকে এক বিশেষ ধরনের ট্যাগ ব্যবহারের পরামর্শ দেন।",
+      "stem_image": null,
+      "group": "bank-ch4-bb23-q18",
+      "options": [
+        {
+          "label": "a",
+          "text": "<P>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<a>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<sup>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-025",
+      "text": "উদ্দীপকে ICT শিক্ষকের নির্দেশিত ট্যাগ ব্যবহার করলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভিন্ন অবস্থানের ভিন্ন কোনো পেইজে যাওয়া যায়"
+        },
+        {
+          "label": "ii",
+          "text": "সম্পর্কিত তথ্য দ্রুত প্রদর্শিত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "ব্রাউজারকারীর সময় কম লাগে"
+        }
+      ],
+      "stem": "কেয়া ও দিয়া প্রায়ই পরস্পরের ওয়েবসাইটে ঢুকে প্রয়োজনীয় তথ্য সংগ্রহ করে। বিষয়টি তাদের কাছে বেশ সময়-সাপেক্ষ বলে মনে হয়। তারা সমস্যাটির কথা তাদের ICT শিক্ষককে জানালে তিনি তাদেরকে এক বিশেষ ধরনের ট্যাগ ব্যবহারের পরামর্শ দেন।",
+      "stem_image": null,
+      "group": "bank-ch4-bb23-q18",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-026",
+      "text": "http://www.abc.com অ্যাড্রেসটিতে ব্যবহৃত বিভিন্ন অংশ–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "protocol"
+        },
+        {
+          "label": "ii",
+          "text": "domain name"
+        },
+        {
+          "label": "iii",
+          "text": "directory path"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": "http:// = Protocol; www.abc.com = Domain Name।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 20
+      },
+      "tags": [
+        "web",
+        "protocol",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-027",
+      "text": "আফরার html কোড হবে–",
+      "text_en": null,
+      "image": null,
+      "stem": "আফরা html ব্যবহারিক ক্লাসে nature.jpg নামে ৭০০x৫০০ সাইজের একটি ছবি যুক্ত করে।",
+      "stem_image": null,
+      "group": "bank-ch4-jb23-q21",
+      "options": [
+        {
+          "label": "a",
+          "text": "<img src=\"nature.jpg, width=700, height=500\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img src=\"nature.jpg\"width=\"700\", height=\"500\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<img>nature.jpg, width=700, height=500>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<img> \"nature.jpg\",\"width=700\", \"height=500\"</img>",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 21
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-028",
+      "text": "কোনটি সঠিক html কোড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<width=200, height=100>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<p size=\"5\\\"> My document</p>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<a href=\"document 1.html\">document</a>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<table rowspan=\"'2'\">Abc</table>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 22
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-029",
+      "text": "ডোমেইন নাম (Domain name) হলো–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওয়েব ফাইলের নাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সার্ভারের নাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়েবসাইটের একটি স্বতন্ত্র নাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফোল্ডারের নাম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-030",
+      "text": "ওয়েবসাইটের একক ঠিকানা–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "IP Address",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HTTP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "URL",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "HTML",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-031",
+      "text": "একটি HTML ফাইলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শুরু ট্যাগ হিসেবে <html> থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতি জোড়া শুরু ও শেষ ট্যাগ থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "অ্যাট্রিবিউট শুরু ট্যাগে থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-032",
+      "text": "দিপু তার ওয়েবসাইটে লেখার সাথে ছবিও যুক্ত করেছে। এতে করে তার সাইটটি সুন্দর ও আকর্ষণীয় হয়েছে। উদ্দীপকের দিপু কোন ট্যাগটি ব্যবহার করে ছবিটি যুক্ত করেছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<caption>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<head>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<html>",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-033",
+      "text": "ওয়েবসাইট পাবলিশ করার জন্য এমন একটি সার্ভার কম্পিউটার রাখতে হয় যা–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সর্বক্ষণ সচল থাকতে হয়"
+        },
+        {
+          "label": "ii",
+          "text": "সার্বক্ষণিক ইন্টারনেটের সাথে যুক্ত থাকতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "পাবলিক আইপি অ্যাড্রেস থাকতে হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 27
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-034",
+      "text": "HTML এর লিংক ট্যাগ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<li>--</li>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<a>--</a>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<P>--</P>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<u>--</u>",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 28
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-035",
+      "text": "HTML কোড <p align=\"center\">ICT</p> এ অ্যাট্রিবিউট ভ্যালু কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "P",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "align",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "center",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ICT",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "<tag attribute = \"property:value;\"> এটা syntax।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 29
+      },
+      "tags": [
+        "html",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-036",
+      "text": "<table> ট্যাগের ব্যবহৃত অ্যাট্রিবিউট হলো–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "src",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "face",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "alt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "border",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "<table> ট্যাগের attribute: border, bordercolor, align, height, width, cellspacing, cellpadding, style।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 30
+      },
+      "tags": [
+        "html",
+        "table",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-037",
+      "text": "একটি ওয়েবসাইটে কয়টি অংশ থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 31
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-038",
+      "text": "কোনটি সঠিক ট্যাগ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<image src=\"imjpg\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img>src=img.jpg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<src img.jpg>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<img src=\"image.jpg\">",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "<img> হলো ট্যাগের নাম, src অ্যাট্রিবিউট যার value ছবির ফাইল নেম (সরাসরি অথবা Directory সহ)। Attribute সহ tag এর syntax: <tag_name attribute=\"value\">। কাজেই <img src=\"image.jpg\"> একমাত্র সঠিক উত্তর।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 32
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-039",
+      "text": "লিস্টে আইটেম যুক্ত করার ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<ol>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<li>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<ul>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<dl>",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 33
+      },
+      "tags": [
+        "html",
+        "list"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-040",
+      "text": "নিচের কোনটি এম্পটি ট্যাগ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<hr>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<td>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<ol>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<em>",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 34
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-041",
+      "text": "ফন্টের নাম পরিবর্তন করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "size",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "font",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "face",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "name",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 35
+      },
+      "tags": [
+        "html",
+        "formatting",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-042",
+      "text": "সার্চ ইঞ্জিন হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "google"
+        },
+        {
+          "label": "ii",
+          "text": "mozilla"
+        },
+        {
+          "label": "iii",
+          "text": "yahoo"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 36
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-043",
+      "text": "HTML ফাইলের এক্সটেনশন হলো–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": ".html",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": ".c",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": ".txt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": ".doc",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 37
+      },
+      "tags": [
+        "html"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-044",
+      "text": "ওয়েবসাইট হোস্টিং করে কোথায় রাখা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "র‍্যামে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হোমপেজে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হার্ডডিস্কে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সার্ভারে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 38
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-045",
+      "text": "ব্রাউজারীর সময় বাঁচে কোন ট্যাগে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<br>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<a>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<li>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<i>",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 39
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-046",
+      "text": "তমালের তৈরিকৃত ওয়েবপেজটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "তমালের তৈরিকৃত ওয়েবপেজটি লোডিং করার পরও ডেটার মান পরিবর্তন করতে পারছে না। এ সমস্যা সমাধানের জন্য তার শিক্ষক তাকে কয়েকটি ভাষা ব্যবহারের পরামর্শ দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch4-db19-q40",
+      "options": [
+        {
+          "label": "a",
+          "text": "ডায়নামিক ওয়েবপেজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্ট্যাটিক ওয়েবপেজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লোকাল ওয়েবপেজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রিমোট ওয়েবপেজ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 40
+      },
+      "tags": [
+        "web",
+        "static-dynamic"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-047",
+      "text": "ওয়েবপেজের সমস্যা সমাধানের জন্য উপযোগী ভাষা হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ASP"
+        },
+        {
+          "label": "ii",
+          "text": "PHP"
+        },
+        {
+          "label": "iii",
+          "text": "JSP"
+        }
+      ],
+      "stem": "তমালের তৈরিকৃত ওয়েবপেজটি লোডিং করার পরও ডেটার মান পরিবর্তন করতে পারছে না। এ সমস্যা সমাধানের জন্য তার শিক্ষক তাকে কয়েকটি ভাষা ব্যবহারের পরামর্শ দিলেন।",
+      "stem_image": null,
+      "group": "bank-ch4-db19-q40",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "JSP হলো Java Script Programming।",
+      "source": {
+        "board": "DB",
+        "year": "2019",
+        "qno": 41
+      },
+      "tags": [
+        "web",
+        "static-dynamic"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-048",
+      "text": "মি. কালাম যে প্রকারের ট্যাগ ব্যবহার করেছেন তার সাথে সঙ্গতিপূর্ণ ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. কালাম তার ওয়েব পেজে ইমেজ সংযোজন করলেন। কিন্তু কোনভাবেই ব্রাউজারে তার সংযোজিত ইমেজটি প্রদর্শিত হচ্ছে না।",
+      "stem_image": null,
+      "group": "bank-ch4-rb19-q42",
+      "options": [
+        {
+          "label": "a",
+          "text": "<B>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<A>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<Br>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<U>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": "ইমেজ সংযোজনে ট্যাগ হলো <img>, যা মূলত ফাঁকা ট্যাগ। এখানে অপশনগুলোর মধ্যে <B>, <A>, <U> প্রত্যেকে কনটেইনার ট্যাগ, একমাত্র <Br>-ই ফাঁকা ট্যাগ।",
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 42
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-049",
+      "text": "মি. কালাম এর সঠিক ফলাফল না পাওয়ার কারণগুলো হলো:",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফাইলের নাম লিখতে ভুল করা"
+        },
+        {
+          "label": "ii",
+          "text": "ব্রাউজার সাপোর্ট না করা"
+        },
+        {
+          "label": "iii",
+          "text": "সঠিক লোকেশন ব্যবহার না করা"
+        }
+      ],
+      "stem": "মি. কালাম তার ওয়েব পেজে ইমেজ সংযোজন করলেন। কিন্তু কোনভাবেই ব্রাউজারে তার সংযোজিত ইমেজটি প্রদর্শিত হচ্ছে না।",
+      "stem_image": null,
+      "group": "bank-ch4-rb19-q42",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 43
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-050",
+      "text": "সারা বিশ্বের সকল আইপি অ্যাড্রেস ও ডোমেইন নেম নিয়ন্ত্রণ করে কোন প্রতিষ্ঠান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "MICROSOFT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ICANN",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "GOOGLE",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "YAHOO",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 44
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-051",
+      "text": "কোন ওয়েব সাইট কাঠামোতে যেকোনো পেইজ থেকে সরাসরি হোম পেইজে যাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Hierarchical",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Network",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Linear",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Combination",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2019",
+        "qno": 45
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-052",
+      "text": "আইপি অ্যাড্রেস (IPv₄) কত বিটের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২৮",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 47
+      },
+      "tags": [
+        "web",
+        "ip-address"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-053",
+      "text": "<td> ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "align"
+        },
+        {
+          "label": "ii",
+          "text": "face"
+        },
+        {
+          "label": "iii",
+          "text": "colspan"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "বর্তমানে HTML5 এ align অ্যাট্রিবিউট <td> এর ভেতর ব্যবহৃত হয় না। এটা HTML4 এ হতো। HTML5 এ <td style=\"text-align: ;\"> দিয়ে আনুভূমিক Alignment এর কাজ করতে হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 48
+      },
+      "tags": [
+        "html",
+        "table",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-054",
+      "text": "RGB (255, 255, 255) দ্বারা কোন রং নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সবুজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাদা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নীল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 49
+      },
+      "tags": [
+        "html",
+        "color"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-055",
+      "text": "একটি আইপি অ্যাড্রেসকে প্রকাশের জন্য মোট কতটি বিটের প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩২",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": "IPv4 এ 32 bits এবং IPv6 এ 128 bits ব্যবহৃত হয়। যেহেতু অপশনে 128 নেই, তাই ৩২-ই সঠিক উত্তর।",
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 50
+      },
+      "tags": [
+        "web",
+        "ip-address"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-056",
+      "text": "উদ্দীপকে ব্যবহৃত রঙের সমতুল্য হেক্সাডেসিমেল কোড হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "stem": "<html>\n<body>\n<font color=\"red\"> HSC Exam </font>\n</body>\n</html>",
+      "stem_image": null,
+      "group": "bank-ch4-sb19-q51",
+      "options": [
+        {
+          "label": "a",
+          "text": "#FF0000",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "#00FF00",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "#0000FF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "#FFF000",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 51
+      },
+      "tags": [
+        "html",
+        "color"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-057",
+      "text": "উদ্দীপকে HSC Exam শব্দের জন্য ব্যবহৃত ট্যাগের অ্যাট্রিবিউট হতে পারে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "href"
+        },
+        {
+          "label": "ii",
+          "text": "face"
+        },
+        {
+          "label": "iii",
+          "text": "size"
+        }
+      ],
+      "stem": "<html>\n<body>\n<font color=\"red\"> HSC Exam </font>\n</body>\n</html>",
+      "stem_image": null,
+      "group": "bank-ch4-sb19-q51",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2019",
+        "qno": 52
+      },
+      "tags": [
+        "html",
+        "formatting",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-058",
+      "text": "স্ট্যাটিক ওয়েব সাইটের বৈশিষ্ট্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওয়েব পেইজগুলোতে কন্টেন্ট অনির্দিষ্ট থাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্রাউজারে দ্রুত লোড হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেটাবেজ ব্যবহার করা যায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইনপুট দেওয়ার ব্যবস্থা থাকে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 53
+      },
+      "tags": [
+        "web",
+        "static-dynamic"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-059",
+      "text": "শিক্ষা প্রতিষ্ঠানে ব্যবহৃত টপ লেভেল ডোমেইনের নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": ".gov",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": ".com",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": ".edu",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": ".org",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 54
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-060",
+      "text": "Table তৈরি করতে প্রয়োজনীয় Tag–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "<th>...</th>"
+        },
+        {
+          "label": "ii",
+          "text": "<tr>...</tr>"
+        },
+        {
+          "label": "iii",
+          "text": "<td>...</td>"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2019",
+        "qno": 55
+      },
+      "tags": [
+        "html",
+        "table"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-061",
+      "text": "উদ্দীপকে এলিমেন্ট কনটেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<p align=\"center\"> Bangladesh </p>",
+      "stem_image": null,
+      "group": "bank-ch4-jb19-q57",
+      "options": [
+        {
+          "label": "a",
+          "text": "align",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "center",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Bangladesh",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "p",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 57
+      },
+      "tags": [
+        "html",
+        "element"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-062",
+      "text": "উদ্দীপকে অ্যাট্রিবিউট ভ্যালু কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<p align=\"center\"> Bangladesh </p>",
+      "stem_image": null,
+      "group": "bank-ch4-jb19-q57",
+      "options": [
+        {
+          "label": "a",
+          "text": "align",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "center",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Bangladesh",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "p",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 58
+      },
+      "tags": [
+        "html",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-063",
+      "text": "ওয়েবসাইট পাবলিশিং-এ গৃহীত পদক্ষেপসমূহ হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডোমেন নেইম রেজিস্ট্রেশন করা"
+        },
+        {
+          "label": "ii",
+          "text": "ওয়েব পেজ ডিজাইন করা"
+        },
+        {
+          "label": "iii",
+          "text": "ওয়েবসাইট হোস্টিং করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2019",
+        "qno": 59
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-064",
+      "text": "টিম বার্নার্সলির সাথে সম্পর্কযুক্ত–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "WWW ও MIT এর অধ্যাপক"
+        },
+        {
+          "label": "ii",
+          "text": "Google এর জনক ও তড়িৎ প্রকৌশল"
+        },
+        {
+          "label": "iii",
+          "text": "HTML ও জেনেভার সার্ন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2019",
+        "qno": 60
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-065",
+      "text": "http://www.moedu.gov/home/tag এখানে টপ ডোমেইন কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "www.moedu.gov",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "www.",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "www.moedu",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "gov",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 61
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-066",
+      "text": "টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে কোন ট্যাগে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<table bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<tr bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<tr td bgcolor=\"green\">",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<td bgcolor=\"green\">",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 62
+      },
+      "tags": [
+        "html",
+        "table",
+        "color"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-067",
+      "text": "<br> এর HTML tag এ থাকে না–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ওপেনিং ট্যাগ"
+        },
+        {
+          "label": "ii",
+          "text": "ক্লোজিং ট্যাগ"
+        },
+        {
+          "label": "iii",
+          "text": "টেক্সট ফিল্ড"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 63
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-068",
+      "text": "নিচের কোন ট্যাগের এলিমেন্ট থাকে না?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "<br>"
+        },
+        {
+          "label": "ii",
+          "text": "<img>"
+        },
+        {
+          "label": "iii",
+          "text": "<u>"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 64
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-069",
+      "text": "ওয়েবসাইটটির স্ট্রাকচার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "দিদার ও তার বন্ধুরা মিলে একটি ওয়েবসাইট তৈরি করল, যেখানে ওয়েবপেজসমূহ বহুস্তরে বিন্যস্ত। পরবর্তীতে ওয়েবসাইটটিকে ইন্টারনেটে প্রদর্শনের জন্য প্রয়োজনীয় পদক্ষেপ গ্রহণ করল।",
+      "stem_image": null,
+      "group": "bank-ch4-all18-q65",
+      "options": [
+        {
+          "label": "a",
+          "text": "লিনিয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হায়ারার্কিক্যাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাইব্রিড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নেটওয়ার্ক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 65
+      },
+      "tags": [
+        "web",
+        "site-structure"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-070",
+      "text": "গৃহীত পদক্ষেপসমূহ হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডোমেইন নেইম রেজিস্ট্রেশন করা"
+        },
+        {
+          "label": "ii",
+          "text": "ওয়েবপেজসমূহ সমান করা"
+        },
+        {
+          "label": "iii",
+          "text": "ওয়েবসাইট হোস্টিং করা"
+        }
+      ],
+      "stem": "দিদার ও তার বন্ধুরা মিলে একটি ওয়েবসাইট তৈরি করল, যেখানে ওয়েবপেজসমূহ বহুস্তরে বিন্যস্ত। পরবর্তীতে ওয়েবসাইটটিকে ইন্টারনেটে প্রদর্শনের জন্য প্রয়োজনীয় পদক্ষেপ গ্রহণ করল।",
+      "stem_image": null,
+      "group": "bank-ch4-all18-q65",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 66
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-071",
+      "text": "একটি পেইজের সাথে অন্য পেইজের সংযোগকে HTML ভাষায় কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Connection",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Hyperlink",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "link",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Addition",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2018",
+        "qno": 67
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-072",
+      "text": "এইচটিএমএল ট্যাগের চিহ্ন কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "< >",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "{ }",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "( )",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "[ ]",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 68
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-073",
+      "text": "Link ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<ol>.......</ol>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<li>.........</li>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<a>.........</a>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<q>.........</q>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2019",
+        "qno": 69
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-074",
+      "text": "URL এর অংশগুলো হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রোটোকল নেম"
+        },
+        {
+          "label": "ii",
+          "text": "হোস্ট নেম"
+        },
+        {
+          "label": "iii",
+          "text": "ডাইরেক্টরি নেম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 70
+      },
+      "tags": [
+        "web",
+        "url"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-075",
+      "text": "উদ্দীপকের html এর কোডের আউটপুট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "<table>\n    <tr><td>A</td><td>B</td></tr>\n    <tr><td>C</td><td>D</td></tr>\n</table>",
+      "stem_image": null,
+      "group": "bank-ch4-rb17-q71",
+      "options": [
+        {
+          "label": "a",
+          "text": "",
+          "image": "assets/ch4-bank-q071-opt-a.png"
+        },
+        {
+          "label": "b",
+          "text": "",
+          "image": "assets/ch4-bank-q071-opt-b.png"
+        },
+        {
+          "label": "c",
+          "text": "",
+          "image": "assets/ch4-bank-q071-opt-c.png"
+        },
+        {
+          "label": "d",
+          "text": "",
+          "image": "assets/ch4-bank-q071-opt-d.png"
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2017",
+        "qno": 71
+      },
+      "tags": [
+        "html",
+        "table"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-076",
+      "text": "নিরব যে পদ্ধতিতে কাজ করে তার সুবিধা–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ওয়েব সাইটের একটা পেজের এক অংশের সাথে একই পেজের অন্য অংশের লিংক করা যায়"
+        },
+        {
+          "label": "ii",
+          "text": "ওয়েব সাইটের এক পেজ থেকে অন্য পেজে যাওয়া যায়"
+        },
+        {
+          "label": "iii",
+          "text": "এক ওয়েব সাইটের সাথে অন্য ওয়েব সাইট লিংক করা যায়"
+        }
+      ],
+      "stem": "নিরব নতুন ওয়েব ডেভেলপার। সে HTML ব্যবহার করে ওয়েবপেজ তৈরি করে এবং হাইপারলিংকের কাজ করে।",
+      "stem_image": null,
+      "group": "bank-ch4-cb17-q72",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 72
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-077",
+      "text": "নিচের কোন হেডিং ট্যাগের সাইজ সবচেয়ে ছোট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<h1>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<h3>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<h5>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<h6>",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 74
+      },
+      "tags": [
+        "html",
+        "heading"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-078",
+      "text": "নিরব সম্প্রতি যে পদ্ধতিতে কাজ করছে তার সুবিধা–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এক পেজ থেকে অন্য পেজে যাওয়া"
+        },
+        {
+          "label": "ii",
+          "text": "একটা পেজের এক অংশের সাথে অন্য অংশ লিংক করা"
+        },
+        {
+          "label": "iii",
+          "text": "ভিন্ন সার্ভারের সাথে লিংক না হওয়া"
+        }
+      ],
+      "stem": "নিরব নতুন ওয়েব ডেভেলপার। সে HTML ব্যবহার করে ওয়েবপেজ তৈরি করে এবং হাইপারলিংক এর কাজ করে।",
+      "stem_image": null,
+      "group": "bank-ch4-sb17-q75",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 75
+      },
+      "tags": [
+        "html",
+        "link"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-079",
+      "text": "টেবিলের সেলের ব্যাকগ্রাউন্ড কালার কোন ট্যাগে হলুদ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<table bgcolor=\"yellow\">",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<tr bgcolor=\"yellow\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<td bgcolor=\"yellow\">",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<tr td bgcolor=\"yellow\">",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2017",
+        "qno": 76
+      },
+      "tags": [
+        "html",
+        "table",
+        "color"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-080",
+      "text": "ওয়েব সাইটে ছবি সংযুক্ত করার উপযুক্ত ফরমেট হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": ".jpg"
+        },
+        {
+          "label": "ii",
+          "text": ".img"
+        },
+        {
+          "label": "iii",
+          "text": ".png"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 77
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-081",
+      "text": "৪ নম্বর পেইজের জন্য প্রযোজ্য HTML কোডটি হলো–",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ওয়েব সাইটের ৪ নম্বর পেইজে 300 × 300 সাইজের pic.jpg নামের একটি ছবি সংযুক্ত রয়েছে। তবে সমস্যা হলো সাইটটির এক পেইজ হতে অন্য পেইজে যাওয়া যাচ্ছে না।",
+      "stem_image": null,
+      "group": "bank-ch4-bb17-q78",
+      "options": [
+        {
+          "label": "a",
+          "text": "<img src \"pic.jpg\" height =300 width=300 >",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img src \"pic.jpg\" H = \"300\" W = \"300\">",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<img src=\"pic.jpg\" height=\"300\" width=\"300\">",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<img src pic.jpg height = 300, width = 300>",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2017",
+        "qno": 78
+      },
+      "tags": [
+        "html",
+        "image"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-082",
+      "text": "ডোমেইন নাম হলো–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওয়েব সাইটের একটি স্বতন্ত্র নাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সার্ভারের নাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়েব ফাইলের নাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফোল্ডারের নাম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 79
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-083",
+      "text": "HTML এর উদ্ভাবক হলেন–",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টিম বার্নার্স লি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্টিভ জবস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মার্ক জুকারবার্গ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিল গেটস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2017",
+        "qno": 80
+      },
+      "tags": [
+        "html",
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-084",
+      "text": "html-এর ওয়েব পেজ তৈরির জন্য ফাইলের এক্সটেনশন হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": ".html"
+        },
+        {
+          "label": "ii",
+          "text": ".htm"
+        },
+        {
+          "label": "iii",
+          "text": ".doc"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 81
+      },
+      "tags": [
+        "html"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-085",
+      "text": "ওয়েব ব্রাউজার হলো–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "গুগল ক্রোম"
+        },
+        {
+          "label": "ii",
+          "text": "সাফারি"
+        },
+        {
+          "label": "iii",
+          "text": "ইউটিউব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 82
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-086",
+      "text": "প্রাপ্ত আউটপুটে কী দেখাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "<html><body>\n    <h1>ICT</h1>\n</body></html>",
+      "stem_image": null,
+      "group": "bank-ch4-db16-q84",
+      "options": [
+        {
+          "label": "a",
+          "text": "টেক্সটি বড় হরফে হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেখাটি টাইটেল হিসাবে দেখাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টেক্সটি স্ক্রল করতে থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আউটপুট লিংক দেখাবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 84
+      },
+      "tags": [
+        "html",
+        "heading"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-087",
+      "text": "দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "দৃশ্যকল্প-১: শুভ কলেজে ভর্তির আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম তার মোবাইলে পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়।\nদৃশ্যকল্প-২:\n<html><body>\n    This is first website\n</body></html>",
+      "stem_image": null,
+      "group": "bank-ch4-db16-q85",
+      "options": [
+        {
+          "label": "a",
+          "text": "ওয়েব সাইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওয়েব হোস্টিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ই-কমার্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইলেকট্রনিক মেইলিং",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 85
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-088",
+      "text": "দৃশ্যকল্প-২ এর জন্য ব্যবহৃত হতে পারে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "HTML সিনট্যাক্স"
+        },
+        {
+          "label": "ii",
+          "text": "টেক্সট এডিটর"
+        },
+        {
+          "label": "iii",
+          "text": "ব্রাউজার সফটওয়্যার"
+        }
+      ],
+      "stem": "দৃশ্যকল্প-১: শুভ কলেজে ভর্তির আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম তার মোবাইলে পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়।\nদৃশ্যকল্প-২:\n<html><body>\n    This is first website\n</body></html>",
+      "stem_image": null,
+      "group": "bank-ch4-db16-q85",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 86
+      },
+      "tags": [
+        "html",
+        "editor"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-089",
+      "text": "ওয়েবপেইজ ডিজাইনের সাথে সম্পর্কিত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওয়েব সার্ভারে তথ্য রাখা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HTML ডকুমেন্ট তৈরি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিশ্বব্যাপী নেটওয়ার্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডোমেইন রেজিস্ট্রেশন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 87
+      },
+      "tags": [
+        "web",
+        "html"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-090",
+      "text": "http://www.yahoo.com এর সর্বশেষ অংশটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোটোকল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডোমেইন নেইম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফাইল প্রকৃতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডোমেইন প্রকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2016",
+        "qno": 88
+      },
+      "tags": [
+        "web",
+        "domain"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-091",
+      "text": "উদ্দীপকের চিত্রটি ওয়েব সাইটের কোন কাঠামোর সাথে মিল রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": null,
+      "stem_image": "assets/ch4-bank-q089.png",
+      "group": "bank-ch4-rb16-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "হায়ারারকিক্যাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওয়েব লিংকড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিনিয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইব্রিড",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 89
+      },
+      "tags": [
+        "web",
+        "site-structure"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-092",
+      "text": "Page-4 ও Page-5 কে Page-2 এর সাথে যুক্ত করলে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ওয়েব সাইটের কাঠামো পরিবর্তিত হবে"
+        },
+        {
+          "label": "ii",
+          "text": "নতুন করে HTML কোড লিখতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "মেমোরি স্পেস কম লাগবে"
+        }
+      ],
+      "stem": null,
+      "stem_image": "assets/ch4-bank-q089.png",
+      "group": "bank-ch4-rb16-q89",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 90
+      },
+      "tags": [
+        "web",
+        "site-structure"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-093",
+      "text": "ওয়েবপেজ তৈরিতে কোন ভাষা ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PYTHON",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HTML",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "COBOL",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "FORTRAN",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 91
+      },
+      "tags": [
+        "html",
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-094",
+      "text": "ওয়েবসাইটের হায়ারারকিক্যাল কাঠামো কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হোমপেজ নির্ভর ওয়েবসাইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতি পেজের সাথে লিংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওয়েবভিত্তিক যোগাযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুটি পেজের মধ্যে লিংক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2016",
+        "qno": 92
+      },
+      "tags": [
+        "web",
+        "site-structure"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-095",
+      "text": "একটি আইপি অ্যাড্রেসকে প্রকাশের জন্য মোট কয়টি অকটেড প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩২",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": "IPv4 এ অকটেট লাগে 32 ÷ 8 = 4টি; IPv6 এ অকটেট লাগে 128 ÷ 8 = 16টি। যেহেতু অপশনে 16 নেই, তাই সঠিক উত্তর 4।",
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 93
+      },
+      "tags": [
+        "web",
+        "ip-address"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-096",
+      "text": "ওপেনিং ট্যাগ থেকে ক্লোজিং ট্যাগ পর্যন্ত সকল কিছুকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্যাগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Head",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Body",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "HTML উপাদান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 94
+      },
+      "tags": [
+        "html",
+        "element"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-097",
+      "text": "হোমপেজ দেখার জন্য আবশ্যক–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ওয়েব ব্রাউজার"
+        },
+        {
+          "label": "ii",
+          "text": "সার্চ ইঞ্জিন"
+        },
+        {
+          "label": "iii",
+          "text": "ইন্টারনেট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 95
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-098",
+      "text": "উদ্দীপকের This is My personal Website লাইনটির আউটপুটের ধরন কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "<html><head>\n        <title>\n        This is My First Web Page\n        </title>\n    </head>\n        <body> <h1> This is My Website </h1>\n        <p><u> This is My Personal Website\n        </u></p>\n</body></html>",
+      "stem_image": null,
+      "group": "bank-ch4-cb17-q96",
+      "options": [
+        {
+          "label": "a",
+          "text": "বোল্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইটালিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আন্ডারলাইন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোল্ড আন্ডারলাইন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2017",
+        "qno": 96
+      },
+      "tags": [
+        "html",
+        "formatting"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-099",
+      "text": "ফন্ট ট্যাগে অ্যাট্রিবিউট হিসাবে ব্যবহৃত হয়–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "size"
+        },
+        {
+          "label": "ii",
+          "text": "face"
+        },
+        {
+          "label": "iii",
+          "text": "color"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 97
+      },
+      "tags": [
+        "html",
+        "formatting",
+        "attribute"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-100",
+      "text": "URL দ্বারা কোনটি প্রকাশ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইন্টারনেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডোমেইন নেইম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়াহু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গুগল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 98
+      },
+      "tags": [
+        "web",
+        "url"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-101",
+      "text": "ওয়েবপেজ তৈরিতে ব্যবহৃত আবশ্যক ট্যাগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<html> … … </html>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<a href=\"URL\"> ....</a>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<font face=\"Sutonny MJ\"> ..... </font>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<img Src=\"Board.JPg\" width \"100\" hight=\"200\">",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2016",
+        "qno": 99
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-102",
+      "text": "হেডিং ট্যাগ কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 100
+      },
+      "tags": [
+        "html",
+        "heading"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-103",
+      "text": "HTML হচ্ছে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শেখা সহজ"
+        },
+        {
+          "label": "ii",
+          "text": "কেস সেনসিটিভ"
+        },
+        {
+          "label": "iii",
+          "text": "রক্ষণাবেক্ষণ সহজ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 102
+      },
+      "tags": [
+        "html"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-104",
+      "text": "কোডটিতে কোন ধরনের ট্যাগ ব্যবহৃত হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফরমেটিং"
+        },
+        {
+          "label": "ii",
+          "text": "হাইপারলিংক"
+        },
+        {
+          "label": "iii",
+          "text": "ইমেজ লিংক"
+        }
+      ],
+      "stem": "<html><body>\n<p><b>First Progam</b> </p>\n<a href=\"test.html\"\"> Test Website</a>\n</body></html>",
+      "stem_image": null,
+      "group": "bank-ch4-bb16-q103",
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2016",
+        "qno": 103
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-105",
+      "text": "HTTP এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Higher Text Transfer Protocol",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Hyper Text Transfer Protocol",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Higher Transfer Text Protocol",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Hyper Transfer Text Protocol",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2016",
+        "qno": 105
+      },
+      "tags": [
+        "web",
+        "protocol"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-106",
+      "text": "কোনটি ওয়েব ব্রাউজার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফায়ারফক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মাইক্রোসফট আউটলুক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়াহু ম্যাসেঞ্জার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গুগল ড্রপ বক্স",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 106
+      },
+      "tags": [
+        "web"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-107",
+      "text": "HTML এর body অংশে থাকে–",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ছবি"
+        },
+        {
+          "label": "ii",
+          "text": "টেবিল"
+        },
+        {
+          "label": "iii",
+          "text": "ওয়েব পেজ টাইটেল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2016",
+        "qno": 107
+      },
+      "tags": [
+        "html",
+        "tags"
+      ],
+      "difficulty": null
+    },
+    {
+      "id": "ict-ch4-mcq-108",
+      "text": "কোন html tag এর ক্লোজিং ট্যাগ থাকে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "<hi>",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "<img>",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "<tr>",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "<br>",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2017",
+        "qno": 108
+      },
+      "tags": [
+        "html",
+        "empty-tag"
+      ],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (d) <br>; কিন্তু <img>-ও ফাঁকা ট্যাগ (ক্লোজিং ট্যাগ নেই), তাই (b) ও (d) দুটোই সঠিক হতে পারে — যাচাই দরকার।"
+    }
+  ]
+}
