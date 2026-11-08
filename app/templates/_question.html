@@ -1,0 +1,93 @@
+{# Shared question renderer.
+   question(q, num, reveal, picked, name):
+     reveal  – mark the correct option (browse / results)
+     picked  – label the student chose (results) or None
+     name    – when set, options are radio inputs with this group name (live quiz)  #}
+{% set BL = {'a': 'ক', 'b': 'খ', 'c': 'গ', 'd': 'ঘ', 'e': 'ঙ', 'f': 'চ'} %}
+
+{% macro meta(q) %}
+  <div class="meta">
+    {% if q.board %}<span class="chip">{{ board_names.get(q.board, q.board) }}{% if q.year %} · {{ q.year|bn }}{% endif %}</span>{% endif %}
+    {% if q.set %}<span class="chip">সেট {{ q.set }}</span>{% endif %}
+    <span class="chip chip-muted">অধ্যায় {{ q.chapter|bn }}</span>
+    {% if q.review_note %}<span class="chip chip-warn" title="{{ q.review_note }}">⚠ যাচাই দরকার</span>{% endif %}
+  </div>
+{% endmacro %}
+
+{% macro stem_block(q) %}
+  {% if q.stem or q.stem_image %}
+  <div class="stem">
+    <div class="stem-label">উদ্দীপক</div>
+    {% if q.stem %}<div class="{{ 'code' if q.stem_is_code else 'stem-text' }}">{{ q.stem }}</div>{% endif %}
+    {% if q.stem_image %}<img class="qimg" src="{{ q.stem_image }}" alt="উদ্দীপক">{% endif %}
+  </div>
+  {% endif %}
+{% endmacro %}
+
+{% macro question(q, num, reveal=False, picked=None, name=None) %}
+<article class="q" id="q-{{ q.id }}" data-id="{{ q.id }}">
+  <div class="q-head">
+    <span class="q-num">{{ num|bn }}।</span>
+    {{ meta(q) }}
+  </div>
+  {{ stem_block(q) }}
+  <div class="q-text">{{ q.text }}</div>
+  {% if q.image %}<img class="qimg" src="{{ q.image }}" alt="">{% endif %}
+  {% if q.statements %}
+  <ol class="stmts">
+    {% for s in q.statements %}<li><i>{{ s.label }}.</i> {{ s.text }}</li>{% endfor %}
+  </ol>
+  <div class="q-sub">নিচের কোনটি সঠিক?</div>
+  {% endif %}
+  <div class="opts">
+    {% for o in q.options %}
+      {% set cls = [] %}
+      {% if reveal and o.is_correct %}{% set _ = cls.append('correct') %}{% endif %}
+      {% if reveal and picked == o.label and not o.is_correct %}{% set _ = cls.append('wrong') %}{% endif %}
+      {% if picked == o.label %}{% set _ = cls.append('picked') %}{% endif %}
+      {% if name %}
+      <label class="opt {{ cls|join(' ') }}">
+        <input type="radio" name="{{ name }}" value="{{ o.label }}">
+        <span class="lbl">{{ BL[o.label] }}</span>
+        <span class="otext">{% if o.text %}{{ o.text }}{% endif %}{% if o.image %}<img class="oimg" src="{{ o.image }}" alt="বিকল্প {{ BL[o.label] }}">{% endif %}</span>
+      </label>
+      {% else %}
+      <div class="opt {{ cls|join(' ') }}">
+        <span class="lbl">{{ BL[o.label] }}</span>
+        <span class="otext">{% if o.text %}{{ o.text }}{% endif %}{% if o.image %}<img class="oimg" src="{{ o.image }}" alt="বিকল্প {{ BL[o.label] }}">{% endif %}</span>
+        {% if reveal and o.is_correct %}<span class="mark">✓</span>{% elif reveal and picked == o.label %}<span class="mark">✗</span>{% endif %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% if reveal and q.explanation %}<div class="explain"><b>ব্যাখ্যা:</b> {{ q.explanation }}</div>{% endif %}
+  {% if reveal and q.review_note %}<div class="note">⚠ {{ q.review_note }}</div>{% endif %}
+</article>
+{% endmacro %}
+
+{# CQ renderer: short (text + answer) or analytical (stem + parts). Answers sit in hidden blocks. #}
+{% macro cq(q, num) %}
+<article class="q" id="q-{{ q.id }}" data-id="{{ q.id }}" data-marks="{{ q.marks }}">
+  <div class="q-head">
+    <span class="q-num">{{ num|bn }}।</span>
+    {{ meta(q) }}
+    <span class="chip chip-muted">{{ q.marks|bn }} নম্বর</span>
+  </div>
+  {% if q.type == 'cq_analytical' %}
+    <div class="stem"><div class="stem-label">উদ্দীপক</div>
+      <div class="stem-text">{{ q.text }}</div>
+      {% if q.image %}<img class="qimg" src="{{ q.image }}" alt="">{% endif %}
+    </div>
+    {% for p in q.parts %}
+    <div class="cq-part">
+      <div class="q-text"><b>{{ p.label }}.</b> {{ p.text }} <span class="muted">[{{ p.marks|bn }}]</span></div>
+      <div class="answer" hidden>{{ p.answer or '—' }}{% if p.answer_image %}<img class="qimg" src="{{ p.answer_image }}" alt="">{% endif %}</div>
+    </div>
+    {% endfor %}
+  {% else %}
+    <div class="q-text">{{ q.text }}</div>
+    {% if q.image %}<img class="qimg" src="{{ q.image }}" alt="">{% endif %}
+    <div class="answer" hidden>{{ q.answer or '—' }}{% if q.answer_image %}<img class="qimg" src="{{ q.answer_image }}" alt="">{% endif %}</div>
+  {% endif %}
+</article>
+{% endmacro %}

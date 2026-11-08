@@ -1,0 +1,116 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "HSC question file (mcq.json / cq-short.json / cq-analytical.json)",
+  "type": "object",
+  "required": ["subject", "chapter", "type", "questions"],
+  "properties": {
+    "subject": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+    "chapter": { "type": "integer", "minimum": 1 },
+    "type": { "enum": ["mcq", "cq_short", "cq_analytical"] },
+    "questions": { "type": "array" }
+  },
+  "allOf": [
+    { "if": { "properties": { "type": { "const": "mcq" } } },
+      "then": { "properties": { "questions": { "items": { "$ref": "#/definitions/mcq" } } } } },
+    { "if": { "properties": { "type": { "const": "cq_short" } } },
+      "then": { "properties": { "questions": { "items": { "$ref": "#/definitions/cq_short" } } } } },
+    { "if": { "properties": { "type": { "const": "cq_analytical" } } },
+      "then": { "properties": { "questions": { "items": { "$ref": "#/definitions/cq_analytical" } } } } }
+  ],
+  "definitions": {
+    "imagePath": { "type": ["string", "null"], "pattern": "^assets/.+\\.(png|jpg|jpeg|webp|svg)$" },
+    "source": {
+      "type": "object",
+      "required": ["board", "year"],
+      "properties": {
+        "board": { "type": "string" },
+        "year": { "type": "string", "pattern": "^[0-9]{4}$" },
+        "session": { "type": ["string", "null"] },
+        "set": { "type": ["string", "null"], "description": "Question set / code printed on the paper (e.g. গ)" },
+        "qno": { "type": ["integer", "null"], "description": "Question number on the original paper" }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "mcq": {
+      "type": "object",
+      "required": ["id", "text", "options", "answer", "source"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*-ch[0-9]+-mcq-[0-9]{3,}$" },
+        "text": { "type": "string", "minLength": 1 },
+        "text_en": { "type": ["string", "null"] },
+        "image": { "$ref": "#/definitions/imagePath" },
+        "stem": { "type": ["string", "null"], "description": "Shared উদ্দীপক text (may contain code, newlines)" },
+        "stem_image": { "$ref": "#/definitions/imagePath" },
+        "group": { "type": "string", "description": "Questions sharing one stem carry the same group id" },
+        "statements": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["label", "text"],
+            "properties": { "label": { "enum": ["i", "ii", "iii", "iv"] }, "text": { "type": "string" } }
+          }
+        },
+        "options": {
+          "type": "array", "minItems": 2, "maxItems": 6,
+          "items": {
+            "type": "object", "required": ["label"],
+            "properties": {
+              "label": { "enum": ["a", "b", "c", "d", "e", "f"] },
+              "text": { "type": ["string", "null"] },
+              "image": { "$ref": "#/definitions/imagePath" }
+            }
+          }
+        },
+        "answer": { "enum": ["a", "b", "c", "d", "e", "f"] },
+        "explanation": { "type": ["string", "null"] },
+        "source": { "$ref": "#/definitions/source" },
+        "tags": { "$ref": "#/definitions/tags" },
+        "difficulty": { "enum": ["easy", "medium", "hard", null] },
+        "review_note": { "type": "string", "description": "Open doubt about transcription or answer key; question is flagged in the UI" }
+      }
+    },
+    "cq_short": {
+      "type": "object",
+      "required": ["id", "text", "marks", "answer", "source"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*-ch[0-9]+-cqs-[0-9]{3,}$" },
+        "text": { "type": "string" },
+        "text_en": { "type": ["string", "null"] },
+        "image": { "$ref": "#/definitions/imagePath" },
+        "marks": { "type": "integer", "minimum": 1 },
+        "answer": { "type": "string" },
+        "answer_image": { "$ref": "#/definitions/imagePath" },
+        "source": { "$ref": "#/definitions/source" },
+        "tags": { "$ref": "#/definitions/tags" },
+        "review_note": { "type": "string" }
+      }
+    },
+    "cq_analytical": {
+      "type": "object",
+      "required": ["id", "stem", "parts", "total_marks", "source"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*-ch[0-9]+-cqa-[0-9]{3,}$" },
+        "stem": { "type": "string" },
+        "stem_en": { "type": ["string", "null"] },
+        "stem_image": { "$ref": "#/definitions/imagePath" },
+        "parts": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "required": ["label", "text", "marks"],
+            "properties": {
+              "label": { "type": "string" },
+              "text": { "type": "string" },
+              "marks": { "type": "integer", "minimum": 1 },
+              "bloom_level": { "type": ["string", "null"] },
+              "answer": { "type": ["string", "null"] },
+              "answer_image": { "$ref": "#/definitions/imagePath" }
+            }
+          }
+        },
+        "total_marks": { "type": "integer" },
+        "source": { "$ref": "#/definitions/source" },
+        "tags": { "$ref": "#/definitions/tags" },
+        "review_note": { "type": "string" }
+      }
+    }
+  }
+}

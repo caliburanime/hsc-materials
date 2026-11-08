@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>স্বাগতম</h1>
+<p class="muted">বোর্ড পরীক্ষার প্রশ্ন দিয়ে অনুশীলন করো, ভুলগুলো দেখো, আর অগ্রগতি ট্র্যাক করো।</p>
+
+<section class="cards">
+  {% for s in subjects %}
+  <div class="card">
+    <h2>{{ s.name }} <span class="muted">({{ s.name_en }})</span></h2>
+    <ul class="kv">
+      <li><span>MCQ</span><b>{{ (s.counts.get('mcq', 0))|bn }}</b></li>
+      <li><span>সৃজনশীল (ছোট)</span><b>{{ (s.counts.get('cq_short', 0))|bn }}</b></li>
+      <li><span>সৃজনশীল (বিশ্লেষণধর্মী)</span><b>{{ (s.counts.get('cq_analytical', 0))|bn }}</b></li>
+    </ul>
+    <div class="row">
+      <a class="btn" href="{{ url_for('quiz_setup', subject=s.id) }}">কুইজ শুরু করো</a>
+      <a class="btn btn-ghost" href="{{ url_for('browse', subject=s.id) }}">প্রশ্ন দেখো</a>
+    </div>
+  </div>
+  {% else %}
+  <div class="card"><p>কোনো বিষয় পাওয়া যায়নি। <code>python scripts/build_db.py</code> চালাও।</p></div>
+  {% endfor %}
+</section>
+
+<section class="stats-row">
+  <div class="stat"><b>{{ stats.total_tests|bn }}</b><span>মোট পরীক্ষা</span></div>
+  <div class="stat"><b>{{ ((stats.avg_score|string) ~ '%')|bn if stats.avg_score is not none else '—' }}</b><span>গড় স্কোর</span></div>
+  <div class="stat"><b>{{ ((stats.best_score|string) ~ '%')|bn if stats.best_score is not none else '—' }}</b><span>সর্বোচ্চ স্কোর</span></div>
+</section>
+
+{% if recent %}
+<h2>সাম্প্রতিক পরীক্ষা</h2>
+<table>
+  <thead><tr><th>তারিখ</th><th>ধরন</th><th>স্কোর</th><th></th></tr></thead>
+  <tbody>
+  {% for r in recent %}
+  <tr><td>{{ r.finished_at|dt }}</td><td>{{ MODE_LABELS[r.mode] }}</td><td>{{ r.score_pct|bn }}%</td>
+      <td><a href="{{ url_for('quiz_results', sid=r.id) }}">দেখো</a></td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}

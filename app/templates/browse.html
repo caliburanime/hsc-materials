@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% from "_question.html" import question, cq with context %}
+{% block title %}প্রশ্ন দেখুন{% endblock %}
+{% block content %}
+<h1>প্রশ্ন দেখুন</h1>
+<form class="filterbar" method="get">
+  <select name="subject" onchange="this.form.chapter.value='';this.form.board.value='';this.form.year.value='';this.form.submit()">
+    <option value="">সব বিষয়</option>
+    {% for s in subjects %}<option value="{{ s.id }}" {% if f.subject == s.id %}selected{% endif %}>{{ s.name_en }}</option>{% endfor %}
+  </select>
+  <select name="chapter">
+    <option value="">সব অধ্যায়</option>
+    {% for s in subjects if s.id == f.subject %}{% for c in s.chapters %}
+      <option value="{{ c.number }}" {% if f.chapter == c.number %}selected{% endif %}>{{ c.number|bn }}. {{ c.name }}</option>
+    {% endfor %}{% endfor %}
+  </select>
+  <select name="type">
+    <option value="">সব ধরন</option>
+    {% for k, v in MODE_LABELS.items() %}<option value="{{ k }}" {% if f.type == k %}selected{% endif %}>{{ v }}</option>{% endfor %}
+  </select>
+  <select name="board"><option value="">সব বোর্ড</option>
+    {% for b in boards %}<option value="{{ b }}" {% if f.board == b %}selected{% endif %}>{{ board_names.get(b, b) }}</option>{% endfor %}
+  </select>
+  <select name="year"><option value="">সব সাল</option>
+    {% for y in years %}<option value="{{ y }}" {% if f.year == y %}selected{% endif %}>{{ y|bn }}</option>{% endfor %}
+  </select>
+  <input type="search" name="q" value="{{ f.q }}" placeholder="খুঁজুন…">
+  <label class="inline"><input type="checkbox" name="flagged" value="1" {% if f.flagged %}checked{% endif %}> শুধু যাচাই দরকার</label>
+  <button class="btn" type="submit">ফিল্টার</button>
+</form>
+
+<p class="muted">{{ total|bn }}টি প্রশ্ন</p>
+{% for q in questions %}
+  {% if q.type == 'mcq' %}{{ question(q, (page - 1) * 25 + loop.index, reveal=True) }}
+  {% else %}{{ cq(q, (page - 1) * 25 + loop.index) }}<button class="btn btn-ghost reveal" type="button">উত্তর দেখাও</button>{% endif %}
+{% else %}
+  <p>কোনো প্রশ্ন পাওয়া যায়নি।</p>
+{% endfor %}
+
+{% if pages > 1 %}
+<nav class="pager">
+  {% if page > 1 %}<a href="{{ url_for('browse', page=page - 1, **args) }}">← আগের</a>{% endif %}
+  <span>{{ page|bn }} / {{ pages|bn }}</span>
+  {% if page < pages %}<a href="{{ url_for('browse', page=page + 1, **args) }}">পরের →</a>{% endif %}
+</nav>
+{% endif %}
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/results.js') }}"></script>{% endblock %}

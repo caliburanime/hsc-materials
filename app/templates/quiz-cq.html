@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% from "_question.html" import cq with context %}
+{% block title %}সৃজনশীল অনুশীলন{% endblock %}
+{% block content %}
+<div class="quizbar">
+  <div class="progress"><span id="graded">০</span> / {{ questions|length|bn }} নম্বর দেওয়া হয়েছে</div>
+  <button class="btn" id="submit-top" type="button">শেষ করো</button>
+</div>
+<div id="quiz" data-session="{{ session.id }}" data-total="{{ questions|length }}">
+  {% for q in questions %}
+  <div class="slide" data-i="{{ loop.index0 }}" data-id="{{ q.id }}" data-marks="{{ q.marks or 0 }}" hidden>
+    {{ cq(q, loop.index) }}
+    <div class="cq-actions">
+      <button type="button" class="btn btn-ghost reveal">উত্তর দেখাও</button>
+      <label class="inline">নিজের নম্বর
+        <input type="number" class="selfgrade" min="0" max="{{ q.marks or 0 }}" placeholder="0–{{ q.marks or 0 }}">
+        / {{ (q.marks or 0)|bn }}
+      </label>
+    </div>
+  </div>
+  {% endfor %}
+  <div class="row between">
+    <button class="btn btn-ghost" type="button" id="prev">← আগের</button>
+    <span id="pos" class="muted"></span>
+    <button class="btn btn-ghost" type="button" id="next">পরের →</button>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/quiz-cq.js') }}"></script>{% endblock %}

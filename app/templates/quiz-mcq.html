@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% from "_question.html" import question with context %}
+{% block title %}MCQ কুইজ{% endblock %}
+{% block content %}
+<div class="quizbar">
+  <div class="progress"><span id="answered">০</span> / {{ questions|length|bn }} উত্তর দেওয়া হয়েছে</div>
+  {% if session.config.timed %}<div class="timer" id="timer" data-seconds="{{ session.config.time_minutes * 60 }}" data-started="{{ session.started_at }}">--:--</div>{% endif %}
+  <button class="btn" id="submit-top" type="button">জমা দাও</button>
+</div>
+
+<div class="quiz-layout" id="quiz" data-session="{{ session.id }}" data-total="{{ questions|length }}">
+  <aside class="palette" id="palette" aria-label="প্রশ্ন তালিকা">
+    {% for q in questions %}<button type="button" data-i="{{ loop.index0 }}">{{ loop.index|bn }}</button>{% endfor %}
+  </aside>
+  <section>
+    {% for q in questions %}
+    <div class="slide" data-i="{{ loop.index0 }}" hidden>
+      {{ question(q, loop.index, name='ans-' ~ q.id) }}
+    </div>
+    {% endfor %}
+    <div class="row between">
+      <button class="btn btn-ghost" type="button" id="prev">← আগের</button>
+      <button class="btn btn-ghost" type="button" id="clear">উত্তর মুছো</button>
+      <button class="btn btn-ghost" type="button" id="next">পরের →</button>
+    </div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/quiz-mcq.js') }}"></script>{% endblock %}

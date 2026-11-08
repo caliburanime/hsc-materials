@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}HSC প্রশ্নব্যাংক{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="{{ url_for('index') }}">HSC প্রশ্নব্যাংক</a>
+  <nav>
+    <a href="{{ url_for('quiz_setup') }}" {% if request.endpoint == 'quiz_setup' %}aria-current="page"{% endif %}>কুইজ</a>
+    <a href="{{ url_for('browse') }}" {% if request.endpoint == 'browse' %}aria-current="page"{% endif %}>প্রশ্ন দেখুন</a>
+    <a href="{{ url_for('history') }}" {% if request.endpoint == 'history' %}aria-current="page"{% endif %}>ইতিহাস</a>
+  </nav>
+</header>
+<main class="wrap">
+  {% block content %}{% endblock %}
+</main>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

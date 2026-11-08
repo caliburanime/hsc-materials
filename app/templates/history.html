@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}ইতিহাস{% endblock %}
+{% block content %}
+<h1>পরীক্ষার ইতিহাস</h1>
+<section class="stats-row">
+  <div class="stat"><b>{{ stats.total_tests|bn }}</b><span>মোট পরীক্ষা</span></div>
+  <div class="stat"><b>{{ ((stats.avg_score|string) ~ '%')|bn if stats.avg_score is not none else '—' }}</b><span>গড় স্কোর</span></div>
+  <div class="stat"><b>{{ ((stats.best_score|string) ~ '%')|bn if stats.best_score is not none else '—' }}</b><span>সর্বোচ্চ</span></div>
+</section>
+
+{% if stats.by_chapter %}
+<h2>অধ্যায়ভিত্তিক সঠিকতা (MCQ)</h2>
+<div class="bars">
+  {% for c in stats.by_chapter %}
+  <div class="bar-row">
+    <span class="bar-label">{{ c.subject|upper }} · অধ্যায় {{ c.chapter|bn }}</span>
+    <span class="bar"><i style="width: {{ c.pct }}%" class="{{ 'good' if c.pct >= 60 else 'bad' }}"></i></span>
+    <span class="bar-val">{{ c.pct|bn }}% <span class="muted">({{ c.correct|bn }}/{{ c.answered|bn }})</span></span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<h2>সব পরীক্ষা</h2>
+{% if sessions %}
+<table>
+  <thead><tr><th>তারিখ</th><th>বিষয়</th><th>ধরন</th><th>অধ্যায়</th><th>প্রশ্ন</th><th>স্কোর</th><th>সময়</th><th></th></tr></thead>
+  <tbody>
+  {% for s in sessions %}
+  <tr>
+    <td>{{ s.finished_at|dt }}</td>
+    <td>{{ subjects[s.subject_id].name_en if s.subject_id in subjects else s.subject_id }}</td>
+    <td>{{ MODE_LABELS[s.mode] }}</td>
+    <td>{{ s.chapters|join(', ')|bn }}</td>
+    <td>{{ s.total_questions|bn }}</td>
+    <td><b>{{ s.score_pct|bn }}%</b></td>
+    <td>{{ s.time_taken|mmss }}</td>
+    <td><a href="{{ url_for('quiz_results', sid=s.id) }}">দেখো</a></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}<p class="muted">এখনো কোনো পরীক্ষা দেওয়া হয়নি।</p>{% endif %}
+{% endblock %}

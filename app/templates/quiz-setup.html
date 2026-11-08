@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}কুইজ সেটআপ{% endblock %}
+{% block content %}
+<h1>কুইজ সেটআপ</h1>
+<form id="setup" class="form">
+  <label>বিষয়
+    <select name="subject" id="subject">
+      {% for s in subjects %}<option value="{{ s.id }}" {% if s.id == preselect %}selected{% endif %}>{{ s.name }} ({{ s.name_en }})</option>{% endfor %}
+    </select>
+  </label>
+
+  <label>ধরন
+    <select name="type" id="type">
+      {% for k, v in MODE_LABELS.items() %}<option value="{{ k }}">{{ v }}</option>{% endfor %}
+    </select>
+  </label>
+
+  <fieldset>
+    <legend>অধ্যায় <button type="button" class="link" id="all-ch">সব</button> · <button type="button" class="link" id="no-ch">কোনোটিই না</button></legend>
+    <div id="chapters" class="checks"></div>
+  </fieldset>
+
+  <div class="grid2">
+    <label>বোর্ড
+      <select name="board" id="board"><option value="">সব বোর্ড</option></select>
+    </label>
+    <label>সাল
+      <select name="year" id="year"><option value="">সব সাল</option></select>
+    </label>
+  </div>
+
+  <div class="grid2">
+    <label>প্রশ্নের সংখ্যা <span class="muted" id="avail"></span>
+      <input type="number" name="count" id="count" min="1" value="25">
+    </label>
+    <label class="inline"><input type="checkbox" id="random" checked> এলোমেলো ক্রমে</label>
+  </div>
+
+  <div class="grid2">
+    <label class="inline"><input type="checkbox" id="timed" checked> সময় নির্ধারণ</label>
+    <label>সময় (মিনিট)
+      <input type="number" id="minutes" min="1" value="25">
+    </label>
+  </div>
+
+  <p class="error" id="err" hidden></p>
+  <button class="btn" id="start" type="submit">শুরু করো</button>
+</form>
+{% endblock %}
+{% block scripts %}
+<script id="subjects-data" type="application/json">{{ subjects|tojson }}</script>
+<script src="{{ url_for('static', filename='js/setup.js') }}"></script>
+{% endblock %}

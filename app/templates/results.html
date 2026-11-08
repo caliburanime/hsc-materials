@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% from "_question.html" import question, cq with context %}
+{% block title %}ফলাফল{% endblock %}
+{% block content %}
+{% set is_mcq = session.mode == 'mcq' %}
+<h1>ফলাফল</h1>
+<section class="score">
+  <div class="score-big {{ 'good' if session.score_pct >= 60 else 'bad' }}">{{ session.score_pct|bn }}%</div>
+  <div>
+    {% if is_mcq %}
+    <p><b>{{ session.correct|bn }}</b> / {{ session.total_questions|bn }} সঠিক</p>
+    {% else %}
+    <p>স্ব-মূল্যায়নে প্রাপ্ত নম্বর: <b>{{ session.correct|bn }}</b></p>
+    {% endif %}
+    <p class="muted">সময়: {{ session.time_taken|mmss }} মিনিট · {{ session.finished_at|dt }}</p>
+  </div>
+</section>
+
+{% if is_mcq %}
+<div class="filters" id="filters">
+  <button class="btn btn-ghost active" data-f="all">সব</button>
+  <button class="btn btn-ghost" data-f="wrong">ভুল</button>
+  <button class="btn btn-ghost" data-f="skipped">উত্তর দেওয়া হয়নি</button>
+</div>
+{% endif %}
+
+{% for q in questions %}
+  {% set a = answers.get(q.id) %}
+  {% if is_mcq %}
+    {% set given = a.given_answer if a else None %}
+    {% set state = 'skipped' if not given else ('right' if given == q.answer else 'wrong') %}
+    <div class="review {{ state }}" data-state="{{ state }}">
+      {{ question(q, loop.index, reveal=True, picked=given) }}
+      {% if state == 'skipped' %}<p class="muted">উত্তর দেওয়া হয়নি।</p>{% endif %}
+    </div>
+  {% else %}
+    {{ cq(q, loop.index) }}
+    <p>নিজের নম্বর: <b>{{ (a.self_grade if a and a.self_grade is not none else '—')|bn }}</b> / {{ q.marks|bn }}</p>
+  {% endif %}
+{% endfor %}
+
+<div class="row"><a class="btn" href="{{ url_for('quiz_setup') }}">আরেকটি কুইজ</a></div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/results.js') }}"></script>{% endblock %}
