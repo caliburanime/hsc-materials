@@ -1,0 +1,1751 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 6,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch6-mcq-001",
+      "text": "\\(x^2 - y^2 = 18\\) অধিবৃত্তের ফোকাসদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(12\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{18}-\\dfrac{y^2}{18}=1\\Rightarrow a^2=b^2=18\\)\n\\(c^2=a^2+b^2=36\\Rightarrow c=6\\)\nউপকেন্দ্রদ্বয়ের দূরত্ব \\(=2c=12\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-002",
+      "text": "সঞ্চারপথটি কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো বিন্দুর পরামিতিক স্থানাংক \\((2\\cos\\theta, \\sqrt{3}\\sin\\theta)\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধিবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\theta=\\dfrac x2,\\ \\sin\\theta=\\dfrac y{\\sqrt3}\\)\n\\(\\dfrac{x^2}{4}+\\dfrac{y^2}{3}=1\\), যা উপবৃত্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-003",
+      "text": "কেন্দ্রের স্থানাংক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো বিন্দুর পরামিতিক স্থানাংক \\((2\\cos\\theta, \\sqrt{3}\\sin\\theta)\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2, \\sqrt{3})\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((0, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((0, \\sqrt{3})\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সঞ্চারপথ \\(\\dfrac{x^2}{4}+\\dfrac{y^2}{3}=1\\), যা মূলবিন্দু কেন্দ্রিক উপবৃত্ত।\nঅতএব কেন্দ্র \\((0,0)\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-004",
+      "text": "\\(x^2 - 4x + 12y - 32 = 0\\) পরাবৃত্তের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উপকেন্দ্র \\((2, -6)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "নিয়ামকের সমীকরণ \\(y = 6\\)"
+        },
+        {
+          "label": "iii",
+          "text": "শীর্ষ বিন্দু \\((2, 3)\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\((x-2)^2=-12y+36=-12(y-3)\\)\nশীর্ষ \\((2,3)\\), \\(4a=12\\Rightarrow a=3\\), নিচের দিকে খোলা।\n(i) মিথ্যা: উপকেন্দ্র \\((2,0)\\)।\n(ii) সত্য: নিয়ামক \\(y=3+3=6\\)।\n(iii) সত্য: শীর্ষ \\((2,3)\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-005",
+      "text": "\\(\\dfrac{x^2}{a^2} + \\dfrac{y^2}{b^2} = 1\\) উপবৃত্তের উপকেন্দ্রের স্থানাংক কত? \\((a > b)\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\pm\\sqrt{a^2 + b^2}, 0\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(\\pm\\sqrt{a^2 - b^2}, 0\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((\\pm a/e, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((0, \\pm ae)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(a>b\\) হলে \\(b^2=a^2(1-e^2)\\), অতএব \\(ae=\\sqrt{a^2-b^2}\\)\nউপকেন্দ্র \\(\\left(\\pm\\sqrt{a^2-b^2},\\,0\\right)\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-006",
+      "text": "\\(3x^2 - 4y^2 = 12\\) অধিবৃত্তের \\((4, 3)\\) বিন্দুতে স্পর্শকের ঢালের মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{4}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(6x-8y\\dfrac{dy}{dx}=0\\Rightarrow\\dfrac{dy}{dx}=\\dfrac{3x}{4y}\\)\n\\((4,3)\\) বিন্দুতে ঢাল \\(=\\dfrac{12}{12}=1\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-007",
+      "text": "\\(2x^2 + y^2 = 4\\) কণিকটির বৃহৎ অক্ষের দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{2}+\\dfrac{y^2}{4}=1\\); এখানে \\(4>2\\), তাই বৃহৎ অক্ষ y-অক্ষ বরাবর, \\(a^2=4\\)\nবৃহৎ অক্ষের দৈর্ঘ্য \\(=2a=4\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-008",
+      "text": "\\(\\dfrac{x^2}{5^2} - \\dfrac{y^2}{4^2} = 1\\) এর পরামিতিক সমীকরণ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x = 5\\sec\\theta,\\ y = 4\\tan\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x = 4\\sec\\theta,\\ y = 5\\tan\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x = 4\\tan\\theta,\\ y = 5\\sec\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x = 5\\tan\\theta,\\ y = 4\\sec\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অধিবৃত্ত \\(\\dfrac{x^2}{a^2}-\\dfrac{y^2}{b^2}=1\\) এর পরামিতিক রূপ \\(x=a\\sec\\theta,\\ y=b\\tan\\theta\\)\nএখানে \\(a=5,\\ b=4\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-009",
+      "text": "\\(3x^2 + 4y^2 = 12\\) উপবৃত্তের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎকেন্দ্রিকতা \\(\\dfrac{1}{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "উপকেন্দ্র \\((\\pm 1, 0)\\)"
+        },
+        {
+          "label": "iii",
+          "text": "নিয়ামক রেখার সমীকরণ \\(y = \\pm\\sqrt{3}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{4}+\\dfrac{y^2}{3}=1\\Rightarrow a^2=4,\\ b^2=3\\)\n(i) সত্য: \\(e=\\sqrt{1-\\dfrac34}=\\dfrac12\\)।\n(ii) সত্য: উপকেন্দ্র \\((\\pm ae,0)=(\\pm1,0)\\)।\n(iii) মিথ্যা: নিয়ামক \\(x=\\pm\\dfrac ae=\\pm4\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-010",
+      "text": "\\(x^2 = 16y\\) পরাবৃত্তের উপরিস্থিত P বিন্দুর ভুজ 16 হলে, P বিন্দুর উপকেন্দ্রিক দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "36",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(x^2=16y\\Rightarrow a=4\\); \\(x=16\\) হলে \\(y=16\\)\nউপকেন্দ্রিক দূরত্ব \\(=y+a=16+4=20\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-011",
+      "text": "অধিবৃত্তটির অসীমতট রেখার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(4y^2 - 5x^2 = 20\\) একটি অধিবৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-CUB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(y = \\pm\\dfrac{\\sqrt{5}}{2}x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(y = \\pm\\dfrac{2}{\\sqrt{5}}x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x = \\pm\\dfrac{\\sqrt{5}}{2}y\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x = \\pm\\dfrac{2}{\\sqrt{5}}y\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{y^2}{5}-\\dfrac{x^2}{4}=1\\), এখানে \\(a^2=5,\\ b^2=4\\)\nঅসীমতট: \\(y=\\pm\\dfrac abx=\\pm\\dfrac{\\sqrt5}{2}x\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-012",
+      "text": "অধিবৃত্তটির নিয়ামক রেখাদ্বয়ের মধ্যবর্তী দূরত্ব কত একক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(4y^2 - 5x^2 = 20\\) একটি অধিবৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-CUB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{4\\sqrt{5}}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{10}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{12}{\\sqrt{5}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(e^2=1+\\dfrac{b^2}{a^2}=1+\\dfrac45=\\dfrac95\\Rightarrow e=\\dfrac3{\\sqrt5}\\)\nনিয়ামক \\(y=\\pm\\dfrac ae=\\pm\\dfrac{\\sqrt5\\cdot\\sqrt5}{3}=\\pm\\dfrac53\\)\nদূরত্ব \\(=\\dfrac{10}{3}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-013",
+      "text": "\\(x + y + c = 0\\) সরলরেখাটি \\(y^2 = x\\) পরাবৃত্তটিকে স্পর্শ করলে c এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y=-x-c\\) কে \\(y^2=x\\) এ বসিয়ে \\(x^2+(2c-1)x+c^2=0\\)\nস্পর্শক হলে নিশ্চায়ক \\(=0\\): \\((2c-1)^2-4c^2=1-4c=0\\Rightarrow c=\\dfrac14\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-014",
+      "text": "\\(y^2 = 4x + 3y - 7\\) পরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোনোটি নয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y^2-3y=4x-7\\Rightarrow\\left(y-\\dfrac32\\right)^2=4x-\\dfrac{19}{4}=4\\left(x-\\dfrac{19}{16}\\right)\\)\nএখানে \\(4a=4\\), উপকেন্দ্রিক লম্বের দৈর্ঘ্য \\(=4\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-015",
+      "text": "\\(y^2 = 4x + 4y - 8\\) পরাবৃত্তের শীর্ষের স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((1, 2)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2, 1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2, 2)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2, 4)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y^2-4y=4x-8\\Rightarrow(y-2)^2=4x-4=4(x-1)\\)\nশীর্ষ \\((1,2)\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-016",
+      "text": "\\(\\dfrac{(x-2)^2}{5} + \\dfrac{(y+1)^2}{4} = 1\\) উপবৃত্তের উৎকেন্দ্রিকতা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2}{\\sqrt{5}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{\\sqrt{5}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(a^2=5,\\ b^2=4\\) (\\(a>b\\))\n\\(e=\\sqrt{1-\\dfrac{b^2}{a^2}}=\\sqrt{1-\\dfrac45}=\\dfrac1{\\sqrt5}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-017",
+      "text": "\\(y = x + c\\) সরলরেখাটি \\(9x^2 + 16y^2 = 144\\) উপবৃত্তকে স্পর্শ করলে c এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pm 3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pm 4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pm 5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pm 6\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উপবৃত্ত \\(\\dfrac{x^2}{16}+\\dfrac{y^2}{9}=1\\); \\(y=mx+c\\) স্পর্শক হলে \\(c^2=a^2m^2+b^2\\)\n\\(c^2=16\\cdot1+9=25\\Rightarrow c=\\pm5\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-018",
+      "text": "\\(7x^2 - 9y^2 + 63 = 0\\) অধিবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{14}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{14}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{18}{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{18}{\\sqrt{7}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(9y^2-7x^2=63\\Rightarrow\\dfrac{y^2}{7}-\\dfrac{x^2}{9}=1\\), এখানে \\(a^2=7,\\ b^2=9\\)\nউপকেন্দ্রিক লম্ব \\(=\\dfrac{2b^2}{a}=\\dfrac{18}{\\sqrt7}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-019",
+      "text": "\\(x^2 = Py\\) পরাবৃত্তটি \\((6, -3)\\) বিন্দুগামী হলে, পরাবৃত্তের উপকেন্দ্রের স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((0, 3)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((3, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((0, -3)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((-3, 0)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\((6,-3)\\) বসিয়ে: \\(36=-3P\\Rightarrow P=-12\\)\n\\(x^2=-12y\\Rightarrow 4a=12,\\ a=3\\), নিচের দিকে খোলা\nউপকেন্দ্র \\((0,-3)\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-020",
+      "text": "\\(\\dfrac{x^2}{9} - \\dfrac{y^2}{4} = 1\\) অধিবৃত্তের উপকেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{13}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2\\sqrt{2}}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2\\sqrt{13}}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(a^2=9,\\ b^2=4\\Rightarrow c^2=a^2+b^2=13\\)\nউপকেন্দ্রদ্বয়ের দূরত্ব \\(=2c=2\\sqrt{13}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-021",
+      "text": "\\(\\dfrac{x^2}{4} + \\dfrac{y^2}{9} = 1\\) উপবৃত্তের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎকেন্দ্রিকতা \\(\\dfrac{\\sqrt{5}}{3}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "নিয়ামকের সমীকরণ \\(\\sqrt{5}y = \\pm 9\\)"
+        },
+        {
+          "label": "iii",
+          "text": "শীর্ষবিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব \\(= 4\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{4}+\\dfrac{y^2}{9}=1\\); বৃহৎ অক্ষ y বরাবর, \\(a^2=9,\\ b^2=4\\)\n(i) সত্য: \\(e=\\sqrt{1-\\dfrac49}=\\dfrac{\\sqrt5}{3}\\)।\n(ii) সত্য: নিয়ামক \\(y=\\pm\\dfrac ae=\\pm\\dfrac9{\\sqrt5}\\), অর্থাৎ \\(\\sqrt5y=\\pm9\\)।\n(iii) মিথ্যা: শীর্ষদ্বয়ের দূরত্ব \\(2a=6\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-022",
+      "text": "\\(\\dfrac{x^2}{16} - \\dfrac{y^2}{9} = 1\\) অধিবৃত্তের \\((x, y)\\) বিন্দুর পরামিতিক স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((4\\sec\\theta, 3\\tan\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((4\\sin\\theta, -3\\cos\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((4\\cos\\theta, 3\\sin\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((4\\tan\\theta, 3\\sec\\theta)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অধিবৃত্ত \\(\\dfrac{x^2}{a^2}-\\dfrac{y^2}{b^2}=1\\) এর বিন্দু \\((a\\sec\\theta,\\,b\\tan\\theta)\\)\nএখানে \\((4\\sec\\theta,\\,3\\tan\\theta)\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-023",
+      "text": "\\(y^2 + 3y = 3x - 8\\) পরাবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{23}{12}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\left(y+\\dfrac32\\right)^2=3x-8+\\dfrac94=3x-\\dfrac{23}{4}\\)\nএখানে \\(4a=3\\), উপকেন্দ্রিক লম্বের দৈর্ঘ্য \\(=3\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-024",
+      "text": "\\(4x^2 - y^2 + 16 = 0\\) অধিবৃত্তের পরামিতিক স্থানাঙ্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((4\\sec\\theta, 2\\tan\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2\\sec\\theta, 4\\tan\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((4\\tan\\theta, 2\\sec\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2\\tan\\theta, 4\\sec\\theta)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(y^2-4x^2=16\\Rightarrow\\dfrac{y^2}{16}-\\dfrac{x^2}{4}=1\\)\nএটি y-অক্ষ বরাবর অধিবৃত্ত, \\(a=4,\\ b=2\\); বিন্দু \\((b\\tan\\theta,\\,a\\sec\\theta)=(2\\tan\\theta,\\,4\\sec\\theta)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-025",
+      "text": "বৃহৎ অক্ষের দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\dfrac{x^2}{2} + \\dfrac{y^2}{3} = 1\\) একটি কণিকের সমীকরণ",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{2}+\\dfrac{y^2}{3}=1\\); \\(3>2\\), তাই বৃহৎ অক্ষ y বরাবর, \\(a^2=3\\)\nবৃহৎ অক্ষ \\(=2a=2\\sqrt3\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-026",
+      "text": "উপকেন্দ্রের স্থানাংক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\dfrac{x^2}{2} + \\dfrac{y^2}{3} = 1\\) একটি কণিকের সমীকরণ",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\pm\\dfrac{\\sqrt{2}}{\\sqrt{3}}, 0\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(0, \\pm\\dfrac{\\sqrt{2}}{\\sqrt{3}}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((\\pm 1, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((0, \\pm 1)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(a^2=3,\\ b^2=2\\Rightarrow e^2=1-\\dfrac23=\\dfrac13\\)\n\\(ae=\\sqrt3\\cdot\\dfrac1{\\sqrt3}=1\\)\nবৃহৎ অক্ষ y বরাবর, তাই উপকেন্দ্র \\((0,\\pm1)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-027",
+      "text": "\\((x - 1)^2 = -y\\) এর",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শীর্ষ \\((1, 0)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "উপকেন্দ্র \\(\\left(-\\dfrac{1}{4}, 0\\right)\\)"
+        },
+        {
+          "label": "iii",
+          "text": "উপকেন্দ্র থেকে নিকটতম নিয়ামকের দূরত্ব \\(= \\dfrac{1}{2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((x-1)^2=-y\\), \\(4a=1\\Rightarrow a=\\dfrac14\\), নিচের দিকে খোলা\n(i) সত্য: শীর্ষ \\((1,0)\\)।\n(ii) মিথ্যা: উপকেন্দ্র \\(\\left(1,-\\dfrac14\\right)\\)।\n(iii) সত্য: উপকেন্দ্র থেকে নিয়ামকের দূরত্ব \\(=2a=\\dfrac12\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-028",
+      "text": "\\((x - 1)^2 + 3y = 0\\) সমীকরণটি কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরলরেখা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধিবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\((x-1)^2=-3y\\) আকারের সমীকরণ, যা \\(X^2=-4aY\\) ধরনের পরাবৃত্ত।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-029",
+      "text": "\\(y^2 - kx = 0\\) পরাবৃত্তটির নিয়ামক রেখার সমীকরণ \\(x - 1 = 0\\) হলে k এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-4\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y^2=kx\\) এর নিয়ামক \\(x=-\\dfrac k4\\)\n\\(-\\dfrac k4=1\\Rightarrow k=-4\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-030",
+      "text": "\\(27x^2 + 8y^2 = 216\\) উপবৃত্তের বৃহৎ অক্ষের সমীকরণ হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x = 2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(y = 3\\sqrt{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{8}+\\dfrac{y^2}{27}=1\\); \\(27>8\\), তাই বৃহৎ অক্ষ y-অক্ষ বরাবর\nবৃহৎ অক্ষের সমীকরণ \\(x=0\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-031",
+      "text": "পরাবৃত্তটির উপকেন্দ্রের স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(y^2 - 4x + 4y - 6 = 0\\) একটি পরাবৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-MB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\dfrac{3}{2}, -2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(-2, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(-\\dfrac{3}{2}, 2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(-\\dfrac{3}{2}, -2\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(y^2+4y=4x+6\\Rightarrow(y+2)^2=4x+10=4\\left(x+\\dfrac52\\right)\\)\nশীর্ষ \\(\\left(-\\dfrac52,-2\\right)\\), \\(a=1\\)\nউপকেন্দ্র \\(\\left(-\\dfrac52+1,-2\\right)=\\left(-\\dfrac32,-2\\right)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-032",
+      "text": "পরাবৃত্তটির শীর্ষবিন্দুর স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(y^2 - 4x + 4y - 6 = 0\\) একটি পরাবৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-MB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\dfrac{5}{2}, 2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(\\dfrac{5}{2}, -2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(-\\dfrac{5}{2}, 2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(-\\dfrac{5}{2}, -2\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\((y+2)^2=4\\left(x+\\dfrac52\\right)\\)\nশীর্ষ \\(\\left(-\\dfrac52,-2\\right)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-033",
+      "text": "\\(y^2 = 8x\\) পরাবৃত্তের নিয়ামকরেখার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x - 2 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x + 2 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(y - 2 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(y + 2 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(y^2=8x\\Rightarrow4a=8,\\ a=2\\)\nনিয়ামক: \\(x=-a\\), অর্থাৎ \\(x+2=0\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-034",
+      "text": "\\(\\dfrac{(x-3)^2}{16} + \\dfrac{(y+1)^2}{12} = 1\\) উপবৃত্তটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্রের স্থানাঙ্ক \\((3, -1)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "বৃহৎ অক্ষের দৈর্ঘ্য 8 একক"
+        },
+        {
+          "label": "iii",
+          "text": "উৎকেন্দ্রিকতা \\(\\dfrac{1}{2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "i: কেন্দ্র \\((3,-1)\\), সত্য।\nii: \\(a^2=16\\) ⇒ \\(a=4\\), বৃহৎ অক্ষ \\(=2a=8\\) একক, সত্য।\niii: \\(e=\\sqrt{1-\\dfrac{12}{16}}=\\dfrac{1}{2}\\), সত্য।\nতাই i, ii ও iii সবই সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-035",
+      "text": "b এর মান কত হলে \\(y = 4x + 1\\) সরলরেখাটি \\(y^2 = 8bx\\) পরাবৃত্তকে স্পর্শ করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y^2=4ax\\) এ \\(4a=8b\\) ⇒ \\(a=2b\\)।\n\\(y=mx+c\\) স্পর্শক হওয়ার শর্ত \\(c=\\dfrac{a}{m}\\)।\nএখানে \\(m=4,\\ c=1\\) ⇒ \\(1=\\dfrac{2b}{4}\\) ⇒ \\(b=2\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-036",
+      "text": "অধিবৃত্তটির শীর্ষবিন্দুর স্থানাঙ্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(9x^2 - 16y^2 = 144\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-RB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((\\pm 4, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((\\pm 5, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((0, \\pm 4)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((0, \\pm 5)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমীকরণটি \\(\\dfrac{x^2}{16}-\\dfrac{y^2}{9}=1\\); এখানে \\(a^2=16\\) ⇒ \\(a=4\\)।\nশীর্ষবিন্দুর স্থানাঙ্ক \\((\\pm a,0)=(\\pm 4,0)\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-037",
+      "text": "অধিবৃত্তটির অসীমতটের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(9x^2 - 16y^2 = 144\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-RB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2x = \\pm 3y\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3y = \\pm 2x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x = \\pm 4y\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4x = \\pm 3y\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{16}-\\dfrac{y^2}{9}=1\\) এর জন্য \\(a=4,\\ b=3\\)।\nঅসীমতটের সমীকরণ \\(y=\\pm\\dfrac{b}{a}x=\\pm\\dfrac{3}{4}x\\) ⇒ \\(3x=\\pm 4y\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-038",
+      "text": "কোনো কণিকের উৎকেন্দ্রিকতা \\(\\dfrac{\\sqrt{3}}{2}\\) হলে, সেটি একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অধিবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম অধিবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(e=\\dfrac{\\sqrt3}{2}<1\\) হওয়ায় কণিকটি উপবৃত্ত। (\\(e=1\\) পরাবৃত্ত, \\(e>1\\) অধিবৃত্ত।)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-039",
+      "text": "কণিকটির নিয়ামকের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + 5y = 0\\) একটি কণিক।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-SB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5x + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5x - 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4y + 5 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4y - 5 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(x^2=-5y\\); \\(x^2=-4ay\\) এর সাথে তুলনা করে \\(4a=5\\) ⇒ \\(a=\\dfrac54\\)।\nনিয়ামকের সমীকরণ \\(y=a=\\dfrac54\\) ⇒ \\(4y-5=0\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-040",
+      "text": "কণিকটির উপকেন্দ্রের স্থানাংক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + 5y = 0\\) একটি কণিক।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-SB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(0, \\dfrac{5}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(0, -\\dfrac{5}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(0, \\dfrac{4}{5}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(0, -\\dfrac{4}{5}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(x^2=-5y\\) এ \\(4a=5\\) ⇒ \\(a=\\dfrac54\\)।\nপরাবৃত্তটি নিচের দিকে খোলা, তাই উপকেন্দ্র \\((0,-a)=\\left(0,-\\dfrac54\\right)\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-041",
+      "text": "\\(\\dfrac{y^2}{25} - \\dfrac{x^2}{16} = 1\\) অধিবৃত্তের পরামিতিক সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x = 5\\tan\\theta,\\ y = 4\\sec\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x = 5\\sec\\theta,\\ y = 4\\tan\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x = 5\\sin\\theta,\\ y = 4\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x = 4\\tan\\theta,\\ y = 5\\sec\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{y^2}{25}-\\dfrac{x^2}{16}=1\\) এ \\(\\sec^2\\theta-\\tan^2\\theta=1\\) ব্যবহার করে \\(\\dfrac{y}{5}=\\sec\\theta,\\ \\dfrac{x}{4}=\\tan\\theta\\)।\nঅতএব \\(x=4\\tan\\theta,\\ y=5\\sec\\theta\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-042",
+      "text": "\\(x^2 + 4y^2 = 100\\) কণিকের উৎকেন্দ্রিকতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\sqrt{2}}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{5}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2}{\\sqrt{5}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^2}{100}+\\dfrac{y^2}{25}=1\\) ⇒ \\(a^2=100,\\ b^2=25\\)।\n\\(e=\\sqrt{1-\\dfrac{b^2}{a^2}}=\\sqrt{1-\\dfrac14}=\\dfrac{\\sqrt3}{2}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

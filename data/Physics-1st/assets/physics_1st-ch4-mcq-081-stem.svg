@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="440" height="240">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker>
+<pattern id="ht" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern>
+</defs>
+<rect width="440" height="240" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15" >
+<polyline points="70.0,40.0 70.0,210.0 400.0,210.0 70.0,40.0"/>
+<polyline points="70,198 82,198 82,210" stroke-width="1"/>
+<g transform="translate(70,40) rotate(27.26)"><rect x="3" y="-16" width="34" height="16" fill="url(#ht)"/></g>
+<path d="M70,68 A28,28 0 0 0 94.9,52.8" stroke-width="1.2"/>
+<text x="85" y="92" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">θ</text>
+<text x="52" y="38" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">P</text>
+<text x="132" y="28" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">m</text>
+<text x="52" y="226" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">Q</text>
+<text x="416" y="216" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">R</text>
+</g></svg>

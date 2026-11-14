@@ -1,0 +1,3370 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 10,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch10-mcq-001",
+      "text": "বিশুদ্ধ সিলিকন কেলাসের সাথে কোন অপদ্রব্য যোগ করলে উহা p-টাইপ অর্ধপরিবাহী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিসমাথ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এন্টিমনি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দস্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোরন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সিলিকন চার যোজী মৌল। তিন যোজী অপদ্রব্য (বোরন) যোগ করলে একটি হোল তৈরি হয় এবং p-টাইপ অর্ধপরিবাহী পাওয়া যায়। বিসমাথ ও এন্টিমনি পাঁচ যোজী, তাই n-টাইপ দেয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-002",
+      "text": "নিচের কোন ডায়োডটি বিপরীত বায়াসে যুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-002-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-002-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-002-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-002-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিপরীত বায়াসে ডায়োডের অ্যানোড (p-প্রান্ত) ক্যাথোডের (n-প্রান্ত) চেয়ে নিম্ন বিভবে থাকে। (ক) \\(12 > 10\\), (খ) \\(10 > 0\\) ও (ঘ) \\(12 > -6\\) এ অ্যানোডের বিভব বেশি, অর্থাৎ সম্মুখী বায়াস। (গ) এ \\(-20\\,\\mathrm{V} < -10\\,\\mathrm{V}\\), তাই এটি বিপরীত বায়াসে আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-003",
+      "text": "একটি কমন এমিটর ট্রানজিস্টরের β = 100 হলে α কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.96",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.97",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.98",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.99",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\alpha = \\frac{\\beta}{1+\\beta} = \\frac{100}{101} \\approx 0.99\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-004",
+      "text": "বুলিয়ান ফাংশন \\(F = (A + B)(A + \\overline{B})\\) হলে, F এর সরলীকৃত মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\overline{A}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\overline{B}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F = (A+B)(A+\\overline{B}) = A + B\\overline{B} = A + 0 = A\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-005",
+      "text": "সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহণ ব্যান্ডের মধ্যে শক্তি ব্যবধানের মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.6 eV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.1 eV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.7 eV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.3 eV",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সিলিকনের শক্তি ব্যবধান প্রায় \\(1.1\\ \\mathrm{eV}\\) (জার্মেনিয়ামের \\(0.7\\ \\mathrm{eV}\\))।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-006",
+      "text": "নিম্নের কোনটি মৌলিক গেইট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-006-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-006-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-006-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-006-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মৌলিক গেইট তিনটি: OR, AND ও NOT। NOR, NAND ও XNOR সার্বিক বা যৌগিক গেইট। প্রদত্ত প্রতীকগুলোর মধ্যে (গ) হলো NOT গেইট।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-007",
+      "text": "কোনো p-n জাংশন ডায়োডে 0.2V বিভব পার্থক্য পরিবর্তনের জন্য 5mA বিদ্যুৎ প্রবাহের পরিবর্তন পাওয়া গেল। ডায়োডের গতীয় রোধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4 \\times 10^{-4}\\,\\Omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.04Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "40Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "400Ω",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গতীয় রোধ \\(r = \\frac{\\Delta V}{\\Delta I} = \\frac{0.2}{5 \\times 10^{-3}} = 40\\ \\Omega\\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-008",
+      "text": "নিচের কোনটির ক্ষেত্রে যোজন ব্যান্ড এবং পরিবহন ব্যান্ডের ইলেকট্রনের শক্তির উপরিপাতন ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিবাহী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধপরিবাহী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অন্তরক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কুপরিবাহী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীতে যোজন ব্যান্ড ও পরিবহন ব্যান্ড পরস্পরের উপর আংশিক উপরিপাতিত থাকে, তাই এদের মধ্যে শক্তি ব্যবধান থাকে না।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-009",
+      "text": "বেস প্রবাহমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কমন বেস ট্রানজিস্টরের বিবর্ধকের ইনপুট ও আউটপুটের রোধ যথাক্রমে 300Ω এবং 300kΩ। নিঃসারক প্রবাহমাত্রা 2mA এবং α = 0.98।",
+      "stem_image": null,
+      "group": "physics_2nd-2025-CUB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.01 mA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.04 mA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.02 mA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.06 mA",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\alpha = \\frac{I_C}{I_E}\\) থেকে \\(I_C = 0.98 \\times 2 = 1.96\\ \\mathrm{mA}\\)\n\\(I_B = I_E - I_C = 2 - 1.96 = 0.04\\ \\mathrm{mA}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-010",
+      "text": "নিচের কোনটি অন্তরক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জার্মেনিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রুপা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হীরক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হীরক (ডায়মন্ড) একটি অন্তরক, এর শক্তি ব্যবধান অনেক বেশি (প্রায় 6 eV বা তার বেশি)। জার্মেনিয়াম অর্ধপরিবাহী এবং রুপা ও তামা পরিবাহী।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-011",
+      "text": "নিম্নের কোন সম্পর্কটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতা লাভ = প্রবাহ লাভ ÷ ভোল্টেজ লাভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভোল্টেজ লাভ = প্রবাহ লাভ × ক্ষমতা লাভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্ষমতা লাভ = ভোল্টেজ লাভ × (প্রবাহ লাভ)²",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষমতা লাভ = প্রবাহ লাভ × ভোল্টেজ লাভ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা লাভ = প্রবাহ লাভ × ভোল্টেজ লাভ (কারণ \\(P = VI\\))।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-012",
+      "text": "নিচের P বিন্দুর বিভবের নাম কী?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-012-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "অপারেটিং বিভব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নী বিভব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনাশী বিভব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সূচন বিভব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চিত্রে বিপরীত বায়াসে তৃতীয় চতুর্ভাগে \\(P\\) বিন্দুতে বিপরীত প্রবাহ হঠাৎ অনেক বেড়ে গেছে। এ বিভবকে বিনাশী বিভব (ব্রেকডাউন ভোল্টেজ) বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-013",
+      "text": "অর্ধপরিবাহীর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শক্তি ফাঁক (6 ~ 15) eV"
+        },
+        {
+          "label": "ii",
+          "text": "তাপমাত্রা বৃদ্ধি করলে রোধকত্ব হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "পরমশূন্য তাপমাত্রায় অপরিবাহীর ন্যায় আচরণ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) অর্ধপরিবাহীর শক্তি ফাঁক প্রায় \\(1\\ \\mathrm{eV}\\), \\(6 \\sim 15\\ \\mathrm{eV}\\) নয় (এটি অন্তরকের) — মিথ্যা।\n(ii) তাপমাত্রা বাড়লে মুক্ত ইলেকট্রন ও হোল বাড়ে, ফলে রোধকত্ব হ্রাস পায় — সত্য।\n(iii) পরমশূন্য তাপমাত্রায় সব ইলেকট্রন যোজন ব্যান্ডে থাকে, তাই এটি অন্তরকের মতো আচরণ করে — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-014",
+      "text": "ব্যান্ড তত্ত্বের আলোকে কোন পদার্থের মধ্যবর্তী শক্তি ব্যবধান অনধিক 1.1eV?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্লাস্টিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সিলিকন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জিংক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সিলিকনের শক্তি ব্যবধান প্রায় \\(1.1\\ \\mathrm{eV}\\)। প্লাস্টিক অন্তরক (ব্যবধান অনেক বেশি), আর তামা ও জিংক পরিবাহী (ব্যবধান নেই)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-015",
+      "text": "ট্রানজিস্টরকে যে হিসেবে ব্যবহার করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রেকটিফায়ার"
+        },
+        {
+          "label": "ii",
+          "text": "অ্যামপ্লিফায়ার"
+        },
+        {
+          "label": "iii",
+          "text": "সুইচ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ট্রানজিস্টর অ্যামপ্লিফায়ার (বিবর্ধক) ও সুইচ হিসেবে ব্যবহৃত হয়। রেকটিফায়ার হিসেবে ডায়োড ব্যবহৃত হয়, ট্রানজিস্টর নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-016",
+      "text": "ট্রানজিস্টর এর সাধারণ সংগ্রাহক সংযোগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-016-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-016-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-016-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-016-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাধারণ সংগ্রাহক সংযোগে সংগ্রাহক ইনপুট ও আউটপুট উভয়ের সাধারণ প্রান্ত। (গ) এ সংগ্রাহক সাধারণ লাইনে যুক্ত, বেস ইনপুট এবং এমিটার আউটপুট। (ক) সাধারণ বেস এবং (খ), (ঘ) সাধারণ নিঃসারক সংযোগ।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-017",
+      "text": "p–n জাংশনে বিমুখী ঝোঁক প্রদান করলে নিঃশেষিত স্তর—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একই থাকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিলুপ্ত হয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিমুখী ঝোঁকে বাইরের বিভব জাংশনের বিভব-প্রাচীর বাড়ায়, ফলে সংখ্যালঘু বাহক ছাড়া অন্য বাহক জাংশন থেকে দূরে সরে যায় এবং নিঃশেষিত স্তরের পুরুত্ব বৃদ্ধি পায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-018",
+      "text": "সিলিকনের জন্য নী ভোল্টেজ (Knee Voltage) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.1V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.3V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.7V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.1V",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সিলিকন ডায়োডের নী ভোল্টেজ প্রায় \\(0.7\\ \\mathrm{V}\\) (জার্মেনিয়ামের প্রায় \\(0.3\\ \\mathrm{V}\\))।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-019",
+      "text": "একটি ট্রানজিস্টরে বেস প্রবাহের পরিবর্তন 0.02 mA এবং সংগ্রাহক প্রবাহের পরিবর্তন 1mA হলে β এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "22",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "37",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\Delta I_C}{\\Delta I_B} = \\frac{1\\ \\mathrm{mA}}{0.02\\ \\mathrm{mA}} = 50\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-020",
+      "text": "\\((99)_{16}\\) এর পরের সংখ্যাটি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((100)_{16}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((9A)_{16}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((A9)_{16}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((AA)_{16}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হেক্সাডেসিমেলে অঙ্কগুলো \\(0\\text{–}9\\) এর পর \\(A, B, C, D, E, F\\)। তাই \\((99)_{16}\\) এর পরের সংখ্যা \\((9A)_{16}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-021",
+      "text": "সাধারণ নিঃসারক বিবর্ধকে ট্রানজিস্টরের বিপরীতে ইনপুট ও আউটপুট সংকেতের মধ্যে দশা পার্থক্য থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "180°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "360°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাধারণ নিঃসারক বিবর্ধকে ইনপুট সংকেত বাড়লে সংগ্রাহক প্রবাহ বাড়ে এবং সংগ্রাহক-ভোল্টেজ (আউটপুট) কমে। তাই ইনপুট ও আউটপুটের মধ্যে দশা পার্থক্য \\(180^\\circ\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-022",
+      "text": "একটি ট্রানজিস্টর বর্তনীতে এমিটার কারেন্ট 2mA এবং বেইজ কারেন্ট 20µA পাওয়া গেল। প্রবাহে বিবর্ধন গুণক (α) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.49",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.99",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "99",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(I_C = I_E - I_B = 2 - 0.02 = 1.98\\ \\mathrm{mA}\\)\n\\(\\alpha = \\frac{I_C}{I_E} = \\frac{1.98}{2} = 0.99\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-023",
+      "text": "সেমি কন্ডাক্টর ডায়োডকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামপ্লিফায়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেকটিফায়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ট্রানজিস্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফিল্টার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অর্ধপরিবাহী ডায়োড কেবল এক দিকে প্রবাহ চলতে দেয়, তাই এটি AC কে DC তে রূপান্তর করতে পারে। এজন্য একে রেকটিফায়ার বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-024",
+      "text": "\\((101011)_2\\) কে ডেসিমেল এ প্রকাশ করলে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(45_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(43_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(36_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(12_{10}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((101011)_2 = 1\\times2^5 + 0\\times2^4 + 1\\times2^3 + 0\\times2^2 + 1\\times2^1 + 1\\times2^0\\)\n\\(= 32 + 8 + 2 + 1 = 43_{10}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-025",
+      "text": "চিত্রে প্রদত্ত লজিক গেটের সমবায়টির আউটপুট কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-025-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(A \\cdot A \\cdot B\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(A \\cdot B + A\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(A + A + B\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A \\cdot A + B\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "AND গেটের আউটপুট \\(A \\cdot B\\)। এটি এবং \\(A\\) OR গেটের ইনপুট, তাই \\(Y = A \\cdot B + A\\)। (সরলীকরণে \\(Y = A\\)।)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-026",
+      "text": "একটি ট্রানজিস্টরে নিঃসারক, ভূমি ও সংগ্রাহকে ডোপিং এর মাত্রা যথাক্রমে \\(D_e\\), \\(D_b\\) ও \\(D_c\\) হলে সম্পর্কটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(D_e = D_b = D_c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(D_e < D_b = D_c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(D_e > D_b > D_c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(D_e > D_c > D_b\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিঃসারক সবচেয়ে বেশি ডোপিত (বাহক সরবরাহের জন্য), সংগ্রাহক মাঝারি এবং ভূমি সবচেয়ে কম ডোপিত ও পাতলা। তাই \\(D_e > D_c > D_b\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-027",
+      "text": "বিমুখী ঝোঁকের বৈশিষ্ট্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিভব প্রাচীর বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "রোধ উচ্চ মানের হয়"
+        },
+        {
+          "label": "iii",
+          "text": "প্রাথমিক পর্যায়ে প্রবাহ পাওয়া যায় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিমুখী ঝোঁকে বিভব প্রাচীর বৃদ্ধি পায় (i সত্য) ও রোধ খুব বেশি হয় (ii সত্য)। প্রাথমিক পর্যায়ে প্রবাহ না পাওয়ার বৈশিষ্ট্য (iii) সম্মুখী ঝোঁকের (হাঁটু ভোল্টেজের আগে)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-028",
+      "text": "চিত্র-১ এর লজিক গেইটটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch10-mcq-028-stem.svg",
+      "group": "physics_2nd-2023-CB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR গেইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND গেইট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOR গেইট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND গেইট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চিত্র-১ এর গেইটটি দুটি ইনপুট A, B ও আউটপুট C যুক্ত OR গেইট।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-029",
+      "text": "চিত্র-১ এর আউটপুটের সাথে চিত্র-২ এর ইনপুট যুক্ত করলে নিম্নের কোন লজিক গেইট উৎপন্ন হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch10-mcq-028-stem.svg",
+      "group": "physics_2nd-2023-CB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AND",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "OR গেইটের আউটপুট NOT গেইটে দিলে \\(C = \\overline{A+B}\\) পাওয়া যায়, যা NOR গেইট।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-030",
+      "text": "P-টাইপ অর্ধপরিবাহী তৈরি করার জন্য বিশুদ্ধ সিলিকনের সাথে যে মৌল ডোপিং করা হয় তা হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফসফরাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যালুমিনিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্সেনিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যান্টিমনি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "P-টাইপ তৈরিতে ত্রিযোজী মৌল (বোরন, অ্যালুমিনিয়াম, গ্যালিয়াম, ইন্ডিয়াম) ডোপ করা হয়। বিকল্পগুলোর মধ্যে অ্যালুমিনিয়াম ত্রিযোজী; বাকিগুলো পঞ্চযোজী।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-031",
+      "text": "নিম্নের বর্তনীর আউটপুট কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-031-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-031-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-031-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-031-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-031-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বর্তনীতে একটি ডায়োড সিরিজে আছে, যা কেবল ধনাত্মক অর্ধচক্রে পরিবাহী হয় এবং ঋণাত্মক অর্ধচক্র বন্ধ করে। তাই আউটপুটে ধনাত্মক অর্ধচক্র ও মাঝে শূন্য ফাঁক থাকবে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-032",
+      "text": "একটি ট্রানজিস্টরের ক্ষেত্রে \\(\\frac{I_C}{I_E} = 0.96\\) হলে প্রবাহ লাভ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "48",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\alpha = \\frac{I_C}{I_E} = 0.96\\)\nপ্রবাহ লাভ \\(\\beta = \\frac{\\alpha}{1-\\alpha} = \\frac{0.96}{0.04} = 24\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-033",
+      "text": "নিষিদ্ধ শক্তি ব্যান্ড থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পরিবাহিতে"
+        },
+        {
+          "label": "ii",
+          "text": "অর্ধ পরিবাহিতে"
+        },
+        {
+          "label": "iii",
+          "text": "অন্তরকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীতে যোজন ও পরিবহন ব্যান্ড অধিক্রমিত থাকে, তাই নিষিদ্ধ ব্যান্ড থাকে না। অর্ধপরিবাহী ও অন্তরকে নিষিদ্ধ ব্যান্ড থাকে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-034",
+      "text": "X-OR এর প্রতীক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-034-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-034-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-034-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-034-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "XOR গেইটের প্রতীক OR গেইটের মতো, তবে ইনপুটের দিকে একটি বাড়তি বক্ররেখা থাকে এবং আউটপুটে বুদবুদ থাকে না (বুদবুদ থাকলে XNOR)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-035",
+      "text": "উদ্দীপকে একটি ডায়োডের I ~ V লেখচিত্র দেখানো হলো। ডায়োডের গতীয় রোধ কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-035-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.7Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "15Ω",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গতীয় রোধ \\(r = \\frac{\\Delta V}{\\Delta I} = \\frac{0.4-0.3}{(70-20)\\times 10^{-3}} = \\frac{0.1}{0.05} = 2\\,\\Omega\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-036",
+      "text": "নিচের কোনটি ডায়োডের সম্মুখ ঝোঁক নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-036-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-036-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-036-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-036-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সম্মুখ ঝোঁকে p-প্রান্ত (তীরচিহ্নের দিক বিপরীতে যে প্রান্ত) উচ্চ বিভবে ও n-প্রান্ত নিম্ন বিভবে থাকে। (ক)-তে বাম প্রান্ত +1V ও ডান প্রান্ত −1V, তাই এটি সম্মুখ ঝোঁক। অন্যগুলোতে ডায়োড বিমুখী ঝোঁকে আছে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-037",
+      "text": "\\((101001)_2\\) এর ডেসিমেল মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((42)_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((41)_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((40)_{10}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((32)_{10}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((101001)_2 = 1\\times 2^5 + 0 + 1\\times 2^3 + 0 + 0 + 1\\times 2^0 = 32+8+1 = 41\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-038",
+      "text": "নিচের কোন ডিভাইস AC কে DC-তে রূপান্তরিত করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডায়োড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আবেশক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রানজিস্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ডায়োড একমুখী পরিবাহী, তাই রেকটিফায়ার হিসেবে AC-কে DC-তে রূপান্তর করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-039",
+      "text": "\\(\\begin{array}{|c|c|c|}\\hline A & B & X \\\\ \\hline 0 & 0 & 0 \\\\ 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 1 \\\\ \\hline\\end{array}\\)\nউপরের সত্যক সারণি নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NAND গেইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AND গেইট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OR গেইট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR গেইট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সারণিতে A ও B-এর যেকোনো একটি 1 হলে X = 1 হয়, যা OR গেইটের বৈশিষ্ট্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-040",
+      "text": "একটি সাধারণ নিঃসারক বিবর্ধকের প্রবাহ লাভ 80। যদি নিঃসারক প্রবাহ 9.8 mA হয়, তাহলে পীঠ প্রবাহ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.14 mA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.13 mA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.12 mA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.11 mA",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(I_E = I_B + I_C = I_B(1+\\beta)\\)\n\\(I_B = \\frac{9.8}{81} \\approx 0.12\\,\\mathrm{mA}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-041",
+      "text": "P-টাইপ সেমিকন্ডাক্টরের বিদ্যুৎ প্রবাহের কারণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরমাণু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হোল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "P-টাইপ অর্ধপরিবাহীতে সংখ্যাগুরু বাহক হোল, তাই প্রবাহ প্রধানত হোলের মাধ্যমে হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-042",
+      "text": "n-type অর্ধপরিবাহী তৈরিতে অপদ্রব্য হিসেবে ব্যবহার করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্সেনিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্যালিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যালুমিনিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোরন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "n-টাইপ তৈরিতে পঞ্চযোজী মৌল (আর্সেনিক, ফসফরাস, অ্যান্টিমনি) ডোপ করা হয়। বিকল্পের মধ্যে আর্সেনিক পঞ্চযোজী; বাকিগুলো ত্রিযোজী।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-043",
+      "text": "263 সংখ্যাটি হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অকটাল"
+        },
+        {
+          "label": "ii",
+          "text": "হেক্সা-ডেসিমেল"
+        },
+        {
+          "label": "iii",
+          "text": "ডেসিমেল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "263-এর প্রতিটি অঙ্ক 0–7-এর মধ্যে, তাই এটি অকটাল হতে পারে; ডেসিমেল ও হেক্সাডেসিমেলেও এই অঙ্কগুলো বৈধ।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-044",
+      "text": "উদ্দীপকের লজিক বর্তনীর আউটপুট কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-044-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\overline{A}B\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(A\\overline{B}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(A + \\overline{B}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\overline{A} + B\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিচের NAND গেইট (দুই ইনপুট যুক্ত) NOT গেইটের মতো কাজ করে, তাই এর আউটপুট \\(\\overline{B}\\)\n\\(Y = \\overline{A\\cdot\\overline{B}} = \\overline{A} + B\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-045",
+      "text": "পর্যায় সারণির কোন মৌলটি ব্যবহার করে n-টাইপ অর্ধপরিবাহী পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোরন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্যালিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিসমাথ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইন্ডিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "n-টাইপ তৈরিতে পঞ্চযোজী মৌল ব্যবহৃত হয়। বিসমাথ (Bi) পঞ্চযোজী; বোরন, গ্যালিয়াম ও ইন্ডিয়াম ত্রিযোজী।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-046",
+      "text": "নিম্নের চিত্রে কোনটি n-p-n ট্রানজিস্টার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-046-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-046-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-046-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-046-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "n-p-n ট্রানজিস্টরের প্রতীকে নিঃসারকের তীরচিহ্ন ভূমি থেকে বাইরের দিকে থাকে; (খ)-তে তাই দেখানো হয়েছে। (ক)-এর তীর ভেতরের দিকে, যা p-n-p।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Arrow directions in options a, c and d are hard to read in the scan; the descriptions follow the printed key (খ = n-p-n)."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-047",
+      "text": "উদ্দীপকের AB অংশে গতীয় রোধ কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-047-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.75 Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.33 Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.66 Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 Ω",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(r = \\frac{\\Delta V}{\\Delta I} = \\frac{0.6-0.4}{(200-50)\\times 10^{-3}} = \\frac{0.2}{0.15} \\approx 1.33\\,\\Omega\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-048",
+      "text": "নিম্নের কোন ডিভাইসটি পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-048-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-048-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-048-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-048-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ডায়োডের প্রতীক ত্রিভুজ ও এর শীর্ষে একটি দণ্ড; এটি AC-কে একমুখী প্রবাহে রূপান্তর করে। (ক) বাফার, (খ) NOT গেইট এবং (ঘ) LED।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-049",
+      "text": "জার্মেনিয়ামের নী (Knee) ভোল্টেজ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.0V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.3V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.5V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.7V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জার্মেনিয়ামের নী ভোল্টেজ প্রায় 0.3 V, সিলিকনের প্রায় 0.7 V।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-050",
+      "text": "নিঃসারক-সংগ্রাহক ভোল্টেজ (\\(V_{CE}\\)) কে ধ্রুব মানে রেখে \\(I_C - I_B\\) লেখচিত্র নিম্নের কোনটি হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-050-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-050-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-050-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-050-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(V_{CE}\\) ধ্রুব থাকলে \\(I_C = \\beta I_B\\), তাই \\(I_C\\)–\\(I_B\\) লেখ মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-051",
+      "text": "ট্রানজিস্টর ব্যবহার করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সুইচ হিসেবে"
+        },
+        {
+          "label": "ii",
+          "text": "রেকটিফায়ার হিসেবে"
+        },
+        {
+          "label": "iii",
+          "text": "অ্যামপ্লিফায়ার হিসেবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ট্রানজিস্টর সুইচ ও অ্যামপ্লিফায়ার হিসেবে ব্যবহৃত হয়; রেকটিফায়ার হিসেবে ডায়োড ব্যবহৃত হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-052",
+      "text": "ডোপায়নকৃত অর্ধপরিবাহীর—",
+      "text_en": null,
+      "image": null,
+      "stem": "বিশুদ্ধ অর্ধপরিবাহীর সাথে ত্রিযোজী ও পঞ্চযোজী মৌল ডোপিং করে যথাক্রমে X ও Y এক্সট্রিনসিক (বহির্জাত) অর্ধপরিবাহী তৈরি করা হয়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-SB-22-23",
+      "statements": [
+        {
+          "label": "i",
+          "text": "X-ধনাত্মক চার্জে চার্জিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "Y-এর সংখ্যালঘু বাহক হোল"
+        },
+        {
+          "label": "iii",
+          "text": "Y-এর সংখ্যা গুরুবাহক ইলেকট্রন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "X ত্রিযোজী ডোপে p-টাইপ, Y পঞ্চযোজী ডোপে n-টাইপ।\n(i) মিথ্যা: X সামগ্রিকভাবে তড়িৎ নিরপেক্ষ।\n(ii) সত্য: n-টাইপে সংখ্যালঘু বাহক হোল।\n(iii) সত্য: n-টাইপে সংখ্যাগুরু বাহক ইলেকট্রন।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-053",
+      "text": "Y – X – Y বিন্যাসে যুক্ত করে যে ডিভাইস তৈরি হয় তা দিয়ে নিম্নের কোন কার্যক্রমটি সক্ষম হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "বিশুদ্ধ অর্ধপরিবাহীর সাথে ত্রিযোজী ও পঞ্চযোজী মৌল ডোপিং করে যথাক্রমে X ও Y এক্সট্রিনসিক (বহির্জাত) অর্ধপরিবাহী তৈরি করা হয়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-SB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "তড়িৎ সংকেত পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লজিক পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোল্টেজ পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কারেন্ট পরিবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "Y–X–Y বিন্যাস অর্থাৎ n-p-n ট্রানজিস্টর, যা তড়িৎ সংকেতের পরিবর্ধন বা সুইচিং-এ ব্যবহৃত হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-054",
+      "text": "লজিক বর্তনীর সংক্ষিপ্ততম তুল্য নিচের কোন গেইট?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-054-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "XNOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOR",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(Y = \\overline{A}B + A\\overline{B}\\), যা XOR গেইটের বুলীয় রাশি; অর্থাৎ পুরো বর্তনীর তুল্য একটি XOR গেইট।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-055",
+      "text": "একটি ট্রানজিস্টর সাধারণ পীঠ সংযোগে আছে। যদি নিঃসারক প্রবাহ 0.85 mA এবং পীঠ প্রবাহ 50 µA হয়, তাহলে প্রবাহ বিবর্ধন গুণক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.06",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.94",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.06",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(I_E=0.85\\,\\mathrm{mA},\\ I_B=0.05\\,\\mathrm{mA}\\)\n\\(I_C=I_E-I_B=0.80\\,\\mathrm{mA}\\)\n\\(\\alpha=\\frac{I_C}{I_E}=\\frac{0.80}{0.85}=0.94\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-056",
+      "text": "তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহীর রোধ কীভাবে পরিবর্তন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রথমে হ্রাস পায় পরে বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একই থাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হ্রাস পায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তাপমাত্রা বাড়লে অর্ধপরিবাহীতে সমযোজী বন্ধন ভেঙে মুক্ত ইলেকট্রন ও হোলের সংখ্যা বাড়ে, ফলে রোধ হ্রাস পায় (ঋণাত্মক তাপমাত্রা সহগ)।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-057",
+      "text": "P- টাইপ সেমি কন্ডাক্টর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অ্যালুমিনিয়াম ডোপায়িত সিলিকন"
+        },
+        {
+          "label": "ii",
+          "text": "বোরন ডোপায়িত জার্মেনিয়াম"
+        },
+        {
+          "label": "iii",
+          "text": "ফসফরাস ডোপায়িত জার্মেনিয়াম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) অ্যালুমিনিয়াম (ত্রিযোজী) মিশ্রিত সিলিকন — p-টাইপ।\n(ii) বোরন (ত্রিযোজী) মিশ্রিত জার্মেনিয়াম — p-টাইপ।\n(iii) ফসফরাস (পঞ্চযোজী) মিশ্রিত জার্মেনিয়াম — n-টাইপ।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-058",
+      "text": "\\(\\begin{array}{|c|c|c|}\\hline \\multicolumn{2}{|c|}{\\text{ইনপুট}} & \\text{আউটপুট} \\\\ \\hline A & B & Y \\\\ \\hline 0 & 0 & 1 \\\\ 0 & 1 & 1 \\\\ 1 & 0 & 1 \\\\ 1 & 1 & 0 \\\\ \\hline\\end{array}\\)\nপ্রদত্ত ট্রুথ টেবিলটি কোন গেটের ট্রুথ টেবিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NOT",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ইনপুট \\(A=B=1\\) হলেই কেবল আউটপুট 0, অন্য সব ক্ষেত্রে 1। এটি AND গেটের ঠিক উল্টো, অর্থাৎ NAND গেট (\\(Y=\\overline{A\\cdot B}\\))।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-059",
+      "text": "যোজন ব্যান্ড ও পরিবহন ব্যান্ড এর ইলেকট্রন সংখ্যা সমান থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিবাহীতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুপরিবাহীতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সহজাত অর্ধপরিবাহীতে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বহির্জাত অর্ধপরিবাহীতে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীতে যোজন ব্যান্ড ও পরিবহন ব্যান্ড পরস্পর অধিক্রমিত থাকে (শক্তি ব্যবধান নেই), ফলে দুই ব্যান্ডের ইলেকট্রন অবাধে চলাচল করে এবং সংখ্যা সমান ধরা হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-060",
+      "text": "ট্রানজিস্টরের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\alpha = \\frac{\\beta}{1+\\beta}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\beta = \\frac{\\alpha}{1-\\alpha}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\((1+\\alpha)(1-\\beta) = 1\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\alpha=\\frac{I_C}{I_E},\\ \\beta=\\frac{I_C}{I_B},\\ I_E=I_C+I_B\\) থেকে \\(\\alpha=\\frac{\\beta}{1+\\beta}\\) এবং \\(\\beta=\\frac{\\alpha}{1-\\alpha}\\); (i) ও (ii) সত্য।\n\\(\\alpha(1+\\beta)=\\beta\\Rightarrow(1-\\alpha)(1+\\beta)=1\\); \\((1+\\alpha)(1-\\beta)=1\\) সঠিক নয়, তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-061",
+      "text": "অক্টাল সংখ্যা পদ্ধতির ভিত্তি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অক্টাল সংখ্যা পদ্ধতিতে 0–7 পর্যন্ত আটটি অঙ্ক ব্যবহৃত হয়, তাই এর ভিত্তি 8।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-062",
+      "text": "সিলিকনের নী (Knee) ভোল্টেজ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.3V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.7V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.1V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.5V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সিলিকন ডায়োডের নী (Knee) ভোল্টেজ প্রায় 0.7 V এবং জার্মেনিয়ামের প্রায় 0.3 V।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-063",
+      "text": "p-n জাংশন ডায়োডের সম্মুখ বায়াসের V–I লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-063-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-063-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-063-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-063-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সম্মুখ বায়াসে প্রযুক্ত ভোল্টেজ নী ভোল্টেজের কম থাকলে প্রবাহ খুব সামান্য থাকে, এরপর প্রবাহ দ্রুত (সূচকীয়ভাবে) বাড়ে। (খ) এ বর্ণিত লেখটিই (গোড়ায় চ্যাপ্টা, পরে ক্রমশ খাড়া) এ বৈশিষ্ট্য দেখায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-064",
+      "text": "অর্ধপরিবাহীর আপেক্ষিক রোধের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{16}\\,\\Omega\\)m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{12}\\,\\Omega\\)m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{-8}\\,\\Omega\\)m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{-4}\\,\\Omega\\)m",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অর্ধপরিবাহীর আপেক্ষিক রোধ পরিবাহী (\\(\\sim10^{-8}\\,\\Omega\\mathrm{m}\\)) ও অন্তরকের (\\(\\sim10^{12}\\)–\\(10^{16}\\,\\Omega\\mathrm{m}\\)) মাঝামাঝি, এ ক্ষেত্রে প্রদত্ত মানগুলোর মধ্যে \\(10^{-4}\\,\\Omega\\mathrm{m}\\) গ্রহণযোগ্য।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-065",
+      "text": "এ ক্ষেত্রে ট্রানজিস্টরটি কীভাবে ক্রিয়া করবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি n – p – n ট্রানজিস্টর সাধারণ বেস সংযোগে আছে। এর নিঃসারক প্রবাহ \\(I_E = 8.5 \\times 10^{-4}\\) A এবং বেস প্রবাহ \\(I_B = 5.0 \\times 10^{-5}\\) A।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভালো পরিবাহী হিসেবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভালো সুইচ হিসেবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভালো বিবর্ধক হিসেবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একমুখীকারক হিসেবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(I_C=I_E-I_B=8.5\\times10^{-4}-0.5\\times10^{-4}=8.0\\times10^{-4}\\,\\mathrm{A}\\)\n\\(\\alpha=\\frac{I_C}{I_E}=0.94\\) (<1), \\(\\beta=\\frac{I_C}{I_B}=16\\)।\nসাধারণ পীঠ সংযোগে \\(\\alpha<1\\) হওয়ায় প্রবাহ বিবর্ধন হয় না; তবে \\(\\beta=16\\) বলে সাধারণ নিঃসারক সংযোগে এটি বিবর্ধক হিসেবে কাজ করতে সক্ষম।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Source's reasoning: in common-base α = I_C/I_E = 1 − I_B/I_E ≈ 0.941 < 1, so there is no current gain; it is not a good amplifier but works well as a switch."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-066",
+      "text": "ট্রানজিস্টরটির বিবর্ধক গুণক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি n – p – n ট্রানজিস্টর সাধারণ বেস সংযোগে আছে। এর নিঃসারক প্রবাহ \\(I_E = 8.5 \\times 10^{-4}\\) A এবং বেস প্রবাহ \\(I_B = 5.0 \\times 10^{-5}\\) A।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.80",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.90",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "17",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.94",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(I_C=I_E-I_B=8.5\\times10^{-4}-0.5\\times10^{-4}=8.0\\times10^{-4}\\,\\mathrm{A}\\)\n\\(\\alpha=\\frac{I_C}{I_E}=\\frac{8.0\\times10^{-4}}{8.5\\times10^{-4}}=0.94\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-067",
+      "text": "একটি ট্রানজিস্টরের সাধারণ পীঠ বর্তনীর নিঃসারক প্রবাহ 100mA থেকে 150mA এ বৃদ্ধি করায় সংগ্রাহক প্রবাহ 98mA থেকে 147mA এ বৃদ্ধি পেল। এক্ষেত্রে প্রবাহ লাভ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "49",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "59",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "98",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "118",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta I_B=\\Delta I_E-\\Delta I_C=50-49=1\\,\\mathrm{mA}\\)\nপ্রবাহ লাভ \\(\\beta=\\frac{\\Delta I_C}{\\Delta I_B}=\\frac{49}{1}=49\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "49 is β = ΔI_C/ΔI_B (ΔI_B = 50 − 49 = 1 mA); the common-base gain α = 49/50 = 0.98 is not among the options. Printed key ক."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-068",
+      "text": "ব্যান্ড তত্ত্বের আলোকে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান না থাকলে পদার্থটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতিপরিবাহী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিবাহী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্ধপরিবাহী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অন্তরক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান না থাকলে ইলেকট্রন অবাধে পরিবহন ব্যান্ডে যেতে পারে; পদার্থটি পরিবাহী।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-069",
+      "text": "P-N জাংশন ডায়োডের সম্মুখ বায়াসের বৈশিষ্ট্য লেখ নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-069-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-069-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-069-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-069-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্মুখ বায়াসে নী ভোল্টেজ অতিক্রম না করা পর্যন্ত প্রবাহ প্রায় শূন্য থাকে, এরপর প্রবাহ দ্রুত বাড়ে — এই নী-আকৃতির বক্ররেখা (ঘ)-তে দেখানো হয়েছে।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-070",
+      "text": "উপরের লজিক গেইটের 'X' এর মান কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-070-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(A + \\overline{B}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\overline{A} + B\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\overline{A}B\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A\\overline{B}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রথম AND গেটের আউটপুট \\(=\\overline{A}\\cdot B\\)।\nদ্বিতীয় AND গেটের ইনপুট \\(\\overline{A}B\\) ও \\(B\\), তাই \\(X=\\overline{A}B\\cdot B=\\overline{A}B\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-071",
+      "text": "ডায়োডকে বিমুখী বায়াস করলে নিঃশেষিত স্তরের কী হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিলুপ্ত হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একই থাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিমুখী বায়াসে বাহ্যিক ভোল্টেজ জাংশনের বিভব প্রাচীর বাড়ায়; মুক্ত চার্জবাহকেরা জাংশন থেকে দূরে সরে যায়, ফলে নিঃশেষিত স্তর প্রশস্ত (বৃদ্ধি) হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-072",
+      "text": "একটি ট্রানজিস্টরের ক্ষেত্রে, α = 0.9 হলে β এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "18",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "36",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta=\\frac{\\alpha}{1-\\alpha}=\\frac{0.9}{1-0.9}=9\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-073",
+      "text": "একটি ট্রানজিস্টরের α = 0.98 হলে, β কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "49",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.02",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.49",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.02",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta=\\frac{\\alpha}{1-\\alpha}=\\frac{0.98}{0.02}=49\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-074",
+      "text": "নিচের কোনটি NOR গেইট এর বর্তনী চিত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-074-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-074-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-074-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-074-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "NOR গেটে A ও B উভয় ইনপুট 0 (সুইচ খোলা) হলেই কেবল আউটপুট 1 (LED জ্বলবে)। (গ)-তে সুইচ দুটি সমান্তরালে LED-এর সাথে শান্ট করা; যেকোনো একটি সুইচ বন্ধ হলে LED শর্ট হয়ে নিভে যায় — এটিই NOR।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-075",
+      "text": "ট্রানজিস্টরের মৌলিক বিন্যাস—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5 টি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ট্রানজিস্টরের মৌলিক বিন্যাস তিনটি: সাধারণ পীঠ (CB), সাধারণ নিঃসারক (CE) ও সাধারণ সংগ্রাহক (CC)।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-076",
+      "text": "জাংশন ডায়োড সাধারণত ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুইচ হিসাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিবর্ধক হিসাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেকটিফায়ার হিসাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্পন্দক হিসাবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জাংশন ডায়োড একমুখী পরিবাহী, শুধু সম্মুখ বায়াসে প্রবাহ চালায়; তাই এটি প্রধানত পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তরের জন্য রেকটিফায়ার হিসেবে ব্যবহৃত হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-077",
+      "text": "পূর্ণ তরঙ্গ একমুখীকারকে আউটপুটের কম্পাঙ্ক A.C ইনপুটের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চারগুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পূর্ণ তরঙ্গ একমুখীকারকে ইনপুটের দুই অর্ধচক্রই কাজে লাগে, তাই আউটপুটের কম্পাঙ্ক ইনপুটের দ্বিগুণ।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-078",
+      "text": "সমন্বিত বর্তনীর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম বিদ্যুতের প্রয়োজন হয়"
+        },
+        {
+          "label": "ii",
+          "text": "ওজন ও দাম কম"
+        },
+        {
+          "label": "iii",
+          "text": "কোনো যন্ত্রাংশ নষ্ট হলে সমস্ত চিপটি অকেজো হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সমন্বিত বর্তনীতে কম বিদ্যুৎ লাগে — সত্য।\n(ii) আকারে ছোট, ওজন ও দাম কম — সত্য।\n(iii) একটি যন্ত্রাংশ নষ্ট হলে পুরো চিপ অকেজো হয়ে যায় (মেরামত করা যায় না) — মিথ্যা।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-079",
+      "text": "\\(Y = \\overline{A \\oplus B}\\) এটি কোন লজিক গেটের আউটপুট ফাংশন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "XOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-NOR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "XOR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "XOR গেটের আউটপুট \\(A\\oplus B\\); এর পরে বার (inversion) থাকলে \\(Y=\\overline{A\\oplus B}\\) হয় X-NOR গেটের আউটপুট ফাংশন।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Options ক and ঘ are both printed as XOR in the source."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-080",
+      "text": "নিচের কোনটি সর্বজনীন গেট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Ex-OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AND",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "NAND ও NOR গেট দিয়ে অন্য সব মৌলিক গেট (AND, OR, NOT) তৈরি করা যায়, তাই এদের সর্বজনীন গেট বলে। প্রদত্ত বিকল্পের মধ্যে NOR সর্বজনীন গেট।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-081",
+      "text": "একটি p–n জাংশনের সম্মুখ বায়াসে 0.4V বিভব পার্থক্যের জন্য 100 mA তড়িৎ প্রবাহের পরিবর্তন হয়। জাংশনটির গতীয় রোধ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.004Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.04Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.4Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4Ω",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গতীয় রোধ \\(r=\\frac{\\Delta V}{\\Delta I}=\\frac{0.4}{100\\times10^{-3}}=4\\,\\Omega\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-082",
+      "text": "পরিবাহী পদার্থের পরিবহণ ব্যান্ড ও যোজন ব্যান্ডের মধ্যে শক্তি ব্যবধান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 eV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.7 eV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.1 eV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7 eV",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীতে যোজন ও পরিবহন ব্যান্ড অধিক্রমিত থাকে, তাই শক্তি ব্যবধান 0 eV।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

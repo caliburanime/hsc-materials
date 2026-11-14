@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="125" viewBox="0 0 230 125">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="230" height="125" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="40" y1="40" x2="40" y2="90" />
+<line x1="40" y1="40" x2="100" y2="40" />
+<polyline points="100.0,40.0 106.0,40.0 109.8,35.0 113.6,45.0 117.4,35.0 121.2,45.0 125.0,35.0 128.8,45.0 132.6,35.0 136.4,45.0 140.2,35.0 144.0,40.0 150.0,40.0"/>
+<line x1="150" y1="40" x2="200" y2="40" />
+<line x1="200" y1="40" x2="200" y2="90" />
+<line x1="40" y1="90" x2="112" y2="90" />
+<line x1="118" y1="90" x2="200" y2="90" />
+<line x1="112" y1="80" x2="112" y2="100" stroke-width="2"/>
+<line x1="118" y1="85" x2="118" y2="95" stroke-width="3"/>
+<line x1="96" y1="50" x2="152" y2="28" marker-end="url(#ah)"/>
+<line x1="40" y1="40" x2="40" y2="90" />
+<polyline points="33,68 40,58 47,68"/>
+<text x="25" y="66" font-size="14" text-anchor="end" class="v" stroke="none" fill="#111">I</text>
+<text x="125" y="62" font-size="14" text-anchor="middle" class="v" stroke="none" fill="#111">R</text>
+<text x="115" y="114" font-size="14" text-anchor="middle" class="v" stroke="none" fill="#111">V</text>
+
+</g>
+</svg>

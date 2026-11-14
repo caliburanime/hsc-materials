@@ -1,0 +1,4608 @@
+{
+  "subject": "physics_1st",
+  "chapter": 8,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch8-mcq-001",
+      "text": "দোলকটির কার্যকরী দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "দোলকটির দোলনকাল 2 sec এবং \\(g = 9.8\\,\\mathrm{ms^{-2}}\\)।",
+      "stem_image": "assets/physics_1st-ch8-mcq-001-stem.svg",
+      "group": "physics_1st-2025-DB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.56 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.03 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.99 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.49 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(T=2\\pi\\sqrt{\\frac{l}{g}}\\) থেকে \\(l=\\frac{gT^2}{4\\pi^2}=\\frac{9.8\\times4}{4\\times(3.1416)^2}\\approx0.99\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 16,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-002",
+      "text": "BA দূরত্ব অতিক্রম করতে ববটির কত সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "দোলকটির দোলনকাল 2 sec এবং \\(g = 9.8\\,\\mathrm{ms^{-2}}\\)।",
+      "stem_image": "assets/physics_1st-ch8-mcq-001-stem.svg",
+      "group": "physics_1st-2025-DB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.25 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 sec",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চিত্র অনুপলব্ধ; ধরা হলো B প্রান্তিক অবস্থান ও A গড় অবস্থান। প্রান্ত থেকে গড় অবস্থানে যেতে সময় লাগে \\(\\frac{T}{4}=\\frac{2}{4}=0.5\\,\\mathrm{s}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 17,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-003",
+      "text": "নিচের লেখচিত্রটি সরল দোলকের কোন সূত্রের প্রয়োগ?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch8-mcq-003-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "১ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২য়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩য়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪র্থ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "লেখচিত্র অনুপলব্ধ। \\(T\\propto\\sqrt{l}\\) (বা \\(T^2\\propto l\\)) সরল দোলকের ৩য় সূত্র, যা \\(T^2\\)-\\(l\\) লেখচিত্রে মূলবিন্দুগামী সরলরেখা দেয়; ছাপা উত্তর এ অনুযায়ী ৩য়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-004",
+      "text": "একটি দোলায়মান সেকেন্ড দোলকের ফাঁপা দোলক পিণ্ডকে পারদ দ্বারা অর্ধপূর্ণ করলে দোলকটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্রুত চলবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধীরে চলবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুলবে না",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পারদ অর্ধেক ভরলে ভারকেন্দ্র নিচে নেমে যায়, ফলে কার্যকরী দৈর্ঘ্য \\(l\\) বাড়ে। \\(T\\propto\\sqrt{l}\\) বলে দোলনকাল বাড়ে, তাই দোলকটি ধীরে চলবে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-005",
+      "text": "সরল দোলন গতিসম্পন্ন কণার যে কোনো একদিকে যখন সরণ সর্বোচ্চ হয় তখন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেগ শূন্য হয়"
+        },
+        {
+          "label": "ii",
+          "text": "ত্বরণ সর্বোচ্চ হয়"
+        },
+        {
+          "label": "iii",
+          "text": "বেগের অভিমুখ পরিবর্তিত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সর্বোচ্চ সরণে (প্রান্তবিন্দুতে): (i) বেগ শূন্য হয়, (ii) \\(a = \\omega^2 A\\) অর্থাৎ ত্বরণ সর্বোচ্চ হয়, (iii) গতির অভিমুখ উল্টে যায়, তাই বেগের অভিমুখ বদলায়। তিনটিই সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-006",
+      "text": "সরলছন্দিত গতিসম্পন্ন কোনো কণার সর্বোচ্চ বেগ \\(0.03\\,\\mathrm{ms^{-1}}\\) এবং কণাটির বিস্তার 4mm হলে কণাটির পর্যায়কাল নির্ণয় কর।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.668s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.753s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.837s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.958s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v_{max} = A\\omega\\) থেকে \\(\\omega = \\frac{0.03}{0.004} = 7.5\\) rad s\\(^{-1}\\)\n\\(T = \\frac{2\\pi}{\\omega} = \\frac{2 \\times 3.14}{7.5} \\approx 0.837\\) s",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-007",
+      "text": "মেরু অঞ্চলে উক্ত দোলকের কার্যকারী দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি সেকেন্ড দোলককে মেরু ও বিষুবীয় অঞ্চলে নিয়ে গেলে প্রাপ্ত অভিকর্ষজ ত্বরণের মান যথাক্রমে \\(9.83\\,\\mathrm{m/s^2}\\) এবং \\(9.78\\,\\mathrm{m/s^2}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2025-CB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "3.12 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.56 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.49 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.9959 m",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের \\(T = 2\\) s; \\(T = 2\\pi\\sqrt{\\frac{L}{g}}\\) থেকে \\(L = \\frac{gT^2}{4\\pi^2} = \\frac{9.83 \\times 4}{4 \\times (3.1416)^2} = \\frac{9.83}{9.87} \\approx 0.9959\\) m",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-008",
+      "text": "উদ্দীপকের দোলকের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি সেকেন্ড দোলককে মেরু ও বিষুবীয় অঞ্চলে নিয়ে গেলে প্রাপ্ত অভিকর্ষজ ত্বরণের মান যথাক্রমে \\(9.83\\,\\mathrm{m/s^2}\\) এবং \\(9.78\\,\\mathrm{m/s^2}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2025-CB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "বিষুবীয় অঞ্চলে কার্যকারী দৈর্ঘ্য মেরু অঞ্চল থেকে বাড়বে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেরু অঞ্চলে দোলনকাল বিষুবীয় অঞ্চল থেকে হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উভয় অঞ্চলের ক্ষেত্রে দোলনকাল পৃথিবীর ব্যাসার্ধের উপর নির্ভরশীল নয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উভয় অঞ্চলের ক্ষেত্রে দোলনকাল পৃথিবীর ঘূর্ণনের উপর নির্ভরশীল নয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দোলকের দৈর্ঘ্য অপরিবর্তিত থাকলে \\(T = 2\\pi\\sqrt{\\frac{L}{g}}\\)। মেরুতে g বেশি (9.83), তাই দোলনকাল বিষুবীয় অঞ্চলের চেয়ে কম হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-009",
+      "text": "A বিন্দুতে ববটির বেগ কত? \\(g = 9.8\\,\\mathrm{m/s^2}\\)",
+      "text_en": null,
+      "image": "assets/physics_1st-ch8-mcq-009-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "2.8 m/s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.42 m/s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.92 m/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7.84 m/s",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অনুভূমিক সরণ 0.8 m হলে সুতার উলম্ব অংশ \\(= \\sqrt{1^2 - 0.8^2} = 0.6\\) m\nA থেকে B এর উচ্চতা \\(h = 1 - 0.6 = 0.4\\) m\n\\(v = \\sqrt{2gh} = \\sqrt{2 \\times 9.8 \\times 0.4} = 2.8\\) m s\\(^{-1}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-010",
+      "text": "সরলদোলকের ক্ষেত্রে কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-010-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-010-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-010-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-010-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(T = 2\\pi\\sqrt{\\frac{L}{g}}\\) থেকে \\(T^2 = \\frac{4\\pi^2}{g}L\\), অর্থাৎ \\(T^2 \\propto L\\); \\(T^2\\) বনাম L লেখ মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-011",
+      "text": "একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{g}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\pi^2}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{g}{\\pi^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(g\\pi^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের \\(T = 2\\) s; \\(2 = 2\\pi\\sqrt{\\frac{L}{g}}\\) থেকে \\(L = \\frac{g}{\\pi^2}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-012",
+      "text": "কৌণিক কম্পাঙ্কের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{rad\\,s^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কৌণিক কম্পাঙ্ক = কৌণিক সরণ/সময়, তাই একক rad s\\(^{-1}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-013",
+      "text": "একটি সরল ছন্দিত স্পন্দন সম্পন্ন কণার সমীকরণ \\(9\\frac{d^2x}{dt^2} + 81x = 0\\), এটির কৌণিক কম্পাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\,\\mathrm{s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\,\\mathrm{s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9\\,\\mathrm{s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(16\\,\\mathrm{s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "satt",
+      "explanation": "সমীকরণটি \\(\\frac{d^2x}{dt^2} = -9x\\) আকারে লিখলে \\(\\omega^2 = 9\\)\nঅতএব \\(\\omega = 3\\) s\\(^{-1}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 7
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-014",
+      "text": "সরল ছন্দিত স্পন্দনের ক্ষেত্রে নিচের কোনটি সর্বোচ্চ বেগ নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(A^2\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(A\\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\omega}{A}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A\\omega\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(x = A\\sin\\omega t\\) হলে \\(v = A\\omega\\cos\\omega t\\); সর্বোচ্চ বেগ \\(v_{max} = A\\omega\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-015",
+      "text": "উদ্দীপকের দোলকটির কার্যকরী দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "এখানে T = 2 sec এবং \\(g = 9.8\\,\\mathrm{ms^{-2}}\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-015-stem.svg",
+      "group": "physics_1st-2025-DIB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.49 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.99 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.03 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.56 m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T = 2\\pi\\sqrt{\\frac{L}{g}}\\) থেকে \\(L = \\frac{gT^2}{4\\pi^2} = \\frac{9.8 \\times 4}{4 \\times 9.87} \\approx 0.99\\) m",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-016",
+      "text": "কোন বিন্দুতে ববের বেগ সর্বোচ্চ?",
+      "text_en": null,
+      "image": null,
+      "stem": "এখানে T = 2 sec এবং \\(g = 9.8\\,\\mathrm{ms^{-2}}\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-015-stem.svg",
+      "group": "physics_1st-2025-DIB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "D",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সাম্যাবস্থান B তে ববের বিভব শক্তি সর্বনিম্ন ও গতিশক্তি সর্বোচ্চ, তাই B তে বেগ সর্বোচ্চ।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-017",
+      "text": "কণাটির কৌণিক কম্পাঙ্কের মান হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ \\(y = 10\\sin(\\omega t + \\delta)\\); পর্যায়কাল 30 সেকেন্ড এবং আদি সরণ 0.05m হলে;",
+      "stem_image": null,
+      "group": "physics_1st-2025-JB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.209\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.309\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.409\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.509\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\omega = \\frac{2\\pi}{T} = \\frac{2 \\times 3.14}{30} = 0.209\\) rad s\\(^{-1}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-018",
+      "text": "কণাটির আদি দশা হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ \\(y = 10\\sin(\\omega t + \\delta)\\); পর্যায়কাল 30 সেকেন্ড এবং আদি সরণ 0.05m হলে;",
+      "stem_image": null,
+      "group": "physics_1st-2025-JB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.286°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.386°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.486°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.496°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y = 10\\sin(\\omega t + \\delta)\\); \\(t = 0\\) এ \\(y = 0.05\\), অর্থাৎ \\(10\\sin\\delta = 0.05\\)\n\\(\\sin\\delta = 0.005\\), \\(\\delta = \\sin^{-1}(0.005) \\approx 0.286^\\circ\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-019",
+      "text": "সরল ছন্দিত কণার সরণ পুনরাবৃত্তি হয় কত সময় পর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\omega}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\omega}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\pi}{\\omega}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{2\\pi}{\\omega}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সরণ প্রতি পর্যায়কাল \\(T = \\frac{2\\pi}{\\omega}\\) পরে পুনরাবৃত্ত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-020",
+      "text": "বল ধ্রুবকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "10 gm ভরের একটি বস্তু সরল দোলন গতিতে আছে। এর দোলনকাল 2s, বিস্তার 10 cm।",
+      "stem_image": null,
+      "group": "physics_1st-2025-MB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.3944\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.02465\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.09854\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.0314\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(k = m\\omega^2 = m\\left(\\frac{2\\pi}{T}\\right)^2 = 0.01 \\times \\frac{4 \\times (3.14)^2}{4} = 0.01 \\times 9.86 \\approx 0.0985\\) N m\\(^{-1}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-021",
+      "text": "2 cm সরণে গতিশক্তি বিভব শক্তির কতগুণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "10 gm ভরের একটি বস্তু সরল দোলন গতিতে আছে। এর দোলনকাল 2s, বিস্তার 10 cm।",
+      "stem_image": null,
+      "group": "physics_1st-2025-MB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.42 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.4 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.2 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "24 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{KE}{PE} = \\frac{\\frac{1}{2}k(A^2 - x^2)}{\\frac{1}{2}kx^2} = \\frac{10^2 - 2^2}{2^2} = \\frac{96}{4} = 24\\) গুণ",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-022",
+      "text": "একটি সরলদোলকের অর্ধদোলন কাল 0.75s, দোলকটির কার্যকর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.186m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.326m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.559m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.686m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অর্ধদোলনকাল 0.75 s হলে পূর্ণ দোলনকাল \\(T = 1.5\\) s\n\\(L = \\frac{gT^2}{4\\pi^2} = \\frac{9.8 \\times 2.25}{4 \\times 9.87} \\approx 0.559\\) m",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-023",
+      "text": "দোলন গতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুরশলাকার গতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফ্যানের পাখার গতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘড়ির কাঁটার গতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পৃথিবীর আহ্নিক গতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সুরশলাকার গতি নির্দিষ্ট সাম্যাবস্থানের দুই পাশে পুনরাবৃত্ত গতি, তাই এটি দোলন গতি। অন্যগুলো ঘূর্ণন গতি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-025",
+      "text": "সরল ছন্দিত কণার সর্বনিম্ন অবস্থান এবং সাম্যাবস্থার দশা পার্থক্য হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y = A\\sin\\theta\\) হিসেবে সাম্যাবস্থানে দশা 0 আর সর্বনিম্ন সরণ \\(-A\\) এ দশা \\(\\frac{3\\pi}{2}\\)। তাই দশা পার্থক্য \\(\\frac{3\\pi}{2}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-026",
+      "text": "সরল দোলকের সাহায্যে নির্ণয় করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অভিকর্ষজ ত্বরণ"
+        },
+        {
+          "label": "ii",
+          "text": "পাহাড়ের উচ্চতা"
+        },
+        {
+          "label": "iii",
+          "text": "সময়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\(g = \\frac{4\\pi^2 L}{T^2}\\) থেকে অভিকর্ষজ ত্বরণ নির্ণয় করা যায়।\n(ii) \\(g' = g\\left(\\frac{R}{R+h}\\right)^2\\) ব্যবহার করে পাহাড়ের উচ্চতা নির্ণয় করা যায়।\n(iii) দোলনকাল দিয়ে সময় পরিমাপ করা যায় (দোলক ঘড়ি)। তিনটিই সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-027",
+      "text": "একটি ঘর্ষণহীন তলে একটি 1.5 kg ভরের স্প্রিংকে কিছুটা প্রসারিত করে ছেড়ে দেওয়া হল। স্প্রিং ধ্রুবকের মান \\(K = 1000\\,\\mathrm{Nm^{-1}}\\)। এতে সৃষ্ট কম্পনের কম্পাঙ্ক কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.11 Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.11 Hz",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(f = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}} = \\frac{1}{2 \\times 3.14}\\sqrt{\\frac{1000}{1.5}} = \\frac{25.82}{6.28} \\approx 4.11\\) Hz",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-028",
+      "text": "একটি সেকেন্ড দোলকের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "T = 2 sec"
+        },
+        {
+          "label": "ii",
+          "text": "n = 0.5 Hz"
+        },
+        {
+          "label": "iii",
+          "text": "L = 0.99 m"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সেকেন্ড দোলকের \\(T = 2\\) s, সত্য।\n(ii) \\(n = \\frac{1}{T} = 0.5\\) Hz, সত্য।\n(iii) \\(L = \\frac{gT^2}{4\\pi^2} \\approx 0.99\\) m, সত্য।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-029",
+      "text": "সরল ছন্দিত গতির প্রত্যায়নী বলের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিউটনের গতিসূত্র মেনে চলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুকের সূত্র মেনে চলে না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরণের ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাম্যাবস্থান অভিমুখী নয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল ছন্দিত গতির প্রত্যয়নী বল \\( F = -kx \\) হুকের সূত্র মেনে চলে, সরণের সমানুপাতিক ও সাম্যাবস্থান অভিমুখী এবং এটি নিউটনের গতিসূত্র মেনে চলে। তাই (ক) সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-030",
+      "text": "একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 4 গুণ করলে দোলনকাল হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16 sec",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( T = 2\\pi\\sqrt{\\frac{l}{g}} \\propto \\sqrt{l} \\)। দৈর্ঘ্য 4 গুণ হলে T দ্বিগুণ হয়; সেকেন্ড দোলকের T = 2 s, তাই নতুন T = 4 s।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-031",
+      "text": "সরল ছন্দিত স্পন্দন সম্পন্ন কণার গতির সমীকরণ \\(x = a\\cos\\omega t\\) হলে বেগ (v) বনাম সময় (t) লেখচিত্র হবে নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-031-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-031-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-031-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-031-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( v = \\frac{dx}{dt} = -a\\omega\\sin\\omega t \\); এটি t = 0 তে শূন্য এবং প্রথমে ঋণাত্মক, অর্থাৎ −sin আকৃতি, যা (ক)-এ আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-032",
+      "text": "সরল দোলকের জন্য L বনাম \\(T^2\\) লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-032-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-032-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-032-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-032-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( T = 2\\pi\\sqrt{l/g} \\) থেকে \\( T^2 = \\frac{4\\pi^2}{g}L \\), অর্থাৎ \\( T^2 \\propto L \\); লেখচিত্র মূলবিন্দুগামী সরলরেখা (খ)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-033",
+      "text": "কণাটির স্পন্দনের পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোল গতিসম্পন্ন একটি কণার সরণ \\(Y = 0.5\\sin 4\\pi t\\) মিটার (m)।",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4s",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( y = A\\sin\\omega t \\) এর সাথে তুলনা করে \\( \\omega = 4\\pi \\)\n\\( T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{4\\pi} = 0.5 \\) s",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-034",
+      "text": "উক্ত সরল দোলরত কণার—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোল গতিসম্পন্ন একটি কণার সরণ \\(Y = 0.5\\sin 4\\pi t\\) মিটার (m)।",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-13-14",
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম্পাঙ্ক = 2Hz"
+        },
+        {
+          "label": "ii",
+          "text": "বেগ = \\(2\\pi\\cos 4\\pi t\\,\\mathrm{ms^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "ত্বরণ = \\(4\\pi^2\\sin 4\\pi t\\,\\mathrm{ms^{-2}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\omega = 4\\pi \\), কম্পাঙ্ক \\( f = \\frac{\\omega}{2\\pi} = 2 \\) Hz (i সত্য)।\nবেগ \\( v = \\frac{dy}{dt} = 2\\pi\\cos 4\\pi t \\) (ii সত্য)।\nত্বরণ \\( a = -\\omega^2 y = -8\\pi^2\\sin 4\\pi t \\) (iii মিথ্যা)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-035",
+      "text": "\\(4\\frac{d^2x}{dt^2} + 64x = 0\\) সমীকরণ দ্বারা বর্ণিত গতিশীল কোনো কণার কম্পাঙ্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{\\pi}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2}{\\pi}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{8}{\\pi}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{16}{\\pi}\\) Hz",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমীকরণকে \\( \\frac{d^2x}{dt^2} + 16x = 0 \\) লিখে \\( \\omega^2 = 16 \\Rightarrow \\omega = 4 \\) rad/s\n\\( f = \\frac{\\omega}{2\\pi} = \\frac{2}{\\pi} \\) Hz",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-036",
+      "text": "সরল দোলকের একটি পূর্ণ দোলনের ক্ষেত্রে কতটি অবস্থানে ববের সমস্ত শক্তিই বিভবশক্তি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একটি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুইটি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তিনটি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চারটি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দুই প্রান্তিক অবস্থানে (সর্বোচ্চ সরণে) বেগ শূন্য, তাই সমস্ত শক্তি বিভবশক্তি; পূর্ণ দোলনে এরূপ দুইটি অবস্থান আছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-037",
+      "text": "একটি সরল দোলকের দোলনকাল 100% বৃদ্ধি করার জন্য কার্যকরী দৈর্ঘ্য বৃদ্ধি করতে হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "300%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "400%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( T \\propto \\sqrt{l} \\)। T 100% বৃদ্ধি পেলে \\( T' = 2T \\), তাই \\( l' = 4l \\)\nদৈর্ঘ্য বৃদ্ধি = \\( (4-1) \\times 100 = 300\\% \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-038",
+      "text": "\\(5\\frac{d^2x}{dt^2} + 125x = 0\\) সমীকরণ অনুযায়ী সংশ্লিষ্ট কণাটির ক্ষেত্রে প্রযোজ্য রাশিসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম্পাঙ্ক 5 একক"
+        },
+        {
+          "label": "ii",
+          "text": "কৌণিক বেগ 5 একক"
+        },
+        {
+          "label": "iii",
+          "text": "কৌণিক কম্পাঙ্ক 5 একক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমীকরণটি \\( \\frac{d^2x}{dt^2} + 25x = 0 \\); তাই \\( \\omega^2 = 25 \\Rightarrow \\omega = 5 \\)। কৌণিক বেগ ও কৌণিক কম্পাঙ্ক উভয়ই 5 একক (ii, iii সত্য); কম্পাঙ্ক \\( f = \\frac{5}{2\\pi} \\), 5 নয় (i মিথ্যা)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-039",
+      "text": "ভূ-পৃষ্ঠে একটি দোলক ঘড়ি 1 sec-এ একবার টিক শব্দ করে। দোলকটির কার্যকর দৈর্ঘ্য কত m?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.248",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.745",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.993",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.241",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি সেকেন্ডে একটি টিক হলে অর্ধদোলন 1 s, অর্থাৎ T = 2 s (সেকেন্ড দোলক)।\n\\( l = \\frac{gT^2}{4\\pi^2} = \\frac{9.8 \\times 4}{39.48} \\approx 0.993 \\) m",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-040",
+      "text": "নির্দিষ্ট সময় পর পর যে গতির পুনরাবৃত্তি ঘটে তাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রৈখিক গতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্তীয় গতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৌণিক গতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পর্যাবৃত্ত গতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নির্দিষ্ট সময় পর পর পুনরাবৃত্ত গতিকে পর্যাবৃত্ত গতি বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-041",
+      "text": "সরল দোলগতি সম্পন্ন কোনো বস্তুর বার বার দোল দেয়ার কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থিতিজড়তা"
+        },
+        {
+          "label": "ii",
+          "text": "গতি জড়তা"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যয়নী বল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থিতিজড়তা নয়, গতিজড়তা সাম্যাবস্থান পার করিয়ে দেয় এবং প্রত্যয়নী বল বস্তুকে সাম্যাবস্থানে ফেরায়; এ দুটিই বারবার দোলনের কারণ (ii, iii)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-042",
+      "text": "দশা বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবস্থান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সবগুলো",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দশা দ্বারা কোনো মুহূর্তে কণার অবস্থান, বেগ ও ত্বরণ — সবই নির্দেশিত হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-043",
+      "text": "উদ্দীপকের কণাটির পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণের মান যথাক্রমে \\(5\\,\\mathrm{ms^{-1}}\\), \\(10\\,\\mathrm{ms^{-2}}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2024-DIB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.785 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.14 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6.28 sec",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( v_{max} = \\omega A,\\ a_{max} = \\omega^2 A \\)\n\\( \\omega = \\frac{a_{max}}{v_{max}} = \\frac{10}{5} = 2\\,\\mathrm{rad/s} \\)\n\\( T = \\frac{2\\pi}{\\omega} = \\pi = 3.14 \\) s",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-044",
+      "text": "উদ্দীপকে দোলনরত কণার ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণের মান যথাক্রমে \\(5\\,\\mathrm{ms^{-1}}\\), \\(10\\,\\mathrm{ms^{-2}}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2024-DIB-20-21",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিস্তার 2.5 m"
+        },
+        {
+          "label": "ii",
+          "text": "সাম্যাবস্থানে বিভবশক্তি শূন্য"
+        },
+        {
+          "label": "iii",
+          "text": "সর্বোচ্চ বিস্তারে গতিশক্তি শূন্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( A = \\frac{v_{max}}{\\omega} = \\frac{5}{2} = 2.5 \\) m (i সত্য)। সাম্যাবস্থানে সরণ শূন্য, তাই বিভবশক্তি শূন্য (ii সত্য)। সর্বোচ্চ বিস্তারে বেগ শূন্য, তাই গতিশক্তি শূন্য (iii সত্য)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-045",
+      "text": "একটি সেকেন্ড দোলকের কম্পাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অসীম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.5 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 Hz",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের T = 2 s; \\( f = \\frac{1}{T} = 0.5 \\) Hz",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-046",
+      "text": "সরল ছন্দিত কণার মোট শক্তি কীসের উপর নির্ভর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিস্তার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কম্পাঙ্ক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মোট শক্তি \\( E = \\frac{1}{2}m\\omega^2A^2 \\); প্রদত্ত বিকল্পগুলোর মধ্যে এটি বিস্তারের উপর নির্ভর করে (সরণ বা বেগের সাথে বদলায় না, কেবল বিস্তার ধ্রুব)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-047",
+      "text": "নিচের কোনটি সরল ছন্দিত স্পন্দনের ব্যবকলনীয় সমীকরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{d^2x}{dt^2} = \\omega^2x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{d^2x}{dt^2} = -\\omega^2x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{dx}{dt} = \\omega^2x\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{dx}{dt} = -\\omega^2x\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সরল ছন্দিত গতির ব্যবকলনীয় সমীকরণ \\( \\frac{d^2x}{dt^2} = -\\omega^2x \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-048",
+      "text": "কোনো স্প্রিং এর এক প্রান্তে m ভরের একটি বস্তু ঝুলালে 9.8 cm প্রসারিত হয়, এক্ষেত্রে বস্তুটিকে একটু টেনে ছেড়ে দিলে এর পর্যায়কাল কত হবে? \\(g = 9.8\\,\\mathrm{m/s^2}\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.0628 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.628 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6.28 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "628 sec",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্প্রিং ধ্রুবক \\( k = \\frac{mg}{x} \\Rightarrow \\frac{m}{k} = \\frac{x}{g} = \\frac{0.098}{9.8} = 0.01 \\)\n\\( T = 2\\pi\\sqrt{\\frac{m}{k}} = 2\\pi \\times 0.1 = 0.628 \\) s",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-049",
+      "text": "যে কোনো সময়ে কণাটির বিস্তার A হলে, সাম্যাবস্থান থেকে 45° কোণে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ নিম্নরূপ: \\(Y = 10\\sin(\\omega t + \\delta)\\)",
+      "stem_image": null,
+      "group": "physics_1st-2024-MB-14-15",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সরণের মান \\(\\pm\\frac{A}{\\sqrt{2}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "বেগের মান \\(\\pm\\frac{\\omega A}{\\sqrt{2}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "ত্বরণের মান \\(\\pm\\frac{\\omega^2 A}{\\sqrt{2}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( y = A\\sin\\theta \\) এ \\( \\theta = 45^\\circ \\) হলে \\( y = \\pm\\frac{A}{\\sqrt{2}} \\) (i)। \\( v = \\omega\\sqrt{A^2-y^2} = \\pm\\frac{\\omega A}{\\sqrt{2}} \\) (ii)। \\( a = \\omega^2 y = \\pm\\frac{\\omega^2A}{\\sqrt{2}} \\) (iii)। তিনটিই সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-051",
+      "text": "A বিন্দুতে ছেড়ে দেওয়ার পূর্ব মুহূর্তে বস্তুটির উপর স্প্রিং কর্তৃক প্রযুক্ত বল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে m ভরের বস্তুটি অনুভূমিক ঘর্ষণহীন তলে সরল ছন্দিত গতিতে স্পন্দিত হচ্ছে। m = 10 kg, স্প্রিং ধ্রুবক = \\(30\\,\\mathrm{Nm^{-1}}\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-051-stem.svg",
+      "group": "physics_1st-2024-RB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "12 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "A বিন্দুতে বিস্তার \\( x = 20\\,\\mathrm{cm} = 0.2 \\) m\n\\( F = kx = 30 \\times 0.2 = 6 \\) N",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-052",
+      "text": "কোন অবস্থানে বস্তুটির ত্বরণ সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে m ভরের বস্তুটি অনুভূমিক ঘর্ষণহীন তলে সরল ছন্দিত গতিতে স্পন্দিত হচ্ছে। m = 10 kg, স্প্রিং ধ্রুবক = \\(30\\,\\mathrm{Nm^{-1}}\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-051-stem.svg",
+      "group": "physics_1st-2024-RB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "A অবস্থানে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B অবস্থানে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C অবস্থানে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "E অবস্থানে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ত্বরণ \\( a = -\\omega^2x \\), সরণের সমানুপাতিক; A প্রান্তিক অবস্থান (সর্বোচ্চ সরণ), তাই সেখানে ত্বরণ সবচেয়ে বেশি।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-053",
+      "text": "দোলকের কার্যকর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.02 kg ভরের একটি বস্তু সরলছন্দিত গতিতে স্পন্দিত হচ্ছে যার দোলনকাল 2 s বিস্তার 0.2 m।",
+      "stem_image": null,
+      "group": "physics_1st-2024-SB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "9.929 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.9964 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.9929 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.3171 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সরল দোলকের \\( T = 2\\pi\\sqrt{l/g} \\)\n\\( l = \\frac{gT^2}{4\\pi^2} = \\frac{9.8 \\times 4}{39.48} \\approx 0.9929 \\) m",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-054",
+      "text": "স্পন্দিত বস্তুর সরণ যখন 0.1 m তখন গতিশক্তি ও স্থিতিশক্তির অনুপাত হবে কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.02 kg ভরের একটি বস্তু সরলছন্দিত গতিতে স্পন্দিত হচ্ছে যার দোলনকাল 2 s বিস্তার 0.2 m।",
+      "stem_image": null,
+      "group": "physics_1st-2024-SB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( y = 0.1 = \\frac{A}{2} \\); \\( E_k \\propto (A^2 - y^2) \\) এবং \\( E_p \\propto y^2 \\)\nঅনুপাত \\( = \\frac{0.04 - 0.01}{0.01} = 3:1 \\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-055",
+      "text": "একটি সরল ছন্দিত গতির সরণের সমীকরণ \\(y = A\\sin\\omega t\\)। উক্ত কণার \\(E_k\\)—T লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-055-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-055-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-055-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-055-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( E_k = \\frac{1}{2}m\\omega^2A^2\\cos^2\\omega t \\); এটি কখনো ঋণাত্মক হয় না, t = 0 তে সর্বোচ্চ এবং পর্যাবৃত্তভাবে শূন্য ছোঁয়, যা (গ)-এ আছে।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-056",
+      "text": "সরল ছন্দিত স্পন্দনবিশিষ্ট কোনো কণার বার বার স্পন্দিত হবার কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থিতি জড়তা"
+        },
+        {
+          "label": "ii",
+          "text": "গতি জড়তা"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যয়নী বল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কণা সাম্যাবস্থা অতিক্রম করার পর গতি জড়তার কারণে এগিয়ে যায়, আর প্রত্যয়নী বল তাকে সাম্যাবস্থার দিকে ফিরিয়ে আনে; ফলে বারবার স্পন্দন হয়। স্থিতি জড়তা এর কারণ নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-057",
+      "text": "কণাটির কৌণিক কম্পাঙ্ক—",
+      "text_en": null,
+      "image": null,
+      "stem": "30 sec পর্যায়কাল বিশিষ্ট সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ হলো \\(y = 10\\sin\\left(\\frac{\\pi}{15}t + \\delta\\right)\\)",
+      "stem_image": null,
+      "group": "physics_1st-2023-DB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\pi}{15}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\pi}{12}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\pi}{4}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\pi}{2}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y=A\\sin(\\omega t+\\delta)\\) এর সাথে তুলনা করে \\(\\omega=\\frac{\\pi}{15}\\,\\text{rad s}^{-1}\\) (যাচাই: \\(\\omega=\\frac{2\\pi}{30}=\\frac{\\pi}{15}\\))।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা প্রশ্নে সমীকরণটি \\(y^2 = 10\\sin(\\ldots)\\) লেখা ছিল; সমাধানকারীর মতে y ধরে সমাধান করতে হবে।"
+    },
+    {
+      "id": "physics_1st-ch8-mcq-058",
+      "text": "কণার সর্বোচ্চ বেগ—",
+      "text_en": null,
+      "image": null,
+      "stem": "30 sec পর্যায়কাল বিশিষ্ট সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ হলো \\(y = 10\\sin\\left(\\frac{\\pi}{15}t + \\delta\\right)\\)",
+      "stem_image": null,
+      "group": "physics_1st-2023-DB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.209\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.09\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.04\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.36\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A=10\\), \\(\\omega=\\frac{\\pi}{15}\\)\n\\(v_{max}=A\\omega=10\\times\\frac{\\pi}{15}=2.09\\,\\text{ms}^{-1}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা প্রশ্নে সমীকরণটি \\(y^2 = 10\\sin(\\ldots)\\) লেখা ছিল; সমাধানকারীর মতে y ধরে সমাধান করতে হবে।"
+    },
+    {
+      "id": "physics_1st-ch8-mcq-059",
+      "text": "একটি সরলদোলকের কার্যকরী দৈর্ঘ্য তিনগুণ করে পৃথিবীর কেন্দ্রে নিয়ে গেলে এর দোলনকাল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একই থাকবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{3}\\) গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম হবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর কেন্দ্রে \\(g=0\\)। \\(T=2\\pi\\sqrt{\\frac{l}{g}}\\) এ \\(g\\to0\\) হলে \\(T\\to\\infty\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-060",
+      "text": "একটি সরল ছন্দিত স্পন্দন সম্পন্ন কণার সমীকরণ \\(y = 10\\sin\\left(12t - \\frac{\\pi}{6}\\right)\\) m। কণাটির সর্বোচ্চ বেগ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1440\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(120\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(12\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A=10\\,\\text{m}\\), \\(\\omega=12\\,\\text{rad s}^{-1}\\)\n\\(v_{max}=A\\omega=10\\times12=120\\,\\text{ms}^{-1}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-061",
+      "text": "চিত্রের m ভরের বস্তুটির কৌণিক কম্পাঙ্ক কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch8-mcq-061-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega = \\sqrt{\\frac{k_1 + k_2}{m}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega = \\sqrt{\\frac{m}{k_1 + k_2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega = \\sqrt{\\frac{k_1 k_2}{m(k_1 + k_2)}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega = \\sqrt{\\frac{m(k_1 + k_2)}{k_1 + k_2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল স্প্রিংয়ের সমতুল্য ধ্রুবক \\(k=k_1+k_2\\), তাই \\(\\omega=\\sqrt{\\frac{k}{m}}=\\sqrt{\\frac{k_1+k_2}{m}}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-062",
+      "text": "সরল ছন্দিত স্পন্দন গতির কণার পাশাপাশি সর্বোচ্চ অবস্থান ও সাম্যাবস্থানের মধ্যে দশা পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সর্বোচ্চ অবস্থান থেকে সাম্যাবস্থান পর্যন্ত কণা এক-চতুর্থাংশ পর্যায় অতিক্রম করে, তাই দশা পার্থক্য \\(\\frac{\\pi}{2}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-063",
+      "text": "\\(5\\frac{d^2x}{dt^2} + 180x = 0\\) সমীকরণের কৌণিক কম্পাঙ্ক কত একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "180",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "36",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{d^2x}{dt^2}+\\frac{180}{5}x=0\\Rightarrow\\omega^2=36\\Rightarrow\\omega=6\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2025",
+          "qno": 13,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-064",
+      "text": "একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 25.6% বৃদ্ধি করা হলে দোলনকাল বৃদ্ধি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "24.1%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "25.6%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T\\propto\\sqrt{l}\\); \\(l'=1.256l\\) হলে \\(\\frac{T'}{T}=\\sqrt{1.256}=1.12\\)।\nসুতরাং দোলনকাল 12% বৃদ্ধি পাবে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-065",
+      "text": "সেকেন্ড দোলকের কম্পাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.25 Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5 Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.0 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.0 Hz",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের দোলনকাল \\(T=2\\,\\text{s}\\), তাই কম্পাঙ্ক \\(f=\\frac{1}{T}=0.5\\,\\text{Hz}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-066",
+      "text": "স্প্রিং এ সংযুক্ত কোনো কণার সরণ বিস্তারের অর্ধেক হলে সেক্ষেত্রে বেগ হবে— (\\(V_{max}\\) = সর্বোচ্চ বেগ)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(V_{max}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{V_{max}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{V_{max}}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\sqrt{3}}{2}V_{max}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(v=\\omega\\sqrt{A^2-x^2}\\); \\(x=\\frac{A}{2}\\) হলে\n\\(v=\\omega A\\sqrt{1-\\frac{1}{4}}=\\frac{\\sqrt{3}}{2}V_{max}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-067",
+      "text": "সরল ছন্দিত গতিসম্পন্ন কোনো কণার ত্বরণ ও এর সরণের মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সরল ছন্দিত গতিতে \\(a=-\\omega^2x\\), অর্থাৎ ত্বরণ সরণের সমানুপাতিক (বিপরীতমুখী)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-068",
+      "text": "একটি সরল দোলকের ববের ভর 5gm এবং কার্যকর দৈর্ঘ্য 13cm। ববটিকে সাম্যবিন্দুগামী উল্লম্ব রেখা থেকে 5cm দূরে টেনে ছেড়ে দেয়া হলে,",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সাম্যবিন্দু অতিক্রম কালে গতিশক্তি \\(4.9 \\times 10^{-4}\\) J"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবস্থাটি শক্তির সংরক্ষণশীল নীতি মেনে চলে"
+        },
+        {
+          "label": "iii",
+          "text": "ববের ত্বরণ সরণের সমানুপাতিক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সর্বোচ্চ উচ্চতা \\(h=l-\\sqrt{l^2-x^2}=13-12=1\\,\\text{cm}\\)। সাম্যবিন্দুতে \\(K=mgh=0.005\\times9.8\\times0.01=4.9\\times10^{-4}\\,\\text{J}\\) — সঠিক।\n(ii) দোলক সংরক্ষণশীল ব্যবস্থা — সঠিক।\n(iii) ছোট সরণে \\(a\\propto x\\) — সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-069",
+      "text": "দোলকটির বল ধ্রুবক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.01kg ভরের একটি বস্তু কণা সরলরেখা বরাবর সরল দোলন গতিতে দুলছে। এর দোলনকাল 2sec, বিস্তার 0.1m এবং সরণ 0.02m।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.0465\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.0314\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.09854\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.3944\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(T=2\\,\\text{s}\\Rightarrow\\omega=\\frac{2\\pi}{T}=\\pi\\)\n\\(k=m\\omega^2=0.01\\times\\pi^2\\approx0.0987\\,\\text{Nm}^{-1}\\) (নিকটতম বিকল্প (গ))",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-070",
+      "text": "উদ্দীপকে উল্লেখিত সরণকালে দোলকটির গতিশক্তি ও বিভবশক্তির অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.01kg ভরের একটি বস্তু কণা সরলরেখা বরাবর সরল দোলন গতিতে দুলছে। এর দোলনকাল 2sec, বিস্তার 0.1m এবং সরণ 0.02m।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.42 : 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 0.42",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 : 24",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{K}{U}=\\frac{A^2-x^2}{x^2}=\\frac{(0.1)^2-(0.02)^2}{(0.02)^2}=\\frac{0.0096}{0.0004}=24\\)\nঅনুপাত 24 : 1।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-071",
+      "text": "নিচের কোনটি সরল ছন্দিত স্পন্দন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সূর্যের চারদিকে পৃথিবীর গতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঘড়ির কাঁটার শীর্ষ বিন্দুর গতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কম্পনশীল সুর শলাকার বাহুর গতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে কোনো বিস্তারে সরল দোলকের গতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কম্পনশীল সুরশলাকার বাহুর গতি সরল ছন্দিত স্পন্দন। (ক), (খ) সরল ছন্দিত নয় ও (ঘ) কেবল ছোট বিস্তারে সরল ছন্দিত।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-072",
+      "text": "স্প্রিংজনিত স্পন্দনের ক্ষেত্রে কোন বস্তুর দোলনকাল নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্প্রিং ধ্রুবকের উপর"
+        },
+        {
+          "label": "ii",
+          "text": "অভিকর্ষজ ত্বরণের উপর"
+        },
+        {
+          "label": "iii",
+          "text": "বস্তুর ভরের উপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্প্রিংজনিত স্পন্দনে \\(T=2\\pi\\sqrt{\\frac{m}{k}}\\); অর্থাৎ দোলনকাল স্প্রিং ধ্রুবক (i) ও বস্তুর ভর (iii) এর উপর নির্ভর করে, অভিকর্ষজ ত্বরণ g এর উপর নির্ভর করে না (ii ভুল)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: স্প্রিংজনিত স্পন্দনের দোলনকাল \\(T=2\\pi\\sqrt{m/k}\\), যা g এর উপর নির্ভর করে না। তাই (ii) ভুল; সঠিক উত্তর হবে (খ) i ও iii।"
+    },
+    {
+      "id": "physics_1st-ch8-mcq-073",
+      "text": "সরল ছন্দিত স্পন্দন সম্পন্ন কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণ যথাক্রমে \\(16\\,\\mathrm{ms^{-1}}\\) ও \\(24\\,\\mathrm{ms^{-2}}\\) হলে কৌণিক কম্পাঙ্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{3}{2}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2}{3}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{4\\pi}{3}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3\\pi}{4}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(v_{max}=A\\omega\\), \\(a_{max}=A\\omega^2\\)\n\\(\\omega=\\frac{a_{max}}{v_{max}}=\\frac{24}{16}=\\frac{3}{2}\\,\\text{rad s}^{-1}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-074",
+      "text": "সরল ছন্দিত স্পন্দনে গতিশীল একটি বস্তুর দোলনকাল 2s। এর কৌণিক কম্পাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.14\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.57\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.637\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.318\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\omega=\\frac{2\\pi}{T}=\\frac{2\\times3.14}{2}=3.14\\,\\text{rad s}^{-1}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-075",
+      "text": "নিচের কোনটি সরল দোল গতির বেগের সঠিক রাশিমালা নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega\\sqrt{A^2 - x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega(A^2 - x^2)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(A\\sin(\\omega t + \\delta)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A\\cos(\\omega t + \\delta)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল দোলগতিতে \\(v=\\omega\\sqrt{A^2-x^2}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-076",
+      "text": "একটি স্প্রিং সরল দোলগতিতে রয়েছে। স্প্রিং ধ্রুবক K এবং পর্যায়কাল T এবং প্রসারণ x হলে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(T \\propto x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(T \\propto x^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(T \\propto \\frac{1}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(T \\propto \\sqrt{x}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্প্রিংয়ে \\(mg=kx\\Rightarrow\\frac{m}{k}=\\frac{x}{g}\\), তাই \\(T=2\\pi\\sqrt{\\frac{m}{k}}=2\\pi\\sqrt{\\frac{x}{g}}\\), অর্থাৎ \\(T\\propto\\sqrt{x}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-077",
+      "text": "সরল ছন্দিত গতিসম্পন্ন কণার ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরণ সর্বনিম্ন, বেগ সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরণ সর্বাধিক, বেগ অসীম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরণ সর্বাধিক, বেগ সর্বাধিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরণ সর্বনিম্ন, বেগ সর্বনিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সাম্যাবস্থানে সরণ সর্বনিম্ন (শূন্য) এবং বেগ সর্বোচ্চ (\\(\\omega A\\)); প্রান্তবিন্দুতে সরণ সর্বোচ্চ ও বেগ শূন্য।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-078",
+      "text": "AB দূরত্ব অতিক্রম করতে ববটির কত সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "এটি একটি সেকেন্ড দোলক, \\((g = 10\\,\\mathrm{ms^{-2}})\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-078-stem.svg",
+      "group": "physics_1st-2023-JB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "2s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.75s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5s",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের দোলনকাল 2 s। A নিম্নতম বিন্দু আর B প্রান্তবিন্দু, তাই A থেকে B যেতে সময় \\(\\frac{T}{4}=\\frac{2}{4}=0.5\\,\\text{s}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-079",
+      "text": "OB এর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "এটি একটি সেকেন্ড দোলক, \\((g = 10\\,\\mathrm{ms^{-2}})\\)",
+      "stem_image": "assets/physics_1st-ch8-mcq-078-stem.svg",
+      "group": "physics_1st-2023-JB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "3.12 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.01 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.992 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.496 m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T=2\\pi\\sqrt{\\frac{l}{g}}\\Rightarrow l=\\frac{gT^2}{4\\pi^2}=\\frac{10\\times4}{4\\times(3.1416)^2}=1.013\\approx1.01\\,\\text{m}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-080",
+      "text": "\\(2\\frac{d^2y}{dt^2} + 50y = 0\\) সমীকরণ অনুযায়ী একটি কণা সরল ছন্দিত গতিতে দুলছে। কণাটির পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.02 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.796 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.25 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5 sec",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{d^2y}{dt^2}+25y=0\\Rightarrow\\omega=5\\)\n\\(T=\\frac{2\\pi}{\\omega}=\\frac{2\\times3.1416}{5}=1.25\\,\\text{s}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-081",
+      "text": "একটি সরল দোলকের বিস্তার ও কম্পাঙ্ক যথাক্রমে 0.01m এবং 12Hz। 0.005m সরণের ক্ষেত্রে দোলকটির বেগ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.030\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.06\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.12\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.653\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\omega=2\\pi f=2\\pi\\times12=75.4\\,\\text{rad s}^{-1}\\)\n\\(v=\\omega\\sqrt{A^2-x^2}=75.4\\times\\sqrt{(0.01)^2-(0.005)^2}=75.4\\times0.00866=0.653\\,\\text{ms}^{-1}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-082",
+      "text": "সরল দোলকের সাম্যাবস্থায় সর্বোচ্চ হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যায়নী বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাম্যাবস্থানে সরণ, ত্বরণ ও প্রত্যায়নী বল শূন্য হয়, কিন্তু বেগ সর্বোচ্চ হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-083",
+      "text": "একটি সরলস্পন্দিত কণার গতির সমীকরণ, \\(x = 10\\sin(6\\pi t + 2\\pi)\\)। কণাটির কম্পাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.5 Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40 Hz",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\omega=6\\pi\\Rightarrow f=\\frac{\\omega}{2\\pi}=\\frac{6\\pi}{2\\pi}=3\\,\\text{Hz}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-084",
+      "text": "সেকেন্ড দোলকের কম্পাঙ্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5 Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 Hz",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সেকেন্ড দোলকের \\(T=2\\,\\text{s}\\), তাই \\(f=\\frac{1}{T}=0.5\\,\\text{Hz}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-085",
+      "text": "সরল দোলকের ভর চারগুণ করা হলে দোলনকাল পূর্বের কত গুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T=2\\pi\\sqrt{\\frac{l}{g}}\\); T ভরের উপর নির্ভর করে না, তাই ভর চারগুণ হলেও দোলনকাল 1 গুণ থাকবে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2024",
+          "qno": 6,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-086",
+      "text": "কণার স্পন্দনের পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোলগতি সম্পন্ন একটি কণার সরণ \\(x = \\sqrt{3}\\sin 2\\pi t\\) মিটার।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.75 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 sec",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(x=A\\sin\\omega t\\) এর সাথে তুলনা করে \\(\\omega=2\\pi\\)\n\\(T=\\frac{2\\pi}{\\omega}=1\\,\\text{s}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-087",
+      "text": "1m দূরে কণার গতিশক্তি ও বিভবশক্তির অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোলগতি সম্পন্ন একটি কণার সরণ \\(x = \\sqrt{3}\\sin 2\\pi t\\) মিটার।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 : \\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3} : 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A=\\sqrt{3}\\,\\text{m}\\), \\(x=1\\,\\text{m}\\)\n\\(\\frac{K}{U}=\\frac{A^2-x^2}{x^2}=\\frac{3-1}{1}=2\\)\nঅনুপাত 2 : 1।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-088",
+      "text": "কণাটির স্পন্দনের পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোলগতিসম্পন্ন একটি কণার সরণ \\(x = \\sqrt{3}\\sin 2\\pi t\\)",
+      "stem_image": null,
+      "group": "physics_1st-2022-BB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.0 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.0 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.0 sec",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(T=\\dfrac{2\\pi}{\\omega}=\\dfrac{2\\pi}{2\\pi}=1.0\\) s",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-089",
+      "text": "সাম্যাবস্থান থেকে 1m দূরে কণাটির গতিশক্তি ও বিভবশক্তির অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল দোলগতিসম্পন্ন একটি কণার সরণ \\(x = \\sqrt{3}\\sin 2\\pi t\\)",
+      "stem_image": null,
+      "group": "physics_1st-2022-BB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 : \\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{2} : 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3 : 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(A=\\sqrt{3}\\), \\(x=1\\)\n\\(\\dfrac{E_K}{E_P}=\\dfrac{A^2-x^2}{x^2}=\\dfrac{3-1}{1}=2:1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-090",
+      "text": "একটি সরল দোলকের সাম্যাবস্থানে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেগ ও ত্বরণ উভয় সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেগ সর্বনিম্ন, ত্বরণ সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বেগ ও ত্বরণ উভয় সর্বনিম্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেগ সর্বোচ্চ, ত্বরণ সর্বনিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সাম্যাবস্থানে বেগ সর্বোচ্চ (\\(v=\\omega A\\)) এবং ত্বরণ শূন্য (সর্বনিম্ন)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-091",
+      "text": "সরলদোল গতিসম্পন্ন কোনো কণার গতির সমীকরণ, \\(x = 0.1\\sin\\left(6\\pi t + \\dfrac{\\pi}{3}\\right)\\) m, হলে এর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পর্যায়কাল 3s"
+        },
+        {
+          "label": "ii",
+          "text": "সর্বোচ্চ বেগ \\(1.88\\,\\mathrm{ms^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "আদি দশা \\(60^\\circ\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(T=\\dfrac{2\\pi}{\\omega}=\\dfrac{2\\pi}{6\\pi}=\\dfrac{1}{3}\\) s, তাই i মিথ্যা।\n\\(v_{max}=A\\omega=0.1\\times6\\pi=1.88\\,\\mathrm{ms^{-1}}\\) (ii সত্য)।\nআদি দশা \\(\\dfrac{\\pi}{3}=60^\\circ\\) (iii সত্য)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-092",
+      "text": "দৃঢ়ভাবে আটকানো K বল ধ্রুবকের এবং l দৈর্ঘ্যের একটি স্প্রিং-এর এক প্রান্তে m ভর ঝুলিয়ে একটু টেনে ছেড়ে দিলে এর দোলনকাল হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(T = 2\\pi\\sqrt{\\dfrac{l}{g}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(T = 2\\pi\\sqrt{\\dfrac{e}{g}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(T = 2\\pi\\sqrt{\\dfrac{m}{k}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "স্প্রিং-এ ঝুলানো বস্তুর জন্য \\(T=2\\pi\\sqrt{\\dfrac{m}{k}}\\) (iii সত্য); \\(mg=ke\\) হওয়ায় \\(\\dfrac{m}{k}=\\dfrac{e}{g}\\), তাই \\(T=2\\pi\\sqrt{\\dfrac{e}{g}}\\) (ii সত্য)। i সরল দোলকের সূত্র (মিথ্যা)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-093",
+      "text": "কোন ব্যক্তি \\(\\dfrac{g}{2}\\) ত্বরণে নিচে নামলে তার হাতে অবস্থিত দোলকের দোলনকাল স্থির অবস্থার দোলনকালের তুলনায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাড়বে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কমবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একই থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\dfrac{g}{2}\\) ত্বরণে নিচে নামলে কার্যকর g হয় \\(g-\\dfrac{g}{2}=\\dfrac{g}{2}\\)। \\(T=2\\pi\\sqrt{l/g_{eff}}\\) হওয়ায় দোলনকাল বাড়বে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-094",
+      "text": "কণাটির সর্বোচ্চ বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরলদোলন গতি সম্পন্ন একটি কণার গতির সমীকরণ \\(Y = 20\\sin(\\omega t + \\delta)\\) cm, পর্যায়কাল 20 sec এবং আদি সরণ 5 cm.",
+      "stem_image": null,
+      "group": "physics_1st-2022-DB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi\\ \\mathrm{cms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\ \\mathrm{cms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{2}\\ \\mathrm{cms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\pi\\ \\mathrm{cms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\omega=\\dfrac{2\\pi}{T}=\\dfrac{2\\pi}{20}=\\dfrac{\\pi}{10}\\)\n\\(v_{max}=A\\omega=20\\times\\dfrac{\\pi}{10}=2\\pi\\,\\mathrm{cms^{-1}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-095",
+      "text": "কণাটির আদি দশা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরলদোলন গতি সম্পন্ন একটি কণার গতির সমীকরণ \\(Y = 20\\sin(\\omega t + \\delta)\\) cm, পর্যায়কাল 20 sec এবং আদি সরণ 5 cm.",
+      "stem_image": null,
+      "group": "physics_1st-2022-DB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(14.48^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(28.10^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(180^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(t=0\\) তে \\(5=20\\sin\\delta\\)\n\\(\\sin\\delta=0.25\\Rightarrow\\delta=14.48^\\circ\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-096",
+      "text": "উদ্দীপকের কণাটির পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণের মান যথাক্রমে \\(15\\,\\mathrm{cms^{-1}}\\) ও \\(30\\,\\mathrm{cms^{-2}}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2022-DIB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.785s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.57s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.14s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6.28s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(v_{max}=A\\omega=15\\), \\(a_{max}=A\\omega^2=30\\)\n\\(\\omega=\\dfrac{30}{15}=2\\,\\mathrm{rads^{-1}}\\)\n\\(T=\\dfrac{2\\pi}{\\omega}=\\pi=3.14\\) s",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-097",
+      "text": "উদ্দীপকে দোলনরত কণার—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ বেগ ও সর্বোচ্চ ত্বরণের মান যথাক্রমে \\(15\\,\\mathrm{cms^{-1}}\\) ও \\(30\\,\\mathrm{cms^{-2}}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2022-DIB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিস্তার 7.5 cm"
+        },
+        {
+          "label": "ii",
+          "text": "সর্বোচ্চ বিস্তারে গতিশক্তি শূন্য"
+        },
+        {
+          "label": "iii",
+          "text": "সাম্যাবস্থানে বিভবশক্তি সর্বোচ্চ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(A=\\dfrac{v_{max}}{\\omega}=\\dfrac{15}{2}=7.5\\) cm (i সত্য)।\nসর্বোচ্চ বিস্তারে বেগ শূন্য, তাই গতিশক্তি শূন্য (ii সত্য)।\nসাম্যাবস্থানে বিভবশক্তি শূন্য, সর্বোচ্চ নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-098",
+      "text": "সরল ছন্দিত স্পন্দনরত কণা কত সময় পর পর একই দশাপ্রাপ্ত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2\\pi}{\\omega}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\pi\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{\\omega}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\omega}{2\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "একই দশা ফিরে পেতে \\(\\omega t=2\\pi\\) কোণ ঘুরতে হয়, তাই সময় \\(T=\\dfrac{2\\pi}{\\omega}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-099",
+      "text": "সরল ছন্দিত স্পন্দনসম্পন্ন কোনো কণার সরণ সর্বোচ্চ হবে যখন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেগ সর্বনিম্ন"
+        },
+        {
+          "label": "ii",
+          "text": "ত্বরণ সর্বোচ্চ"
+        },
+        {
+          "label": "iii",
+          "text": "বল সর্বোচ্চ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সর্বোচ্চ সরণে \\(F=-kx\\) ও \\(a=-\\omega^2x\\) সর্বোচ্চ (ii, iii সত্য) এবং বেগ শূন্য, অর্থাৎ সর্বনিম্ন (i সত্য)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-100",
+      "text": "সময়ের সাপেক্ষে অন্তরকলন করে সরল ছন্দিত গতিসম্পন্ন বস্তুর অন্তরক সমীকরণ থেকে কী পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কম্পাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পর্যায়কাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্বরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(x=A\\sin(\\omega t+\\delta)\\) কে সময়ের সাপেক্ষে অন্তরীকরণ করলে \\(v=\\dfrac{dx}{dt}=A\\omega\\cos(\\omega t+\\delta)\\), অর্থাৎ বেগ পাওয়া যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Differentiating the displacement x = A sin(ωt + δ) once with respect to time gives the velocity; the hand-marked key on the photo chose ঘ (ত্বরণ)."
+    },
+    {
+      "id": "physics_1st-ch8-mcq-101",
+      "text": "নির্দিষ্ট ভরের একটি বস্তুকে একটি স্প্রিং এ ঝুলিয়ে দিলে, নিম্নের কোনটি সঠিক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্প্রিং ধ্রুবক বাড়লে বেগ কমে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্প্রিং ধ্রুবক বাড়লে দোলনকাল কমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্প্রিং ধ্রুবক বাড়লে ত্বরণ কমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্প্রিং ধ্রুবক বাড়লে কম্পাঙ্ক কমে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(T=2\\pi\\sqrt{\\dfrac{m}{k}}\\); m স্থির রেখে k বাড়ালে দোলনকাল কমে (কম্পাঙ্ক ও সর্বোচ্চ ত্বরণ বাড়ে)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-102",
+      "text": "m ভরের একটি বস্তু সরল ছন্দিত স্পন্দনে গতিশীল আছে। এর কৌণিক কম্পাংক হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega = 2\\pi\\sqrt{\\dfrac{m}{k}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega = 2\\pi\\sqrt{\\dfrac{k}{m}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega = \\sqrt{\\dfrac{m}{k}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega = \\sqrt{\\dfrac{k}{m}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "স্প্রিং-ভরের সরল ছন্দিত স্পন্দনে \\(\\omega=\\sqrt{\\dfrac{k}{m}}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-103",
+      "text": "সরল ছন্দিত স্পন্দন সম্পন্ন কোনো কণার সরণের সমীকরণ \\(x = A\\sin\\omega t\\) হলে বেগ-সময় লেখচিত্র হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-103-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-103-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-103-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-103-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(x=A\\sin\\omega t\\) হলে \\(v=A\\omega\\cos\\omega t\\); \\(t=0\\) তে বেগ সর্বোচ্চ, যা কোসাইন-লেখ (ক) এর সাথে মেলে।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-104",
+      "text": "একটি সেকেন্ড দোলকের দৈর্ঘ্য 1% বৃদ্ধি পেলে উক্ত দোলকটি দিনে কত সেকেন্ড সময় হারাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "129.8s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "258.5s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "327.5s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "429.8s",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সেকেন্ড দোলকের \\(T=2\\) s। \\(T\\propto\\sqrt{l}\\) থেকে l 1% বাড়লে \\(T\\) প্রায় 0.5% বাড়ে, \\(T'\\approx2.01\\) s।\nপ্রতি সেকেন্ডে ক্ষতি \\(\\approx0.005\\) s, দিনে \\(\\approx86400\\times0.00497\\approx429.8\\) s (সঠিক গণনায় প্রায় 429 s)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-105",
+      "text": "একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 1% বৃদ্ধি করলে, এর দোলনকাল শতকরা কত বৃদ্ধি পাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.2%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(T\\propto\\sqrt{l}\\); l 1% বাড়লে \\(\\dfrac{\\Delta T}{T}=\\dfrac{1}{2}\\times1\\%=0.5\\%\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-106",
+      "text": "একটি সরলদোল গতিসম্পন্ন কণার সরণ 5 cm এবং এর ত্বরণ \\(80\\,\\mathrm{cms^{-2}}\\) হলে এর পর্যায়কাল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(a=\\omega^2x\\Rightarrow\\omega^2=\\dfrac{80}{5}=16\\), \\(\\omega=4\\)\n\\(T=\\dfrac{2\\pi}{\\omega}=\\dfrac{\\pi}{2}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-107",
+      "text": "সেকেন্ড দোলকের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(g = 4\\pi^2(l + r)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(g = \\dfrac{(l + r)}{4\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(g = \\dfrac{4\\pi^2}{(l + r)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(g = \\pi^2(l + r)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সেকেন্ড দোলকের \\(T=2\\) s; \\(T=2\\pi\\sqrt{\\dfrac{l}{g}}\\) থেকে \\(g=\\dfrac{4\\pi^2l}{T^2}=\\pi^2l\\), যেখানে কার্যকর দৈর্ঘ্য \\((l+r)\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-108",
+      "text": "নিচের কোনটি শূন্য দশার সমতুল্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pi/2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\pi/2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "দশা \\(2\\pi\\) যোগ করলে একই অবস্থা ফিরে আসে, তাই \\(2\\pi\\) শূন্য দশার সমতুল্য।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-109",
+      "text": "সরল দোলকের ক্ষেত্রে সর্বোচ্চ কৌণিক বিস্তার হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(40^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সরল দোলকের কৌণিক বিস্তার ক্ষুদ্র (প্রায় \\(4^\\circ\\) এর মধ্যে) হতে হয়, যাতে গতি সরল ছন্দিত গণ্য করা যায়।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-110",
+      "text": "'O' ও 'P' বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch8-mcq-110-stem.svg",
+      "group": "physics_1st-2022-SB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi/2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5\\pi/2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\pi/2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7\\pi/2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "O তে দশা 0; প্রথম শীর্ষ \\(\\dfrac{\\pi}{2}\\) এবং দ্বিতীয় শীর্ষ P তে দশা \\(2\\pi+\\dfrac{\\pi}{2}=\\dfrac{5\\pi}{2}\\)।\nদশা পার্থক্য \\(=\\dfrac{5\\pi}{2}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-111",
+      "text": "চিত্রে P বিন্দুর সাপেক্ষে A ও C বিন্দুর পথ পার্থক্যের অনুপাত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch8-mcq-110-stem.svg",
+      "group": "physics_1st-2022-SB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3 : 4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4 : 3\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "চিত্র অনুযায়ী P এর সাপেক্ষে A এর দশা পার্থক্য \\(2\\pi\\) (পথ পার্থক্য \\(\\lambda\\)) এবং C এর \\(\\pi\\) (পথ পার্থক্য \\(\\dfrac{\\lambda}{2}\\))।\nঅনুপাত \\(=2\\pi:\\pi=2:1\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

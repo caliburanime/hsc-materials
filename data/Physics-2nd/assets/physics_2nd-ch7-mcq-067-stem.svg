@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 290" width="400" height="290">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="400" height="290" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90.0,30.0 L90.0,240.0"/>
+<path d="M330.0,30.0 L330.0,240.0"/>
+<path d="M90.0,105.0 L330.0,38.0"/>
+<path d="M90.0,190.0 L330.0,38.0"/>
+<circle cx="90" cy="105" r="2.5" fill="#111" stroke="none"/>
+<circle cx="90" cy="190" r="2.5" fill="#111" stroke="none"/>
+<circle cx="330" cy="38" r="2.5" fill="#111" stroke="none"/>
+<text x="72" y="104" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">S</tspan><tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="72" y="200" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">S</tspan><tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="40" y="172" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">S</tspan>*</text>
+<text x="342" y="36" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">P</tspan></text>
+<text x="342" y="240" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">Q</tspan></text>
+<path d="M210.0,255.0 L92.0,255.0" marker-end="url(#ah)"/>
+<path d="M210.0,255.0 L328.0,255.0" marker-end="url(#ah)"/>
+<text x="210" y="278" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">D</tspan></text>
+
+</g></svg>

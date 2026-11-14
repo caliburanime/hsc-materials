@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="290" viewBox="0 0 360 290">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="360" height="290" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="100.0,50.0 270.0,50.0 270.0,220.0 100.0,220.0" />
+<line x1="100.0" y1="50.0" x2="270.0" y2="220.0" />
+<line x1="270.0" y1="50.0" x2="100.0" y2="220.0" />
+<circle cx="185.0" cy="135.0" r="3.0" fill="#111" stroke="none"/>
+<text x="185.0" y="155.0" font-size="15.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >O</text>
+<text x="94.0" y="54.0" font-size="15.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >A</text>
+<text x="104.0" y="42.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >6 C</text>
+<text x="276.0" y="54.0" font-size="15.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >B</text>
+<text x="266.0" y="42.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >14 C</text>
+<text x="278.0" y="226.0" font-size="14.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >−12 C</text>
+<text x="264.0" y="240.0" font-size="15.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >C</text>
+<text x="94.0" y="226.0" font-size="15.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >D</text>
+</g>
+</svg>

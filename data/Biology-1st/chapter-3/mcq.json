@@ -1,0 +1,1623 @@
+{
+  "subject": "biology_1st",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "biology_1st-ch3-mcq-001",
+      "text": "উদ্দীপকের A প্রক্রিয়া কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "DNA \\(\\xrightarrow{\\text{প্রক্রিয়া A}}\\) mRNA \\(\\xrightarrow{\\text{প্রক্রিয়া B}}\\) প্রোটিন",
+      "stem_image": null,
+      "group": "biology_1st-2025-CB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "রেপ্লিকেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রান্সক্রিপশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ট্রান্সলেশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রান্সফরমেশন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "DNA থেকে mRNA সংশ্লেষের প্রক্রিয়া ট্রান্সক্রিপশন (অনুলিপন)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-002",
+      "text": "প্রক্রিয়া B এর ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "DNA \\(\\xrightarrow{\\text{প্রক্রিয়া A}}\\) mRNA \\(\\xrightarrow{\\text{প্রক্রিয়া B}}\\) প্রোটিন",
+      "stem_image": null,
+      "group": "biology_1st-2025-CB-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "রাইবোসোম প্রয়োজন"
+        },
+        {
+          "label": "ii",
+          "text": "tRNA প্রয়োজন"
+        },
+        {
+          "label": "iii",
+          "text": "নিউক্লিয়াসে সংগঠিত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "B প্রক্রিয়া mRNA থেকে প্রোটিন সংশ্লেষ অর্থাৎ ট্রান্সলেশন। এতে রাইবোসোম (i) ও tRNA (ii) লাগে। এটি সাইটোপ্লাজমে ঘটে, নিউক্লিয়াসে নয়, তাই (iii) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-003",
+      "text": "অনুলিপন সম্পন্ন করে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কোডন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সিস্ট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিউটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেকন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অনুলিপন (ট্রান্সক্রিপশন) সম্পন্ন করে এমন জিনের একক অংশ হলো সিস্ট্রন। কোডন প্রোটিনের অ্যামাইনো এসিড নির্দিষ্ট করে, মিউটন পরিব্যক্তির এবং রেকন পুনর্সংযোজনের একক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-004",
+      "text": "Pre-mRNA থেকে চূড়ান্ত mRNA সৃষ্টির সময় কোনটি বাদ যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক্সন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সিস্ট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইনট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেকন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "Pre-mRNA থেকে স্প্লাইসিংয়ে ইনট্রন বাদ যায় এবং এক্সন যুক্ত হয়ে চূড়ান্ত mRNA হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-005",
+      "text": "চিত্রে A হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-005-stem.svg",
+      "group": "biology_1st-2025-CUB-15-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "DNA Polymerase",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "RNA Polymerase",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Helicase",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Primase",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চিত্রে ট্রান্সক্রিপশনে নতুন RNA-এর 3′ প্রান্তে যুক্ত এনজাইম A হলো RNA পলিমারেজ।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-006",
+      "text": "চিত্রের প্রক্রিয়ায় ব্যবহৃত ছাঁচের সিকোয়েন্স কোনটি হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-005-stem.svg",
+      "group": "biology_1st-2025-CUB-15-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "5′ AUGGGU 3′",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5′ ATGGGT 3′",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3′ TACCCA 5′",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3′ UACCCU 5′",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "RNA 5′ AUGGGU 3′ হলে ছাঁচ সূত্রক এর পরিপূরক ও বিপরীতমুখী, অর্থাৎ 3′ TACCCA 5′ (A–T, U–A, G–C)। DNA-তে U থাকে না, তাই (ঘ) নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-007",
+      "text": "উদ্দীপকের B সংশ্লেষিত হয়—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-005-stem.svg",
+      "group": "biology_1st-2025-CUB-15-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাইটোকাইনেসিসের সময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইন্টারফেজের সময়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইন্টার কাইনেসিসের সময়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যানাফেজের সময়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "B হলো DNA অংশ, যা কোষচক্রের ইন্টারফেজের S দশায় সংশ্লেষিত হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-008",
+      "text": "উদ্দীপকের A প্রক্রিয়াটি—",
+      "text_en": null,
+      "image": "assets/biology_1st-ch3-mcq-008-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্প্লাইসিং"
+        },
+        {
+          "label": "ii",
+          "text": "এটি কোষের সাইটোপ্লাজমে ঘটে"
+        },
+        {
+          "label": "iii",
+          "text": "5′ প্রান্তে সাতটি গুয়ানোসিন নিউক্লিওটাইড সংযুক্ত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "A প্রক্রিয়া ইনট্রন বাদ দিয়ে এক্সন জোড়া লাগানো, অর্থাৎ স্প্লাইসিং (i সঠিক)। এটি নিউক্লিয়াসে ঘটে, সাইটোপ্লাজমে নয় (ii ভুল)। এ পর্যায়ে 5′ প্রান্তে ৭-মিথাইল গুয়ানোসিন ক্যাপ যুক্ত হয় (iii সঠিক)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-009",
+      "text": "উদ্দীপকের 'X' চিহ্নিত অংশটির নাম কী?",
+      "text_en": null,
+      "image": "assets/biology_1st-ch3-mcq-009-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "D ফাঁস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "T ফাঁস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Anticodon ফাঁস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Extra ফাঁস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "tRNA-এর ক্লোভারলিফ মডেলে নিচের লুপে অ্যান্টিকোডন থাকে, তাই X হলো অ্যান্টিকোডন ফাঁস।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-010",
+      "text": "নিচের কোনটি উদ্দীপকের 'C' নির্দেশিত অংশে ক্রিয়াশীল থাকে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-010-stem.svg",
+      "group": "biology_1st-2025-DIB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাইমেজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হেলিকেজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লাইগেজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "DNA পলিমারেজ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "C চিহ্নিত রেপ্লিকেশন ফর্কে হেলিকেজ এনজাইম DNA-র দুই সূত্রককে খুলে আলাদা করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-011",
+      "text": "উক্ত প্রক্রিয়াটির ক্ষেত্রে নিম্নের কোনটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-010-stem.svg",
+      "group": "biology_1st-2025-DIB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নতুন সূত্রক সবসময় 5′ → 3′ অভিমুখী হয়"
+        },
+        {
+          "label": "ii",
+          "text": "মাইটোসিস কোষ বিভাজনের ইন্টারফেজ দশায় হয়"
+        },
+        {
+          "label": "iii",
+          "text": "লিডিং সূত্রক রেপ্লিকেশন ফর্কের বিপরীত দিকে অগ্রসর হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রেপ্লিকেশনে নতুন সূত্রক সবসময় 5′→3′ অভিমুখে তৈরি হয় (i) এবং এটি মাইটোসিসের ইন্টারফেজের S দশায় ঘটে (ii)। লিডিং সূত্রক ফর্কের দিকেই অগ্রসর হয়, বিপরীত দিকে নয়, তাই (iii) ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-012",
+      "text": "চিত্রে প্রদর্শিত অণুটির নাম—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-012-stem.svg",
+      "group": "biology_1st-2025-JB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাডিনোসিন মনোফসফেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গুয়ানোসিন মনোফসফেট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাইটিডিন মনোফসফেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইউরিডিন মনোফসফেট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অণুটিতে রাইবোজ চিনি (দুই OH), ফসফেট ও গুয়ানিন ক্ষারক আছে, তাই এটি গুয়ানোসিন মনোফসফেট।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-013",
+      "text": "প্রদর্শিত অণুটির সাথে DNA নিউক্লিওটাইডের মধ্যে মৌলিক পার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-012-stem.svg",
+      "group": "biology_1st-2025-JB-13-14",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নাইট্রোজেন ক্ষারকে"
+        },
+        {
+          "label": "ii",
+          "text": "ফসফেটে"
+        },
+        {
+          "label": "iii",
+          "text": "সুগারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অণুটি RNA নিউক্লিওটাইড (রাইবোজ চিনি, গুয়ানিন)। DNA নিউক্লিওটাইডের সাথে এর পার্থক্য সুগারে (রাইবোজ বনাম ডিঅক্সিরাইবোজ); ফসফেট ও গুয়ানিন ক্ষারক উভয়ে একই।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Guanine and the phosphate group occur in DNA nucleotides too; the only basic difference is the sugar (ribose vs deoxyribose). Printed key গ. | উত্তর যাচাই: মৌলিক পার্থক্য শুধু সুগারে (iii); ফসফেটে কোনো পার্থক্য নেই এবং গুয়ানিন DNA-তেও থাকে। তাই কোনো অপশনই সম্পূর্ণ সঠিক নয়।"
+    },
+    {
+      "id": "biology_1st-ch3-mcq-014",
+      "text": "কোনটি ভিন্নধর্মী কোডন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UAG",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UGA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UAA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AUG",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "UAG, UGA ও UAA সমাপ্তি কোডন, আর AUG আরম্ভক (ইনিশিয়েশন) কোডন; তাই AUG ভিন্নধর্মী।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-015",
+      "text": "উদ্দীপকের যৌগে হাইড্রোজেন বন্ডের সংখ্যা কত?",
+      "text_en": null,
+      "image": "assets/biology_1st-ch3-mcq-015-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জোড়া: A–T (২টি), C–G (৩টি), T–A (২টি), G–C (৩টি), T–A (২টি), C–G (৩টি)।\nমোট হাইড্রোজেন বন্ড = 2+3+2+3+2+3 = 15",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-016",
+      "text": "কোনটি ভিন্নধর্মী কোডন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UAA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UGA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UAG",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AUG",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "UAA, UGA ও UAG সমাপ্তি কোডন; AUG আরম্ভক কোডন, তাই ভিন্নধর্মী।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-017",
+      "text": "নিচের কোনটি সমাপ্তি কোডন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UAC",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UGA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UGC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UUA",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "UAA, UAG ও UGA সমাপ্তি কোডন। তাই UGA (খ) সমাপ্তি কোডন।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-018",
+      "text": "উপরের যৌগটির নাম হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-018-stem.svg",
+      "group": "biology_1st-2025-SB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "dATP",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "dADP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ATP",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AMP",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যৌগে রাইবোজ চিনি, একটি ফসফেট ও অ্যাডিনিন আছে, অর্থাৎ অ্যাডিনোসিন মনোফসফেট (AMP)। ডিঅক্সিরাইবোজ থাকলে d যুক্ত হতো; ATP-তে তিনটি ফসফেট থাকে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-019",
+      "text": "যৌগটির দ্বারা সৃষ্ট জৈব এসিডটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-018-stem.svg",
+      "group": "biology_1st-2025-SB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইউরাসিলের সাথে সম্পৃক্ত"
+        },
+        {
+          "label": "ii",
+          "text": "পলিপেপটাইড তৈরি করে"
+        },
+        {
+          "label": "iii",
+          "text": "কোষীয় সাইটোপ্লাজমে থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "AMP-এর মতো রাইবোজ নিউক্লিওটাইড থেকে সৃষ্ট নিউক্লিক এসিড RNA। RNA-তে থাইমিনের বদলে ইউরাসিল থাকে (i), mRNA পলিপেপটাইড তৈরির তথ্য বহন করে (ii) এবং RNA সাইটোপ্লাজমে থাকে (iii)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-020",
+      "text": "RNA তৈরির প্রক্রিয়া কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রান্সক্রিপশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রান্সলেশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেপ্লিকেশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রিকম্বিনেশন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "DNA থেকে RNA তৈরির প্রক্রিয়া ট্রান্সক্রিপশন (প্রতিলিপন)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-021",
+      "text": "কোনটি নাইট্রোজেন বেস শুধু রাইবোজের সাথে যুক্ত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাডেনিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গুয়ানিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "থাইমিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইউরাসিল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ইউরাসিল (U) শুধু RNA-তে থাকে এবং রাইবোজ শর্করার সাথে যুক্ত হয়; অন্য তিনটি ক্ষারক DNA-তেও আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2023",
+          "qno": 22,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-022",
+      "text": "একটি এন্টি কোডনে কতটি নাইট্রোজেন বেস থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কোডন ও অ্যান্টিকোডন প্রতিটি তিনটি নিউক্লিওটাইড (বেস) নিয়ে গঠিত।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-023",
+      "text": "কোন জেনেটিক কোডটি ট্রান্সলেশন বন্ধের সংকেত প্রদান করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AUG",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UAA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UUC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CUU",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "UAA, UAG ও UGA স্টপ কোডন, যা ট্রান্সলেশন বন্ধের সংকেত দেয়। AUG শুরু কোডন।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-024",
+      "text": "কোনটি Anti-Codon বহন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "m-RNA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "t-RNA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "r-RNA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "g-RNA",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "tRNA-এর অ্যান্টিকোডন লুপে অ্যান্টিকোডন থাকে, যা mRNA-র কোডনের সাথে পরিপূরক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-025",
+      "text": "DNA প্রতিলিপনের সময় হাইড্রোজেন বন্ধনী ভাঙে কোন এনজাইম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাইমেজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পলিমারেজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লাইগেজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেলিকেজ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হেলিকেজ এনজাইম DNA-এর দুই সূত্রকের মধ্যবর্তী হাইড্রোজেন বন্ধন ভেঙে সূত্রক আলাদা করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-026",
+      "text": "চিত্র-'A' ও 'B' উভয়ের ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-026-stem.svg",
+      "group": "biology_1st-2023-DB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্যাঁচানো, কুণ্ডলিত ও বিপরীতমুখী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রধানত সাইটোপ্লাজমে অবস্থান করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসংখ্য নিউক্লিওটাইডযুক্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিলিপনের মাধ্যমে সৃষ্টি হয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চিত্র-A = DNA, চিত্র-B = mRNA। দুটিই অসংখ্য নিউক্লিওটাইড দ্বারা গঠিত পলিনিউক্লিওটাইড। প্যাঁচানো ও বিপরীতমুখী কেবল DNA-এর, mRNA সাইটোপ্লাজমে ও রাইবোজোমে কাজ করে এবং ট্রান্সক্রিপশনে সৃষ্ট হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-027",
+      "text": "উদ্দীপকে সংগঠিত প্রক্রিয়া 'X' ও 'Y' এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-026-stem.svg",
+      "group": "biology_1st-2023-DB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "উভয় প্রক্রিয়া রাইবোজোমে সংগঠিত হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রক্রিয়া 'Y' এর সাথে tRNA এর সাথে সংশ্লিষ্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উভয় প্রক্রিয়ায় পলিমারেজ এনজাইম প্রয়োজন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রক্রিয়া 'X' এর প্রাইমার তৈরি হয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "X = ট্রান্সক্রিপশন (DNA → mRNA), Y = ট্রান্সলেশন (mRNA → প্রোটিন)। ট্রান্সলেশনে অ্যামিনো এসিড বহন করে আনে tRNA। ট্রান্সলেশন রাইবোজোমে ঘটে, ট্রান্সক্রিপশন নিউক্লিয়াসে; ট্রান্সলেশনে পলিমারেজ লাগে না এবং ট্রান্সক্রিপশনে প্রাইমার লাগে না।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-028",
+      "text": "নিচের কোনটি 'স্টপ কোডন'?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UUU",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UGG",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UCA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UAA",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "UAA, UAG ও UGA স্টপ কোডন; তালিকায় UAA আছে। UUU, UCA ও UGG অ্যামিনো এসিডের কোডন।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-029",
+      "text": "DNA এর টেমপ্লেট সূত্রকের অনুক্রম GCAT হতে উৎপন্ন m-RNA এর বেস অনুক্রম হবে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "CGUA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "GGUA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "CUGA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CGUU",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "mRNA টেমপ্লেটের পরিপূরক: G→C, C→G, A→U, T→A।\nGCAT → CGUA।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-030",
+      "text": "Stop কোডন হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "UAA"
+        },
+        {
+          "label": "ii",
+          "text": "UAG"
+        },
+        {
+          "label": "iii",
+          "text": "AUG"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "UAA ও UAG স্টপ কোডন (নন-সেন্স কোডন); AUG হলো শুরু কোডন (মেথিওনিন)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-031",
+      "text": "DNA এর যে ক্ষুদ্রতম অংশ রিকম্বিনেশনে অংশ নেয় তাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিউটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেপলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেকন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সিস্ট্রন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রিকম্বিনেশনে অংশ নেওয়া DNA-র ক্ষুদ্রতম একক রেকন; মিউটেশনের একক মিউটন, প্রতিলিপনের একক রেপ্লিকন, জিনের কার্যকরী একক সিস্ট্রন।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-032",
+      "text": "চিত্রের উপাদানটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-032-stem.svg",
+      "group": "biology_1st-2023-MB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যাডিনিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাইটোসিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "থাইমিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গুয়ানিন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চিত্রের পিউরিন ক্ষারকের ৬ নং কার্বনে –NH\\(_2\\) গ্রুপ আছে; এটি অ্যাডিনিন। সাইটোসিন ও থাইমিন পিরিমিডিন, গুয়ানিনে ৬ নং কার্বনে =O থাকে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-033",
+      "text": "উপরোক্ত উপাদানটির বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-032-stem.svg",
+      "group": "biology_1st-2023-MB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি DNA এর একটি উপাদান"
+        },
+        {
+          "label": "ii",
+          "text": "এটি অন্য একটি ক্ষারকের সাথে দুটি হাইড্রোজেন বন্ধনীর মাধ্যমে যুক্ত থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "এটি সুগারের সাথে কার্বনের ১নং অবস্থানে যুক্ত থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অ্যাডিনিন:\n(i) সত্য: DNA-র একটি ক্ষারক।\n(ii) সত্য: থাইমিনের সাথে দুটি হাইড্রোজেন বন্ধনে যুক্ত।\n(iii) সত্য: নিউক্লিওসাইডে পেন্টোজ শর্করার ১′ কার্বনের সাথে যুক্ত থাকে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-034",
+      "text": "নিম্নের কোনটি সমাপ্তি কোডন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AUG",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "UAA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UAC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UUC",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "UAA সমাপ্তি (স্টপ) কোডন; AUG শুরু কোডন, UAC ও UUC অ্যামিনো এসিডের কোডন।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-035",
+      "text": "P চিহ্নিত অংশটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-035-stem.svg",
+      "group": "biology_1st-2023-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "A-লুপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "D-লুপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "T-লুপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "S-লুপ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "tRNA-র ক্লোভারলিফ মডেলে ডানদিকের লুপ T-লুপ (T\\(\\psi\\)C লুপ)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-036",
+      "text": "চিত্রের উপাদানটির বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/biology_1st-ch3-mcq-035-stem.svg",
+      "group": "biology_1st-2023-MB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এর কোনো প্রকারভেদ নেই"
+        },
+        {
+          "label": "ii",
+          "text": "DNA হতে প্রোটিন সংশ্লেষণের কোড বহন করে"
+        },
+        {
+          "label": "iii",
+          "text": "দেখতে লবঙ্গ পাতার ন্যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চিত্র = tRNA।\n(i) মিথ্যা: tRNA-র বহু প্রকারভেদ আছে (প্রতিটি অ্যামিনো এসিডের জন্য ভিন্ন)।\n(ii) মিথ্যা: DNA থেকে প্রোটিন সংশ্লেষণের কোড বহন করে mRNA, tRNA অ্যামিনো এসিড বহন করে।\n(iii) সত্য: গঠন দেখতে লবঙ্গ পাতার (ক্লোভারলিফ) মতো।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: বিবৃতি (i) 'tRNA-র কোনো প্রকারভেদ নেই' ভুল, কারণ tRNA-র বহু প্রকার আছে; (ii)-ও ভুল। শুধু (iii) সঠিক, যা কোনো বিকল্পে নেই। (খ) কীভাবে ধরা হলেও প্রশ্নটি ত্রুটিপূর্ণ।"
+    },
+    {
+      "id": "biology_1st-ch3-mcq-037",
+      "text": "নিচের কোন প্রক্রিয়ায় প্রাইমার তৈরি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রান্সক্রিপশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রান্সলেশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রিভার্স ট্রান্সক্রিপশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেপ্লিকেশন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রেপ্লিকেশনে DNA পলিমারেজ শুরু করার জন্য RNA প্রাইমার প্রয়োজন, যা প্রাইমেজ এনজাইম তৈরি করে।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

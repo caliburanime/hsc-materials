@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="275" viewBox="0 0 440 275">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="440" height="275" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="50" y1="100" x2="120" y2="100" />
+<line x1="120" y1="100" x2="130" y2="100" />
+<polyline points="130.0,100.0 138.0,100.0 142.5,94.0 147.0,106.0 151.5,94.0 156.0,106.0 160.5,94.0 165.0,106.0 169.5,94.0 174.0,106.0 178.5,94.0 183.0,106.0 187.5,94.0 192.0,100.0 200.0,100.0"/>
+<line x1="200" y1="100" x2="215" y2="100" />
+<polyline points="215.0,100.0 223.0,100.0 227.5,94.0 232.0,106.0 236.5,94.0 241.0,106.0 245.5,94.0 250.0,106.0 254.5,94.0 259.0,106.0 263.5,94.0 268.0,106.0 272.5,94.0 277.0,100.0 285.0,100.0"/>
+<line x1="285" y1="100" x2="300" y2="100" />
+<polyline points="300.0,100.0 308.0,100.0 312.5,94.0 317.0,106.0 321.5,94.0 326.0,106.0 330.5,94.0 335.0,106.0 339.5,94.0 344.0,106.0 348.5,94.0 353.0,106.0 357.5,94.0 362.0,100.0 370.0,100.0"/>
+<line x1="370" y1="100" x2="410" y2="100" />
+<line x1="120" y1="100" x2="120" y2="35" />
+<line x1="120" y1="35" x2="140" y2="35" />
+<polyline points="140.0,35.0 146.0,35.0 150.8,29.0 155.6,41.0 160.4,29.0 165.2,41.0 170.0,29.0 174.8,41.0 179.6,29.0 184.4,41.0 189.2,29.0 194.0,35.0 200.0,35.0"/>
+<polyline points="200.0,35.0 206.0,35.0 210.8,29.0 215.6,41.0 220.4,29.0 225.2,41.0 230.0,29.0 234.8,41.0 239.6,29.0 244.4,41.0 249.2,29.0 254.0,35.0 260.0,35.0"/>
+<line x1="260" y1="35" x2="300" y2="35" />
+<line x1="300" y1="35" x2="300" y2="100" />
+<line x1="215" y1="100" x2="215" y2="155" />
+<line x1="215" y1="155" x2="250" y2="155" />
+<polyline points="250.0,155.0 260.0,155.0 265.0,149.0 270.0,161.0 275.0,149.0 280.0,161.0 285.0,149.0 290.0,161.0 295.0,149.0 300.0,161.0 305.0,149.0 310.0,161.0 315.0,149.0 320.0,155.0 330.0,155.0"/>
+<line x1="330" y1="155" x2="370" y2="155" />
+<line x1="370" y1="155" x2="370" y2="100" />
+<line x1="410" y1="100" x2="410" y2="235" />
+<line x1="410" y1="235" x2="270" y2="235" />
+<line x1="230" y1="235" x2="50" y2="235" />
+<line x1="50" y1="235" x2="50" y2="198" />
+<line x1="50" y1="172" x2="50" y2="100" />
+<circle cx="50" cy="185" r="13"/>
+<line x1="230" y1="235" x2="244" y2="235" />
+<line x1="256" y1="235" x2="270" y2="235" />
+<line x1="244" y1="224" x2="244" y2="246" stroke-width="2"/>
+<line x1="256" y1="229" x2="256" y2="241" stroke-width="3"/>
+<line x1="228" y1="250" x2="274" y2="214" marker-end="url(#ah)"/>
+<circle cx="120" cy="100" r="3" fill="#111" stroke="none"/>
+<circle cx="215" cy="100" r="3" fill="#111" stroke="none"/>
+<circle cx="300" cy="100" r="3" fill="#111" stroke="none"/>
+<circle cx="370" cy="100" r="3" fill="#111" stroke="none"/>
+<text x="50" y="190" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">A</text>
+<text x="165" y="124" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">20Ω</text>
+<text x="250" y="124" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">5Ω</text>
+<text x="335" y="124" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">12Ω</text>
+<text x="170" y="24" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">2Ω</text>
+<text x="230" y="24" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">4Ω</text>
+<text x="290" y="177" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">40Ω</text>
+<text x="262" y="262" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111"><tspan class="v">V</tspan> (2—22) Volt</text>
+
+</g>
+</svg>

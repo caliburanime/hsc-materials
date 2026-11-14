@@ -1,0 +1,3756 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 9,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch9-mcq-001",
+      "text": "ফিশন প্রক্রিয়ায় একটি ইউরেনিয়াম নিউক্লিয়াস থেকে কী পরিমাণ শক্তি নির্গত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "17.6 eV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200 eV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "17.6 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200 MeV",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ইউরেনিয়াম নিউক্লিয়াসের ফিশনে প্রতি বিক্রিয়ায় প্রায় 200 MeV শক্তি নির্গত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-002",
+      "text": "আয়নায়ন ক্ষমতার কোন ক্রমটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "α-রশ্মি > β-রশ্মি > γ-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "γ-রশ্মি > β-রশ্মি > α-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "β-রশ্মি > α-রশ্মি > γ-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "α-রশ্মি > γ-রশ্মি > β-রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আয়নায়ন ক্ষমতা \\(\\alpha > \\beta > \\gamma\\) এবং ভেদন ক্ষমতা এর বিপরীত ক্রমে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-003",
+      "text": "রাদারফোর্ডের পরীক্ষায় ব্যবহৃত স্বর্ণপাতের পুরুত্ব কত ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6 \\times 10^{-7}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5 \\times 10^{-7}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5 \\times 10^{-6}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6 \\times 10^{-6}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রাদারফোর্ডের আলফা বিক্ষেপণ পরীক্ষায় ব্যবহৃত স্বর্ণপাতের পুরুত্ব ছিল প্রায় \\(6\\times10^{-7}\\) m।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-004",
+      "text": "\\(^{27}\\mathrm{Al}\\) নিউক্লিয়াসের ব্যাসার্ধ 3.6 fm হলে \\(^{64}\\mathrm{Cu}\\) নিউক্লিয়াসের ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4.8 fm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.6 fm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.4 fm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.8 fm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(R = R_0A^{1/3}\\) থেকে \\(\\frac{R_{Cu}}{R_{Al}} = \\left(\\frac{64}{27}\\right)^{1/3} = \\frac{4}{3}\\)\n\\(R_{Cu} = 3.6\\times\\frac{4}{3} = 4.8\\) fm",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-005",
+      "text": "সবল-নিউক্লীয় বলের ক্ষেত্রে নিম্নের কোন কণাটি বিনিময় করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রাভিটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোসন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সবল নিউক্লীয় বল নিউক্লিয়নদের মধ্যে মেসন কণা বিনিময়ের মাধ্যমে কাজ করে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-006",
+      "text": "নিম্নের কোনটি তেজস্ক্রিয়তার একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুলম্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ওহম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাদারফোর্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রাদারফোর্ড (Rd) তেজস্ক্রিয়তার একক; 1 Rd = \\(10^6\\) ক্ষয়/সেকেন্ড। বোর, কুলম্ব ও ওহম যথাক্রমে অন্য রাশির একক বা বিজ্ঞানীর নাম।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-007",
+      "text": "অরবিটাল ইলেক্ট্রনের আবিষ্কারক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জে. জে থমসন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাদারফোর্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নীলস বোর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চ্যাডউইক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নীলস বোর কক্ষপথে আবর্তনশীল ইলেকট্রনের ধারণা (অরবিটাল/স্থিতিশীল কক্ষপথ) প্রদান করেন।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-008",
+      "text": "উদ্দীপকে গামা রশ্মি সোজা চলে গেছে, কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "[তেজস্ক্রিয় মৌলের সাথে লম্বভাবে শক্তিশালী চৌম্বক ক্ষেত্র স্থাপিত আছে]",
+      "stem_image": "assets/physics_2nd-ch9-mcq-008-stem.svg",
+      "group": "physics_2nd-2025-CB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "গামা রশ্মি চার্জহীন"
+        },
+        {
+          "label": "ii",
+          "text": "ভেদন ক্ষমতা বেশি"
+        },
+        {
+          "label": "iii",
+          "text": "চৌম্বক ক্ষেত্রের প্রভাব নেই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: গামা রশ্মি চার্জহীন, তাই চৌম্বক ক্ষেত্রে বিচ্যুত হয় না।\n(ii) ভেদন ক্ষমতা বেশি হওয়া সোজা চলে যাওয়ার কারণ নয়।\n(iii) সত্য: চার্জহীন বলে গামা রশ্মির উপর চৌম্বক ক্ষেত্রের বল কাজ করে না।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-009",
+      "text": "উদ্দীপকের পরীক্ষাটি নিম্নের কোন বিজ্ঞানী সম্পন্ন করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "[তেজস্ক্রিয় মৌলের সাথে লম্বভাবে শক্তিশালী চৌম্বক ক্ষেত্র স্থাপিত আছে]",
+      "stem_image": "assets/physics_2nd-ch9-mcq-008-stem.svg",
+      "group": "physics_2nd-2025-CB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "রাদারফোর্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেকরেল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাদাম কুরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চ্যাডউইক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তেজস্ক্রিয় রশ্মিকে চৌম্বক ক্ষেত্রে আলফা, বিটা ও গামায় বিভক্ত করার এই পরীক্ষা বইয়ের মতে মাদাম কুরি সম্পন্ন করেন।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-010",
+      "text": "নিচের কোনটির পরমাণুর নিউট্রন সংখ্যা সমান থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আইসোটোপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আইসোবার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আইসোটোন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইসোমার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যেসব পরমাণুর নিউট্রন সংখ্যা সমান কিন্তু প্রোটন ও ভরসংখ্যা ভিন্ন, তাদের আইসোটোন বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-011",
+      "text": "কোনো একটি তেজস্ক্রিয় পদার্থের অর্ধায়ু 10 দিন। কত দিনে ঐ পদার্থের 75% ক্ষয়প্রাপ্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "20",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "40",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "75% ক্ষয় হলে 25% অবশিষ্ট থাকে, অর্থাৎ \\(\\frac{N}{N_0} = \\frac{1}{4} = \\left(\\frac{1}{2}\\right)^2\\)। তাই ২ অর্ধায়ু \\(= 2\\times10 = 20\\) দিন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-012",
+      "text": "বস্তুটির অর্ধায়ু কত দিন?",
+      "text_en": null,
+      "image": null,
+      "stem": "1.0 gm ভরের একটি তেজস্ক্রিয় বস্তু 55 দিনে 0.9 gm ভর হারায়।",
+      "stem_image": null,
+      "group": "physics_2nd-2025-CUB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "12.30",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "16.55",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "14.05",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "18.50",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অবশিষ্ট \\(N = 1-0.9 = 0.1\\) gm, \\(N_0 = 1\\) gm\n\\(\\lambda = \\frac{1}{t}\\ln\\frac{N_0}{N} = \\frac{\\ln10}{55} = 0.04187\\) দিন\\(^{-1}\\)\n\\(T_{1/2} = \\frac{0.693}{\\lambda} = \\frac{0.693}{0.04187} = 16.55\\) দিন",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-013",
+      "text": "বস্তুটির সম্পূর্ণ ক্ষয় হতে কত দিন লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "1.0 gm ভরের একটি তেজস্ক্রিয় বস্তু 55 দিনে 0.9 gm ভর হারায়।",
+      "stem_image": null,
+      "group": "physics_2nd-2025-CUB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "∞",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তেজস্ক্রিয় ক্ষয় সূচকীয় (\\(N = N_0e^{-\\lambda t}\\)), তাই \\(N = 0\\) হতে অসীম সময় লাগে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-014",
+      "text": "নিউক্লিয় চুল্লিতে ক্যাডমিয়াম দণ্ড ব্যবহার করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কিছু নিউট্রন নিঃসরণের জন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কিছু নিউট্রন শোষণের জন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রনের গতি স্থির রাখার জন্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিউট্রনের গতি ত্বরান্বিত করার জন্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্যাডমিয়াম দণ্ড নিউট্রন শোষণ করে বিক্রিয়ার হার নিয়ন্ত্রণ করে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-015",
+      "text": "ট্রিটিয়ামের অর্ধায়ু 12.5 বছর। 25 বছর পর 1gm ট্রিটিয়ামের ভর কত গ্রাম হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.125 gm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.25 gm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.50 gm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.75 gm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\frac{25}{12.5} = 2\\)\n\\(N = N_0\\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4} = 0.25\\) gm",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-016",
+      "text": "হাইড্রোজেনের n-তম কক্ষপথের শক্তির সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E_n = \\frac{1}{n} \\times (-13.6\\,\\mathrm{eV})\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E_n = \\frac{1}{n} \\times (13.6\\,\\mathrm{eV})\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E_n = \\frac{1}{n^2} \\times (-13.6\\,\\mathrm{eV})\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E_n = \\frac{1}{n^2} \\times (13.6\\,\\mathrm{eV})\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "হাইড্রোজেনের n-তম কক্ষের শক্তি \\(E_n = -\\frac{13.6}{n^2}\\) eV।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-017",
+      "text": "\\(t_2 = ?\\)",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch9-mcq-017-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(t_2 = t_1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(t_2 = 1.25\\,t_1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(t_2 = 1.46\\,t_1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(t_2 = 1.67\\,t_1\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(N = N_0e^{-\\lambda t}\\) থেকে \\(t = \\frac{1}{\\lambda}\\ln\\frac{N_0}{N}\\)\n\\(t_1 = \\frac{\\ln3}{\\lambda}\\), \\(t_2 = \\frac{\\ln5}{\\lambda}\\)\n\\(\\frac{t_2}{t_1} = \\frac{1.609}{1.099} = 1.46\\), অর্থাৎ \\(t_2 = 1.46\\,t_1\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-018",
+      "text": "কোনটি উচ্চ দ্রুতিতে চলমান ইলেকট্রন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা কণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা কণা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক্স রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিটা কণা উচ্চ দ্রুতিতে চলমান ইলেকট্রন (\\(\\beta^-\\))।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-019",
+      "text": "কোন পরীক্ষা থেকে জানা যায় যে, পরমাণুর প্রায় সমস্ত ভর এর কেন্দ্রে কেন্দ্রীভূত থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাদারফোর্ডের বিক্ষেপণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মাইকেলসন-মোরলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়ং-এর দ্বি-চিড়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলোক তড়িৎ ক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রাদারফোর্ডের আলফা কণা বিক্ষেপণ পরীক্ষা থেকে পাওয়া যায় যে পরমাণুর প্রায় সমস্ত ভর ও ধনাত্মক চার্জ ক্ষুদ্র কেন্দ্রে (নিউক্লিয়াসে) কেন্দ্রীভূত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-020",
+      "text": "তাড়িত চৌম্বক বলের বাহক কণা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বোসন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্লুয়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রাভিটন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তাড়িত চৌম্বক বলের বাহক কণা ফোটন।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-021",
+      "text": "নিচের কোনটি আইসোটোনের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(^{32}_{15}\\mathrm{P}\\), \\(^{35}_{17}\\mathrm{Cl}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(^{40}_{20}\\mathrm{Ca}\\), \\(^{39}_{19}\\mathrm{K}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(^{13}_{7}\\mathrm{N}\\), \\(^{13}_{6}\\mathrm{C}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(^{40}_{18}\\mathrm{Ar}\\), \\(^{40}_{20}\\mathrm{Ca}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আইসোটোন: নিউট্রন সংখ্যা সমান। (ক) P: 17, Cl: 18; (খ) Ca: \\(40-20=20\\), K: \\(39-19=20\\) (সমান); (গ) N: 6, C: 7; (ঘ) Ar: 22, Ca: 20। তাই (খ)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-022",
+      "text": "\\(^{27}_{13}\\mathrm{Al} + ^{4}_{2}\\mathrm{He} \\rightarrow ^{30}_{14}\\mathrm{Si} + X\\), এখানে X কণাটি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলফা কণা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সংরক্ষণ নীতি: ভরসংখ্যা \\(27+4-30 = 1\\), পারমাণবিক সংখ্যা \\(13+2-14 = 1\\)। অতএব \\(X = {}^{1}_{1}\\mathrm{H}\\), অর্থাৎ প্রোটন।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-023",
+      "text": "একটি তেজস্ক্রিয় মৌলের ক্ষয়ধ্রুবক \\(0.01\\,\\mathrm{s^{-1}}\\)। এর অর্ধায়ু কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "69.31 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "72.3 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "80.10 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90.63 sec",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T_{1/2} = \\frac{0.693}{\\lambda} = \\frac{0.693}{0.01} = 69.31\\) s",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-024",
+      "text": "সূর্যে প্রতি ফিউশনে নির্গত শক্তি প্রায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "17.6 MeV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200 MeV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "226 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "235 MeV",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সূর্যে ফিউশন বিক্রিয়ায় (\\({}^2\\mathrm{H}+{}^3\\mathrm{H}\\to{}^4\\mathrm{He}+n\\)) প্রতি বিক্রিয়ায় প্রায় 17.6 MeV শক্তি নির্গত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-025",
+      "text": "আলফা (α) কণা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(^{4}_{2}\\mathrm{He}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(^{3}_{1}\\mathrm{H}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(^{3}_{2}\\mathrm{He}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(^{2}_{1}\\mathrm{H}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আলফা কণা হিলিয়াম নিউক্লিয়াস, \\({}^{4}_{2}\\mathrm{He}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-026",
+      "text": "তেজস্ক্রিয় ক্ষয়ের ক্ষেত্রে lnN–t লেখ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-026-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-026-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-026-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-026-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(N = N_0e^{-\\lambda t}\\) থেকে \\(\\ln N = \\ln N_0 - \\lambda t\\)। এটি ঋণাত্মক ঢালবিশিষ্ট সরলরেখা, যার lnN অক্ষে ধনাত্মক ছেদক আছে; (গ)-তে তা দেখানো হয়েছে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-027",
+      "text": "পারমাণবিক চুল্লির গ্রাফাইট মজ্জার ভিতরে ইউরেনিয়াম দণ্ডের চারিপাশে ফাঁকা স্থানগুলো নিচের কোন পদার্থ দ্বারা পূর্ণ থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্যাডমিয়াম দণ্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যালুমিনিয়াম দণ্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জার্মেনিয়াম দণ্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পটাশিয়াম দণ্ড",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পারমাণবিক চুল্লিতে ইউরেনিয়াম দণ্ডের মাঝের ফাঁকা স্থানে ক্যাডমিয়াম নিয়ন্ত্রক দণ্ড থাকে, যা অতিরিক্ত নিউট্রন শোষণ করে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-028",
+      "text": "একটি তেজস্ক্রিয় পদার্থের অর্ধায়ু 1600 বছর। কত সময় পরে তেজস্ক্রিয় পদার্থের \\(\\frac{15}{16}\\) অংশ ক্ষয়প্রাপ্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6400Y",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2780Y",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "149Y",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "64.71Y",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{15}{16}\\) অংশ ক্ষয় হলে অবশিষ্ট \\(\\frac{1}{16} = \\left(\\frac{1}{2}\\right)^4\\), অর্থাৎ ৪ অর্ধায়ু।\n\\(t = 4\\times1600 = 6400\\) বছর",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-029",
+      "text": "নিউক্লিয় ফিউশন বিক্রিয়া—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অনেক উচ্চ তাপমাত্রায় হয়"
+        },
+        {
+          "label": "ii",
+          "text": "নক্ষত্রের মধ্যে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "একটি শৃঙ্খল বিক্রিয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: ফিউশনে অতি উচ্চ তাপমাত্রা প্রয়োজন।\n(ii) সত্য: সূর্য ও অন্যান্য নক্ষত্রে ফিউশন ঘটে।\n(iii) মিথ্যা: ফিউশন শৃঙ্খল বিক্রিয়া নয়; শৃঙ্খল বিক্রিয়া ফিশনের বৈশিষ্ট্য।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-030",
+      "text": "\\(^{234}_{90}X \\rightarrow ^{234}_{z}Y + \\beta\\) রশ্মি। এখানে z এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "84",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "88",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "89",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "91",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিটা ক্ষয়ে ভরসংখ্যা অপরিবর্তিত থাকে এবং পারমাণবিক সংখ্যা ১ বাড়ে, তাই \\(z = 90+1 = 91\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-031",
+      "text": "একটি তেজস্ক্রিয় মৌলের 50% ক্ষয় হতে যদি সময় লাগে 100y, তবে মৌলটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্ষয় ধ্রুবক \\(6.93 \\times 10^{-3}\\,\\mathrm{y^{-1}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "70% ক্ষয় হতে সময় লাগে 173.73y"
+        },
+        {
+          "label": "iii",
+          "text": "100% ক্ষয় হতে সময় লাগে 200y"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(T_{1/2} = 100\\) y, \\(\\lambda = \\frac{0.693}{100} = 6.93\\times10^{-3}\\ \\mathrm{y^{-1}}\\)।\n(ii) সত্য: 70% ক্ষয়ে \\(\\frac{N}{N_0} = 0.3\\), \\(t = \\frac{\\ln(1/0.3)}{\\lambda} = \\frac{1.204}{6.93\\times10^{-3}} = 173.7\\) y।\n(iii) মিথ্যা: 100% ক্ষয়ে অসীম সময় লাগে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-032",
+      "text": "সবল নিউক্লিয় বলের ক্ষেত্রে নিম্নের কোন কণাটি ক্রিয়া করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রাভিটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোসন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সবল নিউক্লিয় বলে নিউক্লিয়নের মধ্যে মেসন (পাই-মেসন) বিনিময় হয় (ইউকাওয়ার তত্ত্ব)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-033",
+      "text": "একটি তেজস্ক্রিয় মৌল 2টি α কণা ও 3টি β কণা নিঃসরণ করে। নতুন মৌলের পারমাণবিক সংখ্যা (Z) ও ভর সংখ্যা (A) এর মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(A + 5), (Z − 1)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(A − 5), (Z + 1)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(A − 8), (Z − 1)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(A − 8), (Z + 1)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "α-কণায় \\(A\\) কমে 4, \\(Z\\) কমে 2; β-কণায় \\(Z\\) বাড়ে 1।\n\\(A'=A-2\\times4=A-8\\)\n\\(Z'=Z-2\\times2+3=Z-1\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-034",
+      "text": "নিম্নের কোনটি তেজস্ক্রিয়তার একক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাদারফোর্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেকেরেল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বোর হলো পরমাণুর মডেল প্রণেতার নাম। রাদারফোর্ড, কুরি ও বেকেরেল তেজস্ক্রিয়তার একক।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-035",
+      "text": "নিম্নের কোনটি গামা রশ্মির ধর্ম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধনাত্মক আধানযুক্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণাত্মক আধানযুক্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আধান নিরপেক্ষ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিপ্রভা সৃষ্টি করতে পারে না",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গামা রশ্মি তড়িৎচৌম্বক তরঙ্গ, তাই আধান নিরপেক্ষ।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-036",
+      "text": "হাইড্রোজেন পরমাণুর একটি ইলেকট্রন যখন n=3 কক্ষ থেকে n=2 কক্ষে আসে তখন নিঃসৃত বিকিরণের তরঙ্গদৈর্ঘ্য কত হয়? (রিডবার্গ ধ্রুবক R)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{5R}{36}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{11R}{36}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{36}{11R}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{36}{5R}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{1}{\\lambda}=R\\left(\\frac{1}{2^2}-\\frac{1}{3^2}\\right)=R\\left(\\frac14-\\frac19\\right)=\\frac{5R}{36}\\)\n\\(\\lambda=\\frac{36}{5R}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-037",
+      "text": "কোনো পরমাণুর পারমাণবিক সংখ্যা এবং ভরসংখ্যা অপরিবর্তিত থাকে যখন এটি ——— নিঃসৃত করে।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "α-কণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "β-কণা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গামা বিকিরণে ফোটন নির্গত হয়, ফলে \\(Z\\) ও \\(A\\) অপরিবর্তিত থাকে। α, β বা নিউট্রন নির্গমনে এদের পরিবর্তন হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-038",
+      "text": "একটি নিউক্লিয়ার বিক্রিয়ার সমীকরণ নিম্নরূপ— \\(^{14}_{7}\\mathrm{N} + ^{4}_{2}\\mathrm{He} \\rightarrow ^{17}_{8}\\mathrm{O} + x\\), এখানে x হল একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিউটেরন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রিটিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভরসংখ্যা: \\(14+4=18=17+A\\Rightarrow A=1\\)। পারমাণবিক সংখ্যা: \\(7+2=9=8+Z\\Rightarrow Z=1\\)।\nতাই \\(x={}^1_1\\mathrm{H}\\), অর্থাৎ প্রোটন।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-039",
+      "text": "রেডিয়ামের অর্ধায়ু 1600 বছর। 6400 বছর পরে প্রাথমিক পরিমাণের কত অংশ অক্ষত থাকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{16}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{32}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(6400/1600=4\\) অর্ধায়ু। অবশিষ্ট অংশ \\(=\\left(\\frac12\\right)^4=\\frac{1}{16}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-040",
+      "text": "স্থির তড়িৎ বলের জন্য নিম্নের কোনটি বিনিময় হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বোসন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্লুয়ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির তড়িৎ (তাড়িতচৌম্বক) বলে বাহক কণা ফোটন বিনিময় হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-041",
+      "text": "বোসন কণা কোন বলের ক্ষেত্রে ক্ষেত্রকণা হিসেবে কাজ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাড়িত চৌম্বক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লিয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দুর্বল নিউক্লিয় বলের বাহক কণা \\(W^\\pm\\) ও \\(Z^0\\) বোসন।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-042",
+      "text": "বোর পরমাণু মডেলের সাথে সংগতিপূর্ণ কোনটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইলেকট্রন নির্দিষ্ট ব্যাসার্ধের কক্ষপথে আবর্তন করে"
+        },
+        {
+          "label": "ii",
+          "text": "বিকিরিত বা শোষিত শক্তি কক্ষপথের শক্তির উপর নির্ভর করে না"
+        },
+        {
+          "label": "iii",
+          "text": "ইলেকট্রনের কক্ষপথগুলো নির্দিষ্ট ব্যাসার্ধের"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বোর মডেলে ইলেকট্রন নির্দিষ্ট ব্যাসার্ধের কক্ষপথে ঘোরে।\n(ii) মিথ্যা: বিকিরিত বা শোষিত শক্তি দুই কক্ষের শক্তির পার্থক্যের সমান, তাই কক্ষপথের শক্তির উপর নির্ভর করে।\n(iii) সত্য: কক্ষপথগুলো নির্দিষ্ট ব্যাসার্ধের (কোয়ান্টায়িত)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-043",
+      "text": "কোনটি সবল নিউক্লিয় বলের বৈশিষ্ট্য নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এটি শুধু আকর্ষণ ধর্মী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিময় কণা গ্লু-অন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এই বল অত্যন্ত তীব্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এই বলের পাল্লা অসীম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সবল নিউক্লিয় বল স্বল্পপাল্লার (প্রায় \\(10^{-15}\\) m), এর পাল্লা অসীম নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-044",
+      "text": "কোন রশ্মি চৌম্বক ক্ষেত্র দ্বারা বিচ্যুত হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সবগুলোই",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গামা রশ্মি আধানহীন, তাই চৌম্বক ক্ষেত্রে বিচ্যুত হয় না। α ও β আধানযুক্ত বলে বিচ্যুত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-045",
+      "text": "একটি নিউক্লিয়ার বিক্রিয়ায় সংরক্ষিত থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিউক্লিয়ন সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রৈখিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সব কয়টি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিউক্লিয়ার বিক্রিয়ায় নিউক্লিয়ন সংখ্যা, রৈখিক ভরবেগ, কৌণিক ভরবেগ, আধান, শক্তি ইত্যাদি সংরক্ষিত থাকে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-046",
+      "text": "কোনটি তেজস্ক্রিয় ক্ষয়ে নিঃসরিত হতে পারে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রিনো",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিলিয়াম নিউক্লিয়াস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তেজস্ক্রিয় ক্ষয়ে α-কণা (হিলিয়াম নিউক্লিয়াস), β-কণা (ইলেকট্রন), নিউট্রিনো ও γ-রশ্মি নির্গত হয়; প্রোটন নির্গত হয় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-047",
+      "text": "নিচের কোন বিক্রিয়ার ফলে নিউক্লিয় চুল্লিতে শক্তি উৎপাদন করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফিউশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিয়ন্ত্রিত শৃঙ্খল বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাসায়নিক বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অনিয়ন্ত্রিত শৃঙ্খল বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিউক্লিয় চুল্লিতে নিয়ন্ত্রিত ফিশন শৃঙ্খল বিক্রিয়া ঘটিয়ে শক্তি উৎপাদন করা হয়। অনিয়ন্ত্রিত বিক্রিয়া ঘটে পারমাণবিক বোমায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-048",
+      "text": "একটি তেজস্ক্রিয় মৌলের অর্ধায়ু 1.2 দিন। 4.8 দিন পরে ঐ মৌলটির কত অংশ ক্ষয়প্রাপ্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{15}{16}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{16}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(4.8/1.2=4\\) অর্ধায়ু। অবশিষ্ট \\(=\\frac{1}{2^4}=\\frac{1}{16}\\)\nক্ষয়প্রাপ্ত অংশ \\(=1-\\frac{1}{16}=\\frac{15}{16}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-049",
+      "text": "নিচের কোন মৌল দুটি একই নিউক্লিয় প্রজাতির?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(P \\xrightarrow{\\alpha} Q \\xrightarrow{\\gamma} R \\xrightarrow{\\beta} S\\)\nএখানে α, γ ও β যথাক্রমে P, Q ও R হতে নিঃসৃত তেজস্ক্রিয় বিকিরণ বোঝানো হয়েছে। P এর পারমাণবিক সংখ্যা Z।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DIB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "P ও Q",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Q ও R",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "R ও S",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "S ও P",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "α-ক্ষয়ে \\(P\\to Q\\) এ \\(Z\\) কমে 2, \\(A\\) কমে 4। γ-ক্ষয়ে \\(Q\\to R\\) এ \\(Z\\) ও \\(A\\) অপরিবর্তিত, তাই Q ও R একই নিউক্লিয় প্রজাতি।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-050",
+      "text": "'S' মৌলটির পারমাণবিক সংখ্যা হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(P \\xrightarrow{\\alpha} Q \\xrightarrow{\\gamma} R \\xrightarrow{\\beta} S\\)\nএখানে α, γ ও β যথাক্রমে P, Q ও R হতে নিঃসৃত তেজস্ক্রিয় বিকিরণ বোঝানো হয়েছে। P এর পারমাণবিক সংখ্যা Z।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DIB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "Z + 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Z − 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Z + 2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Z − 2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "P এর \\(Z\\) হলে Q এর \\(Z-2\\), R এর \\(Z-2\\) (γ-ক্ষয়ে অপরিবর্তিত)। β-ক্ষয়ে \\(Z\\) বাড়ে 1, তাই S এর \\(Z=Z-2+1=Z-1\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-051",
+      "text": "1 a.m.u সমান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.6057 \\times 10^{-27}\\) kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.66057 \\times 10^{-27}\\) kg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.6607 \\times 10^{-27}\\) kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.6657 \\times 10^{-27}\\) kg",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "1 a.m.u = \\(1.66057\\times10^{-27}\\) kg।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-052",
+      "text": "হাইড্রোজেন পরমাণুর ৩য় বোর কক্ষে ইলেকট্রনের কৌণিক ভরবেগ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{3h}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{2h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3h}{\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বোরের শর্ত: \\(L=\\frac{nh}{2\\pi}\\)। \\(n=3\\) হলে \\(L=\\frac{3h}{2\\pi}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-053",
+      "text": "বোর মডেল অনুসারে হাইড্রোজেন পরমাণুর n-th কক্ষে ইলেকট্রনটির মোট শক্তি ও বিভব শক্তির অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 8",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মোট শক্তি \\(E=-\\frac{e^2}{8\\pi\\epsilon_0 r}\\), বিভব শক্তি \\(U=-\\frac{e^2}{4\\pi\\epsilon_0 r}\\)\n\\(\\frac{E}{U}=\\frac{1}{2}\\), অর্থাৎ \\(1:2\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-054",
+      "text": "A ও B দুটি মৌলের পরমাণু সংখ্যা বনাম সময় লেখচিত্র নিম্নরূপ:",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch9-mcq-054-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A মৌলটির তেজস্ক্রিয়তা বেশি"
+        },
+        {
+          "label": "ii",
+          "text": "B মৌলটির অর্ধায়ু কম"
+        },
+        {
+          "label": "iii",
+          "text": "B মৌলটির ক্ষয় হতে অধিক সময় লাগে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: একই সময়ে A এর পরমাণু সংখ্যা দ্রুত কমে, তাই A এর ক্ষয় ধ্রুবক ও তেজস্ক্রিয়তা বেশি।\n(ii) মিথ্যা: A এর অর্ধায়ু কম, B এর বেশি।\n(iii) সত্য: B ধীরে ক্ষয় হয়, তাই ক্ষয় হতে বেশি সময় লাগে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-055",
+      "text": "কোনো তেজস্ক্রিয় মৌলের গড় আয়ু ও অর্ধায়ুর মধ্যে সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tau = \\frac{1}{T_{1/2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tau = \\frac{0.693}{T_{1/2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tau = \\frac{T_{1/2}}{0.693}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tau = 0.693\\,T_{1/2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গড় আয়ু \\(\\tau=\\frac{1}{\\lambda}\\) এবং \\(T_{1/2}=\\frac{0.693}{\\lambda}\\)। তাই \\(\\tau=\\frac{T_{1/2}}{0.693}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-056",
+      "text": "\\(^{27}_{13}\\mathrm{Al} + ^{4}_{2}\\mathrm{He} \\rightarrow X + ^{1}_{0}\\mathrm{n}\\) বিক্রিয়ায় X মৌল নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্লোরিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যালসিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফসফরাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ম্যাগনেসিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ভরসংখ্যা: \\(27+4=31=A+1\\Rightarrow A=30\\); পারমাণবিক সংখ্যা: \\(13+2=15\\)। \\(Z=15\\) হলো ফসফরাস (\\({}^{30}_{15}\\mathrm{P}\\))।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-057",
+      "text": "হাইড্রোজেন পরমাণুর n তম কক্ষ পথের ইলেকট্রনের বেগ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{n^2h^2\\epsilon_0}{\\pi me^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{me^4}{8n^2h^2\\epsilon_0^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{e}{\\sqrt{4\\pi\\epsilon_0 m r_n}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{e}{4\\pi\\epsilon_0 m r_n}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কুলম্ব বল ও কেন্দ্রমুখী বল সমান: \\(\\frac{mv^2}{r_n}=\\frac{e^2}{4\\pi\\epsilon_0r_n^2}\\)\n\\(v=\\frac{e}{\\sqrt{4\\pi\\epsilon_0mr_n}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-058",
+      "text": "চিত্রে A = ?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch9-mcq-058-stem.svg",
+      "group": "physics_2nd-2023-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "λ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.693λ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{0.693}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\lambda}{0.693}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্ষয় বক্রে \\(N=\\frac{N_0}{2}\\) এ সময় A হলো অর্ধায়ু। তাই \\(A=T_{1/2}=\\frac{0.693}{\\lambda}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-059",
+      "text": "উদ্দীপকে B সমান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch9-mcq-058-stem.svg",
+      "group": "physics_2nd-2023-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.6\\,N_0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.12\\,N_0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.37\\,N_0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.06\\,N_0\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(t=\\frac{1}{\\lambda}\\) (গড় আয়ু) এ \\(N=N_0e^{-1}=0.368N_0\\approx0.37N_0\\)। তাই \\(B=0.37N_0\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-060",
+      "text": "কোনো তেজস্ক্রিয় মৌলের প্রাথমিক পরমাণুর সংখ্যা \\(N_0\\)। কত সময় পর N সংখ্যক পরমাণু অবশিষ্ট থাকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(t = \\frac{1}{\\lambda}\\ln\\left(\\frac{N}{N_0}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(t = \\lambda\\ln\\left(\\frac{N_0}{N}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(t = -\\frac{1}{\\lambda}\\ln\\left(\\frac{N}{N_0}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(t = \\lambda\\ln\\left(\\frac{N}{N_0}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(N=N_0e^{-\\lambda t}\\Rightarrow\\ln\\frac{N}{N_0}=-\\lambda t\\)\n\\(t=-\\frac{1}{\\lambda}\\ln\\left(\\frac{N}{N_0}\\right)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-061",
+      "text": "অর্ধায়ু গড় আয়ুর কত গুণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.396",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.693",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.963",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.443",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T_{1/2}=\\frac{0.693}{\\lambda}\\) এবং \\(\\tau=\\frac{1}{\\lambda}\\), তাই \\(\\frac{T_{1/2}}{\\tau}=0.693\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-062",
+      "text": "তেজস্ক্রিয়তা—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি নিউক্লীয় ঘটনা"
+        },
+        {
+          "label": "ii",
+          "text": "একটি স্বতঃস্ফূর্ত ঘটনা"
+        },
+        {
+          "label": "iii",
+          "text": "বাহ্যিক কোনো ক্ষেত্র দ্বারা প্রভাবিত হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তেজস্ক্রিয়তা নিউক্লিয়াসের স্বতঃস্ফূর্ত ঘটনা, যা তাপমাত্রা, চাপ, তড়িৎ বা চৌম্বক ক্ষেত্র প্রভৃতি বাহ্যিক কারণে প্রভাবিত হয় না। তিনটিই সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-063",
+      "text": "সবল নিউক্লিয় বলের ক্ষেত্রে কোন কণাটির বিনিময় ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্রাভিটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্লুয়ন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সবল নিউক্লিয় বলে নিউক্লিয়নের মধ্যে মেসন বিনিময় হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-064",
+      "text": "\\(^{40}_{18}\\mathrm{Ar}\\) ও \\(^{40}_{20}\\mathrm{Ca}\\) পরস্পরের কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আইসোটোপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আইসোটোন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আইসোবার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইসোমার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দুটিরই ভরসংখ্যা 40 কিন্তু পারমাণবিক সংখ্যা ভিন্ন (18 ও 20), তাই এরা আইসোবার।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-065",
+      "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ুর সাথে ক্ষয় ধ্রুবকের সম্পর্ক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(T_{1/2} = 0.693\\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(T_{1/2} = \\frac{0.693}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(T_{1/2} = \\frac{1}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(T_{1/2} = \\frac{\\lambda}{0.693}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T_{1/2}=\\frac{\\ln2}{\\lambda}=\\frac{0.693}{\\lambda}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-066",
+      "text": "\\(^{64}_{29}\\mathrm{Cu}\\) নিউক্লিয়াসের ব্যাসার্ধ কত? [\\(r_0\\) = 1.4fm]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.53Å",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "13.6 Å",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.6fm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "56fm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(r = r_0 A^{1/3} = 1.4 \\times (64)^{1/3} = 1.4 \\times 4 = 5.6\\) fm",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-067",
+      "text": "আলফা কণা পরীক্ষা থেকে কোনটির অস্তিত্ব পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউট্রিনো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিউক্লিয়াস",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আলফা কণার বিক্ষেপণ পরীক্ষায় (রাদারফোর্ড) অধিকাংশ কণা সোজা গেলেও কিছু কণা বড় কোণে বিক্ষিপ্ত হয়, যা থেকে পরমাণুর কেন্দ্রে ক্ষুদ্র ভারী ধনাত্মক নিউক্লিয়াসের অস্তিত্ব প্রমাণিত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-068",
+      "text": "একটি তেজস্ক্রিয় মৌলের অর্ধায়ু 1.8 দিন। 5.4 দিন পরে মৌলটির কত অংশ অক্ষত থাকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{7}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অর্ধায়ুর সংখ্যা \\(n = \\frac{5.4}{1.8} = 3\\)\nঅক্ষত অংশ \\(= \\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-069",
+      "text": "তেজস্ক্রিয় মৌলের অর্ধায়ু ও গড় আয়ুর মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tau = \\frac{1}{\\lambda}\\) ও \\(T_{1/2} = \\frac{0.693}{\\lambda}\\), তাই \\(T_{1/2} = 0.693\\tau\\), অর্থাৎ সমানুপাতিক।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-070",
+      "text": "তড়িৎ চৌম্বক বলের বাহক কণা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্লুঅন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্র্যাভিটন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় বলের বাহক কণা ফোটন। গ্লুঅন শক্তিশালী নিউক্লিয় বলের এবং গ্র্যাভিটন মহাকর্ষ বলের বাহক।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-071",
+      "text": "নিচের কোন রশ্মিটির আয়নায়ন ক্ষমতা বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক্স রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আলফা কণার চার্জ ও ভর বেশি, তাই এর আয়নায়ন ক্ষমতা সর্বাধিক (আলফা > বিটা > গামা)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-072",
+      "text": "হাইড্রোজেন পরমাণুর চতুর্থ কক্ষে ইলেকট্রনের বেগ দ্বিতীয় কক্ষের বেগের কত গুণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.707",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.414",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(v \\propto \\frac{1}{n}\\)। \\(\\frac{v_4}{v_2} = \\frac{2}{4} = 0.5\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-073",
+      "text": "কোনো তেজস্ক্রিয় পদার্থ 4000 বছরে \\(\\frac{1}{32}\\) অংশ অবশিষ্ট থাকলে এর অর্ধায়ু কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "400 yr",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "800 yr",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1690 yr",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2190 yr",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{1}{32} = \\left(\\frac{1}{2}\\right)^5\\), অতএব 5টি অর্ধায়ু = 4000 yr\n\\(T_{1/2} = \\frac{4000}{5} = 800\\) yr",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-074",
+      "text": "\\(^{14}_{7}\\mathrm{N} + ^{4}_{2}\\mathrm{He} \\rightarrow ^{16}_{8}\\mathrm{O} + 2\\,^{1}_{1}\\mathrm{H} + X\\) একটি নিউক্লিয় বিক্রিয়া। অজানা X হবে একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলফা কণা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিউট্রন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভরসংখ্যা: 14 + 4 = 18 = 16 + 2 + A, অতএব A = 0\nপ্রোটন সংখ্যা: 7 + 2 = 9 = 8 + 2 + Z, অতএব Z = −1\nভরসংখ্যা 0 ও চার্জ −1 বিশিষ্ট কণা ইলেকট্রন।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-075",
+      "text": "কোনটি ধনাত্মক আধানযুক্ত হিলিয়াম নিউক্লিয়াস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা কণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা কণা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক্স রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আলফা কণা দুটি প্রোটন ও দুটি নিউট্রনবিশিষ্ট ধনাত্মক আধানযুক্ত হিলিয়াম নিউক্লিয়াস (\\(^4_2\\mathrm{He}^{2+}\\))।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-076",
+      "text": "নিউক্লিয়াসের আয়তন এর ভরসংখ্যার কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(R = r_0 A^{1/3}\\), আয়তন \\(V = \\frac{4}{3}\\pi R^3 \\propto A\\), অর্থাৎ ভরসংখ্যার সমানুপাতিক।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-077",
+      "text": "বোরের পরমাণু মডেল অনুযায়ী ঘূর্ণনশীল ইলেকট্রনের উপর প্রযুক্ত কেন্দ্রমুখী বল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(F_c = \\frac{mv^2}{r}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(F_c = m\\omega^2 r\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(F_c = mr^2\\alpha\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(F_c = \\frac{mv^2}{r}\\)।\n(ii) সত্য: \\(v = \\omega r\\) বসিয়ে \\(F_c = m\\omega^2 r\\)।\n(iii) মিথ্যা: \\(mr^2\\alpha\\) টর্ক বোঝায়, কেন্দ্রমুখী বল নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-078",
+      "text": "কোন নিউক্লিয়াসটির প্রতি নিউক্লিয়ন বন্ধন শক্তি সর্বাধিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিলিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অক্সিজেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সোনা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আয়রন (Fe-56) এর প্রতি নিউক্লিয়ন বন্ধন শক্তি সর্বাধিক (প্রায় 8.8 MeV), তাই এটি সবচেয়ে স্থিতিশীল।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-079",
+      "text": "হাইড্রোজেনের n-তম কক্ষপথের ব্যাসার্ধের সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r_n = n \\times 0.53\\)Å",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r_n = n^2 \\times 0.53\\)Å",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(r_n = \\frac{1}{n} \\times 0.53\\)Å",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(r_n = \\frac{1}{n^2} \\times 0.53\\)Å",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বোরের তত্ত্ব অনুসারে \\(r_n = n^2 \\times 0.53\\) Å (\\(r_n \\propto n^2\\))।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-080",
+      "text": "নিচের কোন নিউক্লিয়াসে নিউট্রন ও প্রোটনের সংখ্যা সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(_{13}\\mathrm{Al}^{27}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(_{2}\\mathrm{He}^{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(_{3}\\mathrm{Li}^{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(_{1}\\mathrm{H}^{1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(_2\\mathrm{He}^4\\) এ প্রোটন = 2, নিউট্রন = 4 − 2 = 2, সমান। অন্যগুলোতে: Al এ 13 ও 14; Li এ 3 ও 4; H এ 1 ও 0।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-081",
+      "text": "\\(^{14}\\mathrm{N} + ^{4}\\mathrm{He} \\rightarrow ^{17}\\mathrm{O} + ^{1}_{1}X\\), বিক্রিয়ায় X কণাটি কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফোটন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভরসংখ্যা: 14 + 4 = 18 = 17 + 1; পারমাণবিক সংখ্যা: 7 + 2 = 9 = 8 + 1। তাই X = \\(^1_1\\mathrm{H}\\), অর্থাৎ প্রোটন।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-082",
+      "text": "তেজস্ক্রিয় পদার্থের অর্ধায়ু এর ক্ষয় ধ্রুবকের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T_{1/2} = \\frac{0.693}{\\lambda}\\), অর্থাৎ অর্ধায়ু ক্ষয় ধ্রুবকের ব্যস্তানুপাতিক।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-083",
+      "text": "তেজস্ক্রিয় বিকিরণের একখণ্ড রেডিয়ামের এক-পঞ্চমাংশে পরিণত হতে 5000 year সময় লাগে। রেডিয়াম খণ্ডটির ক্ষয় ধ্রুবক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.22 \\times 10^{-4}\\,\\mathrm{y^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.80 \\times 10^{-4}\\,\\mathrm{y^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.61 \\times 10^{-4}\\,\\mathrm{y^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.12 \\times 10^{-4}\\,\\mathrm{y^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(N = N_0 e^{-\\lambda t}\\); \\(\\frac{N_0}{5} = N_0 e^{-\\lambda \\times 5000}\\)\n\\(\\lambda = \\frac{\\ln 5}{5000} = \\frac{1.609}{5000} = 3.22 \\times 10^{-4}\\ \\mathrm{y^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-084",
+      "text": "পরমাণুর দ্বিতীয় বোর কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "hπ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2πh",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কৌণিক ভরবেগ \\(L = \\frac{nh}{2\\pi}\\); n = 2 হলে \\(L = \\frac{2h}{2\\pi} = \\frac{h}{\\pi}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-085",
+      "text": "\\(^{9}_{4}\\mathrm{Be} + ^{4}_{2}\\mathrm{He} \\rightarrow ^{12}_{6}\\mathrm{C} + x\\) নিউক্লিয় বিক্রিয়ায় গঠিত x কণাটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিউট্রন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভরসংখ্যা: 9 + 4 = 13 = 12 + A, তাই A = 1\nপারমাণবিক সংখ্যা: 4 + 2 = 6 = 6 + Z, তাই Z = 0\nভর 1 ও চার্জ 0 বিশিষ্ট কণা নিউট্রন।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-086",
+      "text": "একটি তেজস্ক্রিয় মৌলের ক্ষয়ধ্রুবক \\(6.93 \\times 10^{-3}\\,\\mathrm{Y^{-1}}\\), হলে, এর গড় আয়ু কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "144.3Y",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100 Y",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90.3 Y",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "80 Y",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গড় আয়ু \\(\\tau = \\frac{1}{\\lambda} = \\frac{1}{6.93 \\times 10^{-3}} = 144.3\\) Y",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-087",
+      "text": "হাইড্রোজেন পরমাণুর বেগ বনাম ব্যাসার্ধের লেখচিত্র—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-087-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-087-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-087-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-087-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v \\propto \\frac{1}{n}\\) এবং \\(r \\propto n^2\\), তাই \\(v \\propto \\frac{1}{\\sqrt{r}}\\)। r বাড়লে v কমে, লেখচিত্র নিম্নগামী বক্ররেখা যা ক্রমশ সমতল হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-088",
+      "text": "নিচের কোনটি তেজস্ক্রিয় মৌল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(^{14}_{6}\\mathrm{C}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(^{9}_{4}\\mathrm{Be}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(^{40}_{20}\\mathrm{Ca}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(^{39}_{19}\\mathrm{K}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(^{14}_{6}\\mathrm{C}\\) অস্থিতিশীল আইসোটোপ (নিউট্রন সংখ্যা বেশি), তাই তেজস্ক্রিয়। Be-9, Ca-40 ও K-39 স্থিতিশীল।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-089",
+      "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু T হলে 6T সময় পর অক্ষত পরমাণু সংখ্যা হবে প্রারম্ভিক পরমাণু সংখ্যার—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ছয় ভাগের একভাগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বত্রিশভাগের একভাগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কোনো পরমাণু অবশিষ্ট থাকবে না",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চৌষট্টিভাগের একভাগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "6T = 6টি অর্ধায়ু, অক্ষত অংশ \\(= \\left(\\frac{1}{2}\\right)^6 = \\frac{1}{64}\\), অর্থাৎ চৌষট্টিভাগের একভাগ।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-090",
+      "text": "যে বিক্রিয়ার ফলে সূর্যে শক্তি উৎপন্ন হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফিশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শৃঙ্খল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফিউশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাসায়নিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সূর্যে হাইড্রোজেন নিউক্লিয়াস মিলে হিলিয়াম গঠিত হয় (নিউক্লিয় ফিউশন), এতে প্রচুর শক্তি নির্গত হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-091",
+      "text": "কোনো তেজস্ক্রিয় পদার্থের গড় আয়ু (τ) ও অর্ধায়ু (\\(T_{1/2}\\)) এর মধ্যে সম্পর্কযুক্ত লেখচিত্র—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-091-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-091-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-091-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-091-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T_{1/2} = 0.693\\tau\\), অর্থাৎ \\(T_{1/2}\\) বনাম τ লেখচিত্র মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-092",
+      "text": "বোরের পরমাণু মডেল অনুসারে হাইড্রোজেন পরমাণুর ২য় কক্ষপথে আবর্তনকালে ইলেকট্রনের কক্ষীয় কৌণিক ভরবেগ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{h}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{2h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{4h}{\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(L = \\frac{nh}{2\\pi}\\), n = 2 হলে \\(L = \\frac{h}{\\pi}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-093",
+      "text": "\\(^{204}_{82}X \\rightarrow ^{204}_{Z}Y + \\beta\\)–রশ্মি। Z-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "80",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "81",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "82",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "83",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিটা ক্ষয়ে নিউক্লিয়াসের একটি নিউট্রন প্রোটনে পরিণত হয়, ভরসংখ্যা অপরিবর্তিত থাকে ও পারমাণবিক সংখ্যা 1 বাড়ে। \\(Z = 82 + 1 = 83\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

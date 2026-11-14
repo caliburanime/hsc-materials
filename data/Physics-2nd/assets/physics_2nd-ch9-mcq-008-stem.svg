@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 215" width="470" height="215">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="470" height="215" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<g transform="translate(-30,-12) scale(.62)" stroke-width="2.4"><path d="M120,355 L190,355" stroke-dasharray="22 14"/><path d="M210,355 L330,355" stroke-dasharray="22 14"/><path d="M425,355 L600,355" stroke-dasharray="22 14"/>
+<rect x="348" y="328" width="72" height="36"/><rect x="372" y="334" width="22" height="30"/>
+<path d="M381,326 L380,52" marker-end="url(#ah)"/>
+<path d="M382.1,326 L403,52" marker-end="url(#ah)"/>
+<path d="M383.4,326 L428,54" marker-end="url(#ah)"/>
+<path d="M380,326 Q318,232 190,128" marker-end="url(#ah)"/>
+<path d="M380,326 Q320,250 172,160" marker-end="url(#ah)"/>
+<path d="M380,326 Q330,270 165,180" marker-end="url(#ah)"/>
+<path d="M384,326 C400,230 515,215 545,350" marker-end="url(#ah)"/>
+<path d="M384,326 C410,255 535,240 570,350" marker-end="url(#ah)"/>
+<path d="M384,326 C420,275 555,268 592,350" marker-end="url(#ah)"/>
+<path d="M418,90 L448,90" marker-end="url(#ah)"/><text x="458" y="98" text-anchor="start" font-size="27" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">গামা রশ্মি</text>
+<path d="M300,268 L252,268" marker-end="url(#ah)"/><text x="245" y="278" text-anchor="end" font-size="27" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">আলফা রশ্মি</text>
+<path d="M540,250 L582,250" marker-end="url(#ah)"/><text x="592" y="260" text-anchor="start" font-size="27" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">বিটা রশ্মি</text></g>
+</g></svg>

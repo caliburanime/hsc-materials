@@ -1,0 +1,4080 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch3-mcq-001",
+      "text": "চিত্রের বর্তনীতে মোট প্রবাহমাত্রা হবে—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-001-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "15 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 A",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(10\\,\\Omega\\) শাখায় \\(1\\ \\mathrm{A}\\), তাই সমান্তরাল অংশের ভোল্টেজ \\(V = 1 \\times 10 = 10\\ \\mathrm{V}\\)।\n\\(5\\,\\Omega\\) শাখায় প্রবাহ \\(= \\frac{10}{5} = 2\\ \\mathrm{A}\\)।\nমোট প্রবাহ \\(= 2 + 1 = 3\\ \\mathrm{A}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-002",
+      "text": "30Ω রোধের একটি তারকে সমবাহু ত্রিভুজের আকারে বাঁকানো হল, যে কোনো বাহুর দুই প্রান্তের মধ্যে তুল্যরোধ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6.66Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30Ω",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি বাহুর রোধ \\(\\frac{30}{3} = 10\\,\\Omega\\)। যেকোনো দুই শীর্ষের মধ্যে একটি বাহু (\\(10\\,\\Omega\\)) ও অপর দুই বাহুর শ্রেণি (\\(20\\,\\Omega\\)) সমান্তরালে থাকে।\n\\(R = \\frac{10 \\times 20}{10 + 20} = 6.67\\,\\Omega\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-003",
+      "text": "বিজ্ঞানী জুলের তাপীয় ক্রিয়ার সূত্র—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(H \\propto I^2\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(H \\propto R^2\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(H \\propto t\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জুলের সূত্র অনুযায়ী \\(H = I^2Rt\\), তাই \\(H \\propto I^2\\) এবং \\(H \\propto t\\) সঠিক। \\(H \\propto R\\) (\\(R^2\\) নয়), তাই (ii) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-004",
+      "text": "তোমার বাসার বিদ্যুৎ লাইনের সাথে যুক্ত 100W এর একটি বাতি সরিয়ে 25W এর একটি বাতি যুক্ত করলে কী হবে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিদ্যুৎ খরচ কমবে"
+        },
+        {
+          "label": "ii",
+          "text": "জাতীয় গ্রিডে উপকার হবে"
+        },
+        {
+          "label": "iii",
+          "text": "লোডশেডিং কমাতে সহযোগিতা হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কম ক্ষমতার বাতি কম বিদ্যুৎ খরচ করে (i), ফলে জাতীয় গ্রিডের উপর চাপ কমে (ii) এবং লোডশেডিং কমাতে সহায়তা হয় (iii)। তিনটি বিবৃতিই সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-005",
+      "text": "200V–40W একটি বাতির মধ্যে দিয়ে কী পরিমাণ তড়িৎ প্রবাহিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "8000A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.2A",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(P = VI\\) থেকে \\(I = \\frac{P}{V} = \\frac{40}{200} = 0.2\\ \\mathrm{A}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-006",
+      "text": "কোনো পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল দ্বিগুণ করলে রোধের কীরূপ পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্বিগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চারগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্ধেক হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক-চতুর্থাংশ হবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(R = \\rho\\frac{l}{A}\\), তাই \\(R \\propto \\frac{1}{A}\\)। ক্ষেত্রফল দ্বিগুণ করলে রোধ অর্ধেক হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-007",
+      "text": "রোধের বিপরীত রাশি নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিবাহিতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপেক্ষিক রোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উষ্ণতা গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রবাহ ঘনত্ব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রোধের অন্যোন্যক (\\(\\frac{1}{R}\\)) হলো পরিবাহিতা (কন্ডাক্ট্যান্স)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-008",
+      "text": "নিরাপত্তা ফিউজ এর বৈশিষ্ট্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কম রোধ এবং উচ্চ গলনাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চ রোধ এবং উচ্চ গলনাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চ রোধ এবং কম গলনাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কম রোধ এবং কম গলনাঙ্ক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ফিউজ তার কম গলনাঙ্কের হয়, যাতে অতিরিক্ত প্রবাহে দ্রুত গলে বর্তনী ছিন্ন করে। বর্তনীর স্বাভাবিক প্রবাহ যেন বাধাগ্রস্ত না হয় সেজন্য এর রোধও কম রাখা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-009",
+      "text": "20Ω রোধের একটি তামার তারকে টেনে এমনভাবে লম্বা করা হলো যে তারের দৈর্ঘ্য 3 গুণ এবং প্রস্থচ্ছেদের ক্ষেত্রফল \\(\\frac{1}{3}\\) গুণ হয়। তারের পরিবর্তিত রোধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "20Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "60Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "180Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "540Ω",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়তন অপরিবর্তিত থাকে। নতুন রোধ:\n\\(R' = \\rho\\frac{3l}{A/3} = 9\\rho\\frac{l}{A} = 9R\\)\n\\(R' = 9 \\times 20 = 180\\,\\Omega\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-010",
+      "text": "ক্ষমতার একক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{A^2\\Omega}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{V^2\\Omega^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{VA^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(P = I^2R\\) এর একক \\(\\mathrm{A^2\\Omega}\\) এবং \\(P = \\frac{V^2}{R}\\) এর একক \\(\\mathrm{V^2\\Omega^{-1}}\\), উভয়ই ওয়াট। \\(\\mathrm{VA^{-1}}\\) হলো রোধের একক (ওহম), ক্ষমতার নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-011",
+      "text": "নিম্নের কোন প্রতীক রিয়োস্টেট এর নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-011-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-011-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-011-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-011-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রিয়োস্ট্যাটে পরিবর্তনযোগ্য রোধ থাকে, তাই এর প্রতীকে তীর (সরণশীল স্পর্শক বা পরিবর্তনশীলতা) থাকে। (খ) এ তীরহীন সাধারণ স্থির রোধের প্রতীক, তাই এটি রিয়োস্ট্যাটের নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-012",
+      "text": "প্রবাহ ঘনত্বের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Am",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Am^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Am^{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Am^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রবাহ ঘনত্ব \\(J = \\frac{I}{A}\\), তাই একক \\(\\mathrm{Am^{-2}}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-013",
+      "text": "একটি তারের রোধ 16Ω, এটাকে সমান দুইভাগে বিভক্ত করে সমান্তরালে যুক্ত করা হলে রোধ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রতি অংশের রোধ \\(= \\frac{16}{2} = 8\\,\\Omega\\)।\nসমান্তরালে \\(R = \\frac{8 \\times 8}{8 + 8} = 4\\,\\Omega\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-014",
+      "text": "নিচের চিত্রে A ও B এর মধ্যবর্তী তুল্য রোধ কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-014-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{R}{2}\\,\\Omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "RΩ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3RΩ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3R}{7}\\,\\Omega\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্রিজটি সুষম: \\(A\\) থেকে \\(n_2\\) ও \\(n_3\\) এবং \\(n_2\\) ও \\(n_3\\) থেকে \\(B\\) পর্যন্ত প্রতিটি রোধ \\(R\\)। তাই \\(n_2\\) ও \\(n_3\\) এর বিভব সমান এবং মাঝের রোধ দিয়ে প্রবাহ নেই।\nদুটি শাখার প্রতিটির রোধ \\(R + R = 2R\\), সমান্তরালে:\n\\(R_{eq} = \\frac{2R \\times 2R}{2R + 2R} = R\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-015",
+      "text": "বর্তনীর তুল্য রোধ—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-015-stem.svg",
+      "group": "physics_2nd-2025-DIB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "3.2Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.3Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.3Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.2Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(2\\,\\Omega\\) ও \\(3\\,\\Omega\\) সমান্তরালে: \\(\\frac{2 \\times 3}{2+3} = 1.2\\,\\Omega\\)।\nএর সাথে \\(2\\,\\Omega\\) শ্রেণিতে: \\(R = 1.2 + 2 = 3.2\\,\\Omega\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-016",
+      "text": "উক্ত বর্তনীতে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-015-stem.svg",
+      "group": "physics_2nd-2025-DIB-14-15",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(V_{MN} = V_{YZ}\\) হবে"
+        },
+        {
+          "label": "ii",
+          "text": "\\(I_2 < I_1\\) হবে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(V_{YZ} > V_{XY}\\) হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) \\(V_{MN} = V_{XY}\\) (সমান্তরাল অংশ), \\(V_{YZ}\\) নয়। মোট প্রবাহ \\(I = \\frac{8}{3.2} = 2.5\\ \\mathrm{A}\\); \\(V_{XY} = 2.5 \\times 1.2 = 3\\ \\mathrm{V}\\), \\(V_{YZ} = 2.5 \\times 2 = 5\\ \\mathrm{V}\\), তাই \\(V_{MN} \\ne V_{YZ}\\) — মিথ্যা।\n(ii) একই বিভব পার্থক্যে \\(R\\) বেশি হলে প্রবাহ কম, তাই \\(I_2 < I_1\\) — সত্য।\n(iii) \\(V_{YZ} = 5\\ \\mathrm{V} > V_{XY} = 3\\ \\mathrm{V}\\) — সত্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-017",
+      "text": "সান্ট হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান্তরালে যুক্ত উচ্চ রোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমান্তরালে যুক্ত নিম্ন রোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রেণিতে যুক্ত উচ্চ রোধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রেণিতে যুক্ত নিম্ন রোধ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গ্যালভানোমিটারের সমান্তরালে যুক্ত স্বল্প মানের রোধকে সান্ট বলে। এর ফলে অধিকাংশ প্রবাহ সান্টের মধ্য দিয়ে যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-018",
+      "text": "পোস্ট অফিস বক্স যে কাজে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পোস্ট অফিসে বিল সংগ্রহে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অজানা রোধ নির্ণয়ে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাড়ন বেগ নির্ণয়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রান্তীয় ত্রুটি নির্ণয়ে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পোস্ট অফিস বক্স হুইটস্টোন ব্রিজ নীতিতে কাজ করে এবং এটি দিয়ে কোনো পরিবাহীর অজানা রোধ নির্ণয় করা হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-019",
+      "text": "আপেক্ষিক রোধের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\Omega^{-1}\\mathrm{m}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\Omega\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Ω m",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\rho = \\frac{RA}{l}\\) থেকে একক = \\(\\Omega \\times \\mathrm{m^2}/\\mathrm{m} = \\Omega\\,\\mathrm{m}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-020",
+      "text": "নিচের কোনটি জুলের তাপীয় ক্রিয়ার ১ম সূত্রের লেখচিত্র হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-020-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-020-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-020-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-020-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জুলের ১ম সূত্র অনুযায়ী \\(H \\propto I^2\\) (R ও t ধ্রুব)। তাই H বনাম I লেখচিত্র মূলবিন্দুগামী অধিবৃত্ত, যা (ক)-তে দেখানো হয়েছে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-021",
+      "text": "কোনো বাড়ির মেইন মিটারে 220V-100Ω লেখা আছে। বাড়িতে 44W এর কতটি বাতি নিরাপত্তার সাথে ব্যবহার করা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "11",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "22",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "44",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "500",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সর্বোচ্চ ক্ষমতা \\(P = \\frac{V^2}{R} = \\frac{220^2}{100} = 484\\ \\mathrm{W}\\)\nবাতির সংখ্যা \\(= \\frac{484}{44} = 11\\) টি।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-022",
+      "text": "নিচের কোন সূত্রটি জটিল বর্তনীর ক্ষেত্রে প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কুলম্বের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাউসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কির্শফের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওহমের সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জটিল বর্তনীর বিশ্লেষণে কির্শফের তড়িৎপ্রবাহ ও ভোল্টেজ সূত্র প্রযোজ্য। ওহমের সূত্র সরল বর্তনীর জন্য।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-023",
+      "text": "চিত্রে—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-023-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "S = 2.02Ω"
+        },
+        {
+          "label": "ii",
+          "text": "G এবং S এর দু'প্রান্তে বিভব পার্থক্য সমান নয়"
+        },
+        {
+          "label": "iii",
+          "text": "শান্টের গুণক 100"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(S = \\frac{I_g G}{I_s} = \\frac{1\\times 200}{99} = 2.02\\,\\Omega\\)।\n(ii) মিথ্যা: G ও S সমান্তরালে যুক্ত, তাই উভয়ের দু'প্রান্তে বিভব পার্থক্য সমান।\n(iii) সত্য: শান্টের গুণক \\(= \\frac{I}{I_g} = \\frac{100}{1} = 100\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-024",
+      "text": "উদ্দীপকের বর্তনী অনুসারে কোনটি সঠিক?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-024-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-024-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-024-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-024-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-024-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিভব V ধ্রুব হলে \\(H = \\frac{V^2 t}{R}\\), অর্থাৎ \\(H \\propto \\frac{1}{R}\\)। তাই H বনাম R লেখচিত্র হ্রাসমান পরাবৃত্ত (আয়তাকার অধিবৃত্ত), যা (খ)-তে দেখানো হয়েছে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-025",
+      "text": "নিচের কোন পদার্থটির উষ্ণতা সহগের মান ঋণাত্মক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্লাটিনাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যালুমিনিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জার্মেনিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জার্মেনিয়াম অর্ধপরিবাহী, তাই উষ্ণতা বাড়লে এর রোধ কমে; ফলে উষ্ণতা সহগ ঋণাত্মক। তামা, প্লাটিনাম ও অ্যালুমিনিয়াম ধাতু, এদের সহগ ধনাত্মক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-026",
+      "text": "উদ্দীপকের তুল্য রোধ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-026-stem.svg",
+      "group": "physics_2nd-2025-RB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "13.84Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.51Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.072Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.23Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "5Ω রোধের দু'প্রান্তের বিভব সমান (ব্রিজ সাম্যাবস্থা), তাই এতে প্রবাহ নেই। বাকি অংশ:\nL-M-R পথ: \\(20 + 40 = 60\\,\\Omega\\)\nL-N-R পথ: \\((2+4) + 12 = 18\\,\\Omega\\)\nতুল্য রোধ \\(= \\frac{60\\times 18}{60+18} = 13.84\\,\\Omega\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-027",
+      "text": "উদ্দীপক অনুযায়ী—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-027-fig.svg",
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-026-stem.svg",
+      "group": "physics_2nd-2025-RB-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অ্যামিটারের সর্বোচ্চ ও সর্বনিম্ন পাঠের অনুপাত 1.589 : 0.144"
+        },
+        {
+          "label": "ii",
+          "text": "উদ্দীপকের তড়িৎ প্রবাহ দ্বিগুণ করলে উৎপন্ন তাপ 2 গুণ হবে"
+        },
+        {
+          "label": "iii",
+          "text": "উদ্দীপক চিত্রের H–V লেখচিত্র মেনে চলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(R = 13.84\\,\\Omega\\); \\(I_{max} = \\frac{22}{13.84} = 1.589\\) A, \\(I_{min} = \\frac{2}{13.84} = 0.144\\) A।\n(ii) মিথ্যা: \\(H = I^2Rt\\), প্রবাহ দ্বিগুণ করলে তাপ ৪ গুণ হয়।\n(iii) সত্য: \\(H = \\frac{V^2 t}{R}\\), তাই H–V লেখচিত্র অধিবৃত্ত।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-028",
+      "text": "\\(I_1\\)-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-028-stem.svg",
+      "group": "physics_2nd-2025-SB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.72 Amp",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.43 Amp",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.14 Amp",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6.00 Amp",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল তুল্য রোধ \\(= \\frac{2\\times 4}{2+4} = \\frac{4}{3}\\,\\Omega\\)\nমোট প্রবাহ \\(I = \\frac{12}{\\frac{4}{3}+1} = \\frac{36}{7} = 5.14\\) A\n\\(I_1 = I\\times\\frac{R_2}{R_1+R_2} = 5.14\\times\\frac{4}{6} = 3.43\\) A",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-029",
+      "text": "উদ্দীপকের বর্তনীতে t-সময় ধরে তড়িৎ প্রবাহিত করলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-028-stem.svg",
+      "group": "physics_2nd-2025-SB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "রোধ দুটিতে ভিন্ন মানের তড়িৎ প্রবাহ হবে"
+        },
+        {
+          "label": "ii",
+          "text": "উভয় রোধের প্রান্তের বিভব সমান হবে"
+        },
+        {
+          "label": "iii",
+          "text": "কম মানের রোধ \\(R_1\\)-এ কম তাপ উৎপন্ন হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: সমান্তরালে বিভব সমান, তাই \\(I = \\frac{V}{R}\\) অনুযায়ী ভিন্ন রোধে প্রবাহ ভিন্ন।\n(ii) সত্য: সমান্তরাল সংযোগে উভয় রোধের প্রান্তে বিভব সমান।\n(iii) মিথ্যা: \\(H = \\frac{V^2 t}{R}\\), বিভব সমান হওয়ায় কম রোধ \\(R_1\\)-এ বেশি তাপ উৎপন্ন হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-030",
+      "text": "নিচের কোনটির রোধের উষ্ণতা সহগ ঋণাত্মক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিলভার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কপার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সিলিকন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গোল্ড",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সিলিকন অর্ধপরিবাহী; উষ্ণতা বাড়লে এর রোধ কমে, তাই রোধের উষ্ণতা সহগ ঋণাত্মক। সিলভার, কপার ও গোল্ড ধাতু, এদের সহগ ধনাত্মক।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-031",
+      "text": "তাপমাত্রা অপরিবর্তিত রেখে একটি তারকে টেনে এর দৈর্ঘ্য দ্বিগুণ করলে এর আপেক্ষিক রোধ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চারগুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্ধেক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক রোধ পদার্থের উপাদান ও উষ্ণতার উপর নির্ভর করে, দৈর্ঘ্য বা প্রস্থচ্ছেদের উপর নয়। তাই তার টেনে লম্বা করলেও তা অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-032",
+      "text": "একটি তারের 50°C তাপমাত্রায় রোধ 5Ω এবং 100°C তাপমাত্রায় রোধ 6Ω। 0°C তাপমাত্রায় তারটির রোধ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4Ω",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(R_t = R_0(1+\\alpha t)\\) থেকে \\(R_{100} - R_{50} = R_0\\alpha\\times 50\\), অর্থাৎ \\(R_0\\alpha\\times 50 = 1\\)\n\\(R_{50} = R_0 + R_0\\alpha\\times 50 \\Rightarrow 5 = R_0 + 1 \\Rightarrow R_0 = 4\\,\\Omega\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-033",
+      "text": "শ্রেণি সমবায়ে যুক্ত তিনটি রোধের সম্পর্ক যদি \\(R_1 > R_2 > R_3\\) হয়, তবে তাদের মধ্য দিয়ে তড়িৎ প্রবাহের সম্পর্ক কী? [রোধ ৩টির মধ্য দিয়ে প্রবাহ মাত্রা \\(I_1, I_2, I_3\\)]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(I_1 = I_2 = I_3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(I_1 > I_2 > I_3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(I_1 < I_2 < I_3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I_1 > I_3 > I_2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শ্রেণি সমবায়ে সব রোধের মধ্য দিয়ে একই প্রবাহ চলে, তাই \\(I_1 = I_2 = I_3\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-034",
+      "text": "চিত্র-১ এ প্রদর্শিত বর্তনীতে 9Ω রোধটিতে ব্যয়িত ক্ষমতা 36W হলে 2Ω রোধটির দুই প্রান্তের বিভব পার্থক্য নিচের কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-034-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "2V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10V",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "9Ω-এ \\(P = I^2R \\Rightarrow I^2 = 4 \\Rightarrow I = 2\\,\\mathrm{A}\\), সমান্তরাল অংশের বিভব \\(= 2\\times 9 = 18\\,\\mathrm{V}\\)\n6Ω-এ প্রবাহ \\(= \\frac{18}{6} = 3\\,\\mathrm{A}\\), মোট প্রবাহ \\(= 5\\,\\mathrm{A}\\)\n2Ω-এর বিভব পার্থক্য \\(= 5\\times 2 = 10\\,\\mathrm{V}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-035",
+      "text": "নিচের কোন পদার্থের রোধের উষ্ণতা গুণাঙ্ক ঋণাত্মক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যালুমিনিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জার্মেনিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ম্যাঙ্গানিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টাংস্টেন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জার্মেনিয়াম অর্ধপরিবাহী; তাপমাত্রা বাড়লে বাহক বাড়ে ও রোধ কমে, তাই রোধের উষ্ণতা গুণাঙ্ক ঋণাত্মক। ধাতুগুলোর গুণাঙ্ক ধনাত্মক (ম্যাঙ্গানিনের প্রায় শূন্য)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-036",
+      "text": "কোষের অভ্যন্তরীণ রোধ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কোষে ব্যবহৃত তরলের উপর নির্ভর করে"
+        },
+        {
+          "label": "ii",
+          "text": "কম হলে অধিক তড়িৎ প্রবাহ পাওয়া যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "সুপ্ত বিভব সৃষ্টি করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: অভ্যন্তরীণ রোধ তড়িৎ বিশ্লেষ্যের ধরন, দূরত্ব ও ক্ষেত্রফলের উপর নির্ভর করে।\n(ii) সত্য: রোধ কম হলে অধিক প্রবাহ পাওয়া যায় (\\(I = \\frac{E}{R+r}\\))।\n(iii) সত্য: অভ্যন্তরীণ রোধে বিভব পতন (হারানো ভোল্ট) ঘটে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-037",
+      "text": "বর্তনীতে \\(I_1\\)-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-037-stem.svg",
+      "group": "physics_2nd-2023-CUB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.27A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.30A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.55A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.60A",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মধ্য শাখার রোধ \\(5+5 = 10\\,\\Omega\\), তাই বাহ্যিক রোধ \\(= \\frac{10\\times 10}{20} = 5\\,\\Omega\\)\n\\(I = \\frac{E}{R+r} = \\frac{3}{5.5} \\approx 0.545\\,\\mathrm{A}\\)\nটার্মিনাল ভোল্ট \\(= 0.545\\times 5 \\approx 2.727\\,\\mathrm{V}\\)\n\\(I_1 = \\frac{2.727}{10} \\approx 0.27\\,\\mathrm{A}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-038",
+      "text": "কোষে হারানো ভোল্ট কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-037-stem.svg",
+      "group": "physics_2nd-2023-CUB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "5.5V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.02V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.75V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.27V",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(I = \\frac{3}{5.5} \\approx 0.545\\,\\mathrm{A}\\)\nহারানো ভোল্ট \\(= Ir = 0.545\\times 0.5 \\approx 0.27\\,\\mathrm{V}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-039",
+      "text": "অ্যাম্পিয়ার ঘণ্টা কীসের একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িৎ আধান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অ্যাম্পিয়ার ঘণ্টা \\(= \\mathrm{A}\\times \\mathrm{h}\\), যা \\(I\\times t = Q\\) অর্থাৎ তড়িৎ আধানের একক।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-040",
+      "text": "কোন দুটি সূত্র চল তড়িৎ এর ক্ষেত্রে প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কুলম্ব ও ওহম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাউস ও কার্শফ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুলম্ব ও গাউস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওহম ও কার্শফ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ওহমের সূত্র ও কার্শফের সূত্র চল তড়িতের ক্ষেত্রে প্রযোজ্য; কুলম্ব ও গাউসের সূত্র স্থির তড়িতের।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-041",
+      "text": "1.8Ω রোধের একটি অ্যামিটার 2A তড়িৎ প্রবাহ গ্রহণ করতে পারে। 20A তড়িৎ প্রবাহ মাপার জন্য কত রোধের শান্ট ব্যবহার করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.08Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.1Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.2Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5Ω",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(S = \\frac{I_gG}{I - I_g} = \\frac{2\\times 1.8}{20-2} = \\frac{3.6}{18} = 0.2\\,\\Omega\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-042",
+      "text": "গ্যালভানোমিটারের ভিতর দিয়ে প্রবাহিত তড়িৎ শূন্য হবে, যখন এর সাথে সংযুক্ত সান্ট (S) এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "S = 0Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "S = ∞Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "S = 0.1Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "S = 1Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শান্টের রোধ শূন্য হলে গ্যালভানোমিটার শর্ট-সার্কিট হয় এবং সম্পূর্ণ প্রবাহ শান্টের মধ্য দিয়ে যায়, তাই গ্যালভানোমিটারে প্রবাহ শূন্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-043",
+      "text": "নিচের কোনটি চার্জ প্রবাহ হারের একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কুলম্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভোল্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যাম্পিয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সিমেন্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চার্জ প্রবাহের হার \\(I = \\frac{Q}{t}\\) অর্থাৎ তড়িৎ প্রবাহ, যার একক অ্যাম্পিয়ার।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-044",
+      "text": "বর্তনীতে তড়িৎ প্রবাহের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-044-stem.svg",
+      "group": "physics_2nd-2023-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.904 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.987 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.493 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.110 A",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কোষ দুটি শ্রেণিতে সহায়কভাবে যুক্ত: মোট তড়িচ্চালক বল \\(= 8\\,\\mathrm{V}\\), অভ্যন্তরীণ রোধ \\(= 0.2\\,\\Omega\\)\n\\(I = \\frac{8}{4+0.2} \\approx 1.905\\,\\mathrm{A}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-045",
+      "text": "যদি বর্তনীর 'A' কোষটিকে 'B' কোষের সাথে বিপরীতক্রমে সংযোগ দেয়া হয় তাহলে বর্তনীর মোট তড়িচ্চালক বল—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-044-stem.svg",
+      "group": "physics_2nd-2023-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাড়বে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কমবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শূন্য হবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিপরীতক্রমে যুক্ত করলে তড়িচ্চালক বল \\(4 - 4 = 0\\) হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-046",
+      "text": "অ্যাম্পিয়ার-সেকেন্ড কীসের একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রবাহ ঘনত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িৎ আধান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অ্যাম্পিয়ার-সেকেন্ড \\(= I\\times t = Q\\), তাই এটি তড়িৎ আধানের একক।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-047",
+      "text": "বর্তনীর তুল্যরোধ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-047-stem.svg",
+      "group": "physics_2nd-2023-RB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{17}{20}\\,\\Omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{20}{17}\\,\\Omega\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{47}{20}\\,\\Omega\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{34}{7}\\,\\Omega\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "10Ω ও 4Ω সমান্তরালে \\(\\frac{10\\times 4}{14} = \\frac{20}{7}\\,\\Omega\\)\nশ্রেণিতে 2Ω যুক্ত করে \\(R = \\frac{20}{7}+2 = \\frac{34}{7}\\,\\Omega\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-048",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-047-stem.svg",
+      "group": "physics_2nd-2023-RB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(I > I_1 > I_2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(I > I_2 > I_1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(I_1 > I > I_2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I_2 > I_1 > I\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মোট প্রবাহ \\(I\\) দুই শাখায় ভাগ হয়, তাই \\(I > I_1,\\, I_2\\)। কম রোধের (4Ω) শাখায় বেশি প্রবাহ যায়, তাই \\(I_1 > I_2\\); অর্থাৎ \\(I > I_1 > I_2\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-049",
+      "text": "তড়িৎ বর্তনী সংক্রান্ত কার্শফের সূত্রগুলোর মধ্যে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "১ম সূত্রটি চার্জের সংরক্ষণ নীতি প্রকাশ করে"
+        },
+        {
+          "label": "ii",
+          "text": "২য় সূত্রটি বিদ্যুৎ শক্তির সংরক্ষণ নীতি প্রকাশ করে"
+        },
+        {
+          "label": "iii",
+          "text": "২য় সূত্রটি চার্জের সংরক্ষণ নীতি প্রকাশ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কার্শফের ১ম সূত্র চার্জের সংরক্ষণ নীতি এবং ২য় সূত্র শক্তির সংরক্ষণ নীতির উপর প্রতিষ্ঠিত; (i) ও (ii) সত্য, (iii) মিথ্যা।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-050",
+      "text": "নিচের কোনটি রোধ পরিমাপে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভোল্টমিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিটার ব্রীজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্ফেরোমিটার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মিটার ব্রীজ হুইটস্টোন ব্রীজের নীতিতে অজানা রোধ পরিমাপ করে; অ্যামিটার ও ভোল্টমিটার যথাক্রমে প্রবাহ ও বিভব পার্থক্য মাপে।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-051",
+      "text": "পরিবাহীতার একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{AV^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{VA^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{A^{-1}V^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীতা = রোধের অন্যোন্যক \\(G=\\frac{1}{R}=\\frac{I}{V}\\)। তাই একক \\(\\mathrm{A/V = AV^{-1}}\\) (সিমেন্স)। উত্তর (ক)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-052",
+      "text": "একটি পদার্থের আপেক্ষিক রোধ \\(1.8 \\times 10^{-8}\\,\\Omega\\)m। 3mm ব্যাসের কত দৈর্ঘ্যের তারের রোধ 12Ω হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.12 \\times 10^{-4}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.71 \\times 10^{3}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.88 \\times 10^{4}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.88 \\times 10^{10}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(R=\\rho\\frac{L}{A}\\) থেকে \\(L=\\frac{RA}{\\rho}\\)\n\\(A=\\pi r^2=3.14\\times(1.5\\times10^{-3})^2=7.07\\times10^{-6}\\,\\mathrm{m^2}\\)\n\\(L=\\frac{12\\times7.07\\times10^{-6}}{1.8\\times10^{-8}}=4.71\\times10^{3}\\) m",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-053",
+      "text": "একটি বৈদ্যুতিক বাতির দুই প্রান্তের বিভব-পার্থক্য 2% হ্রাস পেলে বাতির ক্ষমতা কত শতাংশ হ্রাস পাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(P=\\frac{V^2}{R}\\) অর্থাৎ \\(P\\propto V^2\\)।\nনতুন ক্ষমতা \\(=(0.98)^2P=0.9604P\\)\nহ্রাস \\(\\approx 4\\%\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-054",
+      "text": "অ্যাম্পিয়ার-ঘণ্টা কীসের একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তড়িৎ ফ্লাক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িৎ আধান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "A·h = (A·s)×3600, অর্থাৎ আধান = প্রবাহ × সময়। তাই এটি তড়িৎ আধানের একক।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-055",
+      "text": "একটি 220 V – 44 W বাল্বের মধ্য দিয়ে কী পরিমাণ তড়িৎ প্রবাহিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.2 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.3 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.44 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5 A",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(I=\\frac{P}{V}=\\frac{44}{220}=0.2\\) A",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-056",
+      "text": "চিত্রের A ও B বিন্দুর মধ্যকার তড়িচ্চালক শক্তি কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-056-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "27 V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9 V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6 V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 V",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমান তড়িচ্চালক শক্তির কোষগুলো সমান্তরালে যুক্ত থাকলে সমতুল্য তড়িচ্চালক শক্তি একটি কোষের তড়িচ্চালক শক্তির সমান, অর্থাৎ 3 V।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-057",
+      "text": "প্রবাহ ঘনত্বের এস.আই একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Am",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Am^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Am^{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{A^{-1}m^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রবাহ ঘনত্ব \\(J=\\frac{I}{A}\\), তাই একক \\(\\mathrm{A/m^2=Am^{-2}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-058",
+      "text": "চিত্রে হুইটস্টোন ব্রিজের নিস্পন্দ অবস্থার শর্ত কী?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-058-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(V_B = V_D\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(V_A = V_D\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(V_C = V_B\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(V_D = V_C\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হুইটস্টোন ব্রিজ নিস্পন্দ হলে গ্যালভানোমিটারের দুই প্রান্ত B ও D বিন্দুর বিভব সমান হয়, অর্থাৎ \\(V_B=V_D\\) এবং গ্যালভানোমিটারে প্রবাহ শূন্য থাকে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-059",
+      "text": "P ও Q বিন্দুর তুল্য রোধ কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-059-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "P ও Q সরাসরি একটি সরু তার দ্বারা যুক্ত, অর্থাৎ 2Ω রোধ দুটি শূন্য রোধের তারের সাথে সমান্তরালে (শর্ট-সার্কিট)। তাই তুল্য রোধ 0Ω।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-060",
+      "text": "যদি গ্যালভানোমিটার ও শান্টের রোধ যথাক্রমে 200Ω এবং 5Ω হয় তবে শান্টের গুণক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{205}{200}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{205}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{5}{205}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{200}{205}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শান্টের গুণক \\(m=\\frac{G+S}{S}=\\frac{200+5}{5}=\\frac{205}{5}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-061",
+      "text": "একটি তামার তারের রোধ 2R। আয়তন সমান রেখে তারটির দৈর্ঘ্য দ্বিগুণ করা হলে, পরিবর্তিত রোধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "R",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2R",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4R",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8R",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আয়তন স্থির থাকলে \\(R\\propto L^2\\)।\nদৈর্ঘ্য দ্বিগুণ হলে রোধ \\(2^2=4\\) গুণ হয়। নতুন রোধ \\(=4\\times2R=8R\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-062",
+      "text": "ভোল্টমিটার একটি উচ্চরোধ বিশিষ্ট—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্যালভানোমিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পটেনসিওমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রান্সফরমার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভোল্টমিটার তৈরি করতে গ্যালভানোমিটারের সাথে শ্রেণিতে উচ্চ রোধ যুক্ত করা হয়, তাই ভোল্টমিটার উচ্চ রোধযুক্ত গ্যালভানোমিটার।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-063",
+      "text": "শান্ট মূলত কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ পরিবাহিতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্যালভানোমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোল্টেজ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শান্ট হলো গ্যালভানোমিটারের সাথে সমান্তরালে যুক্ত অল্প মানের একটি রোধ।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-064",
+      "text": "নিচের কোনটির রোধের উষ্ণতা গুণক ঋণাত্মক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Al",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Fe",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Ge",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অর্ধপরিবাহী (Ge) এর তাপমাত্রা বাড়লে রোধ কমে, তাই এর রোধের উষ্ণতা গুণাঙ্ক ঋণাত্মক। Al, Cu, Fe ধাতু বলে এদের গুণাঙ্ক ধনাত্মক।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-065",
+      "text": "বর্তনীতে মূলপ্রবাহ (i) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-065-stem.svg",
+      "group": "physics_2nd-2023-SB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.88 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.14 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.33 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.60 A",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কোষদ্বয় শ্রেণিতে যুক্ত: মোট তড়িচ্চালক শক্তি \\(=8+8=16\\) V, মোট অভ্যন্তরীণ রোধ \\(=2+2=4\\,\\Omega\\)\n\\(i=\\frac{16}{4+10}=\\frac{16}{14}=1.14\\) A",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-066",
+      "text": "বর্তনীর কোষদ্বয় সমান্তরালে যুক্ত করলে কোষের মোট অভ্যন্তরীণ রোধ কত পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-065-stem.svg",
+      "group": "physics_2nd-2023-SB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14 Ω",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান্তরালে যুক্ত দুটি সমান রোধ \\(r=2\\,\\Omega\\) এর তুল্য রোধ \\(=\\frac{2\\times2}{2+2}=1\\,\\Omega\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-067",
+      "text": "বর্তনীটিতে শুধু রোধের মান পরিবর্তন করা হলে উৎপন্ন তাপের পরিবর্তন নিচের কোন লেখচিত্রটি সমর্থন করে?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-067-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-067-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-067-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-067-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-067-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপন্ন তাপ \\(H=I^2Rt=\\frac{E^2}{R}t\\) (\\(E,t\\) স্থির); \\(R\\) বাড়লে \\(H\\) কমে, অর্থাৎ \\(H\\propto\\frac1R\\) — (গ)-এর লেখ।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-068",
+      "text": "মিটার ব্রিজের সাহায্যে কোনটি নির্ণয় করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তড়িৎ বিভব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িচ্চালক বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মিটার ব্রিজ হুইটস্টোন ব্রিজের নীতিতে কাজ করে এবং এর সাহায্যে অজানা রোধ নির্ণয় করা হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-069",
+      "text": "একটি তারকে কেটে দুই ভাগ করলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রোধ একই থাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপেক্ষিক রোধ একই থাকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রোধ পূর্বের রোধের এক-চতুর্থাংশ হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আপেক্ষিক রোধ অর্ধেক হয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রোধ \\(R=\\rho\\frac{l}{A}\\); দৈর্ঘ্য অর্ধেক হলে রোধও অর্ধেক হয়। আপেক্ষিক রোধ \\(\\rho\\) পদার্থের ধর্ম, তাই অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-070",
+      "text": "বর্তনীর তুল্যরোধ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-070-stem.svg",
+      "group": "physics_2nd-2024-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.04 Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "22.50 Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "26.67 Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "27.50 Ω",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac PQ=\\frac{10}{20}=\\frac12=\\frac RS=\\frac{30}{60}\\), ব্রিজটি সুষম, তাই 5 Ω রোধে প্রবাহ নেই।\n\\(P+Q=30\\,\\Omega\\) ও \\(R+S=90\\,\\Omega\\) সমান্তরালে:\n\\(R_{eq}=\\frac{30\\times90}{30+90}=22.5\\,\\Omega\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-071",
+      "text": "চিত্রের P এবং S এর মধ্যে দিয়ে তড়িৎ প্রবাহের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-070-stem.svg",
+      "group": "physics_2nd-2024-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "3:1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1:3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6:1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1:6",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্রিজ সুষম, তাই P ও Q শ্রেণিতে (30 Ω) এবং R ও S শ্রেণিতে (90 Ω)।\n\\(I_P=\\frac{45}{30}=1.5\\,\\mathrm{A},\\ I_S=\\frac{45}{90}=0.5\\,\\mathrm{A}\\)\n\\(I_P:I_S=3:1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-072",
+      "text": "কোষের তড়িচ্চালক বল (ইএমএফ) পরিমাপক যন্ত্রের নাম—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পটেনসিওমিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অ্যামিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্যালভানোমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিটারব্রীজ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কোষের তড়িচ্চালক শক্তি সঠিকভাবে পরিমাপ করার যন্ত্র পটেনসিওমিটার, কারণ এটি কোষ থেকে প্রবাহ নেয় না।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-073",
+      "text": "একটি বাল্বের গায়ে 110V—20W লেখা আছে। তড়িৎ প্রবাহ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.18A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.20A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.0A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.5A",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(P=VI\\Rightarrow I=\\frac PV=\\frac{20}{110}=0.18\\,\\mathrm{A}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-074",
+      "text": "প্রদত্ত বর্তনীর A ও B এর মধ্যবর্তী তুল্যরোধ কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-074-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.625 Ω",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.62 Ω",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.18 Ω",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.60 Ω",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাম ও ডান পাশের তার দুটি দুটি নোড (A ও B)। চারটি শাখা সমান্তরালে:\nশাখা রোধ: \\(4,\\ 8,\\ 12,\\ 6\\,\\Omega\\)\n\\(\\frac1R=\\frac14+\\frac18+\\frac1{12}+\\frac16=\\frac{15}{24}\\Rightarrow R=1.6\\,\\Omega\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-075",
+      "text": "উদ্দীপক অনুযায়ী চাবি (K) খোলা ও বন্ধ অবস্থায় R এর তড়িৎ প্রবাহের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "[এখানে, E = 3V, \\(E_1\\) = 6V, r = 1Ω এবং \\(r_1\\) = 2Ω]",
+      "stem_image": "assets/physics_2nd-ch3-mcq-075-stem.svg",
+      "group": "physics_2nd-2024-CUB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 : 3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 : 4",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "K খোলা: শুধু উপরের শাখা ও R। \\(E_{eq}=2E=6\\,\\mathrm{V},\\ r_{eq}=2r=2\\,\\Omega\\)\n\\(I_1=\\frac{6}{2+2}=1.5\\,\\mathrm{A}\\)\nK বন্ধ: 6 V, 2 Ω এর দুটি সমান উৎস সমান্তরালে (একই পোলারিটি ধরে): \\(E=6\\,\\mathrm{V},\\ r=1\\,\\Omega\\)\n\\(I_2=\\frac{6}{1+2}=2\\,\\mathrm{A}\\)\n\\(I_1:I_2=1.5:2=3:4\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-076",
+      "text": "প্রবাহ ঘনত্বের একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Am^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Ω-m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Wm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রবাহ ঘনত্ব \\(J=\\frac IA\\); একক \\(\\mathrm{Am^{-2}}\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-077",
+      "text": "বাতির মধ্য দিয়ে কত তড়িৎ প্রবাহিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি বৈদ্যুতিক বাতির রোধ 1000Ω। একে 400V লাইনের সাথে যুক্ত করা হলো। প্রতি ইউনিট বিদ্যুতের মূল্য 5.00 টাকা।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "2.5 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.4 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "160 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2500 A",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(I=\\frac VR=\\frac{400}{1000}=0.4\\,\\mathrm{A}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-078",
+      "text": "বাতিটি 10 ঘণ্টা ব্যবহৃত হলে জানুয়ারি মাসে মোট বিদ্যুৎ খরচ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি বৈদ্যুতিক বাতির রোধ 1000Ω। একে 400V লাইনের সাথে যুক্ত করা হলো। প্রতি ইউনিট বিদ্যুতের মূল্য 5.00 টাকা।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "240 টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "248 টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "255 টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "270 টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শক্তি \\(P = \\frac{V^2}{R} = \\frac{400^2}{1000} = 160\\) W = 0.16 kW\nজানুয়ারিতে 31 দিন, মোট সময় = \\(10 \\times 31 = 310\\) h\nশক্তি = \\(0.16 \\times 310 = 49.6\\) kWh\nখরচ = \\(49.6 \\times 5 = 248\\) টাকা",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-079",
+      "text": "চিত্রে প্রদর্শিত বর্তনীতে প্রবাহমাত্রা \\(I_1\\) কত হবে?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-079-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.16 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.26 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.35 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.46 A",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "20Ω ও (12Ω ∥ 10Ω) শ্রেণিতে যুক্ত। সমান্তরাল তুল্যরোধ = \\(\\frac{12 \\times 10}{22} = 5.45\\,\\Omega\\)\nমোট রোধ = \\(20 + 5.45 = 25.45\\,\\Omega\\)\nমূল প্রবাহ \\(I = \\frac{9}{25.45} = 0.354\\) A\nপ্রবাহ রোধের ব্যস্তানুপাতে ভাগ হয়: \\(I_1 = 0.354 \\times \\frac{10}{22} = 0.16\\) A",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-080",
+      "text": "তাপমাত্রার সাথে কোনো পরিবাহীর রোধের পরিবর্তন (θ বনাম \\(R_\\theta\\)) এর ক্ষেত্রে নিচের কোন লেখচিত্রটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-080-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-080-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-080-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch3-mcq-080-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিবাহীর রোধ \\(R_\\theta = R_0(1 + \\alpha\\theta)\\) অর্থাৎ θ-এর সাথে রৈখিকভাবে বাড়ে এবং θ = 0 তে রোধ \\(R_0\\) (শূন্য নয়)। তাই \\(R_\\theta\\)-অক্ষের ধনাত্মক ছেদকসহ ঊর্ধ্বগামী সরলরেখা, যা (ক)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-081",
+      "text": "নিচের বর্তনীতে অ্যামিটারের পাঠ কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch3-mcq-081-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 A",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "3Ω রোধে 2A হলে বিভব পার্থক্য \\(V = 2 \\times 3 = 6\\) V। সমান্তরালে 6Ω রোধে প্রবাহ \\(= \\frac{6}{6} = 1\\) A।\nঅ্যামিটারের পাঠ = মোট প্রবাহ = 2 + 1 = 3 A।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-082",
+      "text": "কোষের তড়িচ্চালক বল মাপার যন্ত্রের নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিটার ব্রীজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোস্ট অফিস বক্স",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পোটেনশিওমিটার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কোষের তড়িচ্চালক বল সঠিকভাবে মাপার যন্ত্র পোটেনশিওমিটার, কারণ এতে ভারসাম্য অবস্থায় কোষ থেকে কোনো প্রবাহ নেওয়া হয় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-083",
+      "text": "সমান রোধবিশিষ্ট দুটি তামার তারের দৈর্ঘ্য যথাক্রমে 2m ও 8m। তার দুটির ব্যাসার্ধের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(R = \\frac{\\rho l}{\\pi r^2}\\); রোধ ও উপাদান সমান হলে \\(\\frac{l}{r^2}\\) ধ্রুব, অর্থাৎ \\(r^2 \\propto l\\)।\n\\(\\frac{r_1}{r_2} = \\sqrt{\\frac{l_1}{l_2}} = \\sqrt{\\frac{2}{8}} = \\frac{1}{2}\\) অর্থাৎ 1 : 2",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-084",
+      "text": "কার্শফের সূত্র অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ΣIR = ΣE"
+        },
+        {
+          "label": "ii",
+          "text": "ΣIR = 0"
+        },
+        {
+          "label": "iii",
+          "text": "ΣI = 0"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: ΣIR = ΣE কার্শফের দ্বিতীয় (ভোল্টেজ) সূত্র, যা বদ্ধ লুপে প্রযোজ্য।\n(ii) মিথ্যা: ΣIR = 0 কেবল লুপে কোনো তড়িচ্চালক শক্তি না থাকলেই সত্য, সাধারণ সূত্র নয়।\n(iii) সত্য: ΣI = 0 কার্শফের প্রথম (প্রবাহ) সূত্র।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-085",
+      "text": "240 W এর একটি TV সেট 1 hr এবং 1200 W এর একটি ইস্ত্রি 10 min চালনা করলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইস্ত্রি কর্তৃক ব্যয়িত শক্তি 0.2 kWh"
+        },
+        {
+          "label": "ii",
+          "text": "ইস্ত্রির রোধ বেশি"
+        },
+        {
+          "label": "iii",
+          "text": "TV সেট বেশি শক্তি ব্যয় করবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: ইস্ত্রির শক্তি = \\(1200 \\times \\frac{10}{60} = 200\\) Wh = 0.2 kWh।\n(ii) মিথ্যা: \\(R = \\frac{V^2}{P}\\), একই ভোল্টেজে ক্ষমতা বেশি হলে রোধ কম। ইস্ত্রির ক্ষমতা বেশি, তাই রোধ কম।\n(iii) সত্য: TV-র শক্তি = 240 Wh = 0.24 kWh, যা ইস্ত্রির 0.2 kWh এর চেয়ে বেশি।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-086",
+      "text": "নিচের কোনটি মিটার ব্রিজ দ্বারা পরিমাপ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রবাহমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অন্তঃরোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িচ্চালক শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আপেক্ষিক রোধ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মিটার ব্রিজ হুইটস্টোন ব্রিজের নীতিতে কাজ করে এবং এর সাহায্যে অজানা রোধ ও তা থেকে তারের উপাদানের আপেক্ষিক রোধ নির্ণয় করা হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-087",
+      "text": "নিচের কোনটি শান্টের গুণক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{S}{G+S}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{G}{G+S}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{G+S}{S}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{G+S}{G}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শান্টের গুণক = \\(\\frac{I}{I_g}\\)। শান্টের জন্য \\(I_g G = (I - I_g)S\\), সুতরাং \\(\\frac{I}{I_g} = \\frac{G+S}{S}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-088",
+      "text": "নিচের কোন যন্ত্রের সাহায্যে আপেক্ষিক রোধ নির্ণয় করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পোস্টঅফিস বক্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্যালভানোমিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোটেনশিওমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোল্টমিটার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পোস্টঅফিস বক্সের সাহায্যে অজানা রোধ নির্ণয় করা যায় এবং তা থেকে \\(\\rho = \\frac{RA}{l}\\) সূত্রে আপেক্ষিক রোধ পাওয়া যায়। গ্যালভানোমিটার ও ভোল্টমিটার সরাসরি রোধ নির্ণয়ের যন্ত্র নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-089",
+      "text": "8Ω রোধের দুইপ্রান্তের বিভব পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-089-stem.svg",
+      "group": "physics_2nd-2024-MB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.5 V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.5 V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.5 V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বর্তনী শ্রেণিতে যুক্ত। মোট রোধ = 8 + 3 + 1 = 12Ω\nপ্রবাহ \\(I = \\frac{6}{12} = 0.5\\) A\n8Ω রোধের বিভব পার্থক্য \\(V = IR = 0.5 \\times 8 = 4\\) V",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-090",
+      "text": "উদ্দীপকে উল্লিখিত বর্তনীর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-089-stem.svg",
+      "group": "physics_2nd-2024-MB-22-23",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি একটি সরল বর্তনী"
+        },
+        {
+          "label": "ii",
+          "text": "উদ্দীপকের বহিঃ রোধদ্বয়ের সমান্তরাল সমবায়ের তুল্যরোধ 2.18Ω"
+        },
+        {
+          "label": "iii",
+          "text": "হারানো বিভব 0.5V"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: একটি কোষ ও শ্রেণিতে যুক্ত রোধ নিয়ে গঠিত একটিমাত্র বদ্ধ পথ, তাই সরল বর্তনী।\n(ii) সত্য: \\(\\frac{8 \\times 3}{8+3} = \\frac{24}{11} = 2.18\\,\\Omega\\)।\n(iii) সত্য: প্রবাহ 0.5 A, হারানো বিভব = \\(Ir = 0.5 \\times 1 = 0.5\\) V।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-091",
+      "text": "একই রকম দুটি কোষের সমান্তরাল সমবায়ের ক্ষেত্রে বর্তনীতে প্রবাহমাত্রার সূত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(I = \\frac{E}{R+2r}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(I = \\frac{2E}{2R+r}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(I = \\frac{2E}{R+\\frac{r}{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I = \\frac{2E}{\\frac{R}{2}+r}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একই রকম দুটি কোষ সমান্তরালে থাকলে তড়িচ্চালক শক্তি E এবং অভ্যন্তরীণ রোধ \\(\\frac{r}{2}\\)।\n\\(I = \\frac{E}{R + \\frac{r}{2}} = \\frac{2E}{2R + r}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-092",
+      "text": "কোনো নির্দিষ্ট উপাদানের তারকে টেনে তিনগুণ ও প্রস্থচ্ছেদ এক তৃতীয়াংশ করা হলে, তারটির আপেক্ষিক রোধ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তিনগুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নয়গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক তৃতীয়াংশ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক রোধ কেবল উপাদান ও তাপমাত্রার উপর নির্ভর করে, তারের দৈর্ঘ্য বা প্রস্থচ্ছেদের উপর নয়। তাই টানলেও তা অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-093",
+      "text": "বর্তনীর মূল প্রবাহমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-093-stem.svg",
+      "group": "physics_2nd-2024-RB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1A",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2A",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "24A",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কোষ দুটি শ্রেণিতে। মোট তড়িচ্চালক শক্তি = 12 + 12 = 24 V\nমোট রোধ = 23 + 0.5 + 0.5 = 24Ω\n\\(I = \\frac{24}{24} = 1\\) A",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-094",
+      "text": "যদি বর্তনীর \\(E_1\\) কোষকে উল্টিয়ে সংযোগ দেওয়া হয়, তাহলে বর্তনীর প্রবাহমাত্রা—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch3-mcq-093-stem.svg",
+      "group": "physics_2nd-2024-RB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসীম হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোনো প্রবাহ পাওয়া যাবে না",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(E_1\\) উল্টে দিলে কোষ দুটির তড়িচ্চালক শক্তি পরস্পরকে বাতিল করে, নেট = 12 − 12 = 0 V। তাই \\(I = \\frac{0}{24} = 0\\), কোনো প্রবাহ পাওয়া যাবে না।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-095",
+      "text": "নিচের কোন যন্ত্রের সাহায্যে বিভব পার্থক্য ও তড়িচ্চালক শক্তি নির্ণয় করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পোটেনশিওমিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্যালভানোমিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যামিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পোস্টঅফিস বক্স",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পোটেনশিওমিটারের সাহায্যে বিভব পার্থক্য ও তড়িচ্চালক শক্তি উভয়ই নির্ভুলভাবে মাপা যায়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-096",
+      "text": "'ভোল্ট' এককটি ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কোষের তড়িচ্চালক শক্তি পরিমাপে"
+        },
+        {
+          "label": "ii",
+          "text": "রোধকের দুই প্রান্তের বিভব পার্থক্য পরিমাপে"
+        },
+        {
+          "label": "iii",
+          "text": "তারের আপেক্ষিক রোধ নির্ণয়ে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) ও (ii) সত্য: ভোল্ট বিভব পার্থক্য ও তড়িচ্চালক শক্তির একক।\n(iii) মিথ্যা: আপেক্ষিক রোধের একক Ω-m, ভোল্ট নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-097",
+      "text": "1 B.O.T Unit = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.6 \\times 10^{8}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.6 \\times 10^{7}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.6 \\times 10^{6}\\) J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.6 \\times 10^{5}\\) J",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "1 B.O.T ইউনিট = 1 kWh = \\(1000 \\times 3600\\) J = \\(3.6 \\times 10^{6}\\) J",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch3-mcq-098",
+      "text": "10Ω রোধের কুণ্ডলীর মধ্য দিয়ে 10A তড়িৎ প্রবাহ 1 মিনিট সময় ধরে চালনা করলে উৎপন্ন তাপের পরিমাণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6 \\times 10^{4}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6 \\times 10^{3}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6 \\times 10^{4}\\) Cal",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6 \\times 10^{3}\\) Cal",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(H = I^2 R t = 10^2 \\times 10 \\times 60 = 6 \\times 10^{4}\\) J",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

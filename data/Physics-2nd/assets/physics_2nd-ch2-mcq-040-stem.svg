@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="190" viewBox="0 0 360 190">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="360" height="190" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<line x1="110.5" y1="49.0" x2="110.5" y2="71.0" stroke-width="2.10"/>
+<line x1="119.5" y1="49.0" x2="119.5" y2="71.0" stroke-width="2.10"/>
+<line x1="240.5" y1="49.0" x2="240.5" y2="71.0" stroke-width="2.10"/>
+<line x1="249.5" y1="49.0" x2="249.5" y2="71.0" stroke-width="2.10"/>
+<polyline points="40.0,135.0 40.0,60.0 110.5,60.0" />
+<line x1="119.5" y1="60.0" x2="240.5" y2="60.0" />
+<polyline points="249.5,60.0 320.0,60.0 320.0,135.0" />
+<line x1="176.0" y1="123.0" x2="176.0" y2="147.0" stroke-width="1.95"/>
+<line x1="184.0" y1="128.5" x2="184.0" y2="141.5" stroke-width="3.30"/>
+<line x1="40.0" y1="135.0" x2="176.0" y2="135.0" />
+<line x1="184.0" y1="135.0" x2="320.0" y2="135.0" />
+<text x="115.0" y="40.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >C<tspan baseline-shift="sub" font-size="70%">1</tspan> = 20µF</text>
+<text x="245.0" y="40.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >C<tspan baseline-shift="sub" font-size="70%">2</tspan> = 60µF</text>
+<text x="180.0" y="172.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >100V</text>
+</g>
+</svg>

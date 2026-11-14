@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 190" width="450" height="190">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="450" height="190" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<circle cx="30" cy="100" r="3.5" fill="#111"/><path d="M30,100 L85,100"/><circle cx="85" cy="100" r="3" fill="#111"/><circle cx="425" cy="100" r="3.5" fill="#111"/><path d="M355,100 L425,100"/>
+<path d="M85,100 L110,100"/><path d="M110,100 L113.3,94 L120,106 L126.7,94 L133.3,106 L140,94 L146.7,106 L150,100"/><path d="M150,100 L175,100"/>
+<text x="130" y="86" text-anchor="middle" font-size="13" fill="#111" stroke="none">RΩ</text>
+<path d="M175,100 L200,100"/><path d="M200,100 L203.3,94 L210,106 L216.7,94 L223.3,106 L230,94 L236.7,106 L240,100"/><path d="M240,100 L265,100"/>
+<text x="220" y="86" text-anchor="middle" font-size="13" fill="#111" stroke="none">RΩ</text>
+<path d="M265,100 L290,100"/><path d="M290,100 L293.3,94 L300,106 L306.7,94 L313.3,106 L320,94 L326.7,106 L330,100"/><path d="M330,100 L355,100"/>
+<text x="310" y="86" text-anchor="middle" font-size="13" fill="#111" stroke="none">RΩ</text>
+<circle cx="85" cy="100" r="3" fill="#111"/>
+<circle cx="175" cy="100" r="3" fill="#111"/>
+<circle cx="265" cy="100" r="3" fill="#111"/>
+<circle cx="355" cy="100" r="3" fill="#111"/>
+<path d="M85,100 L85,45 L150,45"/><path d="M150,45 L154.2,39 L162.5,51 L170.8,39 L179.2,51 L187.5,39 L195.8,51 L200,45"/><path d="M200,45 L265,45 L265,100"/>
+<text x="152.5" y="30" text-anchor="middle" font-size="13" fill="#111" stroke="none">RΩ</text>
+<path d="M175,100 L175,155 L240,155"/><path d="M240,155 L244.2,149 L252.5,161 L260.8,149 L269.2,161 L277.5,149 L285.8,161 L290,155"/><path d="M290,155 L355,155 L355,100"/>
+<text x="265" y="178" text-anchor="middle" font-size="13" fill="#111" stroke="none">RΩ</text>
+<text x="18" y="105" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">A</text><text x="438" y="105" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">B</text>
+</g></svg>

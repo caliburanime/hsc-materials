@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="440" height="300" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M70,250 L70,15" marker-end="url(#ah)"/><path d="M70,250 L390,250" marker-end="url(#ah)"/>
+<path d="M130,250 L320,12.5"/>
+<path d="M250,250 L250,100" stroke-dasharray="6 5"/><path d="M70,100 L250,100" stroke-dasharray="6 5"/>
+<circle cx="250" cy="100" r="2.5" fill="#111"/>
+<text x="60" y="268" text-anchor="middle" font-size="14" font-style="italic" fill="#111" stroke="none">O</text><text x="130" y="270" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">f<tspan font-size="10" dy="3">0</tspan></text><text x="250" y="270" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">f</text>
+<text x="266" y="125" text-anchor="start" font-size="13" fill="#111" stroke="none">A (5.2×10<tspan font-size="10" dy="-5">15</tspan><tspan dy="5">,16)</tspan></text>
+<text transform="translate(28,140) rotate(-90)" text-anchor="middle" font-size="13" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">সর্বোচ্চ গতি শক্তি (eV)</text>
+<path d="M270,282 L320,282" marker-end="url(#ah)"/><text x="330" y="286" text-anchor="start" font-size="13" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">কম্পাঙ্ক (Hz)</text>
+</g></svg>

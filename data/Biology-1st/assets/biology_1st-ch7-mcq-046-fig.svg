@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#111" stroke-width="1.6"/></marker>
+</defs>
+<rect width="200" height="200" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="100" cy="100" r="68" stroke-width="2"/><circle cx="100" cy="100" r="63"/><line x1="100.0" y1="37.0" x2="100.0" y2="87.0"/><ellipse cx="115.3" cy="79.0" rx="9" ry="14" transform="rotate(36.0 115.3 79.0)" fill="#fff"/><line x1="100" y1="100" x2="107.6" y2="89.5"/><line x1="159.9" y1="80.5" x2="112.4" y2="96.0"/><ellipse cx="124.7" cy="108.0" rx="9" ry="14" transform="rotate(108.0 124.7 108.0)" fill="#fff"/><line x1="100" y1="100" x2="112.4" y2="104.0"/><line x1="137.0" y1="151.0" x2="107.6" y2="110.5"/><ellipse cx="100.0" cy="126.0" rx="9" ry="14" transform="rotate(180.0 100.0 126.0)" fill="#fff"/><line x1="100" y1="100" x2="100.0" y2="113.0"/><line x1="63.0" y1="151.0" x2="92.4" y2="110.5"/><ellipse cx="75.3" cy="108.0" rx="9" ry="14" transform="rotate(252.0 75.3 108.0)" fill="#fff"/><line x1="100" y1="100" x2="87.6" y2="104.0"/><line x1="40.1" y1="80.5" x2="87.6" y2="96.0"/><ellipse cx="84.7" cy="79.0" rx="9" ry="14" transform="rotate(324.0 84.7 79.0)" fill="#fff"/><line x1="100" y1="100" x2="92.4" y2="89.5"/><circle cx="100" cy="100" r="4" fill="#fff"/>
+</g>
+</svg>

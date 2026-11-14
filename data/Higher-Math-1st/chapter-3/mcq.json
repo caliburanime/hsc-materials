@@ -1,0 +1,1523 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch3-mcq-001",
+      "text": "x-অক্ষরেখার সমান্তরাল সরলরেখার সমীকরণ হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x = 2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x = y\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(y = 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x - y = 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "x-অক্ষের সমান্তরাল রেখার সমীকরণ \\(y=k\\) আকারের (ঢাল শূন্য); তাই \\(y=1\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-002",
+      "text": "\\(2x - y + 1 = 0\\) সরলরেখাটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(x + 2y + 1 = 0\\) রেখার উপর লম্ব"
+        },
+        {
+          "label": "ii",
+          "text": "\\(x - 2y + 1 = 0\\) রেখার সমান্তরাল"
+        },
+        {
+          "label": "iii",
+          "text": "অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিত অংশের পরিমাণ \\(\\dfrac{\\sqrt{5}}{2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রেখার ঢাল \\(=2\\)।\n(i) \\(x+2y+1=0\\) এর ঢাল \\(-\\dfrac{1}{2}\\); ঢালের গুণফল \\(2\\times(-\\tfrac12)=-1\\), তাই লম্ব — সত্য।\n(ii) \\(x-2y+1=0\\) এর ঢাল \\(\\dfrac{1}{2}\\ne2\\), তাই সমান্তরাল নয় — মিথ্যা।\n(iii) অক্ষ-খণ্ড: \\(x\\)-অক্ষে \\(-\\dfrac{1}{2}\\), \\(y\\)-অক্ষে \\(1\\); খণ্ডিত অংশ \\(=\\sqrt{\\dfrac{1}{4}+1}=\\dfrac{\\sqrt5}{2}\\) — সত্য।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-003",
+      "text": "A বিন্দুর পোলার স্থানাঙ্ক হল—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-003-stem.svg",
+      "group": "higher_math_1st-2023-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(5, \\tan^{-1}\\left(-\\dfrac{1}{2}\\right)\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(5, \\tan^{-1}(-2)\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\sqrt{5}, \\tan^{-1}\\left(-\\dfrac{1}{2}\\right)\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(\\sqrt{5}, \\tan^{-1}(-2)\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(A(-1,2)\\) এর জন্য \\(r=\\sqrt{1+4}=\\sqrt{5}\\)\n\\(\\tan\\theta=\\dfrac{y}{x}=-2\\), বিন্দুটি ২য় চতুর্ভাগে; তাই পোলার স্থানাঙ্ক \\(\\left(\\sqrt5,\\tan^{-1}(-2)\\right)\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-004",
+      "text": "A ও B বিন্দুদ্বয়ের সংযোজক রেখাকে x-অক্ষরেখা কত অনুপাতে বিভক্ত করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-003-stem.svg",
+      "group": "higher_math_1st-2023-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 : 3\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(x\\)-অক্ষ রেখাটিকে \\(A\\) থেকে \\(B\\) ক্রমে \\(m:n\\) অনুপাতে ভাগ করলে \\(y=\\dfrac{-4m+2n}{m+n}=0\\)\n\\(\\Rightarrow 4m=2n \\Rightarrow m:n=1:2\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-005",
+      "text": "ঢালদ্বয়ের গুণফল—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(3x + y = 3\\) এবং \\(3x - y = 3\\) দুইটি সরলরেখা।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-9\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(3x+y=3\\) এর ঢাল \\(-3\\); \\(3x-y=3\\) এর ঢাল \\(3\\)\nগুণফল \\(=-3\\times3=-9\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-006",
+      "text": "রেখাদ্বয় y-অক্ষের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল কত বর্গএকক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(3x + y = 3\\) এবং \\(3x - y = 3\\) দুইটি সরলরেখা।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(12\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(18\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y\\)-অক্ষের ছেদ: \\(3x+y=3\\) এ \\((0,3)\\); \\(3x-y=3\\) এ \\((0,-3)\\)\nরেখাদ্বয়ের ছেদবিন্দু \\((1,0)\\)\nক্ষেত্রফল \\(=\\dfrac{1}{2}\\times6\\times1 = 3\\) বর্গ একক।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-007",
+      "text": "M এর মান কত হলে \\(2x - y + 6 = 0\\) ও \\(3x + My - 3 = 0\\) রেখা দুইটি পরস্পর লম্ব হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-6\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রথম রেখার ঢাল \\(2\\); দ্বিতীয় রেখার ঢাল \\(-\\dfrac{3}{M}\\)\nলম্ব হলে \\(2\\times\\left(-\\dfrac{3}{M}\\right)=-1 \\Rightarrow M=6\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-008",
+      "text": "\\(x + y = 4\\) এবং \\(x - y = 2\\) সরলরেখাদ্বয়ের ছেদবিন্দুগামী ও y-অক্ষের সমান্তরাল রেখার সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(y = 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x = 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(y = 3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x = 3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(x+y=4\\) ও \\(x-y=2\\) যোগ করে \\(x=3\\), তাই \\(y=1\\); ছেদবিন্দু \\((3,1)\\)\n\\(y\\)-অক্ষের সমান্তরাল রেখা \\(x=\\) ধ্রুবক; সুতরাং \\(x=3\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-009",
+      "text": "রেখাদ্বয় সমান্তরাল হলে b এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(8x - by - 9 = 0\\) এবং \\(4x + 3y + 2 = 0\\) দুটি সরলরেখার সমীকরণ—",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-6\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল হলে \\(\\dfrac{8}{4}=\\dfrac{-b}{3}\\)\n\\(-b=6 \\Rightarrow b=-6\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-010",
+      "text": "\\((0, 1)\\) বিন্দু থেকে ২য় রেখার উপর অঙ্কিত লম্বের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(8x - by - 9 = 0\\) এবং \\(4x + 3y + 2 = 0\\) দুটি সরলরেখার সমীকরণ—",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3x - 4y - 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3x - 4y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x - 4y + 2 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3x - 4y - 2 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "২য় রেখার (\\(4x+3y+2=0\\)) উপর লম্ব রেখার সমীকরণ \\(3x-4y+k=0\\)\n\\((0,1)\\) বিন্দুগামী: \\(0-4+k=0 \\Rightarrow k=4\\)\nসমীকরণ: \\(3x-4y+4=0\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-011",
+      "text": "\\((m, 0),\\ (0, n),\\ (1, 1)\\) বিন্দু তিনটি সমরেখ হওয়ার শর্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(m - n = mn\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(m - n + mn = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(m + n = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(m + n = mn\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমরেখ হলে \\(\\begin{vmatrix} m & 0 & 1 \\\\ 0 & n & 1 \\\\ 1 & 1 & 1 \\end{vmatrix}=0\\)\n\\(m(n-1)-0+1(0-n)=0 \\Rightarrow mn-m-n=0\\)\n\\(\\Rightarrow m+n=mn\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-012",
+      "text": "\\(2x - 3y = 0\\) একটি সরলরেখার সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রেখাটি মূলবিন্দুগামী"
+        },
+        {
+          "label": "ii",
+          "text": "\\((3, 2)\\) বিন্দুটি রেখাটির উপর অবস্থিত"
+        },
+        {
+          "label": "iii",
+          "text": "\\((2, -3)\\) বিন্দু থেকে রেখাটির লম্ব দূরত্ব \\(\\dfrac{1}{\\sqrt{13}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) \\((0,0)\\) বসালে সমীকরণ সিদ্ধ হয়, তাই মূলবিন্দুগামী — সত্য।\n(ii) \\((3,2)\\): \\(2\\cdot3-3\\cdot2=0\\), তাই রেখার উপর অবস্থিত — সত্য।\n(iii) দূরত্ব \\(=\\dfrac{|2\\cdot2-3(-3)|}{\\sqrt{4+9}}=\\dfrac{13}{\\sqrt{13}}=\\sqrt{13}\\), \\(\\dfrac{1}{\\sqrt{13}}\\) নয় — মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-013",
+      "text": "\\((1, 2)\\) বিন্দুগামী \\(3x + 2y + 5 = 0\\) রেখার উপর লম্বরেখার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2x + 3y - 8 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3x - 2y + 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x + 2y - 7 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2x - 3y + 4 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লম্ব রেখার সমীকরণ \\(2x-3y+k=0\\)\n\\((1,2)\\) বসিয়ে: \\(2-6+k=0 \\Rightarrow k=4\\)\nসমীকরণ: \\(2x-3y+4=0\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-014",
+      "text": "\\(qy + px + r = 0\\) রেখার ঢাল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{p}{q}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{q}{p}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{q}{p}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{p}{q}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(qy=-px-r \\Rightarrow y=-\\dfrac{p}{q}x-\\dfrac{r}{q}\\); ঢাল \\(=-\\dfrac{p}{q}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-015",
+      "text": "\\(2x + 3y = 9\\) এবং \\(4x + 6y = 7\\) সরলরেখাদ্বয়ের মধ্যবর্তী দূরত্ব কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{\\sqrt{13}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{\\sqrt{13}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{11}{2\\sqrt{13}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{25}{2\\sqrt{13}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "২য় রেখাকে \\(2x+3y=\\dfrac{7}{2}\\) লিখে উভয়ের x, y এর সহগ সমান করা যায়।\nদূরত্ব \\(=\\dfrac{\\left|9-\\frac{7}{2}\\right|}{\\sqrt{2^2+3^2}}=\\dfrac{11/2}{\\sqrt{13}}=\\dfrac{11}{2\\sqrt{13}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-016",
+      "text": "\\((-1, -2)\\) হতে AB রেখার লম্ব দূরত্ব কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-016-stem.svg",
+      "group": "higher_math_1st-2023-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{17}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দূরত্ব \\(=\\dfrac{|3(-1)-4(-2)+12|}{\\sqrt{9+16}}=\\dfrac{17}{5}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-017",
+      "text": "AB রেখাংশের মধ্যবিন্দুর স্থানাংক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-016-stem.svg",
+      "group": "higher_math_1st-2023-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(2, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(-2, \\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\dfrac{3}{2}, -2\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(-\\dfrac{3}{2}, 2\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রেখা \\(3x-4y+12=0\\): \\(y=0\\) হলে \\(A(-4,0)\\); \\(x=0\\) হলে \\(B(0,3)\\)\nমধ্যবিন্দু \\(=\\left(\\dfrac{-4+0}{2},\\dfrac{0+3}{2}\\right)=\\left(-2,\\dfrac{3}{2}\\right)\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-018",
+      "text": "k এর মান কত হলে \\(4x - y + 3 = 0\\) এবং \\(2x + ky - 1 = 0\\) সরলরেখাদ্বয় পরস্পর লম্ব হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(8\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\dfrac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-8\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রথম রেখার ঢাল \\(4\\); দ্বিতীয় রেখার ঢাল \\(-\\dfrac{2}{k}\\)\nলম্ব হলে \\(4\\times\\left(-\\dfrac{2}{k}\\right)=-1 \\Rightarrow k=8\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-019",
+      "text": "\\(A(-1, 2)\\) এবং \\(B(3, 1)\\) দুইটি বিন্দু হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "AB রেখার y-অক্ষের ছেদ বিন্দু \\(\\left(0, \\dfrac{7}{4}\\right)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "AB রেখার উপর লম্ব রেখার ঢাল 4"
+        },
+        {
+          "label": "iii",
+          "text": "AB কে বাহু ধরে অংকিত বর্গের ক্ষেত্রফল 17 বর্গ একক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "AB এর ঢাল \\(=\\dfrac{1-2}{3+1}=-\\dfrac{1}{4}\\)\n(i) রেখা: \\(y-2=-\\dfrac{1}{4}(x+1)\\); \\(x=0\\) এ \\(y=\\dfrac{7}{4}\\) — সত্য।\n(ii) লম্ব রেখার ঢাল \\(=-\\dfrac{1}{-1/4}=4\\) — সত্য।\n(iii) \\(AB^2=(3+1)^2+(1-2)^2=17\\); বর্গের ক্ষেত্রফল \\(=AB^2=17\\) — সত্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-020",
+      "text": "মূল বিন্দু হতে AB এর লম্ব দূরত্ব কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-020-stem.svg",
+      "group": "higher_math_1st-2023-DIB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{15}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{15}{34}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{15}{\\sqrt{34}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{15}{2\\sqrt{2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূলবিন্দু হতে দূরত্ব \\(=\\dfrac{|15|}{\\sqrt{5^2+3^2}}=\\dfrac{15}{\\sqrt{34}}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-021",
+      "text": "AB এর মধ্যবিন্দুর স্থানাংক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-020-stem.svg",
+      "group": "higher_math_1st-2023-DIB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\dfrac{3}{2}, -\\dfrac{5}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(-\\dfrac{3}{2}, -\\dfrac{5}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\dfrac{3}{2}, \\dfrac{5}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(-\\dfrac{3}{2}, \\dfrac{5}{2}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(y=0\\) হলে \\(A(-3,0)\\); \\(x=0\\) হলে \\(B(0,-5)\\)\nমধ্যবিন্দু \\(=\\left(-\\dfrac{3}{2},-\\dfrac{5}{2}\\right)\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-022",
+      "text": "\\(P(1, -2)\\) ও \\(Q(-8, 1)\\) বিন্দুদ্বয়ের সংযোজক রেখাংশকে \\(2 : 1\\) অনুপাতে অন্তর্বিভক্তকারী বিন্দুর স্থানাংক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((-2, -1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((10, -5)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((17, -4)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((-5, 0)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অন্তর্বিভক্ত বিন্দু: \\(x=\\dfrac{2(-8)+1\\cdot1}{3}=-5\\), \\(y=\\dfrac{2\\cdot1+1\\cdot(-2)}{3}=0\\)\nবিন্দুটি \\((-5,0)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-023",
+      "text": "C বিন্দুর স্থানাংক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "ত্রিভুজটির ভরকেন্দ্রের স্থানাংক \\((6, 4)\\)।",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-023-stem.svg",
+      "group": "higher_math_1st-2023-JB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((3, 8)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((8, 3)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2, -1)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2, 1)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভরকেন্দ্র \\(x\\): \\(\\dfrac{3+7+x_C}{3}=6 \\Rightarrow x_C=8\\)\nভরকেন্দ্র \\(y\\): \\(\\dfrac{8+1+y_C}{3}=4 \\Rightarrow y_C=3\\)\n\\(C(8,3)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-024",
+      "text": "AB এর উপর লম্ব রেখার ঢাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ত্রিভুজটির ভরকেন্দ্রের স্থানাংক \\((6, 4)\\)।",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-023-stem.svg",
+      "group": "higher_math_1st-2023-JB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{7}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{7}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{4}{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\dfrac{4}{7}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "AB এর ঢাল \\(=\\dfrac{1-8}{7-3}=-\\dfrac{7}{4}\\)\nলম্ব রেখার ঢাল \\(=-\\dfrac{1}{-7/4}=\\dfrac{4}{7}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-025",
+      "text": "\\(A(6, 4)\\) এবং \\(B(10, 8)\\) দুইটি বিন্দু হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "AB রেখার ঢাল 1"
+        },
+        {
+          "label": "ii",
+          "text": "AB রেখার সমীকরণ \\(x - y - 2 = 0\\)"
+        },
+        {
+          "label": "iii",
+          "text": "AB কে বাহু ধরে অংকিত বর্গের ক্ষেত্রফল 8 বর্গএকক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) ঢাল \\(=\\dfrac{8-4}{10-6}=1\\) — সত্য।\n(ii) \\(y-4=1\\cdot(x-6) \\Rightarrow x-y-2=0\\) — সত্য।\n(iii) \\(AB^2=16+16=32\\); বর্গের ক্ষেত্রফল 32, 8 নয় — মিথ্যা।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-026",
+      "text": "\\(6x + 5y + 25 = 0\\) সরলরেখার ঢাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{6}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{6}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{5}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\dfrac{5}{6}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(5y=-6x-25 \\Rightarrow y=-\\dfrac{6}{5}x-5\\); ঢাল \\(=-\\dfrac{6}{5}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-027",
+      "text": "\\((-1, -\\sqrt{3})\\) বিন্দুর পোলার স্থানাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2, 240^\\circ)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2, 120^\\circ)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2, 60^\\circ)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2, 30^\\circ)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(r=\\sqrt{1+3}=2\\); \\(\\tan\\theta=\\dfrac{-\\sqrt3}{-1}=\\sqrt3\\)\nবিন্দুটি ৩য় চতুর্ভাগে, তাই \\(\\theta=180^\\circ+60^\\circ=240^\\circ\\); পোলার স্থানাঙ্ক \\((2,240^\\circ)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-028",
+      "text": "BC এর মধ্যবিন্দু কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-028-stem.svg",
+      "group": "higher_math_1st-2023-MB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((0, 1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((1, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((4, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((0, 4)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(B(-3,0)\\) ও \\(C(5,0)\\) এর মধ্যবিন্দু \\(=\\left(\\dfrac{-3+5}{2},0\\right)=(1,0)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-029",
+      "text": "\\(\\Delta ABC\\) এর ক্ষেত্রফল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch3-mcq-028-stem.svg",
+      "group": "higher_math_1st-2023-MB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "20 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "16 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "32 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12 বর্গ একক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূমি \\(BC=5-(-3)=8\\); উচ্চতা = A এর কোটি \\(=4\\)\nক্ষেত্রফল \\(=\\dfrac{1}{2}\\times8\\times4=16\\) বর্গ একক।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-030",
+      "text": "\\((3, -2)\\) বিন্দু হতে \\(3x + 4y + 14 = 0\\) রেখার লম্ব দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দূরত্ব \\(=\\dfrac{|3\\cdot3+4(-2)+14|}{\\sqrt{9+16}}=\\dfrac{15}{5}=3\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-031",
+      "text": "\\((a, b),\\ (1, 1),\\ (a-1, b-1)\\) বিন্দুত্রয় সমরেখ হলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(ab = 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(a = b\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{a} + \\dfrac{1}{b} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{a} + \\dfrac{1}{b} = 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমরেখ হলে \\(a(1-(b-1))+1((b-1)-b)+(a-1)(b-1)=0\\)\n\\(a(2-b)-1+(ab-a-b+1)=0\\)\n\\(a-b=0 \\Rightarrow a=b\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-032",
+      "text": "\\(4x + 8y + 17 = 0\\) রেখাটির",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমান্তরাল রেখার সমীকরণ \\(2x + 4y + 17 = 0\\)"
+        },
+        {
+          "label": "ii",
+          "text": "লম্ব রেখার সমীকরণ \\(2x - y + 5 = 0\\)"
+        },
+        {
+          "label": "iii",
+          "text": "x-অক্ষের ধনাত্মক দিকের সাথে স্থূল কোণ উৎপন্ন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\(4x+8y+17=0\\) এর ঢাল \\(-\\dfrac{1}{2}\\); \\(2x+4y+17=0\\) এর ঢালও \\(-\\dfrac{1}{2}\\), তাই সমান্তরাল — সত্য।\n(ii) \\(2x-y+5=0\\) এর ঢাল \\(2\\); \\(2\\times\\left(-\\dfrac{1}{2}\\right)=-1\\), তাই লম্ব — সত্য।\n(iii) ঢাল ঋণাত্মক (\\(\\tan\\theta<0\\)), তাই \\(x\\)-অক্ষের ধনাত্মক দিকের সাথে স্থূল কোণ — সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-033",
+      "text": "AB সরলরেখার সমীকরণ—",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch3-mcq-033-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{3}x - y = 2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{3}x + y = 2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x + \\sqrt{3}y = 2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x - \\sqrt{3}y = 2\\sqrt{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূলবিন্দু থেকে রেখার লম্ব দূরত্ব \\(p=\\sqrt{3}\\), লম্বের কোণ \\(\\alpha=60^\\circ\\)।\n\\(x\\cos\\alpha+y\\sin\\alpha=p\\) থেকে \\(\\dfrac{x}{2}+\\dfrac{\\sqrt{3}}{2}y=\\sqrt{3}\\)\n\\(\\therefore x+\\sqrt{3}y=2\\sqrt{3}\\) — (গ)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-034",
+      "text": "\\(3x - 5y = 7\\) সরলরেখার উপর লম্ব এবং \\((1, 2)\\) বিন্দুগামী সরলরেখার সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5x + 3y + 11 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5x + 3y - 11 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x + 5y + 7 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3x + 5y - 7 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(3x-5y=7\\) এর উপর লম্ব রেখার সমীকরণ \\(5x+3y=k\\)।\n\\((1,2)\\) বিন্দুগামী হওয়ায় \\(k=5+6=11\\)\n\\(\\therefore 5x+3y-11=0\\) — (খ)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-035",
+      "text": "\\((-2, -4)\\) ও \\((4, 6)\\) বিন্দুদ্বয়ের সংযোজক রেখাকে x-অক্ষ কত অনুপাতে বিভক্ত করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 : 3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "x-অক্ষের উপর বিন্দুর y-স্থানাংক 0। অনুপাত \\(m:n\\) হলে \\(\\dfrac{6m-4n}{m+n}=0\\)\n\\(\\Rightarrow 6m=4n\\Rightarrow m:n=2:3\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-036",
+      "text": "\\((3, -60^\\circ)\\) বিন্দুর কার্তেসীয় স্থানাংক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(-\\dfrac{3}{2}, \\dfrac{3\\sqrt{3}}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(-\\dfrac{3}{2}, -\\dfrac{3\\sqrt{3}}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\dfrac{3}{2}, -\\dfrac{3\\sqrt{3}}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(\\dfrac{3\\sqrt{3}}{2}, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(x=r\\cos\\theta=3\\cos(-60^\\circ)=\\dfrac{3}{2}\\)\n\\(y=r\\sin\\theta=3\\sin(-60^\\circ)=-\\dfrac{3\\sqrt{3}}{2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

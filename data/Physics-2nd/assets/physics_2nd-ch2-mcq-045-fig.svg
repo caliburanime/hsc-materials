@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 200" width="290" height="200">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="290" height="200" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="35" y1="30" x2="240" y2="30" marker-end="url(#ar)"/>
+<line x1="253" y1="16" x2="263" y2="16" stroke-width="1"/>
+<text x="258" y="34" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none"><tspan font-style="italic">E</tspan></text>
+<path d="M261,13 L264,16 L261,19" stroke-width="1"/>
+<line x1="35" y1="65" x2="240" y2="65" marker-end="url(#ar)"/>
+<line x1="253" y1="51" x2="263" y2="51" stroke-width="1"/>
+<text x="258" y="69" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none"><tspan font-style="italic">E</tspan></text>
+<path d="M261,48 L264,51 L261,54" stroke-width="1"/>
+<line x1="35" y1="100" x2="240" y2="100" marker-end="url(#ar)"/>
+<line x1="35" y1="135" x2="240" y2="135" marker-end="url(#ar)"/>
+<line x1="253" y1="121" x2="263" y2="121" stroke-width="1"/>
+<text x="258" y="139" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none"><tspan font-style="italic">E</tspan></text>
+<path d="M261,118 L264,121 L261,124" stroke-width="1"/>
+<line x1="35" y1="170" x2="240" y2="170" marker-end="url(#ar)"/>
+<line x1="253" y1="156" x2="263" y2="156" stroke-width="1"/>
+<text x="258" y="174" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none"><tspan font-style="italic">E</tspan></text>
+<path d="M261,153 L264,156 L261,159" stroke-width="1"/>
+<circle cx="35" cy="100" r="3" fill="#111"/>
+<text x="22" y="104" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">P</text>
+<circle cx="215" cy="100" r="3" fill="#111"/>
+<text x="215" y="90" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">Q</text>
+<line x1="125" y1="15" x2="125" y2="188" />
+<circle cx="125" cy="30" r="3" fill="#111"/>
+<circle cx="125" cy="170" r="3" fill="#111"/>
+<text x="133" y="24" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">R</text>
+<text x="133" y="186" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">S</text>
+
+</g>
+</svg>

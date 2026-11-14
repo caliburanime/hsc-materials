@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 200" width="290" height="200">
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#111" stroke-width="1.6"/></marker>
+</defs>
+<rect width="290" height="200" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M119,46 A62,62 0 1 1 144,162" marker-end="url(#ah)"/><line x1="98" y1="36" x2="130" y2="36" marker-end="url(#ah)"/><text x="94" y="40" text-anchor="end" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >Acetyle CoA</text><line x1="212" y1="100" x2="246" y2="100" marker-end="url(#ah)"/><text x="252" y="105" text-anchor="start" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >ATP</text><text x="112" y="92" text-anchor="middle" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >Oxalo acetic</text><text x="112" y="108" text-anchor="middle" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >acid</text><text x="112" y="170" text-anchor="middle" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >Succinic</text><text x="112" y="186" text-anchor="middle" font-size="13" font-family="Times New Roman, serif" fill="#111" stroke="none" >acid</text><line x1="84" y1="152" x2="84" y2="122" marker-end="url(#ah)"/>
+</g>
+</svg>

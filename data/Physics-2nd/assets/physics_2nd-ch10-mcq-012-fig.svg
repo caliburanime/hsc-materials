@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 225" width="410" height="225">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="410" height="225" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M70,110 L330,110" marker-end="url(#ah)"/><path d="M200,215 L200,18" marker-end="url(#ah)"/>
+<path d="M200,110 L203,109.8 L206,109.7 L209,109.5 L212,109.4 L215,109.2 L218,109.1 L221,109 L224,108.8 L227,108.7 L230,108.5 L233,108.3 L236,108.2 L239,108 L242,107.9 L245,107.7 L248,107.5 L251,107.3 L254,107 L257,106.6 L260,106.1 L263,105.4 L266,104.5 L269,103.4 L272,102.1 L275,100.6 L278,98.7 L281,96.5 L284,94 L287,91.1 L290,87.7 L293,83.9 L296,79.6 L299,74.9 L302,69.5 L305,63.6 L308,57 L311,49.8 L314,42 L317,33.4 L320,24"/>
+<path d="M200,110 L197,111.5 L194,112.8 L191,113.8 L188,114.7 L185,115.4 L182,115.9 L179,116.4 L176,116.8 L173,117.1 L170,117.3 L167,117.6 L164,117.7 L161,117.9 L158,118 L155,118.1 L152,118.2 L149,118.2 L146,118.3 L143,118.3 L140,118.3 L137,118.4 L134,118.4 L131,118.4 L128,118.4 L125,118.4 L122,118.5 L119,118.5 L116,118.5 L113,118.5 L110,118.5 L107,118.5 L104,118.5 L101,118.5 L98,118.5 L95,118.5 L95,190"/>
+<circle cx="95" cy="110" r="3.5" fill="#111"/><circle cx="200" cy="110" r="3.5" fill="#111"/>
+<text x="95" y="100" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">P</text>
+<text x="206" y="18" text-anchor="start" font-size="13" fill="#111" stroke="none">I (mA)</text>
+<text x="336" y="115" text-anchor="start" font-size="13" fill="#111" stroke="none">V (Volt)</text>
+<text x="64" y="135" text-anchor="end" font-size="13" fill="#111" stroke="none">− V (Volt)</text>
+<text x="206" y="212" text-anchor="start" font-size="13" fill="#111" stroke="none">− I (µA)</text>
+</g></svg>

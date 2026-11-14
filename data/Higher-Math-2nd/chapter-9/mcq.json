@@ -1,0 +1,1366 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 9,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch9-mcq-001",
+      "text": "ভূমি হতে 150 মিটার উঁচু একটি স্থান হতে একটি ভারী বস্তুকে ছেড়ে দেওয়া হল। ভূমিতে পতনের সময় বেগ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "29.4 মি./সে.",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "54.2 মি./সে.",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.53 মি./সে.",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14.2 মি./সে.",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(v^2=u^2+2gh=0+2\\times9.8\\times150=2940\\)\n\\(v=\\sqrt{2940}\\approx54.2\\) মি./সে.।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-002",
+      "text": "একটি প্রক্ষেপকের বৃহত্তম পাল্লা আনুভূমিক পাল্লার দ্বিগুণ হলে প্রক্ষেপ কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(30^\\circ\\) অথবা \\(150^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(15^\\circ\\) অথবা \\(75^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(15^\\circ\\) অথবা \\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(30^\\circ\\) অথবা \\(75^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বৃহত্তম পাল্লা \\(=\\dfrac{u^2}g\\), আনুভূমিক পাল্লা \\(=\\dfrac{u^2\\sin2\\alpha}g\\)।\nশর্তমতে \\(\\dfrac{u^2}g=2\\cdot\\dfrac{u^2\\sin2\\alpha}g\\) ⇒ \\(\\sin2\\alpha=\\dfrac12\\)।\n\\(2\\alpha=30^\\circ\\) বা \\(150^\\circ\\) ⇒ \\(\\alpha=15^\\circ\\) অথবা \\(75^\\circ\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-003",
+      "text": "একজন খেলোয়াড় পেনাল্টি শট করার জন্য \\(14\\,\\mathrm{ms^{-1}}\\) বেগে একটি বল শট করলেন এবং তা 10 মিটার দূরে গোলপোস্টের বারের উপর দিয়ে আনুভূমিকভাবে অতিক্রম করল। বল শট করার সময় প্রক্ষেপ কোণ কত ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(40^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বল গোলপোস্টের বার আনুভূমিকভাবে অতিক্রম করায় সেটি সর্বোচ্চ বিন্দুতে, অর্থাৎ \\(\\dfrac R2=10\\) ⇒ \\(R=20\\) মি.।\n\\(R=\\dfrac{u^2\\sin2\\alpha}g\\) ⇒ \\(20=\\dfrac{196\\sin2\\alpha}{9.8}\\) ⇒ \\(\\sin2\\alpha=1\\)।\n\\(2\\alpha=90^\\circ\\) ⇒ \\(\\alpha=45^\\circ\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-004",
+      "text": "একটি বুলেট কোনো দেয়ালের ভিতর 2 ইঞ্চি ঢুকবার পর বেগ অর্ধেক হারায়। বুলেটটি দেয়ালের ভিতর আরো কত ইঞ্চি ঢুকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রথম 2 ইঞ্চিতে: \\(\\left(\\dfrac u2\\right)^2=u^2-2a\\cdot2\\) ⇒ \\(a=\\dfrac{3u^2}{16}\\)।\nবাকি দূরত্ব \\(s\\): \\(0=\\left(\\dfrac u2\\right)^2-2as\\) ⇒ \\(s=\\dfrac{u^2/4}{3u^2/8}=\\dfrac23\\) ইঞ্চি।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-005",
+      "text": "64 ft/sec বেগে ভূমি থেকে খাড়া উপরের দিকে নিক্ষিপ্ত কণার বিচরণ কাল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.065 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.13 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.00 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.00 sec",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিচরণকাল \\(T=\\dfrac{2u}g=\\dfrac{2\\times64}{32}=4\\) সেকেন্ড।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-006",
+      "text": "একজন সাঁতারু স্রোতের বেগের দ্বিগুণ বেগে সাঁতার দিয়ে একটি নদীর যাত্রা বিন্দুর বিপরীত বিন্দুতে পৌঁছল। স্রোতের সাথে তার দিক কত ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(120^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্রোতের বেগ \\(v\\), সাঁতারুর বেগ \\(2v\\); স্রোতের সাথে কোণ \\(\\theta\\)। সোজা অপর পারে যেতে স্রোত বরাবর উপাংশ শূন্য:\n\\(v+2v\\cos\\theta=0\\) ⇒ \\(\\cos\\theta=-\\dfrac12\\) ⇒ \\(\\theta=120^\\circ\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-007",
+      "text": "32 ft/sec আদিবেগে এবং ভূমির সাথে \\(30^\\circ\\) কোণে একটি বস্তু নিক্ষেপ করা হল। ইহার ভ্রমণকাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5 sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.5 sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 sec",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T=\\dfrac{2u\\sin\\alpha}g=\\dfrac{2\\times32\\times\\sin30^\\circ}{32}=1\\) সেকেন্ড।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-008",
+      "text": "স্থিরাবস্থা হতে একটি বস্তু \\(3\\,\\mathrm{ms^{-2}}\\) সমত্বরণে যাত্রা করলে 10 s এ কত মিটার দূরত্ব অতিক্রম করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "105",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "150",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "300",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(s=ut+\\dfrac12at^2=0+\\dfrac12\\times3\\times10^2=150\\) মিটার।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-009",
+      "text": "স্থিরাবস্থায় 5m উঁচু থেকে অবাধে খাড়া নিম্নমুখী পড়ন্ত বস্তুর ভূমিতে পতনকাল কত সেকেন্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{\\dfrac{5}{g}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{\\dfrac{5}{2g}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{\\dfrac{10}{g}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\dfrac{g}{5}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(h=\\dfrac12gt^2\\) ⇒ \\(t=\\sqrt{\\dfrac{2h}g}=\\sqrt{\\dfrac{10}g}\\) সেকেন্ড।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-010",
+      "text": "O বিন্দু হতে প্রক্ষিপ্ত প্রক্ষেপকটির—",
+      "text_en": null,
+      "image": "assets/higher_math_2nd-ch9-mcq-010-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সর্বাধিক উচ্চতা \\(\\dfrac{1}{8g}\\) m"
+        },
+        {
+          "label": "ii",
+          "text": "অনুভূমিক পাল্লা \\(\\dfrac{\\sqrt{3}}{2g}\\) m"
+        },
+        {
+          "label": "iii",
+          "text": "বিচরণকাল \\(\\dfrac{1}{g}\\) s"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(u=1,\\ \\alpha=30^\\circ\\):\ni: \\(H=\\dfrac{u^2\\sin^2\\alpha}{2g}=\\dfrac{1/4}{2g}=\\dfrac1{8g}\\), সত্য।\nii: \\(R=\\dfrac{u^2\\sin2\\alpha}g=\\dfrac{\\sqrt3}{2g}\\), সত্য।\niii: \\(T=\\dfrac{2u\\sin\\alpha}g=\\dfrac1g\\), সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-011",
+      "text": "স্রোতের বেগ 2m/s এবং নৌকার বেগ 8m/s। নৌকাটি স্রোতের বিপরীত দিকে চালালে স্রোতের সাপেক্ষে নৌকার আপেক্ষিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 m/s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6 m/s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10 m/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16 m/s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নৌকাটি স্রোতের বিপরীতে চললে স্রোতের সাপেক্ষে নৌকার আপেক্ষিক বেগ \\(=\\) নৌকার বেগ \\(+\\) স্রোতের বেগ \\(=8+2=10\\) m/s।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-012",
+      "text": "সর্বনিম্ন সময়ে পার হতে একজন সাঁতারু 6km/h বেগে কোন দিকে সাঁতার দিবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "1km প্রস্থ একটি নদীর স্রোতের বেগ 2km/h",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-DB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(15^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সর্বনিম্ন সময়ে পার হতে হলে স্রোতের লম্বভাবে (নদীর তীরের সাথে \\(90^\\circ\\) কোণে) সাঁতার দিতে হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-013",
+      "text": "নদী পার হতে সর্বনিম্ন কত সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "1km প্রস্থ একটি নদীর স্রোতের বেগ 2km/h",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-DB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "10m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "45m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সর্বনিম্ন সময় \\(=\\dfrac{\\text{প্রস্থ}}{\\text{সাঁতারুর বেগ}}=\\dfrac{1}{6}\\) ঘণ্টা \\(=10\\) মিনিট।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-014",
+      "text": "সরল পথে স্থিতাবস্থা হতে সমত্বরণে চলমান একটি বস্তুকণা 5ম সেকেন্ডে 18m পথ অতিক্রম করে। 10 সেকেন্ডে এর অতিক্রান্ত দূরত্ব—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "150m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "250m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(n\\)-তম সেকেন্ডে অতিক্রান্ত দূরত্ব \\(=\\dfrac a2(2n-1)\\)।\n\\(\\dfrac a2\\times9=18\\) ⇒ \\(a=4\\) m/s²।\n10 সেকেন্ডে \\(s=\\dfrac12\\times4\\times100=200\\) মিটার।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-015",
+      "text": "একটি স্তম্ভের শীর্ষ হতে \\(u\\,\\mathrm{ms^{-1}}\\) বেগে খাড়া উপরে নিক্ষিপ্ত পাথর 10 সেকেন্ডে মাটিতে \\(58\\,\\mathrm{ms^{-1}}\\) বেগে পড়ে। u এর মান হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(156\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(48.2\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(40\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(30\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উপরের দিক ধনাত্মক ধরলে, নিচে পড়ার বেগ \\(v=-58\\)।\n\\(v=u-gt\\) ⇒ \\(-58=u-9.8\\times10\\) ⇒ \\(u=98-58=40\\) m/s।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-016",
+      "text": "\\(9.8\\,\\mathrm{ms^{-1}}\\) আদিবেগে আনুভূমিকের সাথে \\(30^\\circ\\) কোণে প্রক্ষিপ্ত একটি প্রক্ষেপকের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সর্বাধিক উচ্চতা 1.22m"
+        },
+        {
+          "label": "ii",
+          "text": "বিচরণকাল 1s"
+        },
+        {
+          "label": "iii",
+          "text": "অনুভূমিক পাল্লা \\(4.9\\sqrt{3}\\) m"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(u=9.8,\\ \\alpha=30^\\circ\\):\ni: \\(H=\\dfrac{u^2\\sin^2\\alpha}{2g}=\\dfrac{96.04\\times0.25}{19.6}=1.225\\approx1.22\\) m, সত্য।\nii: \\(T=\\dfrac{2u\\sin\\alpha}g=\\dfrac{2\\times9.8\\times0.5}{9.8}=1\\) s, সত্য।\niii: \\(R=\\dfrac{u^2\\sin2\\alpha}g=9.8\\times\\dfrac{\\sqrt3}2=4.9\\sqrt3\\) m, সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-017",
+      "text": "সরলরেখায় গতিশীল একটি কণা \\(2\\,\\mathrm{m/sec^2}\\) সমত্বরণে 30 সেকেন্ড যাবৎ চলে গড়বেগ 60m/sec হলে তার আদিবেগ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "120m/sec",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90m/sec",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45m/sec",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30m/sec",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গড়বেগ \\(=\\dfrac{u+v}2=u+\\dfrac{at}2\\) ⇒ \\(60=u+\\dfrac{2\\times30}2=u+30\\)।\n\\(u=30\\) m/s।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-018",
+      "text": "একটি বুলেট কোনো দেয়ালের ভিতর 3 ইঞ্চি ভেদ করতে এর বেগের \\(\\dfrac{1}{3}\\) অংশ হারায়। বুলেটটি দেয়ালের ভিতর আর কতদূর ঢুকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3}{8}\\) ইঞ্চি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{4}\\) ইঞ্চি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{6}{5}\\) ইঞ্চি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{12}{5}\\) ইঞ্চি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আদিবেগ \\(u\\); 3 ইঞ্চি পরে বেগ \\(\\dfrac{2u}3\\)।\n\\(\\left(\\dfrac{2u}3\\right)^2=u^2-2a\\cdot3\\) ⇒ \\(a=\\dfrac{5u^2}{54}\\)।\nবাকি দূরত্ব \\(s\\): \\(0=\\dfrac{4u^2}9-2as\\) ⇒ \\(s=\\dfrac{4u^2/9}{5u^2/27}=\\dfrac{12}5\\) ইঞ্চি।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-019",
+      "text": "ভূমি হতে u আদিবেগে একটি বস্তু উল্লম্বভাবে উপরের দিকে নিক্ষেপ করা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বৃহত্তম উচ্চতা \\(= \\dfrac{u^2}{2g}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "বিচরণকাল \\(= \\dfrac{u}{g}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "h উচ্চতায় গমনকাল \\(= \\dfrac{u \\pm \\sqrt{u^2 - 2gh}}{g}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "i: \\(0=u^2-2gH\\) ⇒ \\(H=\\dfrac{u^2}{2g}\\), সত্য।\nii: ভূমিতে ফিরে আসার সময় \\(\\dfrac{2u}g\\) (\\(\\dfrac ug\\) নয়), মিথ্যা।\niii: \\(h=ut-\\dfrac12gt^2\\) সমাধান করে \\(t=\\dfrac{u\\pm\\sqrt{u^2-2gh}}g\\), সত্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-020",
+      "text": "ভূমির সাথে কত কোণে নিক্ষেপ করলে বস্তুটি সর্বাধিক দূরত্বে পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "u আদিবেগে ভূমির সাথে α কোণে একটি বস্তুকণা নিক্ষেপ করা হলো।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(120^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পাল্লা \\(R=\\dfrac{u^2\\sin2\\alpha}g\\) সর্বোচ্চ হয় যখন \\(\\sin2\\alpha=1\\), অর্থাৎ \\(\\alpha=45^\\circ\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-021",
+      "text": "\\(\\alpha = 60^\\circ\\) এবং \\(u = 16\\) m/sec হলে সর্বোচ্চ উচ্চতা—",
+      "text_en": null,
+      "image": null,
+      "stem": "u আদিবেগে ভূমির সাথে α কোণে একটি বস্তুকণা নিক্ষেপ করা হলো।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{48}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{96}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{192}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{192\\sqrt{3}}{g}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(H=\\dfrac{u^2\\sin^2\\alpha}{2g}=\\dfrac{16^2\\times\\frac34}{2g}=\\dfrac{192}{2g}=\\dfrac{96}g\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-022",
+      "text": "প্রক্ষেপটির বিচরণকাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_2nd-ch9-mcq-022-stem.svg",
+      "group": "higher_math_2nd-2023-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "5s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\sqrt{3}\\) s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10\\sqrt{3}\\) s",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T=\\dfrac{2u\\sin\\alpha}g=\\dfrac{2\\times98\\times\\frac12}{9.8}=10\\) সেকেন্ড।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-023",
+      "text": "AB এর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_2nd-ch9-mcq-022-stem.svg",
+      "group": "higher_math_2nd-2023-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "122.5m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "240m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "490m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(490\\sqrt{3}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(AB=R=\\dfrac{u^2\\sin2\\alpha}g=\\dfrac{98^2\\times\\sin60^\\circ}{9.8}=980\\times\\dfrac{\\sqrt3}2=490\\sqrt3\\) মিটার।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-024",
+      "text": "u এর সাপেক্ষে v এর আপেক্ষিক বেগ—",
+      "text_en": null,
+      "image": "assets/higher_math_2nd-ch9-mcq-024-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "পশ্চিম দিকে 5 ms⁻¹",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পশ্চিম দিকে 25 ms⁻¹",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পূর্ব দিকে 5 ms⁻¹",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পূর্ব দিকে 25 ms⁻¹",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পূর্ব দিককে ধনাত্মক ধরলে \\(v=+10,\\ u=-15\\) (পশ্চিমমুখী)।\n\\(u\\) এর সাপেক্ষে \\(v\\) এর আপেক্ষিক বেগ \\(=v-u=10-(-15)=25\\) ms⁻¹, পূর্ব দিকে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-025",
+      "text": "একটি বস্তু মুক্তভাবে 4 সেকেন্ডে পড়ল। এটি শেষ 1 সেকেন্ডে কত ফুট পড়েছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "112",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "144",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "256",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(g=32\\) ft/s² ধরে 4 সেকেন্ডে পতন \\(=\\dfrac12\\times32\\times16=256\\) ft; 3 সেকেন্ডে \\(=\\dfrac12\\times32\\times9=144\\) ft।\nশেষ 1 সেকেন্ডে \\(=256-144=112\\) ft।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-026",
+      "text": "একটি নৌকা 12 মি/সে. বেগে সোজাসুজি একটি নদী পাড়ি দিতে পারে। যদি স্রোতের বেগ 5 মি/সে. হয়, তবে নৌকার বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "7 মি/সে.",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{119}\\) মি/সে.",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "13 মি/সে.",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "17 মি/সে.",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নৌকা সোজাসুজি পাড়ি দিলে লব্ধি বেগ 12 m/s স্রোতের লম্ব দিকে, স্রোতের বেগ 5 m/s।\nনৌকার বেগ \\(=\\sqrt{12^2+5^2}=\\sqrt{169}=13\\) m/s।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-027",
+      "text": "16 ft/sec আদিবেগে এবং ভূমির সাথে \\(45^\\circ\\) কোণে একটি বস্তু নিক্ষেপ করা হলে আনুভূমিক পাল্লা হবে \\((g = 32\\ \\mathrm{ft/sec^2})\\)—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "16 ft",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8 ft",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\sqrt{2}\\) ft",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 ft",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(R=\\dfrac{u^2\\sin2\\alpha}g=\\dfrac{16^2\\times\\sin90^\\circ}{32}=8\\) ft।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-028",
+      "text": "50 মিটার উঁচু হতে একটি পাথরকে ছেড়ে দিলে ভূমিতে পড়তে কত সেকেন্ড সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.25",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.19",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10.20",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(h=\\dfrac12gt^2\\) ⇒ \\(t=\\sqrt{\\dfrac{2\\times50}{9.8}}=\\sqrt{10.2}\\approx3.19\\) সেকেন্ড।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-029",
+      "text": "পাথরটির বিচরণকাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একখণ্ড পাথর আনুভূমির সাথে \\(30^\\circ\\) কোণে 19.6 মি./সে. বেগে নিক্ষেপ করা হলো।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-RB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 সেকেন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 সেকেন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 সেকেন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 সেকেন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T=\\dfrac{2u\\sin\\alpha}g=\\dfrac{2\\times19.6\\times\\frac12}{9.8}=2\\) সেকেন্ড।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-030",
+      "text": "পাথরটির সর্বাধিক উচ্চতা কত মিটার?",
+      "text_en": null,
+      "image": null,
+      "stem": "একখণ্ড পাথর আনুভূমির সাথে \\(30^\\circ\\) কোণে 19.6 মি./সে. বেগে নিক্ষেপ করা হলো।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-RB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.23",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.9",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.73",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "33.94",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(H=\\dfrac{u^2\\sin^2\\alpha}{2g}=\\dfrac{19.6^2\\times\\frac14}{2\\times9.8}=\\dfrac{19.6}{4}=4.9\\) মিটার।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-031",
+      "text": "স্রোতের বেগ u এবং নৌকার বেগ v, নৌকাটি স্রোতের বিপরীত দিকে চালালে স্রোতের সাপেক্ষে নৌকাটির আপেক্ষিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(u + v\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(u - v\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(v\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(v - u\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্রোতের বিপরীতে চললে স্রোতের সাপেক্ষে নৌকার আপেক্ষিক বেগ \\(=v+u\\) (বেগ দুটি পরস্পর বিপরীতমুখী, তাই আপেক্ষিক বেগ যোগফল)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-032",
+      "text": "বলটির সর্বাধিক আনুভূমিক পাল্লা কত মিটার?",
+      "text_en": null,
+      "image": null,
+      "stem": "O বিন্দু হতে একটি বলকে তীর্যকভাবে ছুঁড়ে দেওয়া হলো। বলটির গতিপথের সর্বোচ্চ বিন্দু C এবং বলটি T সময় পড়ে নিক্ষেপণ বিন্দুর সমতলে A বিন্দুতে ফিরে আসে।",
+      "stem_image": "assets/higher_math_2nd-ch9-mcq-032-stem.svg",
+      "group": "higher_math_2nd-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "56.4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "48.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45.4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40.8",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(R=\\dfrac{u^2\\sin2\\alpha}g=\\dfrac{20^2\\times\\sin90^\\circ}{9.8}=\\dfrac{400}{9.8}\\approx40.8\\) মিটার।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-033",
+      "text": "C বিন্দুতে পৌঁছাতে কত সেকেন্ড সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "O বিন্দু হতে একটি বলকে তীর্যকভাবে ছুঁড়ে দেওয়া হলো। বলটির গতিপথের সর্বোচ্চ বিন্দু C এবং বলটি T সময় পড়ে নিক্ষেপণ বিন্দুর সমতলে A বিন্দুতে ফিরে আসে।",
+      "stem_image": "assets/higher_math_2nd-ch9-mcq-032-stem.svg",
+      "group": "higher_math_2nd-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "4.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.4",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(C\\) বিন্দুতে পৌঁছাতে সময় \\(t=\\dfrac{u\\sin\\alpha}g=\\dfrac{20\\times\\frac1{\\sqrt2}}{9.8}=\\dfrac{14.14}{9.8}\\approx1.4\\) সেকেন্ড।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

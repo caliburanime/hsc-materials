@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="300" height="230">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="300" height="230" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<line x1="40" y1="45" x2="40" y2="170"/>
+<line x1="40" y1="170" x2="240" y2="170"/>
+<line x1="40" y1="150" x2="240" y2="150"/>
+<line x1="40" y1="130" x2="240" y2="130"/>
+<line x1="40" y1="110" x2="240" y2="110"/>
+<line x1="40" y1="90" x2="240" y2="90"/>
+<line x1="40" y1="70" x2="240" y2="70"/>
+<line x1="40" y1="50" x2="240" y2="50"/>
+<line x1="90" y1="110" x2="90" y2="169" marker-end="url(#a)"/>
+<line x1="140" y1="90" x2="140" y2="149" marker-end="url(#a)"/>
+<line x1="190" y1="70" x2="190" y2="129" marker-end="url(#a)"/>
+</g>
+<g font-family="serif" font-size="14" fill="#111">
+<text x="28" y="175" text-anchor="end" font-style="normal">1</text>
+<text x="28" y="155" text-anchor="end" font-style="normal">2</text>
+<text x="28" y="135" text-anchor="end" font-style="normal">3</text>
+<text x="28" y="115" text-anchor="end" font-style="normal">4</text>
+<text x="28" y="95" text-anchor="end" font-style="normal">5</text>
+<text x="28" y="75" text-anchor="end" font-style="normal">6</text>
+<text x="28" y="55" text-anchor="end" font-style="normal">7</text>
+<text x="96" y="167" font-style="italic" font-size="15">X</text>
+<text x="146" y="147" font-style="italic" font-size="15">Y</text>
+<text x="196" y="127" font-style="italic" font-size="15">Z</text>
+</g>
+<text x="140" y="205" text-anchor="middle" font-size="14" fill="#111" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif">H-পারমাণবিক বর্ণালি</text>
+</svg>

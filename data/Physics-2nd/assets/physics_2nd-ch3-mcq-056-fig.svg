@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="270" viewBox="0 0 360 270">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="360" height="270" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<line x1="176.5" y1="24.0" x2="176.5" y2="46.0" stroke-width="1.95"/>
+<line x1="183.5" y1="29.0" x2="183.5" y2="41.0" stroke-width="3.30"/>
+<line x1="40.0" y1="100.0" x2="176.5" y2="35.0" />
+<line x1="183.5" y1="35.0" x2="320.0" y2="100.0" />
+<text x="180.0" y="65.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >r</text>
+<text x="189.0" y="25.0" font-size="13.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="#fff" stroke-width="3.0" paint-order="stroke" >3 V</text>
+<line x1="176.5" y1="89.0" x2="176.5" y2="111.0" stroke-width="1.95"/>
+<line x1="183.5" y1="94.0" x2="183.5" y2="106.0" stroke-width="3.30"/>
+<line x1="40.0" y1="100.0" x2="176.5" y2="100.0" />
+<line x1="183.5" y1="100.0" x2="320.0" y2="100.0" />
+<text x="180.0" y="130.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >r</text>
+<text x="189.0" y="96.0" font-size="13.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="#fff" stroke-width="3.0" paint-order="stroke" >3 V</text>
+<line x1="176.5" y1="154.0" x2="176.5" y2="176.0" stroke-width="1.95"/>
+<line x1="183.5" y1="159.0" x2="183.5" y2="171.0" stroke-width="3.30"/>
+<line x1="40.0" y1="100.0" x2="176.5" y2="165.0" />
+<line x1="183.5" y1="165.0" x2="320.0" y2="100.0" />
+<text x="180.0" y="195.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >r</text>
+<text x="189.0" y="181.0" font-size="13.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="#fff" stroke-width="3.0" paint-order="stroke" >3 V</text>
+<circle cx="40.0" cy="100.0" r="3.0" fill="#111" stroke="none"/>
+<circle cx="320.0" cy="100.0" r="3.0" fill="#111" stroke="none"/>
+<text x="32.0" y="105.0" font-size="15.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >A</text>
+<text x="328.0" y="105.0" font-size="15.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >B</text>
+<polyline points="40.0,100.0 40.0,225.0 145.0,225.0" />
+<polyline points="215.0,225.0 320.0,225.0 320.0,100.0" />
+<polyline points="145.0,225.0 153.4,225.0 157.8,231.0 166.7,219.0 175.6,231.0 184.4,219.0 193.3,231.0 202.2,219.0 206.6,225.0 215.0,225.0" />
+<text x="180.0" y="252.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >R</text>
+</g>
+</svg>

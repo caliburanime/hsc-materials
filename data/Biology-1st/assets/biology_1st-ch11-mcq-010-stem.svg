@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 230" width="380" height="230">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111" stroke="none"/></marker>
+<pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="4" height="4" fill="#fff"/><line x1="0" y1="0" x2="0" y2="4" stroke="#111" stroke-width="1"/></pattern>
+<pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#e4e4e4"/><circle cx="1.5" cy="1.5" r="0.7" fill="#111"/><circle cx="4" cy="4" r="0.7" fill="#111"/></pattern>
+</defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M100,34 L138,34 L134,52 L104,52 Z" fill="url(#dots)"/><path d="M107,52 L107,100 L50,190 L190,190 L133,100 L133,52" fill="#fff"/><path d="M70,160 L170,160" stroke-width="1.2" stroke-dasharray="1.5 3"/><path d="M62,172 L178,172 M58,181 L182,181" stroke-width="1" stroke-dasharray="1.5 4"/><path d="M112,166 C108,156 118,148 126,152 C132,146 142,152 140,160 C146,168 138,176 128,174 C120,180 110,176 112,166 Z" fill="url(#dots)"/><path d="M142,164 L214,164" marker-end="url(#ar)"/><text x="226" y="170" font-family="serif" font-size="16" font-style="italic" text-anchor="middle" fill="#111" stroke="none" >A</text><circle cx="320" cy="112" r="42" fill="#fff" /><circle cx="320" cy="112" r="35" fill="#fff" /><path d="M352,86 A42,42 0 0 1 356,128" stroke-width="5"/><text x="120" y="218" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="13" text-anchor="middle" fill="#111" stroke="none">চিত্র-<tspan font-family="serif" font-style="italic">Q</tspan></text><text x="320" y="218" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="13" text-anchor="middle" fill="#111" stroke="none">চিত্র-<tspan font-family="serif" font-style="italic">R</tspan></text>
+</g>
+</svg>

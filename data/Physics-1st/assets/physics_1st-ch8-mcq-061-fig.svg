@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 210" width="340" height="210">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker>
+<pattern id="ht" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern>
+</defs>
+<rect width="340" height="210" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15" >
+<line x1="60.0" y1="25.0" x2="60.0" y2="185.0" stroke-width="2"/>
+<line x1="60.0" y1="37.0" x2="48.0" y2="25.0" stroke-width="1"/>
+<line x1="60.0" y1="49.0" x2="48.0" y2="37.0" stroke-width="1"/>
+<line x1="60.0" y1="61.0" x2="48.0" y2="49.0" stroke-width="1"/>
+<line x1="60.0" y1="73.0" x2="48.0" y2="61.0" stroke-width="1"/>
+<line x1="60.0" y1="85.0" x2="48.0" y2="73.0" stroke-width="1"/>
+<line x1="60.0" y1="97.0" x2="48.0" y2="85.0" stroke-width="1"/>
+<line x1="60.0" y1="109.0" x2="48.0" y2="97.0" stroke-width="1"/>
+<line x1="60.0" y1="121.0" x2="48.0" y2="109.0" stroke-width="1"/>
+<line x1="60.0" y1="133.0" x2="48.0" y2="121.0" stroke-width="1"/>
+<line x1="60.0" y1="145.0" x2="48.0" y2="133.0" stroke-width="1"/>
+<line x1="60.0" y1="157.0" x2="48.0" y2="145.0" stroke-width="1"/>
+<line x1="60.0" y1="169.0" x2="48.0" y2="157.0" stroke-width="1"/>
+<line x1="60.0" y1="181.0" x2="48.0" y2="169.0" stroke-width="1"/>
+<line x1="60.0" y1="193.0" x2="48.0" y2="181.0" stroke-width="1"/>
+<rect x="240" y="25" width="36" height="160" fill="url(#ht)"/>
+<polyline points="60.0,65.0 100.0,65.0 106.2,56.0 118.8,74.0 131.2,56.0 143.8,74.0 156.2,56.0 168.8,74.0 181.2,56.0 193.8,74.0 200.0,65.0 240.0,65.0"/>
+<polyline points="60.0,145.0 100.0,145.0 106.2,136.0 118.8,154.0 131.2,136.0 143.8,154.0 156.2,136.0 168.8,154.0 181.2,136.0 193.8,154.0 200.0,145.0 240.0,145.0"/>
+<text x="150" y="45" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">K<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="150" y="180" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">K<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="300" y="108" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">m</text>
+</g></svg>

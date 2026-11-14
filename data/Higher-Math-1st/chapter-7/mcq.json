@@ -1,0 +1,1577 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 7,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch7-mcq-001",
+      "text": "\\(\\tan A = \\dfrac{1}{\\sqrt{3}}\\) হলে \\(\\sin 3A = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{\\sqrt{3}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan A=\\dfrac{1}{\\sqrt{3}}\\Rightarrow A=30^\\circ\\)\n\\(\\sin3A=\\sin90^\\circ=1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-002",
+      "text": "ABC ত্রিভুজের তিনটি বাহু \\(a = 3,\\ b = 4\\) এবং \\(c = 5\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(5 = 4\\cos A + 3\\cos B\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\cos\\dfrac{C}{2} = \\dfrac{1}{\\sqrt{2}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\tan\\dfrac{A - C}{2} = \\dfrac{1}{4}\\cot\\dfrac{B}{2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(3^2+4^2=5^2\\), তাই \\(\\angle C=90^\\circ\\)।\ni. প্রক্ষেপ সূত্রে \\(c=a\\cos B+b\\cos A=3\\cos B+4\\cos A\\) — সত্য।\nii. \\(\\cos\\dfrac{C}{2}=\\cos45^\\circ=\\dfrac{1}{\\sqrt{2}}\\) — সত্য।\niii. নেপিয়ার সূত্রে \\(\\tan\\dfrac{A-C}{2}=\\dfrac{a-c}{a+c}\\cot\\dfrac{B}{2}=-\\dfrac{1}{4}\\cot\\dfrac{B}{2}\\); চিহ্ন ভিন্ন — মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-003",
+      "text": "চিত্রের আলোকে কোন সম্পর্কটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-003-stem.svg",
+      "group": "higher_math_1st-2023-BB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin A = 2\\sin C\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sin A = \\sin C\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\sin A = 2\\sin C\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\sin A = 3\\sin C\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(BC=a=6,\\ AB=c=3\\)। সাইন সূত্রে \\(\\dfrac{\\sin A}{a}=\\dfrac{\\sin C}{c}\\)\n\\(\\dfrac{\\sin A}{6}=\\dfrac{\\sin C}{3}\\Rightarrow\\sin A=2\\sin C\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-004",
+      "text": "\\(\\cos B\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-003-stem.svg",
+      "group": "higher_math_1st-2023-BB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{11}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{11}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{29}{36}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{43}{48}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(a=6,\\ b=4,\\ c=3\\)।\n\\(\\cos B=\\dfrac{a^2+c^2-b^2}{2ac}=\\dfrac{36+9-16}{36}=\\dfrac{29}{36}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-005",
+      "text": "\\(A + B = \\dfrac{\\pi}{2}\\) হলে নিম্নের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan A = \\tan B\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan A = -\\tan B\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan A\\tan B = -1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan A\\tan B = 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(B=\\dfrac{\\pi}{2}-A\\Rightarrow\\tan B=\\cot A\\)\n\\(\\therefore\\tan A\\tan B=1\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-006",
+      "text": "\\(\\Delta ABC\\) এ \\(a^2 + b^2 - c^2 = 2ab\\) হলে \\(\\angle C = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(180^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos C=\\dfrac{a^2+b^2-c^2}{2ab}=\\dfrac{2ab}{2ab}=1\\)\n\\(\\therefore C=0^\\circ\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-007",
+      "text": "\\(\\dfrac{1 + \\cos\\theta}{\\sin\\theta} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan\\dfrac{\\theta}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\cot\\dfrac{\\theta}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\cot\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1+\\cos\\theta}{\\sin\\theta}=\\dfrac{2\\cos^2\\frac{\\theta}{2}}{2\\sin\\frac{\\theta}{2}\\cos\\frac{\\theta}{2}}=\\cot\\dfrac{\\theta}{2}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-008",
+      "text": "\\(a = 2,\\ b = 1,\\ \\angle C = 60^\\circ\\) হলে \\(\\Delta ABC\\) এর ক্ষেত্রফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\sqrt{3}}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্ষেত্রফল \\(=\\dfrac{1}{2}ab\\sin C=\\dfrac{1}{2}\\cdot2\\cdot1\\cdot\\sin60^\\circ=\\dfrac{\\sqrt{3}}{2}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-009",
+      "text": "যদি \\(\\dfrac{\\pi}{2} < \\theta < \\pi\\) এবং \\(\\sin\\theta = \\dfrac{3}{5}\\) হয়, তবে \\(\\cos\\theta\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{4}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{4}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^2\\theta=1-\\dfrac{9}{25}=\\dfrac{16}{25}\\)\n\\(\\theta\\) দ্বিতীয় চতুর্ভাগে, তাই \\(\\cos\\theta=-\\dfrac{4}{5}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-010",
+      "text": "উদ্দীপকে ত্রিভুজটির ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch7-mcq-010-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষেত্রফল \\(=\\dfrac{1}{2}\\cdot AB\\cdot BC\\sin B=\\dfrac{1}{2}\\cdot3\\cdot4\\cdot\\sin30^\\circ=3\\) বর্গ একক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-011",
+      "text": "\\(\\cos\\theta = -\\dfrac{12}{13}\\) এবং \\(\\pi < \\theta < \\dfrac{3\\pi}{2}\\) হলে \\(\\tan\\theta\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-5}{12}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{-12}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{5}{12}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{12}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\theta\\) তৃতীয় চতুর্ভাগে, \\(\\sin\\theta=-\\sqrt{1-\\dfrac{144}{169}}=-\\dfrac{5}{13}\\)\n\\(\\tan\\theta=\\dfrac{\\sin\\theta}{\\cos\\theta}=\\dfrac{-5/13}{-12/13}=\\dfrac{5}{12}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-012",
+      "text": "\\(\\tan\\dfrac{\\theta}{2} = \\dfrac{3}{4}\\) হলে \\(\\cos\\theta\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{9}{16}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{7}{25}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{24}{25}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{25}{7}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\theta=\\dfrac{1-\\tan^2\\frac{\\theta}{2}}{1+\\tan^2\\frac{\\theta}{2}}=\\dfrac{1-\\frac{9}{16}}{1+\\frac{9}{16}}=\\dfrac{7}{25}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-013",
+      "text": "\\(\\sin\\theta = \\dfrac{1}{3}\\) হলে, \\(\\sin 3\\theta\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{27}{31}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{-23}{27}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{23}{27}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{9}{11}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin3\\theta=3\\sin\\theta-4\\sin^3\\theta=1-\\dfrac{4}{27}=\\dfrac{23}{27}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-014",
+      "text": "\\(\\cos\\dfrac{A}{2} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-014-stem.svg",
+      "group": "higher_math_1st-2023-DB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{\\dfrac{s(s-a)}{bc}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{\\dfrac{(s-b)(s-c)}{bc}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{\\dfrac{bc}{s(s-a)}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\dfrac{bc}{(s-b)(s-c)}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অর্ধকোণের সূত্র: \\(\\cos\\dfrac{A}{2}=\\sqrt{\\dfrac{s(s-a)}{bc}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-015",
+      "text": "উদ্দীপকে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-014-stem.svg",
+      "group": "higher_math_1st-2023-DB-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(b = c\\cos A + a\\cos C\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(c^2 = a^2 + b^2 + 2ab\\cos C\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(c = 2R\\sin C\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "i. প্রক্ষেপ সূত্র \\(b=c\\cos A+a\\cos C\\) — সত্য।\nii. cosine সূত্র: \\(c^2=a^2+b^2-2ab\\cos C\\); প্রদত্তে চিহ্ন ভুল — মিথ্যা।\niii. সাইন সূত্র থেকে \\(c=2R\\sin C\\) — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-016",
+      "text": "ABC ত্রিভুজের ক্ষেত্রফল \\(\\Delta = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{abc}{4R}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{4R}{abc}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{abc}{R}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{R}{abc}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta=\\dfrac{1}{2}ab\\sin C\\) এবং \\(\\sin C=\\dfrac{c}{2R}\\) বসিয়ে \\(\\Delta=\\dfrac{abc}{4R}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-017",
+      "text": "\\(\\cot\\theta = \\dfrac{4}{3}\\) এবং \\(\\pi < \\theta < \\dfrac{3\\pi}{2}\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\sin\\theta = \\dfrac{3}{5}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\cos^2\\theta = \\dfrac{16}{25}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\operatorname{cosec}\\theta \\cdot \\sec\\theta = \\dfrac{25}{12}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cot\\theta=\\dfrac{4}{3}\\), \\(\\theta\\) তৃতীয় চতুর্ভাগে: \\(\\sin\\theta=-\\dfrac{3}{5},\\ \\cos\\theta=-\\dfrac{4}{5}\\)।\ni. \\(\\sin\\theta=-\\dfrac{3}{5}\\), প্রদত্ত \\(\\dfrac{3}{5}\\) — মিথ্যা।\nii. \\(\\cos^2\\theta=\\dfrac{16}{25}\\) — সত্য।\niii. \\(\\operatorname{cosec}\\theta\\sec\\theta=\\left(-\\dfrac{5}{3}\\right)\\left(-\\dfrac{5}{4}\\right)=\\dfrac{25}{12}\\) — সত্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-018",
+      "text": "\\(\\dfrac{1 - \\tan^2\\left(\\frac{\\pi}{4} + x\\right)}{1 + \\tan^2\\left(\\frac{\\pi}{4} + x\\right)}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin 2x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\cos 2x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\sin 2x\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\cos 2x\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1-\\tan^2u}{1+\\tan^2u}=\\cos2u\\), যেখানে \\(u=\\dfrac{\\pi}{4}+x\\)।\n\\(\\cos\\left(\\dfrac{\\pi}{2}+2x\\right)=-\\sin2x\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-019",
+      "text": "\\(\\Delta ABC\\) এ, \\(\\angle B = 60^\\circ,\\ \\angle C = 30^\\circ\\) এবং \\(b = 3\\sqrt{3}\\) একক হলে c এর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}\\) একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\) একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{3}\\) একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 একক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(A=180^\\circ-90^\\circ=90^\\circ\\)। সাইন সূত্রে \\(\\dfrac{c}{\\sin C}=\\dfrac{b}{\\sin B}\\)\n\\(c=\\dfrac{3\\sqrt{3}\\sin30^\\circ}{\\sin60^\\circ}=\\dfrac{3\\sqrt{3}\\cdot\\frac{1}{2}}{\\frac{\\sqrt{3}}{2}}=3\\) একক।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-020",
+      "text": "\\(\\sin(A - 30^\\circ) + \\sin(150^\\circ + A)\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sin(A - 30^\\circ)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sin A\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin(150^\\circ+A)=\\sin\\{180^\\circ-(30^\\circ-A)\\}=\\sin(30^\\circ-A)=-\\sin(A-30^\\circ)\\)\n\\(\\therefore\\) যোগফল \\(=0\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-021",
+      "text": "\\(\\dfrac{2\\tan(45^\\circ + x)}{1 + \\tan^2(45^\\circ + x)} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\cos 2x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sin 2x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\cot 2x\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan 2x\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{2\\tan u}{1+\\tan^2u}=\\sin2u\\), \\(u=45^\\circ+x\\)।\n\\(\\sin(90^\\circ+2x)=\\cos2x\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-022",
+      "text": "\\(\\dfrac{1 + \\tan 30^\\circ}{1 - \\tan 30^\\circ}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\cos 15^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan 15^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\cos 75^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan 75^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1+\\tan30^\\circ}{1-\\tan30^\\circ}=\\dfrac{\\tan45^\\circ+\\tan30^\\circ}{1-\\tan45^\\circ\\tan30^\\circ}=\\tan75^\\circ\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-023",
+      "text": "একটি ত্রিভুজের বাহুগুলোর পরিমাণ যথাক্রমে 4, 6 ও 8 একক হলে, বৃহৎ কোণটির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\cos^{-1}\\left(\\dfrac{7}{8}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\cos^{-1}\\left(\\dfrac{5}{48}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\cos^{-1}\\left(-\\dfrac{1}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\cos^{-1}\\left(\\dfrac{1}{4}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বৃহত্তম কোণ বৃহত্তম বাহু 8 এর বিপরীতে।\n\\(\\cos\\theta=\\dfrac{4^2+6^2-8^2}{2\\cdot4\\cdot6}=\\dfrac{-12}{48}=-\\dfrac{1}{4}\\)\n\\(\\theta=\\cos^{-1}\\left(-\\dfrac{1}{4}\\right)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-024",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\cos 2\\theta = \\cos^2\\theta - \\sin^2\\theta\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\cos 2\\theta = \\dfrac{1 - \\tan^2\\theta}{1 + \\tan^2\\theta}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\cos 2\\theta = \\dfrac{\\cot^2\\theta - 1}{\\operatorname{cosec}^2\\theta}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "i. \\(\\cos2\\theta=\\cos^2\\theta-\\sin^2\\theta\\) — সত্য।\nii. \\(\\cos2\\theta=\\dfrac{1-\\tan^2\\theta}{1+\\tan^2\\theta}\\) — সত্য।\niii. \\(\\dfrac{\\cot^2\\theta-1}{\\operatorname{cosec}^2\\theta}=\\dfrac{\\cos^2\\theta-\\sin^2\\theta}{\\sin^2\\theta}\\cdot\\sin^2\\theta=\\cos2\\theta\\) — সত্য।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-025",
+      "text": "\\(A + B = \\dfrac{\\pi}{4}\\) হলে, \\(\\cos^2 A - \\cos^2 B\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\cos(A - B)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\sin(B - A)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\cos(A - B)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\sin(B - A)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^2A-\\cos^2B=\\sin(A+B)\\sin(B-A)\\)\n\\(=\\sin\\dfrac{\\pi}{4}\\sin(B-A)=\\dfrac{1}{\\sqrt{2}}\\sin(B-A)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-026",
+      "text": "\\(\\sin(-3690^\\circ)\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin(-3690^\\circ)=-\\sin3690^\\circ=-\\sin(10\\times360^\\circ+90^\\circ)=-\\sin90^\\circ=-1\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-027",
+      "text": "একটি ত্রিভুজের বাহুগুলির দৈর্ঘ্য যথাক্রমে 6 cm, 8 cm এবং 10 cm। ত্রিভুজটির পরিব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6 cm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7 cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8 cm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5 cm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(6^2+8^2=10^2\\), তাই ত্রিভুজটি সমকোণী; অতিভুজ 10 cm হলো পরিবৃত্তের ব্যাস।\nপরিব্যাসার্ধ \\(=\\dfrac{10}{2}=5\\) cm",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-028",
+      "text": "\\(\\sqrt{4\\sin^2\\dfrac{\\pi}{24}}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2 - \\sqrt{2 + \\sqrt{3}}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{2 + \\sqrt{2 + \\sqrt{3}}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2 - \\sqrt{2 - \\sqrt{3}}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2 + \\sqrt{2 - \\sqrt{3}}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(4\\sin^2\\dfrac{\\pi}{24}=2\\left(1-\\cos\\dfrac{\\pi}{12}\\right)=2-2\\cos15^\\circ\\)\n\\(4\\cos^215^\\circ=2(1+\\cos30^\\circ)=2+\\sqrt{3}\\Rightarrow2\\cos15^\\circ=\\sqrt{2+\\sqrt{3}}\\)\n\\(\\therefore\\) মান \\(=\\sqrt{2-\\sqrt{2+\\sqrt{3}}}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-029",
+      "text": "\\(\\tan 4\\theta\\) এর মান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2\\tan 2\\theta}{1 + \\tan^2 2\\theta}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2\\tan 2\\theta}{1 - \\tan^2 2\\theta}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2\\tan\\theta}{1 - \\tan^2\\theta}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1 - \\tan^2 2\\theta}{1 + \\tan^2 2\\theta}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan2A=\\dfrac{2\\tan A}{1-\\tan^2A}\\) এ \\(A=2\\theta\\) বসিয়ে \\(\\tan4\\theta=\\dfrac{2\\tan2\\theta}{1-\\tan^22\\theta}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-030",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin(-\\theta) = \\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan(-\\theta) = \\tan\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sec(-\\theta) = \\sec\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\operatorname{cosec}(-\\theta) = \\operatorname{cosec}\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos(-\\theta)=\\cos\\theta\\), তাই \\(\\sec(-\\theta)=\\sec\\theta\\)। অন্যগুলো বিজোড় ফাংশন: \\(\\sin(-\\theta)=-\\sin\\theta,\\ \\tan(-\\theta)=-\\tan\\theta,\\ \\operatorname{cosec}(-\\theta)=-\\operatorname{cosec}\\theta\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-031",
+      "text": "\\(\\dfrac{1 - \\tan 25^\\circ}{1 + \\tan 25^\\circ}\\) এর মান নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\cot 20^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan 20^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan 70^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\cot 70^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1-\\tan25^\\circ}{1+\\tan25^\\circ}=\\dfrac{\\tan45^\\circ-\\tan25^\\circ}{1+\\tan45^\\circ\\tan25^\\circ}=\\tan20^\\circ\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-032",
+      "text": "\\(\\tan\\left(19\\dfrac{\\pi}{2} - \\dfrac{\\pi}{6}\\right)\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{19\\pi}{2}=9\\pi+\\dfrac{\\pi}{2}\\); \\(\\tan\\) এর পর্যায় \\(\\pi\\)।\n\\(\\tan\\left(\\dfrac{\\pi}{2}-\\dfrac{\\pi}{6}\\right)=\\cot\\dfrac{\\pi}{6}=\\sqrt{3}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-033",
+      "text": "\\(\\Delta ABC\\) এ \\(AB = 12\\) সে.মি., \\(BC = 5\\) সে.মি., \\(AC = 13\\) সে.মি.",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\angle B = \\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ত্রিভুজটির ক্ষেত্রফল 30 বর্গ সে.মি."
+        },
+        {
+          "label": "iii",
+          "text": "ত্রিভুজটির পরিবৃত্তের ব্যাস 13 সে.মি."
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(5^2+12^2=13^2\\), তাই \\(B\\) এর বিপরীতে অতিভুজ \\(AC\\) — \\(\\angle B=\\dfrac{\\pi}{2}\\)।\ni. সত্য।\nii. ক্ষেত্রফল \\(=\\dfrac{1}{2}\\cdot12\\cdot5=30\\) বর্গ সে.মি. — সত্য।\niii. সমকোণী ত্রিভুজের অতিভুজই পরিবৃত্তের ব্যাস, তাই 13 সে.মি. — সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-034",
+      "text": "\\(2\\sin^2 75^\\circ\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-1-\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2-\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1+\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2+\\sqrt{3}}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(2\\sin^275^\\circ=1-\\cos150^\\circ=1+\\dfrac{\\sqrt{3}}{2}=\\dfrac{2+\\sqrt{3}}{2}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-035",
+      "text": "\\(\\cot\\theta = \\dfrac{3}{4}\\) ও \\(\\cos\\theta\\) ঋণাত্মক হলে \\(\\sin\\theta\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{4}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{5}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\dfrac{4}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cot\\theta>0\\) ও \\(\\cos\\theta<0\\) হলে \\(\\theta\\) তৃতীয় চতুর্ভাগে, তাই \\(\\sin\\theta<0\\)।\n\\(\\operatorname{cosec}^2\\theta=1+\\dfrac{9}{16}=\\dfrac{25}{16}\\Rightarrow\\sin\\theta=-\\dfrac{4}{5}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-036",
+      "text": "ABC ত্রিভুজের ক্ষেত্রফল কত বর্গএকক?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-036-stem.svg",
+      "group": "higher_math_1st-2023-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষেত্রফল \\(=\\dfrac{1}{2}\\cdot AB\\cdot BC\\sin B=\\dfrac{1}{2}\\cdot4\\cdot3\\sin45^\\circ=6\\cdot\\dfrac{1}{\\sqrt{2}}=3\\sqrt{2}\\) বর্গ একক।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-037",
+      "text": "AC বাহুর দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch7-mcq-036-stem.svg",
+      "group": "higher_math_1st-2023-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{25 + 12\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{25 - 12\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{13}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{37}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(AC^2=AB^2+BC^2-2\\cdot AB\\cdot BC\\cos B=16+9-24\\cos45^\\circ=25-12\\sqrt{2}\\)\n\\(AC=\\sqrt{25-12\\sqrt{2}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-038",
+      "text": "\\(\\sin(A - 30^\\circ) + \\sin(150^\\circ + A)\\) এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{1}{2}\\cos A\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\cos A\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sin A\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin(150^\\circ+A)=\\sin(30^\\circ-A)=-\\sin(A-30^\\circ)\\)\n\\(\\therefore\\) যোগফল \\(=0\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

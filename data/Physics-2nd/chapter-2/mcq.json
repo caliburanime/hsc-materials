@@ -1,0 +1,3653 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch2-mcq-001",
+      "text": "শূন্যস্থানে কোনো তলে 10 C চার্জ আবদ্ধ থাকলে বৈদ্যুতিক ফ্লাক্স কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10\\epsilon_0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{10}{\\epsilon_0}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{10}{4\\pi\\epsilon_0}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\epsilon_0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গাউসের সূত্র অনুযায়ী \\(\\phi = \\frac{q}{\\epsilon_0} = \\frac{10}{\\epsilon_0}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-002",
+      "text": "18 C চার্জকে একস্থান থেকে অন্যস্থানে আনতে কত কাজ হবে যদি বিভব পার্থক্য 200 V হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(36 \\times 10^{7}\\) erg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(36 \\times 10^{8}\\) erg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(36 \\times 10^{9}\\) erg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(36 \\times 10^{10}\\) erg",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(W = qV = 18 \\times 200 = 3600\\ \\mathrm{J}\\)\n\\(1\\ \\mathrm{J} = 10^7\\ \\mathrm{erg}\\) হওয়ায় \\(W = 3600 \\times 10^7 = 36 \\times 10^{9}\\ \\mathrm{erg}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-003",
+      "text": "C ধারকত্ব বিশিষ্ট n সংখ্যক পানির ফোটা মিলিত হয়ে একটি বড় ফোটা তৈরি করে। বড় ফোটার ধারকত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(n^3C\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(n^{\\frac{1}{3}}C\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "nC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{n}\\,C\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আয়তন সংরক্ষিত থাকে: \\(\\frac{4}{3}\\pi R^3 = n \\cdot \\frac{4}{3}\\pi r^3\\), তাই \\(R = n^{1/3}r\\)।\nধারকত্ব ব্যাসার্ধের সমানুপাতিক (\\(C = 4\\pi\\epsilon_0 r\\)), তাই বড় ফোটার ধারকত্ব \\(= n^{\\frac{1}{3}}C\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-004",
+      "text": "তড়িৎ দ্বিমেরু ভ্রামকের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N−m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "C−m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "V−m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Wb−m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্বিমেরু ভ্রামক \\(p = q \\times d\\), তাই এর একক কুলম্ব-মিটার (C-m)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-005",
+      "text": "নিম্নের কোনটি চার্জের মান হতে পারে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "15e",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10e",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.5e",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−7e",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চার্জ কোয়ান্টায়িত, অর্থাৎ \\(q = ne\\) যেখানে \\(n\\) পূর্ণসংখ্যা। \\(4.5e\\) এ \\(n\\) পূর্ণসংখ্যা নয়, তাই এটি চার্জের মান হতে পারে না।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-006",
+      "text": "চার্জের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওহম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুলম্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোল্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাম্পিয়ার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চার্জের SI একক কুলম্ব (C)। ওহম রোধের, ভোল্ট বিভবের এবং অ্যাম্পিয়ার প্রবাহের একক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-007",
+      "text": "তড়িৎ প্রাবল্য ও চার্জের মধ্যকার সম্পর্কসূচক লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-007-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-007-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-007-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-007-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(E = \\frac{1}{4\\pi\\epsilon_0}\\frac{q}{r^2}\\) অনুযায়ী \\(r\\) স্থির থাকলে \\(E \\propto q\\)। তাই \\(E\\text{–}q\\) লেখ মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-008",
+      "text": "নিচের কোনটি আধান ঘনত্বের একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{C\\,m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C\\,m^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{C\\,m^{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{C\\,m^{3}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আধান ঘনত্ব (পৃষ্ঠ আধান ঘনত্ব) \\(\\sigma = \\frac{q}{A}\\), একক \\(\\mathrm{C\\,m^{-2}}\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-009",
+      "text": "একটি নির্দিষ্ট ধারকের সঞ্চিত শক্তি 36 গুণ করতে হলে এর আধান কত গুণ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(U = \\frac{Q^2}{2C}\\), তাই \\(U \\propto Q^2\\) (\\(C\\) নির্দিষ্ট)।\n\\(U' = 36U\\) হলে \\(Q'^2 = 36Q^2\\), অর্থাৎ \\(Q' = 6Q\\)। আধান 6 গুণ করতে হবে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-010",
+      "text": "তড়িৎ প্রাবল্য \\(E = by^2\\), যেখানে b ধ্রুবক। তড়িৎ বিভব, V কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\frac{by^3}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2by",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−2by",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{by^3}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(V = -\\int E\\,dy = -\\int by^2\\,dy = -\\frac{by^3}{3}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-011",
+      "text": "কুলম্বের সূত্রটি নিচের কোনটির ক্ষেত্রে প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যে কোনো চার্জ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃহৎ চার্জ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্ষুদ্র চার্জ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিন্দু চার্জ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কুলম্বের সূত্র দুটি স্থির বিন্দু চার্জের মধ্যকার বলের জন্য প্রযোজ্য।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-012",
+      "text": "একটি তড়িৎক্ষেত্রকে যদি \\((6\\hat{i} + 4\\hat{j} + 3\\hat{k})\\) দ্বারা প্রকাশ করা হয়, তবে xy তলে অবস্থিত \\(20\\,\\mathrm{m^2}\\) ক্ষেত্রফলবিশিষ্ট তলের মধ্যদিয়ে অতিক্রান্ত তড়িৎফ্লাক্সের পরিমাণ নির্ণয় কর।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "60 একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "80 একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "120 একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "140 একক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "xy তলের ক্ষেত্রফল ভেক্টর \\(\\vec{A} = 20\\hat{k}\\)।\n\\(\\phi = \\vec{E}\\cdot\\vec{A} = (6\\hat{i}+4\\hat{j}+3\\hat{k})\\cdot 20\\hat{k} = 60\\) একক",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-013",
+      "text": "তড়িৎ বলরেখা সমবিভব তলকে ছেদ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0° কোণে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45° কোণে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60° কোণে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90° কোণে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমবিভব তলের প্রতিটি বিন্দুতে তড়িৎক্ষেত্র তলের লম্ব বরাবর, তাই তড়িৎ বলরেখা সমবিভব তলকে \\(90^\\circ\\) কোণে ছেদ করে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-014",
+      "text": "কুলম্বের সূত্রের ভেক্টররূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{F} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{\\vec{r}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{F} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{\\vec{r}^{\\,2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{F} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^3}\\vec{r}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{F} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^2}\\vec{r}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মান \\(F = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^2}\\) এবং দিক \\(\\hat{r} = \\frac{\\vec{r}}{r}\\)।\nতাই \\(\\vec{F} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^2}\\hat{r} = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^3}\\vec{r}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-015",
+      "text": "তড়িৎক্ষেত্রের কোনো বিন্দুর বিভবের মান নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চার্জের পরিমাণের উপর"
+        },
+        {
+          "label": "ii",
+          "text": "বিন্দু থেকে দূরত্বের উপর"
+        },
+        {
+          "label": "iii",
+          "text": "মাধ্যমের প্রকৃতির উপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(V = \\frac{1}{4\\pi\\epsilon}\\frac{q}{r}\\) অনুযায়ী বিভব চার্জের পরিমাণ (\\(q\\)), বিন্দু থেকে দূরত্ব (\\(r\\)) এবং মাধ্যমের প্রকৃতির (\\(\\epsilon\\)) উপর নির্ভর করে। তিনটি বিবৃতিই সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-016",
+      "text": "নিচের বর্তনীর মোট আধান কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-016-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 \\times 10^{-6}\\) C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3 \\times 10^{-6}\\) C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4 \\times 10^{-6}\\) C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6 \\times 10^{-6}\\) C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল দুটি \\(1\\,\\mu\\mathrm{F}\\) এর তুল্য ধারকত্ব \\(2\\,\\mu\\mathrm{F}\\)। এটি অপর \\(1\\,\\mu\\mathrm{F}\\) এর সাথে শ্রেণিতে:\n\\(C = \\frac{1 \\times 2}{1+2} = \\frac{2}{3}\\,\\mu\\mathrm{F}\\)\n\\(Q = CV = \\frac{2}{3} \\times 10^{-6} \\times 6 = 4 \\times 10^{-6}\\ \\mathrm{C}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-017",
+      "text": "C বিন্দুর তড়িৎ প্রাবল্যের মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_2nd-ch2-mcq-017-stem.svg",
+      "group": "physics_2nd-2025-JB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.6 \\times 10^{14}\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.4 \\times 10^{14}\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.8 \\times 10^{13}\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.125 \\times 10^{13}\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(C\\) বিন্দু গোলকের বাইরে, \\(r = 8\\ \\mathrm{cm} = 0.08\\ \\mathrm{m}\\)।\n\\(E = \\frac{1}{4\\pi\\epsilon_0}\\frac{Q}{r^2} = \\frac{9 \\times 10^{9} \\times 100}{(0.08)^2} = \\frac{9 \\times 10^{11}}{6.4 \\times 10^{-3}} \\approx 1.4 \\times 10^{14}\\ \\mathrm{NC^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-018",
+      "text": "উদ্দীপকের চিত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_2nd-ch2-mcq-017-stem.svg",
+      "group": "physics_2nd-2025-JB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "B বিন্দুর প্রাবল্য শূন্য"
+        },
+        {
+          "label": "ii",
+          "text": "A ও B বিন্দুর বিভবের মান সমান"
+        },
+        {
+          "label": "iii",
+          "text": "B বিন্দুর বিভব \\(3 \\times 10^{13}\\) V"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) পরিবাহী গোলকের ভিতরে (\\(B\\) বিন্দুতে) তড়িৎ প্রাবল্য শূন্য — সত্য।\n(ii) গোলকের ভিতরের সব বিন্দুর বিভব পৃষ্ঠের বিভবের সমান, তাই \\(A\\) ও \\(B\\) এর বিভব সমান — সত্য।\n(iii) \\(V_B = V_A = \\frac{9 \\times 10^{9} \\times 100}{0.05} = 1.8 \\times 10^{13}\\ \\mathrm{V}\\), \\(3 \\times 10^{13}\\ \\mathrm{V}\\) নয় — মিথ্যা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-019",
+      "text": "তড়িৎ ফ্লাক্সের একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^2C^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C^2N^{-1}m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Nm^{-1}C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তড়িৎ ফ্লাক্স \\(\\phi = EA\\), তাই একক \\(\\mathrm{NC^{-1}} \\times \\mathrm{m^2} = \\mathrm{Nm^2C^{-1}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-020",
+      "text": "কোনো বস্তুতে নিচের কোন আধানটি পাওয়া সম্ভব নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12e",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−8e",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4.8 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8.42e",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চার্জ \\(e\\) এর পূর্ণ গুণিতক হয়। \\(12e\\) ও \\(-8e\\) পূর্ণ গুণিতক এবং \\(4.8 \\times 10^{-19} = 3e\\)। কিন্তু \\(8.42e\\) পূর্ণ গুণিতক নয়, তাই তা সম্ভব নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-021",
+      "text": "A ও B গোলকদ্বয়কে পরস্পর স্পর্শ করে আবার পূর্বের অবস্থায় রাখলে B গোলকে কতগুলো ইলেকট্রন অবশিষ্ট থাকবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সমব্যাসার্ধের দুটি গোলক A তে +2C চার্জ এবং B তে −6C চার্জ আছে।",
+      "stem_image": "assets/physics_2nd-ch2-mcq-021-stem.svg",
+      "group": "physics_2nd-2025-RB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.75 \\times 10^{19}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.20 \\times 10^{19}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.50 \\times 10^{19}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.25 \\times 10^{19}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্পর্শ করালে মোট চার্জ সমব্যাসার্ধের গোলকদ্বয়ে সমানভাবে ভাগ হয়:\n\\(q = \\frac{2 + (-6)}{2} = -2\\ \\mathrm{C}\\)\n\\(B\\) গোলকে অবশিষ্ট ইলেকট্রন \\(n = \\frac{2}{1.6 \\times 10^{-19}} = 1.25 \\times 10^{19}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-022",
+      "text": "উদ্দীপক অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সমব্যাসার্ধের দুটি গোলক A তে +2C চার্জ এবং B তে −6C চার্জ আছে।",
+      "stem_image": "assets/physics_2nd-ch2-mcq-021-stem.svg",
+      "group": "physics_2nd-2025-RB-5-6",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A গোলকের পৃষ্ঠের বিভব B এর পৃষ্ঠের চাইতে বেশি হবে"
+        },
+        {
+          "label": "ii",
+          "text": "A ও B গোলকের পৃষ্ঠে তড়িৎ প্রাবল্যের মান সমান"
+        },
+        {
+          "label": "iii",
+          "text": "A এর পৃষ্ঠের আধান ঘনত্ব B এর পৃষ্ঠের চেয়ে কম হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) \\(A\\) ধনাত্মক ও \\(B\\) ঋণাত্মক চার্জিত, তাই \\(V_A > V_B\\) — সত্য।\n(ii) \\(E = \\frac{1}{4\\pi\\epsilon_0}\\frac{q}{r^2}\\) এবং ব্যাসার্ধ সমান, কিন্তু \\(|q|\\) ভিন্ন (2 C ও 6 C), তাই প্রাবল্য সমান নয় — মিথ্যা।\n(iii) \\(\\sigma = \\frac{q}{4\\pi r^2}\\), ব্যাসার্ধ সমান হওয়ায় \\(A\\) এর চার্জ কম বলে এর আধান ঘনত্বও কম — সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-023",
+      "text": "তড়িৎ ফ্লাক্সের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Nm^2C^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NmC^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{C^2N^{-1}m^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তড়িৎ ফ্লাক্স \\(\\phi = \\frac{q}{\\epsilon_0}\\), তাই একক \\(\\mathrm{Nm^2C^{-1}}\\) (\\(\\epsilon_0\\) এর একক \\(\\mathrm{C^2N^{-1}m^{-2}}\\))।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-024",
+      "text": "বেতার যন্ত্রে টিউনের কাজে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিবর্তনশীল ধারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থিরমান ধারক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ বিশ্লেষক ধারক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাগজ ধারক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বেতার যন্ত্রে স্টেশন টিউন করতে ধারকত্ব পরিবর্তন করে অনুনাদ কম্পাঙ্ক নিয়ন্ত্রণ করা হয়, এজন্য পরিবর্তনশীল ধারক ব্যবহৃত হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-025",
+      "text": "তড়িৎ ক্ষেত্রের মান নির্ণয় করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কুলম্বের সূত্র থেকে"
+        },
+        {
+          "label": "ii",
+          "text": "অ্যাম্পিয়ারের সূত্র থেকে"
+        },
+        {
+          "label": "iii",
+          "text": "গাউসের সূত্র থেকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) কুলম্বের সূত্র থেকে \\(E = \\frac{F}{q_0}\\) নির্ণয় করা যায় — সত্য।\n(ii) অ্যাম্পিয়ারের সূত্র চৌম্বকক্ষেত্রের জন্য — মিথ্যা।\n(iii) গাউসের সূত্র থেকে তড়িৎক্ষেত্র নির্ণয় করা যায় — সত্য।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-026",
+      "text": "একটি চার্জিত সমতল পরিবাহীর সন্নিকটে তড়িৎক্ষেত্র প্রাবল্য (E) বনাম দূরত্ব (r) এর লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-026-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-026-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-026-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-026-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চার্জিত সমতল পরিবাহীর কাছে প্রাবল্য \\(E = \\frac{\\sigma}{\\epsilon_0}\\), যা দূরত্বের উপর নির্ভর করে না, অর্থাৎ \\(E\\text{–}r\\) লেখ \\(r\\)-অক্ষের সমান্তরাল সরলরেখা হওয়ার কথা, যা (গ) এ আছে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: উত্তর (গ) হওয়া উচিত বলে মনে হয়। সমতল পরিবাহীর সন্নিকটে \\(E = \\frac{\\sigma}{\\epsilon_0}\\) দূরত্ব নিরপেক্ষ ধ্রুব, তাই লেখ অনুভূমিক সরলরেখা; হ্রাসমান বক্ররেখা (ক) বিন্দু চার্জের ক্ষেত্রের লেখ।"
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-027",
+      "text": "0.25C ধনাত্মক চার্জকে অসীম দূরত্ব থেকে বৈদ্যুতিক ক্ষেত্রের কোনো বিন্দুতে আনতে যদি 2J কাজ হয়, তবে উক্ত বিন্দুর বিভব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.08 V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.5 V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8 V",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(V = \\frac{W}{q} = \\frac{2}{0.25} = 8\\ \\mathrm{V}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-028",
+      "text": "1C ধনাত্মক আধান থেকে নির্গত বলরেখার সংখ্যা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(9 \\times 10^{9}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(8.85 \\times 10^{-12}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{8.85 \\times 10^{-12}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{9 \\times 10^{9}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গাউসের সূত্রানুযায়ী মোট বলরেখা \\(= \\frac{q}{\\epsilon_0} = \\frac{1}{8.85\\times 10^{-12}}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-029",
+      "text": "তড়িৎ প্রাবল্যের SI একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{A\\,m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{V\\,m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "N.C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{J\\,C^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E = \\frac{F}{q}\\) থেকে একক \\(\\mathrm{NC^{-1}} = \\mathrm{Vm^{-1}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-030",
+      "text": "একটি বর্গক্ষেত্রের শীর্ষবিন্দুতে চারটি বিন্দু আধান আছে। যাদের মান যথাক্রমে −Q, −q, 2q এবং 2Q। Q ও q এর মধ্যে নিচের কোন সম্পর্কের জন্য বর্গক্ষেত্রের কেন্দ্রে বিভব শূন্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Q = −q",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(Q = -\\frac{1}{q}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Q = q",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(Q = \\frac{1}{q}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রের বিভব \\(= \\frac{k}{r}(-Q - q + 2q + 2Q) = \\frac{k}{r}(Q+q)\\)\nশূন্য হতে হলে \\(Q + q = 0\\), অর্থাৎ \\(Q = -q\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-031",
+      "text": "বলরেখার ধর্ম হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "খোলা বক্ররেখা"
+        },
+        {
+          "label": "ii",
+          "text": "ঋণাত্মক আধান থেকে উৎপন্ন হয়ে ধনাত্মক আধানে শেষ হয়"
+        },
+        {
+          "label": "iii",
+          "text": "পরস্পরকে পার্শ্বচাপ দেয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বলরেখা খোলা বক্ররেখা।\n(ii) মিথ্যা: বলরেখা ধনাত্মক আধান থেকে শুরু হয়ে ঋণাত্মক আধানে শেষ হয়।\n(iii) সত্য: সমান্তরাল বলরেখা পরস্পরকে পার্শ্বচাপ দেয়।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-032",
+      "text": "একই ব্যাসার্ধের একটি ফাঁপা ও একটি নিরেট গোলক উভয়কে একই বিভবে চার্জিত করলে নিম্নের কোনটি প্রযোজ্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাঁপা গোলকের চার্জ বেশি হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরেট গোলকের চার্জ বেশি হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উভয়ের চার্জ সমান হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উভয়ের চার্জ শূন্য হবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(V = \\frac{q}{4\\pi\\epsilon_0 R}\\) অনুযায়ী সমান ব্যাসার্ধ ও সমান বিভবে চার্জ সমান হয়; ফাঁপা গোলকে চার্জ পৃষ্ঠে থাকে এবং নিরেট গোলকেও পরিবাহীর চার্জ পৃষ্ঠে থাকে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-033",
+      "text": "একটি বস্তুর মোট চার্জ হতে পারে নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5.76 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.4 \\times 10^{-19}\\) C",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চার্জ \\(e = 1.6\\times 10^{-19}\\,\\mathrm{C}\\)-এর পূর্ণ গুণিতক হতে হবে। \\(\\frac{6.4\\times 10^{-19}}{1.6\\times 10^{-19}} = 4\\), যা পূর্ণসংখ্যা; অন্যগুলো পূর্ণসংখ্যা নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-034",
+      "text": "দুটি চার্জের মধ্যে ক্রিয়াশীল স্থির তড়িৎ বল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অন্য কোনো চার্জের উপস্থিতির উপর নির্ভর করে না"
+        },
+        {
+          "label": "ii",
+          "text": "অসংরক্ষণশীল"
+        },
+        {
+          "label": "iii",
+          "text": "এর সীমা অসীম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বল অন্য চার্জের উপস্থিতির উপর নির্ভর করে না (উপরিপাতন নীতি)।\n(ii) মিথ্যা: স্থির তড়িৎ বল সংরক্ষণশীল।\n(iii) সত্য: এর পাল্লা অসীম।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-035",
+      "text": "ভূ-সংযুক্ত বস্তুর তড়িৎ বিভব—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূ-সংযুক্ত বস্তুর বিভব ভূমির বিভবের সমান, যা শূন্য ধরা হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-036",
+      "text": "কুলম্বের সূত্র—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেবল বিন্দু চার্জের ক্ষেত্রে প্রযোজ্য"
+        },
+        {
+          "label": "ii",
+          "text": "গতিশীল চার্জের ক্ষেত্রে প্রযোজ্য নয়"
+        },
+        {
+          "label": "iii",
+          "text": "মাধ্যমের উপর নির্ভর করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: কুলম্বের সূত্র বিন্দু চার্জের জন্য প্রযোজ্য।\n(ii) সত্য: এটি কেবল স্থির চার্জের ক্ষেত্রে প্রযোজ্য।\n(iii) সত্য: বল মাধ্যমের ভেদনযোগ্যতা \\(\\epsilon\\)-এর উপর নির্ভর করে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-037",
+      "text": "চিত্রে বর্গক্ষেত্রের D বিন্দুতে কত চার্জ স্থাপন করলে এর কেন্দ্রে বিভব শূন্য হবে?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-037-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "−15 C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−13 C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−10 C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 C",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্র O সব কৌণিক বিন্দু থেকে সমদূরবর্তী, তাই বিভব শূন্য হতে হলে চার্জের যোগফল শূন্য।\n\\(10 + 15 - 12 + q_D = 0 \\Rightarrow q_D = -13\\,\\mathrm{C}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-038",
+      "text": "A গোলক কতটি ইলেকট্রন হারিয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সম ব্যাসার্ধের দুটি গোলক A ও B তে যথাক্রমে \\(q_1 = +2\\)C এবং \\(q_2 = -2\\)C পরিমাণ চার্জ আছে।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DIB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.6 \\times 10^{19}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.2 \\times 10^{19}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.25 \\times 10^{18}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.25 \\times 10^{19}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\frac{q}{e} = \\frac{2}{1.6\\times 10^{-19}} = 1.25\\times 10^{19}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-039",
+      "text": "উপরোল্লিখিত উদ্দীপকের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সম ব্যাসার্ধের দুটি গোলক A ও B তে যথাক্রমে \\(q_1 = +2\\)C এবং \\(q_2 = -2\\)C পরিমাণ চার্জ আছে।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DIB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A ও B গোলকের পৃষ্ঠে তড়িৎ বিভবের মান সমান"
+        },
+        {
+          "label": "ii",
+          "text": "A ও B গোলকের পৃষ্ঠে তড়িৎ প্রাবল্যের মান সমান"
+        },
+        {
+          "label": "iii",
+          "text": "A ও B গোলকের পৃষ্ঠের আধান ঘনত্ব সমান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) মিথ্যা: A-এর বিভব ধনাত্মক ও B-এর ঋণাত্মক।\n(ii) সত্য: \\(E = \\frac{kq}{R^2}\\) অনুযায়ী মান সমান (দিক বিপরীত)।\n(iii) সত্য: আধান ঘনত্ব \\(\\sigma = \\frac{q}{4\\pi R^2}\\)-এর মান সমান।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-040",
+      "text": "ধারকদ্বয়ের তুল্য ধারকত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch2-mcq-040-stem.svg",
+      "group": "physics_2nd-2023-RB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "80µF",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20µF",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "15µF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{15}\\) µF",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(C = \\frac{C_1C_2}{C_1+C_2} = \\frac{20\\times 60}{80} = 15\\,\\mu\\mathrm{F}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-041",
+      "text": "ধারকদ্বয়ের বিভব পার্থক্যের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch2-mcq-040-stem.svg",
+      "group": "physics_2nd-2023-RB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 : 1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শ্রেণি সমবায়ে চার্জ সমান, তাই \\(V \\propto \\frac{1}{C}\\)\n\\(V_1 : V_2 = C_2 : C_1 = 60 : 20 = 3 : 1\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-042",
+      "text": "সমবিভব তলের বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দুটি সমবিভব তল কখনো পরস্পরকে ছেদ করে না"
+        },
+        {
+          "label": "ii",
+          "text": "সমবিভব তলে আধানগুলো গতিশীল থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "সমবিভব তলকে তড়িৎ বল রেখাগুলো সমকোণে ছেদ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: ছেদ করলে এক বিন্দুতে দুটি বিভব পাওয়া যেত, যা অসম্ভব।\n(ii) মিথ্যা: সমবিভব তলে আধান সরাতে কাজ লাগে না, আধান গতিশীল থাকার কথা নয়।\n(iii) সত্য: বলরেখা সমবিভব তলের সাথে লম্ব।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-043",
+      "text": "সমান্তরাল পাত ধারকের পাত দুটির মধ্যবর্তী দূরত্ব (d) বৃদ্ধির সাথে নিচের কোন লেখ চিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-043-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-043-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-043-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-043-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(C = \\frac{\\epsilon_0 A}{d}\\) ও চার্জ \\(Q\\) স্থির (বিচ্ছিন্ন ধারক) হলে \\(V = \\frac{Q}{C} = \\frac{Qd}{\\epsilon_0 A}\\), অর্থাৎ \\(V \\propto d\\); লেখ মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-044",
+      "text": "চিত্রে ABC ত্রিভুজের AB = AC = 2BD = 2CD এবং \\(q_B = +2\\)c ও \\(q_C = +4\\)c। A ও D বিন্দুর বিভব যথাক্রমে \\(V_A\\) এবং \\(V_D\\)। নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-044-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(V_A > V_D\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(V_A < V_D\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(V_A = V_D\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2V_D = V_A\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "AB = AC = BC, তাই ত্রিভুজ সমবাহু; বাহু \\(a\\)। D, BC-এর মধ্যবিন্দু।\n\\(V_A = \\frac{k(2+4)}{a} = \\frac{6k}{a}\\)\n\\(V_D = k\\left(\\frac{2}{a/2} + \\frac{4}{a/2}\\right) = \\frac{12k}{a}\\)\nসুতরাং \\(V_A < V_D\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-045",
+      "text": "চিত্র অনুযায়ী সমবিভব বিন্দুগুলো হলো—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-045-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "S এবং R",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "S এবং Q",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "P এবং Q",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "P এবং R",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমবিভব তল বলরেখার সাথে লম্ব। বলরেখা অনুভূমিক হওয়ায় একই উল্লম্ব রেখার উপর অবস্থিত R ও S সমবিভব।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-046",
+      "text": "উদ্দীপকের বর্গক্ষেত্রের কেন্দ্র O তে বিভবের মান শূন্য হতে হলে চতুর্থ কৌণিক বিন্দু D তে কত চার্জ স্থাপন করতে হবে?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-046-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "−8 C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6 C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8 C",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(6 + 14 - 12 + q_D = 0 \\Rightarrow q_D = -8\\,\\mathrm{C}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-047",
+      "text": "দুটি চার্জিত সংযুক্ত বস্তুর মধ্যে চার্জ প্রবাহিত হতে থাকে যতক্ষণ না তাদের মধ্যে সমান হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারকত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিভব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সঞ্চিত শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আধান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সংযুক্ত চার্জিত বস্তুদ্বয়ের মধ্যে চার্জ প্রবাহিত হয় যতক্ষণ না তাদের বিভব সমান হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-048",
+      "text": "চিত্রে একটি সুষম তড়িৎক্ষেত্র \\(\\vec{E} = (2\\hat{i} + 5\\hat{j} + 6\\hat{k})\\,\\mathrm{NC^{-1}}\\)। তড়িৎক্ষেত্রের ZX তলে স্থাপিত \\(40\\,\\mathrm{m^2}\\) ক্ষেত্রফল বিশিষ্ট তলে তড়িৎ ফ্লাক্স কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-048-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(80\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(200\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(240\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ZX তলের ক্ষেত্রফল ভেক্টর \\(\\hat{j}\\) বরাবর।\n\\(\\phi = \\vec{E}\\cdot\\vec{A} = (2\\hat{i}+5\\hat{j}+6\\hat{k})\\cdot 40\\hat{j} = 200\\,\\mathrm{Nm^2C^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-049",
+      "text": "নিচের কোন চিত্রে তড়িৎফ্লাক্স সর্বোচ্চ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-049-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-049-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-049-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-049-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\phi = ES\\cos\\theta\\); \\(\\vec{E}\\) ও \\(\\vec{S}\\) একই দিকে (\\(\\theta = 0^\\circ\\)) হলে ফ্লাক্স সর্বোচ্চ। (ঘ)-তে \\(\\theta = 180^\\circ\\), ফ্লাক্স সর্বনিম্ন (ঋণাত্মক)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-050",
+      "text": "তড়িৎ ফ্লাক্সের একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Vm^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Vm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Vm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Vm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\phi = EA\\) এর একক \\(\\mathrm{Vm^{-1}\\cdot m^2} = \\mathrm{Vm}\\) (\\(= \\mathrm{Nm^2C^{-1}}\\))।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-051",
+      "text": "কোনো গোলাকার পরিবাহীর ধারকত্ব 1F হলে এর ব্যাসার্ধ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9 \\times 10^{5}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9 \\times 10^{9}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9 \\times 10^{11}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(C = 4\\pi\\epsilon_0 R\\) থেকে \\(R = \\frac{C}{4\\pi\\epsilon_0} = 1\\times 9\\times 10^9 = 9\\times 10^9\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-052",
+      "text": "পরাবৈদ্যুতিক ধ্রুবক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\frac{F_0}{F}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\frac{\\epsilon}{\\epsilon_0}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\frac{C_0}{C}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরাবৈদ্যুতিক ধ্রুবক \\(K = \\frac{\\epsilon}{\\epsilon_0} = \\frac{F_0}{F} = \\frac{C}{C_0}\\)। (iii)-তে অনুপাত উল্টো লেখা আছে, তাই মিথ্যা; (i) ও (ii) সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-053",
+      "text": "স্থির তড়িতে কুলম্বের সূত্রের ধ্রুবকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(8.85 \\times 10^{-12}\\,\\mathrm{C^2N^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9 \\times 10^{9}\\,\\mathrm{NC^2m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(8.85 \\times 10^{-12}\\,\\mathrm{CN^{-1}m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9 \\times 10^{9}\\,\\mathrm{Nm^2C^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(k = \\frac{1}{4\\pi\\epsilon_0} = 9\\times 10^9\\,\\mathrm{Nm^2C^{-2}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-054",
+      "text": "ধারক সমবায়ের তুল্য ধারকত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch2-mcq-054-stem.svg",
+      "group": "physics_2nd-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "16 µF",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8 µF",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 µF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 µF",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি শাখায় শ্রেণিতে \\(\\frac{4\\times 4}{4+4} = 2\\,\\mu\\mathrm{F}\\)\nদুই শাখা সমান্তরালে \\(C = 2+2 = 4\\,\\mu\\mathrm{F}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-055",
+      "text": "তুল্য ধারকে সঞ্চিত শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_2nd-ch2-mcq-054-stem.svg",
+      "group": "physics_2nd-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.04 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.02 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.01 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.001 J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(U = \\frac{1}{2}CV^2 = \\frac{1}{2}\\times 4\\times 10^{-6}\\times (100)^2 = 0.02\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-056",
+      "text": "একটি সমান্তরাল পাত ধারকের প্রযুক্ত ভোল্টেজ স্থির রেখে পাত দুটির ব্যবধান 25% কমানো হলে ধারকে সঞ্চিত শক্তির শতকরা কত পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "16.10%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "33.33%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45.38%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "77.77%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভোল্টেজ \\(V\\) স্থির, \\(C=\\frac{\\varepsilon_0A}{d}\\propto\\frac{1}{d}\\)। \\(d'=0.75d\\) হলে \\(C'=\\frac{C}{0.75}=\\frac{4}{3}C\\)\n\\(U=\\frac12CV^2\\propto C\\) তাই \\(\\frac{U'-U}{U}\\times100\\%=\\left(\\frac43-1\\right)\\times100\\%=33.33\\%\\) (বৃদ্ধি)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-057",
+      "text": "তড়িৎ প্রাবল্য বনাম দূরত্বের লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-057-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-057-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-057-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-057-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিন্দু চার্জের জন্য \\(E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}\\propto\\frac{1}{r^2}\\); দূরত্ব বাড়লে \\(E\\) দ্রুত কমে — (গ)-এর লেখ।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-058",
+      "text": "একটি তড়িৎ দ্বিমেরুর ক্ষেত্রে তড়িৎ বিভবের মান দূরত্বের (r) সাথে কীভাবে পরিবর্তিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(r^{-3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(r^{-4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্বিমেরুর বিভব \\(V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{p\\cos\\theta}{r^2}\\propto r^{-2}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-059",
+      "text": "চিত্রের গোলাকার পরিবাহীটি +Q চার্জে চার্জিত—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-059-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(V_B = V_C\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(V_A = V_B\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(V_A < V_B\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) পরিবাহীর অভ্যন্তরে ও পৃষ্ঠে বিভব সমান; C কেন্দ্র ও B পৃষ্ঠে \\(V_B=V_C\\) — সত্য।\n(ii) A বিন্দু পৃষ্ঠের বাইরে, সেখানে \\(V_A=\\frac{kQ}{r_A}<\\frac{kQ}{r}=V_B\\); তাই \\(V_A=V_B\\) মিথ্যা।\n(iii) \\(V_A<V_B\\) — সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-060",
+      "text": "তড়িৎ বিভব ও চার্জের গুণফলের একক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{JC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "F",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিভব \\(=\\frac{W}{q}\\) (J/C), তাই বিভব × চার্জ = কাজ বা শক্তি; একক জুল (J)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-061",
+      "text": "পরস্পর থেকে 3m দূরত্বে বায়ু মাধ্যমে +2c এর দুটি চার্জ স্থাপন করলে এদের মধ্যকার বল কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3 \\times 10^{9}\\) N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 \\times 10^{9}\\) N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(8 \\times 10^{9}\\) N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9 \\times 10^{9}\\) N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q_1q_2}{r^2}=\\frac{9\\times10^9\\times2\\times2}{3^2}=4\\times10^9\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-062",
+      "text": "সমান্তরাল পাত ধারক-এর ধারকত্ব কোন কোন বিষয়ের উপর নির্ভর করে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মাধ্যমের প্রকৃতির উপর"
+        },
+        {
+          "label": "ii",
+          "text": "প্রত্যেক পাতের ক্ষেত্রফল"
+        },
+        {
+          "label": "iii",
+          "text": "পাতদ্বয়ের মধ্যবর্তী দূরত্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(C=\\frac{\\varepsilon A}{d}\\) থেকে ধারকত্ব মাধ্যমের প্রকৃতি (\\(\\varepsilon\\)), পাতের ক্ষেত্রফল (\\(A\\)) ও পাতদ্বয়ের দূরত্ব (\\(d\\)) — তিনটির উপরই নির্ভর করে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-063",
+      "text": "একটি সরু তারের দৈর্ঘ্য 4m. এটিতে +6µC চার্জ থাকলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারটি থেকে তড়িৎ বলরেখা বাইরের দিকে নির্গত হয়।"
+        },
+        {
+          "label": "ii",
+          "text": "তারটির একক দৈর্ঘ্যে চার্জের পরিমাণ \\(1.5 \\times 10^{-6}\\,\\mathrm{Cm^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "তারটির কেন্দ্র হতে 2m দূরে তড়িৎ প্রাবল্যের মান \\(13.48 \\times 10^{3}\\,\\mathrm{Vm^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) তার ধনাত্মক চার্জিত, তাই বলরেখা বাইরের দিকে নির্গত হয় — সত্য।\n(ii) \\(\\lambda=\\frac{6\\times10^{-6}}{4}=1.5\\times10^{-6}\\,\\mathrm{Cm^{-1}}\\) — সত্য।\n(iii) \\(E=\\frac{\\lambda}{2\\pi\\varepsilon_0r}=\\frac{2\\times9\\times10^9\\times1.5\\times10^{-6}}{2}\\approx13.48\\times10^3\\,\\mathrm{Vm^{-1}}\\) — সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-064",
+      "text": "দুটি সমান ধারকত্বের ধারককে প্রথমে শ্রেণিতে পরে সমান্তরালে যুক্ত করলে তুল্য ধারকত্বের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শ্রেণিতে \\(C_s=\\frac{C}{2}\\), সমান্তরালে \\(C_p=2C\\)\n\\(C_s:C_p=\\frac{C}{2}:2C=1:4\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-065",
+      "text": "তড়িৎ ধারকত্ব ও তড়িৎ বিভবের গুণফল নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চার্জ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চার্জ ঘনত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িৎ পরিবাহীতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(Q=CV\\), অর্থাৎ ধারকত্ব ও বিভবের গুণফল চার্জ নির্দেশ করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-066",
+      "text": "তড়িৎ বিভবের ঋণাত্মক গ্রেডিয়েন্টকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চার্জ ঘনত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ ফ্লাক্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ প্রাবল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ধারকত্ব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(E=-\\frac{dV}{dr}\\); বিভবের ঋণাত্মক গ্রেডিয়েন্টই তড়িৎ প্রাবল্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-067",
+      "text": "চিত্রের P বিন্দুতে শূন্য মাধ্যমে তড়িৎ প্রাবল্য কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-067-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\sigma}{\\epsilon_0}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\sigma}{2\\epsilon_0}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিপরীত চার্জে চার্জিত দুটি সমান্তরাল পাতের মাঝে প্রতিটি পাত \\(\\frac{\\sigma}{2\\varepsilon_0}\\) ক্ষেত্র সৃষ্টি করে এবং দুটি একই দিকে থাকে।\n\\(E=\\frac{\\sigma}{2\\varepsilon_0}+\\frac{\\sigma}{2\\varepsilon_0}=\\frac{\\sigma}{\\varepsilon_0}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-068",
+      "text": "সমান ধারকত্বের তিনটি ধারক প্রথমে শ্রেণিতে এবং পরে সমান্তরালে যুক্ত করা হলো। এই দু'ক্ষেত্রের তুল্য ধারকত্বের অনুপাত কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 9",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 : 12",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শ্রেণিতে \\(C_s=\\frac{C}{3}\\), সমান্তরালে \\(C_p=3C\\)\n\\(C_s:C_p=\\frac{C}{3}:3C=1:9\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-069",
+      "text": "কুলম্ব ধ্রুবকের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{C^2N^{-1}m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C^2Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Nm^2C^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^2C^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F=k\\frac{q_1q_2}{r^2}\\) থেকে \\(k=\\frac{Fr^2}{q_1q_2}\\); একক \\(\\mathrm{Nm^2C^{-2}}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-070",
+      "text": "নিচের কোন পদার্থের পরাবৈদ্যুতিক ধ্রুবকের মান সর্বোচ্চ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়ু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাগজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সিলিকন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পানি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পরাবৈদ্যুতিক ধ্রুবক: বায়ু ≈ 1, কাগজ ≈ 3.7, সিলিকন ≈ 11.7, পানি ≈ 80। তাই পানির মান সর্বোচ্চ।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-071",
+      "text": "চার্জিত গোলকের কেন্দ্র হতে দূরত্ব বৃদ্ধির সাথে প্রাবল্যের পরিবর্তনের ক্ষেত্রে নিম্নের কোন লেখচিত্রটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-071-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-071-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-071-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-071-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চার্জিত পরিবাহী গোলকের ভেতরে \\(E=0\\); পৃষ্ঠে (\\(r=R\\)) তা হঠাৎ সর্বোচ্চ হয়, এরপর \\(E\\propto\\frac{1}{r^2}\\) হিসেবে কমে। (খ) এ বৈশিষ্ট্য দেখায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-072",
+      "text": "তড়িৎ দ্বিমেরু ভ্রামকের একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কুলম্ব/মিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুলম্ব-মিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিটার/কুলম্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কুলম্ব/মিটার²",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্বিমেরু ভ্রামক \\(p=q\\times2l\\); একক কুলম্ব-মিটার (C·m)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-073",
+      "text": "তড়িৎ প্রাবল্য ও তড়িৎবিভবের মধ্যে সম্পর্ক নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E = \\frac{V}{r}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(V = \\frac{E}{r}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E = \\frac{r}{V}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E = \\frac{V}{r^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সুষম ক্ষেত্রে প্রাবল্য বিভব-পার্থক্য ও দূরত্বের সম্পর্ক \\(E=\\frac{V}{r}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-074",
+      "text": "শূন্য মাধ্যমে 1C ধনাত্মক চার্জ হতে কত তড়িৎ ফ্লাক্স নির্গত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(8.85 \\times 10^{-12}\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(8.85 \\times 10^{12}\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.1 \\times 10^{-11}\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.1 \\times 10^{11}\\,\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গাউসের সূত্র অনুযায়ী ফ্লাক্স \\(\\phi=\\frac{q}{\\varepsilon_0}=\\frac{1}{8.85\\times10^{-12}}=1.13\\times10^{11}\\approx1.1\\times10^{11}\\,\\mathrm{Nm^2C^{-1}}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-075",
+      "text": "ধারকত্বের একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুলম্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোল্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফ্যারাড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ধারকত্বের একক ফ্যারাড (F), যেখানে 1 F = 1 C/V।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-076",
+      "text": "কোনো একটি বিন্দুতে তড়িৎ বিভব \\(V = (6x - 3y + 2z)\\) V হলে ঐ বিন্দুতে তড়িৎ প্রাবল্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(7\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(31\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(49\\,\\mathrm{NC^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E=-\\nabla V\\Rightarrow E_x=-6,\\ E_y=3,\\ E_z=-2\\)\n\\(|E|=\\sqrt{6^2+3^2+2^2}=\\sqrt{49}=7\\,\\mathrm{NC^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-077",
+      "text": "এক খণ্ড মেঘে কী পরিমাণ চার্জ আছে তা মাপা যায় কোন সূত্রের সাহায্যে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওহমের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাউসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্শফের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কুলম্বের সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গাউসের সূত্র দ্বারা কোনো বদ্ধ তল দিয়ে নির্গত মোট ফ্লাক্স থেকে তল-অভ্যন্তরস্থ মোট চার্জ নির্ণয় করা যায়; মেঘের চার্জ এভাবেই মাপা হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-078",
+      "text": "একটি চার্জিত সমতল পরিবাহীর সন্নিকটে তড়িৎ প্রাবল্যের মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E = \\frac{\\sigma}{2\\epsilon_0}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E = \\frac{\\sigma}{\\epsilon_0}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E = \\frac{2\\epsilon_0}{\\sigma}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E = \\frac{\\epsilon_0}{\\sigma}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গাউসের সূত্র অনুযায়ী অসীম বিস্তৃত পাতলা চার্জিত পাতের দুই পাশে প্রাবল্য \\(E = \\frac{\\sigma}{2\\epsilon_0}\\); বোর্ড এই সূত্র ধরেই (ক) উত্তর দিয়েছে। তবে পরিবাহীর ক্ষেত্রে ভেতরে প্রাবল্য শূন্য, তাই সমস্ত ফ্লাক্স বাইরের দিকে যায় এবং পৃষ্ঠের ঠিক বাইরে \\(E = \\frac{\\sigma}{\\epsilon_0}\\) হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Just outside a charged plane conductor E = σ/ε₀ (σ/2ε₀ applies to a thin isolated charged sheet); printed key is ক. | উত্তর যাচাই: চার্জিত সমতল পরিবাহীর ঠিক বাইরে প্রাবল্য \\(E = \\frac{\\sigma}{\\epsilon_0}\\) (খ); \\(\\frac{\\sigma}{2\\epsilon_0}\\) শুধু পাতলা অপরিবাহী চার্জিত পাতের (অসীম সমতল চাদর) ক্ষেত্রে প্রযোজ্য।"
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-079",
+      "text": "তড়িৎ প্রাবল্য (E) ও চার্জ থেকে দূরত্ব (r) এর সম্পর্কসূচক লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-079-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-079-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-079-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-079-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(E\\propto\\frac{1}{r^2}\\): \\(r\\) বাড়লে \\(E\\) প্রথমে দ্রুত, পরে ধীরে কমে — (ঘ)-এর লেখ।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-080",
+      "text": "20 cm ব্যাসার্ধের একটি ফাঁপা গোলককে বায়ুতে স্থাপন করে \\(2 \\times 10^{-9}\\) C চার্জে চার্জিত করা হলো। গোলকের কেন্দ্র থেকে 18cm দূরে কোনো বিন্দুর বিভব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 Volt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45 Volt",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90 Volt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100 Volt",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "18 cm < 20 cm, অর্থাৎ বিন্দুটি ফাঁপা গোলকের ভেতরে; ভেতরের বিভব পৃষ্ঠের বিভবের সমান।\n\\(V=\\frac{kq}{R}=\\frac{9\\times10^9\\times2\\times10^{-9}}{0.2}=90\\,\\mathrm{V}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-081",
+      "text": "আধান ও বিভবের গুণফলের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভোল্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফ্যারাড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেনরি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আধান × বিভব \\(=q\\times V=\\) কাজ/শক্তি; একক জুল।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-082",
+      "text": "তড়িৎ দ্বিমেরু ভ্রামকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{LT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "LTI",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{L^2TI}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{LTI^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(p=q\\times2l\\); \\(q=IT\\) হওয়ায় মাত্রা \\(=\\mathrm{L\\,T\\,I}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-083",
+      "text": "কোনো গোলাকার পরিবাহীর আধান ও ক্ষেত্রফল চারগুণ করা হলে চার্জের তলমাত্রিক ঘনত্ব হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ষোলোগুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চারগুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসীম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\sigma=\\frac{Q}{A}\\); \\(Q\\) ও \\(A\\) উভয় চারগুণ হলে \\(\\sigma'=\\frac{4Q}{4A}=\\sigma\\), অর্থাৎ অপরিবর্তিত।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-084",
+      "text": "চার্জিত গোলকের জন্য দূরত্ব বনাম বিভবের লেখচিত্রটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-084-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-084-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-084-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch2-mcq-084-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চার্জিত গোলকের ভেতরে বিভব ধ্রুব (\\(V=\\frac{kQ}{R}\\)); বাইরে \\(V\\propto\\frac1r\\) হিসেবে কমে। (ক) এ বৈশিষ্ট্য দেখায়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-085",
+      "text": "শূন্য মাধ্যমে তড়িৎ ভেদন যোগ্যতার একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{C^2N^{-1}m^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NA^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Nm^2C^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Am^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q_1q_2}{r^2}\\) থেকে \\(\\varepsilon_0=\\frac{q_1q_2}{4\\pi Fr^2}\\); একক \\(\\mathrm{C^2N^{-1}m^{-2}}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-086",
+      "text": "তড়িৎ ফ্লাক্সের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^{-2}C}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Nm^2C}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{N^{-1}m^2C}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^2C^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ফ্লাক্স \\(\\phi=\\frac{q}{\\varepsilon_0}\\); একক \\(\\frac{\\mathrm{C}}{\\mathrm{C^2N^{-1}m^{-2}}}=\\mathrm{Nm^2C^{-1}}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-087",
+      "text": "উপরে প্রদত্ত বর্তনীর তুল্য ধারকত্ব কত?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch2-mcq-087-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "1µF",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2µF",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3µF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4µF",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান্তরালে থাকা দুটি 1 µF: \\(C'=1+1=2\\,\\mu\\mathrm{F}\\)\nএটি 2 µF এর সাথে শ্রেণিতে: \\(C=\\frac{2\\times2}{2+2}=1\\,\\mu\\mathrm{F}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch2-mcq-088",
+      "text": "চার্জের কোয়ান্টায়ন অনুসারে একটি চার্জিত বস্তুতে চার্জের পরিমাণ নিচের কোনটি হতে পারে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1.6 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(+2 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-3.2 \\times 10^{-19}\\) C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(+4.8 \\times 10^{-19}\\) C",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চার্জ কোয়ান্টায়িত, অর্থাৎ \\(q=ne\\) (\\(e=1.6\\times10^{-19}\\,\\mathrm{C}\\))। \\(\\frac{2\\times10^{-19}}{1.6\\times10^{-19}}=1.25\\) পূর্ণসংখ্যা নয়, তাই (খ) সম্ভব নয়; অন্যগুলো যথাক্রমে \\(-1e,\\ -2e,\\ +3e\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

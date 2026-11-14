@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335 250" width="335" height="250">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+<pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern></defs>
+<rect width="335" height="250" fill="#fff"/>
+<g font-family="serif" font-size="15" font-style="italic" fill="#111">
+<clipPath id="c"><path d="M75.0,200.0 L79.0,174.7 L83.0,164.2 L87.0,156.2 L91.0,149.4 L95.0,143.4 L99.0,138.0 L103.0,133.1 L107.0,128.4 L111.0,124.1 L115.0,120.0 L119.0,116.1 L123.0,112.4 L127.0,108.8 L131.0,105.3 L135.0,102.0 L139.0,98.8 L143.0,95.7 L147.0,92.7 L151.0,89.7 L155.0,86.9 L159.0,84.1 L163.0,81.3 L167.0,78.7 L171.0,76.1 L175.0,73.5 L179.0,71.0 L183.0,68.5 L187.0,66.1 L191.0,63.8 L195.0,61.4 L199.0,59.1 L203.0,56.9 L207.0,54.7 L211.0,52.5 L215.0,50.3 L219.0,48.2 L223.0,46.1 L227.0,44.1 L231.0,42.0 L235.0,40.0 L75,200 Z"/></clipPath>
+<path d="M75.0,200.0 L79.0,174.7 L83.0,164.2 L87.0,156.2 L91.0,149.4 L95.0,143.4 L99.0,138.0 L103.0,133.1 L107.0,128.4 L111.0,124.1 L115.0,120.0 L119.0,116.1 L123.0,112.4 L127.0,108.8 L131.0,105.3 L135.0,102.0 L139.0,98.8 L143.0,95.7 L147.0,92.7 L151.0,89.7 L155.0,86.9 L159.0,84.1 L163.0,81.3 L167.0,78.7 L171.0,76.1 L175.0,73.5 L179.0,71.0 L183.0,68.5 L187.0,66.1 L191.0,63.8 L195.0,61.4 L199.0,59.1 L203.0,56.9 L207.0,54.7 L211.0,52.5 L215.0,50.3 L219.0,48.2 L223.0,46.1 L227.0,44.1 L231.0,42.0 L235.0,40.0 L75,200 Z" fill="url(#hatch)" stroke="none"/>
+<line x1="75.0" y1="200.0" x2="30.0" y2="200.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="75.0" y1="200.0" x2="290.0" y2="200.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="75.0" y1="200.0" x2="75.0" y2="5.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="75.0" y1="200.0" x2="75.0" y2="240.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<path d="M75.0,200.0 L79.0,174.7 L83.0,164.2 L87.0,156.2 L91.0,149.4 L95.0,143.4 L99.0,138.0 L103.0,133.1 L107.0,128.4 L111.0,124.1 L115.0,120.0 L119.0,116.1 L123.0,112.4 L127.0,108.8 L131.0,105.3 L135.0,102.0 L139.0,98.8 L143.0,95.7 L147.0,92.7 L151.0,89.7 L155.0,86.9 L159.0,84.1 L163.0,81.3 L167.0,78.7 L171.0,76.1 L175.0,73.5 L179.0,71.0 L183.0,68.5 L187.0,66.1 L191.0,63.8 L195.0,61.4 L199.0,59.1 L203.0,56.9 L207.0,54.7 L211.0,52.5 L215.0,50.3 L219.0,48.2 L223.0,46.1 L227.0,44.1 L231.0,42.0 L235.0,40.0" stroke="#111" stroke-width="1.5" fill="none"/>
+<line x1="75.0" y1="200.0" x2="235.0" y2="40.0" stroke="#111" stroke-width="1.5" fill="none" />
+<line x1="235.0" y1="40.0" x2="235.0" y2="200.0" stroke="#111" stroke-width="1.5" fill="none" />
+<text x="241.0" y="34.0" text-anchor="start" >A(4, 4)</text>
+<text x="235.0" y="218.0" text-anchor="middle" >B</text>
+<text x="69.0" y="218.0" text-anchor="end" >O(0, 0)</text>
+<text x="24.0" y="205.0" text-anchor="end" >X′</text>
+<text x="296.0" y="205.0" text-anchor="start" >X</text>
+<text x="85.0" y="13.0" text-anchor="start" >Y</text>
+<text x="85.0" y="245.0" text-anchor="start" >Y′</text>
+<text x="109.0" y="104.0" text-anchor="middle" transform="rotate(-55 109 104)">y<tspan baseline-shift="super" font-size="11">2</tspan>=4x</text>
+<text x="179.0" y="138.0" text-anchor="middle" transform="rotate(-45 179 138)">y=x</text>
+</g>
+</svg>

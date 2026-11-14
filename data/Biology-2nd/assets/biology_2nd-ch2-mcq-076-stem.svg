@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" width="240" height="220">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="240" height="220" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M120,60 C84,60 70,100 72,140 C74,185 100,205 125,205 C152,205 170,180 168,140 C166,100 150,60 120,60 z" fill="#fff"/>
+<path d="M120,60 C118,40 126,28 118,14 C114,8 108,10 110,18" />
+<path d="M118,14 L112,4 M118,14 L126,6"/>
+<path d="M98,100 C112,92 140,98 142,112 C144,126 100,126 96,140 C94,154 140,150 142,164 C144,178 104,180 100,168" stroke-width="2.5"/>
+<path d="M100,100 L100,180" stroke="none"/>
+<line x1="150" y1="130" x2="205" y2="130"/><text x="212" y="136" text-anchor="start" font-family="Noto Sans Bengali, Hind Siliguri, serif" font-size="20" font-style="italic" fill="#111" stroke="none" >A</text>
+</g></svg>

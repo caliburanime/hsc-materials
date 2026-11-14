@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 205" width="400" height="205">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="400" height="205" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="40" y1="60" x2="100" y2="60" />
+<line x1="100" y1="48" x2="100" y2="72" />
+<line x1="107" y1="54" x2="107" y2="66" stroke-width="3"/>
+<line x1="107" y1="60" x2="180" y2="60" />
+<line x1="180" y1="48" x2="180" y2="72" />
+<line x1="187" y1="54" x2="187" y2="66" stroke-width="3"/>
+<line x1="187" y1="60" x2="360" y2="60" />
+<line x1="40" y1="60" x2="40" y2="170" />
+<line x1="360" y1="60" x2="360" y2="170" />
+<line x1="40" y1="170" x2="170" y2="170" />
+<path d="M170.0,170.0 L176.0,170.0 L180.8,165.0 L190.4,175.0 L200.0,165.0 L209.6,175.0 L219.2,165.0 L224.0,170.0 L230.0,170.0" />
+<line x1="230" y1="170" x2="360" y2="170" />
+<text x="98" y="40" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" font-style="italic" fill="#111" stroke="none">A</text>
+<text x="178" y="40" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" font-style="italic" fill="#111" stroke="none">B</text>
+<text x="114" y="51" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="1" fill="#111" stroke="none"></text>
+<text x="124" y="48" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="12" fill="#111" stroke="none"><tspan font-style="italic">r</tspan> = 0·1Ω</text>
+<text x="204" y="48" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="12" fill="#111" stroke="none"><tspan font-style="italic">r</tspan> = 0·1Ω</text>
+<text x="103" y="92" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">4V</text>
+<text x="183" y="92" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">4V</text>
+<text x="200" y="192" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">4Ω</text>
+
+</g>
+</svg>

@@ -33,7 +33,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "Result টেবিলের ID ফিল্ডটি Student টেবিলের ID (প্রাইমারী কী) কে নির্দেশ করে, তাই এটি ফরেন কী।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -76,7 +76,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "Student টেবিলের প্রতিটি ID (SO1, SO2, SO3) এর জন্য Result টেবিলে ঠিক একটি করে রেকর্ড আছে, অর্থাৎ সম্পর্কটি One to one।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -117,7 +117,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "SELECT * FROM টেবিল নামে * (অ্যাস্টেরিস্ক) দ্বারা টেবিলের সব কলাম ও ডেটা নেওয়া হয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -157,7 +157,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "দুটি শর্ত একসাথে পূরণ করতে AND লাগে। সংখ্যাসূচক মান (Class = 5) কোটেশন ছাড়া এবং টেক্সট মান ('morning') কোটেশনের ভেতরে লিখতে হয়। এই সবই (খ) তে আছে।",
       "source": {
         "board": "ALL",
         "year": "2026",

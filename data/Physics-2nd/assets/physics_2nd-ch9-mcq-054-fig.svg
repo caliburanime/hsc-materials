@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 190" width="280" height="190">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="280" height="190" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="40" y1="160" x2="250" y2="160" marker-end="url(#ar)"/>
+<line x1="40" y1="160" x2="40" y2="15" marker-end="url(#ar)"/>
+<text x="34" y="22" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="15" fill="#111" stroke="none"><tspan font-style="italic">N</tspan></text>
+<text x="250" y="178" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="15" fill="#111" stroke="none"><tspan font-style="italic">t</tspan></text>
+<path d="M40.0,40.0 L42.8,42.4 L45.5,44.7 L48.2,47.0 L51.0,49.2 L53.8,51.4 L56.5,53.6 L59.2,55.7 L62.0,57.7 L64.8,59.8 L67.5,61.8 L70.2,63.7 L73.0,65.6 L75.8,67.5 L78.5,69.3 L81.2,71.1 L84.0,72.9 L86.8,74.6 L89.5,76.3 L92.2,77.9 L95.0,79.6 L97.8,81.2 L100.5,82.7 L103.2,84.2 L106.0,85.7 L108.8,87.2 L111.5,88.7 L114.2,90.1 L117.0,91.5 L119.8,92.8 L122.5,94.1 L125.3,95.4 L128.0,96.7 L130.8,98.0 L133.5,99.2 L136.2,100.4 L139.0,101.6 L141.8,102.7 L144.5,103.9 L147.2,105.0 L150.0,106.1 L152.8,107.1 L155.5,108.2 L158.2,109.2 L161.0,110.2 L163.8,111.2 L166.5,112.2 L169.2,113.1 L172.0,114.1 L174.8,115.0 L177.5,115.9 L180.2,116.7 L183.0,117.6 L185.8,118.4 L188.5,119.2 L191.2,120.1 L194.0,120.8 L196.8,121.6 L199.5,122.4 L202.2,123.1 L205.0,123.9" />
+<path d="M40.0,40.0 L42.8,46.2 L45.5,52.1 L48.2,57.7 L51.0,63.1 L53.8,68.1 L56.5,72.9 L59.2,77.4 L62.0,81.7 L64.8,85.7 L67.5,89.6 L70.2,93.3 L73.0,96.7 L75.8,100.0 L78.5,103.1 L81.2,106.1 L84.0,108.9 L86.8,111.5 L89.5,114.1 L92.2,116.4 L95.0,118.7 L97.8,120.8 L100.5,122.9 L103.2,124.8 L106.0,126.6 L108.8,128.4 L111.5,130.0 L114.2,131.6 L117.0,133.0 L119.8,134.4 L122.5,135.8 L125.3,137.0 L128.0,138.2 L130.8,139.4 L133.5,140.4 L136.2,141.4 L139.0,142.4 L141.8,143.3 L144.5,144.2 L147.2,145.0 L150.0,145.8 L152.8,146.5 L155.5,147.2 L158.2,147.9 L161.0,148.5 L163.8,149.1 L166.5,149.7 L169.2,150.2 L172.0,150.7 L174.8,151.2 L177.5,151.7 L180.2,152.1 L183.0,152.5 L185.8,152.9 L188.5,153.3 L191.2,153.6 L194.0,153.9 L196.8,154.3 L199.5,154.6 L202.2,154.8 L205.0,155.1" />
+<text x="212" y="127.85669457053575" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none">B</text>
+<text x="212" y="159.10853552259604" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none">A</text>
+
+</g>
+</svg>

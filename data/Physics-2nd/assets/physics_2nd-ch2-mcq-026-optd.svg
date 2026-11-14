@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="160" height="120" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="34" y1="92" x2="34" y2="12" marker-end="url(#ah)"/>
+<line x1="34" y1="92" x2="150" y2="92" marker-end="url(#ah)"/>
+<path d="M34,92 Q94,92 134,24"/>
+<text x="28" y="16" font-size="13" text-anchor="end" class="v" stroke="none" fill="#111">E</text>
+<text x="147" y="106" font-size="13" text-anchor="end" class="v" stroke="none" fill="#111">r</text>
+
+</g>
+</svg>

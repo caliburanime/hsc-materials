@@ -1,0 +1,4549 @@
+{
+  "subject": "physics_1st",
+  "chapter": 6,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch6-mcq-001",
+      "text": "SI পদ্ধতিতে মহাকর্ষীয় ধ্রুবকের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{m\\,kg\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{m^2\\,kg\\,s^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{m^2\\,kg^{-1}\\,s^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{m^3\\,kg^{-1}\\,s^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(G=\\frac{Fr^2}{m_1m_2}\\) থেকে একক \\(\\frac{\\mathrm{N\\,m^2}}{\\mathrm{kg^2}}=\\mathrm{m^3\\,kg^{-1}\\,s^{-2}}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-002",
+      "text": "মেরু অঞ্চল অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কত কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega^2 R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega R\\cos^2\\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega R^2\\cos^2\\lambda\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর ঘূর্ণনের ফলে বিষুবে অভিকর্ষজ ত্বরণ \\(g'=g-\\omega^2R\\cos^2\\lambda\\); বিষুবে \\(\\lambda=0\\), তাই মেরু অপেক্ষা \\(\\omega^2R\\) কম।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-003",
+      "text": "মহাকর্ষীয় বিভব এর একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Jkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "kg m/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "rpm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় বিভব \\(V = -\\frac{GM}{r}\\) = কাজ/ভর, তাই একক J kg\\(^{-1}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-004",
+      "text": "অভিকর্ষজ ত্বরণের উপর কোনটির প্রভাব নেই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্রাঘিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অক্ষাংশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পৃথিবীর ঘূর্ণন ক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অভিকর্ষজ ত্বরণ উচ্চতা, অক্ষাংশ ও পৃথিবীর আহ্নিক গতির উপর নির্ভর করে। দ্রাঘিমা পরিবর্তনে g এর মান বদলায় না।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-005",
+      "text": "সূর্যের চারদিকে পৃথিবীর আবর্তনকাল 365 দিন। পৃথিবী এবং সূর্যের মধ্যকার গড় দূরত্ব \\(1.5 \\times 10^{11}\\) m হলে সূর্যের ভর কত? (মহাকর্ষীয় ধ্রুবক, \\(G = 6.7 \\times 10^{-11}\\,\\mathrm{Nm^2kg^{-2}}\\))",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.56 \\times 10^{17}\\) kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^{20}\\) kg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6 \\times 10^{24}\\) kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2 \\times 10^{30}\\) kg",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(M = \\frac{4\\pi^2 r^3}{GT^2}\\)\n\\(T = 365 \\times 86400 = 3.15 \\times 10^{7}\\) s\n\\(M = \\frac{4 \\times (3.14)^2 \\times (1.5 \\times 10^{11})^3}{6.7 \\times 10^{-11} \\times (3.15 \\times 10^{7})^2} \\approx 2 \\times 10^{30}\\) kg",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-006",
+      "text": "কৃত্রিম উপগ্রহের রৈখিক বেগের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi\\sqrt{\\frac{R+h}{R}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{\\frac{g}{R+h}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(R\\sqrt{\\frac{g}{R+h}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{2\\pi(R+h)}{R}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উপগ্রহের কক্ষীয় বেগ \\(v = \\sqrt{g'(R+h)}\\), যেখানে \\(g' = g\\frac{R^2}{(R+h)^2}\\)\nঅতএব \\(v = R\\sqrt{\\frac{g}{R+h}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-007",
+      "text": "\"সূর্যের চারদিকে প্রতিটি গ্রহের আবর্তনকালের বর্গ এর কক্ষপথের অর্ধ পরাক্ষের ঘনফলের ———।\"",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেপলারের তৃতীয় সূত্র: গ্রহের আবর্তনকালের বর্গ কক্ষপথের অর্ধ-মুখ্য অক্ষের ঘনফলের সমানুপাতিক (\\(T^2 \\propto a^3\\))।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-008",
+      "text": "আহ্নিক গতির জন্য অভিকর্ষজ ত্বরণের মান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "45° অক্ষাংশে সমুদ্র সমতলে সবচেয়ে বেশি"
+        },
+        {
+          "label": "ii",
+          "text": "মেরু অঞ্চলে সবচেয়ে বেশি"
+        },
+        {
+          "label": "iii",
+          "text": "বিষুবীয় অঞ্চলে সবচেয়ে কম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) ভুল: আহ্নিক গতির প্রভাবে 45° অক্ষাংশে নয়, মেরুতে g সবচেয়ে বেশি।\n(ii) সত্য: মেরুতে অপকেন্দ্র বল শূন্য, তাই g সর্বাধিক।\n(iii) সত্য: বিষুবে অপকেন্দ্র বল সর্বাধিক, তাই g সবচেয়ে কম।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-009",
+      "text": "পৃথিবীর কেন্দ্র থেকে দূরত্বের সাথে অভিকর্ষজ ত্বরণের পরিবর্তনকে লেখচিত্রের সাহায্যে প্রকাশ করলে নিচের কোনটি সঠিক লেখচিত্র হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-009-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-009-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-009-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-009-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর অভ্যন্তরে g কেন্দ্র থেকে দূরত্বের সমানুপাতিক (\\(g' = g\\frac{r}{R}\\)), তাই কেন্দ্র থেকে \\(R\\) পর্যন্ত সরলরেখায় বাড়ে। পৃষ্ঠের বাইরে \\(g' \\propto \\frac{1}{r^2}\\), তাই কমতে থাকে। এই বৈশিষ্ট্য (ক) এর লেখে আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-010",
+      "text": "সূর্য হতে একটি গ্রহের গড় দূরত্ব r এবং গ্রহের পর্যায়কাল T হলে কেপলারের তৃতীয় সূত্রানুসারে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(T^2 \\propto r^3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(T \\propto r^3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(T \\propto r\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(T \\propto r^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "satt",
+      "explanation": "কেপলারের তৃতীয় সূত্র অনুযায়ী \\(T^2 \\propto r^3\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-011",
+      "text": "পৃথিবীর মেরু অঞ্চলে অভিকর্ষজ ত্বরণের মান বেশি, কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উচ্চতার তারতম্য"
+        },
+        {
+          "label": "ii",
+          "text": "অক্ষাংশ 90°"
+        },
+        {
+          "label": "iii",
+          "text": "আহ্নিক গতি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "satt",
+      "explanation": "(i) মেরুতে পৃথিবীর ব্যাসার্ধ কম, তাই g বেশি।\n(ii) অক্ষাংশ 90° হওয়ায় আহ্নিক গতির প্রভাব (অপকেন্দ্র বল) শূন্য।\n(iii) আহ্নিক গতির প্রভাব মেরুতে নেই বলে g বেশি। তিনটিই সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-012",
+      "text": "পৃথিবী পৃষ্ঠে 30 kg ভরের একটি বস্তুর ওজন চন্দ্রপৃষ্ঠে কত? চন্দ্রের অভিকর্ষজ ত্বরণ পৃথিবীর \\(\\frac{1}{6}\\) গুণ।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "489 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "480 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "485 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "49 N",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভর অপরিবর্তিত থাকে, চন্দ্রে \\(g' = \\frac{g}{6}\\)\nওজন \\(= mg' = 30 \\times \\frac{9.8}{6} = 49\\) N",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-013",
+      "text": "একটি বস্তুকে ভূ-পৃষ্ঠ হতে কত বেগে ছুঁড়লে এটি কৃত্রিম উপগ্রহে পরিণত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(11.2\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(7.9\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(11.2\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7.9\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূপৃষ্ঠ সংলগ্ন কক্ষপথে কৃত্রিম উপগ্রহ হতে হলে প্রয়োজনীয় বেগ (কক্ষীয় বেগ) \\(v = \\sqrt{gR} \\approx 7.9\\) km s\\(^{-1}\\)। (11.2 km s\\(^{-1}\\) হলো মুক্তিবেগ।)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-014",
+      "text": "গ্রহটির মুক্তিবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গ্রহের অভিকর্ষজ ত্বরণ \\(\\frac{1}{8}g\\) এবং ব্যাসার্ধ \\(\\frac{1}{2}R\\)। এখানে g হচ্ছে পৃথিবীর পৃষ্ঠে অভিকর্ষজ ত্বরণ এবং R হচ্ছে পৃথিবীর ব্যাসার্ধ।",
+      "stem_image": null,
+      "group": "physics_1st-2025-DIB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.7\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.4\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.8\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5.6\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুক্তিবেগ \\(v_e = \\sqrt{2gR}\\)\nগ্রহের জন্য \\(g'R' = \\frac{g}{8} \\times \\frac{R}{2} = \\frac{gR}{16}\\)\nতাই \\(v_e' = \\frac{1}{4}\\sqrt{2gR} = \\frac{11.2}{4} = 2.8\\) km s\\(^{-1}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-015",
+      "text": "343 N ওজনের একটি বস্তুকে পৃথিবী থেকে উক্ত গ্রহে নিয়ে গেলে তা কতটুকু ওজন হারাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গ্রহের অভিকর্ষজ ত্বরণ \\(\\frac{1}{8}g\\) এবং ব্যাসার্ধ \\(\\frac{1}{2}R\\)। এখানে g হচ্ছে পৃথিবীর পৃষ্ঠে অভিকর্ষজ ত্বরণ এবং R হচ্ছে পৃথিবীর ব্যাসার্ধ।",
+      "stem_image": null,
+      "group": "physics_1st-2025-DIB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "35 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "42.875 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "300.125 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "343 N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্রহে ওজন \\(= \\frac{343}{8} = 42.875\\) N\nহারানো ওজন \\(= 343 - 42.875 = 300.125\\) N",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-016",
+      "text": "\\(m_1\\) ও \\(m_2\\) ভরের বস্তুদ্বয়ের ক্রিয়াশীল বলটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_1st-ch6-mcq-016-stem.svg",
+      "group": "physics_1st-2025-JB-5-6",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মহাকর্ষ বল"
+        },
+        {
+          "label": "ii",
+          "text": "অভিকর্ষ বল"
+        },
+        {
+          "label": "iii",
+          "text": "আকর্ষণধর্মী বল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: দুটি বস্তুর মধ্যকার বল মহাকর্ষ বল।\n(ii) মিথ্যা: অভিকর্ষ বল হলো পৃথিবীর আকর্ষণ বল; এখানে বস্তুদ্বয় পৃথিবী নয়।\n(iii) সত্য: মহাকর্ষ বল সর্বদা আকর্ষণধর্মী।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-017",
+      "text": "উদ্দীপকের বস্তুদ্বয়ের মধ্যে ক্রিয়াশীল বলের মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_1st-ch6-mcq-016-stem.svg",
+      "group": "physics_1st-2025-JB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6.4 \\times 10^{6}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6 \\times 10^{24}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.67 \\times 10^{-11}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.023 \\times 10^{23}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F = G\\frac{m_1 m_2}{r^2} = 6.67 \\times 10^{-11} \\times \\frac{1 \\times 1}{1^2} = 6.67 \\times 10^{-11}\\) N\nসংখ্যামানের দিক থেকে (গ) ই সঠিক (একক হিসেবে N হওয়া উচিত ছিল, G এর একক নয়)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা বিকল্পগুলোর একক \\(\\mathrm{Nm^2kg^{-2}}\\) আসলে G-এর একক; বলের একক N হওয়া উচিত।"
+    },
+    {
+      "id": "physics_1st-ch6-mcq-018",
+      "text": "পৃথিবীর পৃষ্ঠ হতে কেন্দ্রের দিকে গতিশীল বস্তুর অভিকর্ষজ ত্বরণের লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-018-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-018-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-018-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-018-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ভূপৃষ্ঠ থেকে h গভীরতায় \\(g' = g\\left(1 - \\frac{h}{R}\\right)\\)।\nh বাড়লে g′ রৈখিকভাবে কমে এবং কেন্দ্রে (h = R) শূন্য হয়; তাই লেখচিত্রটি g অক্ষের একটি বিন্দু থেকে h অক্ষ পর্যন্ত নেমে আসা সরলরেখা — (গ)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-019",
+      "text": "উক্ত গ্রহটিতে কোনো বস্তুর মুক্তিবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো গ্রহে অভিকর্ষজ ত্বরণ \\(\\frac{g}{6}\\) এবং ব্যাসার্ধ \\(\\frac{R}{4}\\)। পৃথিবীর পৃষ্ঠে \\(g = 9.81\\,\\mathrm{ms^{-2}}\\) এবং পৃথিবীর ব্যাসার্ধ, \\(R = 6.4 \\times 10^{6}\\) m।",
+      "stem_image": null,
+      "group": "physics_1st-2025-JB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.56\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.80\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.286\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.50\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v_e = \\sqrt{2g'R'}\\), \\(g' = \\frac{9.81}{6} = 1.635\\) m s\\(^{-2}\\), \\(R' = \\frac{6.4 \\times 10^6}{4} = 1.6 \\times 10^{6}\\) m\n\\(v_e = \\sqrt{2 \\times 1.635 \\times 1.6 \\times 10^{6}} = \\sqrt{5.23 \\times 10^{6}} \\approx 2.286 \\times 10^{3}\\) m s\\(^{-1}\\) = 2.286 km s\\(^{-1}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-020",
+      "text": "পৃথিবীতে একটি বস্তুর ওজন 600N হলে ঐ গ্রহে বস্তুটিকে নিয়ে গেলে কী পরিমাণ ওজন হারাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো গ্রহে অভিকর্ষজ ত্বরণ \\(\\frac{g}{6}\\) এবং ব্যাসার্ধ \\(\\frac{R}{4}\\)। পৃথিবীর পৃষ্ঠে \\(g = 9.81\\,\\mathrm{ms^{-2}}\\) এবং পৃথিবীর ব্যাসার্ধ, \\(R = 6.4 \\times 10^{6}\\) m।",
+      "stem_image": null,
+      "group": "physics_1st-2025-JB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "500N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "450N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "400N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "300N",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্রহে ওজন \\(= \\frac{600}{6} = 100\\) N\nহারানো ওজন \\(= 600 - 100 = 500\\) N",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-021",
+      "text": "কোনো দোলক ঘড়িকে পৃথিবীর কেন্দ্রে নিয়ে গেলে ঘড়িটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দোলন থেমে যাবে"
+        },
+        {
+          "label": "ii",
+          "text": "দোলনকাল অসীম হবে"
+        },
+        {
+          "label": "iii",
+          "text": "দোলকটি দ্রুত দুলবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর কেন্দ্রে \\(g = 0\\), তাই প্রত্যয়নী বল থাকে না এবং দোলন থেমে যাবে (i সত্য)।\n\\(T = 2\\pi\\sqrt{\\frac{l}{g}}\\) এ \\(g = 0\\) হলে \\(T = \\infty\\) (ii সত্য)।\nদোলক দ্রুত দুলবে না (iii মিথ্যা)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-022",
+      "text": "ভূ-পৃষ্ঠ থেকে যে গভীরতায় এবং উচ্চতায় অভিকর্ষজ ত্বরণের মান সমান হয় তাদের অনুপাত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 : 3",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গভীরতা d এ \\(g' = g\\left(1 - \\frac{d}{R}\\right)\\), উচ্চতা h এ (ছোট h এর জন্য) \\(g' = g\\left(1 - \\frac{2h}{R}\\right)\\)\nসমান হলে \\(d = 2h\\), তাই \\(d : h = 2 : 1\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-023",
+      "text": "মহাকর্ষীয় ধ্রুবকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([M^{-1}T^{-2}L^{3}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([M^{-1}L^{-1}T^{2}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([M^{-1}L^{-2}T^{3}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([M^{-1}L^{-1}T^{3}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(G = \\frac{Fr^2}{m_1 m_2}\\); মাত্রা \\(= \\frac{[MLT^{-2}][L^2]}{[M^2]} = [M^{-1}L^{3}T^{-2}]\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-024",
+      "text": "সরল দোলকের সাহায্যে পাহাড়ের উচ্চতা নির্ণয়ের সমীকরণটি হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(h = \\left(\\frac{g}{g'} - 1\\right)R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(h = \\left(\\sqrt{\\frac{g}{g'}} - 1\\right)R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(h = \\left(\\frac{g'}{g} - 1\\right)R\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(h = \\left(\\sqrt{\\frac{g'}{g}} - 1\\right)R\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাহাড়ে \\(g' = g\\left(\\frac{R}{R+h}\\right)^2\\) এবং \\(g \\propto \\frac{1}{T^2}\\) নির্ণয় করে\n\\(\\sqrt{\\frac{g}{g'}} = \\frac{R+h}{R}\\), অর্থাৎ \\(h = \\left(\\sqrt{\\frac{g}{g'}} - 1\\right)R\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-025",
+      "text": "সূর্যের ভরের রাশিমালা নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{3\\pi r^2}{GT^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{3\\pi r^3}{GT}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{4\\pi^2 r^3}{GT^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3\\pi r^3}{GT^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্রহের কক্ষপথে মহাকর্ষ বল = কেন্দ্রমুখী বল: \\(\\frac{GMm}{r^2} = m\\frac{4\\pi^2 r}{T^2}\\)\nঅতএব \\(M = \\frac{4\\pi^2 r^3}{GT^2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-026",
+      "text": "একটি গ্রহের ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের দ্বিগুণ। উক্ত গ্রহের পৃষ্ঠে অভিকর্ষ ত্বরণ পৃথিবীর অভিকর্ষ ত্বরণের আটগুণ। গ্রহটির পৃষ্ঠে মুক্তিবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4.48 \\times 10^{-3}\\) m/s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.48 \\times 10^{3}\\) m/s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4.48 \\times 10^{3}\\) cm/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(44.8 \\times 10^{3}\\) m/s",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(v_e = \\sqrt{2gR}\\); \\(g' = 8g\\), \\(R' = 2R\\)\n\\(v_e' = \\sqrt{2 \\times 8g \\times 2R} = 4\\sqrt{2gR} = 4 \\times 11.2 \\times 10^{3} = 44.8 \\times 10^{3}\\) m s\\(^{-1}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-027",
+      "text": "পৃথিবীর কেন্দ্র হতে দূরত্ব r (r > R) ও অভিকর্ষজ ত্বরণ g এর মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(g \\propto r\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(g \\propto \\frac{1}{r}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(g \\propto r^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(g \\propto \\frac{1}{r^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর বাইরে \\( g = \\frac{GM}{r^2} \\), তাই \\( g \\propto \\frac{1}{r^2} \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-028",
+      "text": "নিচের কোন ভৌত রাশিটি স্কেলার ক্ষেত্রের সাথে সংশ্লিষ্ট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষীয় ক্ষেত্র প্রাবল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রৈখিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মহাকর্ষীয় বিভব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় বিভব কেবল মান আছে, দিক নেই — এটি স্কেলার রাশি; তাই এটি স্কেলার ক্ষেত্রের সাথে সংশ্লিষ্ট। প্রাবল্য, রৈখিক ও কৌণিক ভরবেগ ভেক্টর।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-029",
+      "text": "নিচের কোন লেখচিত্রটি মহাকর্ষীয় বিভব (V) বনাম দূরত্বের (r) মধ্যে সম্পর্ক নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-029-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-029-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-029-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-029-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( V = -\\frac{GM}{r} \\); এটি ঋণাত্মক, \\( r \\to \\infty \\) এ শূন্যের কাছে পৌঁছায় এবং r বাড়লে বাড়তে থাকে। তাই r অক্ষের নিচে থেকে অক্ষের দিকে উঠে যাওয়া অধিবৃত্তাকার বক্র (−1/r) লেখ (ক)-তে আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-030",
+      "text": "B বিন্দুতে মহাকর্ষীয় ক্ষেত্র প্রাবল্যের মান—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch6-mcq-030-stem.svg",
+      "group": "physics_1st-2024-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "15 G",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10 G",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5 G",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{5}{2}\\) G",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "B বিন্দুতে \\( M_1 \\) (A, দূরত্ব 1 m) এর প্রাবল্য \\( \\frac{5G}{1^2} = 5G \\) (A-এর দিকে)।\n\\( M_2 \\) (D, দূরত্ব 2 m) এর প্রাবল্য \\( \\frac{10G}{2^2} = 2.5G \\) (D-এর দিকে)।\nদিক বিপরীত, তাই লব্ধি \\( = 5G - 2.5G = \\frac{5}{2}G \\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-031",
+      "text": "B ও C বিন্দুতে মহাকর্ষীয় বিভবের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch6-mcq-030-stem.svg",
+      "group": "physics_1st-2024-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "5 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5 : 4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 : 5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( V_B = -G\\left(\\frac{5}{1} + \\frac{10}{2}\\right) = -10G \\)\n\\( V_C = -G\\left(\\frac{5}{2} + \\frac{10}{1}\\right) = -12.5G \\)\nঅনুপাত \\( = \\frac{10}{12.5} = 4:5 \\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-032",
+      "text": "G-এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(8.854 \\times 10^{-6}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.256 \\times 10^{-7}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.673 \\times 10^{-8}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.673 \\times 10^{-11}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় ধ্রুবক \\( G = 6.673 \\times 10^{-11}\\,\\mathrm{Nm^2kg^{-2}} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-033",
+      "text": "পৃথিবীতে কোনো বস্তুর মুক্তিবেগ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(v_e = \\sqrt{2gR}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(v_e = \\sqrt{\\frac{8}{3}\\pi\\rho GR^2}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(v_e = \\sqrt{\\frac{2GM}{R}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তিনটি সম্পর্কই সঠিক: \\( v_e = \\sqrt{2gR} \\); \\( g = \\frac{GM}{R^2} \\) বসিয়ে \\( v_e = \\sqrt{\\frac{2GM}{R}} \\); আর \\( M = \\frac{4}{3}\\pi R^3\\rho \\) বসিয়ে \\( v_e = \\sqrt{\\frac{8}{3}\\pi\\rho GR^2} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-034",
+      "text": "একটি দোলক ঘড়িকে পাহাড়ের চূড়ায় নিয়ে গেলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সময় হারাবে"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রুত চলবে"
+        },
+        {
+          "label": "iii",
+          "text": "দোলনকাল বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাহাড়ের চূড়ায় g কমে, তাই \\( T = 2\\pi\\sqrt{l/g} \\) বাড়ে (iii সত্য)। দোলনকাল বাড়লে ঘড়ি ধীরে চলে, অর্থাৎ সময় হারায় (i সত্য); দ্রুত চলবে না (ii মিথ্যা)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-035",
+      "text": "চাঁদের ভর M এবং ব্যাসার্ধ R হলে চাঁদের পৃষ্ঠে \\(\\frac{g}{G}\\) হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{M}{R}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{R}{M}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{M}{R^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{R^2}{M}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( g = \\frac{GM}{R^2} \\) থেকে \\( \\frac{g}{G} = \\frac{M}{R^2} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-036",
+      "text": "পার্কিং কক্ষপথে আবর্তনরত কৃত্রিম উপগ্রহের আবর্তন কাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2h",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "24h",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30d",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "365d",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পার্কিং কক্ষপথের উপগ্রহের আবর্তনকাল পৃথিবীর আবর্তনকালের সমান, অর্থাৎ 24 ঘণ্টা; এজন্য এটি ভূ-স্থির থাকে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-037",
+      "text": "মহাকর্ষীয় বিভবশক্তি ও উচ্চতার লেখচিত্রের ঢাল কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অভিকর্ষীয় বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রত্যয়নী বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মহাকর্ষীয় তীব্রতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিভবশক্তি-উচ্চতা লেখচিত্রের ঢাল \\( \\frac{dU}{dh} \\) বলের মান নির্দেশ করে (\\( F = -\\frac{dU}{dh} \\)); এখানে তা মহাকর্ষ বল।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-038",
+      "text": "একজন ব্যক্তির ওজন পৃথিবী পৃষ্ঠে 785 N এবং মঙ্গল গ্রহ পৃষ্ঠে 298 N। মঙ্গল পৃষ্ঠে অভিকর্ষীয় ক্ষেত্রের তীব্রতা কত? (পৃথিবী পৃষ্ঠে অভিকর্ষজ ত্বরণের মান \\(9.8\\,\\mathrm{ms^{-2}}\\))",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.63\\,\\mathrm{Nkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.72\\,\\mathrm{Nkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.09\\,\\mathrm{Nkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9.81\\,\\mathrm{Nkg^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীতে ওজন 785 N হলে ভর \\( m = \\frac{785}{9.8} \\approx 80.1 \\) kg।\nমঙ্গলে ক্ষেত্রের তীব্রতা \\( g_m = \\frac{298}{80.1} \\approx 3.72\\,\\mathrm{Nkg^{-1}} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-039",
+      "text": "একটি দোলক ঘড়ি পাহাড়ের চূড়া হতে পাহাড়ের পাদদেশে আনা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দোলনকাল হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "সময় হারাবে"
+        },
+        {
+          "label": "iii",
+          "text": "সময় লাভ করবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাহাড়ের চূড়া থেকে পাদদেশে এলে g বাড়ে, তাই \\( T = 2\\pi\\sqrt{l/g} \\) কমে (i সত্য) এবং ঘড়ি দ্রুত চলে, অর্থাৎ সময় লাভ করে (iii সত্য, ii মিথ্যা)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-040",
+      "text": "পৃথিবীর ভর M ও ব্যাসার্ধ R, পৃথিবী পৃষ্ঠ হতে m ভরের বস্তুকে অসীমে নেওয়া হলে সম্পাদিত কাজের রাশিমালা কোনটি? (অভিকর্ষজ ত্বরণ = g)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(W = \\frac{GMm}{R^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(W = \\frac{-GM}{R}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(W = GmR\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(W = gmR\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অসীমে নিতে কাজ = বিভবশক্তির পরিবর্তন \\( W = \\frac{GMm}{R} \\)। \\( GM = gR^2 \\) বসিয়ে \\( W = gmR \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-041",
+      "text": "মহাকর্ষীয় বিভবের একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Volt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Jkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{N\\,kg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N\\,m^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় বিভব = কাজ/ভর; একক \\( \\mathrm{Jkg^{-1}} \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-042",
+      "text": "একজন ব্যক্তি লিফটে ওজনহীনতা অনুভব করবে, যখন লিফটটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবেগে উপরে উঠে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমবেগে নিচে নামে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "'g' ত্বরণে উপরে উঠে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "'g' ত্বরণে নিচে নামে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লিফট g ত্বরণে নিচে নামলে (মুক্তভাবে পড়লে) ব্যক্তির আপাত ওজন \\( m(g-a) = 0 \\), তাই ওজনহীনতা অনুভূত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-043",
+      "text": "ভূ-পৃষ্ঠ হতে কত km উচ্চতায় অভিকর্ষজ ত্বরণের মান ভূ-পৃষ্ঠের মানের 25% হবে? [R = 6400 km]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6400",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "640",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "250",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( g' = \\frac{g}{4} \\) হলে \\( \\left(\\frac{R}{R+h}\\right)^2 = \\frac{1}{4} \\Rightarrow R+h = 2R \\Rightarrow h = R = 6400 \\) km",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-044",
+      "text": "\"পৃথিবী সূর্যের চারদিকে উপবৃত্তাকার পথে পরিভ্রমণ করছে\" —এই সূত্রটি কে প্রদান করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কেপলার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্যালিলিও",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোপারনিকাস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্রহের উপবৃত্তাকার কক্ষপথ সংক্রান্ত সূত্রটি (কেপলারের প্রথম সূত্র) জোহানেস কেপলার প্রদান করেন।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-045",
+      "text": "পৃথিবীর ব্যাসার্ধ (R) বরাবর কত গভীরতায় অভিকর্ষজ ত্বরণের মান ভূ-পৃষ্ঠের অভিকর্ষজ ত্বরণের এক-চতুর্থাংশ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{4}{3}R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{3}{4}R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{3}R\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{4}R\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গভীরতা d এ \\( g' = g\\left(1 - \\frac{d}{R}\\right) = \\frac{g}{4} \\)\n\\( 1 - \\frac{d}{R} = \\frac{1}{4} \\Rightarrow d = \\frac{3}{4}R \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-046",
+      "text": "মহাকর্ষীয় বিভবের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(V = -\\frac{GM}{r^2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "একক \\(\\mathrm{Jkg^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "এটি একটি স্কেলার রাশি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) ভুল: \\( V = -\\frac{GM}{r} \\), \\( r^2 \\) নয়। (ii) সত্য: একক \\( \\mathrm{Jkg^{-1}} \\)। (iii) সত্য: বিভব স্কেলার রাশি।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-047",
+      "text": "কেপলারের দ্বিতীয় সূত্র কোন ভৌত রাশির নিত্যতা সূত্র থেকে প্রমাণ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রৈখিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যান্ত্রিক শক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্রহের উপর কেন্দ্রীয় বল ক্রিয়া করায় কৌণিক ভরবেগ সংরক্ষিত থাকে; এ থেকেই কেপলারের দ্বিতীয় সূত্র (ক্ষেত্রফল বেগ ধ্রুব) প্রমাণিত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-048",
+      "text": "পৃথিবীর কেন্দ্র হতে কোনো বিন্দুর দূরত্ব x হলে (x < R), অভিকর্ষজ ত্বরণ (g) এর মান নিচের কোন সম্পর্কটি সঠিক? (পৃথিবীর ব্যাসার্ধ R)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(g \\propto \\frac{1}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(g \\propto x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(g \\propto \\frac{1}{x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(g \\propto x^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীর অভ্যন্তরে \\( g = \\frac{GM}{R^3}x \\), তাই \\( g \\propto x \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-049",
+      "text": "কোনো বৃহদাকার বস্তুর জন্য মহাকর্ষীয় বিভবের সর্বোচ্চ মান কোথায় পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বস্তুর কেন্দ্রে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বস্তুর পৃষ্ঠে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পৃষ্ঠের বাইরে যে কোনো বিন্দুতে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম দূরত্বে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিভব \\( V = -\\frac{GM}{r} \\) ঋণাত্মক; r বাড়লে V বাড়ে এবং অসীম দূরত্বে V = 0, যা সর্বোচ্চ মান।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-050",
+      "text": "ভূকেন্দ্র হতে \\(8 \\times 10^{3}\\) km দূরে অবস্থান করে এরূপ একটি কৃত্রিম উপগ্রহকে পৃথিবীর চারদিকে কত বেগে ঘুরতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2518\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5810\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(7089\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(8905\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কক্ষীয় বেগ \\( v = \\sqrt{\\frac{GM}{r}} = \\sqrt{\\frac{gR^2}{r}} = R\\sqrt{\\frac{g}{r}} \\)\n\\( = 6.4 \\times 10^6 \\times \\sqrt{\\frac{9.8}{8 \\times 10^6}} \\approx 7.08 \\times 10^3\\,\\mathrm{ms^{-1}} \\)\nনিকটতম মান 7089 ms⁻¹।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: নির্ভুল মান প্রায় \\(7072.84\\,\\mathrm{ms^{-1}}\\); নিকটতম বিকল্প হিসেবে (গ)।"
+    },
+    {
+      "id": "physics_1st-ch6-mcq-051",
+      "text": "মহাকর্ষীয় ধ্রুবক 'G' মাধ্যমের কোন বৈশিষ্ট্যের উপর নির্ভর করে না—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রবেশ্যতা"
+        },
+        {
+          "label": "ii",
+          "text": "প্রবণতা"
+        },
+        {
+          "label": "iii",
+          "text": "দিকদর্শিতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় ধ্রুবক G একটি সার্বজনীন ধ্রুবক; এটি মাধ্যমের প্রবেশ্যতা, প্রবণতা বা দিকদর্শিতা — কোনোটির উপরই নির্ভর করে না।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-052",
+      "text": "অভিকর্ষীয় ত্বরণ 'g' এর তারতম্য এর ক্ষেত্রে কোনটির কোনো ভূমিকা নেই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পৃথিবীর আকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সূর্যের চারিদিকে পৃথিবীর ঘূর্ণনগতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিজ অক্ষের চারিদিকে পৃথিবীর ঘূর্ণন গতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভূ-পৃষ্ঠ থেকে উচ্চতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "g এর মান পৃথিবীর আকার (ব্যাসার্ধ), নিজ অক্ষে আবর্তন ও উচ্চতার উপর নির্ভর করে। সূর্যকে ঘিরে ঘূর্ণনের কোনো প্রভাব নেই।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-053",
+      "text": "একটি কৃত্রিম উপগ্রহ পৃথিবীর পৃষ্ঠ হতে 10600 km উপরে অবস্থান করে ঘুরছে এক্ষেত্রে পৃথিবীর ব্যাসার্ধ 6400 km ও ভূ-পৃষ্ঠে g এর মান \\(9.8\\,\\mathrm{m/s^2}\\) হলে এর বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3.13 km/s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.85 km/s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9.8 km/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16.18 km/s",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কক্ষের ব্যাসার্ধ \\( r = 6400 + 10600 = 17000 \\) km\n\\( v = R\\sqrt{\\frac{g}{r}} = 6.4 \\times 10^6 \\times \\sqrt{\\frac{9.8}{1.7 \\times 10^7}} \\approx 4.85 \\times 10^3 \\) ms⁻¹ = 4.85 km/s",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-054",
+      "text": "50 kg ভরের একটি বস্তুকে A থেকে B বিন্দুতে নিয়ে গেলে এর ওজন হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch6-mcq-054-stem.svg",
+      "group": "physics_1st-2024-RB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "217.8 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "245 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "272.2 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "490 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "B বিন্দু \\( x = \\frac{R}{2} \\) (পৃথিবীর ভিতরে), তাই \\( g_B = \\frac{g}{2} \\)।\nওজন \\( = mg_B = 50 \\times \\frac{9.8}{2} = 245 \\) N",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-055",
+      "text": "উদ্দীপকের লেখচিত্র অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch6-mcq-054-stem.svg",
+      "group": "physics_1st-2024-RB-2-3",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A বিন্দুতে মহাকর্ষীয় প্রাবল্য সর্বোচ্চ"
+        },
+        {
+          "label": "ii",
+          "text": "B বিন্দুতে g এর মান A বিন্দুর অর্ধেক"
+        },
+        {
+          "label": "iii",
+          "text": "B ও C বিন্দুতে বস্তুটির ওজন সমান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: A (ভূ-পৃষ্ঠ) এ g, তাই প্রাবল্য সর্বোচ্চ। (ii) সত্য: \\( x = R/2 \\) এ \\( g_B = g_A/2 \\)। (iii) মিথ্যা: \\( g_C = g\\left(\\frac{R}{1.5R}\\right)^2 = 0.44g \\), \\( g_B = 0.5g \\); তাই ওজন সমান নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-056",
+      "text": "একটি কাল্পনিক গ্রহের ব্যাসার্ধ 3200 km এবং অভিকর্ষজ ত্বরণ \\(4.1\\,\\mathrm{ms^{-2}}\\)। ঐ গ্রহে মুক্তি বেগের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(11.2\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(7.92\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.45\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5.122\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( v_e = \\sqrt{2gR} = \\sqrt{2 \\times 4.1 \\times 3.2 \\times 10^6} \\)\n\\( = \\sqrt{2.624 \\times 10^7} \\approx 5122\\,\\mathrm{ms^{-1}} = 5.122\\,\\mathrm{kms^{-1}} \\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-057",
+      "text": "80 kg ভরের একজন নভোচারীর চন্দ্রে ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "784 kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "784 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "80 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "80 kg",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভর স্থানভেদে অপরিবর্তিত থাকে; তাই চন্দ্রেও নভোচারীর ভর 80 kg। (ওজন বদলায়)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-058",
+      "text": "মহাকর্ষীয় বিভবের একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Nkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Jkg^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় বিভব = একক ভরের জন্য কাজ, তাই একক \\(\\text{J\\,kg}^{-1}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-059",
+      "text": "একজন ব্যক্তি লিফটে ওজনহীনতা অনুভব করে, যখন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লিফটি সমবেগে উপরে উঠে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লিফটি সমবেগে নিচে নামে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিফটি 'g' ত্বরণে উপরে উঠে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লিফটি 'g' ত্বরণে নীচে নামে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লিফট \\(g\\) ত্বরণে নিচে নামলে লিফটের মেঝের প্রতিক্রিয়া \\(R=m(g-g)=0\\), ফলে ব্যক্তি ওজনহীনতা অনুভব করে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-060",
+      "text": "চাঁদের অভিকর্ষজ ত্বরণ পৃথিবীর \\(\\frac{1}{6}\\) গুণ। পৃথিবী পৃষ্ঠে কোনো বস্তুর ভর 60 kg হলে চাঁদে বস্তুটির ভর হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10 kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20 kg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60 kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "98 kg",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ভর বস্তুর অন্তর্নিহিত ধর্ম, স্থানভেদে পরিবর্তিত হয় না। তাই চাঁদেও ভর 60 kg।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-061",
+      "text": "সূর্য থেকে কোনো গ্রহের গড় দূরত্ব কমে গেলে গ্রহটির পর্যায়কাল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কমে যাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেড়ে যাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থির থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেপলারের তৃতীয় সূত্রানুসারে \\(T^2\\propto r^3\\)। গড় দূরত্ব r কমলে পর্যায়কাল T কমে যাবে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-062",
+      "text": "পৃথিবীর কেন্দ্র থেকে পৃথিবীর পৃষ্ঠের দিকে গতিশীল বস্তুর উপর অভিকর্ষীয় ত্বরণের লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-062-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-062-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-062-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-062-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পৃথিবীকে সুষম ধরলে অভ্যন্তরে \\(g'=\\frac{g}{R}d\\), অর্থাৎ কেন্দ্র থেকে দূরত্বের সমানুপাতিক। কেন্দ্র থেকে পৃষ্ঠ পর্যন্ত লেখচিত্র মূলবিন্দুগামী সরলরেখা, যা (ক)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2023",
+          "qno": 13,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-063",
+      "text": "ভূস্থির উপগ্রহের পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12 ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "24 ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 মাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 বছর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূস্থির উপগ্রহের পর্যায়কাল পৃথিবীর আবর্তনকালের সমান, অর্থাৎ 24 ঘণ্টা।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-064",
+      "text": "পৃথিবী 365 দিনে এবং বুধ 88 দিনে সূর্যকে একবার প্রদক্ষিণ করে, সূর্য থেকে পৃথিবীর গড় দূরত্ব \\(1.5 \\times 10^{11}\\) m হলে সূর্য থেকে বুধের গড় দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(128.2 \\times 10^{10}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(38.68 \\times 10^{10}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5.81 \\times 10^{10}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.77 \\times 10^{10}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কেপলারের সূত্র: \\(\\frac{r_B}{r_E}=\\left(\\frac{T_B}{T_E}\\right)^{2/3}\\)\n\\(r_B=1.5\\times10^{11}\\times\\left(\\frac{88}{365}\\right)^{2/3}=1.5\\times10^{11}\\times0.3873\\)\n\\(=5.81\\times10^{10}\\,\\text{m}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2023",
+          "qno": 15,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-065",
+      "text": "দুটি বস্তুর মধ্যে দূরত্ব তিনগুণ হলে মহাকর্ষীয় বল হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{9}\\) গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{3}\\) গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F\\propto\\frac{1}{r^2}\\); দূরত্ব 3 গুণ হলে বল \\(\\frac{1}{3^2}=\\frac{1}{9}\\) গুণ হবে।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-066",
+      "text": "কৃত্রিম উপগ্রহ পৃথিবীপৃষ্ঠ হতে পৃথিবীর ব্যাসার্ধের (R) সমান উচ্চতায় ঘুরলে এর বেগ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2gR}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{1.5gR}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{gR}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{0.5gR}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কক্ষপথের ব্যাসার্ধ \\(r=2R\\)। \\(v=\\sqrt{\\frac{GM}{r}}=\\sqrt{\\frac{gR^2}{2R}}=\\sqrt{\\frac{gR}{2}}=\\sqrt{0.5gR}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-067",
+      "text": "মহাকর্ষীয় বিভব (V) ও পৃথিবীর কেন্দ্র হতে দূরত্ব (r) এর মধ্যে সম্পর্কিত লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-067-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-067-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-067-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-067-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(V=-\\frac{GM}{r}\\); বিভব ঋণাত্মক এবং r বাড়লে শূন্যের দিকে বাড়ে। r>0 এর জন্য লেখচিত্র চতুর্থ চতুর্ভাগে অধিবৃত্তাকার বক্ররেখা, যা (ঘ)-এর বর্ণনার সাথে মেলে। (ক) বিভবকে ধনাত্মক ও রৈখিক দেখাচ্ছে, যা সঠিক নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "মহাকর্ষীয় বিভব \\(V = -\\frac{GM}{r}\\) অনুযায়ী (ঘ) লেখচিত্রটিই প্রত্যাশিত; ছাপা উত্তর (ক) যাচাই প্রয়োজন। | উত্তর যাচাই: r>0 এর জন্য \\(V=-\\frac{GM}{r}\\) ঋণাত্মক, এবং লেখচিত্র চতুর্থ চতুর্ভাগে অধিবৃত্তাকার (\\(-1/r\\) আকৃতি), যা (ঘ)। (ক) ধনাত্মক রৈখিক লেখচিত্র সঠিক নয়। আমার মতে উত্তর (ঘ)।"
+    },
+    {
+      "id": "physics_1st-ch6-mcq-069",
+      "text": "পৃথিবীর পৃষ্ঠ থেকে কেন্দ্রের দিকে গেলে বস্তুর অভিকর্ষজ ত্বরণ (g) এর লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-069-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-069-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-069-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-069-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পৃষ্ঠ থেকে কেন্দ্রের দিকে গভীরতা h হলে \\(g'=g\\left(1-\\frac{h}{R}\\right)\\)। এটি h-এর সাথে রৈখিকভাবে হ্রাস পায় (h=0 তে g, h=R তে শূন্য), যা (গ)-এর নিম্নগামী সরলরেখা।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-070",
+      "text": "5kg ভরের বস্তুকে কোনো দৃঢ় অবলম্বন থেকে ঝুলিয়ে দিলে তার উপর অভিকর্ষজ বল কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.96N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9.8N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "49 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "245 N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F=mg=5\\times9.8=49\\,\\text{N}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-071",
+      "text": "পৃথিবীর অভ্যন্তরে কেন্দ্র হতে কোনো বিন্দুর দূরত্ব d বনাম অভিকর্ষজ ত্বরণ g′ এর লেখচিত্র—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-071-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-071-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-071-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-071-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্র থেকে d দূরত্বে (পৃথিবীর অভ্যন্তরে) \\(g'=\\frac{g}{R}d\\), অর্থাৎ \\(g'\\propto d\\); লেখচিত্র মূলবিন্দুগামী সরলরেখা (ক)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-072",
+      "text": "মহাকর্ষীয় প্রাবল্য ও মহাকর্ষীয় বিভবের মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E = \\frac{dV}{dr}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E = -\\frac{dV}{dr}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(V = -\\frac{dE}{dr}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(V = \\frac{dE}{dr}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় প্রাবল্য বিভব নতির ঋণাত্মক মানের সমান: \\(E=-\\frac{dV}{dr}\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-073",
+      "text": "সর্বনিম্ন কত বেগে ভূ-পৃষ্ঠ হতে কোনো বস্তুকে উপরের দিকে নিক্ষেপ করলে তা আর কখনো ফিরে আসবে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2gR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "gR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2gR}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2gR^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুক্তিবেগ \\(v_e=\\sqrt{2gR}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-074",
+      "text": "ঐ গ্রহটির মুক্তিবেগ পৃথিবীর মানের কতগুণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "পৃথিবীর মুক্তিবেগ \\(11.2\\,\\mathrm{kms^{-1}}\\)। পৃথিবীর সমস্তরের একটি কাল্পনিক গ্রহের ব্যাসার্ধ এবং অভিকর্ষীয় ত্বরণের মান পৃথিবীর মানের যথাক্রমে অর্ধেক এবং দ্বিগুণ।",
+      "stem_image": null,
+      "group": "physics_1st-2023-DIB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক চতুর্থাংশ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(v_e=\\sqrt{2gR}\\)। গ্রহের জন্য \\(g'=2g,\\ R'=\\frac{R}{2}\\), তাই \\(g'R'=gR\\)।\nসুতরাং \\(v_e'=\\sqrt{2g'R'}=\\sqrt{2gR}=v_e\\), অর্থাৎ মান সমান।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-075",
+      "text": "যদি গ্রহটিকে একটি সুষম গোলক ধরা হয় তবে এর—",
+      "text_en": null,
+      "image": null,
+      "stem": "পৃথিবীর মুক্তিবেগ \\(11.2\\,\\mathrm{kms^{-1}}\\)। পৃথিবীর সমস্তরের একটি কাল্পনিক গ্রহের ব্যাসার্ধ এবং অভিকর্ষীয় ত্বরণের মান পৃথিবীর মানের যথাক্রমে অর্ধেক এবং দ্বিগুণ।",
+      "stem_image": null,
+      "group": "physics_1st-2023-DIB-7-8",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পৃষ্ঠ সমবিভব তল হবে"
+        },
+        {
+          "label": "ii",
+          "text": "অভিকর্ষীয় ত্বরণ হবে \\(19.6\\,\\mathrm{ms^{-2}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "পৃষ্ঠে মহাকর্ষীয় প্রাবল্য পৃথিবীর মানের চেয়ে বেশি হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সুষম গোলকের পৃষ্ঠের সব বিন্দুর বিভব সমান, তাই সমবিভব তল — সঠিক।\n(ii) \\(g'=2\\times9.8=19.6\\,\\text{ms}^{-2}\\) — সঠিক।\n(iii) মহাকর্ষীয় প্রাবল্য = অভিকর্ষজ ত্বরণ, যা পৃথিবীর দ্বিগুণ — সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-076",
+      "text": "পৃথিবীর কেন্দ্র হতে ভূ-পৃষ্ঠ পর্যন্ত দূরত্ব বৃদ্ধির সাথে সাথে 'g' এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতে হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমানুপাতে বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যস্তানুপাতে হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যস্তানুপাতে বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অভ্যন্তরে \\(g'=\\frac{g}{R}r\\), অর্থাৎ \\(g'\\propto r\\); কেন্দ্র থেকে পৃষ্ঠ পর্যন্ত দূরত্ব বাড়লে g সমানুপাতে বৃদ্ধি পায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-077",
+      "text": "পার্কিং কক্ষপথে ভ্রমণরত কৃত্রিম উপগ্রহের পর্যায়কাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "365 দিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "24 মাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24 দিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "24 ঘণ্টা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পার্কিং কক্ষপথ ভূস্থির উপগ্রহের কক্ষপথ; এর পর্যায়কাল পৃথিবীর আবর্তনকালের সমান, 24 ঘণ্টা।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-078",
+      "text": "পৃথিবীর ব্যাসার্ধের দ্বিগুণ ব্যাসার্ধের এবং পৃথিবীর ভরের সমান ভরের একটি কাল্পনিক গ্রহের পৃষ্ঠে অভিকর্ষজ ত্বরণ পৃথিবীর অভিকর্ষজ ত্বরণের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{4}\\) গুণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(g=\\frac{GM}{R^2}\\), M সমান ও ব্যাসার্ধ দ্বিগুণ হলে \\(g'=\\frac{g}{2^2}=\\frac{g}{4}\\), অর্থাৎ \\(\\frac{1}{4}\\) গুণ।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-079",
+      "text": "মহাকর্ষীয় ধ্রুবকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([M^{-1}L^{3}T^{-2}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([M^{-1}L^{-3}T^{-1}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([M^{-1}L^{-2}T^{3}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([M^{-1}L^{-3}T^{-2}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F=\\frac{Gm_1m_2}{r^2}\\Rightarrow G=\\frac{Fr^2}{m_1m_2}\\)\n\\([G]=\\frac{[MLT^{-2}][L^2]}{[M^2]}=[M^{-1}L^3T^{-2}]\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-080",
+      "text": "পার্কিং কক্ষপথ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রহের চলার পথ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভূ-স্থির উপগ্রহের কক্ষপথ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোলার উপগ্রহের কক্ষপথ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পৃথিবীর কক্ষপথ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে কক্ষপথে ভূস্থির উপগ্রহ স্থাপন করা হয় সেটিই পার্কিং কক্ষপথ।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-081",
+      "text": "মহাকর্ষীয় বিভব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্কেলার রাশি"
+        },
+        {
+          "label": "ii",
+          "text": "এর সর্বোচ্চ মান অসীম"
+        },
+        {
+          "label": "iii",
+          "text": "এর মান মহাকর্ষীয় ক্ষেত্রের যে কোনো বিন্দুতে ঋণাত্মক হতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) বিভব স্কেলার রাশি — সঠিক।\n(ii) বিভবের সর্বোচ্চ মান অসীমে শূন্য, অসীম নয় — ভুল।\n(iii) \\(V=-\\frac{GM}{r}\\) হওয়ায় বিভব ঋণাত্মক হয় — সঠিক।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-082",
+      "text": "R ও 2R ব্যাসার্ধবিশিষ্ট বৃত্তাকার কক্ষপথে প্রদক্ষিণরত দুটি কৃত্রিম উপগ্রহের পর্যায়কালের অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 : 2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{2} : 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8 : 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T^2\\propto r^3\\Rightarrow T\\propto r^{3/2}\\)\n\\(\\frac{T_1}{T_2}=\\left(\\frac{R}{2R}\\right)^{3/2}=\\frac{1}{2\\sqrt{2}}\\), অর্থাৎ \\(1:2\\sqrt{2}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-083",
+      "text": "যদি সূর্য থেকে পৃথিবীর গড় দূরত্ব হ্রাস পায়, তবে বছরের দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থির থাকবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসীম হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হ্রাস পাবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(T^2\\propto r^3\\); গড় দূরত্ব কমলে পর্যায়কাল, অর্থাৎ বছরের দৈর্ঘ্য হ্রাস পাবে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-084",
+      "text": "মেরু অঞ্চল অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কত কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega^2R\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega^2R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega^2R\\cos^2\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega R\\cos\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অক্ষাংশ \\(\\theta\\) এ \\(g'=g-\\omega^2R\\cos^2\\theta\\)। মেরুতে \\(\\theta=90^\\circ\\) (পরিবর্তন নেই), বিষুবে \\(\\theta=0^\\circ\\), তাই বিষুবে g মেরুর চেয়ে \\(\\omega^2R\\) কম।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-085",
+      "text": "W ওজনের এক ব্যক্তি লিফটে a ত্বরণে ঊর্ধ্বগামী হলে ব্যক্তির ওজন কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(W\\left(1 + \\frac{g}{a}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(W\\left(1 + \\frac{a}{g}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(W\\left(1 - \\frac{a}{g}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(W\\left(1 - \\frac{g}{a}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঊর্ধ্বগামী a ত্বরণে আপাত ওজন \\(=m(g+a)=mg\\left(1+\\frac{a}{g}\\right)=W\\left(1+\\frac{a}{g}\\right)\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-086",
+      "text": "মুক্তি বেগ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "M ভর এবং R ব্যাসার্ধ বিশিষ্ট পৃথিবীপৃষ্ঠ হতে m ভরের একটি বস্তুকে শূন্যে নিক্ষেপ করা হলো। [এখানে g = অভিকর্ষজ ত্বরণ, G = মহাকর্ষীয় ধ্রুবক]",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(V_e = \\sqrt{\\frac{GM}{R + h}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(V_e = \\sqrt{\\frac{GM}{(R + h)^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(V_e = \\sqrt{\\frac{2GM}{R}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(V_e = \\sqrt{\\frac{2GM}{R^2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পৃষ্ঠ থেকে অসীমে নিতে প্রয়োজনীয় কাজ \\(\\frac{GMm}{R}\\) = প্রয়োজনীয় গতিশক্তি \\(\\frac{1}{2}mv_e^2\\), তাই \\(v_e=\\sqrt{\\frac{2GM}{R}}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-087",
+      "text": "যদি নিক্ষিপ্ত বস্তুর বেগ \\(V = \\frac{V_e}{\\sqrt{2}}\\) হয় তবে বস্তুটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "M ভর এবং R ব্যাসার্ধ বিশিষ্ট পৃথিবীপৃষ্ঠ হতে m ভরের একটি বস্তুকে শূন্যে নিক্ষেপ করা হলো। [এখানে g = অভিকর্ষজ ত্বরণ, G = মহাকর্ষীয় ধ্রুবক]",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "পৃথিবীতে ফিরে আসবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভূ-স্থির উপগ্রহে পরিণত হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাঁদের মত উপগ্রহে পরিণত হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্তাকার পথে পৃথিবীকে প্রদক্ষিণ করবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v_e=\\sqrt{\\frac{2GM}{R}}\\) হলে \\(\\frac{v_e}{\\sqrt{2}}=\\sqrt{\\frac{GM}{R}}\\), যা পৃথিবীপৃষ্ঠ ঘেঁষা বৃত্তাকার কক্ষের বেগ। এ বেগে বস্তু পৃথিবীর কৃত্রিম উপগ্রহ/চাঁদের মতো উপগ্রহে পরিণত হয়ে ঘুরতে থাকবে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-088",
+      "text": "ভূপৃষ্ঠ হতে যে গভীরতায় ও উচ্চতায় অভিকর্ষজ ত্বরণের মান সমান হবে সেই গভীরতা ও উচ্চতার অনুপাত হবে প্রায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3 : 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ভূপৃষ্ঠ থেকে h উচ্চতায় \\(g_h=g\\left(1-\\dfrac{2h}{R}\\right)\\), d গভীরতায় \\(g_d=g\\left(1-\\dfrac{d}{R}\\right)\\)।\nসমান হলে \\(d=2h\\), তাই \\(d:h=2:1\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-089",
+      "text": "মহাকর্ষীয় ধ্রুবক G = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(66.7 \\times 10^{-12}\\,\\mathrm{Nmkg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6.67 \\times 10^{-11}\\,\\mathrm{Nm^{-2}kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.667 \\times 10^{-10}\\,\\mathrm{Nm^2kg^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.0667 \\times 10^{-9}\\,\\mathrm{Nm^{-2}kg^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(G=6.67\\times10^{-11}\\,\\mathrm{Nm^2kg^{-2}}=0.667\\times10^{-10}\\,\\mathrm{Nm^2kg^{-2}}\\), যা (গ) এর সাথে মেলে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-090",
+      "text": "পৃথিবীতে মুক্তিবেগ নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বস্তুর ভরের উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পৃথিবীর ব্যাসার্ধের উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বস্তুর ব্যাসার্ধের উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পৃথিবী ও বস্তুর দূরত্বের উপর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "মুক্তিবেগ \\(v_e=\\sqrt{\\dfrac{2GM}{R}}=\\sqrt{2gR}\\); তাই এটি পৃথিবীর ভর ও ব্যাসার্ধের উপর নির্ভর করে, বস্তুর ভরের উপর নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-091",
+      "text": "একটি গ্রহের ভর ও ব্যাসার্ধ যথাক্রমে পৃথিবীর ভর ও ব্যাসার্ধের অর্ধেক হলে ঐ গ্রহের পৃষ্ঠে g-এর মান পৃথিবী পৃষ্ঠের g-এর মানের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চারগুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(g=\\dfrac{GM}{R^2}\\)\n\\(\\dfrac{g'}{g}=\\dfrac{M'}{M}\\times\\dfrac{R^2}{R'^2}=\\dfrac{1}{2}\\times4=2\\)\nঅর্থাৎ g দ্বিগুণ হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-092",
+      "text": "কত অক্ষাংশে অভিকর্ষজ ত্বরণের মান সবচেয়ে কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(g'=g-R\\omega^2\\cos^2\\lambda\\); নিরক্ষরেখায় (\\(\\lambda=0^\\circ\\)) \\(\\cos\\lambda\\) সর্বোচ্চ হওয়ায় g এর মান সবচেয়ে কম।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-093",
+      "text": "কোনো একটি কাল্পনিক গ্রহের ব্যাসার্ধ ঠিক রেখে যদি এর ভর বৃদ্ধি পেতে থাকে তবে ঐ গ্রহের পৃষ্ঠের অভিকর্ষজ ত্বরণ ও ভরের মধ্যে সম্পর্ক নিচের কোন লেখচিত্র সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-093-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-093-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-093-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch6-mcq-093-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(g=\\dfrac{GM}{R^2}\\); R ধ্রুবক হলে \\(g\\propto M\\), তাই g-M লেখচিত্র মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-094",
+      "text": "অভিকর্ষজ ত্বরণ g এর পরিবর্তনের কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আহ্নিক গতি"
+        },
+        {
+          "label": "ii",
+          "text": "পৃথিবীর আকার"
+        },
+        {
+          "label": "iii",
+          "text": "উচ্চতা ও গভীরতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "আহ্নিক গতি, পৃথিবীর আকার (অসম ব্যাসার্ধ) এবং উচ্চতা ও গভীরতা — তিনটি কারণেই g এর মান পরিবর্তিত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-095",
+      "text": "সূর্য হতে পৃথিবীর দূরত্ব কমে গেলে বছরে দিনের সংখ্যা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কমবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাড়বে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একই থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কেপলারের তৃতীয় সূত্র অনুযায়ী \\(T^2\\propto r^3\\); দূরত্ব কমলে পর্যায়কাল (বছরের দৈর্ঘ্য) কমে, ফলে বছরে দিনের সংখ্যা কমবে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-096",
+      "text": "মহাকর্ষীয় বিভবের মান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সর্বোচ্চ হয় অসীমে"
+        },
+        {
+          "label": "ii",
+          "text": "সর্বোচ্চ পরিমাণ শূন্য"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণাত্মক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "মহাকর্ষীয় বিভব ঋণাত্মক (iii সত্য); অসীমে এর মান শূন্য, যা সর্বোচ্চ (i, ii সত্য)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-097",
+      "text": "একটি কৃত্রিম উপগ্রহের কক্ষপথের উচ্চতার সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(h = \\left(\\dfrac{GMT^2}{4\\pi^2}\\right)^{\\frac{1}{3}} - R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(h = \\left(\\dfrac{GMT^2}{4\\pi^2}\\right)^3 - R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(h = \\left(\\dfrac{4\\pi^2}{GMT^2}\\right)^{\\frac{1}{3}} - R\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(h = \\left(\\dfrac{4\\pi^2}{GMT^2}\\right)^3 - R\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "উপগ্রহের জন্য \\(\\dfrac{GMm}{r^2}=mr\\omega^2\\) থেকে \\(r^3=\\dfrac{GMT^2}{4\\pi^2}\\)\nঅতএব \\(h=r-R=\\left(\\dfrac{GMT^2}{4\\pi^2}\\right)^{1/3}-R\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-098",
+      "text": "একটি বস্তুর উৎক্ষেপণ বেগ কত হলে বস্তুটি পৃথিবীর চারিদিকে চাঁদের মতো উপগ্রহে পরিণত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(11.2\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(7.88\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5.7\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.24\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "পৃথিবীর চারদিকে উপগ্রহ হতে হলে প্রয়োজনীয় কক্ষীয় বেগ \\(\\sqrt{gR}\\approx7.88\\,\\mathrm{kms^{-1}}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-099",
+      "text": "বস্তুকে যেভাবেই রাখা হোক না কেন তার ওজন যে বিশেষ বিন্দুর মধ্য দিয়ে পৃথিবীর কেন্দ্রের দিকে ক্রিয়া করে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অভিকর্ষ কেন্দ্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভিকর্ষ ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহাকর্ষ ক্ষেত্র প্রাবল্য",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "যে বিন্দুর মধ্য দিয়ে বস্তুকে যেভাবেই রাখা হোক ওজন পৃথিবীর কেন্দ্রের দিকে ক্রিয়া করে, তাকে অভিকর্ষ কেন্দ্র (ভারকেন্দ্র) বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-100",
+      "text": "যদি কোনো গ্রহের ভর \\(2 \\times 10^{27}\\) kg ও ব্যাসার্ধ \\(7 \\times 10^7\\) m হয় তবে ঐ গ্রহের মুক্তিবেগ কত? \\([G = 6.673 \\times 10^{-11}\\,\\mathrm{Nm^2kg^{-2}}]\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(30.8\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(43.66\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(61.7\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5.17 \\times 10^6\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(v_e=\\sqrt{\\dfrac{2GM}{R}}=\\sqrt{\\dfrac{2\\times6.673\\times10^{-11}\\times2\\times10^{27}}{7\\times10^7}}\\)\n\\(=\\sqrt{3.81\\times10^9}\\approx6.17\\times10^4\\,\\mathrm{ms^{-1}}=61.7\\,\\mathrm{kms^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-101",
+      "text": "মহাকর্ষ সূত্র ব্যবহার করে যে সমস্ত কাজ করা সম্ভব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রাকৃতিক গ্যাস উত্তোলন"
+        },
+        {
+          "label": "ii",
+          "text": "বিভিন্ন খনিজ পদার্থ উত্তোলন"
+        },
+        {
+          "label": "iii",
+          "text": "ভূ-গর্ভস্থ তাপঘটিত শক্তি উত্তোলন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "মহাকর্ষ সূত্র ব্যবহার করে ভূগর্ভের প্রাকৃতিক গ্যাস ও খনিজ পদার্থের অবস্থান নির্ণয় ও উত্তোলন সম্ভব (i, ii সত্য); ভূ-গর্ভস্থ তাপশক্তি এর আওতায় পড়ে না (iii মিথ্যা)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-102",
+      "text": "মহাকর্ষ ক্ষেত্র প্রাবল্যের মাত্রার ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{LT^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{LT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{MLT^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{MLT^{-2}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\vec{E}=\\dfrac{\\vec{F}}{m}\\) এর মাত্রা বল/ভর \\(=\\dfrac{\\mathrm{MLT^{-2}}}{\\mathrm{M}}=[\\mathrm{LT^{-2}}]\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-103",
+      "text": "পৃথিবীর ব্যাসার্ধ R, পৃথিবীর কেন্দ্র থেকে কোনো বিন্দুর দূরত্ব r এবং অভিকর্ষজ ত্বরণ g এর মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(g \\propto r\\), যখন \\(r < R\\) হয়"
+        },
+        {
+          "label": "ii",
+          "text": "\\(g \\propto \\dfrac{1}{r^2}\\), যখন \\(r > R\\) হয়"
+        },
+        {
+          "label": "iii",
+          "text": "\\(g \\propto \\dfrac{1}{r}\\), যখন \\(r = R\\) হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(r<R\\) হলে \\(g\\propto r\\) (i সত্য); \\(r>R\\) হলে \\(g\\propto\\dfrac{1}{r^2}\\) (ii সত্য); \\(r=R\\) তে g সর্বোচ্চ ও \\(g=\\dfrac{GM}{R^2}\\), \\(g\\propto\\dfrac{1}{r}\\) নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-104",
+      "text": "পৃথিবীর পৃষ্ঠ হতে h উচ্চতায় অভিকর্ষীয় ত্বরণ \\(\\dfrac{g}{4}\\) হলে কোনো বস্তু সেখানে তার ওজন হারাবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "25%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "75%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "85%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ওজন \\(\\propto g\\); g থেকে \\(\\dfrac{g}{4}\\) হলে ওজন \\(\\dfrac{1}{4}\\) অংশ হয়, অর্থাৎ \\(\\left(1-\\dfrac{1}{4}\\right)\\times100=75\\%\\) হারায়।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-105",
+      "text": "ভূ-পৃষ্ঠের কাছাকাছি বৃত্তাকার পথে পরিভ্রমণরত কোনো উপগ্রহকে অতিরিক্ত কত বেগ দিলে সেটি পৃথিবীর আকর্ষণ ছাড়িয়ে চলে যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10.8\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9.2\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(7.8\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.25\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "মুক্তিবেগ \\(\\approx11.2\\,\\mathrm{kms^{-1}}\\), ভূ-পৃষ্ঠ সংলগ্ন কক্ষীয় বেগ \\(\\approx7.8\\,\\mathrm{kms^{-1}}\\)।\nঅতিরিক্ত বেগ \\(\\approx11.2-7.8\\approx3.4\\,\\mathrm{kms^{-1}}\\), যা প্রদত্ত বিকল্পের মধ্যে (ঘ) \\(3.25\\,\\mathrm{kms^{-1}}\\) এর নিকটতম।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-106",
+      "text": "মুক্তিবেগ নিচের কোনটির উপর নির্ভর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রহের ব্যাসার্ধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বস্তুর অতিক্রান্ত দূরত্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অতিবাহিত সময়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বস্তুর ভর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "মুক্তিবেগ \\(v_e=\\sqrt{\\dfrac{2GM}{R}}\\); এটি গ্রহের ব্যাসার্ধ ও ভরের উপর নির্ভর করে, বস্তুর ভর, দূরত্ব বা সময়ের উপর নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-107",
+      "text": "ভর ধ্রুব রেখে পৃথিবীর ব্যাসার্ধ দ্বিগুণ করা হলে কোনো বস্তুর ওজন হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক-চতুর্থাংশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চারগুণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(W=mg\\) এবং \\(g=\\dfrac{GM}{R^2}\\) হওয়ায় \\(W\\propto\\dfrac{1}{R^2}\\); ব্যাসার্ধ দ্বিগুণ হলে ওজন \\(\\dfrac{1}{4}\\) অংশ হবে।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-108",
+      "text": "গ্রহের পর্যায়কাল T এবং সূর্য হতে গ্রহের গড় দূরত্ব r হলে কেপলারের তৃতীয় সূত্রানুসারে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(T \\propto r\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(T \\propto r^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(T^2 \\propto r\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(T^2 \\propto r^3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "কেপলারের তৃতীয় সূত্র অনুসারে গ্রহের পর্যায়কালের বর্গ কক্ষপথের গড় দূরত্বের ঘনফলের সমানুপাতিক: \\(T^2\\propto r^3\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "CB",
+          "year": "2023",
+          "qno": 7,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-109",
+      "text": "পৃথিবীর ব্যাসার্ধ 'R' এবং পৃথিবীতে অভিকর্ষজ ত্বরণ 'g'. পৃথিবী পৃষ্ঠ হতে 'h' উচ্চতায় অভিকর্ষজ ত্বরণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(g(R - h)/R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(gR^2/(R + h)^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(gR/(R + h)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(g(R - h)^2/R^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(g=\\dfrac{GM}{R^2}\\) এবং \\(g_h=\\dfrac{GM}{(R+h)^2}\\)\n\\(\\therefore g_h=g\\dfrac{R^2}{(R+h)^2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-110",
+      "text": "পৃথিবীতে মুক্তিবেগের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(11.2\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1120\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(11.2\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(112\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পৃথিবীর মুক্তিবেগ প্রায় \\(11.2\\,\\mathrm{kms^{-1}}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

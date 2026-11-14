@@ -1,0 +1,119 @@
+{
+  "subject_id": "biology_1st",
+  "subject_name": "জীববিজ্ঞান প্রথম পত্র",
+  "subject_name_en": "Biology 1st Paper",
+  "subject_code": 178,
+  "total_chapters": 12,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "কোষ ও এর গঠন",
+      "name_en": "Cell and its Structure"
+    },
+    {
+      "number": 2,
+      "name": "কোষ বিভাজন",
+      "name_en": "Cell Division"
+    },
+    {
+      "number": 3,
+      "name": "কোষ রসায়ন",
+      "name_en": "Cell Chemistry"
+    },
+    {
+      "number": 4,
+      "name": "অণুজীব",
+      "name_en": "Microorganisms"
+    },
+    {
+      "number": 5,
+      "name": "শৈবাল ও ছত্রাক",
+      "name_en": "Algae and Fungi"
+    },
+    {
+      "number": 6,
+      "name": "ব্রায়োফাইটা ও টেরিডোফাইটা",
+      "name_en": "Bryophyta and Pteridophyta"
+    },
+    {
+      "number": 7,
+      "name": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ",
+      "name_en": "Gymnosperms and Angiosperms"
+    },
+    {
+      "number": 8,
+      "name": "টিস্যু ও টিস্যুতন্ত্র",
+      "name_en": "Tissue and Tissue System"
+    },
+    {
+      "number": 9,
+      "name": "উদ্ভিদ শারীরতত্ত্ব",
+      "name_en": "Plant Physiology"
+    },
+    {
+      "number": 10,
+      "name": "উদ্ভিদ প্রজনন",
+      "name_en": "Plant Reproduction"
+    },
+    {
+      "number": 11,
+      "name": "জীবপ্রযুক্তি",
+      "name_en": "Biotechnology"
+    },
+    {
+      "number": 12,
+      "name": "জীবের পরিবেশ, বিস্তার ও সংরক্ষণ",
+      "name_en": "Environment, Distribution and Conservation of Organisms"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2023",
+    "2025"
+  ]
+}

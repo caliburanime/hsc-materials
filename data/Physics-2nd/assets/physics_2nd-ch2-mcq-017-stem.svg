@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="250" viewBox="0 0 330 250">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="330" height="250" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="130" cy="125" r="110"/>
+<line x1="130" y1="125" x2="167.85604479916904" y2="70.93596507692655" />
+<line x1="130" y1="125" x2="240.0" y2="125.0" />
+<line x1="130" y1="125" x2="290.78400054509774" y2="196.58564918134084" />
+<circle cx="130" cy="125" r="3.5" fill="#111" stroke="none"/>
+<circle cx="240.0" cy="125.0" r="3.5" fill="#111" stroke="none"/>
+<circle cx="167.85604479916904" cy="70.93596507692655" r="3.5" fill="#111" stroke="none"/>
+<circle cx="290.78400054509774" cy="196.58564918134084" r="3.5" fill="#111" stroke="none"/>
+<text x="114" y="131" font-size="14" text-anchor="end" class="v" stroke="none" fill="#111">O</text>
+<text x="246.0" y="119.0" font-size="14" text-anchor="start" class="v" stroke="none" fill="#111">A</text>
+<text x="163.85604479916904" y="62.93596507692655" font-size="14" text-anchor="end" class="v" stroke="none" fill="#111">B</text>
+<text x="296.78400054509774" y="210.58564918134084" font-size="14" text-anchor="start" class="v" stroke="none" fill="#111">C</text>
+<text x="215.2" y="41.8" font-size="14" text-anchor="start" class="n" stroke="none" fill="#111">+100C</text>
+<text x="157.85604479916904" y="96.93596507692655" font-size="13" text-anchor="end" class="n" stroke="none" fill="#111">3cm</text>
+<text x="195.0" y="141.0" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">5cm</text>
+<text x="242" y="203" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">8cm</text>
+
+</g>
+</svg>

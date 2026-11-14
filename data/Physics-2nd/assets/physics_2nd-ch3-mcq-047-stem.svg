@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="225" viewBox="0 0 720 405">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="720" height="405" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="2.70" stroke-linecap="round" stroke-linejoin="round">
+<line x1="145.0" y1="100.0" x2="145.0" y2="200.0" />
+<line x1="555.0" y1="100.0" x2="555.0" y2="200.0" />
+<line x1="145.0" y1="100.0" x2="320.0" y2="100.0" />
+<polyline points="320.0,100.0 328.0,100.0 333.3,125.2 344.0,74.8 354.7,125.2 365.3,74.8 376.0,125.2 386.7,74.8 392.0,100.0 400.0,100.0" />
+<line x1="400.0" y1="100.0" x2="555.0" y2="100.0" />
+<line x1="145.0" y1="200.0" x2="300.0" y2="200.0" />
+<polyline points="300.0,200.0 308.0,200.0 313.3,225.2 324.0,174.8 334.7,225.2 345.3,174.8 356.0,225.2 366.7,174.8 372.0,200.0 380.0,200.0" />
+<line x1="380.0" y1="200.0" x2="555.0" y2="200.0" />
+<line x1="165.0" y1="100.0" x2="235.0" y2="100.0" marker-end="url(#a)"/>
+<line x1="165.0" y1="200.0" x2="235.0" y2="200.0" marker-end="url(#a)"/>
+<polyline points="145.0,150.0 60.0,150.0 60.0,298.0" />
+<polyline points="555.0,150.0 640.0,150.0 640.0,298.0" />
+<line x1="60.0" y1="278.0" x2="60.0" y2="248.0" marker-end="url(#a)"/>
+<line x1="640.0" y1="190.0" x2="640.0" y2="225.0" marker-end="url(#a)"/>
+<line x1="60.0" y1="298.0" x2="205.0" y2="298.0" />
+<line x1="205.0" y1="270.0" x2="205.0" y2="326.0" stroke-width="3.78"/>
+<line x1="228.0" y1="282.0" x2="228.0" y2="314.0" stroke-width="5.94"/>
+<line x1="248.0" y1="270.0" x2="248.0" y2="326.0" stroke-width="3.78"/>
+<line x1="268.0" y1="282.0" x2="268.0" y2="314.0" stroke-width="5.94"/>
+<line x1="268.0" y1="298.0" x2="320.0" y2="298.0" />
+<polyline points="320.0,298.0 328.5,298.0 334.2,323.2 345.5,272.8 356.8,323.2 368.2,272.8 379.5,323.2 390.8,272.8 396.5,298.0 405.0,298.0" />
+<line x1="405.0" y1="298.0" x2="455.0" y2="298.0" />
+<path d="M458,280 Q444,298 458,316" />
+<path d="M492,280 Q506,298 492,316" />
+<line x1="492.0" y1="298.0" x2="640.0" y2="298.0" />
+<text x="190.0" y="285.0" font-size="28.8" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >+</text>
+<text x="290.0" y="285.0" font-size="28.8" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >−</text>
+<text x="255.0" y="66.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >I<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="362.0" y="64.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >10Ω</text>
+<text x="217.0" y="166.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >I<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="340.0" y="170.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >4Ω</text>
+<text x="90.0" y="268.0" font-size="28.8" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >I</text>
+<text x="235.0" y="352.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >E = 10 V</text>
+<text x="362.0" y="352.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >2Ω</text>
+<text x="475.0" y="352.0" font-size="28.8" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >K</text>
+</g>
+</svg>

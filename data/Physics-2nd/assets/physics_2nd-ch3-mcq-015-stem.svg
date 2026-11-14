@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 215" width="360" height="215">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="360" height="215" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<circle cx="40" cy="95" r="3.5" fill="#111"/><path d="M40,95 L100,95 L100,50 L130,50"/><path d="M100,95 L100,118 L130,118"/>
+<path d="M160,50 L163.3,45 L170,55 L176.7,45 L183.3,55 L190,45 L196.7,55 L200,50"/><path d="M130,50 L160,50"/><path d="M200,50 L230,50"/><path d="M230,50 L230,118"/><path d="M130,118 L160,118"/><path d="M160,118 L163.3,113 L170,123 L176.7,113 L183.3,123 L190,113 L196.7,123 L200,118"/><path d="M200,118 L230,118"/>
+<path d="M230,95 L300,95"/><circle cx="300" cy="95" r="3.5" fill="#111"/><circle cx="100" cy="50" r="3" fill="#111"/><circle cx="230" cy="50" r="3" fill="#111"/>
+<path d="M230,84 L230,95"/>
+<path d="M230,95 L300,95"/>
+<path d="M40,95 L40,170 L150,170"/><path d="M150,162 L150,178"/><path d="M158,155 L158,185"/><path d="M158,170 L300,170"/>
+<path d="M300,95 L300,115"/><path d="M300,115 L294,117.9 L306,123.8 L294,129.6 L306,135.4 L294,141.2 L306,147.1 L300,150"/><path d="M300,150 L300,170"/>
+<circle cx="300" cy="170" r="3.5" fill="#111"/>
+<path d="M110,50 L125,50" marker-end="url(#ah)"/>
+<path d="M110,118 L125,118" marker-end="url(#ah)"/>
+<text x="35" y="82" text-anchor="middle" font-size="15" fill="#111" stroke="none">X</text><text x="314" y="86" text-anchor="middle" font-size="15" fill="#111" stroke="none">Y</text><text x="312" y="186" text-anchor="middle" font-size="15" fill="#111" stroke="none">Z</text><text x="95" y="40" text-anchor="middle" font-size="15" fill="#111" stroke="none">M</text><text x="232" y="40" text-anchor="middle" font-size="15" fill="#111" stroke="none">N</text>
+<text x="145" y="38" text-anchor="middle" font-size="14" font-style="italic" fill="#111" stroke="none">I<tspan font-size="9" dy="3">1</tspan></text><text x="145" y="106" text-anchor="middle" font-size="14" font-style="italic" fill="#111" stroke="none">I<tspan font-size="9" dy="3">2</tspan></text>
+<text x="180" y="38" text-anchor="middle" font-size="13" fill="#111" stroke="none">2Ω</text><text x="180" y="108" text-anchor="middle" font-size="13" fill="#111" stroke="none">3Ω</text><text x="322" y="138" text-anchor="start" font-size="13" fill="#111" stroke="none">2Ω</text><text x="154" y="200" text-anchor="middle" font-size="13" fill="#111" stroke="none">8V</text>
+</g></svg>

@@ -1,0 +1,4735 @@
+{
+  "subject": "physics_1st",
+  "chapter": 10,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch10-mcq-001",
+      "text": "কোনো স্থানের শিশিরাংক বায়ুর তাপমাত্রার সমান হলে আপেক্ষিক আর্দ্রতার মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "70%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শিশিরাংক হলো যে তাপমাত্রায় বায়ু বর্তমান জলীয়বাষ্প দ্বারা সম্পৃক্ত হয়। শিশিরাংক বায়ুর তাপমাত্রার সমান হলে বায়ু সম্পৃক্ত, অর্থাৎ আপেক্ষিক আর্দ্রতা 100%।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-002",
+      "text": "CGS এককে বোলজম্যান ধ্রুবকের মান S.I এককের মান অপেক্ষা কতগুণ বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-7}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{7}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{-5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "SI এককে \\(k = 1.38\\times10^{-23}\\,\\mathrm{JK^{-1}}\\) এবং CGS এককে \\(k = 1.38\\times10^{-16}\\,\\mathrm{erg\\,K^{-1}}\\) (কারণ \\(1\\,\\mathrm{J}=10^7\\,\\mathrm{erg}\\))। অতএব CGS মান SI মানের \\(10^7\\) গুণ।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-003",
+      "text": "কম্পনরত কণার ক্ষেত্রে স্বাধীনতার মাত্রাপিছু বণ্টিত মোট শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(KT\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3KT\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কম্পনরত কণার প্রতি স্বাধীনতার মাত্রায় গতিশক্তি \\(\\frac{1}{2}KT\\) ও স্থিতিশক্তি \\(\\frac{1}{2}KT\\) থাকে। তাই মোট শক্তি \\(KT\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-004",
+      "text": "একটি পাত্রে 0°C তাপমাত্রায় কিছু গ্যাস রক্ষিত আছে। স্থির আয়তনে কত তাপমাত্রায় গ্যাসের চাপ 0°C তাপমাত্রার চাপের এক-তৃতীয়াংশ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "91K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0K",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির আয়তনে \\(P\\propto T\\)। \\(T_1=273\\,\\mathrm{K}\\) এবং \\(P_2=\\frac{P_1}{3}\\) হলে\n\\(T_2=\\frac{T_1}{3}=\\frac{273}{3}=91\\,\\mathrm{K}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-005",
+      "text": "স্থির তাপমাত্রায় কোনো গ্যাসের ঘনত্ব ও চাপের সঠিক লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-005-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-005-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-005-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-005-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির তাপমাত্রায় \\(PV = \\frac{m}{M}RT\\) থেকে \\(\\rho = \\frac{m}{V} = \\frac{PM}{RT}\\), অর্থাৎ \\(\\rho \\propto P\\)।\nতাই ঘনত্ব বনাম চাপের লেখচিত্র মূলবিন্দুগামী সরলরেখা — (ক)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-006",
+      "text": "গ্যাস ধ্রুবক K এর মান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "গ্যাসের মোল সংখ্যার উপর নির্ভর করে"
+        },
+        {
+          "label": "ii",
+          "text": "ভরের উপর নির্ভর করে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রমাণ তাপমাত্রা ও চাপের উপর নির্ভর করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্যাস ধ্রুবক \\( K = nR \\) (যেখানে \\( PV = KT \\)); তাই এটি গ্যাসের মোল সংখ্যা ও ভরের উপর নির্ভর করে। প্রমাণ তাপমাত্রা ও চাপের উপর নির্ভর করে না, তাই (iii) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-007",
+      "text": "ঐ দিনের আপেক্ষিক আর্দ্রতা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি নির্দিষ্ট স্থানে কোনো নির্দিষ্ট দিনে বায়ুর উষ্ণতা 20°C এবং শিশিরাঙ্ক 12.5°C। 12°C, 13°C এবং 20°C উষ্ণতায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে 9.2, 9.9 এবং 16.98 mm পারদচাপ।",
+      "stem_image": null,
+      "group": "physics_1st-2025-CB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "16.24%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "36.24%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "56.24%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "76.24%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শিশিরাঙ্ক 12.5°C-এ বাষ্পচাপ = \\( \\frac{9.2+9.9}{2} = 9.55 \\) mm\nআপেক্ষিক আর্দ্রতা = \\( \\frac{9.55}{16.98} \\times 100\\% = 56.24\\% \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-008",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি নির্দিষ্ট স্থানে কোনো নির্দিষ্ট দিনে বায়ুর উষ্ণতা 20°C এবং শিশিরাঙ্ক 12.5°C। 12°C, 13°C এবং 20°C উষ্ণতায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে 9.2, 9.9 এবং 16.98 mm পারদচাপ।",
+      "stem_image": null,
+      "group": "physics_1st-2025-CB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "বায়ুতে জলীয়বাষ্পের পরিমাণ বেশি থাকলে বাষ্পায়ন বেশি হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কম আপেক্ষিক আর্দ্রতার স্থানে শরীর কম তাপ হারাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শরীর থেকে নির্গত ঘাম বেশি শুকাতে কম সুপ্ততাপের প্রয়োজন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পৃক্ত অবস্থায় তাপমাত্রা বৃদ্ধিতে শিশিরাঙ্কের কোনো পরিবর্তন হয় না",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্পৃক্ত অবস্থায় বাষ্পচাপ ও জলীয় বাষ্পের পরিমাণ অপরিবর্তিত থাকলে শিশিরাঙ্ক (যে তাপমাত্রায় বায়ু বাষ্পে সম্পৃক্ত হয়) বদলায় না। বায়ুতে বাষ্প বেশি হলে বাষ্পায়ন কমে, কম আর্দ্রতায় শরীর বেশি তাপ হারায়, আর বেশি ঘাম শুকাতে বেশি সুপ্ততাপ লাগে; তাই (ক), (খ), (গ) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-009",
+      "text": "বায়ুমণ্ডলের জলীয় বাষ্প ঘনীভূত হওয়ার ফল নয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিশির",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুয়াশা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝড়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৃষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শিশির, কুয়াশা ও বৃষ্টি জলীয় বাষ্প ঘনীভূত হয়ে সৃষ্টি হয়; ঝড় বায়ুমণ্ডলের চাপ-তাপমাত্রার পার্থক্যজনিত বায়ুপ্রবাহ, ঘনীভবনের ফল নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-010",
+      "text": "স্থির চাপে আদর্শ গ্যাসের ক্ষেত্রে (নির্দিষ্ট ভরের গ্যাস) কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-010-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-010-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-010-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-010-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্থির চাপে চার্লসের সূত্র: \\(V_\\theta = V_0\\left(1 + \\frac{\\theta}{273}\\right)\\)।\nএটি θ°C-এর রৈখিক অপেক্ষক এবং \\(\\theta = -273^\\circ\\mathrm{C}\\) এ \\(V = 0\\); তাই রেখাটি মূলবিন্দু দিয়ে না গিয়ে θ অক্ষকে −273°C বিন্দুতে ছেদ করে — (ঘ)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-011",
+      "text": "হিলিয়াম গ্যাসের স্বাধীনতার মাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হিলিয়াম এক-পরমাণুক গ্যাস; এর অণুর শুধু স্থানান্তর গতি আছে, তাই স্বাধীনতার মাত্রা 3।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-012",
+      "text": "আদর্শ গ্যাস অণুর ক্ষেত্রে প্রযোজ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংঘর্ষগুলো অস্থিতিস্থাপক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউটনের গতিসূত্র মেনে চলে না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা বৃদ্ধির সাথে বেগ হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শক্তি সম্পূর্ণটাই গতিশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আদর্শ গ্যাসের অণুগুলোর মধ্যে আকর্ষণ বল নেই, ফলে বিভবশক্তি শূন্য এবং মোট শক্তি সম্পূর্ণ গতিশক্তি। সংঘর্ষ স্থিতিস্থাপক এবং অণু নিউটনের গতিসূত্র মেনে চলে; তাপমাত্রা বাড়লে বেগ বাড়ে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-013",
+      "text": "শিশিরাঙ্ক বলতে বুঝি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আপেক্ষিক আর্দ্রতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "satt",
+      "explanation": "যে তাপমাত্রায় কোনো স্থানের বায়ু বিদ্যমান জলীয় বাষ্প দ্বারা সম্পৃক্ত হয়, তাকে শিশিরাঙ্ক বলে; এটি একটি তাপমাত্রা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-014",
+      "text": "নির্দিষ্ট তাপমাত্রায়, একটি গ্যাসের চাপ 5% বৃদ্ধি করলে এর আয়তন হ্রাস পাবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5.26%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5.00%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.76%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.26%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "satt",
+      "explanation": "বয়েলের সূত্র: \\( P_1V_1 = P_2V_2 \\), \\( P_2 = 1.05P_1 \\) হলে \\( V_2 = \\frac{V_1}{1.05} \\)\nআয়তন হ্রাস = \\( \\frac{V_1 - V_2}{V_1} \\times 100\\% = \\left(1 - \\frac{1}{1.05}\\right) \\times 100\\% = 4.76\\% \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 8
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-015",
+      "text": "একটি আদর্শ গ্যাসের তাপমাত্রা 20°C, যদি নমুনাটির চাপ ও আয়তন দ্বিগুণ করা হয় তবে পরিবর্তিত তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "20°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "80°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "899°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1199°C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2} \\) থেকে \\( T_2 = 4T_1 = 4 \\times 293 = 1172 \\) K\n\\( = 1172 - 273 = 899^\\circ\\mathrm{C} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-016",
+      "text": "তিনটি গ্রাফ P ~ V হচ্ছে— বয়েলের সূত্র অনুযায়ী কোনটি সঠিক?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch10-mcq-016-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "লেখচিত্র (i)"
+        },
+        {
+          "label": "ii",
+          "text": "লেখচিত্র (ii)"
+        },
+        {
+          "label": "iii",
+          "text": "লেখচিত্র (iii)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বয়েলের সূত্রে \\( PV = \\) ধ্রুবক। \\( P \\)–\\( V \\) লেখচিত্র সমপরাবৃত্ত (i সঠিক); \\( \\frac{1}{P} \\propto V \\) বলে \\( \\frac{1}{P} \\)–\\( V \\) লেখচিত্র মূলবিন্দুগামী সরলরেখা (ii সঠিক); (iii) ঊর্ধ্বমুখী বক্ররেখা বয়েলের সূত্রের সাথে সঙ্গতিপূর্ণ নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-017",
+      "text": "দ্বি পারমাণবিক গ্যাস এর স্বাধীনতার মাত্রা হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দ্বিপরমাণুক গ্যাসের অণুর 3টি স্থানান্তর ও 2টি ঘূর্ণন গতি আছে, তাই স্বাধীনতার মাত্রা \\( 3 + 2 = 5 \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-018",
+      "text": "কোনো স্থানের শিশিরাঙ্ক 20°C বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "20°C তাপমাত্রায় ঐ স্থানের বায়ু জলীয় বাষ্প দ্বারা সম্পৃক্ত"
+        },
+        {
+          "label": "ii",
+          "text": "20°C তাপমাত্রায় জলীয় বাষ্প ধারণ ক্ষমতা সর্বোচ্চ"
+        },
+        {
+          "label": "iii",
+          "text": "20°C তাপমাত্রায় বাষ্প ঘনীভূত হতে শুরু করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শিশিরাঙ্ক 20°C মানে ঐ তাপমাত্রায় বায়ু বাষ্পে সম্পৃক্ত হয় এবং এর নিচে ঠান্ডা করলে বাষ্প ঘনীভূত হতে শুরু করে; তাই (i) ও (iii) সঠিক। (ii) শিশিরাঙ্কের সংজ্ঞা নয়, বরং ধারণক্ষমতা তাপমাত্রার সাথে বদলায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-019",
+      "text": "STP তে 4 mole আদর্শ গ্যাসের গতিশক্তি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6816J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10706J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12612J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "13612J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "STP-তে \\( T = 273 \\) K। গতিশক্তি \\( = \\frac{3}{2}nRT = \\frac{3}{2} \\times 4 \\times 8.31 \\times 273 \\approx 13612 \\) J",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-020",
+      "text": "শিশিরাঙ্ক হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আপেক্ষিক আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে তাপমাত্রায় বায়ু তার মধ্যস্থ জলীয় বাষ্প দ্বারা সম্পৃক্ত হয়, তাই শিশিরাঙ্ক; এটি একটি তাপমাত্রা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-021",
+      "text": "নিচের কোন লেখচিত্রটি সঠিক, যখন T স্থির?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-021-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-021-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-021-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-021-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্থির তাপমাত্রায় বয়েলের সূত্রানুসারে \\(PV = \\) ধ্রুবক।\nতাই V যাই হোক, PV এর মান একই থাকে; PV বনাম V লেখচিত্র V অক্ষের সমান্তরাল সরলরেখা — (খ)।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-022",
+      "text": "বায়ুতে জলীয়বাষ্প বেড়ে গেলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জলীয়বাষ্প চাপ কমে"
+        },
+        {
+          "label": "ii",
+          "text": "বায়ুর চাপ কমে"
+        },
+        {
+          "label": "iii",
+          "text": "বায়ুর ঘনত্ব কমে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বায়ুতে জলীয় বাষ্প বাড়লে মোট চাপ প্রায় অপরিবর্তিত থেকে শুষ্ক বায়ুর আংশিক চাপ কমে (ii) এবং জলীয় বাষ্পের আণবিক ভর (18) বায়ুর গড় আণবিক ভরের (29) চেয়ে কম হওয়ায় বায়ুর ঘনত্ব কমে (iii)। জলীয় বাষ্পের চাপ বাড়ে, তাই (i) ভুল।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-023",
+      "text": "উদ্দীপকের তথ্য কোন সূত্র সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "50°C তাপমাত্রায় একটি দ্বি-পারমাণবিক গ্যাসকে স্থির চাপে উত্তপ্ত করে আয়তন 4 গুণ করা হল।",
+      "stem_image": null,
+      "group": "physics_1st-2025-MB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "চার্লস এর সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গে-লুসাকের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাভোগেড্রো সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির চাপে তাপমাত্রা বাড়ালে গ্যাসের আয়তন পরম তাপমাত্রার সমানুপাতে বাড়ে (\\( V \\propto T \\)); এটি চার্লসের সূত্র।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-024",
+      "text": "আর্দ্রতামাপক যন্ত্রের শুষ্ক ও সিক্ত বাল্ব থার্মোমিটারের পাঠের পার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কম হলে আর্দ্র আবহাওয়া নির্দেশ করে"
+        },
+        {
+          "label": "ii",
+          "text": "বেশি হলে শুষ্ক আবহাওয়া নির্দেশ করে"
+        },
+        {
+          "label": "iii",
+          "text": "হঠাৎ হ্রাস পেলে নিম্নচাপ নির্দেশ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শুষ্ক ও সিক্ত বাল্বের পাঠের পার্থক্য কম হলে বাতাসে আর্দ্রতা বেশি (i), বেশি হলে বায়ু শুষ্ক (ii), আর হঠাৎ পার্থক্য কমে গেলে আর্দ্রতা বাড়ছে বোঝায় যা ঝড়/নিম্নচাপের পূর্বাভাস দেয় (iii)। তিনটিই সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-025",
+      "text": "স্থির চাপে গ্যাসের তাপমাত্রা বনাম ঘনত্বের লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-025-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-025-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-025-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-025-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থির চাপে \\(\\rho = \\frac{PM}{RT}\\), অর্থাৎ \\(\\rho T = \\) ধ্রুবক বা \\(T \\propto \\frac{1}{\\rho}\\)।\nতাই T বনাম ρ লেখচিত্র একটি আয়তাকার পরাবৃত্ত (হ্রাসমান বক্ররেখা) — (গ)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-026",
+      "text": "B সিলিন্ডারে হিলিয়াম (He) গ্যাসের আয়তন কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\([R = 8.314\\,\\mathrm{J\\,K^{-1}mol^{-1}}\\) এবং পারদের ঘনত্ব \\(13596\\,\\mathrm{kgm^{-3}}]\\)",
+      "stem_image": "assets/physics_1st-ch10-mcq-026-stem.svg",
+      "group": "physics_1st-2025-RB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5.13 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6.58 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(7.13 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(8.51 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "A-তে 8 g He = 2 mol। B-তে \\( n = 2 \\) mol, \\( T = 400 \\) K, \\( P = 0.70 \\times 13596 \\times 9.8 = 9.327 \\times 10^4 \\) Pa\n\\( V = \\frac{nRT}{P} = \\frac{2 \\times 8.314 \\times 400}{9.327 \\times 10^4} = 7.13 \\times 10^{-2}\\ \\mathrm{m^3} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-027",
+      "text": "B সিলিন্ডারে হিলিয়াম গ্যাসের গতিশক্তি A সিলিন্ডারের কতগুণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\([R = 8.314\\,\\mathrm{J\\,K^{-1}mol^{-1}}\\) এবং পারদের ঘনত্ব \\(13596\\,\\mathrm{kgm^{-3}}]\\)",
+      "stem_image": "assets/physics_1st-ch10-mcq-026-stem.svg",
+      "group": "physics_1st-2025-RB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.38",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.46",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.59",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.64",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একই ভর (একই n) হলে গতিশক্তি \\( \\propto T \\)।\n\\( \\frac{E_B}{E_A} = \\frac{400}{273} = 1.46 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-028",
+      "text": "বাষ্পায়ন নির্ভর করে না—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তরলের প্রকৃতির উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তরলের তাপমাত্রার উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়ুর তাপমাত্রার উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তরলের আয়তনের উপর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাষ্পায়ন তরলের প্রকৃতি, তাপমাত্রা, মুক্ত তলের ক্ষেত্রফল, বায়ুর তাপমাত্রা ইত্যাদির উপর নির্ভর করে; তরলের আয়তনের উপর নির্ভর করে না।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-029",
+      "text": "হাইড্রোজেন গ্যাসের সংকট তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−235°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−240°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−245°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−250°C",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হাইড্রোজেনের সংকট তাপমাত্রা প্রায় 33 K, অর্থাৎ \\(-240^\\circ\\mathrm{C}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-030",
+      "text": "গ্যাসীয় অণুর গড় বর্গবেগ ও এর পরম তাপমাত্রার মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\overline{C^2} \\propto T\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\overline{C^2} \\propto \\frac{1}{T}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\overline{C^2} \\propto \\sqrt{T}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\overline{C^2} \\propto \\sqrt{\\frac{1}{T}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\overline{C^2} = \\frac{3RT}{M} \\), তাই \\( \\overline{C^2} \\propto T \\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-031",
+      "text": "নিচের কোনটি সম্পৃক্ত বাষ্পের বৈশিষ্ট্য নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পৃক্ত বাষ্প সাধারণ গ্যাসের ন্যায় আচরণ করে না",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পৃক্ত বাষ্প চাপ আয়তনের উপর নির্ভর করে না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পৃক্ত বাষ্প চাপ সর্বাধিক হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পৃক্ত বাষ্প বয়েল ও চার্লসের সূত্র মেনে চলে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্পৃক্ত বাষ্প সাধারণ গ্যাসের মতো আচরণ করে না, এর চাপ আয়তনের উপর নির্ভর করে না এবং ঐ তাপমাত্রায় চাপ সর্বাধিক; তাই এটি বয়েল ও চার্লসের সূত্র মানে না। (ঘ) বৈশিষ্ট্য নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-032",
+      "text": "গ্যাসের গতিতত্ত্বের সাহায্যে ব্যাখ্যা করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রার সাথে গ্যাসের গতিশক্তির সম্পর্ক"
+        },
+        {
+          "label": "ii",
+          "text": "তাপমাত্রার সাথে চাপের সম্পর্ক"
+        },
+        {
+          "label": "iii",
+          "text": "তাপমাত্রার সাথে আয়তনের সম্পর্ক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের গতিতত্ত্ব থেকে \\(PV = \\frac{1}{3}mnc^2\\) এবং \\(E_k = \\frac{3}{2}kT\\) পাওয়া যায়। এর সাহায্যে তাপমাত্রার সাথে গতিশক্তি, চাপ ও আয়তনের সম্পর্ক ব্যাখ্যা করা যায়; তাই i, ii ও iii সবই সত্য।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-033",
+      "text": "0°C তাপমাত্রায় \\(CO_2\\) গ্যাসের অণুগুলোর মূল গড় বর্গবেগ কত? [এখানে, গ্যাস ধ্রুবক, \\(R = 8.31\\,\\mathrm{JK^{-1}mol^{-1}}\\)]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(12.44\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(16.52\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(393.29\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(154753\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(C_{rms} = \\sqrt{\\frac{3RT}{M}}\\)\nএখানে \\(T = 273\\,\\mathrm{K}\\), \\(M = 44 \\times 10^{-3}\\,\\mathrm{kg\\,mol^{-1}}\\)\n\\(C_{rms} = \\sqrt{\\frac{3 \\times 8.31 \\times 273}{0.044}} \\approx 393.29\\,\\mathrm{ms^{-1}}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-034",
+      "text": "কোনো গ্যাসের তাপমাত্রা 27°C হতে 227°C তাপমাত্রায় উন্নীত করলে গড় গতিশক্তি বৃদ্ধি পায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "66.67%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "150%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গড় গতিশক্তি \\(\\propto T\\)। \\(T_1 = 300\\,\\mathrm{K}\\), \\(T_2 = 500\\,\\mathrm{K}\\)\nবৃদ্ধি = \\(\\frac{500 - 300}{300} \\times 100\\% = 66.67\\%\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-035",
+      "text": "কোনো গ্যাসের চাপ তার একক আয়তনে অণুগুলোর গতিশক্তির কত অংশ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{4}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{5}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের চাপ \\(P = \\frac{1}{3}\\rho c^2 = \\frac{2}{3} \\times \\frac{1}{2}\\rho c^2\\), অর্থাৎ চাপ একক আয়তনের গতিশক্তির \\(\\frac{2}{3}\\) অংশ।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-036",
+      "text": "'PV' রাশিটি নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গবেষণায় ধরে নেয়া হলো আদর্শ গ্যাস সমীকরণ নিম্নরূপ: \\(PV = \\frac{1}{3}mn\\,v_g^2\\)",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শক্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(PV\\) = চাপ \\(\\times\\) আয়তন = \\(\\frac{F}{A} \\times Al = Fl\\) অর্থাৎ বল \\(\\times\\) সরণ, যা কাজ বা শক্তির মাত্রা। তাই \\(PV\\) শক্তি নির্দেশ করে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-037",
+      "text": "\\(v_g\\) সম্পর্কে লেখা যায়—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গবেষণায় ধরে নেয়া হলো আদর্শ গ্যাস সমীকরণ নিম্নরূপ: \\(PV = \\frac{1}{3}mn\\,v_g^2\\)",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-7-8",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(v_g(\\mathrm{rms}) \\propto \\sqrt{M}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(v_g(\\mathrm{rms}) \\propto \\sqrt{P}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(v_g(\\mathrm{rms}) \\propto \\sqrt{T}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v_{rms} = \\sqrt{\\frac{3P}{\\rho}} = \\sqrt{\\frac{3RT}{M}}\\)\nতাই \\(v_g \\propto \\sqrt{P}\\) (ii সত্য) এবং \\(v_g \\propto \\sqrt{T}\\) (iii সত্য)। \\(v_g \\propto \\frac{1}{\\sqrt{M}}\\), সুতরাং i মিথ্যা।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-038",
+      "text": "কোনো স্থানের সম্পৃক্ত বাষ্পচাপ F এবং অসম্পৃক্ত বাষ্পচাপ \\(f = \\frac{F}{3}\\) হলে আপেক্ষিক আর্দ্রতা কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{5}{6}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক আর্দ্রতা = \\(\\frac{f}{F} = \\frac{F/3}{F} = \\frac{1}{3}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-039",
+      "text": "তাপমাত্রা স্থির থাকলে আয়তন V ও চাপ P এর সম্পর্ক নিচের কোন লেখচিত্র প্রকাশ করে?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch10-mcq-039-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "লেখচিত্র (i)"
+        },
+        {
+          "label": "ii",
+          "text": "লেখচিত্র (ii)"
+        },
+        {
+          "label": "iii",
+          "text": "লেখচিত্র (iii)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বয়েলের সূত্রানুযায়ী স্থির তাপমাত্রায় \\(PV =\\) ধ্রুবক। \\(V\\)-\\(P\\) লেখ আয়তাকার পরাবৃত্ত (i), \\(V\\)-\\(\\frac{1}{P}\\) লেখ মূলবিন্দুগামী সরলরেখা (ii) এবং \\(PV\\)-\\(P\\) লেখ \\(P\\)-অক্ষের সমান্তরাল সরলরেখা (iii)। তিনটিই সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-040",
+      "text": "T তাপমাত্রার এক লিটার বায়ুকে উত্তপ্ত করা হলো। কত তাপমাত্রায় উক্ত বায়ুর চাপ ও আয়তন উভয়ই দ্বিগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{T}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{T}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2T",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4T",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}\\)\n\\(T_2 = T \\times \\frac{2P \\cdot 2V}{PV} = 4T\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-041",
+      "text": "কোন আদর্শ গ্যাসের ক্ষেত্রে অণুর গতিশক্তি \\(E_k\\) বনাম পরম তাপমাত্রা T এর জন্য প্রযোজ্য লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-041-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-041-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-041-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-041-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{3}{2}kT\\), অর্থাৎ \\(E_k \\propto T\\)। তাই লেখচিত্র মূলবিন্দুগামী সরলরেখা, যা (গ)-এ দেখানো হয়েছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-042",
+      "text": "গ্যাস অণুসমূহের গড় বর্গ বেগের বর্গমূল মান ও পরম তাপমাত্রার মধ্যে সম্পর্ক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(C_{r.m.s} \\propto \\frac{1}{\\sqrt{T}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(C_{r.m.s} \\propto T\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(C_{r.m.s} \\propto \\frac{1}{T}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(C_{r.m.s} \\propto \\sqrt{T}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(C_{rms} = \\sqrt{\\frac{3RT}{M}}\\), তাই \\(C_{rms} \\propto \\sqrt{T}\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-043",
+      "text": "পরম শূন্য তাপমাত্রায় কোনো গ্যাসের গতিশক্তি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সর্বনিম্ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গতিতত্ত্ব অনুযায়ী গড় গতিশক্তি \\(\\frac{3}{2}kT\\); পরম শূন্য তাপমাত্রায় \\(T = 0\\), তাই গতিশক্তিও শূন্য।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-044",
+      "text": "উদ্দীপকের ঘটনা নিচের কোন সূত্রকে সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "27°C তাপমাত্রায় একটি গ্যাসের আয়তন স্থির রেখে চাপ দ্বিগুণ করা হলো।",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চার্লসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপীয় সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাভোগ্যাড্রোর সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়তন স্থির রেখে চাপ বাড়ালে তাপমাত্রা বাড়ে, \\(P \\propto T\\)। এটি চাপীয় সূত্র।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-045",
+      "text": "গ্যাসটির চূড়ান্ত তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "27°C তাপমাত্রায় একটি গ্যাসের আয়তন স্থির রেখে চাপ দ্বিগুণ করা হলো।",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "600 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "300 K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200 K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "150 K",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আয়তন স্থির থাকলে \\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2}\\)\n\\(T_2 = \\frac{P_2}{P_1}T_1 = 2 \\times 300 = 600\\,\\mathrm{K}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-046",
+      "text": "একটি দ্বি-পরমাণুক গ্যাসের স্বাধীনতার মাত্রা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দ্বি-পরমাণুক গ্যাসের তিনটি স্থানান্তর ও দুটি ঘূর্ণন গতি আছে; তাই স্বাধীনতার মাত্রা \\(3 + 2 = 5\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-047",
+      "text": "স্থির তাপমাত্রায় গ্যাসের ক্ষেত্রে নিচের কোন লেখচিত্রটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-047-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-047-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-047-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-047-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্থির তাপমাত্রায় \\(PV =\\) ধ্রুবক, অর্থাৎ \\(V \\propto \\frac{1}{P}\\) বা \\(\\frac{1}{V} \\propto P\\)। তাই \\(\\frac{1}{V}\\)-\\(P\\) লেখ মূলবিন্দুগামী সরলরেখা হওয়া উচিত, \\(P\\)-অক্ষের সমান্তরাল রেখা নয়। (খ) ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-048",
+      "text": "PV = ধ্রুবক সমীকরণটি মেনে চলে কোন সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চার্লসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপীয় সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাভোগেড্রোর সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের জন্য \\(PV =\\) ধ্রুবক; এটি বয়েলের সূত্র।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-049",
+      "text": "30°C তাপমাত্রায় একটি গ্যাসকে স্থির চাপে উত্তপ্ত করে আয়তন তিনগুণ করা হলো। গ্যাসটির চূড়ান্ত তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "90°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "300°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "436°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "636°C",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{V_1}{T_1} = \\frac{V_2}{T_2}\\)\n\\(T_2 = 3 \\times (273 + 30) = 909\\,\\mathrm{K}\\)\n\\(= 909 - 273 = 636°\\mathrm{C}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-050",
+      "text": "কোন লেখচিত্রটি চার্লসের সূত্রের জন্য প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-050-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-050-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-050-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-050-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চার্লসের সূত্র: \\(V = V_0\\left(1 + \\frac{\\theta}{273}\\right)\\), অর্থাৎ \\(V\\)-\\(\\theta\\) লেখ সরলরেখা, যা \\(\\theta\\)-অক্ষকে \\(-273°\\mathrm{C}\\)-এ ছেদ করে। এটি (গ)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-051",
+      "text": "কোন তাপমাত্রায় অক্সিজেন অণুর মূল গড় বর্গবেগ −200°C তাপমাত্রায় হাইড্রোজেন অণুর মূল গড় বর্গবেগের সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "7568 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1168 K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "895 K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "834 K",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(C_{rms} \\propto \\sqrt{\\frac{T}{M}}\\); \\(-200°\\mathrm{C} = 73\\,\\mathrm{K}\\)\n\\(\\frac{T_{O_2}}{32} = \\frac{73}{2}\\)\n\\(T_{O_2} = 73 \\times 16 = 1168\\,\\mathrm{K}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-052",
+      "text": "তাত্ত্বিকভাবে গ্যাসের আয়তন শূন্য হয় কোন তাপমাত্রায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "298K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−273K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−273°C",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চার্লসের সূত্রানুযায়ী \\(V = V_0\\left(1 + \\frac{\\theta}{273}\\right)\\); \\(\\theta = -273°\\mathrm{C}\\) হলে \\(V = 0\\) হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-053",
+      "text": "27°C তাপমাত্রায় একটি হিলিয়াম অণুর গতিশক্তি কত হবে? \\(k = 1.38 \\times 10^{-23}\\,\\mathrm{JK^{-1}}\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5.5 \\times 10^{-22}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.11 \\times 10^{-21}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.21 \\times 10^{-21}\\) J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.24 \\times 10^{-20}\\) J",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{3}{2}kT\\)\n\\(= 1.5 \\times 1.38 \\times 10^{-23} \\times 300 = 6.21 \\times 10^{-21}\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-054",
+      "text": "প্রমাণ চাপ নির্ণয়ের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পারদের ঘনত্ব \\(13596\\,\\mathrm{kg\\,cm^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পারদ স্তম্ভের উচ্চতা 0.76 cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপের সমীকরণ Fρg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাপের মান \\(1.013 \\times 10^{5}\\,\\mathrm{N/m^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রমাণ চাপ = \\(h\\rho g = 0.76 \\times 13596 \\times 9.8 \\approx 1.013 \\times 10^5\\,\\mathrm{N/m^2}\\)। পারদের ঘনত্ব \\(13596\\,\\mathrm{kg\\,m^{-3}}\\) এবং উচ্চতা 0.76 m, তাই অন্য বিকল্পগুলো ভুল।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-055",
+      "text": "কোনো স্থানে আর্দ্র ও শুষ্ক বাল্ব হাইগ্রোমিটারের তাপমাত্রার ব্যবধান শূন্য হলে ঐ স্থানের আপেক্ষিক আর্দ্রতার মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "70%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শুষ্ক ও আর্দ্র বাল্বের তাপমাত্রার ব্যবধান শূন্য হলে বাতাস জলীয়বাষ্পে সম্পৃক্ত, তাই আপেক্ষিক আর্দ্রতা 100%।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-056",
+      "text": "আপেক্ষিক আর্দ্রতামাপক যন্ত্রের নাম—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রোনোমিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মাইক্রোমিটার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্ফিগমোম্যানোমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইগ্রোমিটার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক আর্দ্রতা মাপার যন্ত্র হাইগ্রোমিটার।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-057",
+      "text": "গ্যাসের চলরাশি কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের চলরাশি তিনটি: চাপ (\\(P\\)), আয়তন (\\(V\\)) ও তাপমাত্রা (\\(T\\))।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-058",
+      "text": "আদর্শ গ্যাসের ক্ষেত্রে \\(C_{rms} = \\sqrt{\\frac{3RT}{M}}\\) সমীকরণ অনুসারে লেখচিত্র হলো—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch10-mcq-058-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "লেখচিত্র (i)"
+        },
+        {
+          "label": "ii",
+          "text": "লেখচিত্র (ii)"
+        },
+        {
+          "label": "iii",
+          "text": "লেখচিত্র (iii)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(C_{rms} = \\sqrt{\\frac{3RT}{M}}\\)। (ii) \\(C_{rms}\\)-\\(\\sqrt{T}\\) লেখ মূলবিন্দুগামী সরলরেখা এবং (iii) \\(C_{rms}\\)-\\(T\\) লেখ অধিবৃত্তাকার বক্ররেখা (সঠিক)। (i)-এ \\(C_{rms}\\)-\\(T\\) লেখ সরলরেখা দেখানো হয়েছে, যা ভুল।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-059",
+      "text": "শিশিরাঙ্ক হলো কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিশির",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুয়াশা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্দ্রতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে তাপমাত্রায় বায়ুস্থ জলীয়বাষ্প সম্পৃক্ত হয়ে শিশির আকারে জমতে শুরু করে, সেই তাপমাত্রাকে শিশিরাঙ্ক বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-060",
+      "text": "আপেক্ষিক আর্দ্রতা পরিমাপক যন্ত্রের শুষ্ক ও আর্দ্র বাল্ব থার্মোমিটারের পারদের উচ্চতার পার্থক্য হঠাৎ বেড়ে যাওয়া কীসের পূর্বাভাস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝড়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিশির",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুয়াশা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "খরা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শুষ্ক ও আর্দ্র বাল্বের পারদের উচ্চতার পার্থক্য হঠাৎ বেড়ে গেলে বাতাস শুষ্ক হয়ে যাচ্ছে বুঝায়, অর্থাৎ বাতাসের আপেক্ষিক আর্দ্রতা কমছে; এটি খরার পূর্বাভাস।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-061",
+      "text": "27°C তাপমাত্রায় 4 gm অক্সিজেনের গতিশক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "116.86 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "207.75 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "467.44 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14958 J",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\frac{4}{32} = 0.125\\,\\mathrm{mol}\\), \\(T = 300\\,\\mathrm{K}\\)\n\\(E_k = \\frac{3}{2}nRT = 1.5 \\times 0.125 \\times 8.31 \\times 300 = 467.44\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: O₂ এর মোট গতিশক্তি \\(\\frac{5}{2}nRT = 779.43\\) J কোনো বিকল্পে নেই; (গ) শুধু রৈখিক গতিশক্তি \\(\\frac{3}{2}nRT\\) এর সাথে মেলে।"
+    },
+    {
+      "id": "physics_1st-ch10-mcq-062",
+      "text": "লেখচিত্রটি কোন সূত্র সমর্থন করে?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch10-mcq-062-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "বয়েল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চার্লস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জুলের",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লেখচিত্রে \\(PV\\) বনাম \\(P\\) একটি \\(P\\)-অক্ষের সমান্তরাল সরলরেখা, অর্থাৎ \\(PV =\\) ধ্রুবক; এটি বয়েলের সূত্র।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-063",
+      "text": "শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারের থার্মোমিটার দুটির পাঠের পার্থক্য হঠাৎ কমতে থাকলে বুঝতে হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বায়ুতে জলীয় বাষ্পের পরিমাণ হঠাৎ বেড়ে গেছে"
+        },
+        {
+          "label": "ii",
+          "text": "ঝড়-বৃষ্টির সম্ভাবনা রয়েছে"
+        },
+        {
+          "label": "iii",
+          "text": "আবহাওয়া শুষ্ক থাকবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শুষ্ক ও সিক্ত বাল্বের পাঠের পার্থক্য কমে যাওয়ার অর্থ বায়ুতে জলীয় বাষ্প বেড়ে গেছে, ফলে সিক্ত বাল্ব থেকে বাষ্পীভবন কম হচ্ছে। তখন ঝড়-বৃষ্টির সম্ভাবনা থাকে। আবহাওয়া শুষ্ক থাকবে না, তাই (iii) ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-064",
+      "text": "গ্যাস অণুগুলোর মূল গড় বর্গবেগের মান হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো আদর্শ গ্যাসের তিনটি অণুর বেগ \\(15\\,\\mathrm{ms^{-1}}\\), \\(20\\,\\mathrm{ms^{-1}}\\) ও \\(25\\,\\mathrm{ms^{-1}}\\)। গ্যাসের অণুসমূহের ক্ষেত্রে গড় বেগ (\\(\\bar{C}\\)), গড় বর্গবেগ (\\(\\overline{C^2}\\)) এবং মূল গড় বর্গবেগ \\(\\sqrt{\\overline{C^2}}\\) তিনটি গুরুত্বপূর্ণ রাশি।",
+      "stem_image": null,
+      "group": "physics_1st-2023-DB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(20\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(20.41\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(60\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(416.67\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূল গড় বর্গবেগ \\( = \\sqrt{\\frac{15^2+20^2+25^2}{3}} = \\sqrt{\\frac{1250}{3}} = \\sqrt{416.67} = 20.41\\,\\mathrm{ms^{-1}} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-065",
+      "text": "উদ্দীপক অনুযায়ী \\(\\bar{C} : \\overline{C^2} : \\sqrt{\\overline{C^2}} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো আদর্শ গ্যাসের তিনটি অণুর বেগ \\(15\\,\\mathrm{ms^{-1}}\\), \\(20\\,\\mathrm{ms^{-1}}\\) ও \\(25\\,\\mathrm{ms^{-1}}\\)। গ্যাসের অণুসমূহের ক্ষেত্রে গড় বেগ (\\(\\bar{C}\\)), গড় বর্গবেগ (\\(\\overline{C^2}\\)) এবং মূল গড় বর্গবেগ \\(\\sqrt{\\overline{C^2}}\\) তিনটি গুরুত্বপূর্ণ রাশি।",
+      "stem_image": null,
+      "group": "physics_1st-2023-DB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 20.83 : 1.02",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20.83 : 1 : 1.02",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.02 : 1 : 20.83",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 : 1.02 : 20.83",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\bar{C} = \\frac{15+20+25}{3} = 20 \\), \\( \\overline{C^2} = 416.67 \\), \\( \\sqrt{\\overline{C^2}} = 20.41 \\)\nঅনুপাত \\( = 20 : 416.67 : 20.41 = 1 : 20.83 : 1.02 \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-066",
+      "text": "স্থির তাপমাত্রায় কোনো আদর্শ গ্যাসের ক্ষেত্রে (PV ~ P) লেখচিত্রটি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-066-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-066-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-066-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-066-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থির তাপমাত্রায় বয়েলের সূত্রানুসারে \\( PV = \\) ধ্রুবক, অর্থাৎ \\( P \\) যাই হোক \\( PV \\) অপরিবর্তিত থাকে। তাই \\( PV \\) বনাম \\( P \\) লেখচিত্র \\( P \\)-অক্ষের সমান্তরাল সরলরেখা, যা (গ)-এ আছে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-067",
+      "text": "তিনটি গ্যাস অণুর বেগ যথাক্রমে \\(10\\,\\mathrm{ms^{-1}}\\), \\(15\\,\\mathrm{ms^{-1}}\\) এবং \\(20\\,\\mathrm{ms^{-1}}\\)। এদের মূল গড় বর্গবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.87\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(15\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(15.54\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(241.66\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূল গড় বর্গবেগ \\( = \\sqrt{\\frac{10^2+15^2+20^2}{3}} = \\sqrt{\\frac{725}{3}} = \\sqrt{241.67} = 15.54\\,\\mathrm{ms^{-1}} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-068",
+      "text": "কোন অবস্থায় বাস্তব গ্যাস আদর্শ গ্যাস হিসেবে আচরণ করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিম্ন চাপ ও উচ্চ তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চ চাপ ও নিম্ন তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্ন চাপ ও নিম্ন তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উচ্চ চাপ ও উচ্চ তাপমাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নিম্ন চাপ ও উচ্চ তাপমাত্রায় অণুগুলোর মধ্যকার আন্তঃআণবিক আকর্ষণ নগণ্য এবং অণুর আয়তন গ্যাসের আয়তনের তুলনায় অতি সামান্য হয়, তাই বাস্তব গ্যাস তখন আদর্শ গ্যাসের মতো আচরণ করে।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-069",
+      "text": "কোনো আদর্শ গ্যাসের তাপমাত্রা কেলভিন স্কেলে তিনগুণ করা হলে, তার অণুসমূহের মূলগড় বর্গবেগ কতগুণ বৃদ্ধি পাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.732",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−0.732",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( C_{rms} \\propto \\sqrt{T} \\)। তাপমাত্রা তিনগুণ হলে \\( C_{rms} \\) হবে \\( \\sqrt{3} = 1.732 \\) গুণ।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: মূল গড় বর্গবেগ 0.732 গুণ বৃদ্ধি পায় (অর্থাৎ 1.732 গুণ হয়); বিকল্পে −0.732 থাকায় 1.732 কে উত্তর নেওয়া হয়েছে।"
+    },
+    {
+      "id": "physics_1st-ch10-mcq-070",
+      "text": "স্থির চাপে গ্যাসের তাপমাত্রার সাথে আয়তনের পরিবর্তনের লেখচিত্রে P বিন্দুর তাপমাত্রা হচ্ছে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch10-mcq-070-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "0°C"
+        },
+        {
+          "label": "ii",
+          "text": "0K"
+        },
+        {
+          "label": "iii",
+          "text": "−273°C"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থির চাপে \\( V \\)–\\( \\theta \\) লেখচিত্র পিছনে বাড়ালে আয়তন শূন্য হয় পরম শূন্য তাপমাত্রায়। তাই P বিন্দুর তাপমাত্রা \\( -273^\\circ\\mathrm{C} = 0\\,\\mathrm{K} \\)। সুতরাং (ii) ও (iii) সত্য, (i) মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-071",
+      "text": "গ্যাসের ক্ষেত্রে তাপগতীয় স্থানাংকগুলো হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়তন, তাপমাত্রা ও ঘনত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভর, আয়তন ও ঘনত্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা, ভর ও আয়তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাপ, তাপমাত্রা ও আয়তন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের অবস্থা বর্ণনাকারী তাপগতীয় স্থানাংক হলো চাপ (\\( P \\)), আয়তন (\\( V \\)) ও তাপমাত্রা (\\( T \\))।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-072",
+      "text": "তাপমাত্রা বাড়লে কোনো নির্দিষ্ট ভর গ্যাসের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আয়তন বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "ঘনত্ব বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "গ্যাস অণুর সংঘর্ষ বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) তাপমাত্রা বাড়লে (স্থির চাপে) আয়তন বৃদ্ধি পায়, সত্য। (ii) নির্দিষ্ট ভরে আয়তন বাড়লে ঘনত্ব কমে, তাই মিথ্যা। (iii) তাপমাত্রা বাড়লে অণুর বেগ বাড়ে, ফলে সংঘর্ষও বাড়ে, সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-073",
+      "text": "নির্দিষ্ট তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ F এবং অসম্পৃক্ত বাষ্পচাপ f হলে, এদের মধ্যে নিম্নরূপ সম্পর্ক থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "F = f",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "F > f",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "F < f",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "F ≤ f",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নির্দিষ্ট তাপমাত্রায় সম্পৃক্ত বাষ্পের চাপ সর্বোচ্চ, অসম্পৃক্ত বাষ্পের চাপ তার চেয়ে কম। অতএব \\( F > f \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-074",
+      "text": "নিচের কোনটি তাপমাত্রা ও চাপের সাথে গ্যাসের ঘনত্বের সম্পর্ক নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\rho T}{P} = \\) ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{PT}{\\rho} = \\) ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\rho P}{T} = \\) ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\rho PT = \\) ধ্রুবক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( PV = nRT = \\frac{m}{M}RT \\) থেকে \\( P = \\frac{\\rho RT}{M} \\), অর্থাৎ \\( \\frac{\\rho T}{P} = \\frac{M}{R} = \\) ধ্রুবক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-075",
+      "text": "\\(T_1 > T_2 > T_3\\) হলে বয়েলের সূত্রানুসারে নিচের কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-075-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-075-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-075-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-075-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বয়েলের সূত্রানুসারে \\( V = nRT \\cdot \\frac{1}{P} \\), তাই \\( V \\)–\\( \\frac{1}{P} \\) লেখ মূলবিন্দুগামী সরলরেখা এবং ঢাল \\( T \\)-এর সমানুপাতিক। \\( T_1 > T_2 > T_3 \\) হলে \\( T_1 \\)-এর রেখা সবচেয়ে খাড়া, যা (ক)-তে আছে। (খ)-তে ক্রম উল্টো, (গ)-তে \\( T_1 \\) মূলবিন্দুর কাছে এবং (ঘ)-তে \\( T_3 \\) উপরে, তাই ভুল।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-076",
+      "text": "কোনো আবদ্ধ গ্যাসের চাপ P, আয়তন V ও গতিশক্তি E এর মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E = \\frac{2}{3}PV\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E = \\frac{3}{2}PV\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E = \\frac{5}{2}PV\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E = \\frac{7}{2}PV\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের মোট স্থানান্তর গতিশক্তি \\( E = \\frac{1}{2}mC^2 \\) এবং \\( P = \\frac{1}{3}\\frac{m}{V}C^2 \\), তাই \\( E = \\frac{3}{2}PV \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-077",
+      "text": "প্রাথমিক অবস্থায় অক্সিজেন গ্যাসের অণুগুলোর মূল গড় বর্গবেগ—",
+      "text_en": null,
+      "image": null,
+      "stem": "অক্সিজেন গ্যাসের তাপমাত্রা 0°C হতে বৃদ্ধি করে 27°C করা হল।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CUB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(14.639\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(20.629\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(461.287\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(652.359\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( C_{rms} = \\sqrt{\\frac{3RT}{M}} = \\sqrt{\\frac{3\\times8.314\\times273}{0.032}} \\approx 461.287\\,\\mathrm{ms^{-1}} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-078",
+      "text": "পরিবর্তিত ও প্রাথমিক গতিশক্তির অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "stem": "অক্সিজেন গ্যাসের তাপমাত্রা 0°C হতে বৃদ্ধি করে 27°C করা হল।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CUB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 27",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "27 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "91 : 100",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100 : 91",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গতিশক্তি \\( E \\propto T \\)\n\\( \\frac{E_2}{E_1} = \\frac{300}{273} = \\frac{100}{91} \\)\nঅনুপাত \\( = 100 : 91 \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-079",
+      "text": "একটি গ্যাস আদর্শ গ্যাসের ন্যায় আচরণ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিম্নচাপ ও নিম্ন তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উচ্চচাপ ও নিম্ন তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চচাপ ও উচ্চ তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিম্নচাপ ও উচ্চ তাপমাত্রায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিম্নচাপ ও উচ্চ তাপমাত্রায় অণুগুলোর পারস্পরিক আকর্ষণ ও অণুর নিজস্ব আয়তন উপেক্ষণীয় হয়, তাই গ্যাস আদর্শ গ্যাসের মতো আচরণ করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-080",
+      "text": "একটি স্থানে শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ 10.52 mmHg এবং আপেক্ষিক আর্দ্রতা 75%। বায়ুর তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "14.027 mm Hg P",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7.89 mm Hg P",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.1403 mm Hg P",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.0713 mm Hg P",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক আর্দ্রতা \\( = \\frac{\\text{শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ}}{\\text{বায়ুর তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ}} \\times 100\\% \\)\n\\( 75 = \\frac{10.52}{F}\\times100 \\)\n\\( F = \\frac{10.52\\times100}{75} = 14.027\\,\\mathrm{mmHg} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-081",
+      "text": "বাষ্পের আয়তন (V) বনাম অসম্পৃক্ত বাষ্পচাপ (P) এর সম্পর্ক নির্দেশক সঠিক লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-081-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-081-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-081-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-081-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়তন কমালে সম্পৃক্ত অবস্থায় (ঘনীভবনের ফলে) চাপ স্থির থাকে, তাই ছোট \\( V \\)-তে রেখা অনুভূমিক। বড় \\( V \\)-তে অসম্পৃক্ত বাষ্প বয়েলের সূত্র মানে, ফলে \\( V \\) বাড়লে \\( P \\) কমে (পরাবৃত্তাকার বক্ররেখা)। এটি (গ)-তে আছে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-082",
+      "text": "গ্লেইসারের উৎপাদকের সমীকরণ অনুযায়ী কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\theta_1 - \\theta = \\frac{1}{G}(\\theta_2 - \\theta_1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\theta_1 - \\theta = G(\\theta_2 - \\theta_1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\theta_1 - \\theta = (\\theta_1 - \\theta_2)G\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\theta_1 - \\theta_2 = (\\theta_2 - \\theta)G\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্লেইসারের উৎপাদক \\( G \\) হলে শুষ্ক বাল্বের তাপমাত্রা \\( \\theta_1 \\), সিক্ত বাল্বের \\( \\theta_2 \\) ও শিশিরাঙ্ক \\( \\theta \\) এর মধ্যে সম্পর্ক \\( \\theta_1 - \\theta = G(\\theta_1 - \\theta_2) \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-083",
+      "text": "\\(5 \\times 10^{5}\\,\\mathrm{Nm^{-2}}\\) চাপে এবং 27°C তাপমাত্রায় কোনো গ্যাসের আয়তন 100 CC। \\(10^{6}\\,\\mathrm{Nm^{-2}}\\) চাপে ওই গ্যাসের আয়তন 58.3 CC হলে তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "257.2°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "87.45°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "76.8°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "31.482°C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2} \\)\n\\( T_2 = \\frac{P_2V_2}{P_1V_1}T_1 = \\frac{10^6\\times58.3}{5\\times10^5\\times100}\\times300 = 349.8\\,\\mathrm{K} \\)\n\\( = 349.8 - 273 = 76.8^\\circ\\mathrm{C} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-084",
+      "text": "হিলিয়াম গ্যাসের জন্য স্বাধীনতার মাত্রা কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হিলিয়াম এক পরমাণুক গ্যাস, এর কেবল স্থানান্তর গতি আছে। তাই স্বাধীনতার মাত্রা 3।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-085",
+      "text": "27°C তাপমাত্রায় 2gm নাইট্রোজেনের মোট গতিশক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.267 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.67 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "26.7 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "267 J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( n = \\frac{2}{28} = 0.0714\\,\\mathrm{mol} \\), \\( T = 300\\,\\mathrm{K} \\)\n\\( E = \\frac{3}{2}nRT = \\frac{3}{2}\\times0.0714\\times8.314\\times300 \\approx 267\\,\\mathrm{J} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-086",
+      "text": "নির্দিষ্ট ভরের আদর্শ গ্যাসের জন্য গতিশক্তি (E) vs তাপমাত্রা (T) লেখচিত্র কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-086-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-086-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-086-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-086-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( E = \\frac{3}{2}nRT \\) অনুযায়ী নির্দিষ্ট ভরের জন্য \\( E \\propto T \\), তাই \\( E \\)–\\( T \\) লেখ মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-087",
+      "text": "বায়ুর প্রতি একক আয়তনে উপস্থিত জলীয় বাষ্পের ভরকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপেক্ষিক আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরম আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শিশিরাংক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বায়ুর প্রতি একক আয়তনে উপস্থিত জলীয় বাষ্পের ভরকে পরম আর্দ্রতা বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-088",
+      "text": "অণুগুলোর মূল গড় বর্গবেগ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি পাত্রে রক্ষিত গ্যাসের তিনটি অণুর বেগ যথাক্রমে 3, 4 ও 5 একক।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "4 একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.08 একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16 একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16.66 একক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূল গড় বর্গবেগ \\( = \\sqrt{\\frac{3^2+4^2+5^2}{3}} = \\sqrt{\\frac{50}{3}} = \\sqrt{16.67} = 4.08 \\) একক",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-089",
+      "text": "নিচের কোন মানটি বেশি?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি পাত্রে রক্ষিত গ্যাসের তিনটি অণুর বেগ যথাক্রমে 3, 4 ও 5 একক।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "গড়বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গড় বর্গবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গড় বর্গবেগের বর্গমূল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেগের সমষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গড় বেগ \\( = 4 \\), গড় বর্গবেগ \\( = \\frac{50}{3} = 16.67 \\), মূল গড় বর্গবেগ \\( = 4.08 \\), বেগের সমষ্টি \\( = 12 \\)। এদের মধ্যে গড় বর্গবেগই সবচেয়ে বেশি।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-090",
+      "text": "PV = ধ্রুবক, সমীকরণটি নিচের কোন প্রক্রিয়াকে সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমআয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমচাপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(PV = \\) ধ্রুবক হলো বয়েলের সূত্র, যা স্থির তাপমাত্রায় অর্থাৎ সমোষ্ণ প্রক্রিয়ায় প্রযোজ্য।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-091",
+      "text": "27°C তাপমাত্রায় 32g অক্সিজেন গ্যাসের গতিশক্তি কত? \\((R = 8.314\\,\\mathrm{Jmol^{-1}K^{-1}})\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3741.3J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "374J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "37.4J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "734J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "32 g অক্সিজেন = 1 mol, \\(T = 300\\,\\mathrm{K}\\)\nগতিশক্তি \\(= \\dfrac{3}{2}nRT = 1.5 \\times 1 \\times 8.314 \\times 300 = 3741.3\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-092",
+      "text": "নিম্নলিখিত কোন ক্ষেত্রে একটি গ্যাস আদর্শ গ্যাসের ন্যায় আচরণ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিম্নচাপ ও উচ্চ তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিম্নচাপ ও নিম্ন তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চচাপ ও নিম্ন তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উচ্চচাপ ও উচ্চ তাপমাত্রায়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "নিম্নচাপে অণুগুলোর মধ্যে দূরত্ব বেশি থাকে এবং উচ্চ তাপমাত্রায় গতিশক্তি বেশি থাকায় আন্তঃআণবিক আকর্ষণ নগণ্য হয়; তাই তখন বাস্তব গ্যাস আদর্শ গ্যাসের মতো আচরণ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-093",
+      "text": "T তাপমাত্রায় আদর্শ গ্যাসের ক্ষেত্রে একটি অণুর গড় গতিশক্তি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3}{2}RT\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{3}RT\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{3}KT\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আদর্শ গ্যাসের একটি অণুর গড় গতিশক্তি \\(\\bar{E} = \\dfrac{3}{2}KT\\), যেখানে K হলো বোল্টজম্যান ধ্রুবক। \\(\\dfrac{3}{2}RT\\) হলো এক মোল গ্যাসের গতিশক্তি।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-094",
+      "text": "কোনো গ্যাসের অণুগুলোর মূল গড় বর্গবেগ পরম তাপমাত্রার—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্গমূলের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গমূলের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(C_{rms} = \\sqrt{\\dfrac{3RT}{M}}\\), তাই \\(C_{rms} \\propto \\sqrt{T}\\); অর্থাৎ মূল গড় বর্গবেগ পরম তাপমাত্রার বর্গমূলের সমানুপাতিক।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-095",
+      "text": "বায়ুর প্রতি একক আয়তনে উপস্থিত জলীয় বাষ্পের ভরকে ঐ স্থানের কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাষ্পচাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপেক্ষিক আর্দ্রতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিশিরাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরম আর্দ্রতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বায়ুর প্রতি একক আয়তনে উপস্থিত জলীয় বাষ্পের ভরকে ঐ স্থানের পরম আর্দ্রতা বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-096",
+      "text": "আদর্শ গ্যাসের ক্ষেত্রে গতিশক্তি \\((E_k)\\) বনাম তাপমাত্রা (T)-এর লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-096-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-096-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-096-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch10-mcq-096-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "আদর্শ গ্যাসের গতিশক্তি \\(E_k = \\dfrac{3}{2}nRT\\), অর্থাৎ \\(E_k \\propto T\\)। তাই \\(E_k\\)-T লেখচিত্র মূলবিন্দুগামী সরলরেখা, যা (গ) চিত্রে দেখানো হয়েছে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-097",
+      "text": "বায়ুতে জলীয় বাষ্পের পরিমাণ বেড়ে গেলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বায়ুর চাপ বাড়ে"
+        },
+        {
+          "label": "ii",
+          "text": "বায়ুর ঘনত্ব কমে"
+        },
+        {
+          "label": "iii",
+          "text": "জলীয় বাষ্পের চাপ বাড়ে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "(i) মিথ্যা: জলীয় বাষ্প বাড়লে শুষ্ক বায়ুর চাপ বাড়ে না; বরং আর্দ্র বায়ু হালকা হয়।\n(ii) সত্য: জলীয় বাষ্পের (আণবিক ভর 18) অণু বায়ুর অণুর (গড় ভর প্রায় 29) স্থান নেওয়ায় বায়ুর ঘনত্ব কমে।\n(iii) সত্য: বাষ্পের পরিমাণ বাড়লে বাষ্পচাপ বাড়ে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-098",
+      "text": "গ্যাস অণুর মূল গড় বর্গবেগ পরম তাপমাত্রার—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্গমূলের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গমূলের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(C_{rms} = \\sqrt{\\dfrac{3RT}{M}}\\) থেকে \\(C_{rms} \\propto \\sqrt{T}\\); অর্থাৎ পরম তাপমাত্রার বর্গমূলের সমানুপাতিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-099",
+      "text": "নিচের বক্তব্যগুলোর মধ্যে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পৃক্ত বাষ্প বয়েল ও চার্লসের সূত্র মেনে চলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসম্পৃক্ত বাষ্প শুধুমাত্র আবদ্ধ স্থানে তৈরি করা হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আপেক্ষিক আর্দ্রতা বেশি থাকলে বাষ্পায়ন দ্রুত হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ ও বায়ুর তাপমাত্রায় অসম্পৃক্ত বাষ্পচাপ পরস্পর সমান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(ক) ভুল: সম্পৃক্ত বাষ্প বয়েল ও চার্লসের সূত্র মানে না।\n(খ) ভুল: অসম্পৃক্ত বাষ্প আবদ্ধ ও উন্মুক্ত উভয় স্থানেই থাকতে পারে।\n(গ) ভুল: আপেক্ষিক আর্দ্রতা বেশি হলে বাষ্পায়ন ধীর হয়।\n(ঘ) সঠিক: শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ বায়ুর তাপমাত্রায় বিদ্যমান প্রকৃত (অসম্পৃক্ত) বাষ্পচাপের সমান।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-100",
+      "text": "CO-এর জন্য স্বাধীনতার মাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "CO দ্বিপরমাণুক গ্যাস। এর 3টি স্থানান্তর ও 2টি ঘূর্ণন গতি আছে, তাই স্বাধীনতার মাত্রা \\(3 + 2 = 5\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-101",
+      "text": "যদি সিক্ত ও শুষ্ক বালব হাইগ্রোমিটারের সিক্ত ও শুষ্ক বালবের তাপমাত্রার পার্থক্য কম প্রদর্শন করে তাহলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আপেক্ষিক আর্দ্রতা বেশি হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপেক্ষিক আর্দ্রতা কম হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্ন শিশিরাঙ্ক হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শরীরে আরাম অনুভব হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সিক্ত ও শুষ্ক বালবের তাপমাত্রার পার্থক্য কম মানে সিক্ত বালব থেকে বাষ্পায়ন কম হচ্ছে, অর্থাৎ বায়ু প্রায় সম্পৃক্ত; তাই আপেক্ষিক আর্দ্রতা বেশি।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-102",
+      "text": "1.0 লিটার বায়ুর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোট অণুর সংখ্যা \\(2.7 \\times 10^{22}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "27°C তাপমাত্রায় গড় গতিশক্তি \\(6.12 \\times 10^{-21}\\) J"
+        },
+        {
+          "label": "iii",
+          "text": "বায়ুর ঘনত্ব \\(1.43\\,\\mathrm{kgm^{-3}}\\) হলে 27°C তাপমাত্রায় মূল গড় বর্গবেগ \\(461.18\\,\\mathrm{ms^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: STP-তে 22.4 L-এ \\(6.022 \\times 10^{23}\\) অণু; 1 L-এ \\(\\approx 2.7 \\times 10^{22}\\)।\n(ii) মিথ্যা: \\(\\bar{E} = \\dfrac{3}{2}KT = 1.5 \\times 1.38 \\times 10^{-23} \\times 300 = 6.21 \\times 10^{-21}\\,\\mathrm{J}\\), \\(6.12 \\times 10^{-21}\\) নয়।\n(iii) সত্য: \\(C = \\sqrt{\\dfrac{3P}{\\rho}} = \\sqrt{\\dfrac{3 \\times 1.013 \\times 10^5}{1.43}} \\approx 461\\,\\mathrm{ms^{-1}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-103",
+      "text": "গড় মুক্তপথের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গড় মুক্তপথ তাপমাত্রার ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গড় মুক্তপথ চাপের ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গড় মুক্তপথ ঘনত্বের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গড় মুক্তপথ অণুর সংখ্যার সমানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "গড় মুক্তপথ \\(\\lambda = \\dfrac{KT}{\\sqrt{2}\\pi d^2 P}\\); স্থির তাপমাত্রায় এটি চাপের ব্যস্তানুপাতিক। এটি তাপমাত্রার সমানুপাতিক এবং ঘনত্ব ও অণুর সংখ্যার ব্যস্তানুপাতিক।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-104",
+      "text": "\\(PV = K\\) সমীকরণ মেনে চলে কোন সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্যাসের চাপীয় সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চার্লসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাভোগ্যাড্রোর সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের জন্য \\(PV = K\\) (ধ্রুবক) হলো বয়েলের সূত্র।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-105",
+      "text": "কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বুদবুদের ব্যাস তিনগুণ হয়। হ্রদের পানির সর্বত্র তাপমাত্রা ও ঘনত্ব সমান হলে হ্রদের গভীরতা কত? [বায়ুর চাপ \\(= 10^5\\,\\mathrm{Nm^{-2}}\\)]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "265.3m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "81.63m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20.4m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9.33m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আয়তন \\(V \\propto d^3\\), তাই \\(V_2 = 27V_1\\)। সমোষ্ণ প্রক্রিয়ায় \\(P_1V_1 = P_2V_2\\), \\(P_2 = P_0\\)\n\\(P_1 = 27P_0\\), অর্থাৎ \\(h\\rho g = 26P_0\\)\n\\(h = \\dfrac{26 \\times 10^5}{1000 \\times 9.8} = 265.3\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-106",
+      "text": "দ্বিপরমাণুক গ্যাসের গতিশক্তির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{7}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{5}{2}KT\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "দ্বিপরমাণুক গ্যাসের স্বাধীনতার মাত্রা 5, প্রতি মাত্রায় শক্তি \\(\\dfrac{1}{2}KT\\)। অতএব একটি অণুর গতিশক্তি \\(\\dfrac{5}{2}KT\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-107",
+      "text": "মূল গড় বর্গ বেগ C এবং চাপ P এর মধ্যে সম্পর্ক হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(C = \\sqrt{\\dfrac{3P}{\\rho}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(C = \\sqrt{\\dfrac{3\\rho}{P}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(C = \\sqrt{\\dfrac{P}{3\\rho}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(C = \\sqrt{\\dfrac{\\rho}{3P}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(P = \\dfrac{1}{3}\\rho C^2\\) থেকে \\(C = \\sqrt{\\dfrac{3P}{\\rho}}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-108",
+      "text": "কোনো স্থানে আর্দ্র ও শুষ্ক বাল্ব হাইগ্রোমিটারের সিক্ত বাল্বের তাপমাত্রা ঐ স্থানের বায়ুর তাপমাত্রার সমান হলে আপেক্ষিক আর্দ্রতার মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "70%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সিক্ত বালবের তাপমাত্রা বায়ুর তাপমাত্রার সমান হলে সিক্ত বালব থেকে বাষ্পায়ন হচ্ছে না, অর্থাৎ বায়ু সম্পৃক্ত; তাই আপেক্ষিক আর্দ্রতা 100%।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-109",
+      "text": "\\(\\mathrm{N_2}\\) গ্যাসের স্বাধীনতার মাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{N_2}\\) দ্বিপরমাণুক গ্যাস; স্বাধীনতার মাত্রা \\(3 + 2 = 5\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "A diatomic molecule such as N₂ has 5 degrees of freedom (3 translational + 2 rotational) at ordinary temperatures; sattacademy's key gives গ (6)."
+    },
+    {
+      "id": "physics_1st-ch10-mcq-110",
+      "text": "37°C তাপমাত্রা ও 1.5 atm চাপে 20 gm \\(\\mathrm{O_2}\\) গ্যাসের আয়তন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.8 \\times 10^{-3}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.05 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.26 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.07 \\times 10^{-2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(n = \\dfrac{20}{32} = 0.625\\,\\mathrm{mol}\\), \\(T = 310\\,\\mathrm{K}\\), \\(P = 1.5 \\times 1.013 \\times 10^5\\,\\mathrm{Pa}\\)\n\\(V = \\dfrac{nRT}{P} = \\dfrac{0.625 \\times 8.314 \\times 310}{1.5 \\times 1.013 \\times 10^5} \\approx 1.06 \\times 10^{-2}\\,\\mathrm{m^3}\\)\nপ্রদত্ত বিকল্পগুলোর মধ্যে (ঘ) \\(1.07 \\times 10^{-2}\\) তুলনামূলকভাবে নিকটতম হিসেবে ধরা হয়েছে।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "V = nRT/P = (20/32)(8.314)(310)/(1.5 × 1.013 × 10⁵) ≈ 1.06 × 10⁻² m³, which lies between খ and ঘ; with 1 atm taken as 10⁵ Pa it is 1.07 × 10⁻² m³ (ঘ), which is sattacademy's key. | উত্তর যাচাই: গণনায় \\(V \\approx 1.06 \\times 10^{-2}\\,\\mathrm{m^3}\\) পাওয়া যায়, যা (খ) 1.05 ও (ঘ) 1.07-এর কোনোটির সাথেই হুবহু মেলে না (দুটির দূরত্ব প্রায় সমান); তাই প্রশ্নটির বিকল্প ত্রুটিপূর্ণ, (ঘ)-কে নিশ্চিতভাবে সঠিক বলা যায় না।"
+    },
+    {
+      "id": "physics_1st-ch10-mcq-111",
+      "text": "\\(PV = \\dfrac{1}{3}mN\\bar{c}^2\\) সমীকরণে \\(\\bar{c}^2\\)—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গড় বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গড় বর্গবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল গড় বর্গবেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলোর বেগের বর্গ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\bar{c}^2\\) হলো অণুগুলোর বেগের বর্গের গড় অর্থাৎ গড় বর্গবেগ; এর বর্গমূল হলো মূল গড় বর্গবেগ।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-112",
+      "text": "গ্যাসের গতিতত্ত্বের সাহায্যে গ্যাসের সূত্রাবলি সর্বপ্রথম ব্যাখ্যা করেন কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্লসিয়াস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ম্যাক্সওয়েল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বার্নোলি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোল্টজম্যান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গ্যাসের গতিতত্ত্বের সাহায্যে গ্যাসের সূত্রাবলি সর্বপ্রথম ব্যাখ্যা করেন বার্নোলি।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-113",
+      "text": "গড় বর্গবেগের বর্গমূল ও পরম তাপমাত্রার মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(C_{rms} \\propto T\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(C_{rms} \\propto \\sqrt{T}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(C_{rms} \\propto \\dfrac{1}{T}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(C_{rms} \\propto \\dfrac{1}{\\sqrt{T}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(C_{rms} = \\sqrt{\\dfrac{3RT}{M}}\\) থেকে \\(C_{rms} \\propto \\sqrt{T}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-114",
+      "text": "'PV' রাশিটি গ্যাসের ক্ষেত্রে নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জড়তা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(P = \\dfrac{F}{A}\\), \\(V = A \\times h\\) হলে \\(PV = F \\times h\\), যা কাজের মাত্রা। তাই PV দ্বারা কাজ নির্দেশ করে।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-115",
+      "text": "N.T.P তে হাইড্রোজেন এর ঘনত্ব \\(0.09\\,\\mathrm{kgm^{-3}}\\)। অণুগুলোর মূলগড় বর্গবেগ নির্ণয় কর।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.84\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.84\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.38\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.00\\,\\mathrm{kms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(C = \\sqrt{\\dfrac{3P}{\\rho}} = \\sqrt{\\dfrac{3 \\times 1.013 \\times 10^5}{0.09}} \\approx 1837\\,\\mathrm{ms^{-1}} \\approx 1.84\\,\\mathrm{kms^{-1}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

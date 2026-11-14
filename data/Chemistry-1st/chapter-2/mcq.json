@@ -1,0 +1,5173 @@
+{
+  "subject": "chemistry_1st",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "chemistry_1st-ch2-mcq-001",
+      "text": "হাইড্রোজেনের পারমাণবিক বর্ণালির বামার সিরিজের ২য় লাইন এর তরঙ্গদৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "400 nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "486 nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "620 nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "750 nm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বামার সিরিজের ২য় লাইন \\( n_2 = 4 \\to n_1 = 2 \\)\n\\( \\frac{1}{\\lambda} = R_H\\left(\\frac{1}{2^2}-\\frac{1}{4^2}\\right) = 1.097\\times10^{7}\\times\\frac{3}{16} \\)\n\\( \\lambda \\approx 486\\ \\mathrm{nm} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-002",
+      "text": "[Ar] \\(3d^{10}4s^0\\) ইলেকট্রন বিন্যাসটি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Cu^+}\\) আয়নের"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{Zn^{2+}}\\) আয়নের"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Ni^{2+}}\\) আয়নের"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Cu^+} \\) (\\( 3d^{10}4s^0 \\)) ও \\( \\mathrm{Zn^{2+}} \\) (\\( 3d^{10}4s^0 \\)) আয়নের বিন্যাস [Ar] \\( 3d^{10}4s^0 \\)। \\( \\mathrm{Ni^{2+}} \\) এর বিন্যাস [Ar] \\( 3d^{8} \\), তাই (iii) সঠিক নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-003",
+      "text": "টাকায় নিরাপত্তা ব্যবস্থা হিসাবে কোন রাসায়নিক পদার্থটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিলভার নাইট্রেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফ্লোরোসেন্ট ফসফোর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পটাশিয়াম আয়োডাইড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সোডিয়াম ফসফেট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "টাকায় নিরাপত্তা চিহ্ন হিসেবে ফ্লোরোসেন্ট ফসফোর ব্যবহৃত হয়, যা UV আলোতে দীপ্তি দেয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-004",
+      "text": "উদ্দীপক বিক্রিয়ার মাধ্যমে কোন আয়নটি শনাক্ত করা যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "লবণের দ্রবণ + NaOH দ্রবণ ⟶ সাদা অধঃক্ষেপ \\(\\xrightarrow{\\text{অতিরিক্ত NaOH}}\\) অধঃক্ষেপ দ্রবীভূত \\(\\xrightarrow{\\mathrm{NH_4Cl}}\\) সাদা অধঃক্ষেপ",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-BB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Al^{3+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাদা অধঃক্ষেপ অতিরিক্ত NaOH এ দ্রবীভূত হয় (অ্যালুমিনেট গঠন) এবং \\( \\mathrm{NH_4Cl} \\) যোগে পুনরায় সাদা \\( \\mathrm{Al(OH)_3} \\) অধঃক্ষেপ পড়ে। এটি \\( \\mathrm{Al^{3+}} \\) আয়নের বৈশিষ্ট্য।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-005",
+      "text": "উদ্দীপকে উল্লিখিত ক্ষারে অবস্থিত মৌলটির সর্বশেষ ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার মানের সঠিক সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "লবণের দ্রবণ + NaOH দ্রবণ ⟶ সাদা অধঃক্ষেপ \\(\\xrightarrow{\\text{অতিরিক্ত NaOH}}\\) অধঃক্ষেপ দ্রবীভূত \\(\\xrightarrow{\\mathrm{NH_4Cl}}\\) সাদা অধঃক্ষেপ",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-BB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "3, 2, −2, \\(-\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3, 2, −1, \\(-\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3, 1, −1, \\(+\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3, 0, 0, \\(+\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শনাক্তকৃত আয়ন \\( \\mathrm{Al^{3+}} \\); ক্ষার \\( \\mathrm{Al(OH)_3} \\)। Al এর বিন্যাস \\( 1s^22s^22p^63s^23p^1 \\), সর্বশেষ ইলেকট্রন 3p অরবিটালে।\n\\( n=3,\\ l=1,\\ m=-1,\\ s=+\\frac{1}{2} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-006",
+      "text": "কোনটির শক্তি কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "X-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "γ রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় বর্ণালিতে রেডিও ওয়েভের কম্পাঙ্ক সবচেয়ে কম, তাই শক্তি (\\( E = h\\nu \\)) সবচেয়ে কম।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-007",
+      "text": "জাল টাকা শনাক্তকরণে কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাজাগতিক রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রঞ্জন রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অতিবেগুনি রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জাল টাকায় নিরাপত্তা চিহ্ন থাকে না; অতিবেগুনি (UV) রশ্মিতে আসল টাকার ফ্লোরোসেন্ট চিহ্ন জ্বলে ওঠে, তাই জাল টাকা শনাক্তে UV রশ্মি ব্যবহৃত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-008",
+      "text": "দ্রাব্যতা গুণফল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দ্রবণের তাপমাত্রার উপর নির্ভরশীল"
+        },
+        {
+          "label": "ii",
+          "text": "স্বল্প দ্রবণীয় তড়িৎ বিশ্লেষ্যের ক্ষেত্রে প্রযোজ্য"
+        },
+        {
+          "label": "iii",
+          "text": "সম্পৃক্ত বা অসম্পৃক্ত উভয় দ্রবণের জন্যই প্রযোজ্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) \\( K_{sp} \\) তাপমাত্রার উপর নির্ভরশীল এবং (ii) শুধু স্বল্প দ্রবণীয় তড়িৎ বিশ্লেষ্যের জন্য প্রযোজ্য। (iii) সঠিক নয়, কারণ দ্রাব্যতা গুণফল কেবল সম্পৃক্ত দ্রবণের ক্ষেত্রে প্রযোজ্য।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-009",
+      "text": "50°C তাপমাত্রায় \\(\\mathrm{NH_4Cl}\\) এর 120gm সম্পৃক্ত দ্রবণকে 25°C তাপমাত্রায় শীতল করলে কত গ্রাম \\(\\mathrm{NH_4Cl}\\) কেলাসিত হবে? [50°C ও 25°C তাপমাত্রায় \\(\\mathrm{NH_4Cl}\\) এর দ্রাব্যতা যথাক্রমে 60 ও 40]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সম্পৃক্ত দ্রবণ: 50°C এ (100 + 60) = 160 g দ্রবণে দ্রব 60 g।\n120 g দ্রবণে দ্রব = \\( \\frac{60}{160}\\times120 = 45 \\) g, দ্রাবক = 75 g\n25°C এ 75 g পানিতে দ্রবীভূত থাকে = \\( \\frac{40}{100}\\times75 = 30 \\) g\nকেলাসিত \\( \\mathrm{NH_4Cl} \\) = 45 − 30 = 15 g",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-010",
+      "text": "তাপমাত্রা বৃদ্ধির সাথে দ্রাব্যতা বাড়ে কোনটির?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NaNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Ca(NO_3)_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Ca(OH)_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaOH",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{NaNO_3} \\) এর দ্রাব্যতা তাপমাত্রা বাড়ার সাথে দ্রুত বাড়ে। \\( \\mathrm{Ca(OH)_2} \\) এর দ্রাব্যতা তাপমাত্রা বাড়লে কমে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (খ) \\( \\mathrm{Ca(NO_3)_2} \\) ও (ঘ) NaOH এর দ্রাব্যতাও তাপমাত্রা বৃদ্ধিতে বাড়ে, তাই একাধিক বিকল্প সঠিক; প্রশ্নটি ত্রুটিপূর্ণ। (ক) ই সবচেয়ে প্রচলিত উদাহরণ বলে উত্তর (ক) গ্রহণযোগ্য।"
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-011",
+      "text": "ম্যাগনেসিয়াম ফসফেটের দ্রাব্যতা 'S' হলে, দ্রাব্যতা গুণফল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(S^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(8S^3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(27S^4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(108S^5\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Mg_3(PO_4)_2 \\rightleftharpoons 3Mg^{2+} + 2PO_4^{3-}} \\)\n\\( K_{sp} = (3S)^3(2S)^2 = 27S^3 \\times 4S^2 = 108S^5 \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-012",
+      "text": "সালফারের শেষ ইলেকট্রনটির জন্য কোয়ান্টাম সংখ্যার কোন সেট প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 3, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 2, m = 1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 1, m = 0, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 3, l = 2, m = 0, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "S এর বিন্যাস \\( 1s^22s^22p^63s^23p^4 \\); শেষ ইলেকট্রন 3p অরবিটালে, তাই \\( n=3,\\ l=1 \\)। এটি p অরবিটালের চতুর্থ ইলেকট্রন বলে এর স্পিন \\( -\\frac{1}{2} \\)। বিকল্পগুলোর মধ্যে (গ) ই এই শর্ত পূরণ করে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-013",
+      "text": "মৌলের যে কোনো উপশক্তি স্তরে ইলেকট্রন ধারণ ক্ষমতার সূত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2(2l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2(l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2l+1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2n^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কোনো উপশক্তিস্তরে অরবিটাল সংখ্যা \\( (2l+1) \\)টি এবং প্রতি অরবিটালে সর্বোচ্চ ২টি ইলেকট্রন থাকে। তাই ধারণ ক্ষমতা \\( 2(2l+1) \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-014",
+      "text": "প্লাংকের ধ্রুবকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6.023 \\times 10^{23}\\) erg.s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.0 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.096 \\times 10^{7}\\,\\mathrm{cms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.626 \\times 10^{-34}\\) J.s",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্লাংকের ধ্রুবক \\( h = 6.626\\times10^{-34}\\ \\mathrm{J.s} \\)। (ক) অ্যাভোগেড্রো সংখ্যা, (খ) আলোর বেগ এবং (গ) রিডবার্গ ধ্রুবকের মান।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-015",
+      "text": "\\(\\mathrm{Co^{3+}}\\) আয়নে বিজোড় ইলেকট্রনের সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "Co (Z = 27): [Ar] \\( 3d^74s^2 \\)। \\( \\mathrm{Co^{3+}} \\): [Ar] \\( 3d^6 \\)\nএখানে ১টি জোড় ও ৪টি বিজোড় ইলেকট্রন আছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-016",
+      "text": "পূর্ণ 3s অরবিটালের শেষ ইলেকট্রনের কোয়ান্টাম সংখ্যার সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 3, l = 0, m = 0, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 1, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 3, l = 1, m = −1, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "3s অরবিটাল পূর্ণ হলে শেষ (দ্বিতীয়) ইলেকট্রনের স্পিন \\( -\\frac{1}{2} \\)। তাই \\( n=3,\\ l=0,\\ m=0,\\ s=-\\frac{1}{2} \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-017",
+      "text": "H-পরমাণুর নিউক্লিয়াস হতে তৃতীয় অরবিটের দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5.292 \\times 10^{-9}\\) cm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.587 \\times 10^{-8}\\) cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4.763 \\times 10^{-8}\\) cm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.763 \\times 10^{-7}\\) cm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( r_n = 0.529\\,n^2\\ \\text{Å} \\)\n\\( r_3 = 0.529\\times9 = 4.763\\ \\text{Å} = 4.763\\times10^{-8}\\ \\mathrm{cm} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-018",
+      "text": "কোন সমীকরণটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "E = hν",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E = mc^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\lambda = \\frac{h}{mv}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\lambda = \\frac{1}{v}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তরঙ্গদৈর্ঘ্য ও কম্পাঙ্কের সম্পর্ক \\( \\lambda = \\frac{c}{\\nu} \\); তাই \\( \\lambda = \\frac{1}{\\nu} \\) সঠিক নয়। অন্য সমীকরণগুলো প্লাংক, আইনস্টাইন ও ডি-ব্রগলির সঠিক সমীকরণ।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-019",
+      "text": "পাউলির বর্জন নীতি মেনে চলে না কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "H",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "He",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Li",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Be",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পাউলির বর্জন নীতি অনুযায়ী একই অরবিটালে দুটি ইলেকট্রনের চারটি কোয়ান্টাম সংখ্যা একই হতে পারে না। H এর একটি মাত্র ইলেকট্রন থাকায় এই নীতি প্রযোজ্য হয় না, অন্যগুলোর অরবিটালে ইলেকট্রন জোড়া আছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-020",
+      "text": "উপশক্তিস্তরের অরবিটাল সংখ্যা নির্ণয়ের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2(2l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2n^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(n^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উপশক্তিস্তরে অরবিটাল সংখ্যা = \\( (2l+1) \\)। যেমন p এর জন্য \\( l=1 \\), অরবিটাল \\( = 3 \\)। (খ) ইলেকট্রন ধারণ ক্ষমতা, (গ) ও (ঘ) প্রধান শক্তিস্তরের সূত্র।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-021",
+      "text": "100 mL সম্পৃক্ত দ্রবণে 1 গ্রাম AgCl উপস্থিত থাকলে, ঐ দ্রবণটির দ্রাব্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.697\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.100\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.069\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.010\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "100 mL এ AgCl = 1 g, তাই 1000 mL এ = 10 g\nAgCl এর আণবিক ভর = 143.5\nদ্রাব্যতা = \\( \\frac{10}{143.5} = 0.0697 \\approx 0.069\\ \\mathrm{mol\\,L^{-1}} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-022",
+      "text": "25°C তাপমাত্রায় \\(X_2Y\\) এর সম্পৃক্ত দ্রবণে \\(X^+\\) এর মোলার ঘনমাত্রা \\(2.56 \\times 10^{-4}\\)M হলে, এর দ্রাব্যতা গুণফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.024 \\times 10^{-12}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(8.388 \\times 10^{-12}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.677 \\times 10^{-11}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.553 \\times 10^{-8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( X_2Y \\rightleftharpoons 2X^+ + Y^{2-} \\)\n\\( [X^+] = 2S = 2.56\\times10^{-4} \\Rightarrow S = 1.28\\times10^{-4}\\ \\mathrm{M} \\)\n\\( K_{sp} = (2S)^2\\cdot S = 4S^3 = 4\\times(1.28\\times10^{-4})^3 = 8.388\\times10^{-12} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-023",
+      "text": "মস্তিষ্কের টিউমার শনাক্তকরণে কোনটি অধিক ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "MRI",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "FIR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NIR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UV",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মস্তিষ্কের টিউমারের মতো অভ্যন্তরীণ কোমল টিস্যুর ছবি তোলায় MRI (চৌম্বকীয় অনুনাদ চিত্রায়ন) সবচেয়ে বেশি ব্যবহৃত হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-024",
+      "text": "একটি লবণের 30°C তাপমাত্রায় দ্রাব্যতা 25 হলে 50g সম্পৃক্ত দ্রবণে দ্রবের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "25g",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দ্রাব্যতা 25 অর্থ 100 g পানিতে 25 g দ্রব, অর্থাৎ 125 g সম্পৃক্ত দ্রবণে দ্রব 25 g।\n50 g দ্রবণে দ্রব = \\( \\frac{25}{125}\\times50 = 10 \\) g",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-025",
+      "text": "বোর পরমাণু মডেল নিচের কোনটির ক্ষেত্রে প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H^+}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{He^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Li^{3+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{He^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল শুধু এক-ইলেকট্রনীয় প্রজাতির (H, \\( \\mathrm{He^+} \\), \\( \\mathrm{Li^{2+}} \\)) ক্ষেত্রে প্রযোজ্য। \\( \\mathrm{H^+} \\), \\( \\mathrm{He^{2+}} \\), \\( \\mathrm{Li^{3+}} \\) তে কোনো ইলেকট্রন নেই; \\( \\mathrm{He^+} \\) এ একটি ইলেকট্রন আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DB",
+          "year": "2025",
+          "qno": 12,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-026",
+      "text": "নিচের কোন বিকিরণের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতিবেগুনি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দৃশ্যমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবলোহিত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গামারশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় বর্ণালিতে তরঙ্গদৈর্ঘ্যের ক্রম: গামারশ্মি < অতিবেগুনি < দৃশ্যমান < অবলোহিত। তাই অবলোহিতের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-027",
+      "text": "কোনটি নেসলার বিকারক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Zn – Hg ও গাঢ় HCl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CuSO_4 + 2NaOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{K_2HgI_4 + KOH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{[Ag(NH_3)_2]OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নেসলার বিকারক হলো \\( \\mathrm{K_2HgI_4} \\) ও KOH এর ক্ষারীয় দ্রবণ; এটি \\( \\mathrm{NH_4^+} \\) শনাক্তে ব্যবহৃত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-028",
+      "text": "সিলভার ক্রোমেটের দ্রাব্যতা প্রতি লিটার জলীয় দ্রবণে 0.00012 গ্রাম হলে দ্রাব্যতা গুণফল কত? [Ag-108, Cr-52]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.89 \\times 10^{-19}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.75 \\times 10^{-20}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.37 \\times 10^{-18}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.95 \\times 10^{-21}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Ag_2CrO_4} \\) এর আণবিক ভর = \\( 2\\times108 + 52 + 64 = 332 \\)\n\\( S = \\frac{0.00012}{332} = 3.614\\times10^{-7}\\ \\mathrm{M} \\)\n\\( K_{sp} = (2S)^2\\cdot S = 4S^3 = 4\\times(3.614\\times10^{-7})^3 = 1.89\\times10^{-19} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-029",
+      "text": "পটাশিয়াম এর সর্ববহিস্থ ইলেকট্রনের জন্য কোন সেটটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 4, l = 2, m = +1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 0, m = 0, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 1, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "K (Z = 19): [Ar] \\( 4s^1 \\)। সর্ববহিস্থ ইলেকট্রন 4s এ, তাই \\( n=4,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2} \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-030",
+      "text": "পরমাণুর ২য় শক্তিস্তরে ইলেকট্রনের কৌণিক ভরবেগের মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{2h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{4h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{2h}{3\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল অনুযায়ী কৌণিক ভরবেগ \\( mvr = \\frac{nh}{2\\pi} \\)\n২য় শক্তিস্তরে \\( n=2 \\): \\( mvr = \\frac{2h}{2\\pi} = \\frac{h}{\\pi} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-031",
+      "text": "K এর সর্ববহিঃস্থ স্তরের ইলেকট্রনের ক্ষেত্রে সম্ভাব্য কোয়ান্টাম সংখ্যার সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 4, l = 1, m = +1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 2, m = −1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 1, m = −1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "K এর সর্ববহিঃস্থ ইলেকট্রন 4s অরবিটালে (\\( 4s^1 \\)), তাই \\( n=4,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2} \\)। অন্য বিকল্পগুলো K এর সর্ববহিঃস্থ ইলেকট্রনের জন্য প্রযোজ্য নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-032",
+      "text": "\\(\\mathrm{I^-(aq)}\\) এর ঘনমাত্রা দ্বিগুণ করলে \\(\\mathrm{PbI_2(s)}\\) এর সাথে সাম্যবস্থায় থাকা \\(\\mathrm{Pb^{2+}(aq)}\\) আয়নের ঘনমাত্রা কীরূপ পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "25°C তাপমাত্রায় 500ml দ্রবণে সর্বোচ্চ \\(0.5 \\times 10^{-3}\\) মোল \\(\\mathrm{PbI_2}\\) দ্রবীভূত হয়।",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-DIB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "1/4 গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1/16 গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16 গুণ হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সম্পৃক্ত দ্রবণে \\( K_{sp} = [\\mathrm{Pb^{2+}}][\\mathrm{I^-}]^2 \\) স্থির থাকে।\n\\( [\\mathrm{I^-}] \\) দ্বিগুণ হলে \\( [\\mathrm{I^-}]^2 \\) চারগুণ হয়, তাই \\( [\\mathrm{Pb^{2+}}] \\) আগের \\( \\frac{1}{4} \\) গুণ হবে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-033",
+      "text": "বোর মডেলের সাহায্যে বর্ণালির ব্যাখ্যা দেয়া সম্ভব এরূপ আয়ন হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{He^+}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{H^+}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Be^{3+}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল এক-ইলেকট্রনীয় প্রজাতির ক্ষেত্রে প্রযোজ্য। \\( \\mathrm{He^+} \\) ও \\( \\mathrm{Be^{3+}} \\) এ একটি করে ইলেকট্রন আছে; \\( \\mathrm{H^+} \\) এ ইলেকট্রনই নেই।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-034",
+      "text": "স্বল্পদ্রাব্য লবণ \\(A_3B_2\\) এর ক্ষেত্রে দ্রাব্যতা গুণফলের মান হবে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(108S^6\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(108S^5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(72S^5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(72S^6\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( A_3B_2 \\rightleftharpoons 3A^{2+} + 2B^{3-} \\)\n\\( K_{sp} = (3S)^3(2S)^2 = 27S^3\\times4S^2 = 108S^5 \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-035",
+      "text": "জাল পাসপোর্ট শনাক্তকরণে ব্যবহৃত তরঙ্গদৈর্ঘ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-6}\\)cm — \\(3.8 \\times 10^{-5}\\)cm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{-8}\\)cm — \\(3.8 \\times 10^{-9}\\)cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{-8}\\)cm — \\(3.8 \\times 10^{-7}\\)cm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10cm — 380cm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জাল পাসপোর্ট শনাক্তে অতিবেগুনি (UV) রশ্মি ব্যবহৃত হয়। UV এর তরঙ্গদৈর্ঘ্য 10 nm–380 nm, অর্থাৎ \\( 10^{-6} \\) cm থেকে \\( 3.8\\times10^{-5} \\) cm।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-036",
+      "text": "n = 4 এর ক্ষেত্রে m = −1 মান বিশিষ্ট ইলেকট্রনের সংখ্যা কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( n=4 \\) এ \\( l=0,1,2,3 \\); \\( m=-1 \\) থাকতে পারে \\( l=1,2,3 \\) এর প্রতিটিতে একটি করে, মোট ৩টি অরবিটালে। প্রতি অরবিটালে ২টি ইলেকট্রন, তাই \\( 3\\times2=6 \\)টি।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-037",
+      "text": "FIR এর ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এটি একটি বেতার তরঙ্গ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ত্বকে মেলানিনের পরিমাণ বৃদ্ধি করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্যান্সার চিকিৎসায় ব্যবহৃত হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অণুর ত্রিমাত্রিক ছবি তৈরিতে ব্যবহৃত হয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "FIR (দূর অবলোহিত) রশ্মি ক্যান্সার চিকিৎসায় ব্যবহৃত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-038",
+      "text": "\\(A_2B_3\\) এর দ্রাব্যতা 5 mol\\(L^{-1}\\) হলে Ksp এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(S^5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(16S^4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(27S^3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(108S^5\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( A_2B_3 \\rightleftharpoons 2A^{3+} + 3B^{2-} \\)\n\\( K_{sp} = (2S)^2(3S)^3 = 4S^2\\times27S^3 = 108S^5 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-039",
+      "text": "কক্ষ তাপমাত্রায় 65g ভরের একটি সম্পৃক্ত দ্রবণে 20g NaCl দ্রবীভূত থাকলে NaCl এর দ্রাব্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "25",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30.77",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "40",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "44.44",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দ্রাব্যতা = দ্রবের ভর ÷ দ্রাবকের ভর × 100\nদ্রাবক = 65 − 20 = 45 g\nদ্রাব্যতা = \\( \\frac{20}{45}\\times100 = 44.44 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-040",
+      "text": "বোর পরমাণু মডেল কোনটির বর্ণালি ব্যাখ্যা করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H^+}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Li^+}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{He^+}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{He^{2+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল এক-ইলেকট্রনীয় প্রজাতির বর্ণালি ব্যাখ্যা করতে পারে। \\( \\mathrm{He^+} \\) এ একটি ইলেকট্রন আছে; \\( \\mathrm{H^+} \\) ও \\( \\mathrm{He^{2+}} \\) এ ইলেকট্রন নেই এবং \\( \\mathrm{Li^+} \\) এ দুটি ইলেকট্রন আছে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-041",
+      "text": "উদ্দীপকের Y বিকিরণটি কোন বর্ণের হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/chemistry_1st-ch2-mcq-041-stem.svg",
+      "group": "chemistry_1st-2025-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "বেগুনি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নীল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আসমানি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লাল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "Y রশ্মি \\( n=5 \\to n=2 \\) (বামার সিরিজ)\n\\( \\frac{1}{\\lambda} = 1.097\\times10^{7}\\left(\\frac{1}{4}-\\frac{1}{25}\\right) = 2.304\\times10^{6}\\ \\mathrm{m^{-1}} \\)\n\\( \\lambda \\approx 434\\ \\mathrm{nm} \\), যা নীল বর্ণের অঞ্চলে পড়ে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-042",
+      "text": "উদ্দীপক মতে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/chemistry_1st-ch2-mcq-041-stem.svg",
+      "group": "chemistry_1st-2025-JB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "X রশ্মিটি UV অঞ্চলের"
+        },
+        {
+          "label": "ii",
+          "text": "Y এর তরঙ্গদৈর্ঘ্য X অপেক্ষা বড়"
+        },
+        {
+          "label": "iii",
+          "text": "Z এর তরঙ্গদৈর্ঘ্যের মান 1094 nm"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) X হলো \\( 4\\to1 \\) (লাইম্যান সিরিজ), যা UV অঞ্চলের।\n(ii) Y (\\( 5\\to2 \\)) এর তরঙ্গদৈর্ঘ্য প্রায় 434 nm, X এর প্রায় 97 nm; তাই Y এর তরঙ্গদৈর্ঘ্য বড়।\n(iii) Z (\\( 6\\to3 \\)): \\( \\frac{1}{\\lambda} = 1.097\\times10^{7}\\left(\\frac{1}{9}-\\frac{1}{36}\\right) \\Rightarrow \\lambda \\approx 1094\\ \\mathrm{nm} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-043",
+      "text": "নিচের কোন কোয়ান্টাম সংখ্যার সেটটি অসম্ভব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2, 0, 0, \\(-\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2, 1, −1, \\(+\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3, 0, +1, \\(+\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3, 1, −1, \\(-\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( l=0 \\) হলে \\( m \\) এর একমাত্র মান 0। (গ) তে \\( l=0 \\) কিন্তু \\( m=+1 \\), যা সম্ভব নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-044",
+      "text": "25°C তাপমাত্রায় \\(\\mathrm{Fe(OH)_3}\\) এর দ্রাব্যতার গুণফল \\(4 \\times 10^{-38}\\,\\mathrm{mol^4L^{-4}}\\) হলে সম্পৃক্ত দ্রবণে \\(\\mathrm{OH^-}\\) এর ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.96 \\times 10^{-10}\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5.88 \\times 10^{-10}\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.75 \\times 10^{-10}\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9.52 \\times 10^{-10}\\,\\mathrm{mol\\,L^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Fe(OH)_3 \\rightleftharpoons Fe^{3+} + 3OH^-} \\)\n\\( K_{sp} = S\\cdot(3S)^3 = 27S^4 \\Rightarrow S^4 = \\frac{4\\times10^{-38}}{27} \\Rightarrow S = 1.96\\times10^{-10} \\)\n\\( [\\mathrm{OH^-}] = 3S = 5.88\\times10^{-10}\\ \\mathrm{mol\\,L^{-1}} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-045",
+      "text": "কোনটি NMR সক্রিয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{^{13}_{6}C}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{^{4}_{2}He}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{^{16}_{8}O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{^{32}_{16}S}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "যে নিউক্লিয়াসের নিউক্লিয়ন সংখ্যা (ভর সংখ্যা) বিজোড়, সেটি NMR সক্রিয়। \\( \\mathrm{^{13}C} \\) এর ভর সংখ্যা বিজোড়; অন্যগুলোর প্রোটন ও নিউট্রন উভয়ই জোড়, তাই NMR নিষ্ক্রিয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-046",
+      "text": "কোন মৌলটির ইলেকট্রন বিন্যাস আফবাউ নীতির ব্যতিক্রম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভ্যানাডিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রুবিডিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ল্যান্থানাম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ল্যান্থানামের (Z = 57) বিন্যাস আফবাউ অনুযায়ী \\( 4f^1 6s^2 \\) হওয়ার কথা, কিন্তু প্রকৃতপক্ষে [Xe] \\( 5d^1 6s^2 \\)। তাই এটি ব্যতিক্রম।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-047",
+      "text": "নাইট্রাইড আয়নের ইলেকট্রন বিন্যাস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1s^22s^22p^3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1s^22s^22p^6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1s^22s^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1s^22s^22p^63s^1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "N (Z = 7) তিনটি ইলেকট্রন গ্রহণ করে \\( \\mathrm{N^{3-}} \\) হয়, ফলে মোট ১০টি ইলেকট্রন: \\( 1s^22s^22p^6 \\)।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-048",
+      "text": "সমআয়নের প্রভাবে পরিবর্তিত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দ্রাব্যতা"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রাব্যতা গুণফল"
+        },
+        {
+          "label": "iii",
+          "text": "আয়নিক গুণফল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমআয়নের প্রভাবে দ্রাব্যতা কমে এবং আয়নিক গুণফল পরিবর্তিত হয়। দ্রাব্যতা গুণফল (\\( K_{sp} \\)) নির্দিষ্ট তাপমাত্রায় ধ্রুবক, তাই (ii) সঠিক নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-049",
+      "text": "কোন রশ্মিটির শক্তি সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UV-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "IR-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "γ-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "α-রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় বর্ণালিতে γ-রশ্মির কম্পাঙ্ক সবচেয়ে বেশি, তাই শক্তি (\\( E = h\\nu \\)) সবচেয়ে বেশি। α-রশ্মি তড়িৎচুম্বকীয় তরঙ্গ নয়, কণা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-050",
+      "text": "কোনটির মধ্যে ইলেকট্রন ও নিউট্রন সংখ্যা সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{^{19}_{9}F^-}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{^{16}_{8}O^{2-}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{^{14}_{7}N^{3-}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{^{9}_{4}Be}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{^{19}_{9}F^-} \\): ইলেকট্রন = 9 + 1 = 10, নিউট্রন = 19 − 9 = 10, অর্থাৎ সমান।\n\\( \\mathrm{O^{2-}} \\): e = 10, n = 8; \\( \\mathrm{N^{3-}} \\): e = 10, n = 7; Be: e = 4, n = 5।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-051",
+      "text": "\\(\\mathrm{K_4[Fe(CN)_6]}\\) বিকারকটি দিয়ে কোন আয়নটি শনাক্ত করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Al^{3+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{K_4[Fe(CN)_6]} \\) এর সাথে \\( \\mathrm{Cu^{2+}} \\) বিক্রিয়া করে চকলেট বর্ণের \\( \\mathrm{Cu_2[Fe(CN)_6]} \\) অধঃক্ষেপ দেয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-052",
+      "text": "\\(\\mathrm{Al_2(SO_4)_3}\\) এর দ্রাব্যতা গুণফল \\(1.5 \\times 10^{-5}\\) হলে \\(\\mathrm{SO_4^{2-}}\\) এর মোলার ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.27 \\times 10^{-1}\\) M",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.20 \\times 10^{-2}\\) M",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.21 \\times 10^{-3}\\) M",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.02 \\times 10^{-3}\\) M",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Al_2(SO_4)_3 \\rightleftharpoons 2Al^{3+} + 3SO_4^{2-}} \\)\n\\( K_{sp} = (2S)^2(3S)^3 = 108S^5 \\Rightarrow S^5 = \\frac{1.5\\times10^{-5}}{108} \\Rightarrow S = 0.0426\\ \\mathrm{M} \\)\n\\( [\\mathrm{SO_4^{2-}}] = 3S = 3\\times0.0426 = 1.27\\times10^{-1}\\ \\mathrm{M} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-053",
+      "text": "বোর পরমাণু মডেল ব্যাখ্যা করতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Be^{2+}}\\) আয়নের বর্ণালি"
+        },
+        {
+          "label": "ii",
+          "text": "ধাপান্তরিত ইলেকট্রনের শক্তি শোষণ ও বিকিরণ"
+        },
+        {
+          "label": "iii",
+          "text": "পরমাণুর স্থায়িত্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(ii) ধাপান্তরিত ইলেকট্রনের শক্তি শোষণ ও বিকিরণ এবং (iii) পরমাণুর স্থায়িত্ব বোর মডেলে ব্যাখ্যাত হয়। (i) সঠিক নয়, কারণ \\( \\mathrm{Be^{2+}} \\) এ দুটি ইলেকট্রন থাকায় এটি এক-ইলেকট্রনীয় নয়, বোর মডেল এর বর্ণালি ব্যাখ্যা করতে পারে না।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-054",
+      "text": "পটাশিয়াম এর সর্বশেষ ইলেকট্রনটির কৌণিক ভরবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.42 \\times 10^{-32}\\) JS",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.22 \\times 10^{-34}\\) JS",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.64 \\times 10^{-27}\\) JS",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.22 \\times 10^{-28}\\) JS",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল অনুযায়ী কৌণিক ভরবেগ \\( mvr = \\frac{nh}{2\\pi} \\)। K এর সর্বশেষ ইলেকট্রন \\( n=4 \\) স্তরে (4s)।\n\\( mvr = \\frac{4\\times6.626\\times10^{-34}}{2\\times3.1416} = 4.22\\times10^{-34}\\ \\mathrm{J.s} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The key uses Bohr's nh/2π with n = 4 (4 × 1.055×10⁻³⁴ = 4.22×10⁻³⁴ J s)."
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-055",
+      "text": "কোন লবণটির পানিতে দ্রাব্যতার উপর তাপমাত্রার ব্যতিক্রমী প্রভাব বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2SO_4 \\cdot 10H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{KNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CuSO_4 \\cdot 5H_2O}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অধিকাংশ লবণের দ্রাব্যতা তাপমাত্রা বাড়লে বাড়ে। \\( \\mathrm{Na_2SO_4\\cdot10H_2O} \\) এর দ্রাব্যতা প্রায় 32.4°C পর্যন্ত বাড়ে, এরপর হ্রাস পায়; এটি ব্যতিক্রমী আচরণ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-056",
+      "text": "Fe এর ২২তম ইলেকট্রনের জন্য চারটি কোয়ান্টাম সংখ্যার সঠিক সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 3, l = 2, m = −1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 1, m = −1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 2, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 3, l = 1, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "Fe (Z = 26): \\( 1s^22s^22p^63s^23p^64s^23d^6 \\)। 4s পর্যন্ত 20টি ইলেকট্রন; 21তম ও 22তম ইলেকট্রন 3d তে যায়।\n3d তে ইলেকট্রন ভরার ক্রম: \\( m=-2 \\) (\\( \\uparrow \\)), \\( m=-1 \\) (\\( \\uparrow \\))। তাই 22তম ইলেকট্রন: \\( n=3,\\ l=2,\\ m=-1,\\ s=+\\frac{1}{2} \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-057",
+      "text": "হাইড্রোজেন পরমাণুর বর্ণালির কোন সিরিজটি দৃশ্যমান অঞ্চলে রেখা দেখায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বামার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লাইমেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্যাশ্চেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্র্যাকেট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হাইড্রোজেন বর্ণালির বামার সিরিজ (\\( n_1 = 2 \\)) দৃশ্যমান অঞ্চলে পড়ে। লাইম্যান UV এবং প্যাশ্চেন ও ব্র্যাকেট অবলোহিত অঞ্চলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-058",
+      "text": "সহকারী কোয়ান্টাম সংখ্যা দ্বারা কী পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রধান শক্তিস্তর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপ-শক্তিস্তর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অরবিট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইলেকট্রনের ঘূর্ণনের দিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সহকারী (দিগংশ) কোয়ান্টাম সংখ্যা \\( l \\) দ্বারা প্রধান শক্তিস্তরের অন্তর্গত উপ-শক্তিস্তর (s, p, d, f) এবং অরবিটালের আকৃতি জানা যায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-059",
+      "text": "\\(\\mathrm{Pb_3(PO_4)_2}\\) এর দ্রাব্যতা গুণফল \\(1.5 \\times 10^{-22}\\) হলে এটির দ্রাব্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.39 \\times 10^{-24}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5.55 \\times 10^{-24}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.75 \\times 10^{-23}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.69 \\times 10^{-5}\\) mol\\(L^{-1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{Pb_3(PO_4)_2 \\rightleftharpoons 3Pb^{2+} + 2PO_4^{3-}} \\)\n\\( K_{sp} = (3S)^3(2S)^2 = 108S^5 \\)\n\\( S^5 = \\frac{1.5\\times10^{-22}}{108} = 1.389\\times10^{-24} \\Rightarrow S = 1.69\\times10^{-5}\\ \\mathrm{mol\\,L^{-1}} \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-060",
+      "text": "AB এর দ্রাব্যতা গুণফল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "দুটি পাত্রে যথাক্রমে 100 mL 0.30M AB দ্রবণ এবং 100 mL 0.01M CD দ্রবণ আছে। AD এর \\(K_{sp} = 2.5 \\times 10^{-2}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-SB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.30",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.06",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.09",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.9",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "AB সম্পৃক্ত দ্রবণ ধরলে \\( \\mathrm{AB \\rightleftharpoons A^+ + B^-} \\), \\( [A^+]=[B^-]=0.30\\ \\mathrm{M} \\)\n\\( K_{sp}(AB) = 0.30\\times0.30 = 0.09 \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-061",
+      "text": "উদ্দীপকের দ্রবণ দুটি মিশ্রিত করলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "দুটি পাত্রে যথাক্রমে 100 mL 0.30M AB দ্রবণ এবং 100 mL 0.01M CD দ্রবণ আছে। AD এর \\(K_{sp} = 2.5 \\times 10^{-2}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-SB-14-15",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অধঃক্ষেপ সৃষ্টি হবে"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রবণ পরিষ্কার হবে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K_{sp} > K_{ip}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মিশ্রণের পর আয়তন 200 mL, তাই \\( [A^+] = 0.15\\ \\mathrm{M} \\), \\( [D^-] = 0.005\\ \\mathrm{M} \\)\nআয়নিক গুণফল \\( K_{ip} = 0.15\\times0.005 = 7.5\\times10^{-4} \\), যা \\( K_{sp}(AD) = 2.5\\times10^{-2} \\) এর চেয়ে কম।\nতাই অধঃক্ষেপ পড়বে না (i ভুল), দ্রবণ পরিষ্কার থাকবে (ii সঠিক) এবং \\( K_{sp} > K_{ip} \\) (iii সঠিক)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-062",
+      "text": "অক্সিজেন পরমাণুর অষ্টম ইলেকট্রনের জন্য নিচের কোন চারটি কোয়ান্টাম সংখ্যার সেটটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 2, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 2, l = 1, m = 1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 2, l = 1, m = −1, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 2, l = 2, m = +1, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "O (Z = 8): \\( 1s^22s^22p^4 \\)। অষ্টম ইলেকট্রন 2p এর চতুর্থ ইলেকট্রন, যা প্রথম 2p অরবিটালে (\\( m=-1 \\)) জোড় বাঁধে, তাই \\( s=-\\frac{1}{2} \\)।\n\\( n=2,\\ l=1,\\ m=-1,\\ s=-\\frac{1}{2} \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-063",
+      "text": "\\(\\mathrm{HgI_2}\\) এর সম্পৃক্ত দ্রবণে KI এর দ্রবণ যোগ করলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{HgI_2}\\) এর দ্রাব্যতা হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "জটিল যৌগ গঠিত হবে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{HgI_2}\\) এর দ্রাব্যতা বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{HgI_2} \\) এ অতিরিক্ত KI যোগ করলে জটিল আয়ন \\( \\mathrm{[HgI_4]^{2-}} \\) গঠিত হয় (ii সঠিক), ফলে \\( \\mathrm{HgI_2} \\) এর দ্রাব্যতা বৃদ্ধি পায় (iii সঠিক); সাধারণ সমআয়নের প্রভাবে দ্রাব্যতা হ্রাস পাওয়া (i) এখানে ঘটে না।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-064",
+      "text": "জাল টাকা শনাক্তকরণে ব্যবহৃত আলোকের তরঙ্গদৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10 – 380 nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "230 – 375 nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10 – 230 nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200 – 370 nm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জাল টাকা শনাক্তকরণে 230–375 nm তরঙ্গদৈর্ঘ্যের অতিবেগুনি (UV) আলো ব্যবহৃত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-065",
+      "text": "ভিন্ন ভিন্ন শক্তির উপশক্তিস্তরে ইলেকট্রনগুলো প্রবেশের ক্ষেত্রে কোন নীতি অনুসরণ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আউফবাউ নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুন্ডের নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পাউলির বর্জন নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাইজেনবার্গের অনিশ্চয়তা নীতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিভিন্ন শক্তির উপশক্তিস্তরে ইলেকট্রন প্রবেশের ক্ষেত্রে আউফবাউ নীতি প্রযোজ্য; ইলেকট্রন প্রথমে নিম্ন শক্তির অরবিটালে প্রবেশ করে। হুন্ডের নীতি সমশক্তির অরবিটালের জন্য এবং পাউলির নীতি একই অরবিটালের ইলেকট্রনের স্পিনের জন্য।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-066",
+      "text": "কোনো পরমাণুর ২২ তম ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার কোন সেটটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 3, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 2, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 2, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "২২তম ইলেকট্রন Ti এর \\(1s^22s^22p^63s^23p^64s^23d^2\\) বিন্যাসে দ্বিতীয় 3d ইলেকট্রন; তাই \\(n = 3,\\ l = 2\\)। বিকল্পগুলোর মধ্যে কেবল (খ) এ \\(n=3,\\ l=2\\) আছে; (ক) 3s, (গ) ও (ঘ) এর n = 4 হওয়ায় ২২তম ইলেকট্রনের সাথে মেলে না।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: হুন্ডের নীতি অনুযায়ী Ti এর ২২তম ইলেকট্রনের সঠিক সেট \\(n=3, l=2, m=-1, s=+\\frac{1}{2}\\) হওয়ার কথা; (খ) এ \\(m=-2, s=-\\frac{1}{2}\\) দিলে ইলেকট্রনটি প্রথম 3d ইলেকট্রনের সাথে যুগ্ম হয়, যা হুন্ডের নীতি-বিরুদ্ধ। তবে অন্য কোনো বিকল্পই 3d নয়, তাই (খ) কে নিকটতম উত্তর ধরা হয়েছে।"
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-067",
+      "text": "কোনটি শনাক্তকরণে পটাশিয়াম টেট্রাআয়োডো মারকিউরেট (ii) যৌগ ও NaOH মিশ্রণ ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামোনিয়াম আয়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যালসিয়াম আয়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্লোরাইড আয়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফেরাস আয়ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পটাশিয়াম টেট্রাআয়োডো মারকিউরেট (II) (\\(K_2[HgI_4]\\)) ও NaOH এর মিশ্রণ নেসলার বিকারক; এটি অ্যামোনিয়াম আয়ন (\\(NH_4^+\\)) শনাক্ত করে এবং বাদামি অধঃক্ষেপ দেয়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-068",
+      "text": "25°C তাপমাত্রায় \\(AB_2\\) এর \\(K_{sp}\\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "দ্রবণ-1: 25°C, \\(AB_2\\) এর সম্পৃক্ত জলীয় দ্রবণ, 0.01M\nদ্রবণ-2: 25°C, \\(CB_2\\) এর জলীয় দ্রবণ, 0.001M, \\(K_{sp} = 5 \\times 10^{-9}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-BB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4 \\times 10^{-7}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 \\times 10^{-6}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4 \\times 10^{-4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\times 10^{-6}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্রবণ-১ সম্পৃক্ত, তাই \\(S = 0.01\\ M\\)।\n\\(AB_2 \\rightleftharpoons A^{2+} + 2B^-\\)\n\\(K_{sp} = S \\times (2S)^2 = 4S^3 = 4 \\times (0.01)^3 = 4 \\times 10^{-6}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-069",
+      "text": "25°C তাপমাত্রায় দ্রবণ দুটির মধ্যে—",
+      "text_en": null,
+      "image": null,
+      "stem": "দ্রবণ-1: 25°C, \\(AB_2\\) এর সম্পৃক্ত জলীয় দ্রবণ, 0.01M\nদ্রবণ-2: 25°C, \\(CB_2\\) এর জলীয় দ্রবণ, 0.001M, \\(K_{sp} = 5 \\times 10^{-9}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-BB-22-23",
+      "statements": [
+        {
+          "label": "i",
+          "text": "দ্রবণ-২ এর দ্রাব্যতা কম"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রবণ-২ অসম্পৃক্ত"
+        },
+        {
+          "label": "iii",
+          "text": "সম মোল \\(B^-\\) যোগ করলে \\(CB_2\\) আগে অধঃক্ষিপ্ত হবে।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(CB_2\\) এর সম্পৃক্ত দ্রাব্যতা \\(S = \\sqrt[3]{5\\times10^{-9}/4} \\approx 1.08 \\times 10^{-3}\\ M\\), যা \\(AB_2\\) এর 0.01 M এর চেয়ে কম।\n(ii) সত্য: আয়নিক গুণফল \\(= 0.001 \\times (0.002)^2 = 4 \\times 10^{-9} < K_{sp}\\ (5\\times10^{-9})\\), তাই দ্রবণ-২ অসম্পৃক্ত।\n(iii) মিথ্যা: দ্রবণ-১ আগে থেকেই সম্পৃক্ত, তাই \\(B^-\\) যোগ করা মাত্র \\(AB_2\\) আগে অধঃক্ষিপ্ত হবে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-070",
+      "text": "বোর মডেল নিচের কোন মৌল বা আয়নের বর্ণালি ব্যাখ্যা করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "He",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H^-}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H^+}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Be^{3+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বোর মডেল কেবল এক-ইলেকট্রনবিশিষ্ট প্রজাতি (H, \\(He^+\\), \\(Li^{2+}\\), \\(Be^{3+}\\)) এর বর্ণালি ব্যাখ্যা করতে পারে। \\(Be^{3+}\\) এ একটিমাত্র ইলেকট্রন আছে; He ও \\(H^-\\) এ দুটি এবং \\(H^+\\) এ কোনো ইলেকট্রন নেই।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-071",
+      "text": "Wi-Fi তে কোন অঞ্চলের তড়িৎ চুম্বকীয় বিকিরণ ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মাইক্রো ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেডিও ওয়েভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবলোহিত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অতিবেগুনি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "Wi-Fi এ মাইক্রোওয়েভ অঞ্চলের (প্রায় 2.4 GHz ও 5 GHz) তড়িৎচুম্বকীয় বিকিরণ ব্যবহৃত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-072",
+      "text": "25°C তাপমাত্রায় \\(\\mathrm{Ag_2CrO_4}\\) এর দ্রাব্যতা গুণফলের মান \\(1.1 \\times 10^{-12}\\) হলে \\(\\mathrm{Ag^+}\\) আয়নের ঘনমাত্রা mol\\(L^{-1}\\) এককে কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.25 \\times 10^{-5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6.5 \\times 10^{-5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.3 \\times 10^{-4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.6 \\times 10^{-4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(Ag_2CrO_4 \\rightleftharpoons 2Ag^+ + CrO_4^{2-}\\)\n\\(K_{sp} = (2S)^2 \\cdot S = 4S^3 = 1.1\\times10^{-12}\\)\n\\(S = \\sqrt[3]{2.75\\times10^{-13}} = 6.5\\times10^{-5}\\ M\\)\n\\([Ag^+] = 2S = 1.3\\times10^{-4}\\ mol\\,L^{-1}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-073",
+      "text": "৪র্থ শক্তিস্তরে মোট অরবিটাল সংখ্যা কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "n তম শক্তিস্তরে মোট অরবিটাল সংখ্যা \\(n^2\\)। ৪র্থ স্তরে \\(4^2 = 16\\)টি (1টি s, 3টি p, 5টি d, 7টি f)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-074",
+      "text": "\\(\\mathrm{Cu_3(PO_4)_2}\\) এর দ্রাব্যতা S হলে, দ্রাব্যতা গুণফল হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6S^5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(36S^5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(54S^5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(108S^5\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(Cu_3(PO_4)_2 \\rightleftharpoons 3Cu^{2+} + 2PO_4^{3-}\\)\n\\(K_{sp} = (3S)^3(2S)^2 = 27S^3 \\times 4S^2 = 108S^5\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-075",
+      "text": "উচ্চ শক্তির অরবিটাল নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3d",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4f",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5p",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6s",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শক্তি \\((n+l)\\) এর মান যত বেশি, অরবিটালের শক্তি তত বেশি: 3d = 5, 4f = 7, 5p = 6, 6s = 6। সর্বোচ্চ \\((n+l)\\) হওয়ায় 4f এর শক্তি সবচেয়ে বেশি।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-076",
+      "text": "সোডিয়াম আয়ন শনাক্তকরণে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{K_4[Fe(CN)_6]}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K_2H_2Sb_2O_7}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{(NH_4)_2C_2O_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{K_2HgI_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সোডিয়াম আয়ন (\\(Na^+\\)) শনাক্তকরণে পটাশিয়াম পাইরোঅ্যান্টিমোনেট (\\(K_2H_2Sb_2O_7\\)) ব্যবহৃত হয়; এটি সাদা স্ফটিকাকার অধঃক্ষেপ দেয়।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-077",
+      "text": "পরমাণুর উপশক্তিস্তরে ইলেকট্রন ধারণ ক্ষমতা নির্ণয়ের সূত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2l+1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2(l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2(2l+1)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "একটি উপশক্তিস্তরে অরবিটাল সংখ্যা \\((2l+1)\\) এবং প্রতি অরবিটালে সর্বোচ্চ 2টি ইলেকট্রন থাকে, তাই ধারণ ক্ষমতা \\(2(2l+1)\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-078",
+      "text": "Cu এর ২৯তম ইলেকট্রনটি কোন অর্বিটালে প্রবেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3d",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4p",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "Cu (Z = 29) এর ইলেকট্রন বিন্যাস আউফবাউ নীতি অনুযায়ী \\(...4s^2 3d^9\\) ধরলে ২৯তম ইলেকট্রন 3d অরবিটালে প্রবেশ করে (পরে 4s থেকে একটি ইলেকট্রন 3d তে গিয়ে \\(3d^{10}4s^1\\) স্থিতিশীল বিন্যাস হয়)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-079",
+      "text": "উদ্দীপকের A এর সর্ব বহিঃস্থ ইলেকট্রনের চৌম্বকীয় কোয়ান্টাম সংখ্যার মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\begin{array}{|c|c|c|}\\hline \\text{পর্যায় ↓ / গ্রুপ →} & 2 & 13 \\\\ \\hline 3 & X & Z \\\\ \\hline 4 & A & Y \\\\ \\hline\\end{array}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-CUB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "−1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উদ্দীপকে A হলো ২ নং গ্রুপের ৪র্থ পর্যায়ের মৌল Ca (\\(4s^2\\))। সর্ববহিঃস্থ ইলেকট্রন s অরবিটালে (\\(l = 0\\)) থাকে, তাই চৌম্বকীয় কোয়ান্টাম সংখ্যা \\(m = 0\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-080",
+      "text": "25°C তাপমাত্রায় \\(\\mathrm{Ca(OH)_2}\\) এর দ্রাব্যতা গুণফল \\(4.42 \\times 10^{-5}\\) হলে \\(\\mathrm{Ca(OH)_2}\\) এর দ্রাব্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.111 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.223 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.452 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.806 \\times 10^{-2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(Ca(OH)_2 \\rightleftharpoons Ca^{2+} + 2OH^-\\)\n\\(K_{sp} = 4S^3 = 4.42\\times10^{-5}\\)\n\\(S^3 = 1.105\\times10^{-5}\\)\n\\(S = 2.223\\times10^{-2}\\ M\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-081",
+      "text": "নিচের কোন ধাতুর আয়ন শনাক্তকরণে \\(\\mathrm{K_2H_2Sb_2O_7}\\) প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Ca",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Na",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Al",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K_2H_2Sb_2O_7\\) (পটাশিয়াম পাইরোঅ্যান্টিমোনেট) দিয়ে সোডিয়াম (Na) আয়ন শনাক্ত করা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-082",
+      "text": "ক্যালসিয়ামের সর্ববহিঃস্থ স্তরের ইলেকট্রনদ্বয়ের কোয়ান্টাম সংখ্যার সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}, -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 1, m = 0, \\(s = +\\frac{1}{2}, +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 4, l = 1, m = 0, \\(s = +\\frac{1}{2}, -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 2, m = 1, \\(s = +\\frac{1}{2}, -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "Ca এর বিন্যাস \\(...4s^2\\); সর্ববহিঃস্থ ইলেকট্রনদ্বয় 4s অরবিটালে, তাই \\(n=4,\\ l=0,\\ m=0\\) এবং একই অরবিটালে থাকায় স্পিন বিপরীত (\\(+\\frac{1}{2}, -\\frac{1}{2}\\))।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-083",
+      "text": "\\(\\mathrm{_{28}Ni}\\) এর কতগুলো ইলেকট্রনের ক্ষেত্রে (n + l) = 4 হয় (এখানে, l = 1)?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(_{28}Ni: 1s^22s^22p^63s^23p^63d^84s^2\\)\n\\(l = 1\\) অর্থাৎ p অরবিটাল এবং \\((n+l) = 4\\) হলে \\(n = 3\\), অর্থাৎ 3p। 3p তে ইলেকট্রন আছে 6টি।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-084",
+      "text": "কোনটি দৃশ্যমান বর্ণালী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাইম্যান সিরিজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বামার সিরিজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্যাশ্চেন সিরিজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রাকেট সিরিজ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হাইড্রোজেন বর্ণালির বামার সিরিজ (\\(n_2 \\to 2\\)) দৃশ্যমান অঞ্চলে পড়ে। লাইম্যান অতিবেগুনি এবং প্যাশ্চেন ও ব্রাকেট অবলোহিত অঞ্চলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-085",
+      "text": "জাল পাসপোর্ট শনাক্তকরণে কোনটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "γ-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "IR-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UV-রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জাল পাসপোর্ট শনাক্তকরণে UV (অতিবেগুনি) রশ্মি ব্যবহৃত হয়; আসল পাসপোর্টের নিরাপত্তা চিহ্ন UV আলোয় বিশেষ আলো বিকিরণ করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-086",
+      "text": "নিচের কোনটি আফবাউ নীতির বিকল্প রূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n^2\\) নিয়ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2l+1\\) নিয়ম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(n+l\\) নিয়ম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2(2l+1)\\) নিয়ম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\((n+l)\\) নিয়ম আউফবাউ নীতিরই বিকল্প রূপ: \\((n+l)\\) এর মান কম হলে অরবিটালের শক্তি কম; মান সমান হলে যার n কম তার শক্তি কম।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-087",
+      "text": "রিডবার্গ ধ্রুবক (\\(R_H\\)) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.09678 \\times 10^{-2}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.09678 \\times 10^{5}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.09678 \\times 10^{6}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.09678 \\times 10^{7}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রিডবার্গ ধ্রুবকের মান \\(R_H = 1.09678 \\times 10^{7}\\ m^{-1}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2023",
+          "qno": 20,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-088",
+      "text": "কোন কণিকার স্থায়িত্ব সবচেয়ে কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইলেকট্রন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেসন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মেসন অত্যন্ত ক্ষণস্থায়ী মৌলিক কণিকা (জীবনকাল প্রায় \\(10^{-8}\\) থেকে \\(10^{-16}\\) সেকেন্ড), অন্যদিকে ইলেকট্রন ও প্রোটন স্থায়ী; তাই মেসনের স্থায়িত্ব সবচেয়ে কম।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-089",
+      "text": "কোন শক্তিস্তরে ইলেকট্রন স্থানান্তরের জন্য হাইড্রোজেনের UV বর্ণালীরেখা পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "7 → 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6 → 3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5 → 2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 → 3",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অতিবেগুনি রেখা লাইম্যান সিরিজে পাওয়া যায়, যেখানে ইলেকট্রন উচ্চতর স্তর থেকে \\(n = 1\\) স্তরে নামে। তাই \\(7 \\to 1\\)। অন্যগুলো যথাক্রমে অবলোহিত (\\(6\\to3\\)), দৃশ্যমান (\\(5\\to2\\)) ও অবলোহিত (\\(4\\to3\\)) অঞ্চলের।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-090",
+      "text": "ইলেকট্রন দ্বারা পূর্ণ হওয়ার জন্য অর্বিটালের কোন ক্রমটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4s > 3p > 4p > 5s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4s > 3d > 4p > 5s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4s > 3d > 5p > 4d",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5s > 4p > 5p > 4d",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((n+l)\\) নিয়মে: 4s = 4; 3d, 4p, 5s প্রত্যেকে = 5 (n এর মান অনুযায়ী 3d < 4p < 5s)। তাই পূর্ণ হওয়ার ক্রম 4s, 3d, 4p, 5s, যা (খ) এ আছে। (গ) তে 4d (6, n=4) আগে ও 5p (6, n=5) পরে পূর্ণ হয়, তাই ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-091",
+      "text": "\\(AX_2\\) এর দ্রাব্যতা S হলে দ্রাব্যতা গুণফল কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(S^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4S^3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(27S^4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(108S^5\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(AX_2 \\rightleftharpoons A^{2+} + 2X^-\\)\n\\(K_{sp} = S \\times (2S)^2 = 4S^3\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-092",
+      "text": "নিচের কোন কোয়ান্টাম সংখ্যার সেটটি গ্রহণযোগ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 1, l = 0, m = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 2, l = 1, m = −2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 1, m = +2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 3, l = 2, m = −3",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "n = 1 হলে কেবল \\(l = 0\\) ও \\(m = 0\\) সম্ভব। অন্য বিকল্পে \\(m\\) এর মান \\(-l\\) থেকে \\(+l\\) এর বাইরে যায় (যেমন l = 1 এ m = ±2, l = 2 এ m = −3)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-093",
+      "text": "হাইড্রোজেন পরমাণুর বর্ণালীর কোন সিরিজটি অতিবেগুণি অঞ্চলে রেখা দেখায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বামার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্যাশ্চেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রাকেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লাইম্যান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হাইড্রোজেন বর্ণালির লাইম্যান সিরিজ (\\(n_2 \\to 1\\)) অতিবেগুনি অঞ্চলে রেখা দেখায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-094",
+      "text": "গ্লোবার লবণের সংকেত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CuSO_4 \\cdot 5H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{FeSO_4 \\cdot 7H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na_2CO_3 \\cdot 10H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na_2SO_4 \\cdot 10H_2O}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গ্লোবার লবণ হলো সোডিয়াম সালফেট ডেকাহাইড্রেট, \\(Na_2SO_4\\cdot10H_2O\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-095",
+      "text": "3d অরবিটালের জন্য সহকারী কোয়ান্টাম সংখ্যার মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "d উপশক্তিস্তরের জন্য সহকারী (দিগংশ) কোয়ান্টাম সংখ্যা \\(l = 2\\) (s = 0, p = 1, d = 2, f = 3)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-096",
+      "text": "\\(\\mathrm{Ag_2CrO_4}\\) এর দ্রাব্যতা 'S' হলে দ্রাব্যতা গুণফল কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(s^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4s^3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(27s^4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(108s^5\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(Ag_2CrO_4 \\rightleftharpoons 2Ag^+ + CrO_4^{2-}\\)\n\\(K_{sp} = (2S)^2 \\cdot S = 4S^3\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-097",
+      "text": "α-কণা বিক্ষেপণ পরীক্ষা রাদারফোর্ড নিম্নের কোনটি ব্যবহার করেননি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{_4He^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বর্ণের পাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ZnS এর আবরণযুক্ত পর্দা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{^{1}_{0}n}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রাদারফোর্ড \\(\\alpha\\)-কণা (\\(He^{2+}\\)), স্বর্ণপাত ও ZnS প্রলিপ্ত পর্দা ব্যবহার করেছিলেন। নিউট্রন তখনও আবিষ্কৃত হয়নি (১৯৩২ সালে আবিষ্কৃত), তাই নিউট্রন ব্যবহৃত হয়নি।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-098",
+      "text": "নিচের কোন নীতি অনুসারে অযুগ্ম ইলেকট্রনসমূহের স্পিন একইমুখী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পলির বর্জন নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুন্ডের নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আউফবাউ নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফাযানের নীতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হুন্ডের নীতি অনুসারে সমশক্তির অরবিটালে ইলেকট্রন প্রথমে অযুগ্মভাবে একই স্পিনে প্রবেশ করে, পরে যুগ্ম হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-099",
+      "text": "হুন্ডের নীতি কোনটির ক্ষেত্রে প্রযোজ্য নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "p",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "d",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "f",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "s উপশক্তিস্তরে মাত্র একটি অরবিটাল থাকে। হুন্ডের নীতি সমশক্তির একাধিক অরবিটালের (p, d, f) ক্ষেত্রে প্রযোজ্য, তাই s এর ক্ষেত্রে নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-100",
+      "text": "X, Y ও Z মৌলসমূহের শেষ কক্ষ পথে কয়টি স্পিন কোয়ান্টাম সংখ্যা থাকে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\begin{array}{|c|c|c|c|c|c|}\\hline \\text{পর্যায় →} & 1 & 2 & 3 & 4 & 5 \\\\ \\hline \\text{গ্রুপ-2 এর মৌল} & – & X & Y & Z & Ba \\\\ \\hline\\end{array}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "18",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "X, Y, Z যথাক্রমে Be, Mg, Ca; প্রত্যেকের শেষ কক্ষপথে \\(ns^2\\) অর্থাৎ একই অরবিটালে দুটি ইলেকট্রন থাকে, যাদের স্পিন \\(+\\frac{1}{2}\\) ও \\(-\\frac{1}{2}\\)। তাই স্পিন কোয়ান্টাম সংখ্যার মান 2টি।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-101",
+      "text": "\\(\\mathrm{Ca(OH)_2}\\)-এর দ্রাব্যতা 0.03 (M) হলে \\(K_{SP}\\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.7 \\times 10^{-5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.8 \\times 10^{-5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.08 \\times 10^{-4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7.29 \\times 10^{-4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(Ca(OH)_2 \\rightleftharpoons Ca^{2+} + 2OH^-\\)\n\\(K_{sp} = 4S^3 = 4 \\times (0.03)^3 = 4 \\times 2.7\\times10^{-5} = 1.08\\times10^{-4}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-102",
+      "text": "বর্ণালি বিকিরণের ক্ষেত্রে কোন সিরিজ ব্যতিক্রম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্রাকেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্যাশ্চেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বামার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হামফ্রেস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্রাকেট, প্যাশ্চেন ও হামফ্রেস সিরিজ অবলোহিত অঞ্চলে, কিন্তু বামার সিরিজ দৃশ্যমান অঞ্চলে পড়ে; তাই বামার ব্যতিক্রম।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-103",
+      "text": "অ্যালুমিনিয়াম হাইড্রোক্সাইডের দ্রাব্যতার গুণফল \\(3.7 \\times 10^{-15}\\) হলে এর দ্রাব্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4.28 \\times 10^{-3}\\,\\mathrm{gL^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.42 \\times 10^{-3}\\,\\mathrm{gL^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.24 \\times 10^{-3}\\,\\mathrm{gL^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(8.44 \\times 10^{-3}\\,\\mathrm{gL^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(Al(OH)_3 \\rightleftharpoons Al^{3+} + 3OH^-\\)\n\\(K_{sp} = S \\times (3S)^3 = 27S^4 = 3.7\\times10^{-15}\\)\n\\(S^4 = 1.37\\times10^{-16}\\) ⇒ \\(S = 1.082\\times10^{-4}\\ mol\\,L^{-1}\\)\nমোলার ভর 78 g/mol, তাই \\(S = 1.082\\times10^{-4}\\times78 = 8.44\\times10^{-3}\\ g\\,L^{-1}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-104",
+      "text": "ব্রাকেট সিরিজ কোন অঞ্চলের পারমাণবিক বর্ণালি সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতিবেগুনি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবলোহিত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাইক্রোওয়েভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দৃশ্যমান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্রাকেট সিরিজ (\\(n_2 \\to 4\\)) অবলোহিত (IR) অঞ্চলে পড়ে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-105",
+      "text": "10mL 0.5M \\(\\mathrm{CaCl_2}\\) দ্রবণের 5mL 0.5M \\(\\mathrm{K_2CrO_4}\\) দ্রবণ যোগ করা হলে— (\\(\\mathrm{CaCrO_4}\\) এর \\(K_{sp} = 2.3 \\times 10^{-2}\\))",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অধঃক্ষেপ সৃষ্টি হবে।"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রবণ পরিষ্কার থাকবে।"
+        },
+        {
+          "label": "iii",
+          "text": "দ্রাব্যতা গুণফল আয়নিক গুণফল হতে বেশি হবে।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মিশ্রণের আয়তন 15 mL:\n\\([Ca^{2+}] = \\frac{0.5\\times10}{15} = 0.333\\ M\\), \\([CrO_4^{2-}] = \\frac{0.5\\times5}{15} = 0.167\\ M\\)\nআয়নিক গুণফল \\(= 0.333\\times0.167 = 5.56\\times10^{-2} > K_{sp}\\ (2.3\\times10^{-2})\\)\nতাই অধঃক্ষেপ পড়বে; (i) সত্য। (ii) মিথ্যা। (iii) মিথ্যা, কারণ এখানে আয়নিক গুণফল \\(K_{sp}\\) এর চেয়ে বেশি।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-106",
+      "text": "লবণের দ্রবণ + \\(\\mathrm{Ba(NO_3)_2}\\) ⟶ B \\(\\xrightarrow{\\text{HCl}}\\) 'C' + \\(\\mathrm{CO_2 + H_2O}\\) [B একটি সাদা অধঃক্ষেপ]\n'C' যৌগের সংকেত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{BaSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{BaCl_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{BaCO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "B হলো \\(BaCO_3\\) (সাদা অধঃক্ষেপ), কারণ \\(CO_2\\) নির্গত হয়। বিক্রিয়াটি:\n\\(BaCO_3 + 2HCl \\to BaCl_2 + CO_2 + H_2O\\)\nঅতএব C হলো \\(BaCl_2\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-107",
+      "text": "IR রশ্মি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেহের তাপমাত্রা হ্রাস করে।",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এনজাইমের কার্যকারিতা হ্রাস করে।",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধমনী ও শিরা প্রশস্ত করে।",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রক্ত সঞ্চালন হ্রাস করে।",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "IR রশ্মি ধমনী ও শিরা প্রশস্ত করে রক্ত সঞ্চালন বাড়ায়, তাই ফিজিওথেরাপিতে ব্যবহৃত হয়; এটি দেহের তাপমাত্রা বাড়ায়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-108",
+      "text": "কোনটি আইসোটোন এর উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{^{40}_{18}Ar, ^{40}_{19}K, ^{40}_{20}Ca}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{^{36}_{16}S, ^{37}_{17}Cl, ^{39}_{19}K}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{^{39}_{20}Ca, ^{40}_{20}Ca, ^{41}_{20}Ca}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{^{40}_{19}K, ^{40}_{20}Ca, ^{39}_{21}Sc}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আইসোটোনে নিউট্রন সংখ্যা সমান। (খ) তে নিউট্রন সংখ্যা: \\(^{36}_{16}S\\) = 20, \\(^{37}_{17}Cl\\) = 20, \\(^{39}_{19}K\\) = 20। (ক) ও (ঘ) আইসোবার (ভর সংখ্যা সমান) এবং (গ) আইসোটোপ।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-109",
+      "text": "উপশক্তিস্তরে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2(2l+1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2n^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একটি উপশক্তিস্তরে অরবিটাল সংখ্যা \\((2l+1)\\) এবং প্রতি অরবিটালে সর্বোচ্চ 2টি ইলেকট্রন, তাই সর্বোচ্চ ধারণ ক্ষমতা \\(2(2l+1)\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-110",
+      "text": "\\(\\mathrm{_{19}K}\\) এর সর্বশেষ শক্তিস্তরের ইলেকট্রনের জন্য কোন সেটটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 3, l = 2, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 1, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 2, m = +2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(_{19}K: ...4s^1\\); সর্বশেষ ইলেকট্রন 4s অরবিটালে, তাই \\(n=4,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-111",
+      "text": "আপতিত রশ্মি \\(\\xrightarrow{\\text{UV}}\\) [আসল টাকা] ⟶ বিকিরিত রশ্মি\nবিকিরিত রশ্মির তরঙ্গদৈর্ঘ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10—380 nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "380—780 nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "780—\\(10^6\\) nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^6\\)—\\(10^9\\) nm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "UV রশ্মি আপতিত হলে আসল টাকা থেকে বিকিরিত রশ্মির তরঙ্গদৈর্ঘ্য 10–380 nm (অতিবেগুনি অঞ্চলের) ধরা হয়েছে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Fluorescent security features on a genuine note glow with visible light (380–780 nm) under UV; the printed key ক gives the UV range itself. | উত্তর যাচাই: আসল টাকায় UV আলো পড়লে নিরাপত্তা চিহ্ন UV শোষণ করে দৃশ্যমান আলো (380–780 nm) বিকিরণ করে (ফ্লুরোসেন্স), তাই বিকিরিত রশ্মির তরঙ্গদৈর্ঘ্যের সঠিক উত্তর (খ) বলে মনে হয়; 10–380 nm হলো আপতিত UV রশ্মির পাল্লা।"
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-112",
+      "text": "পরমাণুর তৃতীয় কক্ষপথের একটি ইলেকট্রনের জন্য কৌণিক ভরবেগের মান নির্ণয়ের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(mvr = \\frac{h}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(mvr = \\frac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(mvr = \\frac{3h}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(mvr = \\frac{3h}{\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বোরের শর্ত অনুযায়ী কৌণিক ভরবেগ \\(mvr = \\frac{nh}{2\\pi}\\)। তৃতীয় কক্ষপথে \\(n = 3\\), তাই \\(mvr = \\frac{3h}{2\\pi}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-113",
+      "text": "অসীম দূরত্বের শক্তিস্তর হতে একটি ইলেকট্রন চতুর্থ শক্তিস্তরে স্থানান্তরিত হলে বিকিরিত রশ্মিটি কোন সিরিজভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাইমেন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বামার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রাকেট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\infty\\) থেকে \\(n = 4\\) এ নামলে নিম্নতর স্তর \\(n_1 = 4\\), যা ব্রাকেট সিরিজের বৈশিষ্ট্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-114",
+      "text": "Mn পরমাণুতে কয়টি অযুগ্ম ইলেকট্রন আছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(Mn\\ (Z=25): [Ar]3d^54s^2\\); 3d এর পাঁচটি অরবিটালে হুন্ডের নীতি অনুসারে ৫টি ইলেকট্রন অযুগ্ম থাকে, 4s এ যুগ্ম।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-115",
+      "text": "কোন বিকিরিত রশ্মির তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাজাগতিক রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X-ray",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "UV- রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Visible ray",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তরঙ্গদৈর্ঘ্যের ক্রম: মহাজাগতিক রশ্মি < X-ray < UV < দৃশ্যমান আলো। তাই দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-116",
+      "text": "\\(LM_2\\) এর দ্রাব্যতা 0.0003 mol\\(L^{-1}\\) হলে এর দ্রাব্যতা গুণফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.08 \\times 10^{-11}\\,\\mathrm{mol^3L^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.08 \\times 10^{-10}\\,\\mathrm{mol^3L^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9.0 \\times 10^{-8}\\,\\mathrm{mol^2L^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9.0 \\times 10^{-7}\\,\\mathrm{mol^2L^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(LM_2 \\rightleftharpoons L^{2+} + 2M^-\\)\n\\(K_{sp} = S(2S)^2 = 4S^3 = 4\\times(3\\times10^{-4})^3 = 4\\times2.7\\times10^{-11} = 1.08\\times10^{-10}\\ mol^3L^{-3}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-117",
+      "text": "Cr পরমাণুর সর্ববহিঃস্থ স্তরের ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার সেট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n = 4, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "n = 3, l = 0, m = 0, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n = 3, l = 2, m = +2, \\(s = +\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n = 4, l = 2, m = −2, \\(s = -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "Cr (Z = 24) এর স্থিতিশীল বিন্যাস \\(3d^54s^1\\); সর্ববহিঃস্থ স্তর 4s, তাই \\(n=4,\\ l=0,\\ m=0,\\ s=+\\frac{1}{2}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-118",
+      "text": "জাল পাসপোর্ট শনাক্তকরণে কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UV রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "IR রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "γ-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "X-রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জাল পাসপোর্ট শনাক্তকরণে UV রশ্মি ব্যবহৃত হয়, কারণ আসল পাসপোর্টের নিরাপত্তা চিহ্ন UV আলোয় দৃশ্যমান হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-119",
+      "text": "দ্রাব্যতা গুণফলের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্বল্প দ্রবণীয় লবণ হতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রবণের তাপমাত্রা নির্দিষ্ট হতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "অসম্পৃক্ত দ্রবণ হতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: দ্রাব্যতা গুণফল কেবল স্বল্প দ্রবণীয় লবণের ক্ষেত্রে প্রযোজ্য। (ii) সত্য: এটি তাপমাত্রার উপর নির্ভরশীল, তাই তাপমাত্রা নির্দিষ্ট হতে হবে। (iii) মিথ্যা: \\(K_{sp}\\) সম্পৃক্ত দ্রবণের আয়নিক গুণফল; অসম্পৃক্ত দ্রবণে আয়নিক গুণফল \\(K_{sp}\\) এর কম।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-120",
+      "text": "চিকিৎসা বিজ্ঞানে ফিজিওথেরাপিতে কোনটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "X-ray",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "IR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MRI",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "UV",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফিজিওথেরাপিতে অবলোহিত (IR) রশ্মি ব্যবহৃত হয়, কারণ এটি তাপ উৎপন্ন করে পেশি ও রক্তনালী প্রসারিত করে এবং ব্যথা কমায়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-121",
+      "text": "প্রোটনের প্রকৃত ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.60 \\times 10^{-24}\\) g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.66 \\times 10^{-24}\\) g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.673 \\times 10^{-24}\\) g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.675 \\times 10^{-24}\\) g",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রোটনের প্রকৃত ভর \\(1.673\\times10^{-24}\\ g\\) (\\(1.673\\times10^{-27}\\ kg\\))।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-122",
+      "text": "পরমাণুর ৩য় শক্তিস্তরে ঘূর্ণনরত ইলেকট্রনের কৌণিক ভরবেগ এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{nh}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2h}{4\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3h}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{9h}{2\\pi}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বোরের শর্ত: \\(mvr = \\frac{nh}{2\\pi}\\); ৩য় স্তরে \\(n = 3\\), তাই কৌণিক ভরবেগ \\(= \\frac{3h}{2\\pi}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-123",
+      "text": "200g \\(\\mathrm{NH_4Cl}\\) এর সম্পৃক্ত দ্রবণকে 50°C থেকে 25°C তাপমাত্রায় ঠান্ডা করলে কত গ্রাম \\(\\mathrm{NH_4Cl}\\) কেলাসিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/chemistry_1st-ch2-mcq-123-stem.svg",
+      "group": "chemistry_1st-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "25",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "75",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লেখচিত্র অনুযায়ী দ্রাব্যতা 50°C এ 60 g ও 25°C এ 40 g (প্রতি 100 g পানিতে)।\n50°C এ 160 g সম্পৃক্ত দ্রবণে \\(NH_4Cl\\) = 60 g, তাই 200 g দ্রবণে \\(NH_4Cl = \\frac{60\\times200}{160} = 75\\ g\\) ও পানি = 125 g।\n25°C এ 125 g পানিতে দ্রবীভূত হয় \\(\\frac{40\\times125}{100} = 50\\ g\\)।\nকেলাসিত \\(NH_4Cl = 75 - 50 = 25\\ g\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-124",
+      "text": "উদ্দীপকের যৌগটির অ্যানায়ন শনাক্তকরণে কোন বিকারকটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/chemistry_1st-ch2-mcq-123-stem.svg",
+      "group": "chemistry_1st-2023-SB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{AgNO_3}\\) ও \\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K_4[Fe(CN)_6]}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "KOH যুক্ত \\(\\mathrm{K_2[HgI_4]}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উদ্দীপকের যৌগ \\(NH_4Cl\\); এর অ্যানায়ন \\(Cl^-\\)। \\(AgNO_3\\) যোগ করলে সাদা \\(AgCl\\) অধঃক্ষেপ পড়ে, যা \\(NH_4OH\\) এ দ্রবীভূত হয় (\\([Ag(NH_3)_2]Cl\\) গঠন)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-125",
+      "text": "পরমাণুর ৩য় শক্তিস্তরের জন্য 'm' এর মান কতটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "n তম স্তরে মোট অরবিটাল সংখ্যা \\(n^2\\), আর প্রতিটি অরবিটালের জন্য একটি করে m। ৩য় স্তরে \\(l = 0, 1, 2\\) এর জন্য m যথাক্রমে 1 + 3 + 5 = 9টি।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-126",
+      "text": "কোন রশ্মির তরঙ্গদৈর্ঘ্য অধিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "UV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X-ray",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MW",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "IR",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তরঙ্গদৈর্ঘ্যের ক্রম: X-ray < UV < IR < মাইক্রোওয়েভ (MW)। তাই MW এর তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch2-mcq-127",
+      "text": "নেসলার বিকারক ব্যবহার করা হয় নিচের কোন আয়ন শনাক্তকরণে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K^+}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4^+}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নেসলার বিকারক (\\(K_2[HgI_4]\\) ও KOH/NaOH) অ্যামোনিয়াম আয়ন (\\(NH_4^+\\)) শনাক্ত করে; বাদামি অধঃক্ষেপ পাওয়া যায়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="400" height="240" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="60" y1="45" x2="60" y2="185" />
+<line x1="340" y1="45" x2="340" y2="185" />
+<line x1="60" y1="45" x2="150" y2="45" />
+<path d="M150.0,45.0 L156.0,45.0 L163.3,40.0 L178.0,50.0 L192.7,40.0 L207.3,50.0 L222.0,40.0 L236.7,50.0 L244.0,45.0 L250.0,45.0" />
+<line x1="250" y1="45" x2="340" y2="45" />
+<text x="200" y="31" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">10Ω</text>
+<line x1="60" y1="115" x2="125" y2="115" />
+<path d="M125.0,115.0 L130.0,115.0 L135.0,110.0 L145.0,120.0 L155.0,110.0 L165.0,120.0 L170.0,115.0 L175.0,115.0" />
+<line x1="175" y1="115" x2="215" y2="115" />
+<path d="M215.0,115.0 L220.0,115.0 L225.0,110.0 L235.0,120.0 L245.0,110.0 L255.0,120.0 L260.0,115.0 L265.0,115.0" />
+<line x1="265" y1="115" x2="340" y2="115" />
+<text x="150" y="137" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">5Ω</text>
+<text x="240" y="137" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">5Ω</text>
+<line x1="60" y1="185" x2="190" y2="185" />
+<line x1="190" y1="173" x2="190" y2="197" />
+<line x1="198" y1="179" x2="198" y2="191" stroke-width="3"/>
+<line x1="198" y1="185" x2="340" y2="185" />
+<text x="180" y="177" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">+</text>
+<text x="208" y="177" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">−</text>
+<text x="200" y="225" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none"><tspan font-style="italic">E</tspan> = 3V, <tspan font-style="italic">r</tspan> = 0·5Ω</text>
+<line x1="60" y1="107" x2="60" y2="81" marker-end="url(#ar)"/>
+<text x="52" y="91" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="13" font-style="italic" fill="#111" stroke="none">I<tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<line x1="66" y1="115" x2="108" y2="115" marker-end="url(#ar)"/>
+<text x="88" y="107" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" font-style="italic" fill="#111" stroke="none">I<tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<line x1="340" y1="59" x2="340" y2="85" marker-end="url(#ar)"/>
+<line x1="340" y1="129" x2="340" y2="155" marker-end="url(#ar)"/>
+<circle cx="60" cy="115" r="3" fill="#111"/>
+<circle cx="340" cy="115" r="3" fill="#111"/>
+
+</g>
+</svg>

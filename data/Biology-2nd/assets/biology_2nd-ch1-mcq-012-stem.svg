@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#111" stroke-width="1.5"/></marker></defs>
+<rect width="240" height="320" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104,48 C100,62 96,74 84,86 C58,104 44,150 46,196 C50,250 88,290 120,298 C152,292 190,246 192,196 C194,150 180,104 156,86 C146,74 142,62 138,48 Z" fill="#fff"/>
+<ellipse cx="121" cy="46" rx="18" ry="8" fill="#fff"/><ellipse cx="121" cy="46" rx="11" ry="4.5"/>
+<path d="M104,52 C112,57 130,57 138,52"/><path d="M107,56 V50 M112,58 V52 M117,59 V53 M122,59 V53 M127,59 V53 M132,58 V52 M136,56 V50" stroke-width="1"/>
+<circle cx="121" cy="86" r="3"/>
+<circle cx="121" cy="124" r="15" fill="#fff"/><circle cx="121" cy="124" r="7"/>
+<path d="M121,109 V117 M121,131 V139 M106,124 H114 M128,124 H136 M110,113 L116,119 M132,113 L126,119 M110,135 L116,129 M132,135 L126,129" stroke-width="1"/>
+</g></svg>

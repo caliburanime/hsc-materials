@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="170" viewBox="0 0 360 170">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="360" height="170" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="28.0" cy="75.0" r="4.0" fill="#111" stroke="none"/>
+<circle cx="332.0" cy="75.0" r="4.0" fill="#111" stroke="none"/>
+<line x1="28.0" y1="75.0" x2="332.0" y2="75.0" />
+<polyline points="120.0,75.0 120.0,25.0 240.0,25.0 240.0,75.0" />
+<polyline points="120.0,75.0 120.0,125.0 240.0,125.0 240.0,75.0" />
+<rect x="150" y="62" width="60" height="26" fill="#fff" stroke="none"/>
+<polyline points="135.0,75.0 148.5,75.0 153.8,84.0 164.2,66.0 174.8,84.0 185.2,66.0 195.8,84.0 206.2,66.0 211.5,75.0 225.0,75.0" />
+<rect x="150" y="112" width="60" height="26" fill="#fff" stroke="none"/>
+<polyline points="135.0,125.0 148.5,125.0 153.8,134.0 164.2,116.0 174.8,134.0 185.2,116.0 195.8,134.0 206.2,116.0 211.5,125.0 225.0,125.0" />
+<text x="180.0" y="57.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >2Ω</text>
+<text x="180.0" y="108.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >2Ω</text>
+<text x="20.0" y="60.0" font-size="15.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >P</text>
+<text x="342.0" y="60.0" font-size="15.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >Q</text>
+</g>
+</svg>

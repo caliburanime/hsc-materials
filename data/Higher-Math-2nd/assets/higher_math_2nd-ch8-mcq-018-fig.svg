@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 170" width="320" height="170">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="320" height="170" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" font-family="serif" >
+<line x1="60" y1="90" x2="250" y2="90"/>
+<line x1="60" y1="90" x2="60" y2="22" marker-end="url(#a)"/>
+<line x1="250" y1="90" x2="250" y2="158" marker-end="url(#a)"/>
+<text x="46" y="112" fill="#111" stroke="none" font-size="16" font-style="italic">P</text>
+<text x="256" y="82" fill="#111" stroke="none" font-size="16" font-style="italic">Q</text>
+<text x="70" y="40" fill="#111" stroke="none" font-size="16" font-style="italic">A</text>
+<text x="84" y="40" fill="#111" stroke="none" font-size="16" >= 4N</text>
+<text x="176" y="130" fill="#111" stroke="none" font-size="16" font-style="italic">B</text>
+<text x="190" y="130" fill="#111" stroke="none" font-size="16" >= 20N</text>
+</g>
+</svg>

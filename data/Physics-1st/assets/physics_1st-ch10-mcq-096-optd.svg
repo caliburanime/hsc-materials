@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 125" width="160" height="125">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="160" height="125" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M30,100 L150,100" marker-end="url(#ar)"/><path d="M30,100 L30,12" marker-end="url(#ar)"/><path d="M30,25 L135,100"/><text x="20" y="106" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">O</text><text x="142" y="118" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">T</text><text x="18" y="24" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">E<tspan baseline-shift="sub" font-size="9">k</tspan></text>
+</g></svg>

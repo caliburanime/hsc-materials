@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="135" viewBox="0 0 160 135">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="160" height="135" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="88.0" cy="56.0" r="34.0" />
+<line x1="15.0" y1="56.0" x2="64.0" y2="56.0" />
+<line x1="64.0" y1="38.0" x2="64.0" y2="74.0" stroke-width="3.00"/>
+<line x1="64.0" y1="48.0" x2="104.0" y2="26.0" />
+<line x1="104.0" y1="26.0" x2="150.0" y2="26.0" />
+<line x1="64.0" y1="64.0" x2="106.0" y2="85.0" />
+<line x1="106.0" y1="85.0" x2="106.0" y2="125.0" stroke-width="2.70"/>
+<polygon points="80.0,39.2 85.5,32.5 88.6,38.1" fill="#111"/>
+<text x="27.0" y="48.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >B</text>
+<text x="140.0" y="20.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >C</text>
+<text x="120.0" y="118.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >E</text>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 80" width="150" height="80">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="150" height="80" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M40,15 C65,15 90,22 105,40 C90,58 65,65 40,65 Q56,40 40,15 Z"/>
+<path d="M30,15 Q46,40 30,65"/>
+<path d="M10,28 L36,28"/>
+<path d="M10,52 L36,52"/>
+<circle cx="109" cy="40" r="4" fill="#fff"/>
+<path d="M113,40 L145,40"/>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 160" width="340" height="160">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="340" height="160" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M170,35.0 H196.0 A20.0,20.0 0 0 1 196.0,75.0 H170 Z" />
+<circle cx="220" cy="55" r="4"/>
+<line x1="224" y1="55" x2="300" y2="55" />
+<circle cx="300" cy="55" r="3" fill="#111"/>
+<text x="312" y="60" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="15" fill="#111" stroke="none"><tspan font-style="italic">Y</tspan></text>
+<circle cx="25" cy="45" r="3" fill="#111"/>
+<line x1="25" y1="45" x2="170" y2="45" />
+<text x="12" y="49" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="15" fill="#111" stroke="none"><tspan font-style="italic">A</tspan></text>
+<path d="M85,105.0 H111.0 A20.0,20.0 0 0 1 111.0,145.0 H85 Z" />
+<circle cx="135" cy="125" r="4"/>
+<circle cx="25" cy="125" r="3" fill="#111"/>
+<line x1="25" y1="125" x2="60" y2="125" />
+<text x="12" y="130" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="15" fill="#111" stroke="none"><tspan font-style="italic">B</tspan></text>
+<line x1="60" y1="115" x2="60" y2="135" />
+<line x1="60" y1="115" x2="85" y2="115" />
+<line x1="60" y1="135" x2="85" y2="135" />
+<path d="M139,125 H150 V65 H170" />
+
+</g>
+</svg>

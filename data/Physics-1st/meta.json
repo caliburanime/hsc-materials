@@ -1,0 +1,111 @@
+{
+  "subject_id": "physics_1st",
+  "subject_name": "পদার্থবিজ্ঞান প্রথম পত্র",
+  "subject_name_en": "Physics 1st Paper",
+  "subject_code": 174,
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "ভৌতজগৎ ও পরিমাপ",
+      "name_en": "Physical World and Measurement"
+    },
+    {
+      "number": 2,
+      "name": "ভেক্টর",
+      "name_en": "Vector"
+    },
+    {
+      "number": 3,
+      "name": "গতিবিদ্যা",
+      "name_en": "Dynamics"
+    },
+    {
+      "number": 4,
+      "name": "নিউটনিয়ান বলবিদ্যা",
+      "name_en": "Newtonian Mechanics"
+    },
+    {
+      "number": 5,
+      "name": "কাজ, শক্তি ও ক্ষমতা",
+      "name_en": "Work, Energy and Power"
+    },
+    {
+      "number": 6,
+      "name": "মহাকর্ষ ও অভিকর্ষ",
+      "name_en": "Gravitation and Gravity"
+    },
+    {
+      "number": 7,
+      "name": "পদার্থের গাঠনিক ধর্ম",
+      "name_en": "Structural Properties of Matter"
+    },
+    {
+      "number": 8,
+      "name": "পর্যাবৃত্ত গতি",
+      "name_en": "Periodic Motion"
+    },
+    {
+      "number": 9,
+      "name": "তরঙ্গ",
+      "name_en": "Waves"
+    },
+    {
+      "number": 10,
+      "name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "name_en": "Ideal Gas and Kinetic Theory of Gases"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ]
+}

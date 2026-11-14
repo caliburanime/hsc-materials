@@ -1,0 +1,241 @@
+{
+  "subject": "physics_1st",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch3-mcq-001",
+      "text": "একটি বস্তুর বেগ \\(v = (6t^2 + 3t)\\,\\mathrm{ms^{-1}}\\), 3s পরে বস্তুর সরণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "90m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "67.5m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "63m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "27m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( s = \\int_0^3 (6t^2+3t)\\,dt = \\left[2t^3 + \\frac{3}{2}t^2\\right]_0^3 \\)\n\\( = 54 + 13.5 = 67.5 \\) m",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-002",
+      "text": "h উচ্চতা থেকে ভূমিতে পড়ার ক্ষেত্রে শেষ বেগ v হলে প্রয়োজনীয় সময় নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{2v}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{v}{2g}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{v}{g}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{v^2}{2g}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v = gt\\) থেকে \\(t = \\frac{v}{g}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-003",
+      "text": "পানি থেকে 19.6 m উপরে থাকা ব্রিজ থেকে একটি বস্তুকে নৌকার উপর ফেলার জন্য ছেড়ে দেওয়া হলো তখন নৌকাটি ব্রিজ থেকে 6m দূরে থাকলে নৌকার দ্রুতি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.33m/s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2m/s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3m/s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12m/s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পতনকাল \\(t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\times 19.6}{9.8}} = 2\\,\\mathrm{s}\\)\nনৌকার দ্রুতি \\(= \\frac{6}{2} = 3\\,\\mathrm{m/s}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-004",
+      "text": "একটি কার ও একটি মোটর সাইকেল একই দিকে যথাক্রমে \\(v_c\\) ও \\(v_m\\) বেগে গতিশীল হলে কারের সাপেক্ষে মোটর সাইকেলের আপেক্ষিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(v_c - v_m\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(v_m - v_c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(v_c + v_m\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{v_c}{v_m}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কারের সাপেক্ষে মোটর সাইকেলের আপেক্ষিক বেগ \\( = v_m - v_c \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-005",
+      "text": "গ্যালিলিও সূত্র প্রযোজ্য হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমতলে গতিশীল বস্তুর ক্ষেত্রে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বস্তু ও তলের মধ্যে ঘর্ষণ থাকলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনা বাধায় পড়ন্ত বস্তুর ক্ষেত্রে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাতাসের বাধা থাকলে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্যালিলিওর সূত্র বিনা বাধায় (শুধু অভিকর্ষের প্রভাবে) মুক্তভাবে পড়ন্ত বস্তুর ক্ষেত্রে প্রযোজ্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-006",
+      "text": "100 kg ভরের একটি পাথরকে 200 m উঁচু থেকে ফেলে দেয়া হলো। বাতাসের বাধা অগ্রাহ্য করা হলে এবং \\(g = 9.8\\,\\mathrm{ms^{-2}}\\) হলে 3s পর পাথরটি মাটি থেকে কত উঁচুতে থাকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "14.7 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "44.1 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "155.9 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "185.3 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "3 s এ পতন \\( s = \\frac{1}{2}gt^2 = \\frac{1}{2}\\times9.8\\times3^2 = 44.1\\,\\mathrm{m} \\)\nমাটি থেকে উচ্চতা \\( = 200 - 44.1 = 155.9\\,\\mathrm{m} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

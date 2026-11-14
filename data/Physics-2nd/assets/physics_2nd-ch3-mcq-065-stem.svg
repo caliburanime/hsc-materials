@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="225" viewBox="0 0 460 225">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="460" height="225" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="40.0,80.0 40.0,170.0 195.0,170.0" />
+<polyline points="265.0,170.0 420.0,170.0 420.0,80.0" />
+<polyline points="195.0,170.0 205.5,170.0 209.6,177.0 217.8,163.0 225.9,177.0 234.1,163.0 242.2,177.0 250.4,163.0 254.5,170.0 265.0,170.0" />
+<line x1="126.0" y1="68.0" x2="126.0" y2="92.0" stroke-width="1.95"/>
+<line x1="134.0" y1="73.5" x2="134.0" y2="86.5" stroke-width="3.30"/>
+<text x="130.0" y="44.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >E = 8V</text>
+<text x="130.0" y="114.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >r = 2Ω</text>
+<line x1="286.0" y1="68.0" x2="286.0" y2="92.0" stroke-width="1.95"/>
+<line x1="294.0" y1="73.5" x2="294.0" y2="86.5" stroke-width="3.30"/>
+<text x="290.0" y="44.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >E = 8V</text>
+<text x="290.0" y="114.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >r = 2Ω</text>
+<line x1="40.0" y1="80.0" x2="126.0" y2="80.0" />
+<line x1="134.0" y1="80.0" x2="286.0" y2="80.0" />
+<line x1="294.0" y1="80.0" x2="420.0" y2="80.0" />
+<line x1="40.0" y1="110.0" x2="40.0" y2="135.0" marker-end="url(#a)"/>
+<line x1="420.0" y1="135.0" x2="420.0" y2="110.0" marker-end="url(#a)"/>
+<text x="28.0" y="126.0" font-size="15.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >i</text>
+<text x="432.0" y="126.0" font-size="15.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >i</text>
+<text x="230.0" y="198.0" font-size="14.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >10Ω</text>
+</g>
+</svg>

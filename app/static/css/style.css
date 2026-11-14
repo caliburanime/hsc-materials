@@ -81,7 +81,7 @@ label.opt:has(input:checked) { border-color: var(--accent); background: color-mi
 .opt.correct { border-color: var(--good); background: var(--good-bg); } .opt.correct .lbl, .opt.correct .mark { color: var(--good); }
 .opt.wrong { border-color: var(--bad); background: var(--bad-bg); } .opt.wrong .lbl, .opt.wrong .mark { color: var(--bad); }
 .explain, .note { margin-top: 10px; padding: 8px 12px; border-radius: 8px; font-size: .95rem; }
-.explain { background: var(--code-bg); } .note { background: var(--warn-bg); color: var(--warn); }
+.explain { background: var(--code-bg); white-space: pre-wrap; } .note { background: var(--warn-bg); color: var(--warn); }
 .cq-part { margin: 10px 0; } .answer { background: var(--good-bg); border-radius: 8px; padding: 8px 12px; margin-top: 6px; white-space: pre-wrap; }
 .cq-actions { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; margin: 8px 0 16px; } .selfgrade { width: 90px; }
 

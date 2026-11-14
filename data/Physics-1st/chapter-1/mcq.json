@@ -1,0 +1,392 @@
+{
+  "subject": "physics_1st",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch1-mcq-001",
+      "text": "0.0001 mm, 0.001 mm, 0.01 mm ও 0.1 mm লঘিষ্ঠ ধ্রুবকের মানবিশিষ্ট যথাক্রমে ১ম, ২য়, ৩য় ও ৪র্থ চারটি স্ফেরোমিটার ব্যবহার করলে কোনটি দ্বারা কোনো গোলীয় তলের ব্যাসার্ধ বেশি নির্ভুলভাবে মাপা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২য়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩য়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪র্থ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লঘিষ্ঠ ধ্রুবক যত ছোট, যন্ত্রের পাঠ তত সূক্ষ্ম ও নির্ভুল হয়। 0.0001 mm সবচেয়ে ছোট, তাই ১ম স্ফেরোমিটার দ্বারা সবচেয়ে নির্ভুলভাবে মাপা যাবে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 19,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-002",
+      "text": "স্ফেরোমিটারের সাহায্যে কোনো গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয়ের সমীকরণ কোনটি? (যেখানে রাশিগুলি প্রচলিত অর্থ বহন করে।)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(R = \\frac{d^2}{6h} + \\frac{h}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(R = \\frac{d^2}{6h} - \\frac{h}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(R = \\frac{d^2}{2h} + \\frac{h}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(R = \\frac{d^2}{2h} - \\frac{h}{6}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্ফেরোমিটারে বক্রতার ব্যাসার্ধ \\(R = \\frac{d^2}{6h} + \\frac{h}{2}\\), যেখানে \\(d\\) = তিন পায়ের মধ্যবর্তী গড় দূরত্ব এবং \\(h\\) = উচ্চতা। তাই (ক) সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-003",
+      "text": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্ফেরোমিটার ক্ষুদ্রতম যে দৈর্ঘ্য সঠিকভাবে পরিমাপ করতে পারে"
+        },
+        {
+          "label": "ii",
+          "text": "বৃত্তাকার স্কেলকে একবার ঘুরালে রৈখিক স্কেল বরাবর যে সরণ হয়"
+        },
+        {
+          "label": "iii",
+          "text": "স্ফেরোমিটারের পিচ এবং বৃত্তাকার স্কেলের ভাগসংখ্যার অনুপাত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "লঘিষ্ঠ ধ্রুবক = \\(\\frac{\\text{পিচ}}{\\text{বৃত্তাকার স্কেলের ভাগসংখ্যা}}\\); এটি যন্ত্রের ক্ষুদ্রতম সঠিকভাবে পরিমাপযোগ্য দৈর্ঘ্য (i ও iii সত্য)।\nii নং বিবৃতিটি পিচের সংজ্ঞা, লঘিষ্ঠ ধ্রুবকের নয়; তাই ii মিথ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-004",
+      "text": "গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয় কর।",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 100 এবং পিচ 1 mm। স্ফেরোমিটারের তিন পায়ের মধ্যবর্তী গড় দূরত্ব 70.33 mm। যন্ত্রটির সাহায্যে একটি গোলীয় উত্তল তলের উচ্চতা পাওয়া গেল 8 mm।",
+      "stem_image": null,
+      "group": "physics_1st-2024-RB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.07048 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10.7048 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "107.048 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1070.48 mm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(R = \\frac{d^2}{6h} + \\frac{h}{2}\\)\n\\(= \\frac{(70.33)^2}{6 \\times 8} + \\frac{8}{2}\\)\n\\(= 103.048 + 4 = 107.048\\,\\mathrm{mm}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-005",
+      "text": "উক্ত স্ফেরোমিটারটি দিয়ে সর্বনিম্ন কত দূরত্ব মাপা যাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 100 এবং পিচ 1 mm। স্ফেরোমিটারের তিন পায়ের মধ্যবর্তী গড় দূরত্ব 70.33 mm। যন্ত্রটির সাহায্যে একটি গোলীয় উত্তল তলের উচ্চতা পাওয়া গেল 8 mm।",
+      "stem_image": null,
+      "group": "physics_1st-2024-RB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.01 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.002 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.003 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.02 mm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লঘিষ্ঠ ধ্রুবক = \\(\\frac{\\text{পিচ}}{\\text{ভাগসংখ্যা}} = \\frac{1\\,\\mathrm{mm}}{100} = 0.01\\,\\mathrm{mm}\\)। এটিই সর্বনিম্ন পরিমাপযোগ্য দূরত্ব।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-006",
+      "text": "ব্যবহারিক ক্লাসে একজন ছাত্র অবতল তলের বক্রতার ব্যাসার্ধ নির্ণয় কালে স্ফেরোমিটারের সাহায্যে সমতল ও অবতল তলের রৈখিক স্কেলের পাঠ যথাক্রমে 9mm ও 6mm এবং বৃত্তাকার স্কেলের পাঠ যথাক্রমে 96 ও 33 পেল। বৃত্তাকার স্কেলের ভাগ সংখ্যা 100 এবং তিন পায়ের মধ্যবর্তী গড় দূরত্ব 40mm। অবতল তলের বক্রতার ব্যাসার্ধ কত? স্ফেরোমিটারের পিচ = 1mm।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "75.276 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "75.276 cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "71.645 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "73.46 cm",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লঘিষ্ঠ গণন \\( = \\frac{1}{100} = 0.01\\,\\mathrm{mm} \\)\nসমতলের পাঠ \\( = 9 + 96\\times0.01 = 9.96\\,\\mathrm{mm} \\), অবতলের পাঠ \\( = 6 + 33\\times0.01 = 6.33\\,\\mathrm{mm} \\)\nঅতএব \\( h = 9.96 - 6.33 = 3.63\\,\\mathrm{mm} \\)\n\\( R = \\frac{l^2}{6h} + \\frac{h}{2} = \\frac{40^2}{6\\times3.63} + \\frac{3.63}{2} = 73.46 + 1.815 = 75.276\\,\\mathrm{mm} \\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-007",
+      "text": "স্ক্রুগজটির বৃত্তাকার স্কেলের দাগ সংখ্যা কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্ক্রুগজ দ্বারা একটি কাঁচ পাতের পুরুত্ব পরিমাপকালে রৈখিক স্কেলের পাঠ 2 mm, বৃত্তাকার স্কেলের পাঠ 25 এবং পিচ 0.5 mm.",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "50",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "150",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "লঘিষ্ঠ ধ্রুবক = পিচ ÷ বৃত্তাকার স্কেলের দাগ সংখ্যা। বৃত্তাকার স্কেলের পাঠ 25 হলে পুরুত্ব 2.25 mm হয় (পরবর্তী প্রশ্ন), অর্থাৎ \\(25 \\times LC = 0.25\\,\\mathrm{mm}\\), \\(LC = 0.01\\,\\mathrm{mm}\\)।\nদাগ সংখ্যা \\(= \\dfrac{0.5}{0.01} = 50\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-008",
+      "text": "কাঁচ পাতের পুরুত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্ক্রুগজ দ্বারা একটি কাঁচ পাতের পুরুত্ব পরিমাপকালে রৈখিক স্কেলের পাঠ 2 mm, বৃত্তাকার স্কেলের পাঠ 25 এবং পিচ 0.5 mm.",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "2.25 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.25 cm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.225 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.225m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পুরুত্ব = রৈখিক স্কেলের পাঠ + বৃত্তাকার স্কেলের পাঠ × লঘিষ্ঠ ধ্রুবক\n\\(LC = \\dfrac{0.5}{50} = 0.01\\,\\mathrm{mm}\\)\nপুরুত্ব \\(= 2 + 25 \\times 0.01 = 2.25\\,\\mathrm{mm}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-009",
+      "text": "স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.01 mm হলে, নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.005 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.001 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.02 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.002 mm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "যন্ত্রের লঘিষ্ঠ ধ্রুবক 0.01 mm হলে কেবল 0.01 mm-এর পূর্ণ গুণিতক মান নির্ভুলভাবে মাপা যায়। প্রদত্ত মানগুলোর মধ্যে 0.02 mm হলো 0.01 mm-এর দ্বিগুণ, তাই (গ) সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

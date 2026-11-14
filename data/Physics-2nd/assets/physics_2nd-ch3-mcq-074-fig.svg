@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" width="480" height="280">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="480" height="280" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M130.0,60.0 L130.0,230.0"/>
+<path d="M370.0,60.0 L370.0,230.0"/>
+<path d="M130.0,60.0 L158.8,60.0 L165.5,66.0 L179.0,54.0 L192.4,66.0 L205.8,54.0 L219.3,66.0 L226.0,60.0 L274.0,60.0 L280.7,66.0 L294.2,54.0 L307.6,66.0 L321.0,54.0 L334.5,66.0 L341.2,60.0 L370.0,60.0"/>
+<path d="M130.0,230.0 L158.8,230.0 L165.5,236.0 L179.0,224.0 L192.4,236.0 L205.8,224.0 L219.3,236.0 L226.0,230.0 L274.0,230.0 L280.7,236.0 L294.2,224.0 L307.6,236.0 L321.0,224.0 L334.5,236.0 L341.2,230.0 L370.0,230.0"/>
+<path d="M130.0,60.0 L152.2,75.7 L155.2,85.2 L175.0,84.5 L180.9,103.4 L200.7,102.8 L206.7,121.7 L216.6,121.3 L241.0,138.6"/>
+<path d="M259.0,151.4 L283.4,168.7 L286.4,178.1 L306.2,177.4 L312.1,196.4 L331.9,195.7 L337.9,214.6 L347.8,214.3 L370.0,230.0"/>
+<path d="M241.0,138.6 A11,11 0 0 1 259.0,151.4"/>
+<path d="M130.0,230.0 L158.8,209.6 L169.0,209.7 L175.5,190.4 L195.9,190.7 L202.4,171.4 L222.7,171.7 L226.0,162.0 L274.0,128.0 L284.2,128.1 L290.7,108.8 L311.1,109.1 L317.6,89.8 L337.9,90.1 L341.2,80.4 L370.0,60.0"/>
+<path d="M50.0,145.0 L130.0,145.0"/>
+<path d="M370.0,145.0 L450.0,145.0"/>
+<circle cx="130" cy="145" r="3" fill="#111" stroke="none"/>
+<circle cx="370" cy="145" r="3" fill="#111" stroke="none"/>
+<circle cx="50" cy="145" r="3" fill="#111" stroke="none"/>
+<circle cx="450" cy="145" r="3" fill="#111" stroke="none"/>
+<circle cx="130" cy="60" r="3" fill="#111" stroke="none"/>
+<circle cx="370" cy="60" r="3" fill="#111" stroke="none"/>
+<circle cx="130" cy="230" r="3" fill="#111" stroke="none"/>
+<circle cx="370" cy="230" r="3" fill="#111" stroke="none"/>
+<text x="38" y="150" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">A</tspan></text>
+<text x="462" y="150" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">B</tspan></text>
+<text x="205" y="45" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">2Ω</text>
+<text x="295" y="45" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">2Ω</text>
+<text x="205" y="262" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">4Ω</text>
+<text x="295" y="262" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">4Ω</text>
+<text x="185" y="122" text-anchor="end" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">6Ω</text>
+<text x="332" y="115" text-anchor="start" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">4Ω</text>
+<text x="172" y="178" text-anchor="end" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">2Ω</text>
+<text x="346" y="192" text-anchor="start" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">6Ω</text>
+
+</g></svg>

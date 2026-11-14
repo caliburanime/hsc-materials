@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="160" height="120" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="30.0" y1="95.0" x2="150.0" y2="95.0" marker-end="url(#ar)"/><line x1="30.0" y1="95.0" x2="30.0" y2="12.0" marker-end="url(#ar)"/><text x="24" y="16" text-anchor="end" font-family="serif" font-style="italic" font-size="15" fill="#111" stroke="none" >g′</text><text x="22" y="109" text-anchor="end" font-family="serif" font-style="italic" font-size="15" fill="#111" stroke="none" >O</text><line x1="30.0" y1="40.0" x2="70.0" y2="95.0" /><line x1="70.0" y1="95.0" x2="140.0" y2="40.0" /><line x1="30.0" y1="40.0" x2="140.0" y2="40.0" stroke-dasharray="3 3" stroke-width="1"/><line x1="70.0" y1="40.0" x2="70.0" y2="95.0" stroke-dasharray="3 3" stroke-width="1"/><text x="24" y="45" text-anchor="end" font-family="serif" font-style="italic" font-size="15" fill="#111" stroke="none" >g</text><text x="70" y="111" text-anchor="middle" font-family="serif" font-style="italic" font-size="15" fill="#111" stroke="none" >R</text>
+</g></svg>

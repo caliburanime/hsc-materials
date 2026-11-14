@@ -1,0 +1,108 @@
+{
+  "subject_id": "higher_math_1st",
+  "subject_name": "উচ্চতর গণিত প্রথম পত্র",
+  "subject_name_en": "Higher Mathematics 1st Paper",
+  "subject_code": 265,
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "name_en": "Matrices and Determinants"
+    },
+    {
+      "number": 2,
+      "name": "ভেক্টর",
+      "name_en": "Vectors"
+    },
+    {
+      "number": 3,
+      "name": "সরলরেখা",
+      "name_en": "Straight Lines"
+    },
+    {
+      "number": 4,
+      "name": "বৃত্ত",
+      "name_en": "Circles"
+    },
+    {
+      "number": 5,
+      "name": "বিন্যাস ও সমাবেশ",
+      "name_en": "Permutations and Combinations"
+    },
+    {
+      "number": 6,
+      "name": "ত্রিকোণমিতিক অনুপাত",
+      "name_en": "Trigonometric Ratios"
+    },
+    {
+      "number": 7,
+      "name": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+      "name_en": "Trigonometric Ratios of Associated Angles"
+    },
+    {
+      "number": 8,
+      "name": "ফাংশন ও ফাংশনের লেখচিত্র",
+      "name_en": "Functions and their Graphs"
+    },
+    {
+      "number": 9,
+      "name": "অন্তরীকরণ",
+      "name_en": "Differentiation"
+    },
+    {
+      "number": 10,
+      "name": "যোগজীকরণ",
+      "name_en": "Integration"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2023"
+  ]
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" width="520" height="280">
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#111"/></marker></defs>
+<rect width="520" height="280" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<path d="M30 40H400M30 210H400"/>
+<path d="M120 210L60 60" marker-end="url(#a)"/>
+<path d="M120 210V50" marker-end="url(#a)"/>
+<path d="M120 210V170" stroke-width="0"/>
+<path d="M120 170A40 40 0 0 0 104 174" stroke-width="1"/>
+<path d="M420 125V42" marker-end="url(#a)"/><path d="M420 125V208" marker-end="url(#a)"/>
+<path d="M180 70H260" marker-end="url(#a)"/><path d="M290 100H370" marker-end="url(#a)"/><path d="M180 140H260" marker-end="url(#a)"/><path d="M290 170H370" marker-end="url(#a)"/>
+<path d="M290 195H400" marker-end="url(#a)"/>
+<path d="M40 90Q50 80 60 90T80 90T100 90T110 88" stroke-width="1"/>
+</g>
+<g font-family="serif" font-style="italic" font-size="17" fill="#111">
+<text x="20" y="30">Q = 18 kmh<tspan baseline-shift="super" font-size="70%">−1</tspan></text>
+<text x="126" y="80">R</text><text x="86" y="164" font-style="normal" font-size="14">30°</text>
+<text x="428" y="130">d = 4 km</text><text x="300" y="228">P = 9 kmh<tspan baseline-shift="super" font-size="70%">−1</tspan></text></g>
+<text x="130" y="262" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="15" fill="#111">চিত্র: বহমান নদী</text>
+</svg>

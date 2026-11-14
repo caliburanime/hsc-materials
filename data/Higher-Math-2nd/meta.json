@@ -1,0 +1,108 @@
+{
+  "subject_id": "higher_math_2nd",
+  "subject_name": "উচ্চতর গণিত দ্বিতীয় পত্র",
+  "subject_name_en": "Higher Mathematics 2nd Paper",
+  "subject_code": 266,
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "বাস্তব সংখ্যা ও অসমতা",
+      "name_en": "Real Numbers and Inequalities"
+    },
+    {
+      "number": 2,
+      "name": "যোগাশ্রয়ী প্রোগ্রাম",
+      "name_en": "Linear Programming"
+    },
+    {
+      "number": 3,
+      "name": "জটিল সংখ্যা",
+      "name_en": "Complex Numbers"
+    },
+    {
+      "number": 4,
+      "name": "বহুপদী ও বহুপদী সমীকরণ",
+      "name_en": "Polynomials and Polynomial Equations"
+    },
+    {
+      "number": 5,
+      "name": "দ্বিপদী বিস্তৃতি",
+      "name_en": "Binomial Expansion"
+    },
+    {
+      "number": 6,
+      "name": "কণিক",
+      "name_en": "Conics"
+    },
+    {
+      "number": 7,
+      "name": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ",
+      "name_en": "Inverse Trigonometric Functions and Trigonometric Equations"
+    },
+    {
+      "number": 8,
+      "name": "স্থিতিবিদ্যা",
+      "name_en": "Statics"
+    },
+    {
+      "number": 9,
+      "name": "সমতলে বস্তুকণার গতি",
+      "name_en": "Motion of a Particle in a Plane"
+    },
+    {
+      "number": 10,
+      "name": "বিস্তার পরিমাপ ও সম্ভাবনা",
+      "name_en": "Measures of Dispersion and Probability"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2023"
+  ]
+}

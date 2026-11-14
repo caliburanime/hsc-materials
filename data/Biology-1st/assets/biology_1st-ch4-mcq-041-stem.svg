@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 232" width="310" height="232">
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+<marker id="av" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9" fill="none" stroke="#111" stroke-width="1.6"/></marker>
+</defs>
+<rect width="310" height="232" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20,115 L175,115 C215,115 245,125 250,150 C252,190 240,215 200,218 L45,218 C20,218 8,205 8,180 L8,135 C8,122 12,115 20,115 Z"/><path d="M26,124 L172,124 C205,124 232,132 238,152 C240,185 230,208 196,209 L48,209 C28,209 18,198 18,180 L18,140 C18,130 20,124 26,124 Z"/><path d="M100,18 L126,32 L126,62 L100,78 L74,62 L74,32 Z"/><path d="M95,30 C106.5,30.9 106.5,33.6 100,34.5 S93.5,38.1 95,39.0 C106.5,39.9 106.5,42.6 100,43.5 S93.5,47.1 95,48.0 C106.5,48.9 106.5,51.6 100,52.5 S93.5,56.1 95,57.0 C106.5,57.9 106.5,60.6 100,61.5 S93.5,65.1 95,66.0" stroke-width="1.2"/><path d="M94,78 L94,96 M106,78 L106,96 M92,96 L108,96 M94,96 L94,114 M106,96 L106,114"/><path d="M86,96 L70,114 L94,114 M114,96 L130,114 L106,114"/><path d="M126,48 L275,48"/><text x="285" y="53" font-family="serif" font-style="italic" font-size="15" text-anchor="middle" fill="#111" stroke="none" >P</text><path d="M52,160 C44,148 60,140 70,148 C84,150 84,172 74,180 C64,190 48,184 52,170 C54,156 70,152 74,164 C76,176 62,178 60,168 M58,152 C66,156 72,170 66,182" stroke-width="1.2"/><ellipse cx="158" cy="168" rx="17" ry="14"/><ellipse cx="160" cy="168" rx="9" ry="8" stroke-width="1.2"/><path d="M250,170 L275,170"/><text x="285" y="175" font-family="serif" font-style="italic" font-size="15" text-anchor="middle" fill="#111" stroke="none" >Q</text>
+</g>
+</svg>

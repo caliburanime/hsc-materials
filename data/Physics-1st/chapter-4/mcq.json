@@ -1,0 +1,5935 @@
+{
+  "subject": "physics_1st",
+  "chapter": 4,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch4-mcq-001",
+      "text": "100 kg ভরের একজন লোক লিফটে \\(2\\,\\mathrm{ms^{-2}}\\) ত্বরণে উপরে উঠলে লোকটির উপর ঊর্ধ্বমুখী প্রতিক্রিয়া বল কত? \\([g = 9.8\\,\\mathrm{ms^{-2}}]\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "780N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "980N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1180N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1380N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ঊর্ধ্বমুখী ত্বরণে প্রতিক্রিয়া বল \\(R=m(g+a)\\)\n\\(=100\\times(9.8+2)=1180\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-002",
+      "text": "বলের ঘাত এর ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বলের মান কম কিন্তু ক্রিয়াকাল বেশি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বলের মান বেশি কিন্তু ক্রিয়াকাল কম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বলের মান ও ক্রিয়াকাল উভয় কম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বলের মান ও ক্রিয়াকাল উভয় বেশি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঘাত হলো খুব অল্প সময়ের জন্য ক্রিয়াশীল অত্যন্ত বড় মানের বল। তাই বলের মান বেশি ও ক্রিয়াকাল কম।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মতে প্রশ্নে 'বলের ঘাত' না হয়ে 'ঘাত বলের' হবে।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-003",
+      "text": "ব্যাসার্ধ ভেক্টর এবং প্রযুক্ত বলের ভেক্টর গুণনকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বলের ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চক্রগতির ব্যাসার্ধ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাসার্ধ ভেক্টর \\(\\vec{r}\\) ও বল \\(\\vec{F}\\) এর ভেক্টর গুণফল \\(\\vec{r}\\times\\vec{F}\\) কে বলের ভ্রামক (টর্ক) বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-004",
+      "text": "r ব্যাসার্ধবিশিষ্ট একটি রাস্তায় বাঁকের ব্যাংকিং কোণ θ হলে, v বেগে গতিশীল গাড়ির নিরাপদে বাঁক নেওয়ার শর্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(v \\le (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(v \\not< (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(v^2 \\le (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(v > (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঘর্ষণ ছাড়া ব্যাংকিং রাস্তায় নিরাপদ বেগ \\(v=\\sqrt{rg\\tan\\theta}\\); এর বেশি বেগে গাড়ি বাইরের দিকে ছিটকে যাওয়ার ঝুঁকি থাকে। তাই নিরাপদ শর্ত \\(v\\le(rg\\tan\\theta)^{1/2}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-005",
+      "text": "জড়তার ভ্রামকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^2T^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জড়তার ভ্রামক \\( I = mr^2 \\), তাই মাত্রা \\( \\mathrm{ML^2} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-006",
+      "text": "AB ঘূর্ণন অক্ষের সাপেক্ষে XY দণ্ডটির টর্ক কত? (প্রযুক্ত বল AB অক্ষ এবং XY দণ্ড উভয়ের সাথে লম্ব)",
+      "text_en": null,
+      "image": "assets/physics_1st-ch4-mcq-006-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "500 Nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1000 Nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10000 Nm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অক্ষ ও বল উভয়ের সাথে দণ্ড লম্ব, তাই \\( \\tau = F \\times r = 100 \\times 10 = 1000 \\) Nm",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-007",
+      "text": "কেন্দ্রমুখী বলকে ভেক্টররূপে প্রকাশ করার ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\vec{F} = -m\\omega^2\\vec{r}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{F} = -m(\\vec{\\omega} \\times \\vec{\\omega})\\vec{r}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{F} = -\\frac{mv^2}{r^2}\\vec{r}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রমুখী বল \\( \\vec{F} = -m\\omega^2\\vec{r} \\) (i সঠিক) এবং \\( \\omega = \\frac{v}{r} \\) বসিয়ে মান \\( \\frac{mv^2}{r} \\)-কে \\( \\frac{mv^2}{r^2}\\vec{r} \\) আকারে লেখা যায় (iii সঠিক)। (ii) এ \\( \\vec{\\omega}\\times\\vec{\\omega} = \\vec{0} \\) হওয়ায় ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-008",
+      "text": "মৌলিক বলসমূহের আপেক্ষিক সবলতার ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সবল নিউক্লীয় বল > দুর্বল নিউক্লীয় বল > তাড়িত চৌম্বক বল > মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সবল নিউক্লীয় বল > তাড়িত চৌম্বক বল > মহাকর্ষ বল > দুর্বল নিউক্লীয় বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লীয় বল > তাড়িত চৌম্বক বল > দুর্বল নিউক্লীয় বল > মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহাকর্ষ বল > তাড়িত চৌম্বক বল > দুর্বল নিউক্লীয় বল > সবল নিউক্লীয় বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আপেক্ষিক সবলতার ক্রম: সবল নিউক্লীয় বল > তাড়িতচৌম্বক বল > দুর্বল নিউক্লীয় বল > মহাকর্ষ বল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-009",
+      "text": "কোনটি ঘূর্ণায়মান বস্তুর গতিশক্তি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{2}M\\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}Mv^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2}Iv^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{2}I\\omega^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঘূর্ণায়মান বস্তুর গতিশক্তি \\( \\frac{1}{2}I\\omega^2 \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-010",
+      "text": "নিচের কোন ভেক্টর রূপটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{v} = \\vec{r} \\times \\vec{\\omega}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{a} = \\vec{\\alpha} \\times \\vec{r}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{L} = \\vec{P} \\times \\vec{r}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{\\tau} = \\vec{F} \\times \\vec{r}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্পর্শকীয় ত্বরণ \\( \\vec{a} = \\vec{\\alpha}\\times\\vec{r} \\) সঠিক। সঠিক রূপ হলো \\( \\vec{v} = \\vec{\\omega}\\times\\vec{r} \\), \\( \\vec{L} = \\vec{r}\\times\\vec{P} \\), \\( \\vec{\\tau} = \\vec{r}\\times\\vec{F} \\); তাই (ক), (গ), (ঘ) ভুল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-011",
+      "text": "10,000 kg ভরের একটি রেলগাড়ি 600m ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার পথে \\(90\\,\\mathrm{kmh^{-1}}\\) বেগে গতিশীল। রেললাইনের পাত দুটির মধ্যবর্তী দূরত্ব যদি 2m হয় তবে বাইরের পাতটি ভিতরের পাত অপেক্ষা কত উঁচু হলে এদের মধ্যে কোনো পার্শ্বচাপ বাড়বে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.21 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "18.87 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "18.97 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "21 m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( v = 90 \\) kmh\\(^{-1}\\) = 25 ms\\(^{-1}\\)। \\( \\tan\\theta = \\frac{v^2}{rg} = \\frac{625}{600 \\times 9.8} = 0.1063 \\)\n\\( h = l\\sin\\theta \\approx 2 \\times 0.1063 \\approx 0.21 \\) m",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-012",
+      "text": "বস্তুর যে ভর ত্বরণ সৃষ্টিতে বাধা দেয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষীয় ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভর ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জড়তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জাড্য ভর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যে ভর বস্তুর ত্বরণ সৃষ্টিতে বাধা দেয় (\\( m = \\frac{F}{a} \\) দ্বারা পরিমাপ্য), তাকে জাড্য ভর বলে। জড়তা একটি ধর্ম, ভর নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: প্রশ্নে \"যে ভর\" বলা হয়েছে, তাই উত্তর (ঘ) জাড্য ভর হওয়া উচিত; (গ) জড়তা বস্তুর ধর্ম, ভরের নাম নয়।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-013",
+      "text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রমুখী বল সর্বদা বেগের সাথে লম্ব, তাই \\( W = Fs\\cos 90^\\circ = 0 \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 1,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-014",
+      "text": "A ও B বিন্দুতে সুতার টানের পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে 1 kg ভরের একটি বস্তুকে 0.5m দৈর্ঘ্যের সুতার সাহায্যে উলম্ব তলে ঘুরানো হচ্ছে। A ও B বিন্দু যথাক্রমে ঘূর্ণন তলের সর্বনিম্ন ও সর্বোচ্চ বিন্দু নির্দেশ করে।",
+      "stem_image": "assets/physics_1st-ch5-mcq-011-stem.svg",
+      "group": "physics_1st-2025-DIB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "9.8 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "19.6 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উলম্ব বৃত্তে সর্বনিম্ন বিন্দুতে \\( T_A = \\frac{mv_A^2}{r} + mg \\), সর্বোচ্চ বিন্দুতে \\( T_B = \\frac{mv_B^2}{r} - mg \\) এবং \\( v_A^2 = v_B^2 + 4gr \\)\nপার্থক্য \\( T_A - T_B = 6mg = 6 \\times 1 \\times 9.8 = 58.8 \\) N",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: নিখুঁত বৃত্তাকার গতিতে টানের পার্থক্য \\( 6mg = 58.8 \\) N; কোনো অপশনই এই মানের নয়, তাই প্রদত্ত উত্তর (খ) 19.6 N সঠিক নয়।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-015",
+      "text": "বলের ঘাতের একক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{kg\\,ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{kg\\,ms^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{kg\\,m^2s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{kg\\,m^2s^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঘাত = বল × সময় = ভরবেগের পরিবর্তন, তাই একক kg ms\\(^{-1}\\) (বা Ns)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-016",
+      "text": "নিরেট চাকতির RN অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধ হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch4-mcq-016-stem.svg",
+      "group": "physics_1st-2025-JB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{r}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{r}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(r\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\frac{3}{2}}\\,r\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিরেট চাকতির কেন্দ্রগামী লম্ব অক্ষে \\( I = \\frac{1}{2}Mr^2 = MK^2 \\)\n\\( K = \\frac{r}{\\sqrt{2}} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-017",
+      "text": "PQ সাপেক্ষে জড়তার ভ্রামক হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch4-mcq-016-stem.svg",
+      "group": "physics_1st-2025-JB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{4}Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3}{2}Mr^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "PQ অক্ষ চাকতির প্রান্তে স্পর্শক, \\( h = r \\)। সমান্তরাল অক্ষ উপপাদ্য অনুযায়ী\n\\( I = \\frac{1}{2}Mr^2 + Mr^2 = \\frac{3}{2}Mr^2 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-018",
+      "text": "কোনটি ঘূর্ণায়মান বস্তুর গতিশক্তি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K.E = \\frac{1}{2}I\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K.E = \\frac{1}{2}I\\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K.E = I\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K.E = \\frac{1}{2}I\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঘূর্ণন গতিশক্তি \\( K.E = \\frac{1}{2}I\\omega^2 \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-019",
+      "text": "রাস্তার ব্যাংকিং নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাঁকের ব্যাসার্ধের উপর"
+        },
+        {
+          "label": "ii",
+          "text": "গাড়ির ভরের উপর"
+        },
+        {
+          "label": "iii",
+          "text": "গাড়ির বেগের উপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাংকিং কোণ \\( \\tan\\theta = \\frac{v^2}{rg} \\), অর্থাৎ বাঁকের ব্যাসার্ধ (i) ও বেগের (iii) উপর নির্ভর করে; গাড়ির ভরের উপর নির্ভর করে না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-020",
+      "text": "ঘর্ষণ বল কোন বলের অন্তর্গত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ চুম্বকীয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সবল নিউক্লিয় বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ঘর্ষণ বল পদার্থের পরমাণুগুলোর মধ্যকার তড়িৎচৌম্বকীয় আকর্ষণ-বিকর্ষণ থেকে উদ্ভূত, তাই এটি তড়িৎচুম্বকীয় বলের অন্তর্গত।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-021",
+      "text": "ভূ-পৃষ্ঠ স্পর্শ করার পূর্বে বোঝা ও ব্যক্তির ভরবেগের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "50 kg ভরের এক ব্যক্তি 25 kg ভরের বোঝা নিয়ে h উচ্চতা বিশিষ্ট দেয়াল হতে লাফ দিল।",
+      "stem_image": null,
+      "group": "physics_1st-2025-MB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মুক্তভাবে পড়ার সময় ব্যক্তি ও বোঝা একই বেগে পড়ে, তাই ভরবেগ \\( \\propto \\) ভর।\nবোঝা : ব্যক্তি = 25 : 50 = 1 : 2",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-022",
+      "text": "মাটি স্পর্শ করার আগে লোকটি তার মাথায় কত ওজন অনুভব করবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "50 kg ভরের এক ব্যক্তি 25 kg ভরের বোঝা নিয়ে h উচ্চতা বিশিষ্ট দেয়াল হতে লাফ দিল।",
+      "stem_image": null,
+      "group": "physics_1st-2025-MB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "245N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "490N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "735N",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মুক্তভাবে পড়ার সময় ব্যক্তি ও বোঝা উভয়ের ত্বরণ \\( g \\); ফলে প্রতিক্রিয়া বল শূন্য, অর্থাৎ ওজনহীনতা। তাই মাথায় ওজন অনুভূত হয় 0।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-023",
+      "text": "1 rPS = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{2}\\ \\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\ \\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\pi\\ \\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\pi\\ \\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "1 rps = 1 পূর্ণ ঘূর্ণন প্রতি সেকেন্ডে = \\( 2\\pi \\) rad s\\(^{-1}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2025",
+          "qno": 23,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-024",
+      "text": "জগতে মৌলিক বলের সংখ্যা কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬টি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মৌলিক বল চারটি: মহাকর্ষ, তাড়িতচৌম্বক, সবল নিউক্লীয় ও দুর্বল নিউক্লীয় বল।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-025",
+      "text": "কৌণিক ভরবেগের পরিবর্তনের হার—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বলের সমান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামকের সমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৌণিক ত্বরণের সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টর্কের সমান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{\\tau} = \\frac{d\\vec{L}}{dt} \\); কৌণিক ভরবেগের পরিবর্তনের হার টর্কের সমান।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-026",
+      "text": "জড়তার ভ্রামক সংক্রান্ত সমান্তরাল অক্ষের উপপাদ্যের সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(I_G = I + Mh^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(I = I_G + Mh^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(I = I_G + M^2h\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I_G = I + M^2h\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল অক্ষের উপপাদ্য: \\( I = I_G + Mh^2 \\), যেখানে \\( I_G \\) ভরকেন্দ্রগামী অক্ষের সাপেক্ষে জড়তার ভ্রামক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-027",
+      "text": "রাস্তার ব্যাংকিং কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গাড়ি \\(36\\,\\mathrm{kmh^{-1}}\\) বেগে বাঁক নিতে গিয়ে দুর্ঘটনায় পতিত হয়।",
+      "stem_image": "assets/physics_1st-ch4-mcq-027-stem.svg",
+      "group": "physics_1st-2025-RB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.43°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.82°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.81°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.95°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\sin\\theta = \\frac{0.2}{8} = 0.025 \\)\n\\( \\theta = \\sin^{-1}(0.025) = 1.43^\\circ \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-028",
+      "text": "বলের ঘাতের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বলের ঘাত = বল × ক্রিয়াকাল"
+        },
+        {
+          "label": "ii",
+          "text": "এর একক NS"
+        },
+        {
+          "label": "iii",
+          "text": "বলের ঘাত = ভরবেগের পরিবর্তন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বলের ঘাত = বল × ক্রিয়াকাল (i) = ভরবেগের পরিবর্তন (iii); একক N s (ii)। তিনটিই সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: একক Ns (ছোট হাতের s) হলে তবেই (ii) সঠিক।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-029",
+      "text": "দুর্বল নিউক্লিয় বলের ক্ষেত্রে কোন উত্তর সঠিক?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এই বল অস্থিতিশীল নিউক্লিয়াসের কারণ"
+        },
+        {
+          "label": "ii",
+          "text": "এই বলের পাল্লা \\(10^{-16}\\) m"
+        },
+        {
+          "label": "iii",
+          "text": "এই বলের জন্য দায়ী ফোটন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দুর্বল নিউক্লীয় বল (বিটা ক্ষয় ইত্যাদির মাধ্যমে) অস্থিতিশীল নিউক্লিয়াসের জন্য দায়ী (i) এবং এর পাল্লা প্রায় \\( 10^{-16} \\) m (ii)। এর বাহক W ও Z বোসন, ফোটন নয়; ফোটন তাড়িতচৌম্বক বলের বাহক (iii ভুল)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-030",
+      "text": "নিচের কোনটি জড়তার ভ্রামক সংক্রান্ত সমান্তরাল অক্ষ উপপাদ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(I_z = I_x + I_y\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(I = I_z + Mk^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(I = I_z + Mk\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I = I_G + Mh^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল অক্ষ উপপাদ্য: \\( I = I_G + Mh^2 \\)। (ক) লম্ব অক্ষ উপপাদ্য, বাকিগুলো ভুল রূপ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-031",
+      "text": "একজন সাইকেল আরোহী 50m ব্যাসার্ধের রাস্তার বাঁকে 9.8m/s বেগে নিরাপদে বাঁক অতিক্রম করল। আরোহীর নতিকোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\tan\\theta = \\frac{v^2}{rg} = \\frac{(9.8)^2}{50 \\times 9.8} = 0.196 \\)\n\\( \\theta = \\tan^{-1}(0.196) \\approx 11^\\circ \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-032",
+      "text": "কোনো দৃঢ় বস্তুর চক্রগতির ব্যাসার্ধের সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K = \\sqrt{\\frac{I}{M}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K = \\sqrt{\\frac{M}{I}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K = \\frac{I}{M}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K = \\frac{M}{I}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( I = MK^2 \\) থেকে চক্রগতির ব্যাসার্ধ \\( K = \\sqrt{\\frac{I}{M}} \\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-033",
+      "text": "ঘূর্ণায়মান কোনো বস্তুর কৌণিক বেগ 10% বৃদ্ধি করলে ঘূর্ণন গতিশক্তি বৃদ্ধি পায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "21%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{1}{2}I\\omega^2 \\propto \\omega^2\\)\nনতুন \\(E_k \\propto (1.1)^2 = 1.21\\), অর্থাৎ বৃদ্ধি \\(21\\%\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-034",
+      "text": "কোনো বস্তুর উপর প্রযুক্ত বল \\(F(t) = t^2 + t + 2\\) হলে, \\(t_i = 1\\,\\mathrm{s}\\) হতে \\(t_f = 2\\,\\mathrm{s}\\) সময়ের মধ্যে প্রযুক্ত বলের ঘাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 Ns",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5.83 Ns",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8 Ns",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12 Ns",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঘাত \\(= \\int_1^2 F\\,dt = \\int_1^2 (t^2 + t + 2)\\,dt\\)\n\\(= \\left[\\frac{t^3}{3} + \\frac{t^2}{2} + 2t\\right]_1^2 = \\frac{7}{3} + \\frac{3}{2} + 2 = 5.83\\,\\mathrm{Ns}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-035",
+      "text": "কোনো বস্তুর উপর ক্রিয়াশীল টর্ক শূন্য হবে যদি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঘূর্ণন কেন্দ্রের সাপেক্ষে অবস্থান ভেক্টরের মান শূন্য হয়"
+        },
+        {
+          "label": "ii",
+          "text": "বলের মান শূন্য হয়"
+        },
+        {
+          "label": "iii",
+          "text": "অবস্থান ভেক্টর ও বলের মধ্যবর্তী কোণ 90° হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "টর্ক \\(\\vec{\\tau} = \\vec{r} \\times \\vec{F} = rF\\sin\\theta\\)। \\(r = 0\\) বা \\(F = 0\\) হলে টর্ক শূন্য (i, ii সত্য)। \\(\\theta = 90°\\) হলে \\(\\sin\\theta = 1\\), তখন টর্ক সর্বোচ্চ, শূন্য নয়; তাই iii মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-036",
+      "text": "নিচের কোন মৌলিক বলের পাল্লা সবচেয়ে কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাড়িতচুম্বক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লীয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লীয় বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দুর্বল নিউক্লীয় বলের পাল্লা সবচেয়ে কম (প্রায় \\(10^{-18}\\,\\mathrm{m}\\))।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-037",
+      "text": "চাকাটির জড়তার ভ্রামক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। টর্ক প্রয়োগ করে চাকাটিতে \\(2\\,\\mathrm{rad\\,s^{-2}}\\) কৌণিক ত্বরণ সৃষ্টি করা হয়।",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.25\\,\\mathrm{kgm^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.5\\,\\mathrm{kgm^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(25\\,\\mathrm{kgm^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(50\\,\\mathrm{kgm^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(I = mk^2 = 10 \\times (0.5)^2 = 2.5\\,\\mathrm{kgm^2}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-038",
+      "text": "কত মানের টর্ক প্রয়োগ করা হয়েছিল?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। টর্ক প্রয়োগ করে চাকাটিতে \\(2\\,\\mathrm{rad\\,s^{-2}}\\) কৌণিক ত্বরণ সৃষ্টি করা হয়।",
+      "stem_image": null,
+      "group": "physics_1st-2024-CB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "100Nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50Nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5Nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5Nm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\tau = I\\alpha = 2.5 \\times 2 = 5\\,\\mathrm{Nm}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-039",
+      "text": "একটি গাড়ির নিরাপদে বাঁক নেওয়ার শর্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(v \\le (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(v \\le (rg\\tan\\theta)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(v > (rg\\tan\\theta)^{1/2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(v > (rg\\tan\\theta)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নিরাপদে বাঁক নেওয়ার জন্য ঢালু রাস্তায় বেগ \\(v \\le \\sqrt{rg\\tan\\theta}\\) হতে হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-040",
+      "text": "টর্কের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{ML^2T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "টর্ক = বল \\(\\times\\) দূরত্ব, মাত্রা \\(= \\mathrm{MLT^{-2}} \\times \\mathrm{L} = \\mathrm{ML^2T^{-2}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-041",
+      "text": "কৌণিক ভরবেগের পরিবর্তনের হার নিচের কোনটির সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টর্কের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বলের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জড়তার ভ্রামকের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ত্বরণের",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{\\tau} = \\frac{d\\vec{L}}{dt}\\), অর্থাৎ কৌণিক ভরবেগের পরিবর্তনের হার টর্কের সমান।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-042",
+      "text": "নিজ অক্ষের চতুর্দিকে ঘূর্ণায়মান একটি চোঙের ভর 5 kg এবং অক্ষ সাপেক্ষে জড়তার ভ্রামক \\(0.1\\,\\mathrm{kgm^2}\\)। ঘূর্ণায়মান চোঙটির ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.24 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.22 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.20 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.14 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিরেট চোঙের জন্য \\(I = \\frac{1}{2}mr^2\\)\n\\(r^2 = \\frac{2I}{m} = \\frac{2 \\times 0.1}{5} = 0.04\\), তাই \\(r = 0.2\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-043",
+      "text": "দুর্বল নিউক্লিয় বলের জন্য দায়ী কোন কণা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রাভিটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোসন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দুর্বল নিউক্লীয় বল W ও Z বোসন কণার বিনিময়ে কার্যকর হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-044",
+      "text": "AB অক্ষের সাপেক্ষে চাকতির চক্রগতির ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_1st-ch4-mcq-044-stem.svg",
+      "group": "physics_1st-2024-CUB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{6}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চাকতির ব্যাসার্ধ \\(R = 2\\,\\mathrm{m}\\)। চাকতির তলের লম্ব কেন্দ্রগামী অক্ষের সাপেক্ষে \\(I = \\frac{1}{2}MR^2 = Mk^2\\)\n\\(k^2 = \\frac{R^2}{2} = \\frac{4}{2} = 2\\), তাই \\(k = \\sqrt{2}\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-045",
+      "text": "AB অক্ষের সাপেক্ষে চাকতির জড়তার ভ্রামক CD অক্ষের সাপেক্ষে জড়তার ভ্রামকের কত গুণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_1st-ch4-mcq-044-stem.svg",
+      "group": "physics_1st-2024-CUB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(I_{AB} = \\frac{1}{2}MR^2\\)\nসমান্তরাল অক্ষ উপপাদ্য অনুযায়ী \\(I_{CD} = \\frac{1}{2}MR^2 + MR^2 = \\frac{3}{2}MR^2\\)\n\\(\\frac{I_{AB}}{I_{CD}} = \\frac{1/2}{3/2} = \\frac{1}{3}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-046",
+      "text": "10 gm ভরের একটি বল \\(100\\,\\mathrm{cms^{-1}}\\) বেগে একটি উলম্ব দেয়ালে অনুভূমিকভাবে আঘাত করে একই বেগে ফিরে গেলো। দেয়াল কর্তৃক প্রযুক্ত বলের ঘাত কত dyne-sec?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2000",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঘাত = ভরবেগের পরিবর্তন \\(= mv - (-mv) = 2mv\\)\n\\(= 2 \\times 10 \\times 100 = 2000\\,\\mathrm{dyne\\text{-}sec}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-047",
+      "text": "একটি রকেট উড্ডয়নের ১ম সেকেন্ডে এর ভরের \\(\\frac{1}{60}\\) ভাগ গ্যাস \\(2400\\,\\mathrm{ms^{-1}}\\) বেগে নির্গমন করে। রকেটটির ত্বরণ কত \\(\\mathrm{ms^{-2}}\\)?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "49.8",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "40.0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30.2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.08",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি সেকেন্ডে নির্গত গ্যাসের ভর \\(= \\frac{m}{60}\\), তাই চালক বল \\(= \\frac{m}{60} \\times 2400 = 40m\\)\n\\(ma = 40m - mg\\), অর্থাৎ \\(a = 40 - 9.8 = 30.2\\,\\mathrm{ms^{-2}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-048",
+      "text": "একটি গাড়ি \\(10\\,\\mathrm{ms^{-1}}\\) সমবেগে চলছে। নিচের কোনটি সত্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গাড়িটির উপর কোনো বলই ক্রিয়া করছে না",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের সমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের চেয়ে বেশি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের চেয়ে কম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমবেগে চললে লব্ধি বল শূন্য। তাই গাড়ির প্রযুক্ত বল ও ঘর্ষণ বল সমান ও বিপরীতমুখী।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-049",
+      "text": "বস্তুর গতি জড়তা কোনটির সমানুপাতিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বস্তুর গতি জড়তা বলতে গতিশীল বস্তুর গতি বজায় রাখার প্রবণতা বোঝায়, যার পরিমাপ ভরবেগ \\(p = mv\\); তাই গতি জড়তা ভরবেগের সমানুপাতিক।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-050",
+      "text": "রৈখিক ভরবেগের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^2T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভরবেগ \\(= \\text{ভর} \\times \\text{বেগ}\\), মাত্রা \\(= \\mathrm{M} \\times \\mathrm{LT^{-1}} = \\mathrm{MLT^{-1}}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-051",
+      "text": "একটি বস্তুর ত্বরণ থাকবে কখন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেগ থাকলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গতিশক্তি থাকলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল প্রযুক্ত থাকলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভরবেগ থাকলে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিউটনের দ্বিতীয় সূত্রানুযায়ী \\(F = ma\\)। বল প্রযুক্ত হলে তবেই বস্তুর ত্বরণ সৃষ্টি হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-052",
+      "text": "ঘূর্ণায়মান একটি বস্তুর জড়তার ভ্রামক \\(2\\,\\mathrm{kg\\,m^2}\\)। বস্তুটিকে \\(10^2\\) J ঘূর্ণন গতিশক্তিতে ঘুরাতে কত কৌণিক বেগের প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 \\times 10^{2}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 \\times 10^{2}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4 \\times 10^{2}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(E = \\frac{1}{2}I\\omega^2\\)\n\\(\\omega = \\sqrt{\\frac{2E}{I}} = \\sqrt{\\frac{2 \\times 100}{2}} = 10\\,\\mathrm{rad\\,s^{-1}}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-053",
+      "text": "Q স্থানে রাস্তার ভিতরের পার্শ্ব অপেক্ষা বাইরের পার্শ্ব কত উঁচু?",
+      "text_en": null,
+      "image": null,
+      "stem": "P ও Q স্থানে যথাক্রমে 9m এবং 16m ব্যাসার্ধের দুটি বাঁকের রাস্তা আছে। প্রত্যেকটি বাঁকের ব্যাংকিং কোণ 3°। (উভয় স্থানে রাস্তার প্রস্থ 5 m)",
+      "stem_image": null,
+      "group": "physics_1st-2024-DIB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.003 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.011 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.262 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.837 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রাস্তার বাইরের পার্শ্ব ভিতরের পার্শ্বের চেয়ে \\(h = w\\sin\\theta\\) উঁচু।\n\\(h = 5 \\times \\sin 3° = 5 \\times 0.0523 = 0.262\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-054",
+      "text": "P ও Q স্থানের রাস্তা দুটিতে কোনো গাড়ির সর্বোচ্চ গতিবেগের অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "P ও Q স্থানে যথাক্রমে 9m এবং 16m ব্যাসার্ধের দুটি বাঁকের রাস্তা আছে। প্রত্যেকটি বাঁকের ব্যাংকিং কোণ 3°। (উভয় স্থানে রাস্তার প্রস্থ 5 m)",
+      "stem_image": null,
+      "group": "physics_1st-2024-DIB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{3} : \\sqrt{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 : 4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9 : 16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "81 : 256",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সর্বোচ্চ গতিবেগ \\(v = \\sqrt{rg\\tan\\theta}\\), \\(\\theta\\) সমান হলে \\(v \\propto \\sqrt{r}\\)\n\\(v_P : v_Q = \\sqrt{9} : \\sqrt{16} = 3 : 4\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-055",
+      "text": "নিউক্লীয় বিটা ক্ষয়ের জন্য দায়ী মৌলিক বল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাড়িত চৌম্বক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লীয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লীয় বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিউক্লীয় বিটা ক্ষয় দুর্বল নিউক্লীয় বলের কারণে ঘটে।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-056",
+      "text": "কেন্দ্রবিমুখী বলের উদাহরণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বৃষ্টিভেজা রাস্তায় বাইসাইকেলের চাকা থেকে পানি ছিটকে পড়া"
+        },
+        {
+          "label": "ii",
+          "text": "পৃথিবীকে কেন্দ্র করে ঘূর্ণায়মান কৃত্রিম উপগ্রহ"
+        },
+        {
+          "label": "iii",
+          "text": "বক্রপথে দ্রুতগতিতে চলন্ত গাড়ি দুর্ঘটনায় পতিত হওয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যে বল বস্তুকে বৃত্তের কেন্দ্র থেকে বাইরের দিকে ঠেলে দেয় (অথবা ঘূর্ণন কাঠামোতে ঠেলে দিচ্ছে বলে মনে হয়), সেটি কেন্দ্রবিমুখী বল। চাকা থেকে পানি ছিটকে পড়া (i) এবং বক্রপথে দ্রুত চলা গাড়ির বাইরের দিকে ছিটকে যাওয়া (iii) এর উদাহরণ। কৃত্রিম উপগ্রহের বৃত্তাকার গতির কারণ কেন্দ্রমুখী বল (মহাকর্ষ বল); তাই ii কেন্দ্রবিমুখী বলের উদাহরণ নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (খ) i ও iii হওয়া উচিত। কৃত্রিম উপগ্রহের বৃত্তাকার গতির কারণ কেন্দ্রমুখী বল (মহাকর্ষ), কেন্দ্রবিমুখী বল নয়।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-057",
+      "text": "একটি বস্তুর উপর 600 N বল 1 মিনিট ক্রিয়া করে। ভরবেগের পরিবর্তন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.6 \\times 10^{4}\\,\\mathrm{kg\\,ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.6 \\times 10^{3}\\,\\mathrm{kg\\,ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(600\\,\\mathrm{kg\\,ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10\\,\\mathrm{kg\\,ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভরবেগের পরিবর্তন = ঘাত \\(= Ft = 600 \\times 60 = 36000 = 3.6 \\times 10^4\\,\\mathrm{kg\\,ms^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-058",
+      "text": "চিত্রের আলোকে কোন অক্ষের সাপেক্ষে দণ্ডটিকে ঘুরানো সবচেয়ে কঠিন হবে?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch4-mcq-058-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "AB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "CD",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "EF",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "GH",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঘূর্ণন অক্ষ থেকে ভরের দূরত্ব যত বেশি, জড়তার ভ্রামক তত বেশি এবং ঘোরানো তত কঠিন। দণ্ডের প্রান্ত দিয়ে যাওয়া অক্ষ AB-এর সাপেক্ষে \\(I = \\frac{ML^2}{3}\\), যা সবচেয়ে বেশি। তাই AB অক্ষের সাপেক্ষে ঘোরানো সবচেয়ে কঠিন।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-059",
+      "text": "কোনো বিন্দু বা অক্ষের সাপেক্ষে কোনো বলের ভ্রামককে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চক্রগতির ব্যাসার্ধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বন্দ্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টর্ক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কোনো বিন্দু বা অক্ষের সাপেক্ষে বলের ভ্রামককে টর্ক বা বলের মোমেন্ট বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-060",
+      "text": "কৌণিক ভরবেগের ক্ষেত্রে কোনটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(L = mvr\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(L = mrv^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(L = \\frac{mv^2}{\\omega}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(L = mr^2\\omega\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(L = mvr = mr^2\\omega\\) এবং \\(v = r\\omega\\) বসিয়ে \\(L = \\frac{mv^2}{\\omega}\\) পাওয়া যায়, যা সঠিক। \\(L = mrv^2\\) সঠিক নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-061",
+      "text": "ভেক্টররূপে প্রকাশিত ভরবেগসমূহের লব্ধি সংরক্ষণের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "যে কোনো দিকে ঐ লব্ধির উপাংশও সংরক্ষিত থাকবে"
+        },
+        {
+          "label": "ii",
+          "text": "যে কোনো দিকে উপাংশ বের করার পর ভেক্টর চিহ্ন ব্যবহার না করলেও চলে"
+        },
+        {
+          "label": "iii",
+          "text": "ভরবেগ যদি ভেক্টরে প্রকাশিত হয় তবে এর দিক উল্লেখ করতে হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভরবেগ সংরক্ষিত হলে লব্ধি ভরবেগের যে কোনো দিকের উপাংশও সংরক্ষিত থাকে (i)। কোনো নির্দিষ্ট দিকে উপাংশ নিলে সেই দিকে স্কেলারের মতো হিসাব করা যায়, ভেক্টর চিহ্ন লাগে না (ii)। ভরবেগ ভেক্টর রাশি হওয়ায় ভেক্টরে প্রকাশ করলে দিক উল্লেখ করতে হয় (iii)।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-062",
+      "text": "সুষম আয়তাকার বস্তুর ভারকেন্দ্র থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জ্যামিতিক কেন্দ্রে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্যবিন্দুতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্ণদ্বয়ের ছেদ বিন্দুতে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মধ্যমাত্রয়ের ছেদ বিন্দুতে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সুষম আয়তাকার বস্তুর ভারকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দুতে অবস্থিত।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-063",
+      "text": "0.1 kg ভরের স্থির বস্তুর উপর সমবল প্রয়োগ করায় বস্তুটি \\(10\\,\\mathrm{ms^{-2}}\\) সমত্বরণে চলতে থাকে। বস্তুটির উপর প্রযুক্ত বলের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.1 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(F = ma = 0.1 \\times 10 = 1\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-064",
+      "text": "যে বলের কারণে বস্তু বৃত্তাকার পথে ঘুরে সেই বল যদি প্রত্যাহার করে নেওয়া হয় তা হলে বস্তুটি গতিজড়তার কারণে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্পর্শক বরাবর ছুটে যাবে"
+        },
+        {
+          "label": "ii",
+          "text": "ঐ মুহূর্তে বেগের দিক বরাবর ছুটে যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাসার্ধ বরাবর কেন্দ্রের দিকে ছুটে যাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বল প্রত্যাহার করলে বস্তু গতিজড়তার কারণে ওই মুহূর্তের বেগের দিক বরাবর, অর্থাৎ বৃত্তের স্পর্শক বরাবর সোজা ছুটে যায় (i, ii সত্য)। কেন্দ্রের দিকে ছোটে না, তাই iii মিথ্যা।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-065",
+      "text": "কোন কণার পারস্পরিক বিনিময়ের ফলে দুর্বল নিউক্লীয় বল কার্যকর হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রাভিটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোসন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দুর্বল নিউক্লীয় বল W ও Z বোসন কণা বিনিময়ের ফলে কার্যকর হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-066",
+      "text": "দুটি বস্তুর নিজ ঘূর্ণন অক্ষের সাপেক্ষে জড়তার ভ্রামক যথাক্রমে I এবং 2I। যদি তাদের ঘূর্ণন গতিশক্তি সমান হয়, তবে তাদের কৌণিক ভরবেগের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 : \\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2} : 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E = \\frac{L^2}{2I}\\), তাই \\(L = \\sqrt{2IE}\\)। \\(E\\) সমান হলে \\(L \\propto \\sqrt{I}\\)\n\\(L_1 : L_2 = \\sqrt{I} : \\sqrt{2I} = 1 : \\sqrt{2}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-067",
+      "text": "কোনো বস্তুর উপর একই সময় একাধিক বল ক্রিয়া করলে যদি লব্ধি শূন্য হয় তবে স্থির থাকবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ত্বরণ"
+        },
+        {
+          "label": "ii",
+          "text": "গতিশক্তি"
+        },
+        {
+          "label": "iii",
+          "text": "ভরবেগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লব্ধি বল শূন্য হলে নিউটনের প্রথম সূত্র অনুযায়ী বস্তুর অবস্থা অপরিবর্তিত থাকে। তাই ত্বরণ শূন্য থাকে এবং গতিশক্তি ও ভরবেগ ধ্রুব (স্থির) থাকে; i, ii ও iii তিনটিই সত্য।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-068",
+      "text": "বলের ঘাত J এর একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{N^{-1}s}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Ns^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Ns",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঘাত \\(J = F \\times t\\), একক \\(\\mathrm{N \\cdot s}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-069",
+      "text": "100 m ব্যাসার্ধের রাস্তার বাঁকে \\(4.9\\,\\mathrm{ms^{-1}}\\) বেগে সাইকেল চালাতে হলে আরোহীকে উল্লম্বের সাথে কত কোণে নত হতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.286°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.4°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "13.76°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "26.76°",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan\\theta = \\frac{v^2}{rg} = \\frac{(4.9)^2}{100 \\times 9.8} = 0.0245\\)\n\\(\\theta = \\tan^{-1}(0.0245) \\approx 1.4°\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-070",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ অসীম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গতি বৃদ্ধির সাথে ব্যাংকিং কোণ ধ্রুব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘর্ষণ বল সর্বদা ধনাত্মক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রমুখী বল সর্বদা সরণের (বেগের) সাথে লম্ব, তাই \\(W = Fs\\cos 90° = 0\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-071",
+      "text": "বস্তুসমূহ সমত্বরণে গতিশীল হলে 15 kg ভরের বস্তুর উপর কার্যকর বল \\(F_3\\) এর মান কত?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch4-mcq-071-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "50 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "75 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "125 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "150 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তিনটি বস্তুর মোট ভর \\(= 15 + 10 + 5 = 30\\,\\mathrm{kg}\\)\n\\(a = \\frac{F_1}{M} = \\frac{150}{30} = 5\\,\\mathrm{ms^{-2}}\\)\n\\(F_3 = 15 \\times 5 = 75\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-072",
+      "text": "চিত্র-১ ও চিত্র-২ এ উল্লিখিত দণ্ডের জড়তার ভ্রামকদ্বয়ের অনুপাত হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিম্নের চিত্র দুটিতে 1 kg ভর এবং 1 m দৈর্ঘ্যের একটি সুষম দণ্ড AB-এর লম্বগামী অক্ষ XY সাপেক্ষে ঘুরছে।",
+      "stem_image": "assets/physics_1st-ch4-mcq-072-stem.svg",
+      "group": "physics_1st-2023-DB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রান্তবিন্দুগামী অক্ষে \\( I_1 = \\frac{ML^2}{3} \\), মধ্যবিন্দুগামী অক্ষে \\( I_2 = \\frac{ML^2}{12} \\)\n\\( I_1 : I_2 = \\frac{1}{3} : \\frac{1}{12} = 4 : 1 \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-073",
+      "text": "চিত্র-১ অনুযায়ী দণ্ডটির চক্রগতির ব্যাসার্ধের মান—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিম্নের চিত্র দুটিতে 1 kg ভর এবং 1 m দৈর্ঘ্যের একটি সুষম দণ্ড AB-এর লম্বগামী অক্ষ XY সাপেক্ষে ঘুরছে।",
+      "stem_image": "assets/physics_1st-ch4-mcq-072-stem.svg",
+      "group": "physics_1st-2023-DB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{\\sqrt{2}}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{\\sqrt{3}}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{2}{\\sqrt{3}}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{3\\sqrt{2}}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( I = \\frac{ML^2}{3} = Mk^2 \\)\n\\( k = \\frac{L}{\\sqrt{3}} = \\frac{1}{\\sqrt{3}}\\,\\mathrm{m} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-074",
+      "text": "বস্তুর গতিজড়তা নিচের কোনটির সমানুপাতিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেগ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গতিজড়তা বস্তুর ভরবেগের সমানুপাতিক, কারণ বস্তুর ভরবেগ যত বেশি, তার গতির অবস্থা পরিবর্তনে বাধা তত বেশি।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-075",
+      "text": "বলের ঘাত দ্বারা বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রৈখিক ভরবেগের পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ভরবেগের পরিবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বলের ঘাত \\( = F\\cdot t = \\) রৈখিক ভরবেগের পরিবর্তন।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-076",
+      "text": "ঘর্ষণ বল ও বস্তুর বেগের মধ্যবর্তী কোণ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঘর্ষণ বল সবসময় বেগের বিপরীত দিকে ক্রিয়া করে, তাই কোণ \\( \\pi \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-077",
+      "text": "কৌণিক ভরবেগের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{kg\\,m^2s^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{kg\\,m^2s^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{kg\\,m^{-1}s^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{kg\\,m^2s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কৌণিক ভরবেগ \\( L = I\\omega \\), একক \\( \\mathrm{kg\\,m^2\\cdot s^{-1}} \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-078",
+      "text": "একটি বৈদ্যুতিক পাখা প্রতি মিনিটে 90 বার ঘুরছে। এর কৌণিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\pi}{3}\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3\\pi\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90\\pi\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(180\\pi\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\omega = 2\\pi f = 2\\pi\\times\\frac{90}{60} = 3\\pi\\,\\mathrm{rad\\,s^{-1}} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2023",
+          "qno": 6,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-079",
+      "text": "কৌণিক ভরবেগের পরিবর্তনের হার নিচের কোনটির সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৌণিক ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "টর্ক \\( \\tau = \\frac{dL}{dt} \\), অর্থাৎ কৌণিক ভরবেগের পরিবর্তনের হার টর্কের সমান।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-080",
+      "text": "ক্রিয়া ও প্রতিক্রিয়া বলের মধ্যে কোণের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 rad",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "π rad",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2π rad",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3π rad",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্রিয়া ও প্রতিক্রিয়া বল পরস্পর বিপরীতমুখী, তাই তাদের মধ্যবর্তী কোণ \\( 180^\\circ = \\pi \\) rad।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-081",
+      "text": "P হতে R এ বস্তুটি পৌঁছায়—",
+      "text_en": null,
+      "image": null,
+      "stem": "P বিন্দুতে রাখা m ভরের বস্তুটি P বিন্দু হতে PR বরাবর R বিন্দুতে আসে।",
+      "stem_image": "assets/physics_1st-ch4-mcq-081-stem.svg",
+      "group": "physics_1st-2023-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "সমমন্দনে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমত্বরণে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবেগে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসম ত্বরণে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চিত্রে PQ ও PR এর মধ্যবর্তী কোণ \\( \\theta \\), তাই নততলের নতি \\( (90^\\circ-\\theta) \\)। নততল বরাবর বস্তুর উপর ধ্রুব বল \\( mg\\sin(90^\\circ-\\theta) \\) কাজ করে, ফলে ত্বরণ ধ্রুব। অর্থাৎ বস্তুটি সমত্বরণে নামে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-082",
+      "text": "PR তলে নামার সময় বস্তুর উপর ক্রিয়াশীল বল—",
+      "text_en": null,
+      "image": null,
+      "stem": "P বিন্দুতে রাখা m ভরের বস্তুটি P বিন্দু হতে PR বরাবর R বিন্দুতে আসে।",
+      "stem_image": "assets/physics_1st-ch4-mcq-081-stem.svg",
+      "group": "physics_1st-2023-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(mg\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(mg\\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(mg\\cot\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(mg\\tan\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নততলের নতি \\( (90^\\circ-\\theta) \\) হওয়ায় তল বরাবর নিম্নমুখী বল \\( mg\\sin(90^\\circ-\\theta) = mg\\cos\\theta \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-083",
+      "text": "AB অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch4-mcq-083-stem.svg",
+      "group": "physics_1st-2023-BB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{r}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{r}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "r",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2}\\,r\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "AB অক্ষ চাকতির তলের লম্বভাবে কেন্দ্র দিয়ে গেছে, তাই \\( I = \\frac{1}{2}mr^2 \\)\n\\( k = \\sqrt{\\frac{I}{m}} = \\sqrt{\\frac{r^2}{2}} = \\frac{r}{\\sqrt{2}} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-084",
+      "text": "CD অক্ষের সাপেক্ষে জড়তার ভ্রামক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch4-mcq-083-stem.svg",
+      "group": "physics_1st-2023-BB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{r^2}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2r^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3r^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রগামী অক্ষে \\( I_0 = \\frac{1}{2}mr^2 = \\frac{1}{2}\\times2\\times r^2 = r^2 \\)\nসমান্তরাল অক্ষ উপপাদ্য: \\( I = I_0 + mr^2 = r^2 + 2r^2 = 3r^2 \\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-085",
+      "text": "বলের ঘাত হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভরবেগের পরিবর্তনের হার"
+        },
+        {
+          "label": "ii",
+          "text": "বল ও বলের ক্রিয়াকালের গুণফল"
+        },
+        {
+          "label": "iii",
+          "text": "ভরবেগের পরিবর্তন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বলের ঘাত \\( = F\\cdot t = \\) ভরবেগের পরিবর্তন, তাই (ii) ও (iii) সত্য। ভরবেগের পরিবর্তনের হার হলো বল, তাই (i) মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-086",
+      "text": "কৌণিক ভরবেগের পরিবর্তনের হার হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৌণিক ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দ্বন্দ্বের ভ্রামক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কৌণিক ভরবেগের পরিবর্তনের হার \\( \\frac{dL}{dt} = \\tau \\), অর্থাৎ বলের দ্বন্দ্ব (টর্ক)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-087",
+      "text": "বৃত্তাকার পথে 72 km/h সমদ্রুতিতে চলমান একটি গাড়ির কেন্দ্রমুখী ত্বরণ \\(2\\,\\mathrm{ms^{-2}}\\)। বৃত্তাকার পথের ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "144 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2592 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( v = 72\\,\\mathrm{kmh^{-1}} = 20\\,\\mathrm{ms^{-1}} \\)\n\\( a = \\frac{v^2}{r} \\Rightarrow r = \\frac{20^2}{2} = 200\\,\\mathrm{m} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-088",
+      "text": "কোনটি বলের ঘাতের মাত্রা সমীকরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "MLT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^2T^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বলের ঘাত \\( = F\\times t \\) এর মাত্রা \\( \\mathrm{MLT^{-2}}\\times\\mathrm{T} = \\mathrm{MLT^{-1}} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-089",
+      "text": "জড়তার ভ্রামকের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "kg−m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{kg{-}m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{kg{-}m^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{kg{-}m^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জড়তার ভ্রামক \\( I = mr^2 \\), তাই একক \\( \\mathrm{kg\\text{-}m^2} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-090",
+      "text": "নিচের কোন সম্পর্কটি সঠিক নয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{L} = \\vec{r} \\times \\vec{P}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{\\tau} = \\vec{r} \\times \\vec{F}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{L} = \\frac{d\\vec{\\tau}}{dt}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{F} = \\frac{d\\vec{P}}{dt}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "টর্ক \\( \\vec{\\tau} = \\frac{d\\vec{L}}{dt} \\)। (গ)-তে লেখা হয়েছে \\( \\vec{L} = \\frac{d\\vec{\\tau}}{dt} \\), যা ভুল সম্পর্ক। বাকিগুলো সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-091",
+      "text": "ফোটন কণার বিনিময়ের মাধ্যমে কোন বল কার্যকর হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাড়িতচুম্বক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লিয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লিয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তাড়িতচুম্বক বল আহিত কণাগুলোর মধ্যে ফোটন কণা বিনিময়ের মাধ্যমে কার্যকর হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-092",
+      "text": "কোনো বস্তুর উপর প্রযুক্ত বলসমূহের লব্ধি শূন্য হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বস্তুর বেগ ধ্রুব"
+        },
+        {
+          "label": "ii",
+          "text": "বস্তুর ত্বরণ শূন্য"
+        },
+        {
+          "label": "iii",
+          "text": "বস্তুর ভরবেগ ধ্রুব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লব্ধি বল শূন্য হলে নিউটনের প্রথম সূত্রানুসারে বস্তুর ত্বরণ শূন্য, বেগ ধ্রুব এবং ফলে ভরবেগ \\( (mv) \\) ধ্রুব থাকে। তাই (i), (ii), (iii) সবই সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-093",
+      "text": "একটি গাড়ি 400m ব্যাসার্ধের একটি সমতল বৃত্তাকার পথে \\(40\\,\\mathrm{ms^{-1}}\\) বেগে চলছে। গাড়ির ভর 1100 kg হলে ঘর্ষণ বল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4400 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "440 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "110 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11 N",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমতল বৃত্তাকার পথে ঘর্ষণ বলই কেন্দ্রমুখী বল জোগায়।\n\\( f = \\frac{mv^2}{r} = \\frac{1100\\times40^2}{400} = 4400\\,\\mathrm{N} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-094",
+      "text": "নিচের কোনটি 'বলের ঘাত' এর মাত্রা নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{M^{-1}LT^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বলের ঘাত \\( = Ft \\), মাত্রা \\( \\mathrm{MLT^{-2}}\\cdot\\mathrm{T} = \\mathrm{MLT^{-1}} \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-095",
+      "text": "নিউটনিয়ান বলবিদ্যা অনুসারে কোনটি ধ্রুব নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিউটনীয় বলবিদ্যায় ভর, স্থান ও কাল ধ্রুব ধরা হয়। বল প্রযুক্ত হলে ভরবেগ পরিবর্তিত হয়, তাই ভরবেগ ধ্রুব নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-096",
+      "text": "কোনো বস্তুর ওপর বাহ্যিক নিট টর্ক শূন্য হলে কোনটি ধ্রুব থাকবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রৈখিক বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রৈখিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভরবেগের পরিবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিট টর্ক শূন্য হলে \\( \\tau = \\frac{dL}{dt} = 0 \\), অর্থাৎ কৌণিক ভরবেগ ধ্রুব থাকে (কৌণিক ভরবেগের সংরক্ষণ)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-097",
+      "text": "সুষম দ্রুতিতে ঘূর্ণায়মান একটি বস্তুর ওপর কেন্দ্রের দিকে ব্যাসার্ধ বরাবর বল প্রয়োগে কৃত কাজ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "20π Joule",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10π Joule",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20 Joule",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 Joule",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্রমুখী বল সরণের (গতির দিকের) সাথে লম্ব, তাই \\( W = Fs\\cos90^\\circ = 0 \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-098",
+      "text": "বল ও বলের ক্রিয়াকালের গুণফলকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বলের ঘাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঘাত বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাজ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঘাত \\( = F\\cdot t \\)। বল ও বলের ক্রিয়াকালের গুণফলকে বলের ঘাত বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-099",
+      "text": "রাস্তার ব্যাংকিং কোণ কীসের ওপর নির্ভরশীল নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বস্তুর বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বস্তুর ভর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভিকর্ষজ ত্বরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাস্তার ব্যাসার্ধ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাংকিং কোণের জন্য \\( \\tan\\theta = \\frac{v^2}{rg} \\)। এখানে ভর নেই, তাই কোণ বস্তুর ভরের উপর নির্ভর করে না।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-100",
+      "text": "1N ঘর্ষণজনিত বাধাবিশিষ্ট রাস্তার ওপর 2kg ভরের বস্তুতে \\(5\\,\\mathrm{ms^{-2}}\\) ত্বরণ সৃষ্টি করতে হলে কত বলের প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "8N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11N",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( F - f = ma \\)\n\\( F = ma + f = 2\\times5 + 1 = 11\\,\\mathrm{N} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-101",
+      "text": "2kg ভরের একটি চাকার ব্যাস 50 cm, এতে \\(2\\,\\mathrm{rad\\,s^{-2}}\\) কৌণিক ত্বরণ সৃষ্টি করতে কত টর্ক প্রয়োগ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 Nm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 Nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.25 Nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.125 Nm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চাকাকে সুষম চাকতি ধরলে \\( r = 0.25\\,\\mathrm{m} \\)\n\\( I = \\frac{1}{2}mr^2 = \\frac{1}{2}\\times2\\times(0.25)^2 = 0.0625\\,\\mathrm{kg\\,m^2} \\)\n\\( \\tau = I\\alpha = 0.0625\\times2 = 0.125\\,\\mathrm{Nm} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: চাকাটিকে সুষম চাকতি কল্পনা করে উত্তর।"
+    },
+    {
+      "id": "physics_1st-ch4-mcq-102",
+      "text": "1,000 kg ভরের একটি গাড়ী 300N ঘর্ষণ বলযুক্ত সোজা রাস্তায় \\(4\\,\\mathrm{ms^{-2}}\\) সমত্বরণে চলে। গাড়ীর ইঞ্জিন কর্তৃক প্রযুক্ত বল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3,700 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4,300 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4,000 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10,100 N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( F - f = ma \\)\n\\( F = 1000\\times4 + 300 = 4300\\,\\mathrm{N} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-103",
+      "text": "বন্দুকের আদি ভরবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "3kg ভরের একটি বন্দুক থেকে 5gm ভরের একটি বুলেট \\(150\\,\\mathrm{ms^{-1}}\\) বেগে বের হয়ে গেল। বুলেটটি বের হওয়ার সময় একটি বল পেছনের দিকে ধাক্কা দিল।",
+      "stem_image": null,
+      "group": "physics_1st-2023-MB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.75\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-0.75\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গুলি ছোঁড়ার আগে বন্দুক ও বুলেট উভয়ই স্থির ছিল, তাই বন্দুকের আদি ভরবেগ শূন্য।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-104",
+      "text": "বন্দুকটি কত বেগে পেছনে সরে আসবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "3kg ভরের একটি বন্দুক থেকে 5gm ভরের একটি বুলেট \\(150\\,\\mathrm{ms^{-1}}\\) বেগে বের হয়ে গেল। বুলেটটি বের হওয়ার সময় একটি বল পেছনের দিকে ধাক্কা দিল।",
+      "stem_image": null,
+      "group": "physics_1st-2023-MB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.25\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.5\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(150\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভরবেগের সংরক্ষণ: \\( 0 = m v + MV \\)\n\\( V = -\\frac{0.005\\times150}{3} = -0.25\\,\\mathrm{ms^{-1}} \\)\nঅর্থাৎ বন্দুক \\( 0.25\\,\\mathrm{ms^{-1}} \\) বেগে পেছনে সরবে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-105",
+      "text": "টর্কের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^2T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "টর্ক \\( = \\) বল \\( \\times \\) দূরত্ব, মাত্রা \\( \\mathrm{MLT^{-2}}\\cdot\\mathrm{L} = \\mathrm{ML^2T^{-2}} \\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-106",
+      "text": "ব্যাংকিংহীন অনুভূমিক সমতল রাস্তায় নিরাপদে যানবাহনের বাঁক নেওয়ার শর্ত হলো— [এখানে \\(F_{cp}\\) = কেন্দ্রমুখী বল, f = রাস্তার ঘর্ষণ বল]",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(F_{cp} > f\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(F_{cp} \\le f\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(F_{cp} = f\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিরাপদে বাঁক নিতে প্রয়োজনীয় কেন্দ্রমুখী বল সর্বোচ্চ ঘর্ষণ বলের বেশি হওয়া চলবে না, অর্থাৎ \\( F_{cp} \\le f \\) (যার মধ্যে \\( F_{cp} = f \\) সীমান্ত অবস্থাও পড়ে)। \\( F_{cp} > f \\) হলে গাড়ি পিছলে যাবে, তাই (i) ভুল।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-107",
+      "text": "টর্ক (τ), জড়তার ভ্রামক (I) এবং কৌণিক ত্বরণের (α) মধ্যে সম্পর্ক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tau = \\dfrac{I}{\\alpha}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tau = \\sqrt{I\\alpha}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tau = I^2\\alpha\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tau = I\\alpha\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ঘূর্ণন গতিতে নিউটনের দ্বিতীয় সূত্র অনুযায়ী টর্ক \\(\\tau = I\\alpha\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-108",
+      "text": "কৌণিক ভরবেগের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Kgm^2s^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Kgms^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Kgm^2s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "কৌণিক ভরবেগ \\(L = I\\omega\\); একক \\(\\mathrm{kg \\cdot m^2 \\cdot s^{-1}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-109",
+      "text": "একটি পাতলা বৃত্তাকার চাকতির যেকোনো ব্যাসের সাপেক্ষে জড়তার ভ্রামক হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{4}Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3}{2}Mr^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2}{3}Mr^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পাতলা বৃত্তাকার চাকতির কেন্দ্রগামী লম্ব অক্ষে \\(I = \\dfrac{1}{2}Mr^2\\); লম্ব অক্ষ উপপাদ্য অনুযায়ী ব্যাসের সাপেক্ষে \\(I = \\dfrac{1}{4}Mr^2\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-110",
+      "text": "রাস্তার বাঁকে গাড়ির নিরাপদ সর্বোচ্চ বেগ নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাঁকের ব্যাসার্ধের উপর"
+        },
+        {
+          "label": "ii",
+          "text": "গাড়ির ভরের উপর"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাংকিং কোণের উপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বাঁকে নিরাপদ বেগ \\(v = \\sqrt{rg\\tan\\theta}\\)। এটি বাঁকের ব্যাসার্ধ r ও ব্যাংকিং কোণ \\(\\theta\\)-এর উপর নির্ভর করে, গাড়ির ভরের উপর নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-111",
+      "text": "চাকাটির কৌণিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি চাকার জড়তার ভ্রামক \\(2\\,\\mathrm{kgm^2}\\)। চাকাটি মিনিটে 30 বার ঘুরছে।",
+      "stem_image": null,
+      "group": "physics_1st-2022-CB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "2 rpm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15 rpm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30 rpm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "60 rpm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মিনিটে 30 বার ঘুরলে কৌণিক বেগ 30 rpm (প্রশ্নে প্রদত্ত বিকল্পের এককে)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-112",
+      "text": "চাকাটির কৌণিক ভরবেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি চাকার জড়তার ভ্রামক \\(2\\,\\mathrm{kgm^2}\\)। চাকাটি মিনিটে 30 বার ঘুরছে।",
+      "stem_image": null,
+      "group": "physics_1st-2022-CB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\omega = 30\\,\\mathrm{rpm} = \\dfrac{30 \\times 2\\pi}{60} = \\pi\\,\\mathrm{rads^{-1}}\\)\n\\(L = I\\omega = 2 \\times \\pi = 2\\pi\\,\\mathrm{kgm^2s^{-1}}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-113",
+      "text": "কোনো কণার ব্যাসার্ধ ভেক্টর \\(\\vec{r}\\), রৈখিক ভরবেগ \\(\\vec{P}\\), কৌণিক ভরবেগ \\(\\vec{L}\\), প্রযুক্ত বল \\(\\vec{F}\\) এবং ক্রিয়াশীল টর্ক \\(\\vec{\\tau}\\) হলে \\(\\vec{\\tau}\\) ও \\(\\vec{L}\\) যথাক্রমে নিচের কোনটির সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{r} \\times \\vec{F},\\ \\vec{r} \\times \\vec{P}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{r} \\times \\vec{P},\\ \\vec{r} \\times \\vec{F}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{F} \\times \\vec{r},\\ \\vec{r} \\times \\vec{P}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{r} \\times \\vec{P},\\ \\vec{F} \\times \\vec{r}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "টর্ক \\(\\vec{\\tau} = \\vec{r} \\times \\vec{F}\\) এবং কৌণিক ভরবেগ \\(\\vec{L} = \\vec{r} \\times \\vec{P}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-114",
+      "text": "একই ভর ও ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার চাকতি এবং একটি রিং এর কেন্দ্র দিয়ে অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2} : 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 : \\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3} : \\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "চাকতির জন্য \\(I = \\dfrac{1}{2}Mr^2\\), \\(k_1 = \\dfrac{r}{\\sqrt{2}}\\); রিং-এর জন্য \\(I = Mr^2\\), \\(k_2 = r\\)\n\\(k_1 : k_2 = \\dfrac{1}{\\sqrt{2}} : 1 = 1 : \\sqrt{2}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-115",
+      "text": "ক্রিয়া-প্রতিক্রিয়ার মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(180^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ক্রিয়া ও প্রতিক্রিয়া সমান মানের ও বিপরীতমুখী, তাই এদের মধ্যবর্তী কোণ \\(180^\\circ\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-116",
+      "text": "উদ্দীপকের A বস্তুকণার রৈখিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "2gm, 6gm ও 4gm ভরের তিনটি বস্তুকণা যথাক্রমে A, B ও C কোনো ঘূর্ণন অক্ষের সাপেক্ষে 5 সেকেন্ডে 20 বার করে ঘুরে। বস্তুকণাগুলোর কৌণিক ভরবেগ যথাক্রমে \\(L_A, L_B\\) ও \\(L_C\\)। অক্ষ থেকে কণাগুলোর দূরত্ব যথাক্রমে 5cm, 4cm ও 3cm।",
+      "stem_image": null,
+      "group": "physics_1st-2022-DIB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.256\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6.283\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9.283\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(125.60\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(f = \\dfrac{20}{5} = 4\\,\\mathrm{Hz}\\), \\(\\omega = 2\\pi f = 8\\pi = 25.13\\,\\mathrm{rads^{-1}}\\)\n\\(v = \\omega r = 25.13 \\times 0.05 = 1.256\\,\\mathrm{ms^{-1}}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2022",
+          "qno": 9,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-117",
+      "text": "কৌণিক ভরবেগের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "2gm, 6gm ও 4gm ভরের তিনটি বস্তুকণা যথাক্রমে A, B ও C কোনো ঘূর্ণন অক্ষের সাপেক্ষে 5 সেকেন্ডে 20 বার করে ঘুরে। বস্তুকণাগুলোর কৌণিক ভরবেগ যথাক্রমে \\(L_A, L_B\\) ও \\(L_C\\)। অক্ষ থেকে কণাগুলোর দূরত্ব যথাক্রমে 5cm, 4cm ও 3cm।",
+      "stem_image": null,
+      "group": "physics_1st-2022-DIB-1-2",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(L_A > L_B > L_C\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(L_A > L_C > L_B\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(L_B > L_A > L_C\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(L_B > L_C > L_A\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ω সবার সমান, \\(L = mr^2\\omega\\) এবং \\(mr^2\\) (g·cm² এককে):\nA: \\(2 \\times 25 = 50\\); B: \\(6 \\times 16 = 96\\); C: \\(4 \\times 9 = 36\\)\nঅতএব \\(L_B > L_A > L_C\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2022",
+          "qno": 10,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-118",
+      "text": "Nm একক হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কৌণিক ভরবেগের"
+        },
+        {
+          "label": "ii",
+          "text": "কাজের"
+        },
+        {
+          "label": "iii",
+          "text": "বলের ভ্রামকের"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কৌণিক ভরবেগের একক \\(\\mathrm{kgm^2s^{-1}}\\), Nm নয় (i মিথ্যা)। কাজ (ii) ও টর্ক বা বলের ভ্রামক (iii)-এর একক Nm।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-119",
+      "text": "একটি দেয়াল ঘড়ির ঘণ্টা, মিনিট ও সেকেন্ডের কাঁটার কৌণিক বেগের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 : 12 : 720\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 : 12 : 720\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(12 : 1 : 720\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(720 : 12 : 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ঘণ্টার কাঁটা 12 ঘণ্টায়, মিনিটের কাঁটা 1 ঘণ্টায়, সেকেন্ডের কাঁটা \\(\\dfrac{1}{60}\\) ঘণ্টায় একবার ঘোরে। \\(\\omega \\propto \\dfrac{1}{T}\\), তাই অনুপাত \\(\\dfrac{1}{12} : 1 : 60 = 1 : 12 : 720\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-120",
+      "text": "বিটা ক্ষয়ের জন্য কোন বল দায়ী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লিয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাড়িত চৌম্বক বল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বিটা ক্ষয়ে নিউট্রন প্রোটনে রূপান্তরিত হয়; এর জন্য দুর্বল নিউক্লিয় বল দায়ী।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-121",
+      "text": "নিচের কোন সমীকরণটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{\\tau} = \\vec{F} \\times \\vec{r}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{\\tau} = \\vec{P} \\times \\vec{r}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{\\tau} = \\vec{r} \\times \\vec{F}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{\\tau} = \\vec{r} \\times \\vec{P}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "টর্ক \\(\\vec{\\tau} = \\vec{r} \\times \\vec{F}\\) (ব্যাসার্ধ ভেক্টর × বল)। ক্রম উল্টালে দিক উল্টে যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-122",
+      "text": "গোলাকার চাকতির পৃষ্ঠের অভিলম্বভাবে গমনকারী স্পর্শকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}r\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{\\dfrac{2}{3}}\\,r\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{\\dfrac{3}{2}}\\,r\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\dfrac{2}{5}}\\,r\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পৃষ্ঠের অভিলম্ব স্পর্শকের সাপেক্ষে \\(I = \\dfrac{1}{2}Mr^2 + Mr^2 = \\dfrac{3}{2}Mr^2\\)\n\\(Mk^2 = \\dfrac{3}{2}Mr^2\\), \\(k = \\sqrt{\\dfrac{3}{2}}\\,r\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-123",
+      "text": "পৃথিবীর নিজ অক্ষের ঘূর্ণনের জন্য জাতীয় স্মৃতিসৌধের কৌণিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(7.27 \\times 10^5\\,\\mathrm{rads^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.2618\\,\\mathrm{rads^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.818 \\times 10^{-4}\\,\\mathrm{rads^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7.27 \\times 10^{-5}\\,\\mathrm{rads^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পৃথিবীর আবর্তনকাল 24 h = 86400 s\n\\(\\omega = \\dfrac{2\\pi}{T} = \\dfrac{2 \\times 3.1416}{86400} = 7.27 \\times 10^{-5}\\,\\mathrm{rads^{-1}}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-124",
+      "text": "তেজস্ক্রিয় ক্ষয়ের বেলায় কোন বল ক্রিয়াশীল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ চৌম্বক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শক্তিশালী নিউক্লীয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লীয় বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তেজস্ক্রিয় ক্ষয়ের (বিটা ক্ষয়) জন্য দুর্বল নিউক্লীয় বল দায়ী।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-125",
+      "text": "নিউটনের গতির তৃতীয় সূত্রের উদাহরণের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঘোড়ার গাড়ি টানা"
+        },
+        {
+          "label": "ii",
+          "text": "বন্দুকের গুলি ছোড়া"
+        },
+        {
+          "label": "iii",
+          "text": "মহাশূন্যে গতিশীল মহাকাশযান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ঘোড়ার গাড়ি টানা, বন্দুকের গুলি ছোড়া এবং মহাশূন্যে মহাকাশযানের গতি (রকেট নীতি)-এই তিনটিই ক্রিয়া-প্রতিক্রিয়ার ফল, তাই নিউটনের তৃতীয় সূত্রের উদাহরণ।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-126",
+      "text": "0.1 kg ভরের একটি পাথর খণ্ডকে 0.5m লম্বা একটি সুতার একপ্রান্তে বেঁধে বৃত্তাকার পথে প্রতি মিনিটে 90 বার ঘুরালে সুতার টান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.471 N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.21 N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.44 N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "41.79 N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\omega = \\dfrac{90 \\times 2\\pi}{60} = 3\\pi = 9.425\\,\\mathrm{rads^{-1}}\\)\nসুতার টান \\(T = m\\omega^2 r = 0.1 \\times (9.425)^2 \\times 0.5 = 4.44\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-127",
+      "text": "কোনো অক্ষ সাপেক্ষে বস্তুতে প্রযুক্ত বলের মান এবং অক্ষের লম্ব দূরত্বের গুণফলকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চক্রগতির ব্যাসার্ধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রৈখিক ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বল ও অক্ষ থেকে বলের ক্রিয়ারেখার লম্ব দূরত্বের গুণফলকে টর্ক (বলের ভ্রামক) বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-128",
+      "text": "মৌলিক বলকে কয়ভাগে ভাগ করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মৌলিক বল চার প্রকার: মহাকর্ষ বল, তাড়িতচৌম্বক বল, সবল নিউক্লীয় বল ও দুর্বল নিউক্লীয় বল।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-129",
+      "text": "5 kg ভরের একটি বস্তু \\(5\\,\\mathrm{ms^{-1}}\\) সমদ্রুতিতে 5m ব্যাসার্ধের বৃত্ত পথে চিত্রানুযায়ী ঘুরছে। কেন্দ্রমুখী বলের দিক কোন দিকে হবে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch4-mcq-129-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "উত্তর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দক্ষিণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পূর্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পশ্চিম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বৃত্তাকার গতিতে কেন্দ্রমুখী বল সর্বদা বৃত্তের কেন্দ্রের দিকে ক্রিয়া করে। চিত্রে বস্তুটি দক্ষিণ বিন্দুতে আছে, তাই কেন্দ্র তার উত্তর দিকে এবং বল উত্তর দিকে।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-130",
+      "text": "কোনো বস্তুর উপর বাহ্যিক টর্কের লব্ধি শূন্য হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থির বস্তু স্থির থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "ঘূর্ণায়মান বস্তু থেমে যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "ঘূর্ণায়মান বস্তু সমকৌণিক বেগে ঘুরতে থাকবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "টর্কের লব্ধি শূন্য হলে কৌণিক ভরবেগ সংরক্ষিত থাকে: স্থির বস্তু স্থির থাকে (i সত্য) এবং ঘূর্ণায়মান বস্তু সমকৌণিক বেগে ঘুরতে থাকে (iii সত্য)। ঘূর্ণায়মান বস্তু থেমে যায় না (ii মিথ্যা)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-131",
+      "text": "বস্তুটির ত্বরণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.1kg ভরের একটি স্থির বস্তুর উপর 1N বল 1S ক্রিয়া করে—",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.1\\,\\mathrm{ms^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5\\,\\mathrm{ms^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10\\,\\mathrm{ms^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(100\\,\\mathrm{ms^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(a = \\dfrac{F}{m} = \\dfrac{1}{0.1} = 10\\,\\mathrm{ms^{-2}}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-132",
+      "text": "প্রযুক্ত বল অপসারিত হলে গতিশীল বস্তুটির পরিণতি কী হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "0.1kg ভরের একটি স্থির বস্তুর উপর 1N বল 1S ক্রিয়া করে—",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "থেমে যাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমবেগে চলবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমত্বরণে চলবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমমন্দনে চলবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বল অপসারিত হলে লব্ধি বল শূন্য হয়। নিউটনের প্রথম সূত্র অনুযায়ী বস্তুটি তখন অর্জিত বেগে সমবেগে চলতে থাকবে।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-133",
+      "text": "বস্তুর আণবিক গঠন ও রাসায়নিক বিক্রিয়ার জন্য দায়ী কোন বল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মহাকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাড়িতচৌম্বক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সবল নিউক্লিয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বস্তুর আণবিক গঠন ও রাসায়নিক বিক্রিয়ার জন্য তাড়িতচৌম্বক বল দায়ী।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-134",
+      "text": "আবর্ত ঘূর্ণন গতির ক্ষেত্রে ক্ষমতা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টর্ক × সময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টর্ক × কৌণিক সরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টর্ক × কৌণিক বেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টর্ক × কৌণিক ত্বরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ঘূর্ণন গতিতে ক্ষমতা \\(P = \\dfrac{\\tau\\,d\\theta}{dt} = \\tau\\omega\\), অর্থাৎ টর্ক × কৌণিক বেগ।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-135",
+      "text": "টর্কের একক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "Nm"
+        },
+        {
+          "label": "ii",
+          "text": "dyne-cm"
+        },
+        {
+          "label": "iii",
+          "text": "ft-poundal"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "টর্কের একক SI-তে Nm, CGS-এ dyne-cm এবং FPS-এ ft-poundal; তিনটিই সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-136",
+      "text": "ব্যাসার্ধ ভেক্টর ও বলের ভেক্টর গুণফল হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কাজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ব্যাসার্ধ ভেক্টর ও বলের ভেক্টর গুণফল \\(\\vec{r} \\times \\vec{F}\\) হলো টর্ক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-137",
+      "text": "কোনো বস্তুর উপর লব্ধি বল শূন্য হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমবেগে চলে"
+        },
+        {
+          "label": "ii",
+          "text": "সমত্বরণে চলে"
+        },
+        {
+          "label": "iii",
+          "text": "গতিশক্তি পরিবর্তন হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "লব্ধি বল শূন্য হলে নিউটনের প্রথম সূত্র অনুযায়ী বেগ ধ্রুব থাকে (সমবেগ, i সত্য), ত্বরণ শূন্য (ii মিথ্যা) এবং বেগের মান অপরিবর্তিত থাকায় গতিশক্তি অপরিবর্তিত (iii সত্য)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-138",
+      "text": "কোন কণার বিনিময়ে নিউক্লিয় সবল কাজ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোটন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্র্যাভিটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোসন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেসন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "নিউক্লিয় সবল বল মেসন কণার বিনিময়ে কাজ করে। ফোটন তাড়িতচৌম্বক বল এবং গ্র্যাভিটন মহাকর্ষ বলের বাহক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-139",
+      "text": "বলের ঘাত হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বল ও বলের ক্রিয়া কালের গুণফল"
+        },
+        {
+          "label": "ii",
+          "text": "ভরবেগের পরিবর্তন"
+        },
+        {
+          "label": "iii",
+          "text": "ভরবেগের পরিবর্তনের হার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বলের ঘাত \\(= F \\times t\\) (i সত্য) এবং এটি ভরবেগের পরিবর্তনের সমান (ii সত্য)। ভরবেগের পরিবর্তনের হার হলো বল (iii মিথ্যা)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-140",
+      "text": "টর্কের অপর নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঘর্ষণ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘূর্ণন বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কেন্দ্রমুখী বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "টর্কের অপর নাম ঘূর্ণন বল, কারণ এটি বস্তুকে অক্ষের চারদিকে ঘোরায়।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-141",
+      "text": "টর্কের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{ML^2T^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{M^2LT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^{-3}T^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\tau = F \\times r\\), মাত্রা \\(= \\mathrm{MLT^{-2}} \\times \\mathrm{L} = \\mathrm{ML^2T^{-2}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-142",
+      "text": "4N বল একটি বস্তুর উপর 1sec ব্যাপী ক্রিয়া করলে ভরবেগের পরিবর্তন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(8\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(16\\,\\mathrm{kgms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ভরবেগের পরিবর্তন = ঘাত \\(= Ft = 4 \\times 1 = 4\\,\\mathrm{kgms^{-1}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

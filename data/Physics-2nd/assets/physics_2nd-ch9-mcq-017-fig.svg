@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 280" width="380" height="280">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="380" height="280" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M80,240 L80,20" marker-end="url(#ah)"/><path d="M80,240 L360,240" marker-end="url(#ah)"/>
+<path d="M80,35 L83.1,42.3 L86.2,49.3 L89.4,56.1 L92.5,62.6 L95.6,68.9 L98.8,75 L101.9,80.8 L105,86.5 L108.1,91.9 L111.2,97.2 L114.4,102.2 L117.5,107.1 L120.6,111.8 L123.8,116.4 L126.9,120.8 L130,125 L133.1,129.1 L136.2,133 L139.4,136.8 L142.5,140.5 L145.6,144 L148.8,147.4 L151.9,150.7 L155,153.9 L158.1,156.9 L161.2,159.9 L164.4,162.7 L167.5,165.5 L170.6,168.1 L173.8,170.6 L176.9,173.1 L180,175.5 L183.1,177.8 L186.2,180 L189.4,182.1 L192.5,184.2 L195.6,186.1 L198.8,188.1 L201.9,189.9 L205,191.7 L208.1,193.4 L211.2,195 L214.4,196.6 L217.5,198.2 L220.6,199.7 L223.8,201.1 L226.9,202.5 L230,203.8 L233.1,205.1 L236.2,206.3 L239.4,207.5 L242.5,208.7 L245.6,209.8 L248.8,210.9 L251.9,211.9 L255,212.9 L258.1,213.9 L261.2,214.8 L264.4,215.7 L267.5,216.5 L270.6,217.4 L273.8,218.2 L276.9,218.9 L280,219.7 L283.1,220.4 L286.2,221.1 L289.4,221.8 L292.5,222.4 L295.6,223.1 L298.8,223.7 L301.9,224.2 L305,224.8 L308.1,225.3 L311.2,225.9 L314.4,226.4 L317.5,226.8 L320.6,227.3 L323.8,227.8 L326.9,228.2 L330,228.6"/>
+<path d="M80,171.7 L175,171.7" stroke-dasharray="6 5"/><circle cx="175" cy="171.7" r="3" fill="#111"/><path d="M75,171.7 L85,171.7"/>
+<text x="56" y="168.7" text-anchor="middle" font-size="12" fill="#111" stroke="none">N<tspan font-size="8" dy="3">0</tspan></text><path d="M42,171.7 L70,171.7"/><text x="56" y="182.7" text-anchor="middle" font-size="12" fill="#111" stroke="none">3</text>
+<text x="183" y="163.7" text-anchor="start" font-size="15" font-style="italic" fill="#111" stroke="none">t<tspan font-size="10" dy="3">1</tspan></text>
+<path d="M80,199 L219.2,199" stroke-dasharray="6 5"/><circle cx="219.2" cy="199" r="3" fill="#111"/><path d="M75,199 L85,199"/>
+<text x="56" y="196" text-anchor="middle" font-size="12" fill="#111" stroke="none">N<tspan font-size="8" dy="3">0</tspan></text><path d="M42,199 L70,199"/><text x="56" y="210" text-anchor="middle" font-size="12" fill="#111" stroke="none">5</text>
+<text x="227.2" y="191" text-anchor="start" font-size="15" font-style="italic" fill="#111" stroke="none">t<tspan font-size="10" dy="3">2</tspan></text>
+<path d="M75,35 L85,35"/><path d="M75,103.3 L85,103.3"/><path d="M75,158 L85,158"/>
+<text transform="translate(22,140) rotate(-90)" text-anchor="middle" font-size="12" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none">অক্ষত পরমাণুর সংখ্যা, <tspan font-family="'Times New Roman', Times, serif" font-style="italic">N</tspan></text>
+<path d="M150,262 L185,262" marker-end="url(#ah)"/><text x="192" y="267" text-anchor="start" font-size="14" font-style="italic" fill="#111" stroke="none"><tspan font-style="italic">t</tspan> (h)</text>
+</g></svg>

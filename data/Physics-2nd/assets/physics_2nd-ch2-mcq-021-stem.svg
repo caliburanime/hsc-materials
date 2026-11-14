@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="130" viewBox="0 0 380 130">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="380" height="130" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="65" cy="75" r="38"/><circle cx="235" cy="75" r="38"/><circle cx="65" cy="82" r="2.5" fill="#111" stroke="none"/>
+<circle cx="235" cy="82" r="2.5" fill="#111" stroke="none"/>
+<text x="65" y="72" font-size="14" text-anchor="middle" class="v" stroke="none" fill="#111">A</text>
+<text x="235" y="72" font-size="14" text-anchor="middle" class="v" stroke="none" fill="#111">B</text>
+<text x="108" y="50" font-size="14" text-anchor="start" class="n" stroke="none" fill="#111"><tspan class="v">q</tspan><tspan baseline-shift="sub" font-size="70%">1</tspan> = +2C</text>
+<text x="276" y="50" font-size="14" text-anchor="start" class="n" stroke="none" fill="#111"><tspan class="v">q</tspan><tspan baseline-shift="sub" font-size="70%">2</tspan> = −6C</text>
+
+</g>
+</svg>

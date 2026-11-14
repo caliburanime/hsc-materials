@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="176" viewBox="0 0 500 220">
+<rect width="500" height="220" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 1 L10 5 L0 9 Z" fill="#111" stroke="none"/></marker></defs><path d="M185 78 C150 38 80 28 40 55 C20 75 40 110 80 125 C125 140 170 115 190 85 C230 108 330 160 410 150 C465 140 485 90 455 55 C420 22 300 15 185 65"/>
+<path d="M185 78 C150 52 85 42 52 62 C40 80 58 105 90 115 C125 125 165 105 185 88 C240 125 330 150 405 140 C450 130 470 90 440 62 C410 35 300 28 200 70"/>
+<path d="M185 85 C185 110 175 160 160 182 M200 90 C200 120 190 165 180 182"/>
+<path d="M85 180 L190 180 L190 200 L85 200 Z"/>
+<path d="M195 150 L295 175" marker-end="url(#ar)"/><text x="300" y="196" font-family="Times New Roman, serif" font-style="italic" font-size="24" fill="#111" stroke="none" >A</text>
+</g>
+</svg>

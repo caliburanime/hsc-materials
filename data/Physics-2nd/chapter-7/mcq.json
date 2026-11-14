@@ -1,0 +1,3456 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 7,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch7-mcq-001",
+      "text": "দশা পার্থক্য ও পথ পার্থক্যের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{2\\pi}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\lambda}{2\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2\\pi\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\lambda\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দশা পার্থক্য \\(\\delta = \\frac{2\\pi}{\\lambda}\\times\\) পথ পার্থক্য; অতএব অনুপাত \\(= \\frac{2\\pi}{\\lambda}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-002",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় ডোরার প্রস্থ β। সমগ্র পরীক্ষণটিকে n প্রতিসরাঙ্কের তরলে সম্পন্ন করলে ডোরার প্রস্থ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "nβ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\beta}{n+1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\beta}{n-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\beta}{n}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\lambda D}{d}\\)। তরলে তরঙ্গদৈর্ঘ্য \\(\\lambda' = \\frac{\\lambda}{n}\\), তাই \\(\\beta' = \\frac{\\beta}{n}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-003",
+      "text": "সবুজ আলোর জন্য একটি স্বচ্ছ কেলাসের সংকট কোণ 30° হলে, ঐ কেলাসের সমবর্তন কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan^{-1}(2.0)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan^{-1}(\\sqrt{2})\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan^{-1}(1.5)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan^{-1}(1.9)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\frac{1}{\\sin C} = \\frac{1}{\\sin 30^\\circ} = 2\\)\nব্রুস্টারের সূত্র: \\(\\tan\\theta_p = n = 2.0\\), তাই \\(\\theta_p = \\tan^{-1}(2.0)\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-004",
+      "text": "অপবর্তন গ্রেটিং এ চরমের শর্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(d\\sin\\theta_n = (n + 1)\\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(d\\sin\\theta_n = n\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(d\\sin\\theta_n = (2n + 1)\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((a + b)\\sin\\theta_n = n\\lambda\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গ্রেটিংয়ে চরম (উজ্জ্বল) ডোরার শর্ত \\((a+b)\\sin\\theta_n = n\\lambda\\), যেখানে \\((a+b)\\) গ্রেটিং ধ্রুবক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-005",
+      "text": "পর্দায় সৃষ্ট ডোরার প্রস্থ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে ইয়ং-এর দ্বি-চিড় পরীক্ষার একটি ব্যবস্থা দেখানো হয়েছে। ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য 5800Å।",
+      "stem_image": "assets/physics_2nd-ch7-mcq-005-stem.svg",
+      "group": "physics_2nd-2025-CB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5.8 \\times 10^{-10}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^{-5}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.9 \\times 10^{-4}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.45 \\times 10^{-4}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবই অনুযায়ী ডোরার প্রস্থ (একটি উজ্জ্বল বা অন্ধকার ডোরার প্রস্থ) \\(x = \\frac{\\lambda D}{2d}\\)।\n\\(x = \\frac{5800 \\times 10^{-10} \\times 1}{2 \\times 2 \\times 10^{-3}} = 1.45 \\times 10^{-4}\\,\\mathrm{m}\\)\n(দুটি পাশাপাশি উজ্জ্বল ডোরার কেন্দ্রের দূরত্ব হতো \\(\\frac{\\lambda D}{d} = 2.9 \\times 10^{-4}\\) m।)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-006",
+      "text": "পর্দার দূরত্ব 20cm বৃদ্ধি করে একই প্রস্থের ডোরা পেতে হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে ইয়ং-এর দ্বি-চিড় পরীক্ষার একটি ব্যবস্থা দেখানো হয়েছে। ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য 5800Å।",
+      "stem_image": "assets/physics_2nd-ch7-mcq-005-stem.svg",
+      "group": "physics_2nd-2025-CB-13-14",
+      "statements": [
+        {
+          "label": "i",
+          "text": "আলোর তরঙ্গদৈর্ঘ্য বেশি হতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "চিড়ের দূরত্ব বৃদ্ধি করতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "আলোর তরঙ্গদৈর্ঘ্য কম হতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\lambda D}{d}\\)। D বাড়লে β অপরিবর্তিত রাখতে \\(\\frac{\\lambda}{d}\\) কমাতে হবে। তাই হয় চিড়ের দূরত্ব d বাড়াতে হবে (ii) অথবা তরঙ্গদৈর্ঘ্য \\(\\lambda\\) কমাতে হবে (iii)। (i) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-008",
+      "text": "4000Å তরঙ্গদৈর্ঘ্যের দুইটি একই বর্ণের আলোক তরঙ্গের মধ্যে পথ পার্থক্য \\(2 \\times 10^{-7}\\) m হলে, তাদের মধ্যে দশা পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\delta = \\frac{2\\pi}{\\lambda}\\times x = \\frac{2\\pi\\times 2\\times10^{-7}}{4\\times10^{-7}} = \\pi\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-009",
+      "text": "টাকার জল ছাপ এর সঠিকতা নিরূপণে কোন রশ্মি ব্যবহার হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক্স রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অতিবেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিটা রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "টাকার জলছাপে প্রতিপ্রভ পদার্থ থাকে, যা অতিবেগুনি রশ্মির আলোয় দৃশ্যমান হয়; তাই সঠিকতা যাচাইয়ে অতিবেগুনি রশ্মি ব্যবহৃত হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-010",
+      "text": "পয়েন্টিং ভেক্টর এর মাত্রা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{MT^{3}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{MT^{-3}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{M^{-1}T^{3}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{M^{-1}T^{-3}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পয়েন্টিং ভেক্টর = একক ক্ষেত্রফলে ক্ষমতা \\(= \\frac{\\mathrm{ML^2T^{-3}}}{\\mathrm{L^2}} = \\mathrm{MT^{-3}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-011",
+      "text": "ফ্রনহফার শ্রেণির অপবর্তনে আলোকরশ্মিসমূহ ও তরঙ্গমুখ যথাক্রমে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান্তরাল ও সমতল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমান্তরাল ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভিসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপসারী ও গোলীয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ফ্রনহফার অপবর্তনে উৎস ও পর্দা অসীম দূরত্বে থাকে, তাই আলোকরশ্মি সমান্তরাল ও তরঙ্গমুখ সমতল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-012",
+      "text": "কোনো মাধ্যমের আপেক্ষিক চৌম্বক প্রবেশ্যতা 1.08 এবং আপেক্ষিক তড়িৎ ভেদনযোগ্যতা 1.005 হলে ঐ মাধ্যমে আলোর বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.02 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.25 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.88 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.00 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v = \\frac{c}{\\sqrt{\\mu_r\\epsilon_r}} = \\frac{3\\times10^8}{\\sqrt{1.08\\times1.005}} = \\frac{3\\times10^8}{1.0418} = 2.88\\times10^8\\ \\mathrm{ms^{-1}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-013",
+      "text": "কোন আলোকীয় ঘটনায় পোলারয়েড ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিফলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পোলারয়েড আলোকে সমবর্তিত করতে বা সমবর্তিত আলো শনাক্ত করতে ব্যবহৃত হয়, তাই এটি সমবর্তনের সাথে সম্পর্কিত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-014",
+      "text": "গ্রেটিং এর গ্রেটিং ধ্রুবক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গ্রেটিং এর প্রতি সেন্টিমিটারে 500 টি দাগ আছে। একটি একবর্ণী ব্যবহৃত আলোর জন্য দ্বিতীয় চরমের অপবর্তন কোণ 4° পাওয়া গেল।",
+      "stem_image": null,
+      "group": "physics_2nd-2025-DIB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 \\times 10^{-3}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^{-4}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 \\times 10^{-5}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2 \\times 10^{-6}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্রেটিং ধ্রুবক \\(d = \\frac{1\\ \\mathrm{cm}}{500} = \\frac{10^{-2}}{500} = 2\\times10^{-5}\\) m",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-015",
+      "text": "ব্যবহৃত একবর্ণী আলোর তরঙ্গদৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি গ্রেটিং এর প্রতি সেন্টিমিটারে 500 টি দাগ আছে। একটি একবর্ণী ব্যবহৃত আলোর জন্য দ্বিতীয় চরমের অপবর্তন কোণ 4° পাওয়া গেল।",
+      "stem_image": null,
+      "group": "physics_2nd-2025-DIB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "6875 Å",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6880 Å",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6970 Å",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6980 Å",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(d\\sin\\theta = n\\lambda\\)\n\\(\\lambda = \\frac{2\\times10^{-5}\\times\\sin4^\\circ}{2} = \\frac{2\\times10^{-5}\\times0.06976}{2} = 6.976\\times10^{-7}\\) m \\(\\approx 6980\\) Å",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "সমাধানকারীর মন্তব্য: নির্ভুল মান 6975.65 Å; নিকটতম বিকল্প 6980 Å।"
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-016",
+      "text": "আলোর তরঙ্গ তত্ত্বের সাহায্যে নিচের কোন ভৌত ধর্মটি ব্যাখ্যা করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিফলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হাইগেনসের তরঙ্গ তত্ত্বে আলোকে অনুদৈর্ঘ্য তরঙ্গ ধরা হয়। অনুদৈর্ঘ্য তরঙ্গের কম্পন তরঙ্গ-দিকের বরাবর হওয়ায় সমবর্তন ঘটে না, তাই এটি ব্যাখ্যা করা যায় না। প্রতিফলন, ব্যতিচার ও অপবর্তন ব্যাখ্যা করা যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-017",
+      "text": "কোনো মাধ্যমের জন্য আপতন কোণ 52° এবং প্রতিসরণ কোণ 31° হলে মাধ্যমে সমবর্তন কোণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "33.16°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "41.62°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "56.83°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "62.28°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(n = \\frac{\\sin i}{\\sin r} = \\frac{\\sin52^\\circ}{\\sin31^\\circ} = \\frac{0.788}{0.515} = 1.53\\)\n\\(\\tan\\theta_p = n\\) থেকে \\(\\theta_p = \\tan^{-1}(1.53) = 56.83^\\circ\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-018",
+      "text": "ফ্রেনেল শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ কীরূপ হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান্তরাল ও সমতল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভিসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমান্তরাল ও বেলনাকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফ্রেনেল অপবর্তনে উৎস ও পর্দা সসীম দূরত্বে থাকে, ফলে তরঙ্গমুখ গোলীয় এবং আলোকরশ্মি অভিসারী হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-019",
+      "text": "নিচের কোন আলোকরশ্মিটির তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এক্স-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দৃশ্যমান রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাইক্রোওয়েভ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় বর্ণালিতে মাইক্রোওয়েভের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি; গামা রশ্মির সবচেয়ে কম। ক্রম: গামা < এক্স-রশ্মি < দৃশ্যমান < মাইক্রোওয়েভ।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-020",
+      "text": "\\(\\sqrt{\\mu_0\\epsilon_0}\\) এর মাত্রা সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{LT^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{L^{-1}T}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{L^{-2}T^{2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{L^{-1}T^{-1}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(c = \\frac{1}{\\sqrt{\\mu_0\\epsilon_0}}\\), তাই \\(\\sqrt{\\mu_0\\epsilon_0} = \\frac{1}{c}\\)। এর মাত্রা \\(\\frac{1}{\\mathrm{LT^{-1}}} = \\mathrm{L^{-1}T}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-021",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় আলোর কম্পাঙ্ক \\(5.5 \\times 10^{14}\\) Hz, পার্শ্ববর্তী দুটি ডোরার মধ্যবর্তী দূরত্ব 0.72 mm, চিড় থেকে পর্দাটি 1.5m দূরে থাকলে চিড় দুটির মধ্যবর্তী দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5.68 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.136 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.568 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.1136 mm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\lambda = \\frac{c}{f} = \\frac{3 \\times 10^8}{5.5 \\times 10^{14}} = 5.45 \\times 10^{-7}\\) m\nপাঠ্যবইয়ের সংজ্ঞায় ডোরার প্রস্থ \\(x = \\frac{\\lambda D}{2d}\\) ধরে,\n\\(d = \\frac{\\lambda D}{2x} = \\frac{5.45 \\times 10^{-7} \\times 1.5}{2 \\times 0.72 \\times 10^{-3}} = 5.68 \\times 10^{-4}\\,\\mathrm{m} = 0.568\\) mm",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-022",
+      "text": "কোনো চিড়ের মধ্য দিয়ে আলো বেঁকে যাওয়ার ঘটনা ব্যাখ্যা করা হয় নিচের কোন তত্ত্ব দ্বারা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কণাতত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ চৌম্বকীয় তরঙ্গ তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরঙ্গ তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোয়ান্টাম তত্ত্ব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চিড়ের মধ্য দিয়ে আলোর বেঁকে যাওয়া অর্থাৎ অপবর্তন আলোর তরঙ্গ তত্ত্ব দ্বারা ব্যাখ্যা করা হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-023",
+      "text": "\\(\\left(\\sqrt{\\epsilon_0\\mu_0}\\right)^{-1}\\) এর মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{LT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{L^{\\frac{1}{2}}T^{-\\frac{1}{2}}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{LT^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\left(\\sqrt{\\epsilon_0\\mu_0}\\right)^{-1} = c\\) (শূন্যস্থানে আলোর বেগ)। এর মাত্রা \\(\\mathrm{LT^{-1}}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-024",
+      "text": "একক রেখা ছিদ্রে (প্রস্থ = a) λ তরঙ্গদৈর্ঘ্যের আলো দ্বারা অপবর্তনের ফলে θ অপবর্তন কোণে অপবর্তন ঝালর তৈরি হল। প্রথম অবম বিন্দু গঠনের শর্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\lambda\\sin\\theta = a\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(a\\cos\\theta = \\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(a\\sin\\theta = \\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\lambda\\cos\\theta = a\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "একক রেখা ছিদ্রে প্রথম অবম (ন্যূনতম তীব্রতা) বিন্দুর জন্য পথ পার্থক্য \\(a\\sin\\theta=\\lambda\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-025",
+      "text": "একটি তরঙ্গের দুটি বিন্দুর মধ্যবর্তী পথ পার্থক্য \\(\\frac{3\\lambda}{4}\\) হলে ঐ বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দশা পার্থক্য \\(=\\frac{2\\pi}{\\lambda}\\times\\)পথ পার্থক্য \\(=\\frac{2\\pi}{\\lambda}\\times\\frac{3\\lambda}{4}=\\frac{3\\pi}{2}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "CB",
+          "year": "2025",
+          "qno": 18,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-026",
+      "text": "বায়ুশূন্য স্থানে তড়িৎ চুম্বকীয় তরঙ্গের বেগ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{\\epsilon_0\\mu_0}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{\\sqrt{\\epsilon_0\\mu_0}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\epsilon_0\\mu_0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{\\epsilon_0\\mu_0}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ম্যাক্সওয়েলের তত্ত্ব অনুযায়ী শূন্যস্থানে তড়িৎচুম্বকীয় তরঙ্গের বেগ \\(c=\\frac{1}{\\sqrt{\\mu_0\\epsilon_0}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-027",
+      "text": "ইয়ং-এর দ্বি-চিড় পরীক্ষা কোন ধরনের আলোকীয় ঘটনা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিসরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় দুটি সুসংগত উৎস থেকে আগত আলোর উপরিপাতনে উজ্জ্বল ও অন্ধকার ডোরা সৃষ্টি হয়, যা ব্যতিচার।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-028",
+      "text": "নিচের কোনটির তরঙ্গদৈর্ঘ্য সর্বাপেক্ষা কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতিবেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এক্স-রে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তরঙ্গদৈর্ঘ্যের ক্রম: গামা রশ্মি < এক্স-রে < অতিবেগুনি < অবলোহিত। তাই গামা রশ্মির তরঙ্গদৈর্ঘ্য সবচেয়ে কম।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-029",
+      "text": "একই কম্পাঙ্কের দুটি তরঙ্গের বিস্তারের অনুপাত 1:3; এই দুটি তরঙ্গের উপরিপাতন হলে সর্বোচ্চ ও সর্বনিম্ন তীব্রতার অনুপাত কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 : 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিস্তারের অনুপাত \\(a_1:a_2=1:3\\)\n\\(\\frac{I_{max}}{I_{min}}=\\frac{(a_1+a_2)^2}{(a_1-a_2)^2}=\\frac{(1+3)^2}{(3-1)^2}=\\frac{16}{4}=4:1\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-030",
+      "text": "অসমবর্তিত আলোক রশ্মিকে সমবর্তিত আলোক রশ্মিতে রূপান্তর করা সম্ভব কোন প্রক্রিয়ায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিফলন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমবর্তন প্রক্রিয়ায় অসমবর্তিত আলোকে (সব তলে কম্পিত) সমবর্তিত আলোতে (একটি তলে কম্পিত) রূপান্তর করা হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-031",
+      "text": "তরঙ্গমুখের বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তরঙ্গমুখের প্রতিটি কণা একই দশায় থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "তরঙ্গমুখের সাথে অঙ্কিত অভিলম্ব আলোক রশ্মির দিক নির্দেশ করে"
+        },
+        {
+          "label": "iii",
+          "text": "নির্দিষ্ট তরঙ্গের তরঙ্গমুখ সর্বদা সমান্তরাল হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: তরঙ্গমুখের সব কণা একই দশায় থাকে।\n(ii) সত্য: তরঙ্গমুখের অভিলম্ব আলোকরশ্মির দিক নির্দেশ করে।\n(iii) মিথ্যা: তরঙ্গমুখ গোলীয় বা বেলনাকারও হতে পারে, সর্বদা সমান্তরাল (সমতল) নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-032",
+      "text": "দ্বি-চিড় পরীক্ষায় চিড় দুটির ব্যবধান দ্বিগুণ এবং চিড় হতে পর্দার দূরত্ব দ্বিগুণ করা হলে ডোরার প্রস্থ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধেক হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এক-চতুর্থাংশ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দ্বিগুণ হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ডোরার প্রস্থ \\(\\beta=\\frac{\\lambda D}{d}\\)। \\(D\\) ও \\(d\\) উভয়ই দ্বিগুণ হলে \\(\\frac{2D}{2d}=\\frac{D}{d}\\), তাই প্রস্থ অপরিবর্তিত থাকবে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-033",
+      "text": "দুটি আলোক উৎসকে সুসংগত বলা হবে যখন নিঃসরিত আলোক রশ্মির—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তীব্রতা ও দশা একই",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তরঙ্গদৈর্ঘ্য ও দশা পার্থক্য একই",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তীব্রতা অসমান ও তরঙ্গদৈর্ঘ্য একই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তরঙ্গদৈর্ঘ্য ও দশা পার্থক্য উভয়ই অসমান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সুসংগত উৎসের আলোকরশ্মির তরঙ্গদৈর্ঘ্য (কম্পাঙ্ক) সমান এবং দশা পার্থক্য সময়ের সাথে স্থির থাকে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-034",
+      "text": "একটি তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য π; তাদের মধ্যে পথ পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{2}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\lambda\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{2\\pi^2}{\\lambda}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পথ পার্থক্য \\(=\\frac{\\lambda}{2\\pi}\\times\\)দশা পার্থক্য \\(=\\frac{\\lambda}{2\\pi}\\times\\pi=\\frac{\\lambda}{2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-035",
+      "text": "আলোক তীব্রতা নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিস্তার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কম্পাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরঙ্গদৈর্ঘ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেগ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আলোর তীব্রতা বিস্তারের বর্গের সমানুপাতিক (\\(I\\propto a^2\\)), অর্থাৎ বিস্তারের উপর নির্ভর করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-036",
+      "text": "কোনো তরঙ্গমুখে কণাগুলোর দশা পার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "270°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "180°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তরঙ্গমুখের সব কণা একই দশায় থাকে, তাই এদের মধ্যে দশা পার্থক্য \\(0^\\circ\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-037",
+      "text": "তড়িৎচৌম্বক তরঙ্গ প্রবাহের দিক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পয়েন্টিং ভেক্টরের দিকে"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{E} \\times \\vec{B}\\) এর দিকে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{E}\\) ও \\(\\vec{B}\\) উভয়ের সাথে লম্ব বরাবর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) তড়িৎচৌম্বক তরঙ্গ পয়েন্টিং ভেক্টর \\(\\vec S\\) এর দিকে প্রবাহিত হয়।\n(ii) \\(\\vec S\\propto\\vec E\\times\\vec B\\), তাই এটিও সত্য।\n(iii) তরঙ্গ অনুপ্রস্থ; \\(\\vec E\\) ও \\(\\vec B\\) পরস্পর লম্ব এবং উভয়ের সাথে লম্ব দিকে তরঙ্গ চলে। তাই তিনটিই সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-038",
+      "text": "গঠনমূলক ব্যতিচারের শর্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2n - 1)\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2n + 1)\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{n\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(n\\lambda\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গঠনমূলক ব্যতিচারে পথ পার্থক্য তরঙ্গদৈর্ঘ্যের পূর্ণ গুণিতক: \\(\\Delta=n\\lambda\\) (\\(n=0,1,2,\\dots\\))।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-039",
+      "text": "ব্যতিচার এক ধরনের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপরিপাতন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিফলন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যতিচার হলো দুই বা ততোধিক তরঙ্গের উপরিপাতনের ফল।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-040",
+      "text": "অন্ধকারে ছবি তুলতে ক্যামেরায় ব্যবহার হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতি বেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাইক্রোওয়েভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গামা রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অবলোহিত রশ্মি বস্তু থেকে তাপরূপে বিকিরিত হয় এবং এর সংবেদী ফিল্ম/সেন্সর ব্যবহার করে অন্ধকারে ছবি তোলা যায়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-041",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় চিড়দ্বয়ের মধ্যবর্তী দূরত্ব তিনগুণ করলে ডোরা ব্যবধান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নয়গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তিনগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এক তৃতীয়াংশ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক নবমাংশ হবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ডোরা ব্যবধান \\(\\beta=\\frac{\\lambda D}{d}\\propto\\frac{1}{d}\\)। \\(d\\) তিনগুণ হলে \\(\\beta\\) এক-তৃতীয়াংশ হবে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-042",
+      "text": "কোন তত্ত্বের সাহায্যে আলোর সমবর্তন ব্যাখ্যা করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কণিকা তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তরঙ্গ তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তড়িৎ চুম্বকীয় তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোয়ান্টাম তত্ত্ব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমবর্তন প্রমাণ করে আলো অনুপ্রস্থ তরঙ্গ। আলোকে অনুপ্রস্থ তড়িৎচৌম্বক তরঙ্গ ধরে নিলেই এটি ব্যাখ্যা করা যায়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-043",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষা বায়ুতে করার পর পানিতে নিমজ্জিত করে এবং আলোক রশ্মি পরিবর্তন করে পুনরায় করা হলো। এক্ষেত্রে ডোরা প্রস্থ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাড়তে পারে"
+        },
+        {
+          "label": "ii",
+          "text": "কমতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "অপরিবর্তিত থাকতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i), (ii), (iii): পানিতে আলোর তরঙ্গদৈর্ঘ্য কমে \\(\\lambda'=\\lambda/\\mu\\), ফলে \\(\\beta=\\frac{\\lambda D}{d}\\) কমে। আবার আলোক রশ্মি (বর্ণ) পরিবর্তন করলে \\(\\lambda\\) বাড়তে, কমতে বা একই থাকতে পারে। তাই ডোরা প্রস্থ বাড়তে, কমতে বা অপরিবর্তিত থাকতে পারে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-044",
+      "text": "অপবর্তন গ্রেটিং এ চরমের শর্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(d\\sin\\theta_n = n\\lambda\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(d\\sin\\theta_n = (2n+1)\\frac{\\lambda}{2}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\((a+b)\\sin\\theta_n = n\\lambda\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গ্রেটিং-এ চরম (উজ্জ্বল) ডোরার শর্ত \\(d\\sin\\theta_n=n\\lambda\\), যেখানে গ্রেটিং ধ্রুবক \\(d=a+b\\)। তাই (i) ও (iii) সত্য। (ii) হলো অবমের শর্ত, চরমের নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-045",
+      "text": "\\(\\frac{\\pi}{2}\\) দশা পার্থক্যের সদৃশ দুটি তরঙ্গ একই দিকে ধাবিত হচ্ছে। তরঙ্গ দুটির উভয়ের বিস্তার 1m হলে উপরিপাতনের ফলে লব্ধি তরঙ্গের বিস্তার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{3}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(R=\\sqrt{a_1^2+a_2^2+2a_1a_2\\cos\\phi}=\\sqrt{1+1+2\\cos90^\\circ}=\\sqrt2\\) m",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-046",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় তৃতীয় অন্ধকার ঝালরের ক্ষেত্রে তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{7\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{5\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{3\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\lambda}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অন্ধকার ঝালরের জন্য পথ পার্থক্য \\((2n-1)\\frac{\\lambda}{2}\\)। তৃতীয় অন্ধকার ঝালরে \\(n=3\\): \\(\\Delta=\\frac{5\\lambda}{2}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-047",
+      "text": "শূন্য মাধ্যমে কোনো তড়িৎ চুম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য 0.03cm হলে তরঙ্গটির কম্পাঙ্ক কত? (শূন্যস্থানে আলোর দ্রুতি \\(3 \\times 10^{8}\\,\\mathrm{ms^{-1}}\\))",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-12}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{10}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{12}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{14}\\) Hz",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(f=\\frac{c}{\\lambda}=\\frac{3\\times10^8}{0.03\\times10^{-2}}=\\frac{3\\times10^8}{3\\times10^{-4}}=10^{12}\\) Hz",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-048",
+      "text": "তড়িৎ চৌম্বক তরঙ্গ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অতিক্রান্ত গতিসম্পন্ন তরঙ্গ"
+        },
+        {
+          "label": "ii",
+          "text": "শূন্য মাধ্যমে সঞ্চালনযোগ্য"
+        },
+        {
+          "label": "iii",
+          "text": "ত্বরণে গতিশীল চার্জ হতে নির্গত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: তড়িৎচৌম্বক তরঙ্গের বেগ আলোর বেগের সমান, যা অতিক্রান্ত (অতি দ্রুত) গতি।\n(ii) সত্য: মাধ্যম ছাড়াই শূন্যস্থানে চলতে পারে।\n(iii) সত্য: ত্বরিত গতিশীল চার্জ থেকে নির্গত হয়। তাই তিনটিই সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-049",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় একটি চিড় বাদ দিলে কোন আলোকীয় ঘটনাটি ঘটবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিসরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দুটি চিড়ের একটি বন্ধ করলে ব্যতিচার হয় না; একটি চিড় দিয়ে আলো গেলে চিড়ের ধারে অপবর্তন ঘটে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-050",
+      "text": "ফ্রেনেল শ্রেণির অপবর্তনে আলোক রশ্মিসমূহ ও তরঙ্গমুখ যথাক্রমে কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অভিসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান্তরাল ও সমতল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমান্তরাল ও বেলনাকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফ্রেনেল অপবর্তনে উৎস ও পর্দা সসীম দূরত্বে থাকে, ফলে আলোকরশ্মি অপসারী এবং তরঙ্গমুখ গোলীয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-051",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় দুটি পাশাপাশি উজ্জ্বল ডোরা সৃষ্টির জন্য উৎসদ্বয় থেকে আগত আলোক তরঙ্গদ্বয়ের মধ্যকার পথ পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2λ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "λ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "λ/2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "λ/4",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ইয়ং-এর পরীক্ষায় পাশাপাশি দুটি উজ্জ্বল ডোরার জন্য পথ পার্থক্যের পার্থক্য \\(\\lambda\\)। তাই উত্তর (খ) \\(\\lambda\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-052",
+      "text": "ইয়ং এর দ্বি-চিড় পরীক্ষায় চিড়-গুলোর দূরত্ব অর্ধেক এবং চিড় ও পর্দার দূরত্ব দ্বি-গুণ করা হলে ডোরা প্রস্থের কী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্বি-গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এক চতুর্থাংশ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চারগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্ধেক হবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ডোরা প্রস্থ \\(\\beta = \\frac{\\lambda D}{2d}\\)। \\(d' = \\frac{d}{2}\\), \\(D' = 2D\\) হলে \\(\\beta' = \\frac{\\lambda \\cdot 2D}{2 \\cdot \\frac{d}{2}} = 4\\beta\\), অর্থাৎ চারগুণ।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-053",
+      "text": "একটি তরঙ্গের দুটি বিন্দুর দশা-পার্থক্য \\(\\frac{\\pi}{4}\\) হলে, পথ পার্থক্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\lambda}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\lambda}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\lambda}{16}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পথ পার্থক্য \\(\\Delta = \\frac{\\lambda}{2\\pi} \\times \\phi = \\frac{\\lambda}{2\\pi} \\times \\frac{\\pi}{4} = \\frac{\\lambda}{8}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-054",
+      "text": "অপবর্তন গ্রেটিং এর সাহায্যে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তরঙ্গ দৈর্ঘ্যের সাপেক্ষে অপবর্তন কোণের পরিবর্তনের হার নির্ণয় করা যায়।"
+        },
+        {
+          "label": "ii",
+          "text": "তীক্ষ্ণ বর্ণালী সৃষ্টি করা যায়।"
+        },
+        {
+          "label": "iii",
+          "text": "নির্দিষ্ট দিকে আপতিত আলোক রশ্মিকে একত্রিত করা যায়।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: গ্রেটিং সমীকরণ \\(d\\sin\\theta = n\\lambda\\) থেকে \\(\\frac{d\\theta}{d\\lambda}\\) পাওয়া যায়।\n(ii) সত্য: গ্রেটিং তীক্ষ্ণ ও উজ্জ্বল বর্ণালী সৃষ্টি করে।\n(iii) মিথ্যা: গ্রেটিং আলোকে একত্রিত নয়, বিভিন্ন দিকে অপবর্তিত করে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-055",
+      "text": "এক্স-রশ্মির তরঙ্গ দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-4}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{-7}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{-10}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{-12}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "এক্স-রশ্মির তরঙ্গদৈর্ঘ্যের পাল্লা প্রায় \\(10^{-8}\\) m থেকে \\(10^{-12}\\) m; প্রদত্ত বিকল্পের মধ্যে \\(10^{-10}\\) m (≈ 1 Å) উপযুক্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-056",
+      "text": "আলোর দ্বৈত প্রতিসারক কেলাস হিসাবে ব্যবহৃত হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কিউপ্রাইট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যালসাইট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফ্যাবুলাইট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সোডিয়াম ক্লোরাইড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্যালসাইট (আইসল্যান্ড স্পার) দ্বৈত প্রতিসারক কেলাস, এতে আলো সাধারণ ও অসাধারণ দুই রশ্মিতে বিভক্ত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-057",
+      "text": "ব্যতিচারের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আলোর উৎস দুটি সুসংগত হতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "উৎসগুলো খুব কাছাকাছি অবস্থিত হতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "উৎসগুলো খুব সূক্ষ্ম হতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) স্থায়ী ব্যতিচারের জন্য উৎস দুটি সুসংগত হতে হয়।\n(ii) উৎসদ্বয় খুব কাছাকাছি থাকলে ডোরা স্পষ্ট ও পর্যাপ্ত প্রশস্ত হয়।\n(iii) উৎস সূক্ষ্ম (সরু) চিড় বা বিন্দুসদৃশ হতে হয়।\nতিনটিই সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-058",
+      "text": "তড়িৎ চৌম্বকীয় তত্ত্বানুসারে পরিবর্তিত তড়িৎক্ষেত্র ও পরিবর্তিত চুম্বকক্ষেত্রের অনুপাত— (C = আলোর বেগ)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{C}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{\\epsilon_0\\mu_0}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{\\epsilon_0\\mu_0}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তড়িৎচুম্বকীয় তরঙ্গে \\(\\frac{E}{B} = c\\), অর্থাৎ তড়িৎক্ষেত্র ও চৌম্বকক্ষেত্রের অনুপাত আলোর বেগ C।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-059",
+      "text": "পর্দায় সৃষ্ট ডোরার প্রস্থ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ইয়ং এর দ্বিচিড় পরীক্ষায় চিড় দুটির মধ্যবর্তী দূরত্ব \\(0.4 \\times 10^{-3}\\) m. এ ব্যবস্থাকে 4850Å তরঙ্গদৈর্ঘ্যের আলো দ্বারা আলোকিত করা হলে 0.8m দূরে অবস্থিত পর্দায় ব্যতিচার সজ্জা সৃষ্টি হল।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-CB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.0243 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.0485 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.0970 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.4850 mm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "NCTB অনুযায়ী ডোরার প্রস্থ \\(\\beta = \\frac{\\lambda D}{2d}\\)\n\\(= \\frac{4850 \\times 10^{-10} \\times 0.8}{2 \\times 0.4 \\times 10^{-3}} = 4.85 \\times 10^{-4}\\) m = 0.485 mm",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-060",
+      "text": "কেন্দ্রীয় চরম থেকে কত দূরে চতুর্থ ক্রমের উজ্জ্বল ডোরা পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ইয়ং এর দ্বিচিড় পরীক্ষায় চিড় দুটির মধ্যবর্তী দূরত্ব \\(0.4 \\times 10^{-3}\\) m. এ ব্যবস্থাকে 4850Å তরঙ্গদৈর্ঘ্যের আলো দ্বারা আলোকিত করা হলে 0.8m দূরে অবস্থিত পর্দায় ব্যতিচার সজ্জা সৃষ্টি হল।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-CB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.485 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.970 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.94 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3.88 mm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উজ্জ্বল ডোরার দূরত্ব \\(y_n = \\frac{n\\lambda D}{d}\\)\n\\(y_4 = \\frac{4 \\times 4850 \\times 10^{-10} \\times 0.8}{0.4 \\times 10^{-3}} = 3.88 \\times 10^{-3}\\) m = 3.88 mm",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-061",
+      "text": "মাইক্রোওয়েভ ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাডারে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পেরিস্কোপে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মাইক্রোস্কোপে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টেলিস্কোপে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মাইক্রোওয়েভ রাডারে (দূরবর্তী বস্তুর অবস্থান নির্ণয়ে) ব্যবহৃত হয়। পেরিস্কোপ, মাইক্রোস্কোপ ও টেলিস্কোপ আলোর প্রতিফলন/প্রতিসরণের যন্ত্র।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-062",
+      "text": "নিচের কোনটি দ্বারা অনুদৈর্ঘ্য ও অনুপ্রস্থ তরঙ্গকে পৃথক করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলোক তড়িৎ ক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমবর্তন কেবল অনুপ্রস্থ তরঙ্গে ঘটে, অনুদৈর্ঘ্য তরঙ্গে ঘটে না; তাই সমবর্তন দ্বারা দুই ধরনের তরঙ্গ পৃথক করা যায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-063",
+      "text": "আলোর ব্যতিচার ঝালরের প্রস্থ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পর্দার অবস্থানের উপর নির্ভর করে না"
+        },
+        {
+          "label": "ii",
+          "text": "উৎসদ্বয়ের মধ্যবর্তী দূরত্ব কমলে এটি বাড়ে"
+        },
+        {
+          "label": "iii",
+          "text": "আলোর তরঙ্গদৈর্ঘ্যের উপর নির্ভর করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) মিথ্যা: \\(\\beta = \\frac{\\lambda D}{2d}\\), পর্দার দূরত্ব D-এর উপর নির্ভর করে।\n(ii) সত্য: \\(\\beta \\propto \\frac{1}{d}\\), তাই d কমলে β বাড়ে।\n(iii) সত্য: \\(\\beta \\propto \\lambda\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-064",
+      "text": "কাচের প্রতিসরাঙ্ক 1.52। বায়ু সাপেক্ষে কাচের সমবর্তন কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "33.34°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "41.13°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "48.13°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "56.65°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্রুস্টারের সূত্র: \\(\\tan\\theta_p = n = 1.52\\)\n\\(\\theta_p = \\tan^{-1}(1.52) = 56.65^\\circ\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-065",
+      "text": "হাইগেনের তরঙ্গ তত্ত্বের সাহায্যে নিচের কোনটি ব্যাখ্যা করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিসরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "হাইগেনের তরঙ্গ তত্ত্বে আলোকে অনুদৈর্ঘ্য তরঙ্গ ধরা হয়েছিল, তাই এটি সমবর্তন ব্যাখ্যা করতে পারে না। প্রতিসরণ, ব্যতিচার ও অপবর্তন ব্যাখ্যা করা যায়।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-066",
+      "text": "আলোর অপবর্তনের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্রীয় উজ্জ্বল পট্টির তীব্রতা সর্বাধিক"
+        },
+        {
+          "label": "ii",
+          "text": "পূর্ণ অন্ধকার বিন্দু সৃষ্টি হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "ডোরাগুলোর প্রস্থ সমান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: কেন্দ্রীয় উজ্জ্বল পট্টির তীব্রতা সর্বাধিক।\n(ii) সত্য: অপবর্তনে তীব্রতা ন্যূনতম হলেও সম্পূর্ণ শূন্য অন্ধকার বিন্দু হয় না (বইয়ের বক্তব্য অনুযায়ী)।\n(iii) মিথ্যা: কেন্দ্রীয় পট্টি অন্যগুলোর চেয়ে প্রশস্ত, ডোরাগুলোর প্রস্থ সমান নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-067",
+      "text": "উদ্দীপক অনুসারে P বিন্দুতে গঠনমূলক ব্যতিচার তৈরি হবে যদি \\(S_1\\) ও \\(S_2\\) চিড়দ্বয় থেকে নিঃসৃত তরঙ্গদ্বয়ের মধ্যে দশা পার্থক্য হয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের চিত্রটি ইয়ং এর দ্বি-চিড় পরীক্ষণ ব্যবস্থা দেখানো হলো। এখানে S হলো আলোক উৎস। \\(S_1\\) ও \\(S_2\\) হলো চিড়দ্বয় এবং PQ হলো পর্দা।",
+      "stem_image": "assets/physics_2nd-ch7-mcq-067-stem.svg",
+      "group": "physics_2nd-2024-DB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{5\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "P বিন্দুতে গঠনমূলক ব্যতিচারের জন্য পথ পার্থক্য \\(n\\lambda\\), অর্থাৎ দশা পার্থক্য \\(2n\\pi\\) (n = 0, 1, 2, ...)। বিকল্পগুলোর মধ্যে \\(4\\pi\\) (n = 2) এই শর্ত মেটায়।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-068",
+      "text": "উদ্দীপকের \\(S_1\\) ও \\(S_2\\) চিড়দ্বয়ের মধ্যে দূরত্ব অর্ধেক করে এবং পর্দা ও চিড়ের মধ্যবর্তী দূরত্ব (D) দ্বিগুণ করা হলে পর্দায় সৃষ্ট ব্যতিচার ঝালরের প্রস্থ হবে পূর্বের মানের কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের চিত্রটি ইয়ং এর দ্বি-চিড় পরীক্ষণ ব্যবস্থা দেখানো হলো। এখানে S হলো আলোক উৎস। \\(S_1\\) ও \\(S_2\\) হলো চিড়দ্বয় এবং PQ হলো পর্দা।",
+      "stem_image": "assets/physics_2nd-ch7-mcq-067-stem.svg",
+      "group": "physics_2nd-2024-DB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চারগুণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\lambda D}{2d}\\)। \\(d' = \\frac{d}{2}\\), \\(D' = 2D\\) হলে \\(\\beta' = \\frac{\\lambda \\cdot 2D}{2 \\cdot \\frac{d}{2}} = 4\\beta\\), অর্থাৎ চারগুণ।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-069",
+      "text": "একটি গ্রেটিং এর প্রতি একক দৈর্ঘ্যে রেখার সংখ্যা N এবং গ্রেটিং ধ্রুবক d এর মধ্যে সম্পর্ক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(N = \\frac{1}{d}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "N = d",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(N = \\frac{1}{d^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(N = \\frac{1}{\\sqrt{d}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্রেটিং ধ্রুবক d = দুটি পাশাপাশি রেখার দূরত্ব, আর প্রতি একক দৈর্ঘ্যে রেখার সংখ্যা N হলে \\(N = \\frac{1}{d}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-070",
+      "text": "আলোর বেগ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(C = \\frac{E_0}{B_0}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(C = \\frac{1}{\\sqrt{\\mu_0\\epsilon_0}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(C = \\frac{E}{P}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\(C = \\frac{E_0}{B_0}\\) সত্য।\n(ii) \\(C = \\frac{1}{\\sqrt{\\mu_0\\epsilon_0}}\\) ম্যাক্সওয়েলের সম্পর্ক, সত্য।\n(iii) \\(C = \\frac{E}{P}\\) (শক্তি/ভরবেগ) ফোটনের জন্য সত্য।\nতিনটিই সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-071",
+      "text": "কেন্দ্রীয় চরম থেকে পঞ্চম উজ্জ্বল ডোরার দূরত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ইয়ং এর একটি দ্বি-চিড় পরীক্ষায় চিড়দ্বয়ের মধ্যবর্তী দূরত্ব 0.4mm এবং একে 5200Å আলো দ্বারা আলোকিত করা হলো। চিড় থেকে পর্দার দূরত্ব 120cm।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.56 mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7.02 mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "7.80 mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8.58 mm",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y_5 = \\frac{n\\lambda D}{d} = \\frac{5 \\times 5200 \\times 10^{-10} \\times 1.2}{0.4 \\times 10^{-3}} = 7.8 \\times 10^{-3}\\) m = 7.80 mm",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2024",
+          "qno": 14,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-072",
+      "text": "উদ্দীপকের দ্বি-চিড় পরীক্ষা—",
+      "text_en": null,
+      "image": null,
+      "stem": "ইয়ং এর একটি দ্বি-চিড় পরীক্ষায় চিড়দ্বয়ের মধ্যবর্তী দূরত্ব 0.4mm এবং একে 5200Å আলো দ্বারা আলোকিত করা হলো। চিড় থেকে পর্দার দূরত্ব 120cm।",
+      "stem_image": null,
+      "group": "physics_2nd-2024-DIB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অপবর্তনের ফল"
+        },
+        {
+          "label": "ii",
+          "text": "দ্বারা সৃষ্ট সকল ডোরার প্রস্থ সমান"
+        },
+        {
+          "label": "iii",
+          "text": "ডোরা ব্যবধান 1.56 mm"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) মিথ্যা: এটি ব্যতিচারের ফল।\n(ii) সত্য: সকল ডোরার প্রস্থ সমান।\n(iii) সত্য: ডোরা ব্যবধান \\(\\frac{\\lambda D}{d} = \\frac{5200 \\times 10^{-10} \\times 1.2}{0.4 \\times 10^{-3}} = 1.56\\) mm।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2024",
+          "qno": 15,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-073",
+      "text": "হাইগেনের তরঙ্গ তত্ত্ব দ্বারা আলোর কোন ঘটনাটি ব্যাখ্যা করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিসরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "হাইগেনের তরঙ্গ তত্ত্বে আলোকে অনুদৈর্ঘ্য তরঙ্গ ধরা হয়েছিল, তাই সমবর্তন ব্যাখ্যা করা যায় না। ব্যতিচার, অপবর্তন ও প্রতিসরণ ব্যাখ্যা করা যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-074",
+      "text": "ঘন কুয়াশার মধ্যে ছবি তুলতে কোন রশ্মিটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অতিবেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এক্স-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অবলোহিত রশ্মির তরঙ্গদৈর্ঘ্য বেশি, তাই কুয়াশায় কম বিক্ষিপ্ত হয় এবং ঘন কুয়াশার মধ্যেও ছবি তোলা যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-075",
+      "text": "নিচের কোন তড়িৎ চুম্বকীয় বিকিরণের কম্পাঙ্ক সবচেয়ে কম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অতিবেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক্স-রে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E = hf\\); বিকল্পগুলোর মধ্যে অবলোহিত রশ্মির তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি, তাই কম্পাঙ্ক সবচেয়ে কম। (কম্পাঙ্ক ক্রম: গামা > এক্স > অতিবেগুনি > অবলোহিত)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-076",
+      "text": "তড়িৎ চুম্বকীয় তরঙ্গের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি অনুপ্রস্থ তরঙ্গ"
+        },
+        {
+          "label": "ii",
+          "text": "তড়িৎ ক্ষেত্র \\(\\vec{E}\\) এবং চৌম্বকক্ষেত্র \\(\\vec{B}\\) পরস্পর লম্ব"
+        },
+        {
+          "label": "iii",
+          "text": "তড়িৎক্ষেত্র \\(\\vec{E}\\) এবং চৌম্বকক্ষেত্র \\(\\vec{B}\\) এর পারস্পরিক ক্রিয়ায় গঠিত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) তড়িৎচুম্বকীয় তরঙ্গ অনুপ্রস্থ।\n(ii) \\(\\vec{E}\\) ও \\(\\vec{B}\\) পরস্পর লম্ব এবং তরঙ্গের গতির দিকেও লম্ব।\n(iii) পরিবর্তনশীল \\(\\vec{E}\\) ও \\(\\vec{B}\\) এর পারস্পরিক ক্রিয়ায় তরঙ্গ গঠিত হয়।\nতিনটিই সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-077",
+      "text": "একটি তরঙ্গমুখের উপরস্থ বিন্দুগুলোর দশাপার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "180°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "270°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "একই তরঙ্গমুখের সব বিন্দু একই দশায় থাকে, তাই দশা পার্থক্য 0°।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-078",
+      "text": "সমবর্তন কোণ 60° হলে ঐ মাধ্যমের প্রতিসরাংক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্রুস্টারের সূত্র: \\(n = \\tan\\theta_p = \\tan 60^\\circ = \\sqrt{3}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-079",
+      "text": "ব্যতিচার ডোরার প্রস্থ নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডোরার ক্রমের উপর"
+        },
+        {
+          "label": "ii",
+          "text": "তরঙ্গদৈর্ঘ্যের উপর"
+        },
+        {
+          "label": "iii",
+          "text": "উৎস ও পর্দার মধ্যবর্তী দূরত্বের উপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\lambda D}{2d}\\)। এটি তরঙ্গদৈর্ঘ্য (ii) এবং উৎস-পর্দার দূরত্বের (iii) উপর নির্ভর করে; ডোরার ক্রমের উপর নয়, কারণ সব ডোরার প্রস্থ সমান।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-080",
+      "text": "ইয়ংয়ের দ্বিচিড় পরীক্ষায় চিড়দ্বয়ের দূরত্ব তিনগুণ করে ডোরার প্রস্থ অপরিবর্তনীয় রাখতে হলে চিড়দ্বয় থেকে পর্দার দূরত্বের পরিবর্তন কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক-তৃতীয়াংশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তিনগুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নয়গুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\beta = \\frac{\\lambda D}{2d}\\) অপরিবর্তিত রাখতে \\(\\frac{D}{d}\\) ধ্রুব থাকতে হবে। d তিনগুণ হলে D-ও তিনগুণ করতে হবে।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-081",
+      "text": "ইয়ং এর দ্বি চিড় পরীক্ষায় কোন আলোকীয় ঘটনা প্রদর্শিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিফলন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিসরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় দুটি সুসংগত উৎস থেকে আলো মিলিত হয়ে উজ্জ্বল ও অন্ধকার ডোরা সৃষ্টি করে, যা ব্যতিচার।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-082",
+      "text": "বিনাশী ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "λ এর যুগ্ম গুণিতক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "λ এর অযুগ্ম গুণিতক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\lambda}{2}\\) এর যুগ্ম গুণিতক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\lambda}{2}\\) এর অযুগ্ম গুণিতক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিনাশী ব্যতিচারে পথ পার্থক্য \\(\\Delta = (2n+1)\\frac{\\lambda}{2}\\), অর্থাৎ \\(\\frac{\\lambda}{2}\\) এর অযুগ্ম গুণিতক।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-083",
+      "text": "শক্তির অধোক্রমানুসারে নিচের কোন ক্রমটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অতিবেগুনি রশ্মি, এক্স রশ্মি, গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এক্স রশ্মি, অতিবেগুনি রশ্মি, গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এক্স রশ্মি, গামা রশ্মি, অতিবেগুনি রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গামা রশ্মি, এক্স রশ্মি, অতিবেগুনি রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শক্তি \\(E = hf\\), কম্পাঙ্ক যত বেশি শক্তি তত বেশি। কম্পাঙ্কের ক্রম: গামা রশ্মি > এক্স রশ্মি > অতিবেগুনি রশ্মি, তাই শক্তির অধোক্রমও তাই।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

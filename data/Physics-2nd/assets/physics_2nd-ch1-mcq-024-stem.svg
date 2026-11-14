@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="280" viewBox="0 0 470 280">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="470" height="280" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="50" y1="230" x2="50" y2="18" marker-end="url(#ah)"/>
+<line x1="50" y1="230" x2="425" y2="230" marker-end="url(#ah)"/>
+<line x1="172" y1="155" x2="172" y2="230" />
+<line x1="322" y1="192" x2="322" y2="230" />
+<path d="M137,78 C165,110 230,122 292,127"/>
+<path d="M292,127 C297,150 310,172 322,192"/>
+<path d="M322,192 C260,184 200,172 172,155"/>
+<path d="M172,155 C150,140 142,110 137,78"/>
+<line x1="197.8954267569379" y1="111.55623196442369" x2="205.6045732430621" y2="113.69376803557631" marker-end="url(#ah)"/>
+<line x1="304.1871158547922" y1="160.3169795462762" x2="307.83813414520773" y2="167.4352704537238" marker-end="url(#ah)"/>
+<line x1="238.14536483896717" y1="177.78391846242567" x2="230.35463516103283" y2="175.96608153757433" marker-end="url(#ah)"/>
+<line x1="149.61654129776005" y1="126.58650974093781" x2="146.63345870223995" y2="119.16349025906219" marker-end="url(#ah)"/>
+<circle cx="137" cy="78" r="2.5" fill="#111" stroke="none"/>
+<circle cx="292" cy="127" r="2.5" fill="#111" stroke="none"/>
+<circle cx="322" cy="192" r="2.5" fill="#111" stroke="none"/>
+<circle cx="172" cy="155" r="2.5" fill="#111" stroke="none"/>
+<line x1="26" y1="162" x2="26" y2="146" marker-end="url(#ah)"/>
+<text x="32" y="24" font-size="14" text-anchor="end" class="n" stroke="none" fill="#111">Y</text>
+<text x="432" y="236" font-size="14" text-anchor="start" class="n" stroke="none" fill="#111">X</text>
+<text x="18" y="130" font-size="13" text-anchor="start" class="n" stroke="none" fill="#111">P (Pa)</text>
+<text x="172" y="248" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">2</text>
+<text x="322" y="248" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">4</text>
+<text x="255" y="270" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">→ V (L)</text>
+<text x="127" y="74" font-size="14" text-anchor="end" class="v" stroke="none" fill="#111">A</text>
+<text x="298" y="131" font-size="14" text-anchor="start" class="v" stroke="none" fill="#111">B</text>
+<text x="328" y="196" font-size="14" text-anchor="start" class="v" stroke="none" fill="#111">C</text>
+<text x="166" y="153" font-size="14" text-anchor="end" class="v" stroke="none" fill="#111">D</text>
+<text x="204" y="98" font-size="14" text-anchor="middle" class="n" stroke="none" fill="#111"><tspan class="v">T</tspan><tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="245" y="170" font-size="14" text-anchor="middle" class="n" stroke="none" fill="#111"><tspan class="v">T</tspan><tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="290" y="48" font-size="13" text-anchor="start" class="n" stroke="none" fill="#111"><tspan class="v">T</tspan><tspan baseline-shift="sub" font-size="70%">2</tspan> = 300 K</text>
+<text x="290" y="70" font-size="13" text-anchor="start" class="n" stroke="none" fill="#111"><tspan class="v">R</tspan> = 8.314 J mol<tspan baseline-shift="super" font-size="70%">−1</tspan>K<tspan baseline-shift="super" font-size="70%">−1</tspan></text>
+
+</g>
+</svg>

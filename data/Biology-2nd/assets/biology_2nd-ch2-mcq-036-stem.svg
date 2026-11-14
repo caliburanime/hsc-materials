@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#111" stroke-width="1.5"/></marker></defs>
+<rect width="480" height="180" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10,156 H470" stroke-dasharray="14 6" stroke-width="2"/><path d="M10,162 H470" stroke-dasharray="14 6" stroke-width="2"/><g transform="translate(48,146) scale(1)"><ellipse cx="0" cy="-2" rx="9" ry="3" fill="#fff"/>
+<path d="M-5,-4 C-9,-30 -4,-48 -5,-60 L5,-60 C5,-48 9,-30 5,-4 Z" fill="#fff"/>
+<path d="M-4,-60 C-16,-78 -30,-76 -38,-70 M-1,-60 C-6,-82 0,-94 10,-102 M2,-60 C16,-82 28,-84 40,-76 M4,-60 C20,-70 22,-60 20,-48" stroke-width="2"/></g><path d="M82,118 H116" marker-end="url(#ah)"/><g transform="translate(132,146)"><path d="M0,-4 C-4,-34 6,-52 26,-50 C42,-48 48,-32 48,-16" stroke="#111" stroke-width="12" stroke-linecap="butt"/><path d="M0,-4 C-4,-34 6,-52 26,-50 C42,-48 48,-32 48,-16" stroke="#fff" stroke-width="9" stroke-linecap="butt"/><path d="M-6,-2 H8" stroke-width="2"/>
+<path d="M48,-16 C40,-12 32,-6 28,0 M48,-16 C48,-10 50,-4 52,0 M48,-16 C56,-12 62,-6 64,-2 M48,-16 C54,-26 58,-34 60,-44" stroke-width="2"/></g><path d="M200,118 H232" marker-end="url(#ah)"/><g transform="translate(250,148)"><path d="M0,-18 C-2,-48 28,-54 34,-26" stroke="#111" stroke-width="12" stroke-linecap="butt"/><path d="M0,-18 C-2,-48 28,-54 34,-26" stroke="#fff" stroke-width="9" stroke-linecap="butt"/><path d="M-6,-18 H6" stroke-width="2"/>
+<path d="M34,-26 C26,-18 16,-8 10,-2 M34,-26 C34,-16 38,-8 42,-2 M34,-26 C44,-20 54,-14 60,-8 M34,-26 C50,-28 58,-26 64,-20" stroke-width="2"/></g><path d="M318,118 H352" marker-end="url(#ah)"/><g transform="translate(416,150) scale(1.1)"><ellipse cx="0" cy="-2" rx="9" ry="3" fill="#fff"/>
+<path d="M-5,-4 C-9,-30 -4,-48 -5,-60 L5,-60 C5,-48 9,-30 5,-4 Z" fill="#fff"/>
+<path d="M-4,-60 C-16,-78 -30,-76 -38,-70 M-1,-60 C-6,-82 0,-94 10,-102 M2,-60 C16,-82 28,-84 40,-76 M4,-60 C20,-70 22,-60 20,-48" stroke-width="2"/></g>
+</g></svg>

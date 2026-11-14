@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 180" width="390" height="180">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="390" height="180" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M25.0,70.0 L25.0,150.0 L140.0,150.0"/>
+<path d="M140.0,150.0 L146.0,150.0"/>
+<path d="M154.0,150.0 L360.0,150.0"/>
+<path d="M146.0,136.0 L146.0,164.0"/>
+<path d="M154.0,142.0 L154.0,158.0" stroke-width="3.5"/>
+<path d="M360.0,150.0 L360.0,75.0 L285.0,75.0"/>
+<path d="M25.0,70.0 L48.0,70.0"/>
+<circle cx="64" cy="70" r="16"/>
+<path d="M80.0,70.0 L130.0,70.0"/>
+<text x="64" y="75" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">A</text>
+<path d="M130.0,70.0 L130.0,45.0"/>
+<path d="M130.0,70.0 L130.0,105.0"/>
+<path d="M285.0,45.0 L285.0,105.0"/>
+<path d="M285.0,75.0 L285.0,105.0"/>
+<path d="M130.0,45.0 L157.9,45.0 L160.5,51.0 L165.7,39.0 L170.8,51.0 L176.0,39.0 L181.2,51.0 L186.3,39.0 L188.9,45.0 L285.0,45.0"/>
+<path d="M130.0,105.0 L157.9,105.0 L160.5,111.0 L165.7,99.0 L170.8,111.0 L176.0,99.0 L181.2,111.0 L186.3,99.0 L188.9,105.0 L285.0,105.0"/>
+<path d="M235.0,45.0 L262.0,45.0" marker-end="url(#ah)"/>
+<circle cx="130" cy="70" r="3" fill="#111" stroke="none"/>
+<circle cx="285" cy="75" r="3" fill="#111" stroke="none"/>
+<text x="171" y="34" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">3Ω</text>
+<text x="280" y="32" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">2A</text>
+<text x="171" y="128" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">6Ω</text>
+
+</g></svg>

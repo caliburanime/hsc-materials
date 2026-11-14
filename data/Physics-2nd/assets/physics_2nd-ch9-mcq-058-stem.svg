@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="260" viewBox="0 0 900 520">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="900" height="520" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round">
+<line x1="155.0" y1="368.0" x2="155.0" y2="40.0" marker-end="url(#a)"/>
+<line x1="155.0" y1="368.0" x2="745.0" y2="368.0" marker-end="url(#a)"/>
+<polyline points="155.0,140.0 165.0,151.0 175.0,161.5 185.0,171.5 195.0,181.0 205.0,190.0 215.0,198.6 225.0,206.8 235.0,214.6 245.0,222.0 255.0,229.0 265.0,235.7 275.0,242.1 285.0,248.2 295.0,254.0 305.0,259.5 315.0,264.7 325.0,269.7 335.0,274.5 345.0,279.0 355.0,283.3 365.0,287.4 375.0,291.3 385.0,295.0 395.0,298.5 405.0,301.9 415.0,305.1 425.0,308.1 435.0,311.0 445.0,313.7 455.0,316.4 465.0,318.9 475.0,321.2 485.0,323.5 495.0,325.6 505.0,327.7 515.0,329.6 525.0,331.5 535.0,333.3 545.0,334.9 555.0,336.5 565.0,338.0 575.0,339.5 585.0,340.9 595.0,342.2 605.0,343.4 615.0,344.6 625.0,345.7 635.0,346.8 645.0,347.8 655.0,348.8 665.0,349.7 675.0,350.6 685.0,351.5" />
+<line x1="155.0" y1="254.0" x2="295.0" y2="254.0" />
+<line x1="295.0" y1="254.0" x2="295.0" y2="368.0" />
+<line x1="155.0" y1="284.1" x2="357.0" y2="284.1" />
+<line x1="357.0" y1="284.1" x2="357.0" y2="368.0" />
+<circle cx="155.0" cy="254.0" r="7.0" fill="#111" stroke="none"/>
+<circle cx="155.0" cy="284.1" r="7.0" fill="#111" stroke="none"/>
+<circle cx="295.0" cy="368.0" r="7.0" fill="#111" stroke="none"/>
+<circle cx="357.0" cy="368.0" r="7.0" fill="#111" stroke="none"/>
+<circle cx="295.0" cy="254.0" r="7.0" fill="#111" stroke="none"/>
+<circle cx="357.0" cy="284.1" r="7.0" fill="#111" stroke="none"/>
+<circle cx="155.0" cy="140.0" r="7.0" fill="#111" stroke="none"/>
+<text x="143.0" y="86.0" font-size="34.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >N</text>
+<text x="143.0" y="152.0" font-size="34.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >N<tspan baseline-shift="sub" font-size="70%">0</tspan></text>
+<text x="141.0" y="260.0" font-size="32.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >0.5N<tspan baseline-shift="sub" font-size="70%">0</tspan></text>
+<text x="141.0" y="298.1" font-size="34.0" text-anchor="end" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >B</text>
+<text x="295.0" y="412.0" font-size="34.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >A</text>
+<text x="363.0" y="402.0" font-size="32.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >1</text>
+<line x1="351.0" y1="412.0" x2="375.0" y2="412.0" />
+<text x="363.0" y="450.0" font-size="32.0" text-anchor="middle" font-family="Times New Roman, Liberation Serif, serif" font-style="italic" fill="#111" stroke="none" >λ</text>
+<text x="785.0" y="384.0" font-size="34.0" text-anchor="start" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none" >(t)</text>
+</g>
+</svg>

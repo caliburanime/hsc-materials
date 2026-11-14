@@ -1,0 +1,297 @@
+{
+  "subject": "chemistry_1st",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "chemistry_1st-ch1-mcq-001",
+      "text": "সবুজ রসায়নের মূলনীতি কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সবুজ রসায়নের মূলনীতি মোট ১২টি (অ্যানাস্টাস ও ওয়ার্নার প্রণীত)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-002",
+      "text": "আন্তর্জাতিকভাবে স্বীকৃত সবুজ রসায়নের মূলনীতি কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৩",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আন্তর্জাতিকভাবে স্বীকৃত সবুজ রসায়নের মূলনীতি ১২টি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-003",
+      "text": "\\(\\mathrm{C_6H_5OH + Zn \\xrightarrow{\\text{পাতন}} C_6H_6 + ZnO}\\) (\\(\\mathrm{C_6H_6}\\) = কাঙ্ক্ষিত উৎপাদ)\nউপরোক্ত বিক্রিয়ায় এটম ইকোনমির মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "34.5%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "48.9%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "51.1%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "65.5%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "এটম ইকোনমি = \\( \\frac{\\text{কাঙ্ক্ষিত উৎপাদের আণবিক ভর}}{\\text{বিক্রিয়কসমূহের মোট আণবিক ভর}} \\times 100\\% \\)\n\\( \\mathrm{C_6H_6} = 78,\\ \\mathrm{C_6H_5OH} = 94,\\ \\mathrm{Zn} = 65 \\)\nএটম ইকোনমি = \\( \\frac{78}{94+65} \\times 100 = 48.9\\% \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-004",
+      "text": "গ্রীন কেমিস্ট্রির মূলনীতি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নন-টক্সিক যৌগ উৎপাদন"
+        },
+        {
+          "label": "ii",
+          "text": "অনবায়নযোগ্য জ্বালানির ব্যবহার"
+        },
+        {
+          "label": "iii",
+          "text": "দুর্ঘটনা প্রতিরোধ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) নন-টক্সিক যৌগ উৎপাদন এবং (iii) দুর্ঘটনা প্রতিরোধ সবুজ রসায়নের মূলনীতি। (ii) সঠিক নয়, কারণ সবুজ রসায়নে অনবায়নযোগ্য নয়, নবায়নযোগ্য কাঁচামাল/জ্বালানি ব্যবহারের কথা বলা হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-005",
+      "text": "উদ্দীপকের (i) নং বিক্রিয়ার এটম ইকোনমি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "(i) ইথিন + অক্সিজেন \\(\\xrightarrow{\\text{প্রভাবক}}\\) ইথিন অক্সাইড\n(ii) ক্যালসিয়াম কার্বনেট \\(\\underset{\\text{(আবদ্ধ পাত্র)}}{\\overset{\\Delta}{\\rightleftharpoons}}\\) চুন + কার্বন ডাইঅক্সাইড",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "73.34%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "70.96%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "48%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) বিক্রিয়াটি \\( 2\\mathrm{C_2H_4} + \\mathrm{O_2} \\rightarrow 2\\mathrm{C_2H_4O} \\)। এখানে বিক্রিয়কের সকল পরমাণু কাঙ্ক্ষিত উৎপাদে রূপান্তরিত হয়, কোনো উপজাত নেই।\nবিক্রিয়কের মোট ভর = \\( 2\\times28 + 32 = 88 \\); উৎপাদের ভর = \\( 2\\times44 = 88 \\)\nএটম ইকোনমি = \\( \\frac{88}{88}\\times100 = 100\\% \\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-006",
+      "text": "গ্রীন কেমিস্ট্রিতে অধিক তাৎপর্যপূর্ণ নীতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রভাবকের ব্যবহার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরাপদ দ্রাবক ব্যবহার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সর্বোত্তম এটম ইকোনমি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্ঘটনা প্রতিরোধ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গ্রিন কেমিস্ট্রির ১২টি নীতির মধ্যে সর্বোত্তম এটম ইকোনমি (বিক্রিয়কের সব পরমাণু যথাসম্ভব উৎপাদে আসা) সবচেয়ে তাৎপর্যপূর্ণ, কারণ এতে বর্জ্য সৃষ্টিই কমে যায়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-007",
+      "text": "গ্রিণ কেমেস্ট্রির সূচনা কত সালে হয়েছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1991",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1990",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1891",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1890",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গ্রিন কেমিস্ট্রির সূচনা হয় ১৯৯০ সালে, যখন যুক্তরাষ্ট্রে দূষণ প্রতিরোধ আইন (Pollution Prevention Act) পাশ হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

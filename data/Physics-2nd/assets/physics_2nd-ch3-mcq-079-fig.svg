@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 250" width="380" height="250">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="380" height="250" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M20.0,102.0 L20.0,45.0"/>
+<path d="M20.0,45.0 L155.0,45.0 L159.5,51.0 L168.5,39.0 L177.5,51.0 L186.5,39.0 L195.5,51.0 L204.5,39.0 L209.0,45.0 L290.0,45.0"/>
+<path d="M290.0,45.0 L290.0,102.0"/>
+<path d="M20.0,102.0 L115.0,102.0"/>
+<path d="M115.0,102.0 L115.0,150.0"/>
+<path d="M115.0,158.0 L115.0,230.0"/>
+<path d="M97.0,150.0 L133.0,150.0"/>
+<path d="M105.0,158.0 L125.0,158.0" stroke-width="3.5"/>
+<path d="M115.0,230.0 L290.0,230.0"/>
+<path d="M235.0,102.0 L340.0,102.0"/>
+<path d="M235.0,192.0 L340.0,192.0"/>
+<path d="M235.0,102.0 L235.0,124.5 L229.0,128.2 L241.0,135.8 L229.0,143.2 L241.0,150.8 L229.0,158.2 L241.0,165.8 L235.0,169.5 L235.0,192.0"/>
+<path d="M340.0,102.0 L340.0,124.5 L334.0,128.2 L346.0,135.8 L334.0,143.2 L346.0,150.8 L334.0,158.2 L346.0,165.8 L340.0,169.5 L340.0,192.0"/>
+<path d="M290.0,192.0 L290.0,230.0"/>
+<circle cx="290" cy="102" r="3" fill="#111" stroke="none"/>
+<circle cx="290" cy="192" r="3" fill="#111" stroke="none"/>
+<path d="M282.0,102.0 L256.0,102.0" marker-end="url(#ah)"/>
+<path d="M298.0,102.0 L324.0,102.0" marker-end="url(#ah)"/>
+<text x="262" y="92" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="70%">1</tspan></text>
+<text x="318" y="92" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="70%">2</tspan></text>
+<text x="155" y="35" text-anchor="middle" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">20Ω</text>
+<text x="222" y="152" text-anchor="end" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">12Ω</text>
+<text x="327" y="152" text-anchor="end" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">10Ω</text>
+<text x="95" y="158" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">9V</text>
+
+</g></svg>

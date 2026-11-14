@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+</defs>
+<rect width="160" height="120" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15">
+<path d="M36,96 V12" marker-end="url(#ar)"/><path d="M36,96 H148" marker-end="url(#ar)"/><path d="M46.0,20.8 L48.2,34.0 L50.5,43.2 L52.8,49.9 L55.0,55.0 L57.2,59.0 L59.5,62.2 L61.8,64.9 L64.0,67.2 L66.2,69.1 L68.5,70.7 L70.8,72.2 L73.0,73.4 L75.2,74.6 L77.5,75.6 L79.8,76.5 L82.0,77.3 L84.2,78.0 L86.5,78.7 L88.8,79.3 L91.0,79.8 L93.2,80.3 L95.5,80.8 L97.8,81.3 L100.0,81.7 L102.2,82.1 L104.5,82.4 L106.8,82.8 L109.0,83.1 L111.2,83.4 L113.5,83.6 L115.8,83.9 L118.0,84.2 L120.2,84.4 L122.5,84.6 L124.8,84.8 L127.0,85.0 L129.2,85.2 L131.5,85.4 L133.8,85.6 L136.0,85.7"/><text x="28" y="110" text-anchor="middle" font-size="13" font-family="serif" fill="#111" stroke="none" >0</text><text x="30" y="20" text-anchor="end" font-size="15" font-family="serif" font-style="italic" fill="#111" stroke="none" >PV</text><text x="142" y="112" text-anchor="middle" font-size="15" font-family="serif" font-style="italic" fill="#111" stroke="none" >V</text>
+</g></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 275" width="410" height="275">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+</defs>
+<rect width="410" height="275" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15">
+<path d="M90,230 V16" marker-end="url(#ar)"/><path d="M90,230 H390" marker-end="url(#ar)"/><path d="M90,230 L190,142 A34,34 0 0 1 256,152 A50,50 0 0 1 352,162"/><text x="80" y="246" text-anchor="end" font-size="15" font-family="serif" fill="#111" stroke="none" >O</text><text x="200" y="168" text-anchor="middle" font-size="15" font-family="serif" fill="#111" stroke="none" >A</text><text x="256" y="172" text-anchor="middle" font-size="15" font-family="serif" fill="#111" stroke="none" >B</text><text x="298" y="100" text-anchor="middle" font-size="15" font-family="serif" fill="#111" stroke="none" >C</text><text x="364" y="164" text-anchor="start" font-size="15" font-family="serif" fill="#111" stroke="none" >D</text><text x="52" y="90" text-anchor="middle" font-size="15" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none" >পীড়ন</text><path d="M52,128 V102" marker-end="url(#ar)" stroke-width="1.2"/><text x="300" y="258" text-anchor="middle" font-size="15" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#111" stroke="none" >বিকৃতি</text><path d="M258,252 H278" marker-end="url(#ar)" stroke-width="1.2"/>
+</g></svg>

@@ -1,0 +1,3859 @@
+{
+  "subject": "physics_1st",
+  "chapter": 7,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch7-mcq-001",
+      "text": "পয়সনের অনুপাত হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "1m দীর্ঘ কোনো তারের ব্যাস 5mm। তারের দৈর্ঘ্য বরাবর একটি বল প্রয়োগ করায় এর ব্যাস 0.01mm হ্রাস পায় এবং দৈর্ঘ্য 2cm বৃদ্ধি পায়।",
+      "stem_image": null,
+      "group": "physics_1st-2025-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.20",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.25",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.30",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পার্শ্ব বিকৃতি \\(=\\frac{0.01}{5}=0.002\\); দৈর্ঘ্য বিকৃতি \\(=\\frac{2\\,\\mathrm{cm}}{100\\,\\mathrm{cm}}=0.02\\)\nপয়সনের অনুপাত \\(\\sigma=\\frac{0.002}{0.02}=0.10\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-002",
+      "text": "তারটির উপাদানের ইয়ং এর গুণাংক \\(2 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\) হলে তারে সঞ্চিত বিভব শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "1m দীর্ঘ কোনো তারের ব্যাস 5mm। তারের দৈর্ঘ্য বরাবর একটি বল প্রয়োগ করায় এর ব্যাস 0.01mm হ্রাস পায় এবং দৈর্ঘ্য 2cm বৃদ্ধি পায়।",
+      "stem_image": null,
+      "group": "physics_1st-2025-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(7.85 \\times 10^{2}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(15.70 \\times 10^{2}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.92 \\times 10^{4}\\) J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7.84 \\times 10^{4}\\) J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "একক আয়তনে শক্তি \\(=\\frac{1}{2}Y(\\text{বিকৃতি})^2\\), আয়তন \\(V=\\pi r^2L\\)\n\\(V=\\pi(2.5\\times10^{-3})^2\\times1=1.9635\\times10^{-5}\\,\\mathrm{m^3}\\)\n\\(U=\\frac{1}{2}\\times2\\times10^{11}\\times(0.02)^2\\times1.9635\\times10^{-5}\\approx7.85\\times10^{2}\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-003",
+      "text": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর ব্যবর্তন পীড়ন ও ব্যবর্তন বিকৃতির অনুপাত হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৃঢ়তার গুণাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন গুণাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়ং এর গুণাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যবর্তন পীড়ন ও ব্যবর্তন বিকৃতির অনুপাত দৃঢ়তার গুণাংক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-004",
+      "text": "স্থিতিস্থাপক সীমার মধ্যে একক ক্ষেত্রফলের উপর প্রযুক্ত বল তিনগুণ করলে বিকৃতি কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দুই তৃতীয়াংশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বিগুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তিনগুণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপক সীমার মধ্যে হুকের সূত্র অনুযায়ী পীড়ন \\(\\propto\\) বিকৃতি। একক ক্ষেত্রফলে বল হলো পীড়ন; তা তিনগুণ হলে বিকৃতিও তিনগুণ হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-005",
+      "text": "0.1 kg ভরের একটি বস্তুকে 0.2 m দৈর্ঘ্যবিশিষ্ট তারে বেঁধে বৃত্তাকার পথে ঘুরানো হচ্ছে। তারের প্রস্থচ্ছেদ ক্ষেত্রফল \\(10^{-8}\\,\\mathrm{m^2}\\) এবং অসহপীড়ন \\(3.2 \\times 10^{9}\\,\\mathrm{Nm^{-2}}\\) হলে বস্তুর সর্বোচ্চ কৌণিক বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(120\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(80\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(40\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(20\\,\\mathrm{rad\\,s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তারের সর্বোচ্চ টান \\(T = \\text{অসহ পীড়ন} \\times A = 3.2 \\times 10^{9} \\times 10^{-8} = 32\\) N\nএই টান কেন্দ্রমুখী বল জোগায়: \\(m\\omega^2 r = 32\\)\n\\(\\omega^2 = \\frac{32}{0.1 \\times 0.2} = 1600\\), অর্থাৎ \\(\\omega = 40\\) rad s\\(^{-1}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-006",
+      "text": "নিচের কোনটি সবচেয়ে শক্তিশালী বন্ধন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়নিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভ্যানডার ওয়ালস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমযোজী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ধাতব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আয়নিক বন্ধন প্রবল স্থির-বৈদ্যুতিক আকর্ষণের ফলে গঠিত হয় বলে এটি সবচেয়ে শক্তিশালী; ভ্যানডার ওয়ালস বন্ধন সবচেয়ে দুর্বল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-007",
+      "text": "পয়সনের অনুপাতের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পার্শ্বীয় প্রসারণ অপরিবর্তিত থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "এর মান −1 এর চেয়ে কম হতে পারে না"
+        },
+        {
+          "label": "iii",
+          "text": "এর মান \\(+\\frac{1}{2}\\) এর চেয়ে বেশি হতে পারে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) মিথ্যা: দৈর্ঘ্য বাড়লে পার্শ্বীয় সংকোচন ঘটে, পার্শ্বীয় মাত্রা অপরিবর্তিত থাকে না।\n(ii) সত্য: তাত্ত্বিকভাবে পয়সনের অনুপাত \\(-1\\) এর চেয়ে কম হয় না।\n(iii) সত্য: এর সর্বোচ্চ মান \\(+\\frac{1}{2}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-008",
+      "text": "স্থিতিস্থাপক বিভব শক্তি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{2}\\frac{YAl}{L^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}\\cdot\\frac{YAl^2}{L}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2}\\frac{YAL}{l^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{2}\\cdot\\frac{YAl^2}{L^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(l\\) দৈর্ঘ্য বৃদ্ধিতে সঞ্চিত শক্তি \\(U = \\frac{1}{2}Fl\\), যেখানে \\(F = \\frac{YAl}{L}\\)\nঅতএব \\(U = \\frac{1}{2}\\frac{YAl^2}{L}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-009",
+      "text": "পয়সনের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেবল কঠিন পদার্থেরই বৈশিষ্ট্য"
+        },
+        {
+          "label": "ii",
+          "text": "পীড়ন ও বিকৃতির অনুপাত"
+        },
+        {
+          "label": "iii",
+          "text": "এর তাত্ত্বিক সর্বোচ্চ মান \\(+\\frac{1}{2}\\) এবং সর্বনিম্ন মান −1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: এটি কঠিন পদার্থেরই (সরল স্থিতিস্থাপক) বৈশিষ্ট্য।\n(ii) মিথ্যা: এটি পার্শ্বীয় বিকৃতি ও দৈর্ঘ্য বিকৃতির অনুপাত, পীড়ন ও বিকৃতির অনুপাত নয়।\n(iii) সত্য: তাত্ত্বিক মান \\(-1\\) থেকে \\(+\\frac{1}{2}\\) পর্যন্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-010",
+      "text": "1500kg ভরের একটি বস্তু কোনো তারের এক প্রান্তে ঝুলানো আছে। তারটির অসহ পীড়ন \\(3 \\times 10^{8}\\,\\mathrm{Nm^{-2}}\\) হলে তারের ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.38 \\times 10^{-3}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.24 \\times 10^{-3}\\) m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.94 \\times 10^{-3}\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.19 \\times 10^{-3}\\) m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F = mg = 1500 \\times 9.8 = 14700\\) N\n\\(A = \\frac{F}{\\text{অসহ পীড়ন}} = \\frac{14700}{3 \\times 10^{8}} = 4.9 \\times 10^{-5}\\) m\\(^2\\)\n\\(r = \\sqrt{\\frac{A}{\\pi}} = \\sqrt{1.56 \\times 10^{-5}} \\approx 3.94 \\times 10^{-3}\\) m",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-011",
+      "text": "চিত্রে বিকৃতি বনাম পীড়ন লেখচিত্রের ∆OAB এর ক্ষেত্রফল নির্দেশ করে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch7-mcq-011-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সর্বমোট কৃতকাজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একক আয়তনে বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইয়ং এর গুণাঙ্ক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "satt",
+      "explanation": "△OAB এর ক্ষেত্রফল \\(= \\frac{1}{2} \\times \\text{বিকৃতি} \\times \\text{পীড়ন}\\), যা একক আয়তনে সঞ্চিত স্থিতিস্থাপক বিভব শক্তি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 3
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-012",
+      "text": "পয়সনের অনুপাতের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একক নেই"
+        },
+        {
+          "label": "ii",
+          "text": "মান −1 ও 0.5 এর মধ্যে"
+        },
+        {
+          "label": "iii",
+          "text": "মান নির্দিষ্ট উপাদানের জন্য নির্দিষ্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: এটি দুটি বিকৃতির অনুপাত, তাই এর একক নেই।\n(ii) সত্য: এর মান \\(-1\\) ও \\(0.5\\) এর মধ্যে।\n(iii) সত্য: নির্দিষ্ট উপাদানের জন্য এটি ধ্রুব।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-013",
+      "text": "1m দৈর্ঘ্য ও \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট একটি ইস্পাতের তারের দৈর্ঘ্য 10% বৃদ্ধি করতে প্রযুক্ত বল নিচের কোনটি? \\([Y = 2 \\times 10^{11}\\,\\mathrm{Nm^{-2}}]\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 \\times 10^{4}\\) N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^{5}\\) N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 \\times 10^{6}\\) N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2 \\times 10^{7}\\) N",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F = YA\\frac{l}{L} = 2 \\times 10^{11} \\times 10^{-6} \\times 0.1 = 2 \\times 10^{4}\\) N",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-015",
+      "text": "নিম্নের কোনটির ইয়ং এর গুণাঙ্ক সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সোনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইস্পাত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তুলনামূলকভাবে ইস্পাতের ইয়ং এর গুণাঙ্ক (\\(\\approx 2 \\times 10^{11}\\) N m\\(^{-2}\\)) সবচেয়ে বেশি; রাবারের সবচেয়ে কম।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-016",
+      "text": "পদার্থের সংনম্যতার বিপরীত রাশি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়তন গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দৃঢ়তা গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়ংএর গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সংনম্যতা \\(= \\frac{1}{\\text{আয়তন গুণাংক}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-017",
+      "text": "পয়সনের অনুপাতের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একক নেই"
+        },
+        {
+          "label": "ii",
+          "text": "এর মান −1 থেকে \\(+\\frac{1}{2}\\) এর মধ্যে"
+        },
+        {
+          "label": "iii",
+          "text": "এর মান নির্দিষ্ট উপাদানের জন্য নির্দিষ্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: দুটি বিকৃতির অনুপাত বলে এর একক নেই।\n(ii) সত্য: মান \\(-1\\) থেকে \\(+\\frac{1}{2}\\) এর মধ্যে।\n(iii) সত্য: নির্দিষ্ট উপাদানের জন্য এটি ধ্রুবক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-018",
+      "text": "স্থিতিস্থাপক সীমার মধ্যে আকার পীড়ন ও আকার বিকৃতির অনুপাত হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইয়ং এর গুণাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন গুণাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দৃঢ়তার গুণাংক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আকার পীড়ন ও আকার বিকৃতির অনুপাতকে দৃঢ়তার গুণাংক বলে। (ইয়ং এর গুণাংক = দৈর্ঘ্য পীড়ন/দৈর্ঘ্য বিকৃতি; আয়তন গুণাংক = আয়তন পীড়ন/আয়তন বিকৃতি।)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-019",
+      "text": "নিচের কোন পদার্থের ইয়ং এর গুণাংক সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্লাস্টিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইস্পাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সোনা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রদত্ত পদার্থগুলোর মধ্যে ইস্পাতের ইয়ং এর গুণাংক সবচেয়ে বেশি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-020",
+      "text": "স্থিতিস্থাপক বস্তুকে যখন সংকুচিত করা হয় তখন তার মোট সঞ্চিত শক্তির রাশিমালা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{2}\\frac{YAl^2}{L^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}\\frac{YAl^2}{L}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2}\\frac{YAl}{L^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{2}\\frac{YAl}{L}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সংকোচনে সঞ্চিত শক্তি \\(U = \\frac{1}{2}Fl\\) এবং \\(F = \\frac{YAl}{L}\\)\nঅতএব \\(U = \\frac{1}{2}\\frac{YAl^2}{L}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-021",
+      "text": "চিত্রে 'D' বিন্দু হচ্ছে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch7-mcq-021-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "অসহ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসহ পীড়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থিতিস্থাপক সীমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থিতিস্থাপক ক্লান্তি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্ট্রেস-স্ট্রেইন লেখে D হলো সেই বিন্দু যেখানে তার ছিঁড়ে যায়; D বিন্দুর সংশ্লিষ্ট পীড়নই অসহ পীড়ন।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-022",
+      "text": "একটি তারের ইয়ং এর গুণাঙ্ক \\(2.1 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\) এবং ব্যাস 2mm। তারের দৈর্ঘ্য 0.5% বৃদ্ধি করতে হলে কত বল প্রয়োগ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.15 \\times 10^{3}\\) N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.61 \\times 10^{3}\\) N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.98 \\times 10^{3}\\) N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.29 \\times 10^{3}\\) N",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(F = YA\\frac{l}{L}\\); \\(A = \\pi r^2 = 3.14 \\times (10^{-3})^2 = 3.14 \\times 10^{-6}\\) m\\(^2\\)\n\\(\\frac{l}{L} = 0.005\\)\n\\(F = 2.1 \\times 10^{11} \\times 3.14 \\times 10^{-6} \\times 0.005 \\approx 3.29 \\times 10^{3}\\) N",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-023",
+      "text": "পয়সনের অনুপাতের সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sigma = \\frac{dD}{Ll}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sigma = \\frac{dL}{lD}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sigma = \\frac{dl}{LD}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sigma = \\frac{LD}{dl}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত \\(\\sigma = \\frac{\\text{পার্শ্বীয় বিকৃতি}}{\\text{দৈর্ঘ্য বিকৃতি}} = \\frac{d/D}{l/L} = \\frac{dL}{lD}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-024",
+      "text": "0.628 m দৈর্ঘ্য ও \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট একটি তারের প্রান্তে 20 kg ভর ঝুলালে তারটি 1 mm প্রসারিত হয়। \\((g = 9.8\\,\\mathrm{ms^{-2}})\\)। তারটির ইয়ং-এর গুণাংকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.23 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(12.23 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.23 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.9 \\times 10^{12}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F = mg = 20 \\times 9.8 = 196\\) N\n\\(Y = \\frac{FL}{Al} = \\frac{196 \\times 0.628}{10^{-6} \\times 10^{-3}} = 1.23 \\times 10^{11}\\) N m\\(^{-2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-025",
+      "text": "ইয়ং-এর গুণাংকের মাত্রা সমীকরণ হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^2T}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{MLT^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(Y = \\frac{\\text{পীড়ন}}{\\text{বিকৃতি}}\\); বিকৃতি মাত্রাহীন, তাই মাত্রা = পীড়নের মাত্রা = \\(\\frac{[MLT^{-2}]}{[L^2]} = ML^{-1}T^{-2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-026",
+      "text": "কোনো বস্তুর উপর বল প্রয়োগে দৈর্ঘ্য তিনগুণ করা হলে তার দৈর্ঘ্য বিকৃতি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দৈর্ঘ্য বিকৃতি = \\( \\frac{\\text{দৈর্ঘ্য বৃদ্ধি}}{\\text{আদি দৈর্ঘ্য}} = \\frac{3l - l}{l} = 2 \\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-027",
+      "text": "নিচের কোন বন্ধনটি সকল অণুতে বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধাতব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমযোজী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়নিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভ্যানডারওয়াল্‌স",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভ্যান্ডার ওয়ালস বন্ধন সব অণুর মধ্যেই (ক্ষণস্থায়ী দ্বিমেরুর কারণে) বিদ্যমান; ধাতব, সমযোজী ও আয়নিক বন্ধন নির্দিষ্ট পদার্থে থাকে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-028",
+      "text": "নিচের কোন রাশির একক নেই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পীড়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থিতিস্থাপক গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসহ ভার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিকৃতি = দৈর্ঘ্য পরিবর্তন ÷ আদি দৈর্ঘ্য — দুটি একই জাতীয় রাশির অনুপাত, তাই এর কোনো একক নেই।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-029",
+      "text": "কোনো পদার্থের পয়সনের অনুপাতের বিস্তৃতি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 থেকে 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5 থেকে 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−1 থেকে 0.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−1 থেকে 1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত σ এর তাত্ত্বিক সীমা −1 থেকে 0.5।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-030",
+      "text": "আয়তন গুণাংকের বিপরীত রাশি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইয়ং এর গুণাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসংনম্যতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সংনম্যতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দৃঢ়তার গুণাংক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়তন গুণাঙ্ক K এর বিপরীত রাশি \\( \\frac{1}{K} \\) কে সংনম্যতা বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-031",
+      "text": "2 m দীর্ঘ একটি তারের দৈর্ঘ্য 0.02 m বৃদ্ধি পেলে তারটির দৈর্ঘ্য বিকৃতি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.04",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.01",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.009",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দৈর্ঘ্য বিকৃতি = \\( \\frac{0.02}{2} = 0.01 \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-032",
+      "text": "চিত্রের OA রেখার ঢালকে কী বলে?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch7-mcq-032-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "ইয়ং গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দৃঢ়তার গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থায়ী বিকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপক সীমার মধ্যে (OA অংশ) পীড়ন ও বিকৃতির অনুপাত ধ্রুব; এই সরলরৈখিক অংশের ঢালই ইয়ং গুণাঙ্ক।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-033",
+      "text": "সংনম্যতার একক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{N^{-1}m^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{N^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Pa",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সংনম্যতা = \\( \\frac{1}{K} \\); K এর একক \\( \\mathrm{Nm^{-2}} \\), তাই সংনম্যতার একক \\( \\mathrm{N^{-1}m^2} \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-034",
+      "text": "কোনো বস্তুর একক মাত্রার পরিবর্তনকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পীড়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসহ ভার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থিতিস্থাপক ক্লান্তি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একক মাত্রার পরিবর্তন (দৈর্ঘ্য, আয়তন বা আকারের) কে বিকৃতি বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-035",
+      "text": "পয়সনের অনুপাত σ-এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 < \\sigma < 0.5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1 < \\sigma < 0.5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1 < \\sigma < 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-1 < \\sigma < -0.5\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত σ এর তাত্ত্বিক সীমা \\( -1 < \\sigma < 0.5 \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-036",
+      "text": "স্থিতিস্থাপক সীমার মধ্যে দৈর্ঘ্য প্রসারণ (l) বনাম ভর (M) এর সঠিক লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-036-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-036-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-036-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-036-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হুকের সূত্র অনুযায়ী স্থিতিস্থাপক সীমার মধ্যে \\( l \\propto F \\propto M \\); তাই l বনাম M লেখচিত্র মূলবিন্দুগামী সরলরেখা।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-037",
+      "text": "কোন অবস্থায় অণুসমূহের মধ্যে আন্তঃআণবিক আকর্ষণ বল সর্বাধিক হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কঠিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তরল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বায়বীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্লাজমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কঠিন অবস্থায় অণুগুলো সবচেয়ে কাছাকাছি থাকে, তাই আন্তঃআণবিক আকর্ষণ বল সর্বাধিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-038",
+      "text": "কোনো তারকে কেটে সমান তিন টুকরা করা হলো, এতে তারের অসহভারের মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্বের অর্ধেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্বের এক-তৃতীয়াংশ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পূর্বের সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পূর্বের এক-চতুর্থাংশ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অসহ ভার তারের প্রস্থচ্ছেদের ক্ষেত্রফলের উপর নির্ভর করে, দৈর্ঘ্যের উপর নয়। তাই টুকরো করলে মান আগের সমান থাকে।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-039",
+      "text": "তাত্ত্বিকভাবে পয়সনের অনুপাতের সীমা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-0.5 \\le \\sigma \\le 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1 \\le \\sigma \\le 0.5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.5 \\le \\sigma \\le 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0 \\le \\sigma \\le 0.5\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাতের তাত্ত্বিক সীমা \\( -1 \\le \\sigma \\le 0.5 \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-040",
+      "text": "আয়তন গুণাংকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{M^{-1}LT^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়তন গুণাঙ্ক \\( K = \\frac{\\text{পীড়ন}}{\\text{আয়তন বিকৃতি}} \\); বিকৃতি মাত্রাহীন, তাই মাত্রা পীড়নের মাত্রা \\( = \\frac{[MLT^{-2}]}{[L^2]} = [ML^{-1}T^{-2}] \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-041",
+      "text": "একটি সম্পূর্ণ দৃঢ় বস্তুর ইয়ং এর গুণাংক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "∞",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সম্পূর্ণ দৃঢ় বস্তুতে বল দিলে বিকৃতি শূন্য হয়, তাই \\( Y = \\frac{\\text{পীড়ন}}{\\text{বিকৃতি}} = \\infty \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-042",
+      "text": "সংনম্যতা এর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চারদিক থেকে সমান চাপ প্রয়োগে আয়তন কমে যায়"
+        },
+        {
+          "label": "ii",
+          "text": "পদার্থের অণুসমূহের মধ্যে ফাঁক থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "আয়তনের স্থিতিস্থাপক গুণাঙ্কের বিপরীত রাশি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তিনটি বক্তব্যই সত্য: সংনম্যতা চারদিকের সমান চাপে আয়তন হ্রাসের পরিমাপ, অণুর মধ্যে ফাঁক থাকায় আয়তন কমে এবং এটি আয়তন গুণাঙ্কের বিপরীত রাশি।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-043",
+      "text": "বাস্তবে প্রায় সকল পদার্থের σ এর মানের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−1 হতে 0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.18 হতে 0.25",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.3 হতে 0.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 হতে 0.5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাস্তবে প্রায় সব পদার্থের জন্য σ এর মান 0 থেকে 0.5 এর মধ্যে থাকে (ঋণাত্মক মান বিরল)।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-044",
+      "text": "একটি সিলিন্ডারের উপরের প্রান্ত দৃঢ়ভাবে আটকিয়ে নিচের প্রান্তে একটি দ্বন্দ্ব প্রয়োগ করে সিলিন্ডারকে এর অক্ষের চারদিকে মোচড়ালে বস্তুতে সৃষ্টি হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৃন্তন বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃন্তন পীড়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়তন পীড়ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দ্বন্দ্ব প্রয়োগে সিলিন্ডারকে মোচড়ালে এর আকার বদলায় (কৃন্তন), ফলে কৃন্তন বিকৃতি সৃষ্টি হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-045",
+      "text": "নিচের কোনটি অধিক স্থিতিস্থাপক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কাচ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাবার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাঠ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তামার ইয়ং গুণাঙ্ক কাচ, রাবার ও কাঠের তুলনায় বেশি; ফলে তামা অধিক স্থিতিস্থাপক।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-046",
+      "text": "1000cc আয়তনের পারদে \\(5 \\times 10^{7}\\,\\mathrm{Nm^{-2}}\\) চাপ প্রয়োগ করলে এর আয়তন 2cc কমে যায়। পারদের সংনম্যতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4 \\times 10^{11}\\,\\mathrm{N^{-1}m^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 \\times 10^{-11}\\,\\mathrm{N^{-1}m^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.5 \\times 10^{10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.5 \\times 10^{-10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সংনম্যতা \\( = \\frac{\\Delta V/V}{P} = \\frac{2/1000}{5 \\times 10^7} = 4 \\times 10^{-11}\\,\\mathrm{N^{-1}m^2} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-047",
+      "text": "পয়সনের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পার্শ্ববিকৃতি ও দৈর্ঘ্যবিকৃতির অনুপাত"
+        },
+        {
+          "label": "ii",
+          "text": "এককবিহীন রাশি"
+        },
+        {
+          "label": "iii",
+          "text": "এর মান −1 থেকে 0.5 পর্যন্ত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত = পার্শ্ববিকৃতি/দৈর্ঘ্যবিকৃতি (i সত্য); দুটি বিকৃতির অনুপাত বলে এককবিহীন (ii সত্য); এর তাত্ত্বিক মান −1 থেকে 0.5 (iii সত্য)।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-048",
+      "text": "কোনো পদার্থের অণুগুলোর মধ্যে নিট বল শূন্য হয় যখন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r = r_0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r < r_0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(r > r_0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(r \\gg r_0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আন্তঃআণবিক দূরত্ব \\(r=r_0\\) (সাম্য দূরত্ব) হলে আকর্ষণ ও বিকর্ষণ বল সমান হওয়ায় নিট বল শূন্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-049",
+      "text": "একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল \\(2\\,\\mathrm{mm^2}\\) এবং অসহ ভার 100 kg। তারের অসহ পীড়ন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4.9 \\times 10^{4}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.9 \\times 10^{8}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5 \\times 10^{6}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5 \\times 10^{7}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(F=mg=100\\times9.8=980\\,\\text{N}\\), \\(A=2\\times10^{-6}\\,\\text{m}^2\\)\nঅসহ পীড়ন \\(=\\frac{F}{A}=\\frac{980}{2\\times10^{-6}}=4.9\\times10^8\\,\\text{Nm}^{-2}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-050",
+      "text": "ইয়ং এর গুণাংকের মাত্রা সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{MLT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{ML^{-1}T^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{ML^{-1}T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{MLT^{3}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(Y=\\frac{\\text{পীড়ন}}{\\text{বিকৃতি}}=\\frac{F}{A}\\)। বিকৃতি মাত্রাহীন, তাই \\([Y]=\\frac{[MLT^{-2}]}{[L^2]}=[ML^{-1}T^{-2}]\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-051",
+      "text": "নিচের কোন রাশিটি মাত্রাবিহীন রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পীড়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইয়ং গুণাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্প্রিং ধ্রুবক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিকৃতি = দৈর্ঘ্য পরিবর্তন ÷ আদি দৈর্ঘ্য; একই জাতীয় রাশির অনুপাত বলে মাত্রাহীন।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-052",
+      "text": "তাত্ত্বিকভাবে পয়সনের অনুপাত এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−1 থেকে 0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5 থেকে 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−1 থেকে +1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5 থেকে 1.5",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তাত্ত্বিকভাবে পয়সনের অনুপাত \\(-1\\) থেকে \\(+0.5\\) এর মধ্যে থাকে; \\(-1\\) থেকে 0.5 (দেওয়া বিকল্পে ক) সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-053",
+      "text": "নিচের কোনটি সর্বাপেক্ষা স্থিতিস্থাপক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সীসা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিকেল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যালুমিনিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপকতার মান (ইয়ং গুণাঙ্ক) উল্লিখিত ধাতুগুলোর মধ্যে নিকেলের সবচেয়ে বেশি; সীসার সবচেয়ে কম।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-054",
+      "text": "একটি তারে ক্রমাগত ভর চাপালে তার-সম্প্রসারণ লেখচিত্র OABC এর ন্যায় হয়। আবার চাপানো ভর ক্রমাগত সরিয়ে নেওয়ায় CBP পথের ন্যায় হয়। এক্ষেত্রে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch7-mcq-054-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "OP তারের স্থায়ী প্রসারণ বোঝায়"
+        },
+        {
+          "label": "ii",
+          "text": "AB অংশ পূর্ণস্থিতিস্থাপক"
+        },
+        {
+          "label": "iii",
+          "text": "OA অংশ হুকের সূত্র মেনে চলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) ভার সরিয়ে নিলেও P বিন্দুতে প্রসারণ OP থেকে যায়, অর্থাৎ স্থায়ী প্রসারণ — সঠিক।\n(ii) AB অংশ স্থিতিস্থাপক সীমা অতিক্রম করেছে, তাই পূর্ণস্থিতিস্থাপক নয় — ভুল।\n(iii) OA সরলরেখা, পীড়ন বিকৃতির সমানুপাতিক, অর্থাৎ হুকের সূত্র মানে — সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-055",
+      "text": "সর্বাধিক স্থিতিস্থাপক বস্তু কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তামা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইস্পাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্পঞ্জ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপকতার মাপ ইয়ং গুণাঙ্ক; প্রদত্ত বস্তুগুলোর মধ্যে ইস্পাতের ইয়ং গুণাঙ্ক সবচেয়ে বেশি।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-056",
+      "text": "আদর্শ দৃঢ় বস্তুর ইয়ং গুণাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "∞",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আদর্শ দৃঢ় বস্তুর কোনো বিকৃতি হয় না (বিকৃতি = 0), তাই \\(Y=\\frac{\\text{পীড়ন}}{\\text{বিকৃতি}}=\\infty\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-057",
+      "text": "নিচের কোন রাশিটি মাত্রাবিহীন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পীড়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থিতিস্থাপক গুণাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্বরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিকৃতি দুটি সমজাতীয় রাশির অনুপাত বলে মাত্রাহীন। পীড়ন, স্থিতিস্থাপক গুণাংক ও ত্বরণের মাত্রা আছে।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-058",
+      "text": "পয়সনের অনুপাত 0.1 হলে তারটির ব্যাস হ্রাস কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "1m লম্বা এবং 1mm ব্যাসের তারকে 2kg ভর ঝুলিয়ে 0.025cm দৈর্ঘ্য বৃদ্ধি করা হলো।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.5 \\times 10^{-8}\\) mm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.5 \\times 10^{-5}\\) mm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.5 \\times 10^{-3}\\) mm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.5 \\times 10^{-2}\\) mm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দৈর্ঘ্য বিকৃতি \\(=\\frac{0.025\\,\\text{cm}}{100\\,\\text{cm}}=2.5\\times10^{-4}\\)\nপার্শ্ব বিকৃতি \\(=\\sigma\\times\\) দৈর্ঘ্য বিকৃতি \\(=0.1\\times2.5\\times10^{-4}=2.5\\times10^{-5}\\)\nব্যাস হ্রাস \\(=2.5\\times10^{-5}\\times1\\,\\text{mm}=2.5\\times10^{-5}\\,\\text{mm}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-059",
+      "text": "যদি তারটির ইয়ং গুণাংক Y, তামার তারের ইয়ং গুণাংক \\(5 \\times 10^{9}\\,\\mathrm{Nm^{-2}}\\), ইস্পাতের তারের ইয়ং গুণাংক \\(10 \\times 10^{12}\\,\\mathrm{Nm^{-2}}\\) হয়, তাহলে নিচের কোন সম্পর্কটি সঠিক? [\\(Y_{Cu}\\) = তামার তারের ইয়ং গুণাংক, \\(Y_S\\) = ইস্পাতের তারের ইয়ং গুণাংক]",
+      "text_en": null,
+      "image": null,
+      "stem": "1m লম্বা এবং 1mm ব্যাসের তারকে 2kg ভর ঝুলিয়ে 0.025cm দৈর্ঘ্য বৃদ্ধি করা হলো।",
+      "stem_image": null,
+      "group": "physics_1st-2023-CB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(Y_{Cu} < Y < Y_S\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(Y_S > Y_{Cu} > Y\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(Y > Y_S > Y_{Cu}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(Y_S < Y < Y_{Cu}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(F=2\\times9.8=19.6\\,\\text{N}\\), \\(A=\\pi(0.5\\times10^{-3})^2=7.85\\times10^{-7}\\,\\text{m}^2\\)\nপীড়ন \\(=2.5\\times10^7\\,\\text{Nm}^{-2}\\), বিকৃতি \\(=2.5\\times10^{-4}\\)\n\\(Y=\\frac{2.5\\times10^7}{2.5\\times10^{-4}}\\approx10^{11}\\,\\text{Nm}^{-2}\\)\nএটি \\(5\\times10^9\\) এর চেয়ে বড় এবং \\(10\\times10^{12}\\) এর চেয়ে ছোট, অর্থাৎ \\(Y_{Cu}<Y<Y_S\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-060",
+      "text": "স্থিতিস্থাপক সীমা নিচের কোন রাশি দ্বারা পরিমাপ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থিতিস্থাপক বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্প্রসারণে কৃত কাজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রযুক্ত বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আকার বিকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপক সীমা হলো বস্তুর উপর প্রযুক্ত সেই সর্বোচ্চ বল (পীড়ন), যা অপসারণ করলে বস্তু পূর্বাবস্থা ফিরে পায়; তাই এটি প্রযুক্ত বল দ্বারা পরিমাপ করা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-061",
+      "text": "কোনো তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করে তারটির দৈর্ঘ্য দ্বিগুণ করা হল। তারটির বিকৃতি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.25",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিকৃতি \\(=\\frac{\\Delta l}{l}=\\frac{2l-l}{l}=1\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-062",
+      "text": "পীড়নের মাত্রা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MLT^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^{-2}T^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পীড়ন \\(=\\frac{F}{A}\\)\n\\([\\,]=\\frac{[MLT^{-2}]}{[L^2]}=[ML^{-1}T^{-2}]\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-063",
+      "text": "\\(0.5\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারে 10 kg ভর ঝুলালে তারটির পীড়ন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(19.6\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.96 \\times 10^{5}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.96 \\times 10^{8}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.96 \\times 10^{10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(F=10\\times9.8=98\\,\\text{N}\\), \\(A=0.5\\times10^{-6}\\,\\text{m}^2\\)\nপীড়ন \\(=\\frac{98}{0.5\\times10^{-6}}=1.96\\times10^8\\,\\text{Nm}^{-2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-064",
+      "text": "প্রযুক্ত বল অপসারণের পরও যদি বিকৃত বস্তু বিকৃতি অবস্থা সম্পূর্ণ ধরে রাখে তবে বস্তুটিকে বলা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ণ স্থিতিস্থাপক বস্তু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্ণ অস্থিতিস্থাপক বস্তু",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নমনীয় বস্তু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দৃঢ় বস্তু",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বল অপসারণের পরও যে বস্তু বিকৃত অবস্থা সম্পূর্ণ ধরে রাখে সেটি পূর্ণ অস্থিতিস্থাপক বস্তু।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-065",
+      "text": "পয়সনের অনুপাত (σ) এর ক্ষেত্রে সঠিক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 \\le \\sigma \\le -\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1 \\ge \\sigma \\ge \\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1 \\le \\sigma \\le \\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\ge \\sigma \\ge -\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাতের তাত্ত্বিক সীমা \\(-1\\le\\sigma\\le\\frac{1}{2}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-066",
+      "text": "\\(10^{-6}\\,\\mathrm{m^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারের ওপর \\(2 \\times 10^{4}\\) N বল প্রয়োগ করা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পীড়ন এর মান \\(2 \\times 10^{10}\\,\\mathrm{Nm^{-2}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "একক বিকৃতির জন্য পীড়নই এর গুণাঙ্ক"
+        },
+        {
+          "label": "iii",
+          "text": "পীড়ন দ্বিগুণ করলে এর গুণাঙ্ক দ্বিগুণ হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) পীড়ন \\(=\\frac{2\\times10^4}{10^{-6}}=2\\times10^{10}\\,\\text{Nm}^{-2}\\) — সঠিক।\n(ii) \\(Y=\\frac{\\text{পীড়ন}}{\\text{বিকৃতি}}\\), বিকৃতি 1 হলে Y = পীড়ন — সঠিক।\n(iii) পীড়ন দ্বিগুণ হলে বিকৃতিও দ্বিগুণ হয়, তাই গুণাঙ্ক অপরিবর্তিত থাকে (পদার্থের ধর্ম) — ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-067",
+      "text": "কোনটি পয়সনের অনুপাত হওয়া অসম্ভব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−1.5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত \\(-1\\) থেকে \\(0.5\\) এর মধ্যে থাকে। \\(-1.5\\) এই সীমার বাইরে, তাই অসম্ভব।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-068",
+      "text": "'পীড়ন বিকৃতির সমানুপাতিক'—কার সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হুকের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইয়ং এর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পয়সনের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জুরিনের",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থিতিস্থাপক সীমার মধ্যে পীড়ন বিকৃতির সমানুপাতিক — এটি হুকের সূত্র।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-069",
+      "text": "সংনম্যতা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্কেলার রাশি"
+        },
+        {
+          "label": "ii",
+          "text": "আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত"
+        },
+        {
+          "label": "iii",
+          "text": "আয়তন গুণাংকের বিপরীত রাশি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সংনম্যতা \\(=\\frac{1}{K}\\), স্কেলার রাশি — সঠিক।\n(ii) আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত আয়তন গুণাংক, সংনম্যতা নয় — ভুল।\n(iii) সংনম্যতা আয়তন গুণাংকের বিপরীত রাশি — সঠিক।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-070",
+      "text": "তারের দৈর্ঘ্য বিকৃতি 0.02, পার্শ্ব বিকৃতি 0.002 হলে, পয়সনের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.00004",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.04",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.0",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পয়সনের অনুপাত \\(\\sigma=\\frac{\\text{পার্শ্ব বিকৃতি}}{\\text{দৈর্ঘ্য বিকৃতি}}=\\frac{0.002}{0.02}=0.1\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-071",
+      "text": "SI পদ্ধতিতে আয়তন গুণাংকের একক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Nm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N^{-1}m}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আয়তন গুণাংক \\(=\\frac{\\text{আয়তন পীড়ন}}{\\text{আয়তন বিকৃতি}}\\); বিকৃতি এককহীন, তাই একক পীড়নের একক \\(\\text{Nm}^{-2}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-072",
+      "text": "যে সব বস্তুর স্থিতিস্থাপক ধর্ম বিভিন্ন দিকে বিভিন্ন তাদের বলা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ণ দৃঢ় বস্তু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমদিক ধর্মী বস্তু",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পূর্ণ স্থিতিস্থাপক বস্তু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসমদিক ধর্মী বস্তু",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যেসব বস্তুর স্থিতিস্থাপক ধর্ম বিভিন্ন দিকে বিভিন্ন, তাদের অসমদিক ধর্মী বস্তু বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-073",
+      "text": "তারটির পীড়ন কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "2m দৈর্ঘ্য এবং \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারে 20kg ভর ঝুলালে তারটি 1mm প্রসারিত হয়।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.96 \\times 10^{2}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.96 \\times 10^{5}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 \\times 10^{7}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.96 \\times 10^{8}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(F=20\\times9.8=196\\,\\text{N}\\), \\(A=10^{-6}\\,\\text{m}^2\\)\nপীড়ন \\(=\\frac{196}{10^{-6}}=1.96\\times10^8\\,\\text{Nm}^{-2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-074",
+      "text": "উক্ত তারটির—",
+      "text_en": null,
+      "image": null,
+      "stem": "2m দৈর্ঘ্য এবং \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারে 20kg ভর ঝুলালে তারটি 1mm প্রসারিত হয়।",
+      "stem_image": null,
+      "group": "physics_1st-2023-SB-7-8",
+      "statements": [
+        {
+          "label": "i",
+          "text": "দৈর্ঘ্য বিকৃতি \\(0.5 \\times 10^{-2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ইয়ং এর গুণাংক \\(3.92 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "কৃত কাজের পরিমাণ 0.098J"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) বিকৃতি \\(=\\frac{1\\,\\text{mm}}{2000\\,\\text{mm}}=5\\times10^{-4}\\), \\(0.5\\times10^{-2}\\) নয় — ভুল।\n(ii) \\(Y=\\frac{1.96\\times10^8}{5\\times10^{-4}}=3.92\\times10^{11}\\,\\text{Nm}^{-2}\\) — সঠিক।\n(iii) \\(W=\\frac{1}{2}F\\Delta l=\\frac{1}{2}\\times196\\times10^{-3}=0.098\\,\\text{J}\\) — সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-075",
+      "text": "বিকৃতি বনাম পীড়ন লেখচিত্রের ক্ষেত্রফল ΔOAB নির্দেশ করে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch7-mcq-075-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "ইয়ং এর গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সর্বমোট কৃতকাজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পঁয়সনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একক আয়তনে সঞ্চিত বিভবশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বিকৃতি-পীড়ন লেখচিত্রে ত্রিভুজ OAB এর ক্ষেত্রফল \\(=\\dfrac{1}{2}\\times\\)পীড়ন\\(\\times\\)বিকৃতি, যা একক আয়তনে সঞ্চিত বিভবশক্তি।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-076",
+      "text": "একটি তারের উপাদানের ইয়ং এর গুণাঙ্ক \\(2 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)। তারটির দৈর্ঘ্য 15% বৃদ্ধি করতে হলে প্রযুক্ত পীড়ন নির্ণয় কর।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6 \\times 10^{11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6 \\times 10^{-11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3 \\times 10^{-11}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(Y=\\dfrac{\\text{পীড়ন}}{\\text{বিকৃতি}}\\) থেকে পীড়ন \\(=Y\\times\\) বিকৃতি \\(=2\\times10^{11}\\times0.15=3\\times10^{10}\\,\\mathrm{Nm^{-2}}\\)।\nএই মান কোনো বিকল্পের সাথে মেলে না।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Stress = Y × strain = 2 × 10¹¹ × 0.15 = 3 × 10¹⁰ N m⁻², which is not printed exactly; ক is the intended answer (sattacademy lists ক as 3 × 10¹⁰). | উত্তর যাচাই: পীড়ন \\(=Y\\times\\) বিকৃতি \\(=2\\times10^{11}\\times0.15=3\\times10^{10}\\,\\mathrm{Nm^{-2}}\\); কোনো বিকল্পই সঠিক নয় (ক) এ \\(3\\times10^{11}\\) দেওয়া আছে, যা 10 গুণ বেশি।"
+    },
+    {
+      "id": "physics_1st-ch7-mcq-077",
+      "text": "স্থিতিস্থাপক সীমার মধ্যে কৃন্তন পীড়ন ও কৃন্তন বিকৃতির অনুপাতকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইয়ং-এর গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দৃঢ়তার গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সংনম্যতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়তন গুণাঙ্ক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "স্থিতিস্থাপক সীমার মধ্যে কৃন্তন পীড়ন ও কৃন্তন বিকৃতির অনুপাতকে দৃঢ়তার গুণাঙ্ক বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-078",
+      "text": "আয়তন গুণাঙ্কের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{ML^{-2}T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^{-1}T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{M^{-1}L^{-1}T^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^{-1}T^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "আয়তন গুণাঙ্ক \\(K=\\dfrac{\\text{পীড়ন}}{\\text{আয়তন বিকৃতি}}\\); আয়তন বিকৃতি মাত্রাহীন, তাই মাত্রা পীড়নের মাত্রার সমান: \\(\\mathrm{ML^{-1}T^{-2}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-079",
+      "text": "একটি তারের উপাদানের ইয়ং এর গুণাঙ্ক (Y) ও বিকৃতির লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-079-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-079-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-079-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-079-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(Y=\\dfrac{\\text{পীড়ন}}{\\text{বিকৃতি}}\\) উপাদানের ধর্ম, স্থিতিস্থাপক সীমার মধ্যে ধ্রুবক; তাই Y-বিকৃতি লেখচিত্র অক্ষের সমান্তরাল সরলরেখা।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-080",
+      "text": "একটি স্প্রিংকে কেটে সমান দুইভাগে ভাগ করা হলে প্রতি টুকরার স্প্রিং ধ্রুবক কত? [স্প্রিং ধ্রুবক k]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{k}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2k\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{k}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4k\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "স্প্রিং ধ্রুবক দৈর্ঘ্যের ব্যস্তানুপাতিক। সমান দুই ভাগ করলে দৈর্ঘ্য অর্ধেক হয়, ফলে প্রতি টুকরার স্প্রিং ধ্রুবক \\(2k\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-081",
+      "text": "পূর্ণ দৃঢ় বস্তুর ক্ষেত্রে নিচের কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-081-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-081-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-081-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch7-mcq-081-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পূর্ণ দৃঢ় বস্তুর বিকৃতি শূন্য, যত পীড়নই প্রয়োগ করা হোক; তাই লেখচিত্র পীড়ন অক্ষ বরাবর উলম্ব রেখা, যা (গ) তে দেখানো হয়েছে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-082",
+      "text": "কোনো বস্তুর আকার বিকৃতির জন্য যে পীড়ন প্রয়োগ করা হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৈর্ঘ্য পীড়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃন্তন পীড়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন পীড়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসহ পীড়ন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আকার বিকৃতির জন্য স্পর্শকীয় বল প্রয়োগ করা হয়; এই পীড়নকে কৃন্তন পীড়ন বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-083",
+      "text": "কোনো বস্তুর আয়তন গুণাঙ্ক (K) এবং সংনম্যতার (C) মধ্যে সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(C = \\dfrac{1}{K}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(C = \\dfrac{3}{2}KT\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(C = \\sqrt{\\dfrac{3KT}{m}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{C}{K} = 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আয়তন গুণাঙ্ক K এর অন্যোন্যক রাশিকে সংনম্যতা বলে: \\(C=\\dfrac{1}{K}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-084",
+      "text": "পয়সনের অনুপাত নিচের কোনটি হতে পারে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-0.9\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পয়সনের অনুপাতের তাত্ত্বিক সীমা \\(-1\\) থেকে \\(+\\dfrac{1}{2}\\), তাই 1 হতে পারে না।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-085",
+      "text": "বিকৃতি বনাম পীড়ন লেখচিত্রের ঢাল কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থিতিস্থাপক গুণাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পয়সনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোট কৃত কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একক আয়তনে বিভবশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "স্থিতিস্থাপক সীমার মধ্যে পীড়ন ও বিকৃতির অনুপাত স্থিতিস্থাপক গুণাঙ্ক; পাঠ্যবইয়ের প্রচলিত ধারায় লেখচিত্রের ঢাল দ্বারা এটিই বোঝানো হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 16,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-086",
+      "text": "বল প্রয়োগে যদি কোনো বস্তুর আকারের পরিবর্তন হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আকার পীড়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আকার বিকৃতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন পীড়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়তন বিকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বল প্রয়োগে বস্তুর আকারের পরিবর্তনকে আকার বিকৃতি বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-087",
+      "text": "পীড়ন এর মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{ML^{-1}T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{MLT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{MLT^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{M^{-1}L^3T^{-2}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পীড়ন \\(=\\dfrac{\\text{বল}}{\\text{ক্ষেত্রফল}}\\), মাত্রা \\(=\\dfrac{\\mathrm{MLT^{-2}}}{\\mathrm{L^2}}=[\\mathrm{ML^{-1}T^{-2}}]\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-088",
+      "text": "কিছু পরিমাণ পানিকে তার মোট আয়তনের 10% সংকুচিত করতে কত পরিমাণ চাপ প্রয়োগ করতে হবে, যেখানে পানির আয়তন গুণাঙ্ক \\(2 \\times 10^9\\,\\mathrm{Nm^{-2}}\\)?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 \\times 10^{10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^9\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.02 \\times 10^{10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.5 \\times 10^{-10}\\,\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(K=\\dfrac{P}{\\Delta V/V}\\)\n\\(P=K\\times\\dfrac{\\Delta V}{V}=2\\times10^9\\times0.1=2\\times10^8=0.02\\times10^{10}\\,\\mathrm{Nm^{-2}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-089",
+      "text": "পয়সনের অনুপাতের মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{1}{2} \\le \\sigma \\le 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1 \\le \\sigma \\le \\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2} \\le \\sigma \\le 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\le \\sigma \\le 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "পয়সনের অনুপাত \\(\\sigma\\) এর মান \\(-1\\) থেকে \\(+\\dfrac{1}{2}\\) এর মধ্যে সীমাবদ্ধ।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-090",
+      "text": "SI এককে পীড়নের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N·m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^{-3}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "পীড়ন \\(=\\dfrac{\\text{বল}}{\\text{ক্ষেত্রফল}}\\), তাই SI এককে \\(\\mathrm{Nm^{-2}}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-091",
+      "text": "পয়সনের অনুপাতের ক্ষেত্রে কোনটি খাটে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-0.6\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-0.1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.6\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পয়সনের অনুপাতের উর্ধ্বসীমা 0.5, তাই 0.6 হতে পারে না।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-092",
+      "text": "একটি তারের স্প্রিং ধ্রুবকের মান বৃদ্ধি পায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দৈর্ঘ্য হ্রাস পেলে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রস্থচ্ছেদ বৃদ্ধি পেলে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রযুক্ত বল বৃদ্ধি পেলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "তারের ক্ষেত্রে \\(k=\\dfrac{YA}{L}\\); দৈর্ঘ্য কমলে (i) ও প্রস্থচ্ছেদ বাড়লে (ii) k বাড়ে। প্রযুক্ত বলের উপর k নির্ভর করে না (iii মিথ্যা)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-093",
+      "text": "দুটি স্প্রিং এর বল ধ্রুবক \\(200\\,\\mathrm{Nm^{-1}}\\) ও \\(300\\,\\mathrm{Nm^{-1}}\\) হলে শ্রেণি সমবায়ে তাদের বল ধ্রুবক কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(100\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(120\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(250\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(500\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "শ্রেণি সমবায়ে \\(\\dfrac{1}{k}=\\dfrac{1}{200}+\\dfrac{1}{300}\\)\n\\(\\therefore k=\\dfrac{200\\times300}{500}=120\\,\\mathrm{Nm^{-1}}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-094",
+      "text": "তারের দৈর্ঘ্য বৃদ্ধি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "20m দৈর্ঘ্য ও \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটি ইস্পাতের তারের প্রান্তে 20N বল প্রয়োগ করা হলো। \\([Y = 2 \\times 10^{11}\\,\\mathrm{Nm^{-2}}]\\)",
+      "stem_image": null,
+      "group": "physics_1st-2022-SB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 \\times 10^{-3}\\) m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.99 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5 \\times 10^3\\) m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\times 10^4\\) m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(Y=\\dfrac{FL}{A\\,\\Delta L}\\)\n\\(\\Delta L=\\dfrac{20\\times20}{10^{-6}\\times2\\times10^{11}}=\\dfrac{400}{2\\times10^5}=2\\times10^{-3}\\) m",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-095",
+      "text": "প্রস্থচ্ছেদের ক্ষেত্রফল \\(2\\,\\mathrm{mm^2}\\) ও বল দ্বিগুণ হলে দৈর্ঘ্য বৃদ্ধি পূর্বের কতগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "20m দৈর্ঘ্য ও \\(1\\,\\mathrm{mm^2}\\) প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটি ইস্পাতের তারের প্রান্তে 20N বল প্রয়োগ করা হলো। \\([Y = 2 \\times 10^{11}\\,\\mathrm{Nm^{-2}}]\\)",
+      "stem_image": null,
+      "group": "physics_1st-2022-SB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\Delta L=\\dfrac{FL}{AY}\\); F ও A উভয়ই দ্বিগুণ হলে \\(\\dfrac{F}{A}\\) অপরিবর্তিত থাকে, তাই দৈর্ঘ্য বৃদ্ধি পূর্বের 1 গুণ।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

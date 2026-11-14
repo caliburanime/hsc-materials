@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 200" width="250" height="200">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="250" height="200" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60" y="45" width="120" height="120"/>
+<line x1="60" y1="45" x2="180" y2="165" />
+<line x1="180" y1="45" x2="60" y2="165" />
+<circle cx="120.0" cy="105.0" r="3" fill="#111"/>
+<text x="124.0" y="99.0" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="13" font-style="italic" fill="#111" stroke="none">O</text>
+<text x="52" y="37" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">A (+10 C)</text>
+<text x="188" y="37" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">B (+15 C)</text>
+<text x="52" y="185" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">C (−12 C)</text>
+<text x="188" y="185" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">D (?)</text>
+
+</g>
+</svg>

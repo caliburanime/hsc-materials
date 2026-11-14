@@ -1,0 +1,4522 @@
+{
+  "subject": "physics_1st",
+  "chapter": 5,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch5-mcq-001",
+      "text": "একটি বস্তুর উপর \\((5\\hat{i} - 3\\hat{j} - 2\\hat{k})\\) N বল প্রয়োগ করায় 7 sec সময় পর বেগ \\((3\\hat{i} + 2\\hat{j} + \\hat{k})\\,\\mathrm{ms^{-1}}\\) হলে বস্তুটির ক্ষমতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1W",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7.0W",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.31W",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "23.19W",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা \\(P=\\vec{F}\\cdot\\vec{v}\\)\n\\(=(5\\hat{i}-3\\hat{j}-2\\hat{k})\\cdot(3\\hat{i}+2\\hat{j}+\\hat{k})\\)\n\\(=15-6-2=7\\,\\mathrm{W}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-002",
+      "text": "ভরবেগ ও গতিশক্তির মধ্যে সম্পর্কযুক্ত সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E = \\frac{P}{2m}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E = \\frac{P^2}{2m}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E = \\frac{2P^2}{m}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E = \\frac{2P^2}{m^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E=\\frac{1}{2}mv^2=\\frac{(mv)^2}{2m}=\\frac{P^2}{2m}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-003",
+      "text": "কোনো যন্ত্রের কার্যকর শক্তি E, মোট প্রদত্ত শক্তি E′ এবং শক্তির অপচয় \\(E_1\\) হলে— নিচের কোনটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যখন \\(E = E'\\) তখন কর্মদক্ষতা \\(\\eta = 100\\%\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যখন \\(E_1 = 0\\) তখন কর্মদক্ষতা \\(\\eta = 100\\%\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যখন \\(E' = E_1\\) তখন কর্মদক্ষতা \\(\\eta = 0\\%\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যখন \\(E' = E_1\\) তখন কর্মদক্ষতা \\(\\eta = 100\\%\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কর্মদক্ষতা \\(\\eta=\\frac{E}{E'}\\times100\\%\\)। \\(E'=E_1\\) হলে কার্যকর শক্তি \\(E=E'-E_1=0\\), তাই \\(\\eta=0\\%\\), 100% নয়। কাজেই (ঘ) সঠিক নয়; বাকি তিনটি সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-004",
+      "text": "ক্ষমতা এর ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\frac{dW}{dt}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(Fv\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\frac{mgh}{t}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা \\( P = \\frac{dW}{dt} = \\vec{F}\\cdot\\vec{v} = Fv \\) এবং উচ্চতা বরাবর কাজের ক্ষেত্রে \\( \\frac{mgh}{t} \\); তিনটিই সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-005",
+      "text": "নিচের কোনটি 1 জুল কাজের সমতুল্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{7}\\) আর্গ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.6 \\times 10^{-19}\\) ইলেকট্রন ভোল্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "980 নিউটন মিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 ডাইন মিটার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "1 J = \\( 10^7 \\) erg। (খ) \\( 1.6\\times10^{-19} \\) eV জুলের চেয়ে অনেক ছোট, (গ) 980 N m ও (ঘ) 1 dyne m ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-006",
+      "text": "ক্ষমতার মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{ML^2T^{-3}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^{-1}T^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা \\( = \\frac{\\text{কাজ}}{\\text{সময়}} = \\frac{\\mathrm{ML^2T^{-2}}}{\\mathrm{T}} = \\mathrm{ML^2T^{-3}} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-007",
+      "text": "A বিন্দুতে ববটির বেগ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রের 20gm ভরের একটি বব একটি সুতা দিয়ে ঝুলানো আছে। যেখানে, OA = 1m, AM = 20 cm।",
+      "stem_image": "assets/physics_1st-ch5-mcq-007-stem.svg",
+      "group": "physics_1st-2025-BB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.396\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.98\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.92\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.29\\,\\mathrm{ms^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "C বিন্দু A থেকে \\( h = 20 \\) cm = 0.2 m উচ্চতায়। শক্তির সংরক্ষণ: \\( \\frac{1}{2}v^2 = gh \\)\n\\( v = \\sqrt{2 \\times 9.81 \\times 0.2} = 1.98 \\) ms\\(^{-1}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-008",
+      "text": "উদ্দীপকের আলোকে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রের 20gm ভরের একটি বব একটি সুতা দিয়ে ঝুলানো আছে। যেখানে, OA = 1m, AM = 20 cm।",
+      "stem_image": "assets/physics_1st-ch5-mcq-007-stem.svg",
+      "group": "physics_1st-2025-BB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "A বিন্দুতে বিভব শক্তি সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A বিন্দুতে ত্বরণ শূন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C বিন্দুতে বিভব শক্তি সর্বোচ্চ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "B বিন্দুতে শুধুমাত্র গতিশক্তি আছে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "C বিন্দু সর্বোচ্চ অবস্থান, সেখানে বেগ শূন্য ও বিভবশক্তি সর্বোচ্চ। A সর্বনিম্ন বিন্দুতে বিভবশক্তি সর্বনিম্ন; A-তে কেন্দ্রমুখী ত্বরণ শূন্য নয়; B-তে গতিশক্তি ও বিভবশক্তি দুটিই আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-009",
+      "text": "50 kg ভরের একটি বস্তু 150m উঁচু দালানের ছাদে উঠানো হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বস্তুটির ওজন 490 N"
+        },
+        {
+          "label": "ii",
+          "text": "কৃতকাজ হবে \\(7.35 \\times 10^{4}\\) J"
+        },
+        {
+          "label": "iii",
+          "text": "বলের বিরুদ্ধে কাজ হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "satt",
+      "explanation": "(i) ওজন \\(W = mg = 50 \\times 9.8 = 490\\) N, সত্য।\n(ii) কৃতকাজ \\(W = mgh = 490 \\times 150 = 7.35 \\times 10^{4}\\) J, সত্য।\n(iii) বস্তুকে উপরে তুললে অভিকর্ষ বলের বিরুদ্ধে কাজ হয়, তাই এটিও সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (iii) বিবৃতিটিও সত্য: বস্তু উঁচুতে তুললে অভিকর্ষ বলের বিরুদ্ধে কাজ হয়। তাই i, ii ও iii অর্থাৎ (ঘ) সঠিক হওয়ার কথা।"
+    },
+    {
+      "id": "physics_1st-ch5-mcq-010",
+      "text": "একটি কুয়া থেকে ইঞ্জিনের সাহায্যে প্রতি ঘণ্টায় \\(25 \\times 10^{6}\\) kg পানি 50m উচ্চতায় উঠানো হয়। 70% ক্ষমতা ক্ষয় হলে এর অশ্বক্ষমতা কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6251 HP",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3649 HP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.5 \\times 10^{4}\\) HP",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4.8 \\times 10^{6}\\) HP",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "satt",
+      "explanation": "পানির উপর কৃতকাজ \\(W = mgh = 25 \\times 10^{6} \\times 9.8 \\times 50 = 1.225 \\times 10^{10}\\) J\nউপযোগী ক্ষমতা \\(= \\frac{1.225 \\times 10^{10}}{3600} = 3.40 \\times 10^{6}\\) W\n70% ক্ষয় হলে দক্ষতা 30%, তাই ইঞ্জিনের ক্ষমতা \\(= \\frac{3.40 \\times 10^{6}}{0.3} = 1.134 \\times 10^{7}\\) W\n\\(= \\frac{1.134 \\times 10^{7}}{746} \\approx 1.5 \\times 10^{4}\\) HP",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 9
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-011",
+      "text": "A ও B বিন্দুর বিভব শক্তির পার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "চিত্রে 1 kg ভরের একটি বস্তুকে 0.5m দৈর্ঘ্যের সুতার সাহায্যে উলম্ব তলে ঘুরানো হচ্ছে। A ও B বিন্দু যথাক্রমে ঘূর্ণন তলের সর্বনিম্ন ও সর্বোচ্চ বিন্দু নির্দেশ করে।",
+      "stem_image": "assets/physics_1st-ch5-mcq-011-stem.svg",
+      "group": "physics_1st-2025-DIB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "9.8 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "19.6 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5 J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "A ও B এর উচ্চতার পার্থক্য \\(h = 2 \\times 0.5 = 1\\) m\nবিভব শক্তির পার্থক্য \\(= mgh = 1 \\times 9.8 \\times 1 = 9.8\\) J",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-012",
+      "text": "ভরবেগ ও গতিশক্তির মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(K = \\frac{\\vec{P} \\cdot \\vec{P}}{2m}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(K = \\frac{p^2}{2m}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K = \\frac{\\vec{P} \\times \\vec{P}}{2m}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গতিশক্তি \\(K = \\frac{1}{2}mv^2 = \\frac{p^2}{2m} = \\frac{\\vec{P} \\cdot \\vec{P}}{2m}\\), তাই (i) ও (ii) সত্য।\n\\(\\vec{P} \\times \\vec{P} = 0\\) (একই ভেক্টরের ক্রস গুণফল শূন্য), তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-013",
+      "text": "একটি বস্তুর রৈখিক ভরবেগ 50% বৃদ্ধি করলে গতিশক্তি বৃদ্ধি পায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "25%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "125%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "225%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K \\propto p^2\\)। \\(p' = 1.5p\\) হলে \\(K' = (1.5)^2 K = 2.25K\\)\nবৃদ্ধি \\(= (2.25 - 1) \\times 100\\% = 125\\%\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-014",
+      "text": "বলের বিরুদ্ধে কাজ সম্পন্ন হয় যখন বল ও সরণের মধ্যবর্তী কোণ θ এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ \\le \\theta < 90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0^\\circ < \\theta \\le 90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90^\\circ \\le \\theta \\le 180^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(90^\\circ < \\theta \\le 180^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বলের বিরুদ্ধে কাজ ঋণাত্মক কাজ, অর্থাৎ \\(W = Fs\\cos\\theta < 0\\)। এটি তখনই হয় যখন \\(\\cos\\theta < 0\\), অর্থাৎ \\(90^\\circ < \\theta \\le 180^\\circ\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-015",
+      "text": "একটি বস্তুর ভর ও বেগ উভয়ই 4 গুণ বৃদ্ধি পেলে এর গতিশক্তি কতগুণ বৃদ্ধি পাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "64",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "32",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গতিশক্তি \\(K = \\frac{1}{2}mv^2\\)\n\\(K' = \\frac{1}{2}(4m)(4v)^2 = 4 \\times 16 \\times K = 64K\\)\nঅতএব গতিশক্তি 64 গুণ হবে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-016",
+      "text": "বস্তুর ভর ধ্রুবক হলে রৈখিক ভরবেগ (P) বনাম গতিশক্তি (\\(E_k\\)) লেখচিত্রটি কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-016-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-016-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-016-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-016-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{P^2}{2m}\\); m ধ্রুবক হলে \\(E_k \\propto P^2\\)।\nতাই \\(E_k\\) বনাম P লেখচিত্র মূলবিন্দু থেকে শুরু হওয়া ঊর্ধ্বমুখী পরাবৃত্ত — (ক)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-017",
+      "text": "\\(90\\,\\mathrm{Nm^{-1}}\\) বল ধ্রুবকের স্প্রিংকে 4cm সংকুচিত করলে কৃতকাজ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.072J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.078J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.082J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.086J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কৃতকাজ \\(W = \\frac{1}{2}kx^2 = \\frac{1}{2} \\times 90 \\times (0.04)^2 = 0.072\\) J",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-018",
+      "text": "4kg এবং 9kg ভরের দুটি গতিশীল বস্তুর গতিশক্তি একই হলে তাদের রৈখিক ভরবেগের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 : 9",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 : 3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3 : 2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(K = \\frac{p^2}{2m}\\) থেকে \\(p = \\sqrt{2mK}\\); K সমান হলে \\(p \\propto \\sqrt{m}\\)\n\\(p_1 : p_2 = \\sqrt{4} : \\sqrt{9} = 2 : 3\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-019",
+      "text": "10W ক্ষমতা বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1s এ কৃতকাজ 10J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2s এ কৃতকাজ 5J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5s এ কৃতকাজ 2J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10s এ কৃতকাজ 1J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা = কাজ/সময়। 10 W অর্থ প্রতি সেকেন্ডে 10 J কাজ, অর্থাৎ 1s এ কৃতকাজ 10 J।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-020",
+      "text": "কোনো বস্তুর গতিশক্তি তার প্রাথমিক গতিশক্তির দ্বিগুণ হলে শেষ ভরবেগ আদি ভরবেগের কতগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}\\) গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K = \\frac{p^2}{2m}\\), তাই \\(p \\propto \\sqrt{K}\\)\n\\(K' = 2K\\) হলে \\(\\frac{p'}{p} = \\sqrt{2}\\); অর্থাৎ \\(\\sqrt{2}\\) গুণ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-021",
+      "text": "বল ও সরণের মধ্যবর্তী কোণ কত হলে কাজের পরিমাণ সর্বাধিক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(W = Fs\\cos\\theta\\); কাজ সর্বাধিক হয় যখন \\(\\cos\\theta = 1\\), অর্থাৎ \\(\\theta = 0^\\circ\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-022",
+      "text": "কোনো বস্তুর গতিশক্তি 300% বাড়লে ভরবেগ কত শতাংশ বাড়বে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "75%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "89%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "95%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গতিশক্তি 300% বাড়লে \\(K' = 4K\\)\n\\(p \\propto \\sqrt{K}\\) হওয়ায় \\(p' = 2p\\)\nভরবেগ বৃদ্ধি \\(= \\frac{2p - p}{p} \\times 100\\% = 100\\%\\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-023",
+      "text": "ইঞ্জিনের ক্ষমতা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ইঞ্জিন \\(10^5\\) kg ভরের বস্তুকে ভূমির সাথে 65° কোণে \\(72\\,\\mathrm{kmh^{-1}}\\) বেগে টেনে নিয়ে যাচ্ছে। ঘর্ষণজনিত বাধা \\(10^3\\) kg তে 20N। \\([g = 9.8\\,\\mathrm{ms^{-2}}]\\)",
+      "stem_image": null,
+      "group": "physics_1st-2025-RB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.65 \\times 10^{4}\\) HP",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.51 \\times 10^{4}\\) HP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.38 \\times 10^{4}\\) HP",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.25 \\times 10^{4}\\) HP",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(v = 72\\) km/h \\(= 20\\) m/s; ঘর্ষণ বল \\(f = \\frac{20}{10^3} \\times 10^5 = 2000\\) N\nঢালের দিকে বল \\(F = mg\\sin 65^\\circ + f = 10^5 \\times 9.8 \\times 0.9063 + 2000 \\approx 8.90 \\times 10^{5}\\) N\nক্ষমতা \\(P = Fv = 8.90 \\times 10^{5} \\times 20 = 1.78 \\times 10^{7}\\) W\n\\(= \\frac{1.78 \\times 10^{7}}{746} \\approx 2.38 \\times 10^{4}\\) HP",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-024",
+      "text": "কোনো বস্তুর গতিশক্তি ও ভরবেগের মধ্যে সম্পর্ক হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E_k \\propto P\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E_k \\propto P^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E_k \\propto \\frac{1}{P}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E_k \\propto \\frac{1}{P^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{P^2}{2m}\\), অর্থাৎ \\(E_k \\propto P^2\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-025",
+      "text": "কোনো গতিশীল বস্তুর গতিশক্তি (\\(E_K\\)) এবং ভরবেগ P হলে P বনাম \\(E_K\\) লেখচিত্রটি কেমন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তাকার পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরলরেখা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(E_k = \\frac{P^2}{2m}\\) থেকে \\(P^2 = 2mE_k\\), অর্থাৎ \\(P^2 \\propto E_k\\)। এটি একটি পরাবৃত্তের সমীকরণ, তাই P বনাম \\(E_K\\) লেখ পরাবৃত্ত।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-026",
+      "text": "এক ব্যক্তি 10 kg ভরের একটি ব্যাগ নিয়ে সমতল পথে 10 m দূরত্ব অতিক্রম করলে অভিকর্ষ বলের দ্বারা কাজ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "980 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9.8 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমতল পথে সরণ অনুভূমিক, আর অভিকর্ষ বল উলম্ব; তাদের মধ্যবর্তী কোণ \\(90^\\circ\\)। তাই \\(W = Fs\\cos 90^\\circ = 0\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-027",
+      "text": "স্প্রিং ধ্রুবকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{ML^{-1}T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{MT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{ML^2T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{M^{-1}T^2}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(F = kx\\), সুতরাং \\(k = \\frac{F}{x}\\)। মাত্রা \\(= \\frac{\\mathrm{MLT^{-2}}}{\\mathrm{L}} = \\mathrm{MT^{-2}}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-028",
+      "text": "সংরক্ষণশীল বলের ক্রিয়ার ক্ষেত্রে নিচের কোনটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ণচক্রে কাজের পরিমাণ শূন্য হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃতকাজ গতিপথের উপর নির্ভরশীল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পাদিত কাজ পুনরুদ্ধার করা সম্ভব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যান্ত্রিক শক্তির নিত্যতা বজায় থাকে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সংরক্ষণশীল বলের ক্ষেত্রে কৃতকাজ গতিপথের উপর নির্ভর করে না, কেবল প্রাথমিক ও চূড়ান্ত অবস্থানের উপর নির্ভর করে। তাই (খ) সঠিক নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-029",
+      "text": "একটি পাম্পের কার্যকর ক্ষমতা 3kW এবং কর্মদক্ষতা 75% হলে পাম্পটির প্রকৃত ক্ষমতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 kW",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 kW",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.25 kW",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.25 kW",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কর্মদক্ষতা = \\( \\frac{\\text{কার্যকর ক্ষমতা}}{\\text{প্রকৃত ক্ষমতা}} \\)\nপ্রকৃত ক্ষমতা = \\( \\frac{3}{0.75} = 4 \\) kW",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-030",
+      "text": "বল ও সরণের মধ্যবর্তী কোণ α হলে ধনাত্মক কাজের শর্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ \\le \\alpha < 90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0^\\circ < \\alpha < 90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0^\\circ \\le \\alpha \\le 180^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0^\\circ < \\alpha \\le 180^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কাজ \\( W = Fs\\cos\\alpha \\); \\( \\cos\\alpha > 0 \\) হতে হলে \\( 0^\\circ \\le \\alpha < 90^\\circ \\)। \\( \\alpha = 0^\\circ \\) হলেও কাজ ধনাত্মক (সর্বোচ্চ) হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-031",
+      "text": "স্প্রিং এর বল ধ্রুবকের একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Nm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Nm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Nm^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( F = kx \\) থেকে \\( k = \\frac{F}{x} \\)। সুতরাং একক \\( \\mathrm{N/m} = \\mathrm{Nm^{-1}} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-032",
+      "text": "k স্প্রিং ধ্রুবকবিশিষ্ট একটি স্প্রিং এর মুক্ত প্রান্তের x পরিমাণ সরণ ঘটালে সঞ্চিত বিভব শক্তির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(U = \\frac{1}{2}kx\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(U = kx\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(U = \\frac{1}{2}kx^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(U = kx^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্প্রিংকে x সরাতে কাজ \\( W = \\int_0^x kx\\,dx = \\frac{1}{2}kx^2 \\); এটিই সঞ্চিত বিভবশক্তি।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-033",
+      "text": "কাজের অভিকর্ষীয় একক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্গ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কেজি-মিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাইন-সেন্টিমিটার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কাজের অভিকর্ষীয় একক কেজি-মিটার (kg-m বা kgf-m); জুল ও আর্গ যথাক্রমে SI ও CGS একক।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-034",
+      "text": "ভূমিতে অনুভূমিকভাবে থাকা 2 kg ভরের এবং 104 cm দৈর্ঘ্য, 4 cm প্রস্থ ও 4 cm পুরুত্বের আয়তাকার দণ্ডকে উলম্ব অবস্থায় আনতে কী পরিমাণ কাজ সম্পাদিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9.41 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9.8 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10.19 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20.38 J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দণ্ডের ভরকেন্দ্র প্রথমে ভূমি থেকে \\( \\frac{4}{2} = 2 \\) cm উচ্চতায় ছিল। উলম্ব অবস্থায় ভরকেন্দ্রের উচ্চতা \\( \\frac{104}{2} = 52 \\) cm।\nভরকেন্দ্রের উত্থান \\( h = 50\\,\\mathrm{cm} = 0.5\\,\\mathrm{m} \\)\n\\( W = mgh = 2 \\times 9.8 \\times 0.5 = 9.8 \\) J",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-035",
+      "text": "স্কেলটির ভরকেন্দ্রের সরণ কত cm?",
+      "text_en": null,
+      "image": null,
+      "stem": "100 gm ভর ও 1 cm পুরুত্বের একটি মিটার স্কেল খাড়া অবস্থা হতে ভূমিতে পড়ে গেলো। \\([g = 9.8\\,\\mathrm{ms^{-2}}]\\)",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "100.0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "99.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50.0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "49.5",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্কেলের দৈর্ঘ্য 100 cm। খাড়া অবস্থায় ভরকেন্দ্র ভূমি থেকে 50 cm উচ্চতায়; পড়ে যাওয়ার পর ভূমিতে শায়িত অবস্থায় ভরকেন্দ্র \\( \\frac{1}{2} = 0.5 \\) cm উচ্চতায়।\nসরণ = \\( 50 - 0.5 = 49.5 \\) cm",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-036",
+      "text": "অভিকর্ষজ বল দ্বারা কৃতকাজ কত J?",
+      "text_en": null,
+      "image": null,
+      "stem": "100 gm ভর ও 1 cm পুরুত্বের একটি মিটার স্কেল খাড়া অবস্থা হতে ভূমিতে পড়ে গেলো। \\([g = 9.8\\,\\mathrm{ms^{-2}}]\\)",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.4851",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.9751",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.4900",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.9800",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( W = mgh = 0.1 \\times 9.8 \\times 0.495 = 0.4851 \\) J (ভরকেন্দ্রের সরণ 49.5 cm = 0.495 m)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-037",
+      "text": "একটি বস্তুকণাকে সুতায় বেঁধে বৃত্তাকার পথে ঘুরালে কাজের পরিমাণ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বৃত্তাকার পথে বস্তুর উপর কেন্দ্রমুখী বল সর্বদা সরণের (স্পর্শক) অভিলম্বে ক্রিয়া করে, \\( \\cos 90^\\circ = 0 \\); তাই কাজ শূন্য।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-038",
+      "text": "কোনো নির্দিষ্ট ভরের বস্তুর গতিশক্তি এর ভরবেগের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্গমূলের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গমূলের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( E_k = \\frac{p^2}{2m} \\); m ধ্রুব হলে \\( E_k \\propto p^2 \\), অর্থাৎ ভরবেগের বর্গের সমানুপাতিক।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-039",
+      "text": "সর্বোচ্চ কাজের জন্য প্রযুক্ত বল ও সরণের মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "180°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( W = Fs\\cos\\alpha \\); \\( \\cos\\alpha \\) এর সর্বোচ্চ মান 1 হয় \\( \\alpha = 0^\\circ \\) হলে।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-040",
+      "text": "কোনো বস্তুর ভরবেগ 10% বৃদ্ধি করলে উহার গতিশক্তি কত বৃদ্ধি পায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "11%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "12.1%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "21%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "42%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( E_k \\propto p^2 \\)। নতুন \\( p' = 1.1p \\) হলে \\( E_k' = (1.1)^2 E_k = 1.21E_k \\)\nবৃদ্ধি = \\( 21\\% \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-041",
+      "text": "অসংরক্ষণশীল বলের উদাহরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অভিকর্ষ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৈদ্যুতিক বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চৌম্বক বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘর্ষণ বল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঘর্ষণ বল অসংরক্ষণশীল বল, কারণ এর বিরুদ্ধে কৃতকাজ গতিপথের উপর নির্ভর করে ও তা তাপরূপে বিনষ্ট হয়। অন্যগুলো সংরক্ষণশীল।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-042",
+      "text": "একটি বস্তুর উপর \\(F = (5x^2 - x + 1)\\) N মানের একটি পরিবর্তী বল X-অক্ষ বরাবর গতিশীল। যদি বস্তুটির x = 0 m হতে x = 3 m পর্যন্ত সরণ ঘটে তবে কৃতকাজ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "43.5J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "43J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "42J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40.5J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( W = \\int_0^3 (5x^2 - x + 1)dx = \\left[\\frac{5x^3}{3} - \\frac{x^2}{2} + x\\right]_0^3 \\)\n\\( = 45 - 4.5 + 3 = 43.5 \\) J",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-043",
+      "text": "আদর্শ স্প্রিং এর জন্য বিভবশক্তি (u) এবং সম্প্রসারণ (x) এর মধ্যকার লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-043-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-043-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-043-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-043-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্প্রিংয়ের বিভবশক্তি \\( u = \\frac{1}{2}kx^2 \\), অর্থাৎ \\( u \\propto x^2 \\); তাই লেখচিত্র মূলবিন্দুগামী ঊর্ধ্বমুখী অধিবৃত্ত, যা (গ)-এ আছে।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-044",
+      "text": "নিম্নের কোনটি শক্তির একক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N-m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "kW-h",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N\\,m^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\mathrm{N\\,m^{-2}} \\) চাপ বা পীড়নের একক। N-m, kW-h ও J সবই শক্তির একক।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-045",
+      "text": "শক্তির মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{MLT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{ML^2T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{MLT^{-3}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{ML^2T^{-3}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শক্তি = কাজ = বল × দূরত্ব; মাত্রা \\( [MLT^{-2}][L] = [ML^2T^{-2}] \\)।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-046",
+      "text": "বলের দ্বারা কাজের উদাহরণ:",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কোনো বস্তুকে উপর থেকে নিচে ফেলে দেওয়া হলে"
+        },
+        {
+          "label": "ii",
+          "text": "ভূ-পৃষ্ঠ হতে একটি বস্তুকে উপরে উঠিয়ে পুনরায় পূর্বের স্থানে রাখলে"
+        },
+        {
+          "label": "iii",
+          "text": "চলন্ত একটি ফুটবলে বল প্রয়োগের ফলে ফুটবলটি বলের ক্রিয়ার দিকে সরে যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) নিচে পড়ার সময় অভিকর্ষ বল সরণের দিকে কাজ করে — সত্য। (ii) বস্তুকে উঠিয়ে পূর্বস্থানে রাখলে সরণ শূন্য, নীট কাজও শূন্য — মিথ্যা। (iii) বল প্রয়োগে ফুটবল বলের দিকে সরলে কাজ হয় — সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-047",
+      "text": "এক ব্যক্তি একটি ব্লককে অনুভূমিক তল বরাবর 49N মানের বল প্রয়োগে 2m সরণ ঘটায়। ঐ ব্যক্তি কর্তৃক কৃতকাজের পরিমাণ কত হবে? [এখানে, \\(g = 9.8\\,\\mathrm{m/s^2}\\)]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "96.8J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−96.8J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−98J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "98J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বল ও সরণ একই দিকে (অনুভূমিক) ধরে, \\( W = Fs = 49 \\times 2 = 98 \\) J",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-048",
+      "text": "চিত্রে বস্তুটির ওপর 10N বল প্রয়োগে সরণের দিকে কত কাজ হবে?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch5-mcq-048-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "86.60J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "25J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কাজ \\( W = Fs\\cos\\theta = 10 \\times 10 \\times \\cos 30^\\circ \\)\n\\( = 100 \\times 0.866 = 86.60 \\) J",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-049",
+      "text": "নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\,\\mathrm{Watt} = 1\\,\\mathrm{JN^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\,\\mathrm{J} = 1\\,\\mathrm{Ns^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\,\\mathrm{kWh} = 3.6 \\times 10^{5}\\,\\mathrm{J}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\,\\mathrm{erg} = 10^{-7}\\,\\mathrm{J}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "1 erg = \\( 10^{-7} \\) J সঠিক। অন্যগুলো ভুল: \\( 1\\,\\mathrm{W} = 1\\,\\mathrm{Js^{-1}} \\), \\( 1\\,\\mathrm{J} = 1\\,\\mathrm{Nm} \\), \\( 1\\,\\mathrm{kWh} = 3.6 \\times 10^6 \\) J।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-050",
+      "text": "40N বল কোনো স্প্রিংকে টেনে 10m বৃদ্ধি করে। স্প্রিংকে 500 cm প্রসারিত করতে কৃত কাজের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( k = \\frac{F}{x} = \\frac{40}{10} = 4\\,\\mathrm{Nm^{-1}} \\)\nপ্রসারণ \\( x = 500\\,\\mathrm{cm} = 5 \\) m\n\\( W = \\frac{1}{2}kx^2 = \\frac{1}{2} \\times 4 \\times 25 = 50 \\) J",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-051",
+      "text": "m ভরের কোনো বস্তুর গতিশক্তি \\(E_k\\) হলে এর ভরবেগ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{\\frac{1}{2}mE_k}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{2mE_k}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}\\,mE_k\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(m\\sqrt{2E_k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( E_k = \\frac{p^2}{2m} \\Rightarrow p^2 = 2mE_k \\Rightarrow p = \\sqrt{2mE_k} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-052",
+      "text": "ক্ষমতার মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{MLT^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{ML^2T^{-3}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{ML^2T^{-2}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{MLT^{-3}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতা = কাজ/সময়; মাত্রা \\( \\frac{[ML^2T^{-2}]}{[T]} = [ML^2T^{-3}] \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-053",
+      "text": "50 kg ভরের বোঝা মাথায় নিয়ে 50 kg ভরের এক ব্যক্তি খাড়া দেয়ালের সাথে 60° কোণে 4 মিটার দীর্ঘ মই বেয়ে নিচে নামলে কাজের পরিমাণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3920J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1960J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মই বেয়ে নামলে উল্লম্ব নামা \\( h = 4\\cos 60^\\circ = 2 \\) m (দেয়ালের সাথে 60° কোণ)। মোট ভর = 50 + 50 = 100 kg।\n\\( W = mgh = 100 \\times 9.8 \\times 2 = 1960 \\) J",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-054",
+      "text": "স্থিতিস্থাপক বলের বিরুদ্ধে সরণের মান দ্বিগুণ করলে কৃতকাজ বৃদ্ধি পাবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "50%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "300%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( W = \\frac{1}{2}kx^2 \\propto x^2 \\)। সরণ দ্বিগুণ হলে কাজ 4 গুণ হয়, অর্থাৎ বৃদ্ধি \\( (4-1) \\times 100 = 300\\% \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-055",
+      "text": "গতিশক্তি বনাম ভরবেগের লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-055-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-055-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-055-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-055-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( E_k = \\frac{p^2}{2m} \\); \\( E_k \\) বনাম p লেখচিত্র মূলবিন্দুগামী ঊর্ধ্বমুখী অধিবৃত্ত, যা (ঘ)-এ আছে।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-056",
+      "text": "কাজের অভিকর্ষীয় একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N-m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "kg-m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "erg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কাজের অভিকর্ষীয় একক কিলোগ্রাম-মিটার (kg-m); N-m ও J একই SI একক, erg CGS একক।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-057",
+      "text": "ক্ষমতার একক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Js^{-1}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "Watt"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{erg\\,s^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষমতার একক \\( \\mathrm{Js^{-1}} = \\) Watt, এবং CGS এককে \\( \\mathrm{erg\\,s^{-1}} \\)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-058",
+      "text": "একটি ক্রেন 100kg ভরের একটি ব্লককে \\(0.1\\,\\mathrm{ms^{-1}}\\) ধ্রুববেগে উপরে তুলছে। ক্রেনটির ক্ষমতা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9.8 Watt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "98 Watt",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "980 Watt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9800 Watt",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ধ্রুববেগে তোলায় \\( F = mg \\)\n\\( P = Fv = mgv = 100\\times9.8\\times0.1 = 98\\,\\mathrm{W} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-059",
+      "text": "\\(100\\,\\mathrm{Nm^{-1}}\\) স্প্রিং-ধ্রুবকবিশিষ্ট একটি স্প্রিংকে সমান দু'ভাগে কাটা হলো। প্রতিটি খণ্ডের স্প্রিং ধ্রুবক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(50\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(100\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(200\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{4}\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্প্রিং সমান দুই ভাগ করলে প্রতিটির দৈর্ঘ্য অর্ধেক হয় ও স্প্রিং ধ্রুবক দ্বিগুণ হয়। তাই \\( k' = 2\\times100 = 200\\,\\mathrm{Nm^{-1}} \\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-060",
+      "text": "4kg ও 9kg ভরের দুটি বস্তু সমান ভরবেগে গতিশীল। এদের গতিশক্তির অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 : 3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 : 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 : 9",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9 : 4",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( E_k = \\frac{p^2}{2m} \\), \\( p \\) সমান হলে \\( E_k \\propto \\frac{1}{m} \\)\n\\( E_1 : E_2 = \\frac{1}{4} : \\frac{1}{9} = 9 : 4 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-061",
+      "text": "কোন স্প্রিংকে 10 N বল দ্বারা টেনে 5 cm প্রসারিত করা হলে, স্প্রিং ধ্রুবক কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.005\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0.5\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(200\\,\\mathrm{Nm^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( k = \\frac{F}{x} = \\frac{10}{0.05} = 200\\,\\mathrm{Nm^{-1}} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-062",
+      "text": "কাজের মান শূন্য হবে, যদি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সরণ না ঘটলে"
+        },
+        {
+          "label": "ii",
+          "text": "বলের বিপরীতে সরণ হলে"
+        },
+        {
+          "label": "iii",
+          "text": "যখন \\(\\sin\\theta = 1\\) হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( W = Fs\\cos\\theta \\)। (i) সরণ না হলে \\( s = 0 \\), তাই \\( W = 0 \\)। (iii) \\( \\sin\\theta = 1 \\) হলে \\( \\theta = 90^\\circ \\), \\( \\cos\\theta = 0 \\), তাই \\( W = 0 \\)। (ii) বলের বিপরীতে সরণ হলে কাজ ঋণাত্মক, শূন্য নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-063",
+      "text": "নিচের জোড়াগুলোর মধ্যে কোনটির মাত্রা একই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কাজ ও ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাজ ও শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল ও কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বল ও টর্ক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কাজ ও শক্তি উভয়ের মাত্রা \\( \\mathrm{ML^2T^{-2}} \\) (একক জুল)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-064",
+      "text": "সংরক্ষণশীল বলের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পূর্ণচক্রে মোট কাজ শূন্য নয়"
+        },
+        {
+          "label": "ii",
+          "text": "গতিপথের ওপর নির্ভর করে না"
+        },
+        {
+          "label": "iii",
+          "text": "প্রকৃষ্ট উদাহরণ আদর্শ স্প্রিং বল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সংরক্ষণশীল বলের কাজ গতিপথের উপর নির্ভর করে না এবং পূর্ণচক্রে মোট কাজ শূন্য, তাই (i) ভুল, (ii) সত্য। আদর্শ স্প্রিং বল সংরক্ষণশীল বলের প্রকৃষ্ট উদাহরণ, তাই (iii) সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-065",
+      "text": "বল ধ্রুবকের মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{MT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MT^{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{MLT^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^2T^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( k = \\frac{F}{x} \\), মাত্রা \\( \\frac{\\mathrm{MLT^{-2}}}{\\mathrm{L}} = \\mathrm{MT^{-2}} \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-066",
+      "text": "স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শব্দ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্প্রিং প্রসারিত করলে কৃত কাজ স্থিতিস্থাপক বিভব শক্তি হিসেবে স্প্রিং-এ সঞ্চিত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-067",
+      "text": "একটি ভারী বস্তুর ভর অপর একটি হালকা বস্তুর ভরের দ্বিগুণ। হালকা ও ভারী বস্তু দুটির গতিশক্তির অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান বেগ ধরলে \\( E_k = \\frac{1}{2}mv^2 \\propto m \\)\nহালকা : ভারী \\( = m : 2m = 1 : 2 \\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-068",
+      "text": "একটি বুলেটের গতিশক্তি কতগুণ হলে, এটি এর প্রাথমিক বেগের তিনগুণ বেগ অর্জন করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "27 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গতিশক্তি \\(K=\\frac{1}{2}mv^2\\), অর্থাৎ \\(K\\propto v^2\\)। বেগ 3 গুণ হলে গতিশক্তি \\(3^2=9\\) গুণ হবে।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-069",
+      "text": "কোনো বস্তুর ভর ধ্রুবক হলে, এর রৈখিক ভরবেগ (P) এবং গতিশক্তি (K) এর মধ্যে সম্পর্ক প্রকাশক গ্রাফ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-069-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-069-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-069-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-069-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K=\\frac{P^2}{2m}\\); m ধ্রুবক হলে \\(K\\propto P^2\\)। তাই K বনাম P লেখচিত্র মূলবিন্দুগামী ঊর্ধ্বমুখী অধিবৃত্ত, যা (গ)-এ দেখানো হয়েছে।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-070",
+      "text": "একটি বস্তু ভূমি থেকে 10m উচ্চতায় আছে। উপর থেকে বস্তুটিকে বিনা বাধায় পড়তে দিলে ভূমি থেকে 8m উচ্চতায় বস্তুটির গতিশক্তি ও স্থিতিশক্তির অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5 : 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 5",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মোট শক্তি 10 m উচ্চতার বিভবশক্তির সমান (\\(\\propto 10\\))। 8 m উচ্চতায় বিভবশক্তি \\(\\propto 8\\), তাই গতিশক্তি \\(\\propto 10-8=2\\)।\nগতিশক্তি : বিভবশক্তি = 2 : 8 = 1 : 4",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-071",
+      "text": "কোন স্প্রিংকে 2 cm প্রসারিত করলে সঞ্চিত বিভবশক্তি U। এটিকে 10 cm প্রসারিত করলে সঞ্চিত বিভবশক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{U}{25}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{U}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5U",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "25U",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্প্রিংয়ের বিভবশক্তি \\(U=\\frac{1}{2}kx^2\\), অর্থাৎ \\(U\\propto x^2\\)।\n\\(\\frac{U'}{U}=\\left(\\frac{10}{2}\\right)^2=25\\), সুতরাং \\(U'=25U\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-072",
+      "text": "অসংরক্ষণশীল বলের ক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ণচক্রে কাজের পরিমাণ শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃত কাজ বস্তুর গতিপথের উপর নির্ভরশীল নয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পাদিত কাজ পুনরুদ্ধার করা সম্ভব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যান্ত্রিক শক্তির নিত্যতা সংরক্ষিত হয় না",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অসংরক্ষণশীল বলের (যেমন ঘর্ষণ) ক্ষেত্রে শক্তির একটি অংশ তাপ প্রভৃতি রূপে ক্ষয় হয়, ফলে যান্ত্রিক শক্তির নিত্যতা সংরক্ষিত হয় না। (ক), (খ), (গ) সংরক্ষণশীল বলের বৈশিষ্ট্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-073",
+      "text": "কিলোওয়াট-ঘণ্টা নিচের কোন রাশির একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বলের ঘাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(1\\,\\text{kWh}=1000\\,\\text{W}\\times3600\\,\\text{s}=3.6\\times10^6\\,\\text{J}\\); এটি শক্তির (কাজের) একক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-074",
+      "text": "স্প্রিং এর বিভব শক্তি বনাম সরণের লেখচিত্র কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-074-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-074-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-074-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-074-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(U=\\frac{1}{2}kx^2\\), অর্থাৎ \\(U\\propto x^2\\)। তাই U–x লেখচিত্র মূলবিন্দু থেকে শুরু হওয়া ঊর্ধ্বমুখী অধিবৃত্ত, যা (গ)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-075",
+      "text": "C বিন্দুতে পৌঁছতে কৃতকাজের পরিমাণ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "বস্তুটি AC পথ বরাবর \\(4\\,\\mathrm{ms^{-1}}\\) সুষম দ্রুতিতে গতিশীল রয়েছে।",
+      "stem_image": "assets/physics_1st-ch5-mcq-075-stem.svg",
+      "group": "physics_1st-2023-DIB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "80 Joule",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "98 Joule",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "169.74 Joule",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "196 Joule",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "A থেকে C পর্যন্ত উচ্চতার পতন \\(h=AC\\sin30^\\circ=10\\times0.5=5\\,\\text{m}\\)।\nকৃতকাজ \\(W=mgh=2\\times9.8\\times5=98\\,\\text{J}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-076",
+      "text": "যদি কোণের মান 60° করা হয় তবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "বস্তুটি AC পথ বরাবর \\(4\\,\\mathrm{ms^{-1}}\\) সুষম দ্রুতিতে গতিশীল রয়েছে।",
+      "stem_image": "assets/physics_1st-ch5-mcq-075-stem.svg",
+      "group": "physics_1st-2023-DIB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "A বিন্দুতে মোট শক্তি 169.74 Joule"
+        },
+        {
+          "label": "ii",
+          "text": "C বিন্দুতে গতিশক্তি 169.74 Joule"
+        },
+        {
+          "label": "iii",
+          "text": "গতিশীল বস্তুটি শক্তির নিত্যতার সূত্র মেনে চলে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "60° হলে \\(h=10\\sin60^\\circ=8.66\\,\\text{m}\\), \\(mgh=2\\times9.8\\times8.66=169.74\\,\\text{J}\\)।\n(i) A বিন্দুতে (স্থির অবস্থায়) মোট শক্তি = বিভবশক্তি = 169.74 J — সঠিক।\n(ii) ঘর্ষণহীন পথে শক্তির নিত্যতা অনুযায়ী C বিন্দুতে গতিশক্তি = 169.74 J — সঠিক।\n(iii) বস্তুটি শক্তির নিত্যতার সূত্র মেনেই চলে — ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: উদ্দীপকে বস্তুটি 4 m/s সুষম দ্রুতিতে চলে বলা হয়েছে, তাহলে C বিন্দুতে গতিশক্তি 16 J হওয়ার কথা, 169.74 J নয়; তাই ii সঠিক হয় না। শুধু ঘর্ষণহীন, স্থির অবস্থা থেকে ছাড়া ধরলে (i) ও (ii) সঠিক হয় এবং উত্তর (ক) মেলে। উদ্দীপকটি অসঙ্গতিপূর্ণ।"
+    },
+    {
+      "id": "physics_1st-ch5-mcq-077",
+      "text": "ক্ষমতার একক ওয়াট ও অশ্ব ক্ষমতা (H.P.) এর মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 H.P. = 467 watt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 H.P. = 550 watt",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1 H.P. = 674 watt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 H.P. = 746 watt",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "1 H.P. = 746 watt।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-078",
+      "text": "নিচের কোনটি শূন্য হলেও কাজ সম্পন্ন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বল ও সরণের মধ্যবর্তী কোণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্বরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(W=Fs\\cos\\theta\\)। F বা s শূন্য হলে কাজ শূন্য হয়, \\(\\theta=0^\\circ\\) হলে \\(\\cos\\theta=1\\) হওয়ায় কাজ সর্বোচ্চ হয়; অর্থাৎ বল ও সরণের মধ্যবর্তী কোণ শূন্য হলেও কাজ সম্পন্ন হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-079",
+      "text": "এক অশ্ব ক্ষমতা কত ওয়াটের সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "746",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "550",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "946",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "750",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "1 অশ্বক্ষমতা (H.P.) = 746 watt।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-080",
+      "text": "নিচের কোনটি অসংরক্ষণশীল বল?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মহাকর্ষীয় বল"
+        },
+        {
+          "label": "ii",
+          "text": "সান্দ্র বল"
+        },
+        {
+          "label": "iii",
+          "text": "ঘর্ষণ বল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মহাকর্ষীয় বল সংরক্ষণশীল। সান্দ্র বল ও ঘর্ষণ বল অসংরক্ষণশীল, কারণ এদের বিরুদ্ধে কৃতকাজ পথের উপর নির্ভর করে এবং শক্তি তাপে রূপান্তরিত হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-081",
+      "text": "একটি 1.5m দীর্ঘ ও 2kg ভরের দণ্ডকে আনুভূমিক হতে উলম্ব অবস্থায় নিতে কাজের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "14J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "29J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "44J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দণ্ডের ভারকেন্দ্র মধ্যবিন্দুতে; আনুভূমিক থেকে উলম্ব করলে ভারকেন্দ্র \\(h=\\frac{1.5}{2}=0.75\\,\\text{m}\\) উপরে ওঠে।\n\\(W=mgh=2\\times9.8\\times0.75=14.7\\,\\text{J}\\approx14\\,\\text{J}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-082",
+      "text": "আনুভূমিকের সাথে 30° কোণে আনত রাস্তার উপরের দিকে চলমান 100gm ভরের একটি বস্তু 5m পথ চলতে কত শক্তি প্রয়োজন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.048 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.439 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.225 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.45 J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বস্তুর উচ্চতা বৃদ্ধি \\(h=5\\sin30^\\circ=2.5\\,\\text{m}\\)।\n\\(W=mgh=0.1\\times9.8\\times2.5=2.45\\,\\text{J}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-083",
+      "text": "ক্রেনের সাহায্যে 500kg ভরের বস্তুকে \\(0.20\\,\\mathrm{ms^{-1}}\\) সমদ্রুতিতে টেনে তোলা হলে ক্রেনের ক্ষমতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "980 Watt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1050 Watt",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2000 Watt",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3000 Watt",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমদ্রুতিতে তোলায় ক্রেনের বল \\(F=mg\\)।\n\\(P=Fv=mgv=500\\times9.8\\times0.20=980\\,\\text{W}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-084",
+      "text": "m ভরের, l দৈর্ঘ্যের, b প্রস্থের এবং h উচ্চতার একটি সুষম দণ্ডকে শায়িত অবস্থা হতে খাড়া করলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দণ্ডের ভারকেন্দ্রের সরণ হবে, \\(h_C = l_G - h_G\\)"
+        },
+        {
+          "label": "ii",
+          "text": "কৃত কাজের পরিমাণ হবে \\(W = mgh_C\\)"
+        },
+        {
+          "label": "iii",
+          "text": "কৃত কাজের পরিমাণ হবে \\(W = mg\\left(\\frac{l}{2} - \\frac{h}{2}\\right)\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) শায়িত অবস্থায় ভারকেন্দ্রের উচ্চতা \\(h_G=\\frac{h}{2}\\), খাড়া অবস্থায় \\(l_G=\\frac{l}{2}\\); সরণ \\(h_C=l_G-h_G\\) — সঠিক।\n(ii) কাজ \\(W=mgh_C\\) — সঠিক।\n(iii) \\(h_C=\\frac{l}{2}-\\frac{h}{2}\\) বসালে \\(W=mg\\left(\\frac{l}{2}-\\frac{h}{2}\\right)\\) — সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-085",
+      "text": "কোন ধরনের গতির ক্ষেত্রে বল ও বলের দিকে বস্তুর সরণের মধ্যবর্তী কোণ 0° হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একমাত্রিক গতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিমাত্রিক গতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্রিমাত্রিক গতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বহুমাত্রিক গতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "একমাত্রিক (সরলরেখীয়) গতিতে বস্তু বলের দিকেই সরে, তাই বল ও সরণের মধ্যবর্তী কোণ 0°।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-086",
+      "text": "30m উচ্চতা থেকে একটি বস্তুকে বিনা বাধায় পড়তে দিলে কত নিম্নতায় এর গতিশক্তি বিভবশক্তির দ্বিগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মোট শক্তি = \\(mg\\times30\\)। \\(K=2U\\) হলে \\(U=\\frac{1}{3}\\) মোট শক্তি, অর্থাৎ ভূমি থেকে উচ্চতা \\(=10\\,\\text{m}\\)।\nসুতরাং নিচে নামা দূরত্ব \\(=30-10=20\\,\\text{m}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-087",
+      "text": "একটি কাঠের ব্লকের দৈর্ঘ্য 0.24m, প্রস্থ 0.12m এবং উচ্চতা 0.06m। এর ভর 2kg। কাঠের ব্লকের দৈর্ঘ্যকে অনুভূমিক অবস্থান হতে উলম্ব অবস্থানে রাখতে কী পরিমাণ কাজ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.588J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.764J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.352J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.704J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্লক শায়িত অবস্থায় ভারকেন্দ্রের উচ্চতা \\(\\frac{0.06}{2}=0.03\\,\\text{m}\\), খাড়া অবস্থায় \\(\\frac{0.24}{2}=0.12\\,\\text{m}\\); উত্থান \\(=0.09\\,\\text{m}\\)।\n\\(W=mgh=2\\times9.8\\times0.09=1.764\\,\\text{J}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-088",
+      "text": "কোনো একটি বস্তুকণার গতিশক্তি \\((E_K)\\) ও ভরবেগ (P) এর মধ্যকার লেখচিত্র একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তাকার অধিবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরলরেখা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গতিশক্তি \\(E_K=\\dfrac{P^2}{2m}\\), অর্থাৎ \\(E_K\\propto P^2\\); তাই লেখচিত্র একটি পরাবৃত্ত (parabola)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-089",
+      "text": "বৃত্তাকার পথে ঘূর্ণনরত কোনো বস্তুর উপর কেন্দ্রমুখী বল দ্বারা কৃত কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অসীম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কেন্দ্রমুখী বল সর্বদা সরণের সাথে লম্বভাবে ক্রিয়া করে, তাই \\(W=Fs\\cos90^\\circ=0\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-090",
+      "text": "কেন্দ্রমুখী বল দ্বারা কৃত কাজ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অসীম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণাত্মক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কেন্দ্রমুখী বল গতিপথের (সরণের) সাথে লম্ব, ফলে \\(W=Fs\\cos90^\\circ=0\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2022",
+          "qno": 24,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-091",
+      "text": "একজন লোক 40 kg ভরের একটি বোঝা মাথায় নিয়ে 2 মিনিট দাঁড়িয়ে থাকলে তার কাজের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "80 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "392 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4800 J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বোঝাটির কোনো সরণ হয় না (\\(s=0\\)), তাই কৃতকাজ \\(W=Fs=0\\) J।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-092",
+      "text": "35m উচ্চতা হতে একটি বস্তুকে বিনা বাধায় পড়তে দিলে ভূমি হতে কত উচ্চতায় এর গতিশক্তি বিভব শক্তির দ্বিগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "11.67 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "23.33 m",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ভূমি থেকে h উচ্চতায় বিভবশক্তি \\(=mgh\\), গতিশক্তি \\(=mg(35-h)\\)।\n\\(mg(35-h)=2mgh\\)\n\\(\\therefore h=\\dfrac{35}{3}=11.67\\) m",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-093",
+      "text": "একটি বস্তুর উপর \\(\\vec{F} = (2\\hat{i} + 3\\hat{j} - 4\\hat{k})\\) N বল প্রয়োগের ফলে সেটি \\((3, 2, -1)\\) বিন্দু হতে \\((4, 5, 1)\\) বিন্দুতে স্থানান্তরিত হয়। এক্ষেত্রে কৃতকাজ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3 জুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 জুল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 জুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সরণ \\(\\vec{d}=(4-3)\\hat{i}+(5-2)\\hat{j}+(1+1)\\hat{k}=\\hat{i}+3\\hat{j}+2\\hat{k}\\)\n\\(W=\\vec{F}\\cdot\\vec{d}=2+9-8=3\\) J",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-094",
+      "text": "কাজ শক্তি উপপাদ্য অনুসারে কৃতকাজ নিচের কোন রাশিটির পরিবর্তনের সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গতিশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "কাজ-শক্তি উপপাদ্য অনুসারে বস্তুর উপর কৃতকাজ তার গতিশক্তির পরিবর্তনের সমান।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-095",
+      "text": "কোনো বস্তুর গতিশক্তি 300% বৃদ্ধি করলে এর ভরবেগ বৃদ্ধি পাবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "200%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "300%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "400%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গতিশক্তি 300% বৃদ্ধিতে নতুন গতিশক্তি \\(=4E\\)। \\(P\\propto\\sqrt{E}\\) হওয়ায় ভরবেগ \\(\\sqrt{4}=2\\) গুণ হয়, অর্থাৎ 100% বৃদ্ধি পায়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-096",
+      "text": "m ও 3m ভরের দুটি বস্তুর গতিশক্তির অনুপাত 2 : 1 হলে তাদের রৈখিক ভরবেগের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 : 3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 : \\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2} : \\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3} : \\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(P=\\sqrt{2mE}\\)\n\\(\\dfrac{P_1}{P_2}=\\sqrt{\\dfrac{m_1E_1}{m_2E_2}}=\\sqrt{\\dfrac{m\\times2}{3m\\times1}}=\\sqrt{2}:\\sqrt{3}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-097",
+      "text": "নিচের কোনটি সংরক্ষণশীল বলের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঘর্ষণ বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সান্দ্রবল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভিকর্ষীয় বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘাত বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অভিকর্ষীয় বল সংরক্ষণশীল বল, কারণ এর বিরুদ্ধে কৃতকাজ পথের উপর নির্ভর করে না; ঘর্ষণ ও সান্দ্র বল অসংরক্ষণশীল।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-098",
+      "text": "দুটি বস্তুর গতিশক্তি সমান। প্রথমটির ভর অন্যটির চারগুণ হলে এদের ভরবেগের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 : 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 : 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 : 4\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(P=\\sqrt{2mE}\\); E সমান হলে \\(P\\propto\\sqrt{m}\\)।\n\\(\\dfrac{P_1}{P_2}=\\sqrt{\\dfrac{4}{1}}=2:1\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-099",
+      "text": "m ভরের একটি বস্তু h উচ্চতা থেকে ভূমিতে পড়ল। ভূমি থেকে কত উচ্চতায় গতিশক্তি বিভবশক্তির তিনগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2h}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{h}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{h}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{h}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "উচ্চতা x এ গতিশক্তি \\(=mg(h-x)\\), বিভবশক্তি \\(=mgx\\)।\n\\(mg(h-x)=3mgx\\Rightarrow h=4x\\)\n\\(\\therefore x=\\dfrac{h}{4}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-100",
+      "text": "একটি স্প্রিং-এ 500N বল প্রয়োগ করায় স্প্রিংটি 10 cm প্রসারিত হয়। স্প্রিংটিতে 20 kg ভরের একটি বোঝা খাড়া নিচের দিকে ঝুলিয়ে দেওয়া হলে স্প্রিংটির স্থিতি শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.04J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.90J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.80J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "98J",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(k=\\dfrac{F}{x}=\\dfrac{500}{0.1}=5000\\) N/m\nঝুলানো বোঝার জন্য প্রসারণ \\(x=\\dfrac{mg}{k}=\\dfrac{20\\times9.8}{5000}=0.0392\\) m\nস্থিতিশক্তি \\(=\\dfrac{1}{2}kx^2=\\dfrac{1}{2}\\times5000\\times(0.0392)^2\\approx3.8\\) J",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-101",
+      "text": "একটি বন্দুকের গুলির ভর ও বেগ যদি দ্বিগুণ করা হয় তাহলে গতিশক্তি কত গুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(E_K=\\dfrac{1}{2}mv^2\\); ভর ও বেগ দ্বিগুণ হলে \\(E_K'=\\dfrac{1}{2}(2m)(2v)^2=8E_K\\)। অর্থাৎ 8 গুণ।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-102",
+      "text": "কোনো বস্তু তার অবস্থানের কারণে কী অর্জন করে থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অবস্থানের কারণে বস্তুতে যে শক্তি সঞ্চিত থাকে তা বিভবশক্তি।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-103",
+      "text": "100kg ভরের একটি বস্তুর ভরবেগ \\(200\\,\\mathrm{kgms^{-1}}\\) হলে এর গতিশক্তি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(8 \\times 10^6\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4 \\times 10^4\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "400J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(E_K=\\dfrac{P^2}{2m}=\\dfrac{(200)^2}{2\\times100}=\\dfrac{40000}{200}=200\\) J",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-104",
+      "text": "সংরক্ষণশীল বলের বৈশিষ্ট্য প্রকাশের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বল শুধু অবস্থানের উপর নির্ভরশীল"
+        },
+        {
+          "label": "ii",
+          "text": "শুধু বস্তুর আদি ও যে কোনো অবস্থানের উপর নির্ভর করে"
+        },
+        {
+          "label": "iii",
+          "text": "কৃতকাজ সম্পূর্ণরূপে পুনরুদ্ধার করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সংরক্ষণশীল বল শুধু অবস্থানের উপর নির্ভর করে (i সত্য), আদি ও শেষ অবস্থানের উপর নির্ভরশীল, পথের উপর নয় (ii সত্য) এবং এর দ্বারা কৃতকাজ সম্পূর্ণ পুনরুদ্ধার করা যায় (iii সত্য)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-105",
+      "text": "7 kg ভরের একটি বস্তু একটি স্থির বস্তুর সাথে স্থিতিস্থাপক সংঘর্ষে লিপ্ত হলো। সংঘর্ষের পর বস্তু একই দিকে আদি বেগের এক-চতুর্থাংশ বেগ নিয়ে চলতে থাকে। স্থির বস্তুর ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.2 kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.2 kg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8.2 kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14.2 kg",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "স্থিতিস্থাপক সংঘর্ষে \\(v_1=\\dfrac{m_1-m_2}{m_1+m_2}u\\)\n\\(\\dfrac{7-m_2}{7+m_2}=\\dfrac{1}{4}\\)\n\\(28-4m_2=7+m_2\\Rightarrow m_2=\\dfrac{21}{5}=4.2\\) kg",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-106",
+      "text": "একটি ইটের দৈর্ঘ্য 0.48m, প্রস্থ 0.24m এবং উচ্চতা 0.12m। এর ভর 2.5 kg ইটের দৈর্ঘ্যকে অনুভূমিক অবস্থান হতে উলম্ব অবস্থানে রাখতে কী পরিমাণ কাজ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5.88J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.41J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.456J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.764J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "শুয়ে থাকা অবস্থায় ভরকেন্দ্রের উচ্চতা \\(=\\dfrac{0.12}{2}=0.06\\) m; দৈর্ঘ্য উলম্ব হলে \\(=\\dfrac{0.48}{2}=0.24\\) m।\n\\(W=mg\\Delta h=2.5\\times9.8\\times(0.24-0.06)=4.41\\) J",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-107",
+      "text": "একটি বস্তুর গতিশক্তি দ্বিগুণ হলে এর বেগ হবে আদিবেগের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "141%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "200%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "400%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(v\\propto\\sqrt{E_K}\\); গতিশক্তি দ্বিগুণ হলে বেগ \\(\\sqrt{2}=1.41\\) গুণ, অর্থাৎ আদিবেগের 141%।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-108",
+      "text": "কোন ভৌত রাশিটি যে কোনো সংঘর্ষে সংরক্ষিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থিতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোটশক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "যেকোনো সংঘর্ষে মোট শক্তি সংরক্ষিত থাকে; গতিশক্তি শুধু স্থিতিস্থাপক সংঘর্ষে সংরক্ষিত হয় এবং কৌণিক ভরবেগ সংরক্ষণ বাহ্যিক টর্কের উপর নির্ভর করে।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-109",
+      "text": "60m উচ্চতা হতে একটি বস্তুকে বিনা বাধায় পড়তে দিলে ভূমি হতে কত উচ্চতায় বিভবশক্তি গতিশক্তির অর্ধেক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "40 m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ভূমি থেকে h উচ্চতায় বিভবশক্তি \\(=mgh\\), গতিশক্তি \\(=mg(60-h)\\)।\n\\(mgh=\\dfrac{1}{2}mg(60-h)\\Rightarrow 2h=60-h\\)\n\\(\\therefore h=20\\) m",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-110",
+      "text": "স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাসায়নিক শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপশক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "স্প্রিং প্রসারিত করলে কৃতকাজ বিভবশক্তিরূপে (স্থিতিশক্তি) স্প্রিং-এ সঞ্চিত হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-111",
+      "text": "বস্তুর ভর ধ্রুবক হলে, রৈখিক ভরবেগ (P) বনাম গতিশক্তি \\((E_k)\\) লেখচিত্রটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-111-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-111-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-111-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-111-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(E_K=\\dfrac{P^2}{2m}\\) এবং m ধ্রুবক হওয়ায় \\(E_K\\propto P^2\\); লেখচিত্র মূলবিন্দুগামী ঊর্ধ্বমুখী পরাবৃত্ত, যা (ক) তে দেখানো হয়েছে।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

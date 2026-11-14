@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="160" height="120" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="50" y1="95" x2="160" y2="95" marker-end="url(#ar)"/><line x1="50" y1="95" x2="50" y2="15" marker-end="url(#ar)"/><text x="160" y="111" text-anchor="end" font-family="serif" font-style="italic" font-size="14" fill="#111" stroke="none">T</text><text x="44" y="21" text-anchor="end" font-family="serif" font-style="italic" font-size="14" fill="#111" stroke="none">P/T</text><line x1="50" y1="30" x2="125" y2="95"/></g></svg>

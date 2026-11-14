@@ -1,0 +1,5011 @@
+{
+  "subject": "physics_1st",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch2-mcq-001",
+      "text": "\\(\\vec{\\nabla} \\cdot \\vec{v} = 0\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভেক্টর ক্ষেত্রটি সলিনয়ডাল"
+        },
+        {
+          "label": "ii",
+          "text": "প্রবাহী অপ্রসারণশীল হয়"
+        },
+        {
+          "label": "iii",
+          "text": "কোনো পদার্থের আগত ও নির্গত ফ্লাক্সের পরিবর্তন হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{\\nabla}\\cdot\\vec{v}=0\\) হলে ক্ষেত্রটি সলিনয়ডাল (i সত্য); প্রবাহী অপ্রসারণশীল বা অসংকোচনীয় (ii সত্য); কোনো আয়তনে আগত ও নির্গত ফ্লাক্স সমান থাকে, ফলে নিট ফ্লাক্সের পরিবর্তন হয় না (iii সত্য)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-002",
+      "text": "স্রোতের বেগ P কে নাকচ করার জন্য Q এর উপাংশের মান কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch2-mcq-002-stem.svg",
+      "group": "physics_1st-2025-DB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(27\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(18\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(15.59\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উদ্দীপকটি (চিত্র/তথ্য) অনুপলব্ধ। স্রোতের বেগ P নাকচ করতে Q এর সংশ্লিষ্ট উপাংশ P এর সমান ও বিপরীতমুখী হতে হবে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-003",
+      "text": "উদ্দীপক অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/physics_1st-ch2-mcq-002-stem.svg",
+      "group": "physics_1st-2025-DB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সাঁতারুর ন্যূনতম দূরত্বে নদী পার হওয়ার সময় = 0.256h"
+        },
+        {
+          "label": "ii",
+          "text": "সাঁতারুর ন্যূনতম সময়ে নদী পার হওয়ার সময় = 0.22h"
+        },
+        {
+          "label": "iii",
+          "text": "সাঁতারুর নদী পার হওয়ার সময় = 0.22h"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উদ্দীপক অনুপলব্ধ। ন্যূনতম দূরত্বে পার হতে সাঁতারুকে স্রোতের বিপরীতে কোণ করে সাঁতরাতে হয়, ফলে লব্ধি বেগ কমে ও সময় বেশি লাগে (0.256h); ন্যূনতম সময়ে পার হতে সোজা অভিমুখে সাঁতরাতে হয় (0.22h)। তাই i ও ii সত্য; iii-এ পার হওয়ার শর্ত নির্দিষ্ট নয়, তাই সর্বদা সত্য নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-004",
+      "text": "যে সব ভেক্টরের পাদবিন্দু অভিন্ন তাকে কী ভেক্টর বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবস্থান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঠিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমপ্রারম্ভিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমতলীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরগুলোর পাদবিন্দু (প্রারম্ভিক বিন্দু) একই, তাদের সমপ্রারম্ভিক ভেক্টর বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-005",
+      "text": "n এর মান কত হলে \\(\\vec{P} = 2\\hat{i} + n\\hat{j} - 5\\hat{k}\\) এবং \\(\\vec{Q} = 10\\hat{i} - 5\\hat{j} - 25\\hat{k}\\) পরস্পর সমান্তরাল হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\frac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমান্তরাল হলে অনুরূপ উপাংশের অনুপাত সমান: \\( \\frac{2}{10} = \\frac{n}{-5} = \\frac{-5}{-25} \\)\n\\( \\frac{n}{-5} = \\frac{1}{5} \\Rightarrow n = -1 \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-006",
+      "text": "জ্যামিতিক পদ্ধতিতে ভেক্টর রাশির যোগ ন্যূনতম কতটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জ্যামিতিক পদ্ধতিতে ভেক্টর যোগের (ত্রিভুজ, সামান্তরিক, বহুভুজ ইত্যাদি) নিয়ম ন্যূনতম পাঁচটি ধরা হয়েছে (বইয়ের উত্তর অনুযায়ী)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-007",
+      "text": "যদি \\(\\vec{A} = A\\hat{a}\\) এবং \\(\\vec{A'} = \\frac{1}{A}\\hat{a}\\) হয় তবে \\(\\vec{A}\\) এবং \\(\\vec{A'}\\) পরস্পর—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিপরীত ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিসদৃশ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিপ্রতীপ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A} = A\\hat{a} \\) এবং \\( \\vec{A}_r= \\frac{1}{A}\\hat{a} \\) হলে মান পরস্পর অন্যোন্যক ও দিক একই; এরা বিপ্রতীপ ভেক্টর।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-008",
+      "text": "ট্রলারটিকে ন্যূনতম দূরত্বে নদী পার হতে কত সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "4km প্রস্থবিশিষ্ট একটি নদীতে একটি ট্রলারের বেগ \\(20\\,\\mathrm{kmh^{-1}}\\) এবং স্রোতের বেগ \\(12\\,\\mathrm{kmh^{-1}}\\)।",
+      "stem_image": null,
+      "group": "physics_1st-2025-BB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.17h",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.20h",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.25h",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.33h",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ন্যূনতম দূরত্বে (সরাসরি আড়াআড়ি) পার হতে হলে লব্ধি নদীর প্রস্থ বরাবর।\nলব্ধি বেগ \\( = \\sqrt{20^2 - 12^2} = 16 \\) kmh\\(^{-1}\\)\nসময় \\( = \\frac{4}{16} = 0.25 \\) h",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-009",
+      "text": "ক্রস গুণন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বণ্টন সূত্র মেনে চলে"
+        },
+        {
+          "label": "ii",
+          "text": "ডান হাতি স্ক্রু নিয়ম অনুসরণ করে"
+        },
+        {
+          "label": "iii",
+          "text": "বিনিময় সূত্র মেনে চলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ক্রস গুণন বণ্টন সূত্র মানে (i) এবং ডান হাতি স্ক্রু নিয়ম অনুসরণ করে (ii), কিন্তু বিনিময় সূত্র মানে না, কারণ \\( \\vec{A}\\times\\vec{B} = -\\vec{B}\\times\\vec{A} \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-010",
+      "text": "নিচের কোনটি x-অক্ষের সমান্তরাল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((\\hat{i} \\times \\hat{j}) \\times \\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((\\hat{i} \\times \\hat{j}) \\times \\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((\\hat{i} \\times \\hat{j}) \\times \\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((\\hat{k} \\times \\hat{j}) \\times \\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "satt",
+      "explanation": "(ক) \\( (\\hat{i}\\times\\hat{j})\\times\\hat{j} = \\hat{k}\\times\\hat{j} = -\\hat{i} \\), যা x-অক্ষের সমান্তরাল। (খ) \\( \\hat{k}\\times\\hat{i} = \\hat{j} \\), (গ) \\( \\hat{k}\\times\\hat{k} = 0 \\), (ঘ) \\( (-\\hat{i})\\times\\hat{k} = \\hat{j} \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-011",
+      "text": "যে ভেক্টরের প্রাথমিক ও চূড়ান্ত বিন্দু একই তাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবস্থান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরের আদি ও প্রান্ত বিন্দু একই, তার মান শূন্য; একে শূন্য ভেক্টর বলে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-012",
+      "text": "যদি \\(|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|\\) হয়, তবে ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "180°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( |\\vec{A}+\\vec{B}|^2 = |\\vec{A}-\\vec{B}|^2 \\) হলে \\( 4\\vec{A}\\cdot\\vec{B} = 0 \\), অর্থাৎ \\( \\cos\\theta = 0 \\)। অতএব \\( \\theta = 90^\\circ \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-013",
+      "text": "তিনটি ভেক্টর \\(\\vec{P}\\), \\(\\vec{Q}\\) এবং \\(\\vec{R}\\) একই তলে অবস্থান করবে, যদি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{P} \\cdot (\\vec{Q} \\times \\vec{R}) = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{P} \\cdot (\\vec{Q} \\times \\vec{R}) = 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{P}(\\vec{Q} \\cdot \\vec{R}) = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{P} \\times (\\vec{Q} \\times \\vec{R}) = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তিনটি ভেক্টর সমতলীয় হলে এদের স্কেলার ত্রি-গুণফল (ঘনকের আয়তন) শূন্য হয়: \\( \\vec{P}\\cdot(\\vec{Q}\\times\\vec{R}) = 0 \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-014",
+      "text": "\\(\\vec{A} = 2\\hat{j}\\) এবং \\(\\vec{B} = \\frac{1}{2}\\hat{j}\\) হয় তবে দুটি ভেক্টর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সাদৃশ্য ভেক্টর"
+        },
+        {
+          "label": "ii",
+          "text": "বিপ্রতীপ ভেক্টর"
+        },
+        {
+          "label": "iii",
+          "text": "পরস্পর লম্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{B} = \\frac{1}{4}\\vec{A} \\) বলে দুটি একই দিকে, অর্থাৎ সদৃশ (i)। \\( \\vec{A} \\) এর মান 2 ও \\( \\vec{B} \\) এর মান \\( \\frac{1}{2} \\), তাই এরা বিপ্রতীপ (ii)। দুটিই y-অক্ষ বরাবর, তাই লম্ব নয় (iii ভুল)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-015",
+      "text": "\\(|\\vec{A} \\times \\vec{B}| = \\vec{A} \\cdot \\vec{B}\\) হলে এদের মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( AB\\sin\\theta = AB\\cos\\theta \\) থেকে \\( \\tan\\theta = 1 \\), সুতরাং \\( \\theta = \\frac{\\pi}{4} \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-016",
+      "text": "নিচের কোনটি ভেক্টর রাশি নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কাজ স্কেলার রাশি (\\( W = \\vec{F}\\cdot\\vec{s} \\)); কৌণিক ভরবেগ, টর্ক ও বল ভেক্টর রাশি।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-017",
+      "text": "\\(\\vec{P} = 2\\hat{i} + 3\\hat{j} - \\hat{k}\\) এবং \\(\\vec{Q} = -4\\hat{i} + m\\hat{j} + 4\\hat{k}\\) ভেক্টর দুটি লম্ব হবে যখন m এর মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লম্ব হলে \\( \\vec{P}\\cdot\\vec{Q} = 0 \\):\n\\( 2(-4) + 3m + (-1)(4) = 0 \\Rightarrow 3m = 12 \\Rightarrow m = 4 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-018",
+      "text": "চিত্রটি দেখ— চিত্র থেকে কোনটি সঠিক?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-018-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{P} - \\vec{Q} - \\vec{R} = \\vec{0}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{P} + \\vec{Q} - \\vec{R} = \\vec{0}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{P} + \\vec{Q} + \\vec{R} = \\vec{0}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{P} - \\vec{Q} + \\vec{R} = \\vec{0}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চিত্রে \\( \\vec{P} \\) এর শীর্ষ থেকে \\( \\vec{Q} \\) এর শীর্ষ পর্যন্ত যাওয়া ভেক্টর \\( \\vec{R} \\), অর্থাৎ \\( \\vec{Q} + \\vec{R} = \\vec{P} \\)। অতএব \\( \\vec{P} - \\vec{Q} - \\vec{R} = \\vec{0} \\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-019",
+      "text": "নিচের কোনটি ভেক্টর রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তড়িৎ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিভব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্ষুদ্র ক্ষেত্রফল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাজ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্ষুদ্র ক্ষেত্রফলের মান ও দিক (তলের অভিলম্ব বরাবর) দুটিই আছে, তাই এটি ভেক্টর। তড়িৎ প্রবাহ, বিভব ও কাজ স্কেলার।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-020",
+      "text": "দুইটি ভেক্টর \\(\\vec{A}\\) ও \\(\\vec{B}\\) কোন শর্তে \\(\\vec{A} + \\vec{B} = \\vec{A} - \\vec{B}\\) হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A = B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{A} = \\vec{0}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "B = 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{B} = \\vec{0}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A}+\\vec{B} = \\vec{A}-\\vec{B} \\) থেকে \\( 2\\vec{B} = \\vec{0} \\), অর্থাৎ \\( \\vec{B} = \\vec{0} \\)।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-021",
+      "text": "দুইটি একক ভেক্টরের যোগফল যদি একটি একক ভেক্টর হয় তবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাদের মধ্যবর্তী কোণ 120°"
+        },
+        {
+          "label": "ii",
+          "text": "লব্ধি তাদের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে"
+        },
+        {
+          "label": "iii",
+          "text": "বিয়োগফলের মান \\(\\sqrt{3}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মান 1 হলে \\( |\\vec{A}+\\vec{B}|^2 = 1+1+2\\cos\\theta = 1 \\Rightarrow \\cos\\theta = -\\frac{1}{2} \\), তাই \\( \\theta = 120^\\circ \\) (i)। সমান মানের ভেক্টরের লব্ধি মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে (ii)। বিয়োগফলের মান \\( \\sqrt{2-2\\cos 120^\\circ} = \\sqrt{3} \\) (iii)।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-022",
+      "text": "\\((\\hat{i} + \\hat{j}) \\times \\hat{k} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\hat{j} + \\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{j} - \\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\hat{j} - \\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\hat{j} + \\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( (\\hat{i}+\\hat{j})\\times\\hat{k} = \\hat{i}\\times\\hat{k} + \\hat{j}\\times\\hat{k} = -\\hat{j} + \\hat{i} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-023",
+      "text": "চিত্রে, দুটি ভেক্টরের লব্ধির মান R একটি ভেক্টরের মানের সমান এবং তার সাথে লম্ব; অন্যটির মান—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-023-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2}R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(R^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}R\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{\\sqrt{2}}R\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{R} = \\vec{P}+\\vec{Q} \\) এবং \\( \\vec{R}\\perp\\vec{P} \\), \\( |\\vec{P}| = R \\) হলে \\( \\vec{Q} = \\vec{R}-\\vec{P} \\)\n\\( Q = \\sqrt{R^2 + P^2} = \\sqrt{2}R \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা প্রশ্নপত্রে (ক) ও (গ) দুটি বিকল্পই \\(\\sqrt{2}R\\); ছাপা উত্তর (গ)।"
+    },
+    {
+      "id": "physics_1st-ch2-mcq-024",
+      "text": "\\(\\vec{r} = 3x\\hat{i} - 2y\\hat{j} + 4z\\hat{k}\\) হলে \\(\\vec{\\nabla} \\cdot \\vec{r} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{\\nabla}\\cdot\\vec{r} = \\frac{\\partial(3x)}{\\partial x} + \\frac{\\partial(-2y)}{\\partial y} + \\frac{\\partial(4z)}{\\partial z} = 3 - 2 + 4 = 5 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-025",
+      "text": "নিচের কোনটি ভেক্টর রাশি নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রাডিয়েন্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডাইভারজেন্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্ল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ডাইভারজেন্স (\\( \\vec{\\nabla}\\cdot\\vec{A} \\)) একটি স্কেলার রাশি; গ্রাডিয়েন্ট, কার্ল ও সরণ ভেক্টর রাশি।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-026",
+      "text": "\\(\\vec{A} = 2\\hat{i} + 2\\hat{j} - \\hat{k}\\), \\(\\vec{B} = 6\\hat{i} - 3\\hat{j} + 2\\hat{k}\\)। \\(\\vec{A}\\) এর উপর \\(\\vec{B}\\) এর লম্ব অভিক্ষেপের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.33",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.33",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A}\\cdot\\vec{B} = 12 - 6 - 2 = 4 \\), \\( |\\vec{A}| = \\sqrt{4+4+1} = 3 \\)\nঅভিক্ষেপ \\( = \\frac{\\vec{A}\\cdot\\vec{B}}{|\\vec{A}|} = \\frac{4}{3} = 1.33 \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-027",
+      "text": "A(3, 2, 2) এবং B(3, 2, −1) বিন্দুদ্বয় সংযোগকারী \\(\\vec{AB}\\) ভেক্টরটির মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{AB} = (3-3)\\hat{i} + (2-2)\\hat{j} + (-1-2)\\hat{k} = -3\\hat{k} \\)\nমান \\( = 3 \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-028",
+      "text": "তিনটি ভেক্টর সমতলীয় হবে যদি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\vec{A} \\cdot (\\vec{B} \\times \\vec{C}) = 0\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{B} \\cdot (\\vec{C} \\times \\vec{A}) = 0\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{C} \\cdot (\\vec{A} \\times \\vec{B}) = 0\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তিনটি ভেক্টর সমতলীয় হলে স্কেলার ত্রি-গুণফল শূন্য, আর চক্রীয় ক্রমে লিখলে তিনটি রূপই সমান: \\( \\vec{A}\\cdot(\\vec{B}\\times\\vec{C}) = \\vec{B}\\cdot(\\vec{C}\\times\\vec{A}) = \\vec{C}\\cdot(\\vec{A}\\times\\vec{B}) = 0 \\)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-029",
+      "text": "\\(\\vec{P}\\) ও \\(\\vec{Q}\\) ভেক্টরদ্বয়ের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(|\\vec{P} \\times \\vec{Q}|\\) একটি সামান্তরিকের ক্ষেত্রফল নির্দেশ করে"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{P} \\times \\vec{Q}\\) গুণফল একটি নতুন ভেক্টর নির্দেশ করে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(|\\vec{P} \\times \\vec{Q}| = 0\\) হলে \\(\\vec{P} \\perp \\vec{Q}\\) হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( |\\vec{P}\\times\\vec{Q}| \\) সামান্তরিকের ক্ষেত্রফল (i) এবং \\( \\vec{P}\\times\\vec{Q} \\) একটি ভেক্টর (ii)। \\( |\\vec{P}\\times\\vec{Q}| = PQ\\sin\\theta = 0 \\) হলে \\( \\theta = 0^\\circ \\) বা \\( 180^\\circ \\), অর্থাৎ ভেক্টরদ্বয় সমান্তরাল, লম্ব নয় (iii ভুল)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-030",
+      "text": "\\(\\vec{A}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\vec{A}\\) এর OX ও OY বরাবর উপাংশ যথাক্রমে \\(5\\sqrt{3}\\) ও 5 একক।",
+      "stem_image": "assets/physics_1st-ch2-mcq-030-stem.svg",
+      "group": "physics_1st-2024-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A = \\sqrt{A_x^2 + A_y^2} = \\sqrt{(5\\sqrt{3})^2 + 5^2} = \\sqrt{75 + 25} = 10\\) একক",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-031",
+      "text": "α ও θ এর মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\vec{A}\\) এর OX ও OY বরাবর উপাংশ যথাক্রমে \\(5\\sqrt{3}\\) ও 5 একক।",
+      "stem_image": "assets/physics_1st-ch2-mcq-030-stem.svg",
+      "group": "physics_1st-2024-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\theta = \\alpha\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\alpha = \\frac{\\theta}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\theta = 2\\alpha\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\theta = \\frac{\\alpha}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan\\alpha = \\frac{A_y}{A_x} = \\frac{5}{5\\sqrt{3}} = \\frac{1}{\\sqrt{3}}\\), তাই \\(\\alpha = 30°\\)।\n\\(\\theta = 90° - 30° = 60° = 2\\alpha\\)",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-032",
+      "text": "নিচের কোন ভেক্টরটি \\(\\vec{A} = \\hat{i} + \\hat{j}\\) এর সমান্তরাল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\hat{i} + \\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{j} + \\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\hat{i} + 2\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\hat{i} + 2\\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(2\\hat{i} + 2\\hat{j} = 2(\\hat{i} + \\hat{j})\\), অর্থাৎ \\(\\vec{A}\\)-এর স্কেলার গুণিতক; তাই এটি \\(\\vec{A}\\)-এর সমান্তরাল।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-033",
+      "text": "নিচের কোন ভেক্টরের পাদবিন্দু ও শীর্ষ বিন্দু একই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নাল ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরের মান শূন্য, অর্থাৎ পাদবিন্দু ও শীর্ষবিন্দু একই বিন্দুতে মিলে যায়, তাকে নাল ভেক্টর বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-034",
+      "text": "এক বিন্দুতে ক্রিয়াশীল \\(\\vec{P}\\) ও \\(\\vec{P}\\) এর ঋণ ভেক্টরের লব্ধির মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}P\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2P",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{P}\\) ও \\(-\\vec{P}\\) সমান মানের ও বিপরীতমুখী, তাই লব্ধি \\(= \\vec{P} + (-\\vec{P}) = 0\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-035",
+      "text": "একটি ভেক্টর X-অক্ষের সাথে 30° কোণে ক্রিয়াশীল। Y-অক্ষ বরাবর উপাংশের মান 3 একক হলে X-অক্ষ বরাবর উপাংশের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{3}\\) একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\sqrt{3}\\) একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6 একক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(Y\\)-উপাংশ: \\(A\\sin 30° = 3\\), তাই \\(A = 6\\) একক।\n\\(X\\)-উপাংশ \\(= A\\cos 30° = 6 \\times \\frac{\\sqrt{3}}{2} = 3\\sqrt{3}\\) একক",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা প্রশ্নপত্রে (খ) বিকল্পের সংখ্যাটি নেই (শুধু 'একক')।"
+    },
+    {
+      "id": "physics_1st-ch2-mcq-036",
+      "text": "\\(\\vec{B}\\) এর উপর \\(\\vec{A}\\) এর লম্ব অভিক্ষেপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(B\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(B\\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(A\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A\\sin\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{B}\\)-এর উপর \\(\\vec{A}\\)-এর লম্ব অভিক্ষেপ \\(= A\\cos\\theta\\), যেখানে \\(\\theta\\) তাদের মধ্যবর্তী কোণ।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-037",
+      "text": "\\(\\hat{k} \\times (\\hat{j} + \\hat{k})\\) ভেক্টরটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\hat{j}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\hat{k} \\times \\hat{j} = -\\hat{i}\\) এবং \\(\\hat{k} \\times \\hat{k} = 0\\)\n\\(\\hat{k} \\times (\\hat{j} + \\hat{k}) = -\\hat{i} + 0 = -\\hat{i}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-038",
+      "text": "কোনো ভেক্টরের পাদবিন্দু নির্দিষ্ট করা থাকলে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বাধীন ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নাল ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সীমাবদ্ধ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট থাকে তাকে সীমাবদ্ধ ভেক্টর বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-039",
+      "text": "নদীর দৈর্ঘ্য বরাবর চলমান ট্রলারে বাধা রশির টান T হলে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-039-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ট্রলারের হালদ্বারা নাকচ হয় \\(T\\cos\\theta\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ট্রলার সামনে এগিয়ে যায় \\(T\\sin\\theta\\) দ্বারা"
+        },
+        {
+          "label": "iii",
+          "text": "θ এর মান কমলে ট্রলারের বেগ বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রশির টানের যে উপাংশ নদীর দৈর্ঘ্য বরাবর (অনুভূমিক), তা \\(T\\sin\\theta\\) এবং ট্রলারকে সামনে এগিয়ে নেয় (ii সত্য)। উল্লম্বের সাথে \\(\\theta\\) কোণের অপর উপাংশ \\(T\\cos\\theta\\) পাশের দিকে কাজ করে, যা হালের দ্বারা নাকচ হয় (i সত্য)। \\(\\theta\\) কমলে \\(T\\sin\\theta\\) কমে, ফলে বেগ কমে; তাই iii মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-040",
+      "text": "নিচের কোনটিতে সবগুলো ভেক্টর রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর, সময়, বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিদ্যুৎ প্রবাহমাত্রা, ত্বরণ, কৌণিক ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চৌম্বক ক্ষেত্র, টর্ক, কৌণিক সরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাপ, বল, তাপমাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চৌম্বক ক্ষেত্র, টর্ক ও কৌণিক সরণ—তিনটিই ভেক্টর। (ক)-তে ভর ও সময়, (খ)-তে বিদ্যুৎ প্রবাহমাত্রা এবং (ঘ)-তে চাপ ও তাপমাত্রা স্কেলার।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-041",
+      "text": "১২টা ১৫ মিনিটে \\(\\vec{P} \\times \\vec{Q}\\) এর দিক হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি দেয়াল ঘড়ি পশ্চিম দেয়ালে টাঙানো আছে। যদি ঘণ্টার কাটাকে \\(\\vec{P}\\) এবং মিনিটের কাটাকে \\(\\vec{Q}\\) দ্বারা নির্দেশ করা হয়, তাহলে—",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ব দিকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পশ্চিম দিকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উত্তর দিকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দক্ষিণ দিকে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "১২টা ১৫ মিনিটে ঘণ্টার কাটা \\(\\vec{P}\\) উপরের দিকে ও মিনিটের কাটা \\(\\vec{Q}\\) ঘড়ির ডান দিকে থাকে। ঘড়ি দর্শকের সামনে পশ্চিম দেয়ালে থাকায় \\(\\vec{P}\\) থেকে \\(\\vec{Q}\\)-এর দিকে ঘূর্ণন দর্শকের কাছে ঘড়ির কাঁটার দিকে। ডানহাতি স্ক্রু নিয়মে \\(\\vec{P} \\times \\vec{Q}\\) দেয়ালের ভেতরের দিকে, অর্থাৎ পশ্চিম দিকে।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-042",
+      "text": "ঘড়িতে যখন ১২টা বাজে ঐ মুহূর্তে—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি দেয়াল ঘড়ি পশ্চিম দেয়ালে টাঙানো আছে। যদি ঘণ্টার কাটাকে \\(\\vec{P}\\) এবং মিনিটের কাটাকে \\(\\vec{Q}\\) দ্বারা নির্দেশ করা হয়, তাহলে—",
+      "stem_image": null,
+      "group": "physics_1st-2024-DB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{P} \\times \\vec{Q} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{P} \\cdot \\vec{Q} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(|\\vec{P} \\times \\vec{Q}| = PQ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{P} \\cdot \\vec{Q} = -PQ\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "১২টায় ঘণ্টা ও মিনিটের কাটা একই দিকে থাকে, মধ্যবর্তী কোণ \\(0°\\)। তাই \\(\\vec{P} \\times \\vec{Q} = PQ\\sin 0° = 0\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-043",
+      "text": "\\(\\vec{\\nabla} \\times \\vec{A} = 0\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\vec{A}\\) ভেক্টর ক্ষেত্রটি অঘূর্ণনশীল"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{A}\\) ভেক্টর ক্ষেত্রটি সংরক্ষণশীল"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{A}\\) ভেক্টর ক্ষেত্রটি সলিনয়েডাল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{\\nabla} \\times \\vec{A} = 0\\) হলে ক্ষেত্রটি অঘূর্ণনশীল ও সংরক্ষণশীল (i, ii সত্য)। সলিনয়েডাল হওয়ার শর্ত \\(\\vec{\\nabla} \\cdot \\vec{A} = 0\\), তাই iii মিথ্যা।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-044",
+      "text": "নিচের কোনটি ভেক্টর রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্ষেত্রফল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টর্ক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "টর্ক \\(\\vec{\\tau} = \\vec{r} \\times \\vec{F}\\) একটি ভেক্টর রাশি; ভর, আয়তন ও ক্ষেত্রফল স্কেলার।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-045",
+      "text": "\\(\\hat{i} \\times (\\hat{j} \\times \\hat{k}) = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\hat{i}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\hat{j} \\times \\hat{k} = \\hat{i}\\) এবং \\(\\hat{i} \\times \\hat{i} = 0\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-046",
+      "text": "\\(\\vec{OR}\\) ভেক্টর নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "উপরের চিত্রটি লক্ষ কর।",
+      "stem_image": "assets/physics_1st-ch2-mcq-046-stem.svg",
+      "group": "physics_1st-2024-DIB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\hat{i} + 2\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\hat{j} + 2\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\hat{i} + 2\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\hat{i} + 2\\hat{j} + 2\\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(R\\) বিন্দু \\(XY\\) তলে \\((2, 2, 0)\\)-তে অবস্থিত, তাই \\(\\vec{OR} = 2\\hat{i} + 2\\hat{j}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-047",
+      "text": "নিচের কোনটি ভেক্টরের বণ্টন সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{P} + \\vec{Q} = \\vec{Q} + \\vec{P}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((\\vec{P} + \\vec{Q}) + \\vec{R} = \\vec{P} + (\\vec{Q} + \\vec{R})\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(m(\\vec{P} + \\vec{Q}) = m\\vec{P} + m\\vec{Q}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{P} - \\vec{Q} = \\vec{P} + (-\\vec{Q})\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(m(\\vec{P} + \\vec{Q}) = m\\vec{P} + m\\vec{Q}\\) ভেক্টরের বণ্টন সূত্র। (ক) বিনিময়, (খ) সহযোজন সূত্র এবং (ঘ) বিয়োগের সংজ্ঞা।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-048",
+      "text": "কোনো ভেক্টর ক্ষেত্রের কার্ল শূন্য না হলে ক্ষেত্রটি হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঘূর্ণনশীল"
+        },
+        {
+          "label": "ii",
+          "text": "অসংরক্ষণশীল"
+        },
+        {
+          "label": "iii",
+          "text": "সলিনয়ডাল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কার্ল শূন্য না হলে ক্ষেত্রটি ঘূর্ণনশীল ও অসংরক্ষণশীল (i, ii সত্য)। সলিনয়ডাল ক্ষেত্রের শর্ত ডাইভারজেন্স শূন্য হওয়া, কার্লের সাথে সম্পর্কিত নয়; তাই iii মিথ্যা।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-049",
+      "text": "কোনো সামন্তরিকের দুটি কর্ণ \\(\\vec{A} = 4\\hat{i} - 4\\hat{j} + 2\\hat{k}\\) এবং \\(\\vec{B} = 3\\hat{i} - 3\\hat{j} + \\hat{k}\\) দ্বারা নির্দেশ করা হলে এর ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "26",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{A} \\times \\vec{B} = (4\\hat{i} - 4\\hat{j} + 2\\hat{k}) \\times (3\\hat{i} - 3\\hat{j} + \\hat{k}) = 2\\hat{i} + 2\\hat{j} + 0\\hat{k}\\)\n\\(|\\vec{A} \\times \\vec{B}| = \\sqrt{8} = 2\\sqrt{2}\\)\nকর্ণ দুটি জানা থাকলে সামন্তরিকের ক্ষেত্রফল \\(= \\frac{1}{2}|\\vec{A} \\times \\vec{B}| = \\sqrt{2}\\) বর্গ একক",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-050",
+      "text": "একটি জাহাজ সোজা পূর্ব দিকে ঘণ্টায় 75 km বেগে এবং অপর একটি জাহাজ সোজা উত্তর দিকে ঘণ্টায় 45 km বেগে চলছে। প্রথম জাহাজের যাত্রীর নিকট দ্বিতীয় জাহাজটির বেগের দিক কোন দিকে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ব দিকের সাথে 30.96° কোণে উত্তর দিকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্ব দিকের সাথে 59.04° কোণে উত্তর দিকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পূর্ব দিকের সাথে 90° কোণে উত্তর দিকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পূর্ব দিকের সাথে 149.04° কোণে উত্তর দিকে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রথম জাহাজের সাপেক্ষে দ্বিতীয় জাহাজের আপেক্ষিক বেগ \\(\\vec{v} = 45\\hat{j} - 75\\hat{i}\\)।\nপূর্ব দিকের সাথে কোণ \\(= 180° - \\tan^{-1}\\frac{45}{75} = 180° - 30.96° = 149.04°\\) (উত্তর দিকে)।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-051",
+      "text": "ভেক্টর গুণনে প্রাপ্ত এরূপ ভেক্টরের দিক পাওয়ার ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গুণনকৃত ভেক্টরদ্বয়ের লম্ব বরাবর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বামহাতি স্ক্রু নিয়মে প্রথম থেকে দ্বিতীয়টির দিকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘড়ির সমাবর্তীর ক্ষেত্রে উপরের দিকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘড়ির বিষমাবর্তীর ক্ষেত্রে নিচের দিকে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভেক্টর গুণনে প্রাপ্ত ভেক্টরের দিক গুণিত ভেক্টরদ্বয়ের তলের লম্ব বরাবর; দিক ডানহাতি স্ক্রু নিয়মে নির্ণীত হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-052",
+      "text": "দুটি দিক রাশির প্রত্যেকটির মান 4 একক। এরা যে কোনো বিন্দুতে পরস্পরের সাথে 120° কোণে ক্রিয়াশীল থাকলে এক্ষেত্রে কোনো একটি ভেক্টরের সাথে লব্ধির কোণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "120°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমান মানের দুটি ভেক্টরের লব্ধি তাদের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে। তাই লব্ধি প্রতিটির সাথে \\(\\frac{120°}{2} = 60°\\) কোণ উৎপন্ন করে।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-053",
+      "text": "যদি \\(\\vec{A}\\) একটি ভেক্টর ক্ষেত্র হয় তবে \\(\\vec{\\nabla} \\cdot (\\vec{\\nabla} \\times \\vec{A})\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{\\nabla} \\times \\vec{A}\\) একটি ভেক্টর এবং যে কোনো ভেক্টর ক্ষেত্রের কার্লের ডাইভারজেন্স সর্বদা শূন্য, তাই \\(\\vec{\\nabla} \\cdot (\\vec{\\nabla} \\times \\vec{A}) = 0\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-054",
+      "text": "দুটি ভেক্টর \\(\\vec{A}\\) ও \\(\\vec{B}\\) এর স্কেলার গুণফল 18 এবং ভেক্টর গুণফলের মান \\(6\\sqrt{3}\\)। \\(\\vec{A}\\) ও \\(\\vec{B}\\) এর মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "120°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(AB\\cos\\theta = 18\\), \\(AB\\sin\\theta = 6\\sqrt{3}\\)\n\\(\\tan\\theta = \\frac{6\\sqrt{3}}{18} = \\frac{1}{\\sqrt{3}}\\), তাই \\(\\theta = 30°\\)",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-055",
+      "text": "স্রোতযুক্ত নদীতে সর্বনিম্ন সময়ে ওপারে যেতে একজন সাঁতারুকে স্রোতের সাথে কত কোণে যাত্রা শুরু করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "120°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নদী পাড়ি দেওয়ার সময় \\(t = \\frac{d}{v\\sin\\theta}\\), যা \\(\\theta = 90°\\)-তে সর্বনিম্ন। অর্থাৎ স্রোতের সাথে লম্বভাবে সাঁতার কাটতে হবে।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-056",
+      "text": "পাদবিন্দু সুনির্দিষ্ট নয় এমন ভেক্টরকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সীমাবদ্ধ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বাধীন ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নাল ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট নয় এবং যা ইচ্ছামতো স্থানে সরিয়ে নেওয়া যায়, তাকে স্বাধীন ভেক্টর বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-057",
+      "text": "কোনটি স্কেলার রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{A} \\cdot \\vec{B}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{A} \\times \\vec{B}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((\\vec{A} \\times \\vec{B}) \\times \\vec{A}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((\\vec{A} \\times \\vec{B}) \\times \\vec{B}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{A} \\cdot \\vec{B}\\) স্কেলার গুণফল, তাই এটি স্কেলার রাশি; অন্যগুলো ভেক্টর গুণফল, অর্থাৎ ভেক্টর।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-058",
+      "text": "সর্বনিম্ন কত সময়ে সাঁতারু নদী পাড়ি দিয়ে অপর পাড়ে পৌঁছতে পারবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(6\\,\\mathrm{ms^{-1}}\\) বেগে প্রবাহিত নদীতে \\(12\\,\\mathrm{ms^{-1}}\\) বেগে সাঁতার কাটতে সক্ষম সাঁতারু 1.2 km প্রশস্ত নদীতে সাঁতার কাটছে।",
+      "stem_image": null,
+      "group": "physics_1st-2024-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "89.44 s",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100 s",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "115.47 s",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200 s",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সর্বনিম্ন সময়ে পাড়ি দিতে হলে স্রোতের লম্বভাবে সাঁতার কাটতে হয়।\n\\(t = \\frac{d}{v} = \\frac{1200}{12} = 100\\,\\mathrm{s}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-059",
+      "text": "সর্বনিম্ন পথে নদী পাড়ি দিতে স্রোতের সাথে কত কোণে সাঁতার কাটতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(6\\,\\mathrm{ms^{-1}}\\) বেগে প্রবাহিত নদীতে \\(12\\,\\mathrm{ms^{-1}}\\) বেগে সাঁতার কাটতে সক্ষম সাঁতারু 1.2 km প্রশস্ত নদীতে সাঁতার কাটছে।",
+      "stem_image": null,
+      "group": "physics_1st-2024-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "120°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "150°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সর্বনিম্ন পথে (সোজাসুজি) পাড়ি দিতে হলে স্রোতের উল্টো দিকে উপাংশ স্রোতের বেগের সমান হতে হবে: \\(v\\cos\\theta = -u\\)\n\\(\\cos\\theta = -\\frac{6}{12} = -\\frac{1}{2}\\), তাই \\(\\theta = 120°\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-060",
+      "text": "\\(\\vec{A} = 2\\hat{i} + 3\\hat{j} + 4\\hat{k}\\) এবং \\(\\vec{B} = 3\\hat{i} + 4\\hat{j} + 5\\hat{k}\\)। \\(\\vec{B}\\) বরাবর \\(\\vec{A}\\) এর লম্ব অভিক্ষেপ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\sqrt{29}}{38}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\sqrt{50}}{38}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{38}{\\sqrt{50}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{38}{\\sqrt{29}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\vec{A} \\cdot \\vec{B} = 6 + 12 + 20 = 38\\), \\(|\\vec{B}| = \\sqrt{9 + 16 + 25} = \\sqrt{50}\\)\nলম্ব অভিক্ষেপ \\(= \\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{B}|} = \\frac{38}{\\sqrt{50}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-061",
+      "text": "বিনিময় সূত্র মেনে চলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দুটি ভেক্টরের যোগ"
+        },
+        {
+          "label": "ii",
+          "text": "দুটি ভেক্টরের ডট গুণন"
+        },
+        {
+          "label": "iii",
+          "text": "দুটি ভেক্টরের ক্রস গুণন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভেক্টরের যোগ ও ডট গুণন বিনিময় সূত্র মানে (\\( \\vec{A}+\\vec{B} = \\vec{B}+\\vec{A} \\), \\( \\vec{A}\\cdot\\vec{B} = \\vec{B}\\cdot\\vec{A} \\))। ক্রস গুণনে \\( \\vec{A}\\times\\vec{B} = -\\vec{B}\\times\\vec{A} \\), তাই মানে না।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-062",
+      "text": "\\(|\\vec{A}| = |\\vec{B}| = 3\\) এবং \\(\\vec{A}\\) ও \\(\\vec{B}\\) এর মধ্যবর্তী কোণ θ হলে \\(|\\vec{A} \\times \\vec{B}| = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(9\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9\\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{9}\\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{1}{9}\\cos\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( |\\vec{A}\\times\\vec{B}| = AB\\sin\\theta = 3\\times3\\sin\\theta = 9\\sin\\theta \\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-063",
+      "text": "নিচের কোনটি ভেক্টরের কার্ল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{\\nabla}V\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{\\nabla} \\cdot \\vec{V}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{\\nabla} \\times \\vec{V}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\nabla V\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{\\nabla}\\times\\vec{V} \\) কে ভেক্টর \\( \\vec{V} \\) এর কার্ল বলে।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-064",
+      "text": "\\(\\hat{i} \\times (\\hat{j} \\times \\hat{k}) = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( \\hat{j}\\times\\hat{k} = \\hat{i} \\)\n\\( \\hat{i}\\times(\\hat{j}\\times\\hat{k}) = \\hat{i}\\times\\hat{i} = 0 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-065",
+      "text": "\\(\\vec{P} = -3\\hat{i} + 7\\hat{j} - 3\\hat{k}\\), \\(\\vec{Q} = 5\\hat{i} - a\\hat{j} + 2\\hat{k}\\), a এর মান কত হলে ভেক্টর দুটি লম্ব হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11.67",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "লম্ব হলে \\( \\vec{P}\\cdot\\vec{Q} = 0 \\)\n\\( (-3)(5) + (7)(-a) + (-3)(2) = 0 \\)\n\\( -15 - 7a - 6 = 0 \\Rightarrow a = -3 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-066",
+      "text": "OABC ক্ষেত্রের ক্ষেত্রফল—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-066-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( OA = \\sqrt{1^2+1^2} = \\sqrt{2} \\), \\( AB = 2 \\) এবং OABC আয়তক্ষেত্র।\nক্ষেত্রফল \\( = \\sqrt{2}\\times2 = 2\\sqrt{2} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-067",
+      "text": "\\(\\hat{P} = \\frac{1}{2}\\hat{i} + \\frac{1}{2}\\hat{j} + q\\hat{k}\\) হলে q এর মান কত হবে যখন P ভেক্টরটি একক ভেক্টর হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "একক ভেক্টরের মান 1 হবে।\n\\( \\left(\\frac{1}{2}\\right)^2 + \\left(\\frac{1}{2}\\right)^2 + q^2 = 1 \\Rightarrow q^2 = \\frac{1}{2} \\)\n\\( q = \\frac{1}{\\sqrt{2}} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-068",
+      "text": "\\(\\vec{M} = 3\\hat{j} - 2\\hat{k}\\) এর উপর লম্ব হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(4\\hat{i}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(2\\hat{j}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\((2\\hat{j} + 3\\hat{k})\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) \\( 4\\hat{i}\\cdot\\vec{M} = 0 \\), লম্ব। (ii) \\( 2\\hat{j}\\cdot\\vec{M} = 6 \\neq 0 \\), লম্ব নয়। (iii) \\( (2\\hat{j}+3\\hat{k})\\cdot\\vec{M} = 6 - 6 = 0 \\), লম্ব।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-069",
+      "text": "কোনো ভেক্টরের পাদবিন্দু যদি ইচ্ছেমতো স্থানান্তর করতে না দেওয়া হয়, তাহলে সেই ভেক্টর হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বাধীন ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপরীত ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সীমাবদ্ধ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যে ভেক্টরের পাদবিন্দু ইচ্ছামতো স্থানান্তর করা যায় না, তাকে সীমাবদ্ধ ভেক্টর বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-070",
+      "text": "কোনো 'বল ভেক্টরের' কার্ল শূন্য হলে— বল ভেক্টরটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংরক্ষণশীল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসংরক্ষণশীল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘূর্ণনশীল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সলিনয়ডাল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কোনো বল ভেক্টরের কার্ল শূন্য হলে বলটি সংরক্ষণশীল হয় (অঘূর্ণনশীল ক্ষেত্র)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-071",
+      "text": "নিচের কোনটি ভেক্টর রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষেত্রফল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টর্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "টর্ক ভেক্টর রাশি, কারণ এর মান ও দিক দুই-ই আছে। ক্ষেত্রফল, আয়তন ও সময় স্কেলার রাশি।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-072",
+      "text": "নিচের কোনটির দিক নির্দিষ্ট নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিপরীত ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শূন্য ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শূন্য ভেক্টরের মান শূন্য, তাই এর কোনো নির্দিষ্ট দিক নেই।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-073",
+      "text": "নিচের চিত্র অনুযায়ী \\(\\vec{B}\\) এর উপর \\(\\vec{A}\\) এর অভিক্ষেপ কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-073-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{|\\vec{A} \\times \\vec{B}|}{A}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{|\\vec{A} \\times \\vec{B}|}{B}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\vec{A} \\cdot \\vec{B}}{B}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\vec{A} \\cdot \\vec{B}}{A}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{B} \\) এর উপর \\( \\vec{A} \\) এর অভিক্ষেপ \\( = A\\cos\\theta = \\frac{\\vec{A}\\cdot\\vec{B}}{B} \\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-074",
+      "text": "\\(\\vec{A} = \\hat{i} + \\hat{j}\\), \\(\\vec{B} = \\hat{k}\\), \\(\\vec{C} = \\hat{i} - \\hat{j}\\) ভেক্টর তিনটির ক্ষেত্রে,",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\vec{A}\\) ও \\(\\vec{C}\\) একই রেখায় অবস্থিত"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{B}\\) ও \\(\\vec{C}\\) পরস্পর লম্ব"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{A}\\) ও \\(\\vec{B}\\) অঘূর্ণনশীল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) \\( \\vec{A} = \\hat{i}+\\hat{j} \\) ও \\( \\vec{C} = \\hat{i}-\\hat{j} \\) সমরেখ নয়, মিথ্যা। (ii) \\( \\vec{B}\\cdot\\vec{C} = \\hat{k}\\cdot(\\hat{i}-\\hat{j}) = 0 \\), তাই লম্ব, সত্য। (iii) ধ্রুব ভেক্টরের কার্ল শূন্য, তাই অঘূর্ণনশীল, সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-075",
+      "text": "সমান ভেক্টরের বৈশিষ্ট্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমজাতীয় রাশি"
+        },
+        {
+          "label": "ii",
+          "text": "মান সমান"
+        },
+        {
+          "label": "iii",
+          "text": "দিক একই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমান ভেক্টর দুটি সমজাতীয় রাশি, তাদের মান সমান এবং দিক একই। তাই (i), (ii), (iii) সবই সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-076",
+      "text": "\\(|\\vec{A}| = 2\\), \\(|\\vec{B}| = 4\\) এবং \\(\\vec{A} \\cdot \\vec{B} = 4\\) হলে \\(\\vec{A}\\) ও \\(\\vec{B}\\) এর মধ্যবর্তী কোণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "120°",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A}\\cdot\\vec{B} = AB\\cos\\theta \\)\n\\( \\cos\\theta = \\frac{4}{2\\times4} = \\frac{1}{2} \\Rightarrow \\theta = 60^\\circ \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-077",
+      "text": "\\(\\vec{A} = -5\\hat{j}\\) হলে \\(\\vec{A}\\) এর দিক কোন অক্ষ বরাবর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+X অক্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "+Y অক্ষ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−Y অক্ষ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−Z অক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A} = -5\\hat{j} \\) এর ঋণাত্মক চিহ্ন থাকায় এটি \\( -Y \\) অক্ষ বরাবর।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-078",
+      "text": "\\(|\\hat{a} + \\hat{b}| = \\sqrt{3}\\) হলে \\(\\hat{a}\\) ও \\(\\hat{b}\\) এর মধ্যবর্তী কোণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "75°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( |\\hat{a}+\\hat{b}|^2 = 1 + 1 + 2\\cos\\theta = 3 \\)\n\\( \\cos\\theta = \\frac{1}{2} \\Rightarrow \\theta = 60^\\circ \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-079",
+      "text": "\\(\\vec{P}\\) ও \\(\\vec{Q}\\) দুটি ভেক্টর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(|\\vec{P}| > |\\vec{Q}|\\) হলে লব্ধি \\(\\vec{P}\\) এর নিকটবর্তী"
+        },
+        {
+          "label": "ii",
+          "text": "\\(|\\vec{P}| = |\\vec{Q}|\\) লব্ধি ভেক্টরদ্বয়ের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(|\\vec{P}| > |\\vec{Q}|\\) হলে লব্ধি \\(\\vec{Q}\\) এর নিকটবর্তী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) লব্ধি বড় মানের ভেক্টর \\( \\vec{P} \\) এর নিকটবর্তী হয়, সত্য। (ii) মান সমান হলে লব্ধি মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে, সত্য। (iii) \\( |\\vec{P}|>|\\vec{Q}| \\) হলে লব্ধি \\( \\vec{Q} \\) এর নিকটবর্তী হয় না, মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-080",
+      "text": "\\(\\vec{A} = 3\\hat{i} - 4\\hat{j}\\), \\(\\vec{B} = -3\\hat{i} + 4\\hat{j}\\) এবং \\(\\vec{R}\\) তাদের লব্ধি। নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{R}\\) একটি একমাত্রিক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{R}\\) একটি দ্বি-মাত্রিক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{R}\\) একটি ত্রিমাত্রিক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{R}\\) একটি নাল ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{R} = \\vec{A}+\\vec{B} = (3-3)\\hat{i} + (-4+4)\\hat{j} = 0 \\), অর্থাৎ \\( \\vec{R} \\) একটি নাল ভেক্টর।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-081",
+      "text": "\\(\\vec{A}\\) এর উপর \\(\\vec{B}\\) এর লম্ব অভিক্ষেপ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(A\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(A\\sin\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(B\\cos\\theta\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(B\\sin\\theta\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A} \\) এর উপর \\( \\vec{B} \\) এর লম্ব অভিক্ষেপ \\( = B\\cos\\theta \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-082",
+      "text": "একই দিকে ক্রিয়াশীল সমজাতীয় অসমমানের দুটি ভেক্টরকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপরীত ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সদৃশ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিসদৃশ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "একই দিকে ক্রিয়াশীল সমজাতীয় কিন্তু অসমান মানের ভেক্টরদ্বয়কে সদৃশ ভেক্টর বলে।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-083",
+      "text": "ভেক্টরের কার্ল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{\\nabla}V\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{\\nabla} \\cdot \\vec{V}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{\\nabla} \\times \\vec{V}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\nabla V\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{\\nabla}\\times\\vec{V} \\) কে ভেক্টরের কার্ল বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-084",
+      "text": "\\(\\vec{F} = 2\\hat{i} + 3\\hat{j} - 4\\hat{k}\\) বলটির ZX সমতলে মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{13}\\) N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{20}\\) N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{25}\\) N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{29}\\) N",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ZX সমতলে বলের উপাংশ \\( 2\\hat{i} - 4\\hat{k} \\)\nমান \\( = \\sqrt{2^2+(-4)^2} = \\sqrt{20}\\,\\mathrm{N} \\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-085",
+      "text": "কোনটি সঠিক ভেক্টর নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নাল ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবস্থান ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নাল (শূন্য) ভেক্টরের মান শূন্য এবং নির্দিষ্ট দিক নেই, তাই একে সঠিক ভেক্টর বলা যায় না।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-086",
+      "text": "\\(\\vec{A} = 5\\hat{j}\\) এবং \\(\\vec{B}\\) ভেক্টর \\(\\vec{A}\\) ভেক্টরের বিপ্রতীপ হলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{B} = \\frac{1}{5}\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{B} = \\frac{1}{5}\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{B} = 5\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{B} = 5\\hat{i}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A} \\) এর বিপ্রতীপ ভেক্টর \\( \\vec{B} = \\frac{\\vec{A}}{|\\vec{A}|^2} = \\frac{5\\hat{j}}{25} = \\frac{1}{5}\\hat{j} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-087",
+      "text": "\\(\\vec{B}\\) ভেক্টরটি হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\vec{A} + \\vec{B} = 12\\hat{i} - 4\\hat{j} + 8\\hat{k}\\)\n\\(\\vec{A} - \\vec{B} = -6\\hat{i} + 12\\hat{j} + 10\\hat{k}\\)",
+      "stem_image": null,
+      "group": "physics_1st-2023-MB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6\\hat{i} - 8\\hat{j} + 9\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9\\hat{i} + 8\\hat{j} - 2\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9\\hat{i} - 8\\hat{j} - \\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\hat{i} + 8\\hat{j} + 18\\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( 2\\vec{B} = (\\vec{A}+\\vec{B}) - (\\vec{A}-\\vec{B}) = 18\\hat{i} - 16\\hat{j} - 2\\hat{k} \\)\n\\( \\vec{B} = 9\\hat{i} - 8\\hat{j} - \\hat{k} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-088",
+      "text": "\\(\\vec{A} \\cdot \\vec{B}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\vec{A} + \\vec{B} = 12\\hat{i} - 4\\hat{j} + 8\\hat{k}\\)\n\\(\\vec{A} - \\vec{B} = -6\\hat{i} + 12\\hat{j} + 10\\hat{k}\\)",
+      "stem_image": null,
+      "group": "physics_1st-2023-MB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "14",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−12",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−14",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( 2\\vec{A} = 6\\hat{i}+8\\hat{j}+18\\hat{k} \\Rightarrow \\vec{A} = 3\\hat{i}+4\\hat{j}+9\\hat{k} \\), \\( \\vec{B} = 9\\hat{i}-8\\hat{j}-\\hat{k} \\)\n\\( \\vec{A}\\cdot\\vec{B} = 27 - 32 - 9 = -14 \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-089",
+      "text": "\\(\\hat{i} \\times (\\hat{i} \\times \\hat{j}) = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\hat{j}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\hat{i}\\times\\hat{j} = \\hat{k} \\)\n\\( \\hat{i}\\times(\\hat{i}\\times\\hat{j}) = \\hat{i}\\times\\hat{k} = -\\hat{j} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-090",
+      "text": "চিত্রের আলোকে বহমান নদীতে স্রোতের বেগ \\(P = 9\\,\\mathrm{kmh^{-1}}\\), নৌকার লব্ধি বেগ R এবং নৌকার বেগ Q এর মধ্যবর্তী কোণ β = 30° এবং নৌকাটি আড়াআড়ি পথে নদী পার হলে নৌকার বেগ Q এর মান হবে—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-090-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(9\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(18\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(36\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(72\\,\\mathrm{kmh^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নৌকা আড়াআড়ি যাওয়ার জন্য \\( Q \\) এর স্রোত বরাবর উপাংশ স্রোতের বেগের সমান হতে হবে।\n\\( Q\\sin\\beta = P \\)\n\\( Q = \\frac{9}{\\sin30^\\circ} = \\frac{9}{1/2} = 18\\,\\mathrm{kmh^{-1}} \\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-091",
+      "text": "\\(\\vec{A} \\cdot (\\vec{B} \\times \\vec{C}) = 0\\) এর অর্থ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\([\\vec{A}\\ \\vec{B}\\ \\vec{C}] = 0\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{A}\\), \\(\\vec{B}\\) ও \\(\\vec{C}\\) ভেক্টরত্রয় একই সমতলে অবস্থিত"
+        },
+        {
+          "label": "iii",
+          "text": "\\((\\vec{B} \\times \\vec{C})\\) ভেক্টরটি, \\(\\vec{A}\\) এর উপর লম্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( \\vec{A}\\cdot(\\vec{B}\\times\\vec{C}) = [\\vec{A}\\,\\vec{B}\\,\\vec{C}] = 0 \\) হলে ভেক্টরত্রয় সমতলীয় হয় এবং \\( \\vec{B}\\times\\vec{C} \\) ভেক্টর \\( \\vec{A} \\) এর উপর লম্ব হয়। তাই (i), (ii), (iii) সবই সত্য।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-092",
+      "text": "সমকোণে একটি বিন্দুতে ক্রিয়াশীল দুটি সমান বলের লব্ধির মান যে কোনো একটি বলের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2}\\) গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{3}\\) গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( R = \\sqrt{F^2+F^2+2F^2\\cos90^\\circ} = \\sqrt{2}\\,F \\), অর্থাৎ \\( \\sqrt{2} \\) গুণ।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-093",
+      "text": "\\(\\vec{V} = x^2\\hat{i} - 2z\\hat{j} + y\\hat{k}\\) হলে \\(\\mathrm{div}\\,\\vec{V} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2x\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x\\hat{i}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{div}\\,\\vec{V} = \\dfrac{\\partial}{\\partial x}(x^2) + \\dfrac{\\partial}{\\partial y}(-2z) + \\dfrac{\\partial}{\\partial z}(y) = 2x + 0 + 0 = 2x\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-094",
+      "text": "সমজাতীয় অসমমানের এবং বিপরীতমুখী ভেক্টরকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিপরীত ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপ্রতীপ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিসদৃশ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সদৃশ ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "একই জাতীয় কিন্তু অসম মানের এবং বিপরীতমুখী ভেক্টরকে বিসদৃশ ভেক্টর বলে। সমান মানের হলে তাকে বিপ্রতীপ ভেক্টর বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-095",
+      "text": "নিচের কোনটি স্কেলার রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রেডিয়েন্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্ল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাইভারজেন্স",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "গ্রেডিয়েন্ট ও কার্ল ভেক্টর রাশি, আর ডাইভারজেন্স \\(\\vec{\\nabla} \\cdot \\vec{V}\\) একটি স্কেলার গুণফল, তাই এটি স্কেলার। সরণ ভেক্টর রাশি।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-096",
+      "text": "\\(\\hat{j}\\) ও \\(\\hat{k}\\) আয়ত একক ভেক্টরদ্বয় যে তলে অবস্থিত সেই তলের উপর লম্ব একক ভেক্টর হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((\\hat{j} \\times \\hat{k})\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((\\hat{i} \\times \\hat{j})\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((\\hat{k} \\times \\hat{i})\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((\\hat{i} \\times \\hat{i})\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\hat{j} \\times \\hat{k} = \\hat{i}\\), যা j-k তলের উপর লম্ব একক ভেক্টর।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-097",
+      "text": "3N ও 4N মানের দুটি বল একটি বিন্দুতে পরস্পর লম্বভাবে ক্রিয়া করলে এদের ভেক্টর গুণফলের মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "7N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12N",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "লম্ব ভেক্টরদ্বয়ের মধ্যবর্তী কোণ \\(90^\\circ\\)।\nভেক্টর গুণফলের মান \\(= FQ\\sin 90^\\circ = 3 \\times 4 \\times 1 = 12\\,\\mathrm{N}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-098",
+      "text": "\\(\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k}\\) ভেক্টরটি একটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একক ভেক্টর"
+        },
+        {
+          "label": "ii",
+          "text": "সঠিক ভেক্টর"
+        },
+        {
+          "label": "iii",
+          "text": "অবস্থান ভেক্টর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "(i) মিথ্যা: \\(|\\vec{A}| = \\sqrt{3} \\neq 1\\), তাই একক ভেক্টর নয়।\n(ii) সত্য: এটি একটি প্রকৃত (সঠিক) ভেক্টর।\n(iii) সত্য: মূলবিন্দু থেকে (1, 1, 1) বিন্দুর অবস্থান ভেক্টর হিসেবে এটি লেখা যায়।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-099",
+      "text": "\\(\\dfrac{1}{2}\\hat{i} + \\dfrac{1}{2}\\hat{j} + m\\hat{k}\\) একটি একক ভেক্টর হলে m এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "একক ভেক্টরের মান 1: \\(\\dfrac{1}{4} + \\dfrac{1}{4} + m^2 = 1\\)\n\\(m^2 = \\dfrac{1}{2}\\), \\(m = \\dfrac{1}{\\sqrt{2}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-100",
+      "text": "\\(\\vec{A} = 2\\hat{i} + 2\\sqrt{3}\\hat{j}\\) ভেক্টরটি y-অক্ষের সাথে কত কোণে ক্রিয়াশীল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\tan\\alpha = \\dfrac{2\\sqrt{3}}{2} = \\sqrt{3}\\), তাই x-অক্ষের সাথে কোণ \\(60^\\circ\\)।\ny-অক্ষের সাথে কোণ \\(= 90^\\circ - 60^\\circ = 30^\\circ\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-101",
+      "text": "কোনো ভেক্টরের কার্ল শূন্য হলে ভেক্টরটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সলিনয়ডাল"
+        },
+        {
+          "label": "ii",
+          "text": "সংরক্ষণশীল"
+        },
+        {
+          "label": "iii",
+          "text": "অঘূর্ণনশীল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কার্ল শূন্য হলে ভেক্টর ক্ষেত্র অঘূর্ণনশীল ও সংরক্ষণশীল হয়। সলিনয়ডাল হওয়ার শর্ত হলো ডাইভারজেন্স শূন্য হওয়া, কার্ল শূন্য নয়। তাই (ii) ও (iii) সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-102",
+      "text": "চিত্রে একটি ভেক্টর ক্ষেত্রের ডাইভারজেন্স দেখানো হলো। এর আলোকে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-102-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{\\nabla} \\times \\vec{v} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\vec{\\nabla} \\cdot \\vec{v} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{\\nabla} \\cdot \\vec{v} = +\\mathrm{ve}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{\\nabla} \\cdot \\vec{v} = -\\mathrm{ve}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "চিত্রে ক্ষেত্রটি বিন্দু থেকে বাইরের দিকে ছড়িয়ে পড়ছে, অর্থাৎ উৎস আছে; তাই ডাইভারজেন্স ধনাত্মক: \\(\\vec{\\nabla} \\cdot \\vec{v} = +\\mathrm{ve}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-103",
+      "text": "\\(\\dfrac{\\hat{i} - \\hat{j} + \\hat{k}}{\\sqrt{3}}\\) ভেক্টর একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নাল ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমরেখ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমতলীয় ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একক ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\left|\\dfrac{\\hat{i} - \\hat{j} + \\hat{k}}{\\sqrt{3}}\\right| = \\dfrac{\\sqrt{1+1+1}}{\\sqrt{3}} = 1\\), তাই এটি একক ভেক্টর।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-104",
+      "text": "\\(\\vec{A}\\) ও \\(\\vec{B}\\) ভেক্টর দ্বারা একটি সামান্তরিকের কর্ণদ্বয় নির্দিষ্ট হলে সামান্তরিকের ক্ষেত্রফল কোনটি হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\vec{A}\\cdot\\vec{B}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}|\\vec{A} \\times \\vec{B}|\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}(\\vec{A}\\cdot\\vec{B})\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(|\\vec{A} \\times \\vec{B}|\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সামান্তরিকের কর্ণদ্বয় \\(\\vec{A}\\) ও \\(\\vec{B}\\) হলে ক্ষেত্রফল \\(= \\dfrac{1}{2}|\\vec{A} \\times \\vec{B}|\\) (আর বাহুদ্বয় \\(\\vec{A}, \\vec{B}\\) হলে \\(|\\vec{A} \\times \\vec{B}|\\))।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-105",
+      "text": "\\(\\vec{P}\\) ও \\(\\vec{Q}\\) দুটি ভেক্টর রাশির মধ্যবর্তী কোণ \\(120^\\circ\\) হলে তাদের লব্ধির মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(P + Q\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{P^2 + Q^2 + PQ}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(P - Q\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{P^2 + Q^2 - PQ}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(R = \\sqrt{P^2 + Q^2 + 2PQ\\cos 120^\\circ}\\)\n\\(\\cos 120^\\circ = -\\dfrac{1}{2}\\), তাই \\(R = \\sqrt{P^2 + Q^2 - PQ}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-106",
+      "text": "একটি বস্তু নির্দিষ্ট দিকে যে দূরত্ব অতিক্রম করে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবস্থান ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরণ ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একক ভেক্টর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নাল ভেক্টর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কোনো বস্তুর আদি অবস্থান থেকে শেষ অবস্থানের দিকে সরলরেখায় দূরত্বকে সরণ ভেক্টর বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-107",
+      "text": "\\(\\vec{A}\\) ও \\(\\vec{B}\\) এর যোগ করার ক্ষেত্রে ভেক্টর সাধারণ নিয়মের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নতুন অবস্থানে তাদেরকে সমান্তরালভাবে স্থানান্তর করা হয়"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\vec{B}\\) এর আদি বিন্দুকে \\(\\vec{A}\\) এর শীর্ষ বিন্দুতে স্থাপন করে \\(\\vec{A}\\) এর আদি বিন্দু থেকে \\(\\vec{B}\\) এর শীর্ষ বিন্দুতে সরলরেখা টানা হয়"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\vec{B}\\) এর আদি বিন্দুকে \\(\\vec{A}\\) এর শীর্ষ বিন্দুতে স্থাপন করে \\(\\vec{B}\\) এর শীর্ষ বিন্দু থেকে \\(\\vec{A}\\) এর আদি বিন্দুতে সরলরেখা টানা হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ভেক্টর যোগের সাধারণ (ত্রিভুজ) নিয়মে ভেক্টরদ্বয়কে সমান্তরালভাবে স্থানান্তর করা যায় (i সত্য) এবং \\(\\vec{B}\\)-এর আদিবিন্দু \\(\\vec{A}\\)-এর শীর্ষে বসিয়ে \\(\\vec{A}\\)-এর আদি থেকে \\(\\vec{B}\\)-এর শীর্ষ পর্যন্ত রেখা টানলে লব্ধি পাওয়া যায় (ii সত্য)। (iii)-এ উল্টো দিকে টানা হয়েছে, তাই মিথ্যা।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-108",
+      "text": "\\(\\vec{A} = 2\\hat{i} + 3\\hat{j}\\) এবং \\(\\vec{B} = m\\hat{i} - 2\\hat{j}\\)। m এর মান কত হলে ভেক্টরদ্বয় পরস্পর লম্ব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-3/2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3/2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "লম্ব হলে \\(\\vec{A} \\cdot \\vec{B} = 0\\)\n\\(2m - 6 = 0\\), \\(m = 3\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-109",
+      "text": "যদি \\(\\varphi(x, y, z)\\) একটি ব্যবকলনীয় স্কেলার ক্ষেত্র হয় তবে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপারেটর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্ল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্র্যাডিয়েন্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাইভারজেন্স",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "স্কেলার ক্ষেত্র \\(\\varphi\\)-এর ক্ষেত্রে \\(\\vec{\\nabla}\\varphi\\)-কে \\(\\varphi\\)-এর গ্র্যাডিয়েন্ট বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-110",
+      "text": "\\(\\hat{i}\\cdot(\\hat{k} \\times \\hat{j}) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\hat{i}, \\hat{j}, \\hat{k}\\) তিনটি একক ভেক্টর নির্দেশ করে—",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\hat{k} \\times \\hat{j} = -\\hat{i}\\)\n\\(\\hat{i} \\cdot (-\\hat{i}) = -1\\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-111",
+      "text": "উক্ত ভেক্টর তিনটি যদি একটি ত্রিভুজের তিনবাহু একই ক্রমে নির্দেশ করে তাহলে যে কোনো দুইটি ভেক্টরের মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\hat{i}, \\hat{j}, \\hat{k}\\) তিনটি একক ভেক্টর নির্দেশ করে—",
+      "stem_image": null,
+      "group": "physics_1st-2022-MB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(120^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তিনটি একক ভেক্টর ত্রিভুজের বাহু নির্দেশ করলে \\(\\hat{i} + \\hat{j} + \\hat{k} = 0\\) এবং তিনটির মান সমান হওয়ায় ত্রিভুজটি সমবাহু। সমবাহু ত্রিভুজের বাহুনির্দেশক ভেক্টরদ্বয়ের মধ্যবর্তী কোণ \\(180^\\circ - 60^\\circ = 120^\\circ\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-112",
+      "text": "শূন্য ভেক্টরের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শূন্য ভেক্টরের সুনির্দিষ্ট দিক নেই"
+        },
+        {
+          "label": "ii",
+          "text": "শূন্য ভেক্টরের ক্ষেত্রে ত্বরণ থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "শূন্য ভেক্টরের আদিবিন্দু ও শেষ বিন্দু একই বিন্দুতে থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: শূন্য ভেক্টরের নির্দিষ্ট দিক নেই।\n(ii) মিথ্যা: শূন্য ভেক্টরের ত্বরণ থাকার কথা নয়।\n(iii) সত্য: এর আদিবিন্দু ও শেষ বিন্দু একই।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Statement ii is not a property of a zero vector, so i and iii (গ) fits best; sattacademy's key gives ঘ (i, ii ও iii)."
+    },
+    {
+      "id": "physics_1st-ch2-mcq-113",
+      "text": "নিচের কোনটির মাধ্যমে স্কেলার ক্ষেত্র থেকে ভেক্টর ক্ষেত্র পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্র্যাডিয়েন্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডাইভারজেন্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্ল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্রিগুণন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গ্র্যাডিয়েন্ট \\(\\vec{\\nabla}\\varphi\\) স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে। ডাইভারজেন্স ভেক্টর থেকে স্কেলার দেয়, আর কার্ল ভেক্টর থেকে ভেক্টর দেয়।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-114",
+      "text": "\\(\\hat{j}\\) এবং \\((\\hat{i} + \\hat{j})\\) ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(90^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\cos\\theta = \\dfrac{\\hat{j} \\cdot (\\hat{i} + \\hat{j})}{1 \\times \\sqrt{2}} = \\dfrac{1}{\\sqrt{2}}\\)\n\\(\\theta = 45^\\circ\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-115",
+      "text": "ভেক্টরকে স্কেলার রাশি দ্বারা গুণ করলে গুণফল একটি ভেক্টর হবে—নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বলের ঘাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘাত বল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ভেক্টরকে স্কেলার দ্বারা গুণ করলে ভেক্টর পাওয়া যায়। বলের ঘাত = বল × সময় (ভেক্টর × স্কেলার), যা ভেক্টর রাশি। ক্ষমতা ও চাপ স্কেলার।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-116",
+      "text": "\\((\\hat{i} \\times \\hat{j}) \\times (\\hat{i} \\times \\hat{k}) = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\hat{j}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\hat{i}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\hat{i} \\times \\hat{j} = \\hat{k}\\), \\(\\hat{i} \\times \\hat{k} = -\\hat{j}\\)\n\\(\\hat{k} \\times (-\\hat{j}) = -(\\hat{k} \\times \\hat{j}) = \\hat{i}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-117",
+      "text": "\\(\\hat{j} \\times (\\hat{j} \\times \\hat{k}) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\hat{k}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\hat{i}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\hat{j} \\times \\hat{k} = \\hat{i}\\)\n\\(\\hat{j} \\times \\hat{i} = -\\hat{k}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-118",
+      "text": "\\(\\vec{A} = \\hat{i},\\ \\vec{B} = 2\\hat{i} + \\hat{k}\\), \\(\\vec{A}\\) ও \\(\\vec{B}\\) ভেক্টরের মধ্যবর্তী কোণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(25.12^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(26.57^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(90.67^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(180.25^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\cos\\theta = \\dfrac{\\vec{A} \\cdot \\vec{B}}{|\\vec{A}||\\vec{B}|} = \\dfrac{2}{1 \\times \\sqrt{5}} = 0.894\\)\n\\(\\theta = 26.57^\\circ\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-119",
+      "text": "কোনটি স্কেলার রাশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রাডিয়েন্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডাইভারজেন্স",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্ল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ডাইভারজেন্স \\(\\vec{\\nabla} \\cdot \\vec{V}\\) স্কেলার রাশি। গ্রেডিয়েন্ট, কার্ল ও সরণ ভেক্টর রাশি।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-120",
+      "text": "চিত্রে \\(\\vec{A}\\) ও \\(\\vec{B}\\) যে তলে আছে POQ সেই তলের উপর লম্ব। \\(\\vec{A} \\times \\vec{B}\\) এর দিক—",
+      "text_en": null,
+      "image": "assets/physics_1st-ch2-mcq-120-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\overrightarrow{OP}\\) এর দিকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\overrightarrow{OQ}\\) এর দিকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\vec{A}\\) এর সমান্তরালে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\vec{B}\\) এর সমান্তরালে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ভেক্টর গুণফলের দিক ডানহাতি স্ক্রু নিয়মে নির্ণয় করা হয়: \\(\\vec{A}\\) থেকে \\(\\vec{B}\\)-এর দিকে ঘোরালে স্ক্রু যে দিকে অগ্রসর হয় সেটিই \\(\\vec{A} \\times \\vec{B}\\)-এর দিক। চিত্র অনুযায়ী তা \\(\\overrightarrow{OQ}\\)-এর দিকে।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

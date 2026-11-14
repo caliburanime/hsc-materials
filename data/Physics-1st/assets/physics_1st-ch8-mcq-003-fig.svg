@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180">
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#111"/></marker></defs>
+<rect width="240" height="180" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<path d="M50 150V20" marker-end="url(#a)"/><path d="M50 150H210" marker-end="url(#a)"/>
+<path d="M62 30C68 85 90 128 190 140"/></g>
+<g font-family="serif" font-style="italic" font-size="18" fill="#111">
+<text x="20" y="22">Y</text><text x="215" y="156">X</text><text x="32" y="168">O</text>
+<text x="2" y="72">T<tspan baseline-shift="super" font-size="70%">2</tspan></text><text x="125" y="170">g</text></g>
+</svg>

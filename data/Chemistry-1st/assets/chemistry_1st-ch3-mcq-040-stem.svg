@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 230" width="440" height="230">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="440" height="230" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<rect x="10" y="100" width="28" height="22"/>
+<rect x="38" y="100" width="28" height="22"/>
+<rect x="66" y="100" width="28" height="22"/>
+<rect x="94" y="100" width="28" height="22"/>
+<rect x="122" y="100" width="28" height="22"/>
+<g><line x1="20" y1="117" x2="20" y2="105" marker-end="url(#a)"/><line x1="28" y1="105" x2="28" y2="117" marker-end="url(#a)"/></g><line x1="52" y1="118" x2="52" y2="104" marker-end="url(#a)"/><line x1="80" y1="118" x2="80" y2="104" marker-end="url(#a)"/><line x1="108" y1="118" x2="108" y2="104" marker-end="url(#a)"/><line x1="136" y1="118" x2="136" y2="104" marker-end="url(#a)"/>
+<rect x="260" y="40" width="28" height="22"/>
+<rect x="288" y="40" width="28" height="22"/>
+<rect x="260" y="150" width="28" height="22"/>
+<rect x="288" y="150" width="28" height="22"/>
+<rect x="316" y="150" width="28" height="22"/>
+<g><line x1="270" y1="167" x2="270" y2="155" marker-end="url(#a)"/><line x1="278" y1="155" x2="278" y2="167" marker-end="url(#a)"/></g>
+<g><line x1="298" y1="167" x2="298" y2="155" marker-end="url(#a)"/><line x1="306" y1="155" x2="306" y2="167" marker-end="url(#a)"/></g>
+<g><line x1="326" y1="167" x2="326" y2="155" marker-end="url(#a)"/><line x1="334" y1="155" x2="334" y2="167" marker-end="url(#a)"/></g>
+<path d="M152,111 H200 V51 H252" marker-end="url(#a)"/>
+<path d="M152,111 H200 V161 H252" marker-end="url(#a)"/>
+<line x1="338" y1="68" x2="338" y2="144" marker-start="url(#a)" marker-end="url(#a)"/>
+</g>
+<g font-size="14" fill="#111">
+<text x="70" y="90" text-anchor="middle" font-family="serif">d<tspan font-size="10" baseline-shift="super">6</tspan></text>
+<text x="352" y="60" font-family="serif">e<tspan font-size="10" baseline-shift="sub">g</tspan></text>
+<text x="350" y="171" font-family="serif">t<tspan font-size="10" baseline-shift="sub">2g</tspan></text>
+<text x="346" y="110" font-family="serif" font-style="italic">ΔE</text>
+<text x="10" y="148" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif">ডিজেনারেট</text>
+<text x="10" y="205" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif">অবস্থা ১টি (2<tspan font-size="10" baseline-shift="super">+</tspan>) আয়ন এর (অবস্থান্তর মৌল)</text>
+</g>
+</svg>

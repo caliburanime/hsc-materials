@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker>
+<pattern id="ht" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern>
+</defs>
+<rect width="160" height="120" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15" >
+<line x1="36.0" y1="96.0" x2="36.0" y2="14.0" marker-end="url(#ar)"/>
+<line x1="36.0" y1="96.0" x2="148.0" y2="96.0" marker-end="url(#ar)"/>
+<polyline points="36.0,34.0 38.1,37.3 40.2,40.4 42.4,43.5 44.5,46.4 46.6,49.3 48.8,52.0 50.9,54.7 53.0,57.3 55.1,59.7 57.2,62.1 59.4,64.3 61.5,66.5 63.6,68.6 65.8,70.6 67.9,72.5 70.0,74.2 72.1,75.9 74.2,77.6 76.4,79.1 78.5,80.5 80.6,81.8 82.8,83.1 84.9,84.3 87.0,85.3 89.1,86.3 91.2,87.2 93.4,88.1 95.5,88.8 97.6,89.5 99.8,90.1 101.9,90.6 104.0,91.0 106.1,91.4 108.2,91.6 110.4,91.9 112.5,92.0 114.6,92.1 116.8,92.1 118.9,92.1 121.0,92.0"/>
+<text x="28" y="18" text-anchor="end" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">g′</text>
+<text x="148" y="112" text-anchor="end" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">d</text>
+<text x="28" y="110" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">O</text>
+</g></svg>

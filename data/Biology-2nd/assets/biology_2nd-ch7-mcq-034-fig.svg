@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="320" height="180" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M160,28 C190,24 200,40 212,52 C236,48 270,56 296,64 C312,70 310,92 292,106 C274,124 236,132 216,132 C210,148 190,162 160,162 C130,162 110,148 104,132 C84,132 46,124 28,106 C10,92 8,70 24,64 C50,56 84,48 108,52 C120,40 130,24 160,28 z" fill="#fff" stroke-width="2"/>
+<path d="M160,62 C196,62 212,82 212,104 C212,128 190,142 160,142 C130,142 108,128 108,104 C108,82 124,62 160,62 z"/>
+<path d="M118,62 C100,64 96,92 108,100 C116,84 120,72 118,62 z" fill="#fff"/>
+<path d="M202,62 C220,64 224,92 212,100 C204,84 200,72 202,62 z" fill="#fff"/>
+<circle cx="40" cy="84" r="9"/><circle cx="280" cy="84" r="9"/>
+<path d="M130,40 C146,34 174,34 190,40" stroke-width="1"/>
+</g></svg>

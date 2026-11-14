@@ -1,0 +1,1635 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 4,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch4-mcq-001",
+      "text": "প্রদত্ত বৃত্তের কেন্দ্র C হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch4-mcq-001-stem.svg",
+      "group": "higher_math_1st-2023-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((1, 1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2, 2)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((1, 2)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2, 1)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(x^2+y^2-4x-2y+1=0\\) এ \\(g=-2,\\ f=-1\\), তাই কেন্দ্র \\(C(2,1)\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-002",
+      "text": "AB এর দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "",
+      "stem_image": "assets/higher_math_1st-ch4-mcq-001-stem.svg",
+      "group": "higher_math_1st-2023-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "2 একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{3}\\) একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3}\\) একক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(g=-2,\\ f=-1,\\ c=1\\)। x-অক্ষের খণ্ডিতাংশ \\(AB=2\\sqrt{g^2-c}=2\\sqrt{4-1}=2\\sqrt{3}\\) একক।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-003",
+      "text": "\\(x^2 + y^2 = 4\\) বৃত্তের \\((-1, \\sqrt{3})\\) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x - \\sqrt{3}y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x - \\sqrt{3}y - 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{3}x - y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3}x - y - 4 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\((x_1,y_1)\\) বিন্দুতে স্পর্শক \\(xx_1+yy_1=4\\)।\n\\(-x+\\sqrt{3}y=4\\Rightarrow x-\\sqrt{3}y+4=0\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-004",
+      "text": "\\((0, 1)\\) বিন্দু হতে \\(x^2 + y^2 - 8x - 6y + 21 = 0\\) বৃত্তের উপর অঙ্কিত স্পর্শকের দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4\\sqrt{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্পর্শকের দৈর্ঘ্য \\(=\\sqrt{x_1^2+y_1^2-8x_1-6y_1+21}\\)\n\\(=\\sqrt{0+1-0-6+21}=\\sqrt{16}=4\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-005",
+      "text": "\\((2, -3)\\) কেন্দ্রবিশিষ্ট এবং \\(y = 0\\) রেখাকে স্পর্শ করে এমন বৃত্তের সমীকরণ হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 - 4x + 6y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 - 4x + 6y + 9 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 - 4x + 6y + 13 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 + 4x - 6y + 4 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "x-অক্ষকে স্পর্শ করায় ব্যাসার্ধ \\(r=|-3|=3\\)।\nসমীকরণ: \\((x-2)^2+(y+3)^2=9\\)\n\\(\\Rightarrow x^2+y^2-4x+6y+4=0\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-006",
+      "text": "\\(r^2 + 2r\\cos\\theta + 4r\\sin\\theta = 3\\) বৃত্তটির কেন্দ্রের কার্তেসীয় স্থানাংক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((-1, -2)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((-2, -4)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((1, 2)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2, 4)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(r^2=x^2+y^2,\\ r\\cos\\theta=x,\\ r\\sin\\theta=y\\) বসিয়ে পাই \\(x^2+y^2+2x+4y-3=0\\)।\nকেন্দ্র \\((-g,-f)=(-1,-2)\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-007",
+      "text": "\\((1, -1)\\) বিন্দু থেকে \\(x^2 + y^2 - 2x - 2y + 7 = 0\\) বৃত্তের উপর অংকিত স্পর্শকের দৈর্ঘ্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(18\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্পর্শকের দৈর্ঘ্য \\(=\\sqrt{1+1-2+2+7}=\\sqrt{9}=3\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: প্রদত্ত সমীকরণে \\(g^2+f^2-c=1+1-7=-5<0\\), অর্থাৎ বৃত্তটি কাল্পনিক; তাই বাস্তব স্পর্শক আঁকা যায় না। সূত্র প্রয়োগে 3 পাওয়া যায় বলে (ঘ) চাবি হিসেবে দেওয়া, তবে প্রশ্নটি ত্রুটিপূর্ণ।"
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-008",
+      "text": "\\((3, 4)\\) কেন্দ্রবিশিষ্ট একটি বৃত্ত x-অক্ষকে স্পর্শ করলে উহার ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বৃত্ত x-অক্ষকে স্পর্শ করলে ব্যাসার্ধ = কেন্দ্রের y-স্থানাংকের পরম মান \\(=4\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-009",
+      "text": "\\(2x^2 + 2y^2 - 12x - 8y = 14\\) বৃত্তের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্র \\((3, 2)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাসার্ধ \\(2\\sqrt{5}\\) একক"
+        },
+        {
+          "label": "iii",
+          "text": "y-অক্ষ দ্বারা খণ্ডিতাংশের দৈর্ঘ্য \\(2\\sqrt{11}\\) একক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমীকরণটি \\(x^2+y^2-6x-4y-7=0\\)।\ni. কেন্দ্র \\((3,2)\\) — সত্য।\nii. ব্যাসার্ধ \\(=\\sqrt{9+4+7}=\\sqrt{20}=2\\sqrt{5}\\) — সত্য।\niii. y-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{f^2-c}=2\\sqrt{4+7}=2\\sqrt{11}\\) — সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-010",
+      "text": "\\(x^2 + y^2 - 2x = 0\\) বৃত্তের \\((1, -1)\\) বিন্দুতে অংকিত স্পর্শকের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(y - 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(y + 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2x - y - 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2x - y + 1 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((1,-1)\\) বিন্দুতে স্পর্শক: \\(x\\cdot1+y(-1)-(x+1)=0\\)\n\\(\\Rightarrow -y-1=0\\Rightarrow y+1=0\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-011",
+      "text": "\\(x^2 + y^2 + ay = 0\\) এর পোলার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r + a = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r^2 + a = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(r + a\\sin\\theta = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(r^2 + a\\sin\\theta = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(x^2+y^2=r^2,\\ y=r\\sin\\theta\\) বসিয়ে \\(r^2+ar\\sin\\theta=0\\)\n\\(r\\neq0\\) ধরে \\(r+a\\sin\\theta=0\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-012",
+      "text": "কোন শর্তে \\(y = mx + c\\) সরলরেখাটি \\(x^2 + y^2 = r^2\\) বৃত্তকে স্পর্শ করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r^2 = m^2 + c^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(c^2 = r^2(1 + m^2)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(m^2r^2 = r^2 - c^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(c^2 + r^2 = m^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(y=mx+c\\) রেখা থেকে কেন্দ্র \\((0,0)\\) এর দূরত্ব = ব্যাসার্ধ হলে স্পর্শ করে:\n\\(\\dfrac{|c|}{\\sqrt{1+m^2}}=r\\Rightarrow c^2=r^2(1+m^2)\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-013",
+      "text": "বৃত্তটির কেন্দ্রের স্থানাঙ্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 = 12x - 30\\) একটি বৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((-6, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((-3, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((3, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((6, 0)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমীকরণ \\(x^2+y^2-12x+30=0\\); \\(g=-6,\\ f=0\\)।\nকেন্দ্র \\((6,0)\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-014",
+      "text": "\\((1, -1)\\) বিন্দু হতে বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য কত একক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 = 12x - 30\\) একটি বৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{11}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্পর্শকের দৈর্ঘ্য \\(=\\sqrt{1+1-12+30}=\\sqrt{20}=2\\sqrt{5}\\) একক।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-015",
+      "text": "\\(r = 2a\\cos\\theta\\) বৃত্তের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্র \\((a, 0)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাসার্ধ \\(2a\\)"
+        },
+        {
+          "label": "iii",
+          "text": "x-অক্ষ হতে ছেদাংশের পরিমাণ \\(2a\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(r=2a\\cos\\theta\\Rightarrow r^2=2ar\\cos\\theta\\Rightarrow x^2+y^2-2ax=0\\)\ni. কেন্দ্র \\((a,0)\\) — সত্য।\nii. ব্যাসার্ধ \\(=a\\), \\(2a\\) নয় — মিথ্যা।\niii. x-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{a^2-0}=2a\\) — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-016",
+      "text": "বিন্দু বৃত্তের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 - 2x + 2y + 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 - 2x + 2y + 2 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 - 2x + 2y - 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 - 2x + 2y = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিন্দু বৃত্তের ব্যাসার্ধ শূন্য, অর্থাৎ \\(g^2+f^2-c=0\\)।\nএখানে \\(g=-1,\\ f=1\\), তাই \\(1+1-c=0\\Rightarrow c=2\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-017",
+      "text": "\\((1, 0)\\) এবং \\((0, 2)\\) বিন্দুদ্বয়গামী এবং x-অক্ষের উপর কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{5}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{41}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{25}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্র \\((h,0)\\) ধরি। \\((h-1)^2=h^2+4\\) (কেন্দ্র থেকে দুই বিন্দুর দূরত্ব সমান)\n\\(\\Rightarrow -2h+1=4\\Rightarrow h=-\\dfrac{3}{2}\\)\nব্যাসার্ধ \\(=|h-1|=\\dfrac{5}{2}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-018",
+      "text": "\\(2x^2 + 2y^2 - 2x - 4y - 22 = 0\\) বৃত্ত দ্বারা y-অক্ষের খণ্ডিত অংশের দৈর্ঘ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\sqrt{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{23}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\sqrt{26}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমীকরণ \\(x^2+y^2-x-2y-11=0\\); \\(f=-1,\\ c=-11\\)।\ny-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{f^2-c}=2\\sqrt{1+11}=2\\sqrt{12}=4\\sqrt{3}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-019",
+      "text": "\\((-2, -1)\\) বিন্দু থেকে \\(x^2 + y^2 - 6x + 2y + 5 = 0\\) বৃত্তে অংকিত স্পর্শকের দৈর্ঘ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{10}\\) একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{5}\\) একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{24}\\) একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5\\sqrt{2}\\) একক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্পর্শকের দৈর্ঘ্য \\(=\\sqrt{4+1+12-2+5}=\\sqrt{20}=2\\sqrt{5}\\) একক।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-020",
+      "text": "\\((-2, 4)\\) কেন্দ্রবিশিষ্ট বৃত্তটি x-অক্ষকে স্পর্শ করলে বৃত্তের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 + 4x - 8y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 - 4x + 8y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 - 4x - 8y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 + 4x + 8y + 4 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "x-অক্ষকে স্পর্শ করায় \\(r=4\\)।\n\\((x+2)^2+(y-4)^2=16\\Rightarrow x^2+y^2+4x-8y+4=0\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-021",
+      "text": "AB জ্যায়ের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "C, AB জ্যায়ের মধ্যবিন্দু",
+      "stem_image": "assets/higher_math_1st-ch4-mcq-021-stem.svg",
+      "group": "higher_math_1st-2023-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x + 2y - 3 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2x + y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2x - y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x - 2y + 5 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(OC\\) এর ঢাল \\(=\\dfrac{2-0}{-1-0}=-2\\); জ্যা \\(AB\\perp OC\\), তাই \\(AB\\) এর ঢাল \\(=\\dfrac{1}{2}\\)।\n\\(y-2=\\dfrac{1}{2}(x+1)\\Rightarrow x-2y+5=0\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-022",
+      "text": "AB জ্যায়ের দৈর্ঘ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "C, AB জ্যায়ের মধ্যবিন্দু",
+      "stem_image": "assets/higher_math_1st-ch4-mcq-021-stem.svg",
+      "group": "higher_math_1st-2023-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4\\sqrt{5}\\) একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{6}\\) একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\sqrt{2}\\) একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\sqrt{5}\\) একক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(OC=\\sqrt{1+4}=\\sqrt{5}\\), \\(OA=5\\)।\n\\(AC=\\sqrt{25-5}=\\sqrt{20}=2\\sqrt{5}\\)\n\\(AB=2AC=4\\sqrt{5}\\) একক।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-023",
+      "text": "বৃত্তটির ব্যাসার্ধ কত একক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 + 8x - 12y + 2 = 0\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3\\sqrt{6}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(g=4,\\ f=-6,\\ c=2\\)।\nব্যাসার্ধ \\(=\\sqrt{16+36-2}=\\sqrt{50}=5\\sqrt{2}\\) একক।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-024",
+      "text": "বৃত্তটির y-অক্ষের ছেদকৃত অংশের পরিমাণ কত একক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 + 8x - 12y + 2 = 0\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\sqrt{34}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{14}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{14}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "y-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{f^2-c}=2\\sqrt{36-2}=2\\sqrt{34}\\) একক।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-025",
+      "text": "\\((2, -3)\\) কেন্দ্রবিশিষ্ট বৃত্ত x-অক্ষকে স্পর্শ করলে বৃত্তের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 + 4x - 6y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 - 4x + 6y + 4 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 - 4x + 6y + 9 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 + 4x - 6y + 9 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্র \\((2,-3)\\), x-অক্ষকে স্পর্শ করায় \\(r=3\\)।\n\\((x-2)^2+(y+3)^2=9\\Rightarrow x^2+y^2-4x+6y+4=0\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-026",
+      "text": "\\(2x - y + K = 0\\) রেখাটি যদি \\(x^2 + y^2 - 12x + 5 = 0\\) বৃত্তের ব্যাস হয় তবে, K এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(24\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(12\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-12\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-24\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যাস কেন্দ্রগামী। বৃত্তের কেন্দ্র \\((6,0)\\)।\nরেখায় বসিয়ে \\(12-0+K=0\\Rightarrow K=-12\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-027",
+      "text": "\\(7(x^2 + y^2) + 14x + 21y + 28 = 0\\) বৃত্তের কেন্দ্র কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(-1, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(1, \\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\dfrac{7}{2}, \\dfrac{7}{3}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(0, \\dfrac{3}{2}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমীকরণকে 7 দিয়ে ভাগ করে \\(x^2+y^2+2x+3y+4=0\\)।\nকেন্দ্র \\(\\left(-1,-\\dfrac{3}{2}\\right)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-028",
+      "text": "কোনটি বৃত্তের সমীকরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + 9y^2 = 144\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(y^2 = 16x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x^2 + 5y^2 + 5 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 = 16\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বৃত্তের সমীকরণে \\(x^2\\) ও \\(y^2\\) এর সহগ সমান এবং \\(xy\\) পদ নেই। (ক) ও (গ) এ সহগ অসমান; (খ) পরাবৃত্ত। \\(x^2+y^2=16\\) বৃত্ত।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-029",
+      "text": "\\(x^2 + y^2 - 2x - 6y + 6 = 0\\) বৃত্তের ক্ষেত্রে",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বৃত্তটির ব্যাসার্ধ 2 একক"
+        },
+        {
+          "label": "ii",
+          "text": "বৃত্তটির একটি স্পর্শক \\(y = 1\\)"
+        },
+        {
+          "label": "iii",
+          "text": "বৃত্তটি y-অক্ষকে স্পর্শ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কেন্দ্র \\((1,3)\\), ব্যাসার্ধ \\(=\\sqrt{1+9-6}=2\\)।\ni. ব্যাসার্ধ 2 একক — সত্য।\nii. কেন্দ্র থেকে \\(y=1\\) এর দূরত্ব \\(=|3-1|=2=r\\), তাই স্পর্শক — সত্য।\niii. কেন্দ্র থেকে y-অক্ষের দূরত্ব \\(1\\neq2\\), তাই স্পর্শ করে না — মিথ্যা।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-030",
+      "text": "\\(r(1 + \\cos\\theta) = 2\\) সমীকরণটি কী প্রকাশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরলরেখা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(r+r\\cos\\theta=2\\Rightarrow r=2-x\\Rightarrow x^2+y^2=(2-x)^2\\)\n\\(\\Rightarrow y^2=4-4x\\), যা পরাবৃত্তের সমীকরণ।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-031",
+      "text": "বৃত্তটির কেন্দ্রের স্থানাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(4(x^2 + y^2) = 16x + 12y - 5\\) একটি বৃত্ত",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-RB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(2, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(2, \\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2, 3)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(-2, -\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমীকরণ \\(x^2+y^2-4x-3y+\\dfrac{5}{4}=0\\)।\nকেন্দ্র \\(\\left(2,\\dfrac{3}{2}\\right)\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-032",
+      "text": "বৃত্তটি দ্বারা x-অক্ষের খণ্ডিত অংশের পরিমাণ কত একক?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(4(x^2 + y^2) = 16x + 12y - 5\\) একটি বৃত্ত",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-RB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{11}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\sqrt{11}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{11}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{11}}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(g=-2,\\ c=\\dfrac{5}{4}\\)।\nx-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{g^2-c}=2\\sqrt{4-\\dfrac{5}{4}}=2\\cdot\\dfrac{\\sqrt{11}}{2}=\\sqrt{11}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-033",
+      "text": "\\(x^2 + y^2 + 12x - 4y + 31 = 0\\) সমীকরণবিশিষ্ট বৃত্তের ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(r^2=g^2+f^2-c=36+4-31=9\\Rightarrow r=3\\)\nক্ষেত্রফল \\(=\\pi r^2=9\\pi\\) বর্গ একক।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-034",
+      "text": "পোলার স্থানাংকে \\(r^2 - 2r\\sin\\theta = 3\\) একটি বৃত্তের সমীকরণ। বৃত্তটির ব্যাসার্ধ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3 একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6 একক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(r^2-2r\\sin\\theta=3\\Rightarrow x^2+y^2-2y-3=0\\)\n\\(r=\\sqrt{0+1+3}=2\\) একক।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-035",
+      "text": "\\(x^2 + y^2 + 6x - 4y - 3 = 0\\) বৃত্তের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্র \\((-3, 2)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাসার্ধ \\(= 4\\)"
+        },
+        {
+          "label": "iii",
+          "text": "মূলবিন্দুটি বৃত্তের ভিতরে অবস্থিত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(g=3,\\ f=-2,\\ c=-3\\)।\ni. কেন্দ্র \\((-3,2)\\) — সত্য।\nii. ব্যাসার্ধ \\(=\\sqrt{9+4+3}=4\\) — সত্য।\niii. মূলবিন্দুতে \\(S=c=-3<0\\), তাই মূলবিন্দু বৃত্তের ভিতরে — সত্য।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-036",
+      "text": "\\(x^2 + y^2 = 12\\) বৃত্তের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কেন্দ্র \\((0, 0)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাসার্ধ \\(2\\sqrt{3}\\) একক"
+        },
+        {
+          "label": "iii",
+          "text": "y-অক্ষের খণ্ডিত অংশের দৈর্ঘ্য \\(2\\sqrt{3}\\) একক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "i. কেন্দ্র \\((0,0)\\) — সত্য।\nii. ব্যাসার্ধ \\(=\\sqrt{12}=2\\sqrt{3}\\) — সত্য।\niii. y-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{f^2-c}=2\\sqrt{12}=4\\sqrt{3}\\), \\(2\\sqrt{3}\\) নয় — মিথ্যা।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-037",
+      "text": "২য় বৃত্তের দ্বারা x-অক্ষের খণ্ডিত অংশের দৈর্ঘ্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 - 3x - 4y + 5 = 0\\) এবং \\(3x^2 + 3y^2 - 6x - 9y - 3 = 0\\) দুটি বৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-SB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sqrt{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{13}}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "২য় বৃত্তকে 3 দিয়ে ভাগ করে \\(x^2+y^2-2x-3y-1=0\\); \\(g=-1,\\ c=-1\\)।\nx-অক্ষের খণ্ডিতাংশ \\(=2\\sqrt{g^2-c}=2\\sqrt{1+1}=2\\sqrt{2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-038",
+      "text": "বৃত্তদ্বয়ের সাধারণ জ্যা এর সমীকরণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(x^2 + y^2 - 3x - 4y + 5 = 0\\) এবং \\(3x^2 + 3y^2 - 6x - 9y - 3 = 0\\) দুটি বৃত্তের সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-SB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x - y - 6 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x + y + 6 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x + y - 6 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x - y + 6 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাধারণ জ্যা: \\(S_1-S_2=0\\)\n\\((x^2+y^2-3x-4y+5)-(x^2+y^2-2x-3y-1)=0\\)\n\\(\\Rightarrow -x-y+6=0\\Rightarrow x+y-6=0\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-039",
+      "text": "\\(P(x, y)\\) হতে \\((-3, 0)\\) এবং \\((3, 0)\\) বিন্দুদ্বয়ের দূরত্বের বর্গের সমষ্টি সর্বদা 40 হলে P বিন্দুর সঞ্চারপথ হবে একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধিবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\((x+3)^2+y^2+(x-3)^2+y^2=40\\)\n\\(\\Rightarrow 2x^2+2y^2+18=40\\Rightarrow x^2+y^2=11\\), যা একটি বৃত্ত।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

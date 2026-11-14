@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="400" height="150" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10,30 L300,30 M10,100 L300,100"/><path d="M10,30 L10,100" stroke="none"/>
+<path d="M30,52 C40,44 66,44 76,52 C84,60 78,76 62,76 C44,76 24,68 30,52 z" fill="#fff"/>
+<path d="M44,58 C52,54 62,56 62,62" stroke-width="1"/>
+<path d="M110,50 C130,38 170,40 190,52 C202,64 192,84 164,86 C136,88 108,76 110,50 z" fill="#fff"/>
+<path d="M126,56 C140,50 150,60 144,66 C158,62 168,66 172,72 C150,80 130,76 126,66 z" fill="#111"/>
+<circle cx="244" cy="66" r="22" fill="#fff"/><circle cx="244" cy="66" r="14"/><circle cx="244" cy="66" r="6" fill="#111"/>
+<line x1="56" y1="52" x2="56" y2="20" />
+<line x1="150" y1="88" x2="150" y2="128" /><text x="52" y="16" text-anchor="end" font-family="Noto Sans Bengali, Hind Siliguri, serif" font-size="18" font-style="italic" fill="#111" stroke="none" >A</text><text x="158" y="140" text-anchor="start" font-family="Noto Sans Bengali, Hind Siliguri, serif" font-size="18" font-style="italic" fill="#111" stroke="none" >B</text><text x="312" y="70" text-anchor="start" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="14" fill="#111" stroke="none">রক্তনালী</text>
+</g></svg>

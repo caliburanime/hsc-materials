@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 125" width="160" height="125">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="160" height="125" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M30,100 L115,100" marker-end="url(#ar)"/><path d="M30,100 L30,12" marker-end="url(#ar)"/><path d="M30,35 L112,35"/><text x="20" y="106" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">O</text><text x="124" y="104" text-anchor="start" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">X</text><text x="40" y="14" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="14" fill="#111" stroke="none">Y</text><text transform="rotate(-90 14 60)" x="14" y="60" text-anchor="middle" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="11" fill="#111" stroke="none">পীড়ন</text><text x="82" y="118" text-anchor="middle" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="11" fill="#111" stroke="none">→বিকৃতি</text>
+</g></svg>

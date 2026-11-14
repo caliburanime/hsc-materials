@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="185" viewBox="0 0 380 185">
+<defs>
+<marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<marker id="ah2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0.5 L8,4 L0,7.5 z" fill="#111"/></marker>
+<style>.v{font-family:serif;font-style:italic}.n{font-family:serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111}</style>
+</defs>
+<rect width="380" height="185" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="25" y1="70" x2="125" y2="70" />
+<rect x="125" y="56" width="76" height="28" rx="4"/>
+<line x1="201" y1="70" x2="360" y2="70" />
+<line x1="130" y1="79" x2="196" y2="79" stroke-width="1" stroke-dasharray="2,2"/>
+<line x1="90" y1="70" x2="90" y2="125" />
+<line x1="90" y1="125" x2="185" y2="125" />
+<line x1="185" y1="125" x2="250" y2="125" />
+<ellipse cx="262" cy="125" rx="22" ry="14"/>
+<line x1="284" y1="125" x2="300" y2="125" />
+<line x1="300" y1="125" x2="300" y2="70" />
+<circle cx="90" cy="70" r="3" fill="#111" stroke="none"/>
+<circle cx="300" cy="70" r="3" fill="#111" stroke="none"/>
+<line x1="34" y1="70" x2="54" y2="70" marker-end="url(#ah)"/>
+<line x1="330" y1="70" x2="352" y2="70" marker-end="url(#ah)"/>
+<line x1="108" y1="125" x2="132" y2="125" marker-end="url(#ah)"/>
+<text x="163" y="75" font-size="15" text-anchor="middle" class="v" stroke="none" fill="#111">G</text>
+<text x="163" y="48" font-size="13" text-anchor="middle" class="n" stroke="none" fill="#111">200Ω</text>
+<text x="262" y="130" font-size="15" text-anchor="middle" class="v" stroke="none" fill="#111">S</text>
+<text x="86" y="60" font-size="13" text-anchor="end" class="v" stroke="none" fill="#111">A</text>
+<text x="304" y="60" font-size="13" text-anchor="start" class="v" stroke="none" fill="#111">B</text>
+<text x="14" y="60" font-size="14" text-anchor="start" class="v" stroke="none" fill="#111">I</text>
+<text x="262" y="168" font-size="14" text-anchor="middle" class="n" stroke="none" fill="#111"><tspan class="v">I</tspan><tspan baseline-shift="sub" font-size="70%"><tspan class="v">s</tspan></tspan> = <tspan class="v">I</tspan> <tspan class="b">এর</tspan> 99%</text>
+
+</g>
+</svg>

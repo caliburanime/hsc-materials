@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker>
+<pattern id="ht" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern>
+</defs>
+<rect width="160" height="120" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-size="15" >
+<line x1="80.0" y1="62.0" x2="80.0" y2="8.0" marker-end="url(#ar)"/>
+<line x1="80.0" y1="62.0" x2="80.0" y2="116.0" marker-end="url(#ar)"/>
+<line x1="80.0" y1="62.0" x2="150.0" y2="62.0" marker-end="url(#ar)"/>
+<line x1="80.0" y1="62.0" x2="10.0" y2="62.0" marker-end="url(#ar)"/>
+<polyline points="102.0,107.5 102.8,105.9 103.6,104.4 104.4,103.0 105.2,101.7 106.0,100.5 106.8,99.3 107.6,98.2 108.4,97.2 109.2,96.2 110.0,95.3 110.8,94.5 111.6,93.6 112.4,92.9 113.2,92.1 114.0,91.4 114.8,90.7 115.6,90.1 116.4,89.5 117.2,88.9 118.0,88.3 118.8,87.8 119.6,87.3 120.4,86.8 121.2,86.3 122.0,85.8 122.8,85.4 123.6,84.9 124.4,84.5 125.2,84.1 126.0,83.7 126.8,83.4 127.6,83.0 128.4,82.7 129.2,82.3 130.0,82.0 130.8,81.7 131.6,81.4 132.4,81.1 133.2,80.8 134.0,80.5 134.8,80.2 135.6,80.0 136.4,79.7 137.2,79.5 138.0,79.2 138.8,79.0 139.6,78.8 140.4,78.6 141.2,78.3 142.0,78.1"/>
+<text x="87" y="16" text-anchor="start" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">V</text>
+<text x="74" y="112" text-anchor="end" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">−V</text>
+<text x="14" y="56" text-anchor="start" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">−r</text>
+<text x="146" y="56" text-anchor="end" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">r</text>
+<text x="70" y="76" text-anchor="middle" font-family="Times New Roman, serif" font-style="italic" font-size="15" fill="#111" stroke="none">O</text>
+</g></svg>

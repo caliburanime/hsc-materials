@@ -1,0 +1,1575 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 3,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch3-mcq-001",
+      "text": "\\(x^2 + 1 = 0\\) এর একটি মূল α হলে \\(|\\alpha|\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(x^2+1=0 \\Rightarrow x=\\pm i\\)\n\\(|\\alpha|=|\\pm i|=\\sqrt{0^2+1^2}=1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-002",
+      "text": "\\(z = 3 - 4i\\) এবং \\(\\sqrt{z} = x + iy\\) হলে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 - y^2 = 5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 = 5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 = 3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 - y^2 = 4\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sqrt{z}=x+iy\\) হলে \\(z=(x+iy)^2\\), তাই \\(|z|=|x+iy|^2=x^2+y^2\\)\n\\(|z|=\\sqrt{3^2+(-4)^2}=5\\)\nঅতএব \\(x^2+y^2=5\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-003",
+      "text": "যদি \\(z = x + iy,\\ z_1 = x_1 + iy_1,\\ z_2 = x_2 + iy_2\\) তিনটি জটিল সংখ্যা হয়, তবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Re}(z) \\le |z|\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\arg(z_1z_2) \\le \\arg z_1 + \\arg z_2\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(|z_1 - z_2| \\ge |z_1| - |z_2|\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(\\mathrm{Re}(z)=x\\le\\sqrt{x^2+y^2}=|z|\\)।\n(ii) মিথ্যা: \\(\\arg(z_1z_2)=\\arg z_1+\\arg z_2\\) (২π-এর গুণিতক পর্যন্ত), মুখ্য মানে \\(\\le\\) সর্বদা সত্য নয়।\n(iii) সত্য: ত্রিভুজ অসমতা অনুযায়ী \\(|z_1-z_2|\\ge\\big||z_1|-|z_2|\\big|\\ge|z_1|-|z_2|\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-004",
+      "text": "\\((p + \\bar{p})^2 = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(p = \\dfrac{1}{2}\\left(-1 + \\sqrt{-3}\\right)\\) একটি জটিল সংখ্যা।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-BB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(p\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\bar{p}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(p=\\omega\\), তাই \\(\\bar p=\\omega^2\\)\n\\(p+\\bar p=\\omega+\\omega^2=-1\\)\n\\((p+\\bar p)^2=(-1)^2=1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-005",
+      "text": "\\(\\sqrt{p^2 + \\bar{p}^2} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(p = \\dfrac{1}{2}\\left(-1 + \\sqrt{-3}\\right)\\) একটি জটিল সংখ্যা।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-BB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(i\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-i\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(p=\\omega\\) ধরে, \\(p^2+\\bar p^2=\\omega^2+\\omega^4=\\omega^2+\\omega=-1\\)\n\\(\\sqrt{-1}=i\\) (মুখ্য মান)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-006",
+      "text": "\\(i^{4n+4}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(i\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-i\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(i^{4n+4}=(i^4)^{n+1}=1^{n+1}=1\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-007",
+      "text": "\\(z = 2x + i3y\\) হলে \\(|z| = 1\\) কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধিবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(z=2x+3yi\\) হলে \\(|z|=1\\Rightarrow 4x^2+9y^2=1\\)\nএটি \\(\\dfrac{x^2}{1/4}+\\dfrac{y^2}{1/9}=1\\) আকারের উপবৃত্ত।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-008",
+      "text": "\\(z = -i + 1\\)—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "z এর মডুলাস \\(\\sqrt{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "z এর আর্গুমেন্ট \\(-\\dfrac{\\pi}{4}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(z\\bar{z} = z + \\bar{z}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(z=1-i\\)\n(i) সত্য: \\(|z|=\\sqrt{1+1}=\\sqrt2\\)।\n(ii) সত্য: \\(\\arg z=\\tan^{-1}(-1)=-\\dfrac{\\pi}{4}\\) (চতুর্থ চতুর্ভাগ)।\n(iii) সত্য: \\(z\\bar z=2\\) এবং \\(z+\\bar z=2\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-009",
+      "text": "\\(\\dfrac{-1 - \\sqrt{-3}}{2}\\) এর মুখ্য আর্গুমেন্ট কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সংখ্যাটি \\(-\\dfrac12-\\dfrac{\\sqrt3}{2}i\\), যা তৃতীয় চতুর্ভাগে অবস্থিত।\nকোণ \\(=\\tan^{-1}\\sqrt3=\\dfrac{\\pi}{3}\\)\nমুখ্য আর্গুমেন্ট \\(=-(\\pi-\\dfrac{\\pi}{3})=-\\dfrac{2\\pi}{3}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-010",
+      "text": "\\(\\dfrac{1}{i}\\) এর বর্গমূল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pm\\dfrac{1}{\\sqrt{2}}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pm\\dfrac{1}{\\sqrt{2}}(1 - i)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pm(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pm(1 - i)\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac1i=-i\\)\n\\(\\left(\\dfrac{1-i}{\\sqrt2}\\right)^2=\\dfrac{1-2i-1}{2}=-i\\)\nঅতএব বর্গমূল \\(\\pm\\dfrac{1}{\\sqrt2}(1-i)\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-011",
+      "text": "\\(i^5 + i^6 + i^7 + i^8 + i^9\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-i\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(i\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(i^5=i,\\ i^6=-1,\\ i^7=-i,\\ i^8=1,\\ i^9=i\\)\nযোগফল \\(=i-1-i+1+i=i\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-012",
+      "text": "\\(z = 2 - 2i\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Re}(z) + \\mathrm{Im}(z) = 0\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(z\\bar{z} = 8\\)"
+        },
+        {
+          "label": "iii",
+          "text": "z এর পোলার আকার \\(2\\sqrt{2}\\left(\\cos\\dfrac{\\pi}{4} - i\\sin\\dfrac{\\pi}{4}\\right)\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(z=2-2i\\)\n(i) সত্য: \\(2+(-2)=0\\)।\n(ii) সত্য: \\(z\\bar z=4+4=8\\)।\n(iii) সত্য: \\(r=2\\sqrt2\\), \\(\\theta=-\\dfrac{\\pi}{4}\\), তাই \\(z=2\\sqrt2\\left(\\cos\\dfrac{\\pi}{4}-i\\sin\\dfrac{\\pi}{4}\\right)\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-013",
+      "text": "\\(z = \\dfrac{2 - 3i}{2 + i}\\) হলে \\(\\mathrm{Re}(z) = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{8}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{8}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(z=\\dfrac{(2-3i)(2-i)}{(2+i)(2-i)}=\\dfrac{4-2i-6i+3i^2}{5}=\\dfrac{1-8i}{5}\\)\nঅতএব \\(\\mathrm{Re}(z)=\\dfrac15\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-014",
+      "text": "\\(\\sqrt{-6i}\\) এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pm\\sqrt{3}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pm\\dfrac{\\sqrt{3}}{2}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pm\\sqrt{3}(1 - i)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}(1 - i)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\sqrt{-6i}=x+iy\\) ধরলে \\(x^2-y^2=0,\\ 2xy=-6\\)\n\\(y=-x\\) হলে \\(-2x^2=-6\\Rightarrow x=\\pm\\sqrt3\\)\nঅতএব \\(\\pm\\sqrt3(1-i)\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-015",
+      "text": "\\(z = (1 - i)^3\\) হলে \\(\\arg(z)\\) হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{3\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\arg(1-i)=-\\dfrac{\\pi}{4}\\)\n\\(\\arg(1-i)^3=3\\times\\left(-\\dfrac{\\pi}{4}\\right)=-\\dfrac{3\\pi}{4}\\), যা মুখ্য আর্গুমেন্টের সীমায় আছে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-016",
+      "text": "\\(n \\in \\mathbb{Z}\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(i^{4n} = 1\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\((i)^{2n+1} = -1\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\((i)^{8n+4} = 1\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(i^{4n}=(i^4)^n=1\\)।\n(ii) মিথ্যা: \\(i^{2n+1}=i\\cdot(-1)^n\\), যা \\(\\pm i\\); \\(-1\\) নয়।\n(iii) সত্য: \\(i^{8n+4}=(i^4)^{2n+1}=1\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-017",
+      "text": "\\(A + iB = \\dfrac{2 - i3}{5 - i4}\\) হলে, B এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{7}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{7}{41}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{22}{41}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{2-3i}{5-4i}=\\dfrac{(2-3i)(5+4i)}{41}=\\dfrac{10+8i-15i+12}{41}=\\dfrac{22-7i}{41}\\)\nঅতএব \\(B=-\\dfrac{7}{41}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-018",
+      "text": "\\(Z = x + iy\\) হলে, \\(|Z - 7| = 9\\) নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অধিবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(|Z-7|=9\\Rightarrow (x-7)^2+y^2=81\\)\nএটি কেন্দ্র \\((7,0)\\), ব্যাসার্ধ 9 এর বৃত্ত।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-019",
+      "text": "\\(-i\\sqrt{3}\\) এর আর্গুমেন্ট কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\dfrac{\\pi}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(-i\\sqrt3\\) বিন্দুটি ঋণাত্মক কাল্পনিক অক্ষের উপর \\((0,-\\sqrt3)\\)।\nঅতএব আর্গুমেন্ট \\(=-\\dfrac{\\pi}{2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-020",
+      "text": "ω এককের কাল্পনিক ঘনমূল হলে, \\((\\omega^5 + \\omega^6 + \\omega^7 + \\omega^8)(\\omega^{-1} + \\omega^{-3} + \\omega^{-5} + \\omega^{-7})\\) এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\omega^5+\\omega^6+\\omega^7+\\omega^8=\\omega^2+1+\\omega+\\omega^2=\\omega^2\\)\n\\(\\omega^{-1}+\\omega^{-3}+\\omega^{-5}+\\omega^{-7}=\\omega^2+1+\\omega+\\omega^2=\\omega^2\\)\nগুণফল \\(=\\omega^2\\cdot\\omega^2=\\omega^4=\\omega\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-021",
+      "text": "\\(\\sqrt[3]{2^3}\\) এর মূলত্রয়ের যোগফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\omega^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "8 এর ঘনমূল তিনটি: \\(2,\\ 2\\omega,\\ 2\\omega^2\\)\nযোগফল \\(=2(1+\\omega+\\omega^2)=0\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-022",
+      "text": "\\(z = x + iy\\) হলে \\(|z + 1| = |z - 2|\\) দ্বারা নির্দেশিত সঞ্চারপথ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরলরেখা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরাবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\((x+1)^2+y^2=(x-2)^2+y^2\\)\n\\(2x+1=-4x+4\\Rightarrow 6x=3\\)\nএটি \\(x=\\dfrac12\\), অর্থাৎ সরলরেখা (বিন্দু \\(-1\\) ও \\(2\\) এর সংযোজক রেখার লম্ব-সমদ্বিখণ্ডক)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-023",
+      "text": "\\(z = i - 1\\) এর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মডুলাস \\(= \\sqrt{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "আর্গুমেন্ট \\(= \\dfrac{\\pi}{4}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(z\\bar{z}\\) একটি বাস্তব সংখ্যা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(z=-1+i\\)\n(i) সত্য: \\(|z|=\\sqrt2\\)।\n(ii) মিথ্যা: সংখ্যাটি দ্বিতীয় চতুর্ভাগে, তাই \\(\\arg z=\\pi-\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{4}\\)।\n(iii) সত্য: \\(z\\bar z=|z|^2=2\\), বাস্তব।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-024",
+      "text": "\\(z = x + iy\\) হলে \\(\\sqrt{z - \\bar{z}}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{y}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{y}(1 - i)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{x}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{x}(1 - i)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(z-\\bar z=2iy\\)\n\\((1+i)^2=2i\\) বলে \\(\\sqrt{2iy}=\\sqrt y\\,(1+i)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-025",
+      "text": "এককের জটিল ঘনমূলদ্বয় p ও q হলে \\(p^5 + q^5 = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(p=\\omega,\\ q=\\omega^2\\)\n\\(p^5+q^5=\\omega^5+\\omega^{10}=\\omega^2+\\omega=-1\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-026",
+      "text": "\\(-2 + i\\sqrt{5}\\) এর মডুলাস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(|-2+i\\sqrt5|=\\sqrt{(-2)^2+(\\sqrt5)^2}=\\sqrt9=3\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-027",
+      "text": "\\(z = 2 + 3i\\) একটি জটিল সংখ্যা হলে \\(z - \\bar{z}\\) এর মুখ্য আর্গুমেন্ট কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(z-\\bar z=(2+3i)-(2-3i)=6i\\)\nএটি ধনাত্মক কাল্পনিক অক্ষের উপর, তাই মুখ্য আর্গুমেন্ট \\(\\dfrac{\\pi}{2}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-028",
+      "text": "z এর অনুবন্ধি জটিল সংখ্যা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি জটিল সংখ্যা \\(z = \\dfrac{1}{2 + i}\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-MB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2 - i}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2 + i}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2 + i}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2 - i}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(z=\\dfrac{1}{2+i}=\\dfrac{2-i}{5}\\)\nঅনুবন্ধি \\(\\bar z=\\dfrac{2+i}{5}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-029",
+      "text": "জটিল সংখ্যাটি কার্তেসীয় সমতলে যে বিন্দু নির্দেশ করে, তার স্থানাংক—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি জটিল সংখ্যা \\(z = \\dfrac{1}{2 + i}\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2023-MB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(-\\dfrac{1}{5}, \\dfrac{2}{5}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(\\dfrac{1}{5}, \\dfrac{2}{5}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\dfrac{2}{5}, -\\dfrac{1}{5}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(\\dfrac{2}{5}, \\dfrac{1}{5}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(z=\\dfrac{2-i}{5}=\\dfrac25-\\dfrac15 i\\)\nঅতএব বিন্দুটির স্থানাংক \\(\\left(\\dfrac25,-\\dfrac15\\right)\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-030",
+      "text": "z একটি জটিল সংখ্যা হলে,",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\dfrac{|\\bar{z}|}{|z|} = 1\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(z \\cdot \\bar{z} = |z|^2\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\arg\\left(\\dfrac{z}{\\bar{z}}\\right) = \\arg(z) + \\arg(\\bar{z})\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: \\(|\\bar z|=|z|\\)।\n(ii) সত্য: \\(z\\bar z=x^2+y^2=|z|^2\\)।\n(iii) মিথ্যা: \\(\\arg\\dfrac{z}{\\bar z}=\\arg z-\\arg\\bar z\\) হওয়ার কথা, যোগ নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-031",
+      "text": "\\(z = \\dfrac{1}{2}(-1 - i\\sqrt{7})\\) হলে \\(z - \\bar{z}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-i\\sqrt{7}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(i\\sqrt{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(z-\\bar z=2i\\,\\mathrm{Im}(z)=2i\\left(-\\dfrac{\\sqrt7}{2}\\right)=-i\\sqrt7\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-032",
+      "text": "\\(\\dfrac{1 + i}{i} = p + iq\\) হলে q এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-i\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(i\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1+i}{i}=\\dfrac{(1+i)(-i)}{1}=-i-i^2=1-i\\)\nঅতএব \\(p=1,\\ q=-1\\), যা (খ)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "(1 + i)/i = (1 + i)(−i) = 1 − i, so q = −1 (option খ). Printed key ঘ. | উত্তর যাচাই: \\(\\dfrac{1+i}{i}=1-i\\) হওয়ায় \\(q=-1\\); সঠিক উত্তর (খ), (ঘ) নয়।"
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-033",
+      "text": "i এর বর্গমূল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\pm\\dfrac{1}{2}(1 + i)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\pm\\dfrac{1}{2}(1 - i)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pm\\dfrac{1}{\\sqrt{2}}(1 - i)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pm\\dfrac{1}{\\sqrt{2}}(1 + i)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\left(\\dfrac{1+i}{\\sqrt2}\\right)^2=\\dfrac{1+2i-1}{2}=i\\)\nঅতএব \\(\\sqrt i=\\pm\\dfrac{1}{\\sqrt2}(1+i)\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-034",
+      "text": "\\(z = -1 - i\\) জটিল সংখ্যাটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আর্গুমেন্ট \\(-\\dfrac{3\\pi}{4}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "বাস্তব অংশ \\(-1\\)"
+        },
+        {
+          "label": "iii",
+          "text": "অনুবন্ধি জটিল সংখ্যা \\(1 - i\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(z=-1-i\\)\n(i) সত্য: তৃতীয় চতুর্ভাগে, \\(\\arg z=-\\left(\\pi-\\dfrac{\\pi}{4}\\right)=-\\dfrac{3\\pi}{4}\\)।\n(ii) সত্য: বাস্তব অংশ \\(-1\\)।\n(iii) মিথ্যা: অনুবন্ধি \\(-1+i\\), \\(1-i\\) নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-035",
+      "text": "\\(\\dfrac{i^{-5}}{1 + i^9}\\) এর বাস্তব ও কাল্পনিক অংশের সমষ্টি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(i^{-5}=\\dfrac1{i^5}=\\dfrac1i=-i,\\ \\ 1+i^9=1+i\\)\n\\(\\dfrac{-i}{1+i}=\\dfrac{-i(1-i)}{2}=\\dfrac{-i-1}{2}=-\\dfrac12-\\dfrac12 i\\)\nবাস্তব ও কাল্পনিক অংশের সমষ্টি \\(=-\\dfrac12-\\dfrac12=-1\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-036",
+      "text": "\\(p = x + iy\\) হলে \\(|p - 2| = 3\\) সমীকরণটি নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরলরেখা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিন্দুবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপবৃত্ত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|p-2|=3\\Rightarrow (x-2)^2+y^2=9\\)\nএটি কেন্দ্র \\((2,0)\\), ব্যাসার্ধ 3 এর বৃত্ত।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-037",
+      "text": "এককের জটিল ঘনমূল α, β হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\alpha\\beta = 1\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\alpha^2 = \\beta\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\alpha + \\beta = -1\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\alpha=\\omega,\\ \\beta=\\omega^2\\)\n(i) সত্য: \\(\\alpha\\beta=\\omega^3=1\\)।\n(ii) সত্য: \\(\\alpha^2=\\omega^2=\\beta\\)।\n(iii) সত্য: \\(\\alpha+\\beta=\\omega+\\omega^2=-1\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

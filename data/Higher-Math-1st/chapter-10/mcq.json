@@ -1,0 +1,1492 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 10,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch10-mcq-001",
+      "text": "\\(\\displaystyle\\int_2^3 \\dfrac{\\ln(x-1)}{x-1}\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2(\\ln 2)^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}(\\ln 2)^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(u=\\ln(x-1)\\) ধরলে \\(du=\\dfrac{dx}{x-1}\\); সীমা \\(0\\) থেকে \\(\\ln2\\)\n\\(\\displaystyle\\int_0^{\\ln2}u\\,du = \\dfrac{1}{2}(\\ln2)^2\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-002",
+      "text": "চিত্রে ছায়াঘেরা অংশের ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch10-mcq-002-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y=x\\) ও \\(y=\\sqrt{x}\\) এর ছেদবিন্দু \\(O(0,0)\\) ও \\(B(1,1)\\)। ছায়াঘেরা অংশ ত্রিভুজ OAB, যার ভূমি \\(OA=1\\), উচ্চতা \\(AB=1\\)।\nক্ষেত্রফল \\(=\\dfrac{1}{2}\\times1\\times1 = \\dfrac{1}{2}\\) বর্গ একক।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-003",
+      "text": "\\(f(x) = \\sin 2x\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\displaystyle\\int f(x)\\,dx = -\\dfrac{\\cos 2x}{2} + c\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\displaystyle\\int \\sqrt{1 + f(x)}\\,dx = \\sin x - \\cos x + c\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\displaystyle\\int_0^{\\pi/2} \\sqrt{1 - f(x)}\\,dx = 0\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) \\(\\int\\sin2x\\,dx = -\\dfrac{\\cos2x}{2}+c\\) — সত্য।\n(ii) \\(1+\\sin2x = (\\sin x+\\cos x)^2\\), তাই \\(\\int(\\sin x+\\cos x)dx = \\sin x-\\cos x+c\\) — সত্য।\n(iii) \\(\\sqrt{1-\\sin2x}=|\\sin x-\\cos x|\\); \\(0\\) থেকে \\(\\pi/2\\) পর্যন্ত এটি সর্বত্র অঋণাত্মক ও অশূন্য অংশ আছে, মান \\(2(\\sqrt2-1)\\ne0\\) — মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-004",
+      "text": "\\(\\displaystyle\\int_0^{\\pi/6} \\sin^2 x\\cos x\\,dx = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{5}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{5}{24}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin x=u\\) ধরলে \\(\\cos x\\,dx=du\\)\n\\(\\displaystyle\\int_0^{1/2}u^2du = \\dfrac{1}{3}\\left(\\dfrac{1}{2}\\right)^3 = \\dfrac{1}{24}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-005",
+      "text": "\\(\\displaystyle\\int \\cos^2 3x\\,dx = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}(x + \\sin 6x) + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}(x - \\sin 6x) + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{12}(6x + \\sin 6x) + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{12}(6x - \\sin 6x) + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^23x = \\dfrac{1+\\cos6x}{2}\\)\n\\(\\displaystyle\\int\\dfrac{1+\\cos6x}{2}dx = \\dfrac{x}{2}+\\dfrac{\\sin6x}{12}+c = \\dfrac{1}{12}(6x+\\sin6x)+c\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-006",
+      "text": "\\(\\displaystyle\\int \\dfrac{1}{x^2}\\,dx = \\) কত?, \\(x \\ne 0\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{1}{3x^3} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{3x^3} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{x} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\displaystyle\\int x^{-2}dx = \\dfrac{x^{-1}}{-1}+c = -\\dfrac{1}{x}+c\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-007",
+      "text": "চিত্রে ছায়াঘেরা অংশের ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch10-mcq-007-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{5}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{5}{6}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y=x^2\\) ও \\(y=-x\\) এর ছেদবিন্দু \\(x=0\\) ও \\(x=-1\\)। \\([-1,0]\\) এ রেখা প্যারাবোলার উপরে।\nক্ষেত্রফল \\(=\\displaystyle\\int_{-1}^0(-x-x^2)dx = \\left[-\\dfrac{x^2}{2}-\\dfrac{x^3}{3}\\right]_{-1}^0 = 0-\\left(-\\dfrac{1}{2}+\\dfrac{1}{3}\\right)=\\dfrac{1}{6}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-008",
+      "text": "\\(\\displaystyle\\int_0^1 \\dfrac{x^2}{x^3 + 2}\\,dx = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{3}\\ln\\left(\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\ln\\left(\\dfrac{3}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{3}\\ln\\left(\\dfrac{2}{3}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\ln\\left(\\dfrac{2}{3}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(x^3+2=u\\) ধরলে \\(x^2dx=\\dfrac{du}{3}\\); সীমা \\(2\\) থেকে \\(3\\)\n\\(\\dfrac{1}{3}\\displaystyle\\int_2^3\\dfrac{du}{u} = \\dfrac{1}{3}\\ln\\dfrac{3}{2}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-009",
+      "text": "\\(\\displaystyle\\int_0^1 \\dfrac{1 - x}{1 + x}\\,dx\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\ln 2 + 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\ln 2 - 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\ln 2 + 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\ln 2 - 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1-x}{1+x} = \\dfrac{2}{1+x}-1\\)\n\\(\\displaystyle\\int_0^1\\left(\\dfrac{2}{1+x}-1\\right)dx = \\left[2\\ln(1+x)-x\\right]_0^1 = 2\\ln2-1\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-010",
+      "text": "\\(g(x) = \\sqrt{x}\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\displaystyle\\int \\dfrac{1}{g(x)}\\,dx = 2\\sqrt{x} + c\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\displaystyle\\int_0^1 g(x)\\,dx = \\dfrac{2}{3}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\displaystyle\\int \\dfrac{\\sec^2 x\\,dx}{g(\\tan x)} = 2\\sqrt{\\tan x} + c\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\(\\int x^{-1/2}dx = 2\\sqrt{x}+c\\) — সত্য।\n(ii) \\(\\int_0^1\\sqrt{x}\\,dx = \\left[\\dfrac{2}{3}x^{3/2}\\right]_0^1=\\dfrac{2}{3}\\) — সত্য।\n(iii) \\(\\tan x=u\\) ধরলে \\(\\sec^2x\\,dx=du\\); \\(\\int\\dfrac{du}{\\sqrt{u}}=2\\sqrt{\\tan x}+c\\) — সত্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-011",
+      "text": "\\(\\displaystyle\\int_1^{\\sqrt{e}} \\ln x\\,dx\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-1 - \\dfrac{1}{2}\\sqrt{e}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 - \\dfrac{1}{2}\\sqrt{e}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 + \\dfrac{1}{2}\\sqrt{e}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-1 + \\dfrac{1}{2}\\sqrt{e}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\int\\ln x\\,dx = x\\ln x-x\\)\n\\(\\left[x\\ln x-x\\right]_1^{\\sqrt{e}} = \\left(\\dfrac{\\sqrt{e}}{2}-\\sqrt{e}\\right)-(0-1) = 1-\\dfrac{\\sqrt{e}}{2}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-012",
+      "text": "\\(\\displaystyle\\int x\\sec^2 x\\,dx = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x\\tan x + \\ln|\\sin x| + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x\\tan x - \\ln|\\sin x| + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x\\tan x + \\ln|\\cos x| + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x\\tan x - \\ln|\\cos x| + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "খণ্ডায়ন: \\(\\int x\\sec^2x\\,dx = x\\tan x-\\int\\tan x\\,dx\\)\n\\(= x\\tan x+\\ln|\\cos x|+c\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-013",
+      "text": "\\(f(x) = \\ln(2x)\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(f'(x) = \\dfrac{1}{x}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\displaystyle\\int f(x)\\,dx = x(\\ln|2x| - 1) + c\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\displaystyle\\int_1^{\\frac{1}{2}} f(x)\\,dx = \\dfrac{1}{2} - \\ln 2\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\(f'(x)=\\dfrac{1}{2x}\\cdot2=\\dfrac{1}{x}\\) — সত্য।\n(ii) \\(\\int\\ln2x\\,dx = x\\ln2x-\\int dx = x(\\ln|2x|-1)+c\\) — সত্য।\n(iii) \\(\\left[x(\\ln2x-1)\\right]_1^{1/2} = \\dfrac{1}{2}(0-1)-(\\ln2-1) = \\dfrac{1}{2}-\\ln2\\) — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-014",
+      "text": "\\(\\displaystyle\\int_0^{\\pi/2} \\sqrt{1 + \\sin 2x}\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(0\\le x\\le\\dfrac{\\pi}{2}\\) এ \\(\\sqrt{1+\\sin2x}=\\sin x+\\cos x\\)\n\\(\\displaystyle\\int_0^{\\pi/2}(\\sin x+\\cos x)dx = \\left[-\\cos x+\\sin x\\right]_0^{\\pi/2} = 1-(-1) = 2\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-015",
+      "text": "যদি \\(\\displaystyle\\int P^x\\,dx = F(x) + C\\) হয়, তবে \\(F(x)\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{P^x}{\\log_e P}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(P^x \\log_e P\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(xP^{x-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{P^{x+1}}{x+1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সূত্র: \\(\\int a^xdx=\\dfrac{a^x}{\\ln a}+C\\); তাই \\(F(x)=\\dfrac{P^x}{\\log_eP}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-016",
+      "text": "যদি \\(\\displaystyle\\int \\operatorname{cosec}^2(5 - 8x)\\,dx = a\\cot(5 - 8x) + c\\) হয়, তবে \\(a\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-8\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(8\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\int\\operatorname{cosec}^2(5-8x)dx = \\dfrac{-\\cot(5-8x)}{-8}+c = \\dfrac{1}{8}\\cot(5-8x)+c\\)\nসুতরাং \\(a=\\dfrac{1}{8}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-017",
+      "text": "\\(\\displaystyle\\int \\dfrac{x\\,dx}{\\sqrt{1 - x^2}} = f(x) + c\\) হলে \\(f(x) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin^{-1}x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\cos^{-1}x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\ln\\left(\\sqrt{1 - x^2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\sqrt{1 - x^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(1-x^2=u\\) ধরলে \\(-2x\\,dx=du\\)\n\\(-\\dfrac{1}{2}\\int u^{-1/2}du = -\\sqrt{u} = -\\sqrt{1-x^2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-018",
+      "text": "\\(\\displaystyle\\int \\dfrac{1 + \\tan^2 x}{(1 - \\tan x)^2}\\,dx\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-1}{1 + \\tan x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{-1}{1 - \\tan x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{1 - \\tan x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{1 + \\tan x} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(1+\\tan^2x=\\sec^2x\\); \\(1-\\tan x=u\\) ধরলে \\(-\\sec^2x\\,dx=du\\)\n\\(-\\int\\dfrac{du}{u^2}=\\dfrac{1}{u}+c = \\dfrac{1}{1-\\tan x}+c\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-019",
+      "text": "\\(\\displaystyle\\int_0^2 \\dfrac{dx}{\\sqrt{4x - x^2}} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(4x-x^2 = 4-(x-2)^2\\)\n\\(\\displaystyle\\int_0^2\\dfrac{dx}{\\sqrt{4-(x-2)^2}} = \\left[\\sin^{-1}\\dfrac{x-2}{2}\\right]_0^2 = 0-\\left(-\\dfrac{\\pi}{2}\\right) = \\dfrac{\\pi}{2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-020",
+      "text": "উপরোক্ত চিত্রের ছায়াঘেরা অংশের ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch10-mcq-020-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{16}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{4}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{8}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{32}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ছেদবিন্দু \\(O(0,0)\\) ও \\(A(4,4)\\); \\([0,4]\\) এ পরাবৃত্ত \\(y=2\\sqrt{x}\\) রেখা \\(y=x\\) এর উপরে।\nক্ষেত্রফল \\(=\\displaystyle\\int_0^4(2\\sqrt{x}-x)dx = \\left[\\dfrac{4}{3}x^{3/2}-\\dfrac{x^2}{2}\\right]_0^4 = \\dfrac{32}{3}-8=\\dfrac{8}{3}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-021",
+      "text": "\\(\\displaystyle\\int e^{-10x}\\,dx = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(e^{-10x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-10e^{-10x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-\\dfrac{e^{-10x}}{10} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-e^{-10x} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\int e^{ax}dx=\\dfrac{e^{ax}}{a}+c\\); এখানে \\(a=-10\\), তাই ফল \\(-\\dfrac{e^{-10x}}{10}+c\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-022",
+      "text": "\\(\\displaystyle\\int_0^1 \\dfrac{4\\,dx}{1 + x^2} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4\\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(4\\left[\\tan^{-1}x\\right]_0^1 = 4\\cdot\\dfrac{\\pi}{4} = \\pi\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-023",
+      "text": "\\(5x^2 + 20y^2 = 100\\) উপবৃত্ত দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গ একক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(100\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(100\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমীকরণকে লিখি \\(\\dfrac{x^2}{20}+\\dfrac{y^2}{5}=1\\); অর্ধ-অক্ষ \\(a=\\sqrt{20},\\ b=\\sqrt{5}\\)\nক্ষেত্রফল \\(=\\pi ab = \\pi\\sqrt{100} = 10\\pi\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-024",
+      "text": "\\(\\displaystyle\\int \\dfrac{\\cos x}{\\sin x}\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin x + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\cos x + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\ln\\sin x + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\ln\\cos x + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin x=u\\) ধরলে \\(\\cos x\\,dx=du\\); \\(\\int\\dfrac{du}{u}=\\ln u\\)\nসুতরাং ফল \\(\\ln\\sin x+c\\) (NCTB উত্তর অনুযায়ী)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-025",
+      "text": "\\(\\displaystyle\\int \\dfrac{1}{9 + x^2}\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{3}\\tan^{-1}\\dfrac{x}{3} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{3}\\tan\\dfrac{x}{3} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{3}\\tan^{-1}\\dfrac{3}{x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan^{-1}\\dfrac{x}{3} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\int\\dfrac{dx}{a^2+x^2}=\\dfrac{1}{a}\\tan^{-1}\\dfrac{x}{a}+c\\); এখানে \\(a=3\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-026",
+      "text": "\\(\\displaystyle\\int_0^{\\pi/4} \\cos^2 2x\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\pi}{8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^22x=\\dfrac{1+\\cos4x}{2}\\)\n\\(\\left[\\dfrac{x}{2}+\\dfrac{\\sin4x}{8}\\right]_0^{\\pi/4} = \\dfrac{\\pi}{8}+0 = \\dfrac{\\pi}{8}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-027",
+      "text": "\\(\\displaystyle\\int_{-1}^{1} x^2\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\left[\\dfrac{x^3}{3}\\right]_{-1}^{1} = \\dfrac{1}{3}+\\dfrac{1}{3} = \\dfrac{2}{3}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-028",
+      "text": "\\(\\displaystyle\\int_1^e \\dfrac{1}{x}\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(e\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\left[\\ln x\\right]_1^e = \\ln e-\\ln1 = 1-0 = 1\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-029",
+      "text": "\\(\\displaystyle\\int_0^1 \\dfrac{e^x}{e^x + 1}\\,dx\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\ln e\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\ln(e + 1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\ln(e + 1) - \\ln 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(e^x+1=u\\) ধরলে \\(e^xdx=du\\); সীমা \\(2\\) থেকে \\(e+1\\)\n\\(\\left[\\ln u\\right]_2^{e+1} = \\ln(e+1)-\\ln2\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-030",
+      "text": "\\(\\displaystyle\\int \\dfrac{1}{\\sqrt{5 - x^2}}\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin^{-1}\\dfrac{x}{\\sqrt{5}} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{5}}\\sin^{-1}\\dfrac{x}{\\sqrt{5}} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan^{-1}\\dfrac{x}{\\sqrt{5}} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{\\sqrt{5}}\\tan^{-1}\\dfrac{x}{\\sqrt{5}} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\int\\dfrac{dx}{\\sqrt{a^2-x^2}}=\\sin^{-1}\\dfrac{x}{a}+c\\); এখানে \\(a=\\sqrt{5}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-031",
+      "text": "\\(\\displaystyle\\int e^{-5x}\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{e^{-5x}}{5} + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{e^{-5x}}{5} + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5e^{-5x} + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-5e^{-5x} + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\int e^{ax}dx=\\dfrac{e^{ax}}{a}+c\\); এখানে \\(a=-5\\), তাই ফল \\(-\\dfrac{e^{-5x}}{5}+c\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-032",
+      "text": "\\(\\displaystyle\\int_1^2 e^{2x+5}\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}(e^7 - e^9)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2(e^9 - e^7)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}(e^9 - e^7)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2(e^9 + e^7)\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\left[\\dfrac{e^{2x+5}}{2}\\right]_1^2 = \\dfrac{1}{2}(e^9-e^7)\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-033",
+      "text": "\\(\\displaystyle\\int_0^{\\pi/2} \\cos x\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\infty\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\left[\\sin x\\right]_0^{\\pi/2} = 1-0 = 1\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-034",
+      "text": "\\(y = 5x\\), x-অক্ষ এবং \\(x = 4\\) সরলরেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গএকক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(20\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(40\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(80\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্ষেত্রফল \\(=\\displaystyle\\int_0^4 5x\\,dx = \\left[\\dfrac{5x^2}{2}\\right]_0^4 = 40\\) বর্গ একক।\n(ত্রিভুজ: ভূমি 4, উচ্চতা 20 হলে \\(\\dfrac{1}{2}\\times4\\times20=40\\))",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-035",
+      "text": "\\(\\displaystyle\\int_0^1 \\dfrac{x}{1 + x}\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 - \\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\ln 2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\ln 2 - 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\ln 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x}{1+x}=1-\\dfrac{1}{1+x}\\)\n\\(\\left[x-\\ln(1+x)\\right]_0^1 = 1-\\ln2\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-036",
+      "text": "\\(\\displaystyle\\int e^x\\left(\\sin 3x + \\dfrac{3}{\\sec 3x}\\right)dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3e^x\\sin 3x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^x\\sin 3x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3e^x\\cos 3x\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(e^x\\cos 3x\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{3}{\\sec3x}=3\\cos3x\\); \\(f=\\sin3x\\) ধরলে \\(f'=3\\cos3x\\)\n\\(\\int e^x(f+f')dx = e^xf+c = e^x\\sin3x+c\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-037",
+      "text": "\\(\\displaystyle\\int e^x(x + 1)\\,dx = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x + e^x + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^x + x + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(e^x x^2 + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(xe^x + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(f=x\\) ধরলে \\(f'=1\\); \\(\\int e^x(f+f')dx=e^xf+c = xe^x+c\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

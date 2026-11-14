@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="420" height="300" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<g transform="translate(8,4) scale(.55)" stroke-width="2.7"><path d="M105,45 L105,230"/><path d="M105,275 L105,455"/>
+<path d="M280,10 L280,122"/><path d="M280,148 L280,285"/><path d="M280,312 L280,518"/>
+<path d="M683,5 L683,520"/>
+<text x="75" y="275" text-anchor="middle" font-size="26" fill="#111" stroke="none">S</text>
+<text x="245" y="150" text-anchor="middle" font-size="26" fill="#111" stroke="none">S<tspan font-size="18" dy="8">1</tspan></text>
+<text x="245" y="313" text-anchor="middle" font-size="26" fill="#111" stroke="none">S<tspan font-size="18" dy="8">2</tspan></text>
+<path d="M320,200 L320,153" marker-end="url(#ah)"/><path d="M320,250 L320,298" marker-end="url(#ah)"/>
+<text x="322" y="242" text-anchor="middle" font-size="26" fill="#111" stroke="none">2mm</text>
+<text x="716" y="32" text-anchor="middle" font-size="26" fill="#111" stroke="none">X</text><text x="716" y="500" text-anchor="middle" font-size="26" fill="#111" stroke="none">Y</text>
+<path d="M300,480 L666,480" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="480" y="513" text-anchor="middle" font-size="26" fill="#111" stroke="none">1m</text></g>
+</g></svg>

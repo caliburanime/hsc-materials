@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 185" width="440" height="185">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="440" height="185" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M40,128 L40,128"/><path d="M29,128 L51,128"/><path d="M33,133 L47,133"/><path d="M37.4,138 L42.6,138"/>
+<path d="M40,128 L40,95"/>
+<path d="M40,106 l-3,-6 m3,6 l3,-6" />
+<path d="M40,95 L62,95"/>
+<path d="M62,95 L65,90 L71,100 L77,90 L83,100 L89,90 L95,100 L98,95"/>
+<path d="M98,95 L135,95"/>
+<path d="M134,95 L112,95" marker-end="url(#ah)"/>
+<path d="M135,55 L135,135"/>
+<path d="M305,55 L305,135"/>
+<path d="M135,55 L190,55"/>
+<path d="M190,55 L194.2,50 L202.5,60 L210.8,50 L219.2,60 L227.5,50 L235.8,60 L240,55"/>
+<path d="M240,55 L305,55"/>
+<path d="M300,55 L278,55" marker-end="url(#ah)"/>
+<path d="M135,135 L190,135"/>
+<path d="M190,135 L194.2,130 L202.5,140 L210.8,130 L219.2,140 L227.5,130 L235.8,140 L240,135"/>
+<path d="M240,135 L305,135"/>
+<path d="M300,135 L278,135" marker-end="url(#ah)"/>
+<path d="M305,95 L335,95"/>
+<path d="M335,95 L338.8,90 L346.2,100 L353.8,90 L361.2,100 L368.8,90 L376.2,100 L380,95"/>
+<path d="M380,95 L405,95"/>
+<path d="M405,95 L405,126"/>
+<path d="M405,114 L405,104" marker-end="url(#ah)"/>
+<path d="M390,126 L420,126"/>
+<path d="M397,136 L413,136"/>
+<path d="M405,136 L405,158"/>
+<path d="M405,158 L405,158"/><path d="M394,158 L416,158"/><path d="M398,163 L412,163"/><path d="M402.4,168 L407.6,168"/>
+<text x="215" y="41" text-anchor="middle" font-size="13" fill="#111" stroke="none">5Ω</text>
+<text x="215" y="160" text-anchor="middle" font-size="13" fill="#111" stroke="none">10Ω</text>
+<text x="215" y="100" text-anchor="middle" font-size="13" fill="#111" stroke="none">1A</text>
+<text x="80" y="80" text-anchor="middle" font-size="13" fill="#111" stroke="none">15Ω</text>
+<text x="358" y="80" text-anchor="middle" font-size="13" fill="#111" stroke="none">1Ω</text>
+</g></svg>

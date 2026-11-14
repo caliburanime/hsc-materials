@@ -1,0 +1,1772 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch1-mcq-001",
+      "text": "\\(A = \\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}\\) এবং \\(B = \\begin{bmatrix} a & b \\end{bmatrix}\\) হলে \\(BA = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} -b & a \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{bmatrix} -b \\\\ a \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} b & -a \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} b \\\\ -a \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(BA = \\begin{bmatrix} a & b \\end{bmatrix}\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix} = \\begin{bmatrix} a\\cdot0+b\\cdot1 & a\\cdot(-1)+b\\cdot0 \\end{bmatrix} = \\begin{bmatrix} b & -a \\end{bmatrix}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-002",
+      "text": "A ও B ম্যাট্রিক্সের ক্রম যথাক্রমে \\(5 \\times 3\\) ও \\(3 \\times 4\\) হলে AB ম্যাট্রিক্সের ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4 \\times 5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5 \\times 4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3 \\times 3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(4 \\times 3\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A\\) এর ক্রম \\(5\\times3\\) এবং \\(B\\) এর ক্রম \\(3\\times4\\); A এর কলাম সংখ্যা = B এর সারি সংখ্যা (3), তাই গুণ সম্ভব। গুণফল \\(AB\\) এর ক্রম = A এর সারি \\(\\times\\) B এর কলাম = \\(5\\times4\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-003",
+      "text": "A একটি \\(3 \\times 3\\) ক্রমের ম্যাট্রিক্স এবং \\(|A| = 1\\) হলে \\(|(3A)^{-1}|\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{27}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(27\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|3A| = 3^3|A| = 27\\)\n\\(|(3A)^{-1}| = \\dfrac{1}{|3A|} = \\dfrac{1}{27}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-004",
+      "text": "\\(A^{-1} = \\begin{bmatrix} 1 & 2 \\\\ 1 & 3 \\end{bmatrix}\\) হলে, \\(A = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} 3 & 1 \\\\ 2 & 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{bmatrix} 3 & -2 \\\\ -1 & 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} -1 & 1 \\\\ 2 & -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} 1 & 2 \\\\ 1 & -3 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(A = (A^{-1})^{-1}\\); \\(|A^{-1}| = 3-2 = 1\\)\n\\(A = \\dfrac{1}{1}\\begin{bmatrix} 3 & -2 \\\\ -1 & 1 \\end{bmatrix}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-005",
+      "text": "\\(A = \\begin{bmatrix} p-3 & -1 \\\\ -8 & p+4 \\end{bmatrix}\\) একটি ম্যাট্রিক্স হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(p = 4\\) এর জন্য \\(A^{-1}\\) নির্ণয় করা যায় না"
+        },
+        {
+          "label": "ii",
+          "text": "\\(p = -5\\) এর জন্য A একটি ব্যতিক্রমী ম্যাট্রিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "\\(|A|\\) এর \\((2, 1)\\) তম ভুক্তির অনুরাশি 1"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = (p-3)(p+4)-8 = p^2+p-20 = (p+5)(p-4)\\)\n(i) \\(p=4\\) হলে \\(|A|=0\\), তাই \\(A^{-1}\\) নেই — সত্য।\n(ii) \\(p=-5\\) হলে \\(|A|=0\\), তাই A ব্যতিক্রমী — সত্য।\n(iii) \\((2,1)\\) তম ভুক্তির অনুরাশি = ২য় সারি ও ১ম কলাম বাদ দিয়ে প্রাপ্ত নির্ণায়ক = \\(-1\\), 1 নয় — মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-006",
+      "text": "P এর মান কত হলে \\(\\begin{bmatrix} P+1 & 6 \\\\ 4 & -8 \\end{bmatrix}\\) ম্যাট্রিক্সটি ব্যতিক্রমী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-4\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্যতিক্রমী হতে হলে নির্ণায়ক শূন্য হবে।\n\\((P+1)(-8)-6\\cdot4 = 0\\)\n\\(-8P-8-24=0 \\Rightarrow P=-4\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-007",
+      "text": "\\(\\begin{bmatrix} 7 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -5 \\end{bmatrix}\\) ম্যাট্রিক্সটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্ণ ম্যাট্রিক্স"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিসম ম্যাট্রিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "ত্রিভুজাকার ম্যাট্রিক্স"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) প্রধান কর্ণের বাইরের সব ভুক্তি শূন্য, তাই কর্ণ ম্যাট্রিক্স।\n(ii) \\(a_{ij}=a_{ji}\\) (সব অ-কর্ণ ভুক্তি 0), তাই প্রতিসম।\n(iii) কর্ণ ম্যাট্রিক্স ঊর্ধ্ব ও নিম্ন উভয় ত্রিভুজাকার, তাই ত্রিভুজাকারও। সুতরাং i, ii ও iii সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-008",
+      "text": "\\(|A|\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(A = \\begin{bmatrix} 1 & -1 & 1 \\\\ 0 & 1 & 3 \\\\ -5 & 2 & -7 \\end{bmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-23\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-7\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = 1(-7-6)-(-1)(0+15)+1(0+5)\\)\n\\(= -13+15+5 = 7\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-009",
+      "text": "\\(|A|\\) এর \\((1, 2)\\)তম ভুক্তির সহগুণক—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(A = \\begin{bmatrix} 1 & -1 & 1 \\\\ 0 & 1 & 3 \\\\ -5 & 2 & -7 \\end{bmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-15\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(15\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\((1,2)\\) তম ভুক্তির সহগুণক \\(= (-1)^{1+2}\\begin{vmatrix} 0 & 3 \\\\ -5 & -7 \\end{vmatrix}\\)\n\\(= -(0+15) = -15\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-010",
+      "text": "\\(\\begin{bmatrix} 4 & 0 & -2 \\\\ 0 & 5 & m \\\\ -2 & 4 & 5 \\end{bmatrix}\\) ম্যাট্রিক্সটি প্রতিসম হলে \\(m = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতিসম ম্যাট্রিক্সে \\(a_{ij}=a_{ji}\\); তাই \\(a_{23}=a_{32}\\)\n\\(m = 4\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-011",
+      "text": "\\(\\begin{vmatrix} 7 & -7 & 0 \\\\ -1 & 2 & -1 \\\\ 5 & P & 3 \\end{vmatrix}\\) এ P এর সহগুণক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-7\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "P অবস্থিত ৩য় সারি ২য় কলামে, অর্থাৎ \\((3,2)\\) তম ভুক্তি।\nসহগুণক \\(= (-1)^{3+2}\\begin{vmatrix} 7 & 0 \\\\ -1 & -1 \\end{vmatrix} = -(-7-0) = 7\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-012",
+      "text": "\\(\\begin{bmatrix} 6 & 0 & -3 \\\\ 0 & 7 & 0 \\\\ -3 & 0 & 5 \\end{bmatrix}\\) একটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বর্গ ম্যাট্রিক্স"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিসম ম্যাট্রিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যতিক্রমী ম্যাট্রিক্স"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সারি ও কলাম সংখ্যা সমান (3 = 3), তাই বর্গ ম্যাট্রিক্স — সত্য।\n(ii) \\(a_{13}=a_{31}=-3\\), বাকি অ-কর্ণ ভুক্তি 0; তাই প্রতিসম — সত্য।\n(iii) \\(|A| = 6(35)-0+(-3)(0+21) = 210-63 = 147 \\ne 0\\); তাই ব্যতিক্রমী নয় — মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-013",
+      "text": "\\(B = \\begin{bmatrix} 3 & 2 \\\\ -5 & -2 \\end{bmatrix}\\) হলে, \\(B^{-1} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{4}\\begin{bmatrix} -2 & -2 \\\\ 5 & 3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{4}\\begin{bmatrix} 2 & 2 \\\\ -5 & -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{4}\\begin{bmatrix} -3 & -5 \\\\ 2 & 2 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{4}\\begin{bmatrix} -3 & -2 \\\\ 5 & 2 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|B| = 3(-2)-2(-5) = -6+10 = 4\\)\n\\(B^{-1} = \\dfrac{1}{4}\\begin{bmatrix} -2 & -2 \\\\ 5 & 3 \\end{bmatrix}\\) (কর্ণের ভুক্তি অদলবদল, অপর কর্ণের চিহ্ন পরিবর্তন)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-014",
+      "text": "\\(A = \\begin{bmatrix} 2 & 1 & -1 \\end{bmatrix}\\) এবং \\(B = \\begin{bmatrix} 2 \\\\ 0 \\\\ 3 \\end{bmatrix}\\) হলে, \\(BA = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{bmatrix} 4 \\\\ 0 \\\\ -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} 4 & 0 & -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} 4 & 2 & -2 \\\\ 0 & 0 & 0 \\\\ 6 & 3 & -3 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(BA\\) এর ক্রম \\(3\\times1\\) ও \\(1\\times3\\) এর গুণফল, অর্থাৎ \\(3\\times3\\)।\n\\(BA = \\begin{bmatrix} 2\\cdot2 & 2\\cdot1 & 2\\cdot(-1) \\\\ 0 & 0 & 0 \\\\ 3\\cdot2 & 3\\cdot1 & 3\\cdot(-1) \\end{bmatrix} = \\begin{bmatrix} 4 & 2 & -2 \\\\ 0 & 0 & 0 \\\\ 6 & 3 & -3 \\end{bmatrix}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-015",
+      "text": "\\(\\begin{vmatrix} 1 & 2 \\\\ -3 & 6 \\end{vmatrix}\\) নির্ণায়কে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\((1, 2)\\) তম ভুক্তির সহগুণক 3"
+        },
+        {
+          "label": "ii",
+          "text": "\\((2, 2)\\) তম ভুক্তির অনুরাশি 1"
+        },
+        {
+          "label": "iii",
+          "text": "নির্ণায়কের মান 12"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) \\((1,2)\\) তম ভুক্তির সহগুণক \\(= -(-3) = 3\\) — সত্য।\n(ii) \\((2,2)\\) তম ভুক্তির অনুরাশি = 1 (১ম সারি ও ১ম কলাম) — সত্য।\n(iii) মান \\(= 1\\cdot6-2\\cdot(-3) = 12\\) — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-016",
+      "text": "\\(\\begin{bmatrix} m & -1 \\\\ m-2 & m-2 \\end{bmatrix}\\) ম্যাট্রিক্সটি ব্যতিক্রমী হলে, \\(m\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1, -2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1, -2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1, 2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1, 2\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যতিক্রমী হলে নির্ণায়ক = 0\n\\(m(m-2)+(m-2) = 0\\)\n\\((m-2)(m+1)=0 \\Rightarrow m = -1,\\ 2\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-017",
+      "text": "\\(A^{-1} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(A = \\begin{bmatrix} 2 & 1 \\\\ 3 & 5 \\end{bmatrix},\\ B = \\begin{bmatrix} 2 \\\\ 10 \\end{bmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-DB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{7}\\begin{bmatrix} 5 & -1 \\\\ -3 & 2 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{7}\\begin{bmatrix} 2 & -3 \\\\ -1 & 5 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{7}\\begin{bmatrix} 5 & 1 \\\\ 3 & 2 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{7}\\begin{bmatrix} 2 & 3 \\\\ 1 & 5 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = 10-3 = 7\\)\n\\(A^{-1} = \\dfrac{1}{7}\\begin{bmatrix} 5 & -1 \\\\ -3 & 2 \\end{bmatrix}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-018",
+      "text": "\\(P = \\begin{pmatrix} x \\\\ y \\end{pmatrix}\\) এবং \\(AP = B\\) হলে, \\(x + y = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(A = \\begin{bmatrix} 2 & 1 \\\\ 3 & 5 \\end{bmatrix},\\ B = \\begin{bmatrix} 2 \\\\ 10 \\end{bmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-DB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(8\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(12\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(AP = B \\Rightarrow P = A^{-1}B = \\dfrac{1}{7}\\begin{bmatrix} 5 & -1 \\\\ -3 & 2 \\end{bmatrix}\\begin{bmatrix} 2 \\\\ 10 \\end{bmatrix} = \\dfrac{1}{7}\\begin{bmatrix} 0 \\\\ 14 \\end{bmatrix}\\)\n\\(x=0,\\ y=2\\), সুতরাং \\(x+y=2\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-019",
+      "text": "ম্যাট্রিক্স A এর মাত্রা \\(4 \\times 5\\), ম্যাট্রিক্স B এর মাত্রা \\(5 \\times 4\\) হলে BA এর মাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4 \\times 4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5 \\times 5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4 \\times 5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5 \\times 4\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(B\\) এর ক্রম \\(5\\times4\\), \\(A\\) এর ক্রম \\(4\\times5\\); \\(BA\\) এর ক্রম = B এর সারি \\(\\times\\) A এর কলাম = \\(5\\times5\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-020",
+      "text": "\\(A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & -1 & 2 \\\\ 0 & 1 & -5 \\end{bmatrix}\\) হলে \\(A + 3I = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} -2 & 2 & 3 \\\\ 4 & -4 & 2 \\\\ 0 & 1 & -8 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{bmatrix} -2 & 2 & 3 \\\\ 4 & 2 & 2 \\\\ 0 & 1 & -2 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} 4 & 2 & 3 \\\\ 4 & 2 & 2 \\\\ 0 & 1 & -2 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} -2 & 5 & 3 \\\\ 4 & -1 & 5 \\\\ 0 & 4 & -2 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(3I\\) যোগ করলে শুধু কর্ণের ভুক্তিগুলো 3 করে বাড়ে: \\(1+3=4,\\ -1+3=2,\\ -5+3=-2\\); অন্য ভুক্তি অপরিবর্তিত।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-021",
+      "text": "\\(A = \\begin{bmatrix} 3 & 1 \\\\ -2 & -1 \\end{bmatrix}\\) হলে \\(A^{-1} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} 1 & 1 \\\\ -2 & -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{bmatrix} -1 & -1 \\\\ 2 & 3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} 3 & -1 \\\\ 2 & -1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} -1 & 1 \\\\ -2 & 3 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = -3+2 = -1\\)\n\\(A^{-1} = \\dfrac{1}{-1}\\begin{bmatrix} -1 & -1 \\\\ 2 & 3 \\end{bmatrix} = \\begin{bmatrix} 1 & 1 \\\\ -2 & -3 \\end{bmatrix}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-022",
+      "text": "\\((2, 3)\\) তম ভুক্তির অনুরাশির মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\begin{vmatrix} 3 & 2 & 1 \\\\ -1 & 2 & m \\\\ 4 & 1 & 0 \\end{vmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-DIB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(11\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-11\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\((2,3)\\) তম ভুক্তির অনুরাশি = ২য় সারি ও ৩য় কলাম বাদ দিয়ে প্রাপ্ত নির্ণায়ক\n\\(= \\begin{vmatrix} 3 & 2 \\\\ 4 & 1 \\end{vmatrix} = 3-8 = -5\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-023",
+      "text": "নির্ণায়কের মান শূন্য হলে m এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\begin{vmatrix} 3 & 2 & 1 \\\\ -1 & 2 & m \\\\ 4 & 1 & 0 \\end{vmatrix}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-DIB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{9}{11}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{5}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{9}{11}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{9}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "১ম সারি বরাবর বিস্তার করে:\n\\(3(0-m)-2(0-4m)+1(-1-8) = -3m+8m-9 = 5m-9\\)\n\\(5m-9=0 \\Rightarrow m = \\dfrac{9}{5}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-024",
+      "text": "\\(\\begin{bmatrix} 6 & 0 & 0 \\\\ 0 & 7 & 0 \\\\ 0 & 0 & 8 \\end{bmatrix}\\) একটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্ণ ম্যাট্রিক্স"
+        },
+        {
+          "label": "ii",
+          "text": "বর্গ ম্যাট্রিক্স"
+        },
+        {
+          "label": "iii",
+          "text": "স্কেলার ম্যাট্রিক্স"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রধান কর্ণের বাইরের সব ভুক্তি শূন্য, তাই কর্ণ ম্যাট্রিক্স (i সত্য) এবং বর্গ ম্যাট্রিক্স (ii সত্য)।\nকর্ণের ভুক্তিগুলো সমান নয় (6, 7, 8), তাই স্কেলার ম্যাট্রিক্স নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-025",
+      "text": "x এর কোন মানের জন্য \\(\\begin{vmatrix} x^2 & x & 4 \\\\ 3 & 3 & 1 \\\\ 0 & 0 & -6 \\end{vmatrix} = 0\\) হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0, 3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0, 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-3, 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-1, 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "৩য় সারি বরাবর বিস্তার করে: \\(-6(3x^2-3x) = 0\\)\n\\(3x(x-1)=0 \\Rightarrow x = 0,\\ 1\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-026",
+      "text": "P এবং Q ম্যাট্রিক্স দুইটির ক্রম যথাক্রমে \\(a \\times b\\) এবং \\(b \\times c\\) হলে PQ ম্যাট্রিক্সের ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(a \\times b\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(b \\times c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(b \\times b\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(a \\times c\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(P\\) এর ক্রম \\(a\\times b\\), \\(Q\\) এর ক্রম \\(b\\times c\\); মাঝের \\(b\\) সমান বলে গুণ সম্ভব এবং \\(PQ\\) এর ক্রম \\(a\\times c\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-027",
+      "text": "\\(A = \\begin{bmatrix} x+4 & 4 \\\\ -4 & x-4 \\end{bmatrix}\\) ম্যাট্রিক্সটি অব্যতিক্রমী হওয়ার শর্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x \\ne -4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x \\ne 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x \\ne 4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x \\ne 4\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অব্যতিক্রমী হতে \\(|A|\\ne0\\)।\n\\(|A| = (x+4)(x-4)+16 = x^2-16+16 = x^2\\)\n\\(x^2\\ne0 \\Rightarrow x\\ne0\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-028",
+      "text": "P এর কোন মানের জন্য \\(\\begin{vmatrix} 1 & 2 & 3 \\\\ 1 & 2 & P \\\\ 3 & 5 & 0 \\end{vmatrix}\\) নির্ণায়কটির মান শূন্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(R_2 \\to R_2-R_1\\) করলে ২য় সারি হয় \\(0,\\ 0,\\ P-3\\)।\n৩য় ভুক্তি বরাবর বিস্তার করে নির্ণায়ক \\(= (P-3)\\times(\\text{সহগুণক}) \\)\n\\(= (P-3)\\cdot(-1)^{2+3}(5-6) = P-3\\)\n\\(P-3=0 \\Rightarrow P=3\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-029",
+      "text": "\\(\\begin{vmatrix} 13 & 0 & 2 \\\\ 3 & 1 & 1 \\\\ 7 & -2 & 0 \\end{vmatrix}\\) এর \\((1, 3)\\) তম ভুক্তির সহগুণক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-13\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(13\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\((1,3)\\) তম ভুক্তির সহগুণক \\(= (-1)^{1+3}\\begin{vmatrix} 3 & 1 \\\\ 7 & -2 \\end{vmatrix} = -6-7 = -13\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-030",
+      "text": "\\(\\begin{bmatrix} 5 & 3 \\\\ 4 & 3 \\end{bmatrix}\\) এর বিপরীত ম্যাট্রিক্স কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{27}\\begin{bmatrix} 3 & -3 \\\\ -4 & 5 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{3}\\begin{bmatrix} 3 & -3 \\\\ -4 & 5 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{27}\\begin{bmatrix} -5 & 4 \\\\ 3 & -3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{3}\\begin{bmatrix} -5 & 3 \\\\ 4 & -3 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = 15-12 = 3\\)\n\\(A^{-1} = \\dfrac{1}{3}\\begin{bmatrix} 3 & -3 \\\\ -4 & 5 \\end{bmatrix}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-031",
+      "text": "\\(\\begin{bmatrix} 1 & 2 & 3 \\\\ 0 & 4 & 5 \\\\ 0 & 0 & 6 \\end{bmatrix}\\) এটি কোন ধরনের মেট্রিক্স?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্কেলার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিম্ন ত্রিভুজাকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঊর্ধ্ব ত্রিভুজাকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্ণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রধান কর্ণের নিচের সব ভুক্তি শূন্য, তাই এটি ঊর্ধ্ব ত্রিভুজাকার ম্যাট্রিক্স।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-032",
+      "text": "\\(\\begin{vmatrix} 2 & 2 & 5 \\\\ 2 & 2 & 6 \\\\ 2 & 2 & 7 \\end{vmatrix}\\) এর \\((2, 3)\\) তম ভুক্তির অনুরাশি নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(7\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\((2,3)\\) তম ভুক্তির অনুরাশি \\(= \\begin{vmatrix} 2 & 2 \\\\ 2 & 2 \\end{vmatrix} = 4-4 = 0\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-033",
+      "text": "\\(\\begin{vmatrix} x+4 & 2 \\\\ 4x & 6 \\end{vmatrix} = 0\\), x-এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(12\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(6\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-12\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(6(x+4)-2\\cdot4x = 0\\)\n\\(6x+24-8x=0 \\Rightarrow x = 12\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-034",
+      "text": "\\(\\begin{vmatrix} 0 & 1 & \\omega \\\\ 1 & \\omega & \\omega^2 \\\\ \\omega & 1 & \\omega^2 \\end{vmatrix}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\omega - \\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\omega + \\omega^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\omega^2 - \\omega\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "১ম সারি বরাবর বিস্তার করে:\n\\(0 - 1(\\omega^2-\\omega^3) + \\omega(1-\\omega^2)\\)\n\\(\\omega^3=1\\) বলে \\(= -\\omega^2+1+\\omega-1 = \\omega-\\omega^2\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-035",
+      "text": "কোনটি অভেদঘাতি মেট্রিক্স?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} 1 \\\\ 4 \\\\ 3 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{pmatrix} -7 & 16 \\\\ -3 & 7 \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} 5 & 7 & 9 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} 0 & 0 & 0 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে ম্যাট্রিক্সের জন্য \\(A^2=I\\) তা অভেদঘাতি (involutory)।\n(খ) এর জন্য \\(A^2 = \\begin{pmatrix} 49-48 & -112+112 \\\\ -21+21 & -48+49 \\end{pmatrix} = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix} = I\\)\nবাকিগুলো বর্গ ম্যাট্রিক্সই নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-036",
+      "text": "বক্র প্রতিসম ম্যাট্রিক্সের ক্ষেত্রে কোনটি সত্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(a_{ij} = a_{ji}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(a_{ij} = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(a_{ij} = -a_{ji}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(a_{ij} \\ne a_{ji}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বক্র প্রতিসম ম্যাট্রিক্সে \\(A^T=-A\\), অর্থাৎ সব \\(i,j\\) এর জন্য \\(a_{ij}=-a_{ji}\\) (ফলে কর্ণের ভুক্তি 0)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-037",
+      "text": "\\(3 \\times 3\\) মাত্রার একটি অভেদ ম্যাট্রিক্স \\(I_3\\) হলে \\((I_3)^{-1}\\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3I_3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{I_3}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(I_3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(I^{-1}\\cdot I = I\\) এবং \\(I\\cdot I=I\\) বলে \\(I^{-1}=I\\); অর্থাৎ \\((I_3)^{-1}=I_3\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-038",
+      "text": "K এর কোন মানের জন্য \\(\\begin{bmatrix} k+1 & 3 \\\\ 3 & k-1 \\end{bmatrix}\\) ম্যাট্রিক্সটি বিপরীতযোগ্য নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pm\\sqrt{10}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিপরীতযোগ্য না হলে নির্ণায়ক = 0\n\\((k+1)(k-1)-9=0\\)\n\\(k^2-10=0 \\Rightarrow k=\\pm\\sqrt{10}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-039",
+      "text": "\\(A = \\begin{bmatrix} 5 & 0 & 0 \\\\ 0 & 6 & 0 \\\\ 0 & 0 & 7 \\end{bmatrix}\\) হলে \\(A^{-1} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{bmatrix} \\frac{1}{7} & 0 & 0 \\\\ 0 & \\frac{1}{6} & 0 \\\\ 0 & 0 & \\frac{1}{5} \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{210}\\begin{bmatrix} 5 & 0 & 0 \\\\ 0 & 6 & 0 \\\\ 0 & 0 & 7 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} \\frac{1}{5} & 0 & 0 \\\\ 0 & \\frac{1}{6} & 0 \\\\ 0 & 0 & \\frac{1}{7} \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{210}\\begin{bmatrix} \\frac{1}{5} & 0 & 0 \\\\ 0 & \\frac{1}{6} & 0 \\\\ 0 & 0 & \\frac{1}{7} \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কর্ণ ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্সে কর্ণের প্রতিটি ভুক্তির অন্যোন্যক বসে:\n\\(A^{-1} = \\begin{bmatrix} \\frac{1}{5} & 0 & 0 \\\\ 0 & \\frac{1}{6} & 0 \\\\ 0 & 0 & \\frac{1}{7} \\end{bmatrix}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-040",
+      "text": "\\(A = \\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}\\) হলে \\(A^{-1} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{bmatrix} 1 & -1 \\\\ 1 & 1 \\end{bmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(|A| = 1+1 = 2\\)\n\\(A^{-1} = \\dfrac{1}{2}\\begin{bmatrix} 1 & 1 \\\\ -1 & 1 \\end{bmatrix}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-041",
+      "text": "\\(\\begin{vmatrix} -2 & 4 & 5 \\\\ 0 & 1 & 2 \\\\ 3 & -2 & 5 \\end{vmatrix}\\) নির্ণায়কের \\((2, 3)\\) তম ভুক্তির সহগুণক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-8\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(8\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\((2,3)\\) তম ভুক্তির সহগুণক \\(= (-1)^{2+3}\\begin{vmatrix} -2 & 4 \\\\ 3 & -2 \\end{vmatrix} = -(4-12) = 8\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-042",
+      "text": "\\(A = \\begin{pmatrix} 2 & 3-2i \\\\ 1+2i & i-2 \\end{pmatrix}\\) মেট্রিক্সের অনুবন্ধী (conjugate) মেট্রিক্স কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{pmatrix} 2 & 3+2i \\\\ 1-2i & i+2 \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{pmatrix} 3-2i & 2 \\\\ i-2 & 1+2i \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{pmatrix} 2 & 1+2i \\\\ 3-2i & i-2 \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{pmatrix} 2 & 3+2i \\\\ 1-2i & -i-2 \\end{pmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অনুবন্ধী ম্যাট্রিক্সে প্রতিটি ভুক্তির অনুবন্ধী জটিল সংখ্যা বসে (ট্রান্সপোজ হয় না):\n\\(\\overline{3-2i}=3+2i,\\ \\overline{1+2i}=1-2i,\\ \\overline{i-2}=-i-2\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-043",
+      "text": "A একটি \\(2 \\times 2\\) ক্রমের ম্যাট্রিক্স এবং \\(|A| = 5\\) হলে \\(|3A|\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{5}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{5}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(15\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(45\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(2\\times2\\) ম্যাট্রিক্সের জন্য \\(|kA| = k^2|A|\\)\n\\(|3A| = 9\\times5 = 45\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

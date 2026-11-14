@@ -1,0 +1,1478 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 7,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch7-mcq-001",
+      "text": "\\(\\tan^{-1}x + \\tan^{-1}y = \\) কত? যখন \\((xy > 1)\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan^{-1}\\dfrac{x + y}{1 - xy}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan^{-1}\\dfrac{x + y}{1 - xy} - \\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan^{-1}\\dfrac{x + y}{1 - xy} + \\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan^{-1}\\dfrac{x + y}{1 - xy} + \\dfrac{\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(xy>1\\) এবং \\(x,y>0\\) হলে \\(\\tan^{-1}x+\\tan^{-1}y=\\pi+\\tan^{-1}\\dfrac{x+y}{1-xy}\\) (সূত্র অনুযায়ী)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-002",
+      "text": "\\(\\cos^{-1}\\left\\{\\cos\\left(-\\dfrac{\\pi}{3}\\right)\\right\\} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\left(-\\dfrac{\\pi}{3}\\right)=\\cos\\dfrac{\\pi}{3}\\) এবং \\(\\dfrac{\\pi}{3}\\in[0,\\pi]\\) (মুখ্য মানের পরিসর), তাই মান \\(\\dfrac{\\pi}{3}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-003",
+      "text": "বিপরীত বৃত্তীয় ফাংশনের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\sin^{-1}(-x) = -\\sin^{-1}x\\ \\ (-1 \\le x \\le 1)\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\sin^{-1}\\left(\\sin\\dfrac{3\\pi}{4}\\right) = \\dfrac{3\\pi}{4}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\sec^{-1}(-x) = \\pi - \\sec^{-1}x\\ \\ (|x| \\ge 1)\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "i: \\(\\sin^{-1}(-x)=-\\sin^{-1}x\\), সত্য।\nii: \\(\\sin^{-1}\\left(\\sin\\dfrac{3\\pi}{4}\\right)=\\sin^{-1}\\left(\\sin\\dfrac{\\pi}{4}\\right)=\\dfrac{\\pi}{4}\\) (কারণ \\(\\dfrac{3\\pi}{4}\\) মুখ্য পরিসর \\(\\left[-\\dfrac{\\pi}{2},\\dfrac{\\pi}{2}\\right]\\) এর বাইরে), মিথ্যা।\niii: \\(\\sec^{-1}(-x)=\\pi-\\sec^{-1}x\\), সত্য।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-004",
+      "text": "\\(\\sin\\theta = \\sin\\alpha\\) হলে θ এর মান কত? (যেখানে α একটি ধ্রুবক কোণ)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(n\\pi + (-1)^n\\alpha,\\ n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(n\\pi \\pm (-1)^n\\alpha,\\ n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(n\\pi \\pm \\alpha,\\ n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(n\\pi - (-1)^n\\alpha,\\ n \\in \\mathbb{Z}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin\\theta=\\sin\\alpha\\) এর সাধারণ সমাধান \\(\\theta=n\\pi+(-1)^n\\alpha,\\ n\\in\\mathbb Z\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-005",
+      "text": "\\(\\sin\\theta + \\cos\\theta\\) এর বৃহত্তম মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2} + 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin\\theta+\\cos\\theta=\\sqrt2\\sin\\left(\\theta+\\dfrac{\\pi}{4}\\right)\\)।\n\\(\\sin\\) এর সর্বোচ্চ মান 1, তাই বৃহত্তম মান \\(\\sqrt2\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-006",
+      "text": "\\(\\sin 2\\theta - \\cos 2\\theta = 0\\) সমীকরণের সাধারণ সমাধান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{n\\pi}{2} + \\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{n\\pi}{2} - \\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{n\\pi}{2} - \\dfrac{\\pi}{8}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{n\\pi}{2} + \\dfrac{\\pi}{8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin2\\theta=\\cos2\\theta\\) ⇒ \\(\\tan2\\theta=1=\\tan\\dfrac{\\pi}{4}\\)।\n\\(2\\theta=n\\pi+\\dfrac{\\pi}{4}\\) ⇒ \\(\\theta=\\dfrac{n\\pi}{2}+\\dfrac{\\pi}{8}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-007",
+      "text": "\\(\\cos^{-1}\\left(\\dfrac{2}{3}\\right)\\) এর মান হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan^{-1}\\dfrac{\\sqrt{5}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sin^{-1}\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sec^{-1}\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\cot^{-1}\\dfrac{\\sqrt{5}}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\theta=\\dfrac23\\) ধরলে \\(\\sin\\theta=\\sqrt{1-\\dfrac49}=\\dfrac{\\sqrt5}{3}\\)।\n\\(\\tan\\theta=\\dfrac{\\sqrt5/3}{2/3}=\\dfrac{\\sqrt5}{2}\\) ⇒ \\(\\theta=\\tan^{-1}\\dfrac{\\sqrt5}{2}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-008",
+      "text": "\\(\\tan^{-1}\\dfrac{3}{4}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}\\tan^{-1}\\dfrac{24}{25}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\sin^{-1}\\dfrac{24}{25}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\sin^{-1}\\dfrac{24}{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}\\tan^{-1}\\dfrac{7}{24}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan^{-1}\\dfrac34=\\theta\\) ধরি। \\(\\sin2\\theta=\\dfrac{2\\tan\\theta}{1+\\tan^2\\theta}=\\dfrac{3/2}{25/16}=\\dfrac{24}{25}\\)।\nঅতএব \\(\\theta=\\dfrac12\\sin^{-1}\\dfrac{24}{25}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-009",
+      "text": "\\(\\sin\\left(x - \\dfrac{3\\pi}{2}\\right) = 0,\\ n \\in \\mathbb{Z}\\) এর সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n\\pi + \\dfrac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2n\\pi - \\dfrac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(n\\pi - \\dfrac{3\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(n\\pi + \\dfrac{3\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin A=0\\) ⇒ \\(A=n\\pi\\)।\n\\(x-\\dfrac{3\\pi}{2}=n\\pi\\) ⇒ \\(x=n\\pi+\\dfrac{3\\pi}{2}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-010",
+      "text": "\\(\\cos^2\\left(\\tan^{-1}\\dfrac{1}{\\sqrt{2}}\\right)\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{4}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\theta=\\tan^{-1}\\dfrac{1}{\\sqrt2}\\) ⇒ \\(\\tan\\theta=\\dfrac1{\\sqrt2}\\)।\n\\(\\cos^2\\theta=\\dfrac{1}{1+\\tan^2\\theta}=\\dfrac{1}{1+\\frac12}=\\dfrac23\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-011",
+      "text": "\\(f(x) = \\cos^{-1}x\\) ফাংশনের রেঞ্জ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left[-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((0, \\pi)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([0, \\pi]\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^{-1}x\\) এর ডোমেন \\([-1,1]\\) এবং রেঞ্জ (মুখ্য মান) \\([0,\\pi]\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-012",
+      "text": "\\(\\operatorname{cosec}\\theta + \\cot\\theta = \\sqrt{3}\\ (0 < \\theta < \\pi)\\) হলে, θ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\operatorname{cosec}\\theta+\\cot\\theta=\\dfrac{1+\\cos\\theta}{\\sin\\theta}=\\cot\\dfrac{\\theta}{2}\\)।\n\\(\\cot\\dfrac\\theta2=\\sqrt3\\) ⇒ \\(\\dfrac\\theta2=\\dfrac\\pi6\\) ⇒ \\(\\theta=\\dfrac\\pi3\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-013",
+      "text": "n একটি পূর্ণ সংখ্যা হলে \\(\\sin 2\\theta = 1\\) সমীকরণের সাধারণ সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((4n + 1)\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((4n - 1)\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2n + 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2n - 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin2\\theta=1=\\sin\\dfrac\\pi2\\) ⇒ \\(2\\theta=2n\\pi+\\dfrac\\pi2=(4n+1)\\dfrac\\pi2\\)।\n\\(\\theta=(4n+1)\\dfrac\\pi4\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-014",
+      "text": "\\(\\dfrac{1}{2}\\sin^{-1}\\dfrac{4}{5} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan^{-1}\\left(\\dfrac{1}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan^{-1}(2)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\cos^{-1}\\left(\\dfrac{3}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sin^{-1}\\left(\\dfrac{2}{5}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin^{-1}\\dfrac45=\\varphi\\) ধরলে \\(\\sin\\varphi=\\dfrac45,\\ \\cos\\varphi=\\dfrac35\\)।\n\\(\\tan\\dfrac\\varphi2=\\dfrac{\\sin\\varphi}{1+\\cos\\varphi}=\\dfrac{4/5}{8/5}=\\dfrac12\\)।\nঅতএব \\(\\dfrac12\\sin^{-1}\\dfrac45=\\tan^{-1}\\dfrac12\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-015",
+      "text": "নিচের কোনটি সঠিক",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\sin^{-1}x + \\cos^{-1}x = \\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\tan^{-1}x + \\cot^{-1}x = \\pi\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\sec^{-1}x + \\operatorname{cosec}^{-1}x = \\dfrac{\\pi}{2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "i: \\(\\sin^{-1}x+\\cos^{-1}x=\\dfrac\\pi2\\), সত্য।\nii: \\(\\tan^{-1}x+\\cot^{-1}x=\\dfrac\\pi2\\) (\\(\\pi\\) নয়), মিথ্যা।\niii: \\(\\sec^{-1}x+\\operatorname{cosec}^{-1}x=\\dfrac\\pi2\\), সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-016",
+      "text": "\\(\\tan\\theta = 0\\) হলে θ এর সাধারণ সমাধান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((2n+1)\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(n\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan\\theta=0=\\tan0\\) ⇒ \\(\\theta=n\\pi,\\ n\\in\\mathbb Z\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-017",
+      "text": "\\(\\tan\\left(\\sec^{-1}\\dfrac{a}{b}\\right)\\) এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\sqrt{b^2 - a^2}}{a}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{a}{\\sqrt{b^2 - a^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{a^2 - b^2}}{b}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{b^2}{\\sqrt{a^2 - b^2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\sec\\theta=\\dfrac ab\\) ধরলে \\(\\tan\\theta=\\sqrt{\\sec^2\\theta-1}=\\sqrt{\\dfrac{a^2}{b^2}-1}=\\dfrac{\\sqrt{a^2-b^2}}{b}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-018",
+      "text": "\\(\\cos x + 2 + \\sec x = 0\\) সমীকরণের সাধারণ সমাধান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((2n + 1)\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2n + 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2n + 1)\\dfrac{\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos x+\\sec x=-2\\) ⇒ \\(\\cos^2x+2\\cos x+1=0\\) ⇒ \\((\\cos x+1)^2=0\\)।\n\\(\\cos x=-1=\\cos\\pi\\) ⇒ \\(x=(2n+1)\\pi\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-019",
+      "text": "\\(2\\tan^{-1}\\dfrac{1}{5} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\tan^{-1}\\dfrac{5}{12}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan^{-1}\\dfrac{5}{13}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan^{-1}\\dfrac{5}{24}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan^{-1}\\dfrac{5}{26}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(2\\tan^{-1}\\dfrac15=\\tan^{-1}\\dfrac{2\\cdot\\frac15}{1-\\frac1{25}}=\\tan^{-1}\\dfrac{2/5}{24/25}=\\tan^{-1}\\dfrac5{12}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-020",
+      "text": "\\(\\sin\\left(x - \\dfrac{\\pi}{4}\\right) = 1\\) এর সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin\\left(x-\\dfrac\\pi4\\right)=1=\\sin\\dfrac\\pi2\\) ⇒ \\(x-\\dfrac\\pi4=\\dfrac\\pi2\\) ⇒ \\(x=\\dfrac{3\\pi}4\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-021",
+      "text": "\\(\\tan^{-1}x\\) এর ডোমেন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left[-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([-1, 1]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([-2\\pi, 2\\pi]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathbb{R}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan^{-1}x\\) এর ডোমেন সকল বাস্তব সংখ্যার সেট \\(\\mathbb R\\) এবং রেঞ্জ \\(\\left(-\\dfrac\\pi2,\\dfrac\\pi2\\right)\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-022",
+      "text": "\\(\\sin x + \\operatorname{cosec} x = -2\\) এবং \\(n \\in \\mathbb{Z}\\) হলে x এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n\\pi + \\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2n\\pi - \\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2n\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2n\\pi - \\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin x+\\dfrac1{\\sin x}=-2\\) ⇒ \\((\\sin x+1)^2=0\\) ⇒ \\(\\sin x=-1\\)।\n\\(x=2n\\pi-\\dfrac\\pi2\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-023",
+      "text": "\\(\\cos^{-1}\\{-\\sin(\\tan^{-1}2 + \\cot^{-1}2)\\}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan^{-1}2+\\cot^{-1}2=\\dfrac\\pi2\\) ⇒ \\(\\sin\\dfrac\\pi2=1\\)।\n\\(\\cos^{-1}(-1)=\\pi\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-024",
+      "text": "\\(\\cos^{-1}\\dfrac{8}{11}\\) এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sin^{-1}\\dfrac{11}{57}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\tan^{-1}\\dfrac{8}{57}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sin^{-1}\\dfrac{\\sqrt{57}}{11}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\tan^{-1}\\dfrac{\\sqrt{57}}{11}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\theta=\\dfrac8{11}\\) ⇒ \\(\\sin\\theta=\\sqrt{1-\\dfrac{64}{121}}=\\dfrac{\\sqrt{57}}{11}\\)।\nঅতএব \\(\\cos^{-1}\\dfrac8{11}=\\sin^{-1}\\dfrac{\\sqrt{57}}{11}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-025",
+      "text": "\\(2(3\\cos\\theta - 4\\cos^3\\theta) = -1\\) এর সমাধান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2n\\pi \\pm \\dfrac{\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2n\\pi}{3} \\pm \\dfrac{\\pi}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2n\\pi \\pm \\dfrac{\\pi}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2n\\pi}{3} \\pm \\dfrac{\\pi}{18}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(3\\cos\\theta-4\\cos^3\\theta=-\\cos3\\theta\\)।\nসমীকরণ: \\(-2\\cos3\\theta=-1\\) ⇒ \\(\\cos3\\theta=\\dfrac12=\\cos\\dfrac\\pi3\\)।\n\\(3\\theta=2n\\pi\\pm\\dfrac\\pi3\\) ⇒ \\(\\theta=\\dfrac{2n\\pi}3\\pm\\dfrac\\pi9\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-026",
+      "text": "\\(\\tan^{-1}p + \\tan^{-1}q = \\dfrac{\\pi}{4}\\) হলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(pq = 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(p + q = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(p + q - pq = 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(p + q + pq = 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan^{-1}\\dfrac{p+q}{1-pq}=\\dfrac\\pi4\\) ⇒ \\(\\dfrac{p+q}{1-pq}=1\\)।\n\\(p+q=1-pq\\) ⇒ \\(p+q+pq=1\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-027",
+      "text": "\\(\\sin^{-1}x = \\cot^{-1}\\dfrac{1}{2}\\) হলে x এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{\\sqrt{5}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{\\sqrt{5}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{5}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cot^{-1}\\dfrac12=\\theta\\) ⇒ \\(\\cot\\theta=\\dfrac12\\) ⇒ \\(\\sin\\theta=\\dfrac{1}{\\sqrt{1+\\cot^2\\theta}}=\\dfrac{1}{\\sqrt{5/4}}=\\dfrac2{\\sqrt5}\\)।\nঅতএব \\(x=\\dfrac2{\\sqrt5}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-028",
+      "text": "\\(\\cos^2 x + 2\\sin x = 2\\) সমীকরণের সাধারণ সমাধান (যখন \\(n \\in \\mathbb{Z}\\))",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((4n - 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(n\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((4n + 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((2n + 1)\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(1-\\sin^2x+2\\sin x=2\\) ⇒ \\(\\sin^2x-2\\sin x+1=0\\) ⇒ \\((\\sin x-1)^2=0\\)।\n\\(\\sin x=1=\\sin\\dfrac\\pi2\\) ⇒ \\(x=2n\\pi+\\dfrac\\pi2=(4n+1)\\dfrac\\pi2\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-029",
+      "text": "\\(\\sin^{-1}\\dfrac{1}{\\sqrt{2}} + \\cos^{-1}\\dfrac{1}{\\sqrt{2}}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2\\pi}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin^{-1}x+\\cos^{-1}x=\\dfrac\\pi2\\) (\\(-1\\le x\\le1\\)), তাই মান \\(\\dfrac\\pi2\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-030",
+      "text": "\\(4\\left(\\cos^{-1}\\dfrac{2}{\\sqrt{5}} + \\tan^{-1}\\dfrac{1}{3}\\right) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos^{-1}\\dfrac2{\\sqrt5}=\\tan^{-1}\\dfrac12\\) (কারণ \\(\\sin=\\dfrac1{\\sqrt5}\\))।\n\\(\\tan^{-1}\\dfrac12+\\tan^{-1}\\dfrac13=\\tan^{-1}\\dfrac{\\frac12+\\frac13}{1-\\frac16}=\\tan^{-1}1=\\dfrac\\pi4\\)।\n\\(4\\times\\dfrac\\pi4=\\pi\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-031",
+      "text": "\\(\\sin^{-1}\\dfrac{1}{x} = \\tan^{-1}\\dfrac{2}{3}\\) হলে \\(x = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{13}}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{13}}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\tan^{-1}\\dfrac23=\\theta\\) ⇒ \\(\\tan\\theta=\\dfrac23\\) ⇒ \\(\\sin\\theta=\\dfrac2{\\sqrt{13}}\\)।\n\\(\\sin^{-1}\\dfrac1x=\\theta\\) ⇒ \\(\\dfrac1x=\\dfrac2{\\sqrt{13}}\\) ⇒ \\(x=\\dfrac{\\sqrt{13}}2\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-032",
+      "text": "\\(\\cos(\\sin^{-1}x)\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{x^2 - 1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{1 - x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 - x^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin^{-1}x=\\theta\\) ⇒ \\(\\sin\\theta=x\\)।\n\\(\\cos\\theta=\\sqrt{1-\\sin^2\\theta}=\\sqrt{1-x^2}\\) (কারণ \\(\\theta\\in\\left[-\\dfrac\\pi2,\\dfrac\\pi2\\right]\\) এ \\(\\cos\\theta\\ge0\\))।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-033",
+      "text": "\\(n \\in \\mathbb{Z}\\) হলে \\(\\sin 2\\theta = 1\\) সমীকরণের সাধারণ সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((4n + 1)\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((4n + 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((4n - 1)\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((4n - 1)\\dfrac{\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin2\\theta=1=\\sin\\dfrac\\pi2\\) ⇒ \\(2\\theta=2n\\pi+\\dfrac\\pi2\\)।\n\\(\\theta=n\\pi+\\dfrac\\pi4=(4n+1)\\dfrac\\pi4\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-034",
+      "text": "\\(\\operatorname{cosec}^2\\left(\\tan^{-1}\\dfrac{1}{2}\\right) - \\sec^2\\left(\\cot^{-1}\\sqrt{3}\\right)\\) এর মান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{11}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{13}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{35}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{37}{9}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\operatorname{cosec}^2\\left(\\tan^{-1}\\dfrac12\\right)=1+\\cot^2\\theta=1+4=5\\) (যেখানে \\(\\tan\\theta=\\dfrac12\\))।\n\\(\\cot^{-1}\\sqrt3=\\dfrac\\pi6\\) ⇒ \\(\\sec^2\\dfrac\\pi6=\\dfrac43\\)।\n\\(5-\\dfrac43=\\dfrac{11}3\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-035",
+      "text": "\\(\\sin^{-1}\\dfrac{2a}{1 + a^2} + \\cot^{-1}\\dfrac{1 - b^2}{2b} = 2\\tan^{-1}x\\) হলে x এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(a + b\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(a - b\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{a - b}{1 + ab}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{a + b}{1 - ab}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\sin^{-1}\\dfrac{2a}{1+a^2}=2\\tan^{-1}a\\)।\n\\(\\cot^{-1}\\dfrac{1-b^2}{2b}=\\tan^{-1}\\dfrac{2b}{1-b^2}=2\\tan^{-1}b\\)।\n\\(2(\\tan^{-1}a+\\tan^{-1}b)=2\\tan^{-1}x\\) ⇒ \\(x=\\dfrac{a+b}{1-ab}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-036",
+      "text": "n পূর্ণসংখ্যা হলে, \\(\\cos 3\\theta = \\dfrac{1}{2}\\) সমীকরণের সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2}{3}n\\pi - \\dfrac{\\pi}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{3}n\\pi + \\dfrac{\\pi}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2}{3}n\\pi \\pm \\dfrac{\\pi}{9}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3}{2}n\\pi \\pm \\dfrac{\\pi}{9}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos3\\theta=\\dfrac12=\\cos\\dfrac\\pi3\\) ⇒ \\(3\\theta=2n\\pi\\pm\\dfrac\\pi3\\)।\n\\(\\theta=\\dfrac23n\\pi\\pm\\dfrac\\pi9\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-037",
+      "text": "\\(\\cos\\theta - \\sin\\theta = 0\\) হলে θ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(30^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(45^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(60^\\circ\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(120^\\circ\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\cos\\theta=\\sin\\theta\\) ⇒ \\(\\tan\\theta=1\\) ⇒ \\(\\theta=45^\\circ\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

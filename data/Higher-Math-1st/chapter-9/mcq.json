@@ -1,0 +1,1228 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 9,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch9-mcq-001",
+      "text": "\\(\\displaystyle\\lim_{x \\to \\infty} \\dfrac{2x^2 + 3x + 1}{2x^2 - 4x + 2}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\infty\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লব ও হরকে \\(x^2\\) দিয়ে ভাগ করে \\(\\dfrac{2+\\frac{3}{x}+\\frac{1}{x^2}}{2-\\frac{4}{x}+\\frac{2}{x^2}}\\to\\dfrac{2}{2}=1\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-002",
+      "text": "\\(y = \\tan^{-1}\\dfrac{4x}{1 - 4x^2}\\) হলে \\(\\dfrac{dy}{dx} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2}{1 + 4x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2}{1 - 4x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{4}{1 - 4x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{4}{1 + 4x^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(t=2x\\) ধরলে \\(y=\\tan^{-1}\\dfrac{2t}{1-t^2}=2\\tan^{-1}t=2\\tan^{-1}2x\\)\n\\(\\dfrac{dy}{dx}=2\\cdot\\dfrac{2}{1+4x^2}=\\dfrac{4}{1+4x^2}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-003",
+      "text": "\\(\\dfrac{d}{dx}(3^x) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x\\,3^{x-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3^x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3\\ln x\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3^x\\ln 3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}(a^x)=a^x\\ln a\\), তাই \\(\\dfrac{d}{dx}(3^x)=3^x\\ln3\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-004",
+      "text": "\\(y = \\sqrt{x + \\sqrt{x + \\sqrt{x + \\cdots}}}\\) হলে \\(\\dfrac{dy}{dx} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2y}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{-2y}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2y - 1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{1 - 2y}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y^2=x+y\\) (কারণ \\(y=\\sqrt{x+y}\\))\n\\(2y\\dfrac{dy}{dx}=1+\\dfrac{dy}{dx}\\Rightarrow\\dfrac{dy}{dx}=\\dfrac{1}{2y-1}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-005",
+      "text": "\\(y = \\dfrac{1}{x^3}\\) বক্ররেখার \\((-1, -1)\\) বিন্দুতে স্পর্শকের ঢাল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y=x^{-3}\\Rightarrow y_1=-3x^{-4}\\)\n\\(x=-1\\) এ ঢাল \\(=-3\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-006",
+      "text": "\\(\\displaystyle\\lim_{x \\to 0} \\dfrac{\\ln(1 - 3x)}{3x} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-3\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\ln(1-3x)\\) কে \\(-3x-\\dots\\) ধরে বা \\(\\lim_{h\\to0}\\dfrac{\\ln(1+h)}{h}=1\\) এ \\(h=-3x\\) বসিয়ে\n\\(\\dfrac{\\ln(1-3x)}{3x}=-\\dfrac{\\ln(1-3x)}{-3x}\\to-1\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-007",
+      "text": "\\(\\displaystyle\\lim_{x \\to 0} \\dfrac{\\tan^{-1}\\frac{x}{2}}{3x} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{6}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{\\tan^{-1}\\frac{x}{2}}{3x}=\\dfrac{1}{6}\\cdot\\dfrac{\\tan^{-1}\\frac{x}{2}}{\\frac{x}{2}}\\to\\dfrac{1}{6}\\cdot1=\\dfrac{1}{6}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-008",
+      "text": "যদি \\(y = \\sec x\\) হয় তবে \\(y_2 + y\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2y\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2y^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2y^3\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(y_1=\\sec x\\tan x\\)\n\\(y_2=\\sec x\\tan^2x+\\sec^3x=\\sec x(\\sec^2x-1)+\\sec^3x=2y^3-y\\)\n\\(\\therefore y_2+y=2y^3\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-009",
+      "text": "\\(x^y = e^{x+y}\\) হলে \\(\\dfrac{dy}{dx} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{x - y}{x(1 - \\ln x)}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{x - y}{x(\\ln x - 1)}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{y - x}{x(\\ln x - 1)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{x - y}{\\ln x - 1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উভয় পক্ষে \\(\\ln\\) নিয়ে \\(y\\ln x=x+y\\)।\nx-এর সাপেক্ষে অন্তরীকরণ: \\(y'\\ln x+\\dfrac{y}{x}=1+y'\\)\n\\(y'(\\ln x-1)=\\dfrac{x-y}{x}\\Rightarrow y'=\\dfrac{x-y}{x(\\ln x-1)}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-010",
+      "text": "\\(\\displaystyle\\lim_{x \\to 0} \\dfrac{f(x) - 1}{x} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(f(x) = e^{-2x}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\infty\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\lim_{x\\to0}\\dfrac{e^{-2x}-1}{x}=-2\\lim\\dfrac{e^{-2x}-1}{-2x}=-2\\cdot1=-2\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-011",
+      "text": "\\(\\dfrac{d}{dx}\\{f(x)\\cdot\\cos x\\} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(f(x) = e^{-2x}\\)",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-CUB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-e^{-2x}(\\sin x + 2\\cos x)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-e^{-2x}(\\sin x - 2\\cos x)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(e^{-2x}(\\sin x + 2\\cos x)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(e^{-2x}(\\sin x - 2\\cos x)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}(e^{-2x}\\cos x)=-2e^{-2x}\\cos x-e^{-2x}\\sin x=-e^{-2x}(\\sin x+2\\cos x)\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-012",
+      "text": "\\(f(1) = 6,\\ f'(1) = 3\\) হলে, \\(x = 0\\) বিন্দুতে \\(\\dfrac{d}{dx}\\{\\log f(e^x)\\}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}\\log f(e^x)=\\dfrac{f'(e^x)\\cdot e^x}{f(e^x)}\\)\n\\(x=0\\) এ \\(\\dfrac{f'(1)\\cdot1}{f(1)}=\\dfrac{3}{6}=\\dfrac{1}{2}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-013",
+      "text": "\\(\\dfrac{d}{dx}\\{\\tan^{-1}(e^x)\\} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{e^x}{1 + e^{x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{1 + e^x}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{e^x}{1 + e^{2x}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{1 + e^{x^2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}\\tan^{-1}(e^x)=\\dfrac{1}{1+(e^x)^2}\\cdot e^x=\\dfrac{e^x}{1+e^{2x}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-014",
+      "text": "\\(y = \\dfrac{1}{x^3}\\) বক্ররেখার \\((-1, -1)\\) বিন্দুতে \\(y_1\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(y_1=-3x^{-4}\\); \\(x=-1\\) এ \\(y_1=-3\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-015",
+      "text": "\\(\\dfrac{d}{dx}\\left(e^{\\sqrt{2x}-3}\\right) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{2}\\,\\left(e^{\\sqrt{2x}-3}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{e^{\\sqrt{2x}-3}}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{e^{\\sqrt{2x}-3}}{\\sqrt{2x}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\sqrt{2}\\,\\left(e^{\\sqrt{2x}-3}\\right)}{\\sqrt{x}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}\\sqrt{2x}=\\dfrac{2}{2\\sqrt{2x}}=\\dfrac{1}{\\sqrt{2x}}\\)\n\\(\\therefore\\dfrac{d}{dx}e^{\\sqrt{2x}-3}=\\dfrac{e^{\\sqrt{2x}-3}}{\\sqrt{2x}}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-016",
+      "text": "\\(\\displaystyle\\lim_{x \\to 0} \\dfrac{1 - \\cos x}{x^2}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-\\dfrac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{1-\\cos x}{x^2}=\\dfrac{2\\sin^2\\frac{x}{2}}{x^2}=\\dfrac{1}{2}\\left(\\dfrac{\\sin\\frac{x}{2}}{\\frac{x}{2}}\\right)^2\\to\\dfrac{1}{2}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-017",
+      "text": "\\(\\dfrac{d}{dx}\\left(\\cos\\dfrac{1}{x}\\right)\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{1}{x^2}\\cos\\dfrac{1}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(-\\dfrac{1}{x^2}\\sin\\dfrac{1}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{x^2}\\sin\\dfrac{1}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{x^2}\\cos\\dfrac{1}{x}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}\\cos\\dfrac{1}{x}=-\\sin\\dfrac{1}{x}\\cdot\\left(-\\dfrac{1}{x^2}\\right)=\\dfrac{1}{x^2}\\sin\\dfrac{1}{x}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-018",
+      "text": "\\(f(x) = x^2 - x - 2\\) বক্ররেখার \\((2, -1)\\) বিন্দুতে স্পর্শকের ঢাল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-3\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(f'(x)=2x-1\\); \\(x=2\\) এ \\(f'(2)=3\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-019",
+      "text": "\\(e^{xy+3} = 2\\) হলে \\(\\dfrac{dy}{dx}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-y}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{-x}{y}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\ln 2}{x}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\ln 2}{xy}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(e^{xy+3}=2\\Rightarrow xy+3=\\ln2\\); অন্তরীকরণ করে \\(y+x\\dfrac{dy}{dx}=0\\)\n\\(\\dfrac{dy}{dx}=-\\dfrac{y}{x}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-020",
+      "text": "\\(\\displaystyle\\lim_{x \\to \\infty}\\left(1 + \\dfrac{1}{x}\\right)^{x+5} = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{e}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(e^5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\infty\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\left(1+\\dfrac{1}{x}\\right)^{x+5}=\\left(1+\\dfrac{1}{x}\\right)^x\\left(1+\\dfrac{1}{x}\\right)^5\\to e\\cdot1=e\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-021",
+      "text": "\\(\\dfrac{d}{dx}(x^{2x}) = \\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2x \\cdot x^{2x-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{x^{2x+1}}{2x+1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^x(1 + \\ln 2x)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^{2x}(2 + 2\\ln x)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(y=x^{2x}\\Rightarrow\\ln y=2x\\ln x\\)\n\\(\\dfrac{y'}{y}=2\\ln x+2\\Rightarrow y'=x^{2x}(2+2\\ln x)\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-022",
+      "text": "\\(\\displaystyle\\lim_{x \\to 0} \\dfrac{\\sin x}{\\sin 2x}\\) এর মান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{\\sin x}{\\sin2x}=\\dfrac{\\sin x}{2\\sin x\\cos x}=\\dfrac{1}{2\\cos x}\\to\\dfrac{1}{2}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-023",
+      "text": "\\(\\sin^{-1} 2x\\) এর অন্তরজ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2}{\\sqrt{1 - 4x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{1 - 4x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{-2}{\\sqrt{1 - 4x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2\\sqrt{1 - 4x^2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{d}{dx}\\sin^{-1}2x=\\dfrac{1}{\\sqrt{1-4x^2}}\\cdot2=\\dfrac{2}{\\sqrt{1-4x^2}}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-024",
+      "text": "\\(y = e^x\\) হলে, \\(y_4\\) কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(e^{4x}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^x\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(e^{-x}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(e^{-4x}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(e^x\\) এর যেকোনো ক্রমের অন্তরজ \\(e^x\\)-ই থাকে, তাই \\(y_4=e^x\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-025",
+      "text": "\\(f(x) = \\dfrac{1 - \\cos x}{1 + \\cos x}\\) হলে, \\(f'(x)\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\tan\\dfrac{x}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sec^2\\dfrac{x}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\tan\\dfrac{x}{2}\\sec^2\\dfrac{x}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\tan\\dfrac{x}{2}\\cdot\\sec^2\\dfrac{x}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(f(x)=\\dfrac{2\\sin^2\\frac{x}{2}}{2\\cos^2\\frac{x}{2}}=\\tan^2\\dfrac{x}{2}\\)\n\\(f'(x)=2\\tan\\dfrac{x}{2}\\sec^2\\dfrac{x}{2}\\cdot\\dfrac{1}{2}=\\tan\\dfrac{x}{2}\\sec^2\\dfrac{x}{2}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-026",
+      "text": "\\(y = \\ln e^{x^2}\\) হলে \\(y_2 = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2x\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^{x^2}\\ln e^{x^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(e^{x^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(y=\\ln e^{x^2}=x^2\\Rightarrow y_1=2x,\\ y_2=2\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-027",
+      "text": "বক্ররেখাটির \\((2, -5)\\) বিন্দুতে অঙ্কিত স্পর্শকের ঢাল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(3x^2 + y - 7 = 0\\) একটি বক্ররেখা।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-RB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(12\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-10\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(-12\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(y=7-3x^2\\Rightarrow\\dfrac{dy}{dx}=-6x\\)\n\\(x=2\\) এ ঢাল \\(=-12\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-028",
+      "text": "বক্ররেখার কোন বিন্দুতে স্পর্শকটি x-অক্ষের সমান্তরাল হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(3x^2 + y - 7 = 0\\) একটি বক্ররেখা।",
+      "stem_image": null,
+      "group": "higher_math_1st-2023-RB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((0, 7)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((0, -7)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((6, 0)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((-6, 0)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "x-অক্ষের সমান্তরাল স্পর্শকের ঢাল 0: \\(-6x=0\\Rightarrow x=0\\)\n\\(y=7-0=7\\); বিন্দু \\((0,7)\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-029",
+      "text": "\\(\\displaystyle\\lim_{x \\to \\infty} \\dfrac{x^2 - 7x}{5x^2 - 3x}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-\\dfrac{7}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{7}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "লব ও হরকে \\(x^2\\) দিয়ে ভাগ করে \\(\\dfrac{1-\\frac{7}{x}}{5-\\frac{3}{x}}\\to\\dfrac{1}{5}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-030",
+      "text": "\\(y = x^{-\\frac{1}{x}}\\) হলে \\(\\dfrac{dy}{dx} = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^{-2-\\frac{1}{x}}(1 - \\ln x)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^{\\frac{1}{x}+2}(\\ln x - 1)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^{-2+\\frac{1}{x}}(1 - \\ln x)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^{-2-\\frac{1}{x}}(\\ln x - 1)\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\ln y=-\\dfrac{\\ln x}{x}\\)\n\\(\\dfrac{y'}{y}=-\\dfrac{1-\\ln x}{x^2}=\\dfrac{\\ln x-1}{x^2}\\)\n\\(y'=x^{-\\frac{1}{x}}\\cdot x^{-2}(\\ln x-1)=x^{-2-\\frac{1}{x}}(\\ln x-1)\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-031",
+      "text": "\\(\\displaystyle\\lim_{x \\to 3} \\dfrac{x^3 - 27}{x^2 - 9}\\) এর মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\infty\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{9}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\dfrac{x^3-27}{x^2-9}=\\dfrac{(x-3)(x^2+3x+9)}{(x-3)(x+3)}=\\dfrac{x^2+3x+9}{x+3}\\)\n\\(x\\to3\\) এ মান \\(=\\dfrac{27}{6}=\\dfrac{9}{2}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

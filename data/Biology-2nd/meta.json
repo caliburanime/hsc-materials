@@ -1,0 +1,119 @@
+{
+  "subject_id": "biology_2nd",
+  "subject_name": "জীববিজ্ঞান দ্বিতীয় পত্র",
+  "subject_name_en": "Biology 2nd Paper",
+  "subject_code": 179,
+  "total_chapters": 12,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+      "name_en": "Animal Diversity and Classification"
+    },
+    {
+      "number": 2,
+      "name": "প্রাণীর পরিচিতি",
+      "name_en": "Introduction to Animals"
+    },
+    {
+      "number": 3,
+      "name": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ",
+      "name_en": "Human Physiology: Digestion and Absorption"
+    },
+    {
+      "number": 4,
+      "name": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন",
+      "name_en": "Human Physiology: Blood and Circulation"
+    },
+    {
+      "number": 5,
+      "name": "মানব শারীরতত্ত্ব: শ্বসন ও শ্বাসক্রিয়া",
+      "name_en": "Human Physiology: Respiration"
+    },
+    {
+      "number": 6,
+      "name": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন",
+      "name_en": "Human Physiology: Excretion"
+    },
+    {
+      "number": 7,
+      "name": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা",
+      "name_en": "Human Physiology: Locomotion and Movement"
+    },
+    {
+      "number": 8,
+      "name": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ",
+      "name_en": "Human Physiology: Coordination and Control"
+    },
+    {
+      "number": 9,
+      "name": "মানব জীবনের ধারাবাহিকতা",
+      "name_en": "Continuity of Human Life"
+    },
+    {
+      "number": 10,
+      "name": "মানবদেহের প্রতিরক্ষা",
+      "name_en": "Defence of the Human Body"
+    },
+    {
+      "number": 11,
+      "name": "জিনতত্ত্ব ও বিবর্তন",
+      "name_en": "Genetics and Evolution"
+    },
+    {
+      "number": 12,
+      "name": "প্রাণীর আচরণ",
+      "name_en": "Animal Behaviour"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2023",
+    "2025"
+  ]
+}

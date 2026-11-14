@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="160" height="120" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="25" y1="10" x2="25" y2="112" />
+<line x1="25" y1="65" x2="150" y2="65" />
+<text x="32" y="22" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="13" fill="#111" stroke="none">V<tspan baseline-shift="sub" font-size="70%">out</tspan></text>
+<path d="M35.0,65.0 L36.7,60.9 L38.4,57.0 L40.1,53.2 L41.8,49.7 L43.5,46.6 L45.2,44.0 L46.9,41.8 L48.6,40.3 L50.3,39.3 L52.0,39.0 L53.7,39.3 L55.4,40.3 L57.1,41.8 L58.8,44.0 L60.5,46.6 L62.2,49.7 L63.9,53.2 L65.6,57.0 L67.3,60.9 L69.0,65.0" />
+<path d="M97.0,65.0 L98.7,60.9 L100.4,57.0 L102.1,53.2 L103.8,49.7 L105.5,46.6 L107.2,44.0 L108.9,41.8 L110.6,40.3 L112.3,39.3 L114.0,39.0 L115.7,39.3 L117.4,40.3 L119.1,41.8 L120.8,44.0 L122.5,46.6 L124.2,49.7 L125.9,53.2 L127.6,57.0 L129.3,60.9 L131.0,65.0" />
+
+</g>
+</svg>

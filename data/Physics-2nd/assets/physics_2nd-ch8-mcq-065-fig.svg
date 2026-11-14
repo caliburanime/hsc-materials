@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 270" width="460" height="270">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="460" height="270" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70.0,210.0 L70.0,24.0" marker-end="url(#ah)"/>
+<path d="M70.0,210.0 L420.0,210.0" marker-end="url(#ah)"/>
+<path d="M190.0,210.0 L320.0,54.0"/>
+<path d="M320.0,210.0 L320.0,54.0"/>
+<path d="M220,210 A30,30 0 0 0 209.2,187.0"/>
+<text x="70" y="16" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">Y</text>
+<text x="432" y="214" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">X</text>
+<text x="60" y="226" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">O</text>
+<text x="186" y="228" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">f</tspan><tspan baseline-shift="sub" font-size="70%">0</tspan></text>
+<text x="322" y="228" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">f</tspan></text>
+<text x="234" y="196" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">θ</tspan></text>
+<text x="54" y="120" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">eV</tspan><tspan baseline-shift="sub" font-size="70%">0</tspan></text>
+<path d="M54.0,150.0 L54.0,130.0" marker-end="url(#ah)"/>
+<path d="M190.0,250.0 L220.0,250.0" marker-end="url(#ah)"/>
+<text x="226" y="255" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">f</tspan> (<tspan font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="14">কম্পাঙ্ক</tspan>)</text>
+
+</g></svg>

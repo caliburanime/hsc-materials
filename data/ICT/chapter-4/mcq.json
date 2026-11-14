@@ -45,7 +45,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "নোটপ্যাড, নোটপ্যাড++ ও সাবলাইম টেক্সট সবই টেক্সট এডিটর, যেগুলোতে HTML কোড লেখা যায়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -86,7 +86,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "HTML ডকুমেন্ট টাইপ ঘোষণার সঠিক রূপ \\( \\texttt{<!DOCTYPE html>} \\)।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -128,7 +128,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "allNews.com এর .com ডোমেইন বাণিজ্যিক প্রতিষ্ঠান নির্দেশ করে।",
       "source": {
         "board": "DB",
         "year": "2025",
@@ -172,7 +172,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ওয়েব সাইট ভিজিটের জন্য HTTP (Hypertext Transfer Protocol) ব্যবহৃত হয়। SMTP ইমেইল পাঠানোর, FTP ফাইল স্থানান্তরের এবং VOIP ভয়েস কলের প্রটোকল।",
       "source": {
         "board": "DB",
         "year": "2025",
@@ -213,7 +213,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "রংয়ের হেক্সাডেসিমাল কোডে #FFFFFF এর অর্থ লাল, সবুজ ও নীল প্রতিটি সর্বোচ্চ (FF), যা সাদা রং।",
       "source": {
         "board": "DB",
         "year": "2025",
@@ -253,7 +253,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "টেবিলের একটি সেলের (ঘরের) ব্যাকগ্রাউন্ড রং দিতে td ট্যাগে bgcolor অ্যাট্রিবিউট ব্যবহার করতে হয়: \\( \\texttt{<td bgcolor=\"green\">} \\)।",
       "source": {
         "board": "DB",
         "year": "2025",
@@ -307,7 +307,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "GIF ও PNG ওয়েব পেইজে ব্যবহৃত ইমেজ ফরমেট। PSD হলো ফটোশপের নিজস্ব ফাইল ফরমেট, ওয়েবের ইমেজ ফরমেট নয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -347,7 +347,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "HTML এ \\( \\texttt{<h1>} \\) থেকে \\( \\texttt{<h6>} \\) পর্যন্ত হেডিং ট্যাগ আছে; \\( \\texttt{<h1>} \\) সবচেয়ে বড়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -387,7 +387,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "অ্যাট্রিবিউট শুরু (ওপেনিং) ট্যাগে লেখা হয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -427,7 +427,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<br>} \\) ফাঁকা (empty) ট্যাগ, কারণ এর কোনো শেষ ট্যাগ বা কনটেন্ট নেই।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -510,7 +510,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<big>} \\) লেখার আকার বড় করে, তাই এটি ফরমেটিং ট্যাগ। \\( \\texttt{<ol>} \\) লিস্ট ট্যাগ এবং \\( \\texttt{<a>} \\) লিংক ট্যাগ।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -550,7 +550,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<ul>} \\) (unordered list) লিস্ট তৈরিতে ব্যবহৃত হয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -590,7 +590,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "style অ্যাট্রিবিউটের একাধিক প্রপার্টি ছোট কোটেশনের ভেতরে property:value আকারে সেমিকোলন (;) দিয়ে আলাদা করে লিখতে হয়: \\( \\texttt{style=\"color:red;float:left;\"} \\)।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -633,7 +633,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ul এর type=\"disc\" হলে আইটেমের আগে ভরাট গোল বিন্দু (•) দেখা যায়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -687,7 +687,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<i>} \\) ও \\( \\texttt{<em>} \\) উভয়ই লেখাকে ইটালিক করে। \\( \\texttt{<Italic>} \\) নামে কোনো HTML ট্যাগ নেই।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -697,7 +697,8 @@
         "html",
         "formatting"
       ],
-      "difficulty": null
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: \\( \\texttt{<em>} \\) ইটালিক রেন্ডার করে, আর \\( \\texttt{<Italic>} \\) বৈধ ট্যাগ নয়; তাই সঠিক উত্তর (ক) i ও ii।"
     },
     {
       "id": "ict-ch4-mcq-017",
@@ -727,7 +728,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<img>} \\) এম্পটি এলিমেন্ট, কারণ এর কোনো কনটেন্ট ও ক্লোজিং ট্যাগ নেই।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -784,7 +785,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "কোডে \\( \\texttt{<i>} \\) ফরমেটিং ট্যাগ এবং \\( \\texttt{<a>} \\) হাইপারলিংক ট্যাগ আছে। কোনো টেবিল ট্যাগ নেই, তাই ii ও iii সঠিক।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -794,7 +795,8 @@
         "html",
         "tags"
       ],
-      "difficulty": null
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: কোডে টেবিল ট্যাগ নেই; আছে হাইপারলিংক (\\( \\texttt{<a>} \\)) ও ফরমেটিং (\\( \\texttt{<i>} \\)) ট্যাগ। সঠিক উত্তর (গ) ii ও iii।"
     },
     {
       "id": "ict-ch4-mcq-019",
@@ -870,7 +872,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<span style=\"color:red\">} \\) এ span ট্যাগ, style অ্যাট্রিবিউট এবং color:red অ্যাট্রিবিউটের মান। সুতরাং অ্যাট্রিবিউট style।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -910,7 +912,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "ইমেজ লোড না হলে বিকল্প টেক্সট দেখানোর জন্য alt অ্যাট্রিবিউট ব্যবহৃত হয়।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -965,7 +967,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "\\( \\texttt{<font>} \\) ট্যাগ দিয়ে টেক্সটের ফন্ট (face) ও রং (color) ঠিক করা যায়। লিস্ট আকারে সাজাতে ul/ol ব্যবহৃত হয়।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1005,7 +1007,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "ছবি প্রদর্শনের ট্যাগ \\( \\texttt{<img>} \\)।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1048,7 +1050,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "এক ওয়েবসাইট থেকে অন্য ওয়েবসাইটে যাওয়ার জন্য হাইপারলিংক ট্যাগ \\( \\texttt{<a>} \\) ব্যবহার করা হয়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1105,7 +1107,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "হাইপারলিংক ট্যাগ ব্যবহার করলে ভিন্ন অবস্থানের পেইজে যাওয়া যায়, সম্পর্কিত তথ্য দ্রুত দেখা যায় এবং ব্রাউজারকারীর সময় কম লাগে। তাই i, ii ও iii সবই সঠিক।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1203,7 +1205,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ইমেজ যুক্ত করতে \\( \\texttt{<img>} \\) ট্যাগে src এ ফাইলের নাম এবং width ও height অ্যাট্রিবিউটে আকার দিতে হয়। (খ) তে এভাবেই লেখা হয়েছে, বাকি অপশনের গঠন ভুল।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1243,7 +1245,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "সঠিক HTML কোড হলো \\( \\texttt{<a href=\"document 1.html\">document</a>} \\), যা লিংক তৈরির সঠিক গঠন। অন্য অপশনগুলোর সিনট্যাক্স ভুল।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1283,7 +1285,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "ডোমেইন নাম হলো ওয়েবসাইটের একটি স্বতন্ত্র নাম, যা মনে রাখা সহজ এবং IP অ্যাড্রেসের পরিবর্তে ব্যবহৃত হয়। যেমন: www.google.com।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1323,7 +1325,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "ইন্টারনেটে প্রতিটি ওয়েবসাইট যে সার্ভারে থাকে তার একটি অনন্য সংখ্যাভিত্তিক ঠিকানা থাকে, একে IP Address বলে। তাই ওয়েবসাইটের একক ঠিকানা হলো IP Address।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1377,7 +1379,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "(i) সঠিক: HTML ফাইলের শুরু ট্যাগ <html>।\n(ii) ভুল: সব ট্যাগ জোড়ায় থাকে না; <br>, <hr>, <img> এর মতো এম্পটি ট্যাগে ক্লোজিং ট্যাগ নেই।\n(iii) সঠিক: অ্যাট্রিবিউট সবসময় শুরু ট্যাগের ভেতরে লেখা হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1417,7 +1419,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবপেজে ছবি যুক্ত করতে <img> ট্যাগ ব্যবহৃত হয়, যেমন <img src=\"pic.jpg\">।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1471,7 +1473,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ওয়েবসাইট পাবলিশ করতে হলে সার্ভার কম্পিউটারকে (i) সর্বক্ষণ সচল রাখতে হয়, (ii) সার্বক্ষণিক ইন্টারনেটে যুক্ত থাকতে হয় এবং (iii) এর একটি পাবলিক IP অ্যাড্রেস থাকতে হয়। তিনটিই সঠিক।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1510,7 +1512,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "হাইপারলিংক তৈরির জন্য অ্যাঙ্কর ট্যাগ <a>...</a> ব্যবহৃত হয়। <li> লিস্ট আইটেম, <p> অনুচ্ছেদ এবং <u> আন্ডারলাইনের জন্য।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1631,7 +1633,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "একটি ওয়েবসাইটের দুটি অংশ থাকে: হোমপেজ এবং অন্যান্য ওয়েবপেজ।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1710,7 +1712,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "লিস্টে প্রতিটি আইটেম যুক্ত করতে <li> ট্যাগ ব্যবহৃত হয়। <ol> ও <ul> যথাক্রমে ক্রমিক ও অক্রমিক লিস্ট তৈরি করে এবং <dl> ডেফিনিশন লিস্টের জন্য।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1750,7 +1752,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "যে ট্যাগের ক্লোজিং ট্যাগ থাকে না তাকে এম্পটি ট্যাগ বলে। <hr> (অনুভূমিক রেখা) এম্পটি ট্যাগ; <td>, <ol>, <em> এর ক্লোজিং ট্যাগ আছে।",
       "source": {
         "board": "BB",
         "year": "2019",
@@ -1790,7 +1792,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "<font> ট্যাগে ফন্টের নাম পরিবর্তনের জন্য face অ্যাট্রিবিউট ব্যবহৃত হয়, যেমন <font face=\"Arial\">। size দিয়ে আকার নির্ধারণ করা হয়।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -1845,7 +1847,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "Google ও Yahoo সার্চ ইঞ্জিন। Mozilla একটি ওয়েব ব্রাউজার (Firefox) তৈরির প্রতিষ্ঠান, সার্চ ইঞ্জিন নয়।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1884,7 +1886,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "HTML ফাইল .html বা .htm এক্সটেনশনে সংরক্ষণ করা হয়।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1923,7 +1925,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ওয়েবসাইট হোস্টিং করলে ওয়েবসাইটের ফাইলগুলো ওয়েব সার্ভারে রাখা হয়, যাতে ইন্টারনেটের মাধ্যমে সবাই তা দেখতে পারে।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1962,7 +1964,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "<a> ট্যাগ দিয়ে হাইপারলিংক তৈরি করা যায়; ফলে এক ক্লিকেই কাঙ্ক্ষিত পেজে চলে যাওয়া যায় এবং ব্রাউজিংয়ের সময় বাঁচে।",
       "source": {
         "board": "DB",
         "year": "2019",
@@ -2005,7 +2007,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "তমাল ওয়েবপেজ লোড হওয়ার পর ডেটা পরিবর্তন করতে পারছে না। যে ওয়েবপেজের কনটেন্ট ব্যবহারকারী পরিবর্তন করতে পারে না এবং যা পূর্বনির্ধারিত থাকে, তা স্ট্যাটিক ওয়েবপেজ।",
       "source": {
         "board": "DB",
         "year": "2019",
@@ -2162,7 +2164,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ছবি না দেখানোর কারণ হতে পারে: (i) ফাইলের নাম ভুল লেখা, (ii) ব্রাউজার ছবির ফরম্যাট সাপোর্ট না করা এবং (iii) ছবির সঠিক লোকেশন (পাথ) না দেওয়া। তিনটিই সঠিক।",
       "source": {
         "board": "RB",
         "year": "2019",
@@ -2202,7 +2204,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) সারা বিশ্বের IP অ্যাড্রেস ও ডোমেইন নেম নিয়ন্ত্রণ ও সমন্বয় করে।",
       "source": {
         "board": "RB",
         "year": "2019",
@@ -2242,7 +2244,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "নেটওয়ার্ক কাঠামোতে প্রতিটি পেজ অন্য সকল পেজের সাথে যুক্ত থাকে, ফলে যেকোনো পেজ থেকে সরাসরি হোমপেজে যাওয়া যায়।",
       "source": {
         "board": "RB",
         "year": "2019",
@@ -2281,7 +2283,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "IPv4 অ্যাড্রেস ৩২ বিটের (৪টি অক্টেট, প্রতিটি ৮ বিট)। IPv6 ১২৮ বিটের।",
       "source": {
         "board": "CB",
         "year": "2019",
@@ -2376,7 +2378,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "RGB-তে প্রতিটি রঙের মান 0 থেকে 255। তিনটির মান সর্বোচ্চ (255, 255, 255) হলে সাদা রং পাওয়া যায়।",
       "source": {
         "board": "CB",
         "year": "2019",
@@ -2459,7 +2461,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "color=\"red\" হলো লাল রং। হেক্সাডেসিমেলে লাল = #FF0000 (R=FF, G=00, B=00)। #00FF00 সবুজ এবং #0000FF নীল।",
       "source": {
         "board": "SB",
         "year": "2019",
@@ -2516,7 +2518,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "<font> ট্যাগের অ্যাট্রিবিউট হলো face, size ও color। href হলো <a> ট্যাগের অ্যাট্রিবিউট, তাই (i) ভুল; (ii) ও (iii) সঠিক।",
       "source": {
         "board": "SB",
         "year": "2019",
@@ -2557,7 +2559,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "স্ট্যাটিক ওয়েবসাইটের কনটেন্ট নির্দিষ্ট ও ডেটাবেজ ছাড়া তৈরি হয় বলে ব্রাউজারে দ্রুত লোড হয়। অন্য তিনটি (অনির্দিষ্ট কনটেন্ট, ডেটাবেজ, ইনপুটের ব্যবস্থা) ডায়নামিক সাইটের বৈশিষ্ট্য।",
       "source": {
         "board": "BB",
         "year": "2019",
@@ -2597,7 +2599,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "শিক্ষা প্রতিষ্ঠানের জন্য টপ লেভেল ডোমেইন .edu। .gov সরকারি, .com বাণিজ্যিক এবং .org অলাভজনক সংস্থার জন্য।",
       "source": {
         "board": "BB",
         "year": "2019",
@@ -2651,7 +2653,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "টেবিল তৈরিতে <tr> (সারি), <td> (সেল) এবং <th> (হেডার সেল) ট্যাগ ব্যবহৃত হয়। তিনটিই সঠিক।",
       "source": {
         "board": "BB",
         "year": "2019",
@@ -2694,7 +2696,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "এলিমেন্টের ওপেনিং ও ক্লোজিং ট্যাগের মাঝের অংশ কনটেন্ট। এখানে <p> ও </p> এর মাঝে Bangladesh হলো কনটেন্ট।",
       "source": {
         "board": "JB",
         "year": "2019",
@@ -2737,7 +2739,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "অ্যাট্রিবিউট নাম = ভ্যালু আকারে লেখা হয়। এখানে align হলো অ্যাট্রিবিউটের নাম এবং center হলো এর ভ্যালু।",
       "source": {
         "board": "JB",
         "year": "2019",
@@ -2791,7 +2793,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ওয়েবসাইট পাবলিশ করতে প্রথমে ওয়েবপেজ ডিজাইন করতে হয়, এরপর ডোমেইন নেম রেজিস্ট্রেশন এবং ওয়েব হোস্টিং করতে হয়। তিনটিই সঠিক।",
       "source": {
         "board": "JB",
         "year": "2019",
@@ -2844,7 +2846,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "টিম বার্নার্সলি WWW ও HTML এর উদ্ভাবক; তিনি MIT এর অধ্যাপক ছিলেন এবং জেনেভার CERN এ কাজ করার সময় HTML উদ্ভাবন করেন। (i) ও (iii) সঠিক। Google এর জনক ল্যারি পেজ ও সের্গেই ব্রিন, তাই (ii) ভুল।",
       "source": {
         "board": "CB",
         "year": "2019",
@@ -2883,7 +2885,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "URL এর সর্বশেষ অংশ ডোমেইনের ধরন নির্দেশ করে, একে টপ লেভেল ডোমেইন বলে। এখানে moedu.gov এর শেষে gov আছে।",
       "source": {
         "board": "DIB",
         "year": "2019",
@@ -2923,7 +2925,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "টেবিলের নির্দিষ্ট সেলের ব্যাকগ্রাউন্ড রং দিতে সেল ট্যাগ <td> তে bgcolor অ্যাট্রিবিউট ব্যবহার করা হয়, যেমন <td bgcolor=\"green\">। <table> বা <tr> এ দিলে পুরো টেবিল বা সারিতে প্রযোজ্য হয়।",
       "source": {
         "board": "DIB",
         "year": "2019",
@@ -2978,7 +2980,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "<br> এম্পটি ট্যাগ; এতে ক্লোজিং ট্যাগ (ii) থাকে না এবং ভেতরে কোনো টেক্সট কনটেন্ট (iii) থাকে না। তবে এটি শুধু ওপেনিং আকারে লেখা হয়, তাই (i) থাকে।",
       "source": {
         "board": "DIB",
         "year": "2019",
@@ -3032,7 +3034,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "<br> ও <img> এম্পটি ট্যাগ, এদের কোনো কনটেন্ট বা এলিমেন্ট থাকে না। <u> এর ওপেনিং ও ক্লোজিং ট্যাগের মাঝে কনটেন্ট থাকে।",
       "source": {
         "board": "ALL",
         "year": "2018",
@@ -3075,7 +3077,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবপেজ বহুস্তরে বিন্যস্ত থাকলে তা হায়ারারকিক্যাল (ট্রি) কাঠামো; এখানে হোমপেজ থেকে ধাপে ধাপে নিচের স্তরের পেজে যাওয়া যায়।",
       "source": {
         "board": "ALL",
         "year": "2018",
@@ -3132,7 +3134,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবসাইট ইন্টারনেটে প্রদর্শনের জন্য ডোমেইন নেম রেজিস্ট্রেশন (i) ও ওয়েব হোস্টিং (iii) করতে হয়। ওয়েবপেজ সমান করা কোনো পদক্ষেপ নয়, তাই (ii) ভুল।",
       "source": {
         "board": "ALL",
         "year": "2018",
@@ -3171,7 +3173,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "এক পেজের সাথে অন্য পেজের সংযোগকে HTML এ হাইপারলিংক (Hyperlink) বলে।",
       "source": {
         "board": "ALL",
         "year": "2018",
@@ -3211,7 +3213,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "HTML ট্যাগ কোণ বন্ধনী < > এর ভেতরে লেখা হয়, যেমন <html>।",
       "source": {
         "board": "DB",
         "year": "2017",
@@ -3251,7 +3253,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "লিংক তৈরির ট্যাগ হলো অ্যাঙ্কর ট্যাগ <a>...</a>।",
       "source": {
         "board": "DIB",
         "year": "2019",
@@ -3305,7 +3307,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "URL এর অংশ: প্রোটোকল নেম (http), হোস্ট নেম (www.example.com) এবং ডাইরেক্টরি/পাথ নেম। তিনটিই সঠিক।",
       "source": {
         "board": "RB",
         "year": "2017",
@@ -3348,7 +3350,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "<table> এ border অ্যাট্রিবিউট দেওয়া নেই, তাই বর্ডার ছাড়া দুই সারি ও দুই কলামে A B এবং C D দেখাবে। ছবিতে (ঘ) অপশনে বর্ডারবিহীন এই বিন্যাস আছে; (ক), (খ) ও (গ) এ বর্ডার/রেখা আছে বা বিন্যাস ভিন্ন।",
       "source": {
         "board": "RB",
         "year": "2017",
@@ -3405,7 +3407,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "নিরব হাইপারলিংক ব্যবহার করছে। এর মাধ্যমে (i) একই পেজের এক অংশ থেকে অন্য অংশে, (ii) এক পেজ থেকে অন্য পেজে এবং (iii) এক ওয়েবসাইট থেকে অন্য ওয়েবসাইটে লিংক করা যায়।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -3445,7 +3447,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "<h1> থেকে <h6> পর্যন্ত হেডিং ট্যাগ; <h1> সবচেয়ে বড় এবং <h6> সবচেয়ে ছোট।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -3502,7 +3504,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "হাইপারলিংকের মাধ্যমে (i) এক পেজ থেকে অন্য পেজে এবং (ii) একই পেজের এক অংশ থেকে অন্য অংশে যাওয়া যায়। (iii) ভুল, কারণ ভিন্ন সার্ভারের সাইটের সাথেও লিংক করা যায়।",
       "source": {
         "board": "SB",
         "year": "2017",
@@ -3542,7 +3544,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "নির্দিষ্ট সেলের ব্যাকগ্রাউন্ড রং দিতে সেল ট্যাগ <td> তে bgcolor অ্যাট্রিবিউট ব্যবহৃত হয়: <td bgcolor=\"yellow\">।",
       "source": {
         "board": "SB",
         "year": "2017",
@@ -3597,7 +3599,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবসাইটে ছবির জন্য .jpg ও .png ফরম্যাট ব্যবহৃত হয়। .img কোনো প্রচলিত ছবির ফরম্যাট নয়।",
       "source": {
         "board": "BB",
         "year": "2017",
@@ -3640,7 +3642,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "<img> ট্যাগের সঠিক সিনট্যাক্স হলো src=\"ফাইলের নাম\" এবং height ও width এর মান উদ্ধৃতি চিহ্নের ভেতরে = দিয়ে লেখা। (গ) তে এটি সঠিকভাবে আছে; অন্যগুলোতে = বা উদ্ধৃতি চিহ্ন নেই কিংবা ভুল অ্যাট্রিবিউট আছে।",
       "source": {
         "board": "BB",
         "year": "2017",
@@ -3680,7 +3682,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "ডোমেইন নাম হলো ওয়েবসাইটের একটি স্বতন্ত্র নাম, যা IP অ্যাড্রেসের বদলে ব্যবহার করা হয়।",
       "source": {
         "board": "JB",
         "year": "2017",
@@ -3720,7 +3722,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "HTML এর উদ্ভাবক টিম বার্নার্স লি (Tim Berners-Lee), যিনি ১৯৯০ সালে CERN এ কাজ করার সময় এটি উদ্ভাবন করেন।",
       "source": {
         "board": "JB",
         "year": "2017",
@@ -3774,7 +3776,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "HTML ফাইল .html বা .htm এক্সটেনশনে সংরক্ষণ করা হয়। .doc ওয়ার্ড ডকুমেন্টের এক্সটেনশন।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -3827,7 +3829,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "গুগল ক্রোম ও সাফারি ওয়েব ব্রাউজার। ইউটিউব একটি ভিডিও শেয়ারিং ওয়েবসাইট, ব্রাউজার নয়।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -3869,7 +3871,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "<h1> সবচেয়ে বড় হেডিং ট্যাগ, তাই ICT লেখাটি বড় ও মোটা হরফে দেখাবে। টাইটেল হিসেবে দেখাতে <title> ট্যাগ লাগে।",
       "source": {
         "board": "DB",
         "year": "2016",
@@ -3912,7 +3914,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "শুভ ইলেকট্রনিক ফরম পূরণ করেছে এবং মেসেজ পেয়েছে, এটি ওয়েবসাইটভিত্তিক সেবা, যেখানে ওয়েবসাইটের মাধ্যমে তথ্য আদান-প্রদান হয়।",
       "source": {
         "board": "DB",
         "year": "2016",
@@ -3968,7 +3970,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "দৃশ্যকল্প-২ এর HTML কোড লিখতে (i) HTML সিনট্যাক্স, (ii) টেক্সট এডিটর (যেমন নোটপ্যাড) এবং ফলাফল দেখতে (iii) ব্রাউজার সফটওয়্যার লাগে। তিনটিই সঠিক।",
       "source": {
         "board": "DB",
         "year": "2016",
@@ -4008,7 +4010,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবপেজ ডিজাইন বলতে HTML ডকুমেন্ট তৈরি করাকে বোঝায়। অন্য অপশনগুলো ওয়েব হোস্টিং, WWW ও ডোমেইন রেজিস্ট্রেশনের সাথে সম্পর্কিত।",
       "source": {
         "board": "DB",
         "year": "2016",
@@ -4048,7 +4050,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "URL এর শেষ অংশ (.com) ডোমেইনের প্রকৃতি বা ধরন নির্দেশ করে; এখানে .com বাণিজ্যিক প্রতিষ্ঠান বোঝায়।",
       "source": {
         "board": "DB",
         "year": "2016",
@@ -4091,7 +4093,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "চিত্রে Page-1 থেকে Page-2 এবং Page-2 থেকে Page-3 পর্যন্ত পরপর একমুখী সংযোগ আছে। এরূপ ক্রমিক কাঠামো লিনিয়ার।",
       "source": {
         "board": "RB",
         "year": "2016",
@@ -4148,7 +4150,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "Page-4 ও Page-5 কে Page-2 এর সাথে যুক্ত করলে (i) কাঠামো লিনিয়ার থেকে পরিবর্তিত হবে এবং (ii) নতুন লিংকের জন্য নতুন করে HTML কোড লিখতে হবে। (iii) ভুল, কারণ পেজ সংখ্যা একই থাকায় মেমোরি কম লাগার কারণ নেই।",
       "source": {
         "board": "RB",
         "year": "2016",
@@ -4188,7 +4190,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "ওয়েবপেজ তৈরির ভাষা HTML (HyperText Markup Language)। Python, COBOL ও FORTRAN প্রোগ্রামিং ভাষা।",
       "source": {
         "board": "RB",
         "year": "2016",
@@ -4228,7 +4230,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "হায়ারারকিক্যাল কাঠামোতে হোমপেজ থেকে বিভিন্ন পেজে লিংক থাকে, অর্থাৎ ওয়েবসাইট হোমপেজ-নির্ভর হয়।",
       "source": {
         "board": "RB",
         "year": "2016",
@@ -4308,7 +4310,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "ওপেনিং ট্যাগ থেকে ক্লোজিং ট্যাগ পর্যন্ত সবকিছু মিলে একটি HTML উপাদান (এলিমেন্ট) গঠিত হয়।",
       "source": {
         "board": "CB",
         "year": "2016",
@@ -4362,7 +4364,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "হোমপেজ দেখতে (i) ওয়েব ব্রাউজার এবং (iii) ইন্টারনেট সংযোগ লাগে। সার্চ ইঞ্জিন অপরিহার্য নয়, কারণ সরাসরি URL দিয়েও ব্রাউজারে হোমপেজ দেখা যায়।",
       "source": {
         "board": "CB",
         "year": "2016",
@@ -4404,7 +4406,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "<u> ট্যাগ লেখাকে আন্ডারলাইন করে, তাই This is My Personal Website লাইনটি আন্ডারলাইনসহ দেখাবে। বোল্ডের জন্য <b> এবং ইটালিকের জন্য <i> ব্যবহৃত হয়।",
       "source": {
         "board": "CB",
         "year": "2017",
@@ -4458,7 +4460,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "<font> ট্যাগের অ্যাট্রিবিউট size (আকার), face (ফন্টের নাম) ও color (রং)। তিনটিই সঠিক।",
       "source": {
         "board": "SB",
         "year": "2016",
@@ -4499,7 +4501,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "URL (Uniform Resource Locator) দ্বারা ওয়েবসাইটের ঠিকানা অর্থাৎ ডোমেইন নেম প্রকাশ করা হয়, যেমন http://www.google.com।",
       "source": {
         "board": "SB",
         "year": "2016",
@@ -4539,7 +4541,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "ওয়েবপেজ তৈরিতে সবসময় আবশ্যক ট্যাগ <html>...</html>, কারণ এটি HTML ডকুমেন্টের শুরু ও শেষ নির্দেশ করে। অন্য ট্যাগগুলো প্রয়োজন অনুযায়ী ব্যবহৃত হয়।",
       "source": {
         "board": "SB",
         "year": "2016",
@@ -4579,7 +4581,7 @@
         }
       ],
       "answer": "c",
-      "explanation": null,
+      "explanation": "হেডিং ট্যাগ ৬টি: <h1>, <h2>, <h3>, <h4>, <h5> ও <h6>।",
       "source": {
         "board": "BB",
         "year": "2016",
@@ -4633,7 +4635,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "HTML শেখা সহজ (i) এবং রক্ষণাবেক্ষণ সহজ (iii)। HTML কেস সেনসিটিভ নয়, তাই <HTML> ও <html> একই কাজ করে; (ii) ভুল।",
       "source": {
         "board": "BB",
         "year": "2016",
@@ -4689,7 +4691,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "<b> ফরমেটিং ট্যাগ (i) এবং <a href=...> হাইপারলিংক ট্যাগ (ii)। কোডে কোনো <img> ট্যাগ নেই, তাই (iii) ভুল।",
       "source": {
         "board": "BB",
         "year": "2016",
@@ -4729,7 +4731,7 @@
         }
       ],
       "answer": "b",
-      "explanation": null,
+      "explanation": "HTTP এর পূর্ণরূপ Hyper Text Transfer Protocol।",
       "source": {
         "board": "CB",
         "year": "2016",
@@ -4769,7 +4771,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "ফায়ারফক্স একটি ওয়েব ব্রাউজার। আউটলুক ইমেইল ক্লায়েন্ট, ইয়াহু ম্যাসেঞ্জার চ্যাট সফটওয়্যার এবং ড্রপবক্স ক্লাউড স্টোরেজ সেবা।",
       "source": {
         "board": "DIB",
         "year": "2016",
@@ -4822,7 +4824,7 @@
         }
       ],
       "answer": "a",
-      "explanation": null,
+      "explanation": "<body> অংশে ওয়েবপেজের দৃশ্যমান কনটেন্ট, যেমন ছবি ও টেবিল থাকে। ওয়েবপেজের টাইটেল <head> অংশের <title> ট্যাগে থাকে।",
       "source": {
         "board": "DIB",
         "year": "2016",
@@ -4862,7 +4864,7 @@
         }
       ],
       "answer": "d",
-      "explanation": null,
+      "explanation": "<br> এম্পটি ট্যাগ, তাই এর ক্লোজিং ট্যাগ থাকে না। <tr> এর ক্লোজিং ট্যাগ </tr> আছে। (<img> ও এম্পটি ট্যাগ।)",
       "source": {
         "board": "DB",
         "year": "2017",
@@ -4873,7 +4875,7 @@
         "empty-tag"
       ],
       "difficulty": null,
-      "review_note": "ছাপা উত্তর (d) <br>; কিন্তু <img>-ও ফাঁকা ট্যাগ (ক্লোজিং ট্যাগ নেই), তাই (b) ও (d) দুটোই সঠিক হতে পারে — যাচাই দরকার।"
+      "review_note": "উত্তর যাচাই: প্রশ্নে <img> ও <br> দুটিই ক্লোজিং ট্যাগবিহীন, তাই (খ) ও (ঘ) দুটিই সঠিক; কেবল (ঘ) সঠিক ধরা যায় না। (<hi> সম্ভবত <h1> এর ছাপার ভুল।)"
     }
   ]
 }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="225" viewBox="0 0 310 225">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#111" stroke-width="1.5"/></marker></defs>
+<rect width="310" height="225" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M60,200 C34,170 28,120 52,96 C62,86 78,86 88,92 C96,98 98,112 96,126 C100,150 96,184 84,206 C76,214 66,208 60,200 Z" fill="#fff"/>
+<path d="M190,206 C178,184 176,150 180,126 C178,112 182,98 192,92 C206,86 220,86 228,96 C250,120 244,170 218,200 C208,210 196,214 190,206 Z" fill="#fff"/>
+<path d="M54,130 C60,120 70,120 80,128 M64,150 C72,142 84,146 90,152 M62,172 C70,166 80,168 86,174 M204,130 C212,122 222,124 230,134 M200,152 C208,146 220,148 228,156 M202,174 C210,168 220,170 226,178" stroke-width="1"/>
+<rect x="125" y="20" width="26" height="78" fill="#fff"/>
+<path d="M125,30 H151 M125,38 H151 M125,46 H151 M125,54 H151 M125,62 H151 M125,70 H151 M125,78 H151 M125,86 H151" stroke-width="1"/>
+<path d="M125,98 C125,108 118,114 96,126 M151,98 C151,108 158,114 180,126" />
+<path d="M133,98 C133,106 128,110 110,120 M143,98 C143,106 148,110 166,120" stroke-width="1"/>
+<path d="M158,36 H234" marker-end="url(#ah)"/><path d="M232,150 H278" marker-end="url(#ah)"/>
+<text x="248" y="41" font-family="serif" font-style="italic" font-size="17" fill="#111" stroke="none" text-anchor="middle">A</text><text x="292" y="156" font-family="serif" font-style="italic" font-size="17" fill="#111" stroke="none" text-anchor="middle">B</text>
+</g></svg>

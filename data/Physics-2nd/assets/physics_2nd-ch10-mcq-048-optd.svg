@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="70" viewBox="0 0 160 70">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#111" stroke="none"/></marker><pattern id="h" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#111" stroke-width="3"/></pattern></defs>
+<rect width="160" height="70" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.50" stroke-linecap="round" stroke-linejoin="round">
+<line x1="10.0" y1="38.0" x2="55.0" y2="38.0" />
+<circle cx="80.0" cy="38.0" r="22.0" />
+<polygon points="68.0,26.0 68.0,50.0 92.0,38.0" />
+<line x1="92.0" y1="24.0" x2="92.0" y2="52.0" />
+<line x1="102.0" y1="38.0" x2="150.0" y2="38.0" />
+<line x1="92.0" y1="17.0" x2="106.0" y2="5.0" marker-end="url(#a)"/>
+<line x1="102.0" y1="21.0" x2="116.0" y2="9.0" marker-end="url(#a)"/>
+</g>
+</svg>

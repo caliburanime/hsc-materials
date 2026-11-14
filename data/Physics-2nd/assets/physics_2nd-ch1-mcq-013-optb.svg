@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 125" width="170" height="125">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#111" stroke="none"/></marker></defs>
+<rect width="170" height="125" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" font-family="'Times New Roman', Times, serif" font-size="13">
+<path d="M36,88 L36,12" marker-end="url(#ah)"/>
+<path d="M36,88 L150,88" marker-end="url(#ah)"/>
+<text x="12" y="28" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">P</text>
+<path d="M13,66 L13,42" marker-end="url(#ah)"/>
+<path d="M62,111 L98,111" marker-end="url(#ah)"/>
+<text x="106" y="116" text-anchor="middle" font-size="15" font-style="italic" fill="#111" stroke="none">V</text>
+<path d="M52,31.8 L53.6,36.8 L55.1,41 L56.7,44.5 L58.3,47.6 L59.8,50.2 L61.4,52.6 L63,54.6 L64.5,56.5 L66.1,58.1 L67.7,59.6 L69.2,60.9 L70.8,62.1 L72.4,63.3 L73.9,64.3 L75.5,65.2 L77.1,66.1 L78.6,66.9 L80.2,67.6 L81.8,68.3 L83.3,69 L84.9,69.6 L86.5,70.2 L88,70.7 L89.6,71.2 L91.2,71.7 L92.7,72.1 L94.3,72.6 L95.9,73 L97.4,73.3 L99,73.7 L100.6,74.1 L102.1,74.4 L103.7,74.7 L105.3,75 L106.8,75.3 L108.4,75.6 L110,75.8 L111.5,76.1 L113.1,76.3 L114.7,76.6 L116.2,76.8 L117.8,77 L119.4,77.2 L120.9,77.4 L122.5,77.6 L124.1,77.8 L125.6,78 L127.2,78.1 L128.8,78.3 L130.3,78.5 L131.9,78.6 L133.5,78.8 L135,78.9 L136.6,79.1 L138.2,79.2 L139.7,79.3 L141.3,79.5 L142.9,79.6 L144.4,79.7 L146,79.8"/>
+</g></svg>

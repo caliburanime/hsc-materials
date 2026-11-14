@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 215" width="360" height="215">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+<pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="#111" stroke-width="1"/></pattern></defs>
+<rect width="360" height="215" fill="#fff"/>
+<g font-family="serif" font-size="15" font-style="italic" fill="#111">
+<line x1="190.0" y1="100.0" x2="20.0" y2="100.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="190.0" y1="100.0" x2="340.0" y2="100.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="190.0" y1="100.0" x2="190.0" y2="15.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="190.0" y1="100.0" x2="190.0" y2="208.0" stroke="#111" stroke-width="1.5" fill="none" marker-end="url(#ar)" />
+<line x1="58.4" y1="77.2" x2="212.8" y2="209.5" stroke="#111" stroke-width="1.5" fill="none" />
+<text x="125.5" y="136.0" text-anchor="middle" transform="rotate(40.6 125.5 136.0)" font-size="14">5x+3y+15=0</text>
+<text x="81.0" y="92.0" text-anchor="middle" >A</text>
+<text x="204.0" y="194.0" text-anchor="middle" >B</text>
+<text x="202.0" y="94.0" text-anchor="middle" >O</text>
+<text x="16.0" y="105.0" text-anchor="end" >X′</text>
+<text x="346.0" y="105.0" text-anchor="start" >X</text>
+<text x="200.0" y="21.0" text-anchor="start" >Y</text>
+<text x="176.0" y="212.0" text-anchor="end" >Y′</text>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 275" width="480" height="275">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="480" height="275" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70.0,150.0 L124.8,117.7 L132.9,120.0 L136.9,103.7 L153.0,108.1 L157.0,91.9 L173.1,96.3 L177.1,80.0 L185.2,82.3 L240.0,50.0"/>
+<path d="M240.0,50.0 L294.8,82.3 L296.8,90.4 L313.0,86.0 L316.9,102.2 L333.1,97.8 L337.0,114.0 L353.2,109.6 L355.2,117.7 L410.0,150.0"/>
+<path d="M240.0,50.0 L240.0,75.0 L234.0,79.2 L246.0,87.5 L234.0,95.8 L246.0,104.2 L234.0,112.5 L246.0,120.8 L240.0,125.0 L240.0,150.0"/>
+<path d="M70.0,150.0 L125.0,150.0 L130.0,156.0 L140.0,144.0 L150.0,156.0 L160.0,144.0 L170.0,156.0 L180.0,144.0 L185.0,150.0 L240.0,150.0"/>
+<path d="M240.0,150.0 L295.0,150.0 L300.0,156.0 L310.0,144.0 L320.0,156.0 L330.0,144.0 L340.0,156.0 L350.0,144.0 L355.0,150.0 L410.0,150.0"/>
+<path d="M70.0,150.0 L70.0,225.0 L228.0,225.0"/>
+<path d="M70.0,225.0 L237.0,225.0"/>
+<path d="M243.0,225.0 L410.0,225.0"/>
+<path d="M237.0,211.0 L237.0,239.0"/>
+<path d="M243.0,217.0 L243.0,233.0" stroke-width="3.5"/>
+<path d="M410.0,150.0 L410.0,225.0"/>
+<circle cx="70" cy="150" r="3" fill="#111" stroke="none"/>
+<circle cx="410" cy="150" r="3" fill="#111" stroke="none"/>
+<circle cx="240" cy="50" r="3" fill="#111" stroke="none"/>
+<circle cx="240" cy="150" r="3" fill="#111" stroke="none"/>
+<text x="105" y="78" text-anchor="end" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">P</tspan>=10Ω</text>
+<text x="385" y="78" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">Q</tspan>=20Ω</text>
+<text x="252" y="110" text-anchor="start" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">x</tspan>=5Ω</text>
+<text x="155" y="176" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">R</tspan>=30Ω</text>
+<text x="325" y="176" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">S</tspan>=60Ω</text>
+<text x="226" y="219" text-anchor="end" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">+</text>
+<text x="254" y="219" text-anchor="start" font-size="14" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none">−</text>
+<text x="240" y="258" text-anchor="middle" font-size="15" font-family="Times New Roman, Liberation Serif, serif" fill="#111" stroke="none"><tspan font-style="italic">E</tspan>=45V</text>
+
+</g></svg>

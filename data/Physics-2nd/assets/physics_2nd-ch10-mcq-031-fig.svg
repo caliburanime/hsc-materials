@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 215" width="420" height="215">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="420" height="215" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<line x1="20" y1="50" x2="20" y2="170" />
+<line x1="20" y1="110" x2="142" y2="110" />
+<text x="26" y="62" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none">V<tspan baseline-shift="sub" font-size="70%">in</tspan></text>
+<path d="M20.0,110.0 L21.3,106.7 L22.6,103.5 L23.9,100.4 L25.2,97.5 L26.6,94.7 L27.9,92.2 L29.2,90.0 L30.5,88.0 L31.8,86.5 L33.1,85.3 L34.4,84.5 L35.8,84.1 L37.1,84.1 L38.4,84.5 L39.7,85.3 L41.0,86.5 L42.3,88.0 L43.6,90.0 L44.9,92.2 L46.2,94.7 L47.6,97.5 L48.9,100.4 L50.2,103.5 L51.5,106.7 L52.8,110.0 L54.1,113.3 L55.4,116.5 L56.8,119.6 L58.1,122.5 L59.4,125.3 L60.7,127.8 L62.0,130.0 L63.3,132.0 L64.6,133.5 L65.9,134.7 L67.2,135.5 L68.6,135.9 L69.9,135.9 L71.2,135.5 L72.5,134.7 L73.8,133.5 L75.1,132.0 L76.4,130.0 L77.8,127.8 L79.1,125.3 L80.4,122.5 L81.7,119.6 L83.0,116.5 L84.3,113.3 L85.6,110.0 L86.9,106.7 L88.2,103.5 L89.6,100.4 L90.9,97.5 L92.2,94.7 L93.5,92.2 L94.8,90.0 L96.1,88.0 L97.4,86.5 L98.8,85.3 L100.1,84.5 L101.4,84.1 L102.7,84.1 L104.0,84.5 L105.3,85.3 L106.6,86.5 L107.9,88.0 L109.2,90.0 L110.6,92.2 L111.9,94.7 L113.2,97.5 L114.5,100.4 L115.8,103.5 L117.1,106.7 L118.4,110.0 L119.8,113.3 L121.1,116.5 L122.4,119.6 L123.7,122.5 L125.0,125.3" />
+<circle cx="160" cy="110" r="18"/>
+<path d="M151,110 q4.5,-9 9,0 t9,0" />
+<path d="M160,92 V40 H235" />
+<line x1="290" y1="40" x2="335" y2="40" />
+<line x1="235" y1="40" x2="252" y2="40" />
+<path d="M252.0,28.0 L252.0,52.0 L274.0,40.0 L252.0,28.0" />
+<line x1="274" y1="28" x2="274" y2="52" />
+<line x1="274" y1="40" x2="335" y2="40" />
+<text x="262" y="20" text-anchor="middle" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">D</text>
+<line x1="335" y1="40" x2="335" y2="80" />
+<path d="M335.0,80.0 L335.0,86.0 L329.0,90.8 L341.0,100.5 L329.0,110.2 L341.0,119.8 L329.0,129.5 L341.0,139.2 L335.0,144.0 L335.0,150.0" />
+<line x1="335" y1="150" x2="335" y2="200" />
+<line x1="335" y1="62" x2="385" y2="62" />
+<circle cx="385" cy="62" r="3" fill="#111"/>
+<line x1="335" y1="170" x2="385" y2="170" />
+<circle cx="385" cy="170" r="3" fill="#111"/>
+<text x="325" y="118" text-anchor="end" font-family="'Times New Roman', Times, serif" font-size="14" font-style="italic" fill="#111" stroke="none">R<tspan baseline-shift="sub" font-size="70%">L</tspan></text>
+<text x="346" y="118" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" fill="#111" stroke="none">V<tspan baseline-shift="sub" font-size="70%">out</tspan></text>
+<path d="M335,200 H160 V128" />
+
+</g>
+</svg>

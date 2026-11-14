@@ -1,0 +1,4855 @@
+{
+  "subject": "chemistry_1st",
+  "chapter": 4,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "chemistry_1st-ch4-mcq-001",
+      "text": "1% \\(\\mathrm{H_2SO_4}\\) দ্রবণের pH মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.69",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.99",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.09",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.09",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "1% (w/v) \\(\\mathrm{H_2SO_4}\\) = 10 g/L; মোলারিটি = \\(\\frac{10}{98}\\) = 0.102 M।\n\\(\\mathrm{H_2SO_4 \\rightarrow 2H^+ + SO_4^{2-}}\\) হওয়ায় \\([\\mathrm{H^+}]\\) = 2 × 0.102 = 0.204 M\npH = −log 0.204 = 0.69",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-002",
+      "text": "ভরক্রিয়া সূত্র কে আবিষ্কার করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গুলবার্গ ও ওয়েজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হেন্ডারসন ও সোরেনসেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোসলে ও ওয়েজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লা-শ্যাতেলিয়ে ও গুলবার্গ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভরক্রিয়া সূত্র ১৮৬৪ সালে নরওয়েজীয় বিজ্ঞানী গুলবার্গ ও ওয়েজ আবিষ্কার করেন।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-003",
+      "text": "কোন বিক্রিয়ার ক্ষেত্রে \\(K_p > K_c\\) হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(K_p = K_c(RT)^{\\Delta n}\\); \\(K_p > K_c\\) হতে \\(\\Delta n > 0\\) হতে হবে। \\(\\mathrm{PCl_5 \\rightleftharpoons PCl_3 + Cl_2}\\)-এ \\(\\Delta n = 2 - 1 = +1\\); অন্যগুলোতে \\(\\Delta n\\) যথাক্রমে −2, −1, 0।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-004",
+      "text": "এসিডের তীব্রতার ক্রমানুসারে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_3 > H_3PO_3 > HNO_2 > HClO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_3 > HClO_3 > HNO_2 > H_3PO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_3PO_3 > HNO_2 > HNO_3 > HClO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HClO_3 > HNO_3 > H_3PO_3 > HNO_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HNO_3}\\) ও \\(\\mathrm{HClO_3}\\) শক্তিশালী এসিড; \\(\\mathrm{HNO_3}\\)-কে বইয়ের ক্রম অনুযায়ী \\(\\mathrm{HClO_3}\\)-এর আগে ধরা হয়। \\(\\mathrm{HNO_2}\\) ও \\(\\mathrm{H_3PO_3}\\) তুলনামূলক দুর্বল, তাই শক্তিশালী এসিড আগে বসানো (খ) ক্রমটিই প্রশ্নের অপশনগুলোর মধ্যে সবচেয়ে গ্রহণযোগ্য।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (খ)-তে \\(\\mathrm{HNO_2}\\) > \\(\\mathrm{H_3PO_3}\\) বলা হয়েছে, কিন্তু প্রকৃতপক্ষে \\(\\mathrm{H_3PO_3}\\) (\\(pK_{a1}\\) ≈ 1.3) \\(\\mathrm{HNO_2}\\)-এর (\\(pK_a\\) ≈ 3.3) চেয়ে শক্তিশালী; তাই কোনো অপশনই পুরোপুরি নির্ভুল নয়, (খ) নিকটতম।"
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-005",
+      "text": "ক্ষারীয় বাফার তৈরিতে কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2SO_4}\\) ও \\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NH_4Cl}\\) ও \\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NaOH ও NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3COOH}\\) ও \\(\\mathrm{CH_3COONa}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্ষারীয় বাফার = দুর্বল ক্ষার + এর লবণ। \\(\\mathrm{NH_4OH}\\) দুর্বল ক্ষার এবং \\(\\mathrm{NH_4Cl}\\) এর লবণ, তাই এটি ক্ষারীয় বাফার তৈরি করে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-006",
+      "text": "উদ্দীপক দ্রবণে কোনটি অতিরিক্ত থাকবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "90 mL 0.12 M \\(\\mathrm{CH_3COOH}\\) দ্রবণে 75 mL 0.12 M NaOH দ্রবণ যোগ করা হল।",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-BB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "15.0 mL 0.12 M \\(\\mathrm{CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15.0 mL 0.10 M NaOH",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "10.2 mL 1.0 M NaOH",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.7 mL 1.0 M \\(\\mathrm{CH_3COOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{CH_3COOH}\\) = 90 × 0.12 = 10.8 mmol\nNaOH = 75 × 0.12 = 9.0 mmol\nঅবশিষ্ট \\(\\mathrm{CH_3COOH}\\) = 10.8 − 9.0 = 1.8 mmol = \\(\\frac{1.8}{0.12}\\) = 15 mL 0.12 M \\(\\mathrm{CH_3COOH}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-007",
+      "text": "উদ্দীপক দ্রবণে সামান্য NaOH যোগ করলে কী ঘটবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "90 mL 0.12 M \\(\\mathrm{CH_3COOH}\\) দ্রবণে 75 mL 0.12 M NaOH দ্রবণ যোগ করা হল।",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-BB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "pH কমবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "pOH বাড়বে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "pH স্থির থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{OH^-}\\) এর ঘনমাত্রা বাড়বে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দ্রবণে 1.8 mmol \\(\\mathrm{CH_3COOH}\\) ও 9.0 mmol \\(\\mathrm{CH_3COONa}\\) আছে, অর্থাৎ এটি অম্লীয় বাফার। বাফার সামান্য ক্ষার যোগে pH প্রায় অপরিবর্তিত রাখে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-008",
+      "text": "0.4% NaOH দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "13",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "0.4% NaOH = 4 g/L = \\(\\frac{4}{40}\\) = 0.1 M\npOH = −log 0.1 = 1\npH = 14 − 1 = 13",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-009",
+      "text": "\\(\\mathrm{A(g) + 3B(g) \\rightleftharpoons 2D(g)}\\) এ বিক্রিয়ায় \\(K_p\\) এর একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "atm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{atm^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{atm^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{atm^{2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K_p = \\frac{p_D^2}{p_A \\cdot p_B^3}\\); একক = \\(\\frac{atm^2}{atm \\cdot atm^3}\\) = \\(\\mathrm{atm^{-2}}\\) (\\(\\Delta n = 2 - 4 = -2\\))।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-010",
+      "text": "মিথানোয়িক এসিডের বিয়োজন মাত্রা কোনটি দ্বারা হিসাব করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\sqrt{\\frac{c}{K_a}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{K_a}{c}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\sqrt{K_a \\times c}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\frac{K_a}{c}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অসওয়াল্ডের লঘুকরণ সূত্র অনুযায়ী \\(K_a = c\\alpha^2\\); সুতরাং বিয়োজন মাত্রা \\(\\alpha = \\sqrt{\\frac{K_a}{c}}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-011",
+      "text": "\\(K_p\\) এর মান কত atm?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{AX_5(g) \\rightleftharpoons AX_3(g) + X_2(g)}\\)\n30°C তাপমাত্রায় ও 1 atm চাপে সাম্যাবস্থায় 75% \\(\\mathrm{AX_5}\\) বিয়োজিত হয়ে \\(\\mathrm{AX_3}\\) ও \\(\\mathrm{X_2}\\) উৎপন্ন করে।",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-CB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "3.07",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.00",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.32",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.28",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ধরি মোট চাপ P = 1 atm, \\(\\alpha = 0.75\\)। সাম্যে মোল: \\(\\mathrm{AX_5}\\) = \\(1-\\alpha\\), \\(\\mathrm{AX_3}\\) = \\(\\alpha\\), \\(\\mathrm{X_2}\\) = \\(\\alpha\\); মোট = \\(1+\\alpha\\)।\n\\(K_p = \\frac{\\alpha^2}{1-\\alpha^2} \\cdot P = \\frac{(0.75)^2}{1-(0.75)^2} \\times 1 = \\frac{0.5625}{0.4375}\\) = 1.28 atm",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-012",
+      "text": "যদি বিক্রিয়ায় \\(X_2\\) অপসারণ করা হয় তবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{AX_5(g) \\rightleftharpoons AX_3(g) + X_2(g)}\\)\n30°C তাপমাত্রায় ও 1 atm চাপে সাম্যাবস্থায় 75% \\(\\mathrm{AX_5}\\) বিয়োজিত হয়ে \\(\\mathrm{AX_3}\\) ও \\(\\mathrm{X_2}\\) উৎপন্ন করে।",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-CB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রিয়ার সাম্যাবস্থার পরিবর্তন ঘটবে"
+        },
+        {
+          "label": "ii",
+          "text": "বিক্রিয়া সম্মুখ দিকে অগ্রসর হবে"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রিয়ায় \\(\\mathrm{AX_3}\\) এর পরিমাণ বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{X_2}\\) অপসারণ করলে লা-শাতেলিয়ের নীতি অনুযায়ী সাম্য ডান দিকে সরে। তাই i (সাম্যাবস্থান পরিবর্তন), ii (সম্মুখ দিকে অগ্রসর) ও iii (\\(\\mathrm{AX_3}\\)-এর পরিমাণ বৃদ্ধি) তিনটিই সত্য।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-013",
+      "text": "কোন আনুপাতিক মিশ্রণটি বাফার দ্রবণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3COOH : NaOH = 2 : 1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3COOH : NH_4OH = 1 : 1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4OH : HCl = 1 : 1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4OH : H_2SO_4 = 2 : 1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{CH_3COOH : NaOH = 2:1}\\) মিশ্রণে অর্ধেক এসিড নিরপেক্ষ হয়ে \\(\\mathrm{CH_3COONa}\\) গঠন করে, ফলে দুর্বল এসিড ও তার লবণ থাকে; এটি বাফার। অন্য মিশ্রণগুলো পুরোপুরি লবণ (\\(\\mathrm{NH_4Cl}\\), \\((\\mathrm{NH_4)_2SO_4}\\)) বা দুর্বল এসিড-ক্ষারের লবণ (অ্যামোনিয়াম অ্যাসিটেট) গঠন করে, বাফার নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-014",
+      "text": "একটি নমুনা HCl দ্রবণের pH = 3 দ্রবণটির ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.0 \\times 10^{-2}\\) M",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.0 \\times 10^{-3}\\) M",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.0 \\times 10^{-2}\\) M",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.0 \\times 10^{-3}\\) M",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(pH = -\\log[\\mathrm{H^+}]\\) থেকে \\([\\mathrm{H^+}] = 10^{-3}\\) M। HCl সম্পূর্ণ বিয়োজিত হয়, তাই ঘনমাত্রা \\(1.0 \\times 10^{-3}\\) M।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-015",
+      "text": "5 মিনিটে 0.1 mole\\(L^{-1}\\) \\(\\mathrm{H_2O_2}\\) দ্রবণ বিযোজিত হয়ে ঘনমাত্রা 0.08 mole\\(L^{-1}\\) হলে বিক্রিয়াটির বিক্রিয়া হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.66 \\times 10^{-4}\\,\\mathrm{mole\\,L^{-1}s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(4.00 \\times 10^{-3}\\,\\mathrm{mole\\,L^{-1}s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.66 \\times 10^{-5}\\,\\mathrm{mole\\,L^{-1}s^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.33 \\times 10^{-5}\\,\\mathrm{mole\\,L^{-1}s^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "হার = \\(\\frac{\\Delta c}{\\Delta t} = \\frac{0.1 - 0.08}{5 \\times 60\\ \\mathrm{s}} = \\frac{0.02}{300}\\)\n= \\(6.66 \\times 10^{-5}\\ \\mathrm{mole\\,L^{-1}s^{-1}}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-016",
+      "text": "\\(\\mathrm{A_2B_4(g) \\rightleftharpoons 2AB_2(g)}\\) –তাপ, বিক্রিয়াটির সাম্যাবস্থায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বৃদ্ধিতে উৎপাদ হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "চাপের প্রভাব আছে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K_p \\neq K_c\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিক্রিয়াটি তাপহারী (\\(\\Delta n = 2 - 1 = +1\\))।\ni মিথ্যা: তাপমাত্রা বাড়ালে সাম্য ডানে সরে উৎপাদ বাড়ে।\nii সত্য: \\(\\Delta n \\neq 0\\), তাই চাপের প্রভাব আছে।\niii সত্য: \\(\\Delta n \\neq 0\\) হওয়ায় \\(K_p \\neq K_c\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-017",
+      "text": "4.25 mole \\(\\mathrm{H_2}\\) এর সাথে 4.75 mole \\(\\mathrm{I_2}\\) কে উত্তপ্ত করে সাম্যাবস্থায় মিশ্রণে \\(\\mathrm{H_2}\\), \\(\\mathrm{I_2}\\) এবং HI পাওয়া গেল যথাক্রমে 0.86, 1.36 এবং 6.78 mole\\(L^{-1}\\)। \\(K_c\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "42.2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "39.3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "33.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32.7",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(K_c = \\frac{[\\mathrm{HI}]^2}{[\\mathrm{H_2}][\\mathrm{I_2}]} = \\frac{(6.78)^2}{0.86 \\times 1.36} = \\frac{45.97}{1.170}\\) = 39.3",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-018",
+      "text": "মানবদেহের রক্তে কোন বাফার দ্রবণ থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NaHCO_3}\\) ও \\(\\mathrm{H_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{PH_4Cl}\\) ও \\(\\mathrm{PH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "HCOONa ও HCOOH",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na_2HPO_4}\\) ও \\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রক্তে কার্বনিক এসিড ও সোডিয়াম বাইকার্বোনেট (\\(\\mathrm{H_2CO_3/NaHCO_3}\\)) বাফার থাকে, যা রক্তের pH ≈ 7.4 বজায় রাখে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-019",
+      "text": "\\(\\mathrm{Al_2O_3}\\) এর ক্ষারকত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{Al_2O_3}\\) উভধর্মী; এটি ক্ষারের সাথে বিক্রিয়ায় এসিডের মতো আচরণ করে: \\(\\mathrm{Al_2O_3 + 2NaOH \\rightarrow 2NaAlO_2 + H_2O}\\)। এক সূত্র অণু 2টি \\(\\mathrm{OH^-}\\) প্রশমিত করে, তাই ক্ষারকত্ব 2।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-020",
+      "text": "কোনটি স্ব-প্রভাবক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{V_2O_5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{MnSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na_2SO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যে প্রভাবক বিক্রিয়ার উৎপাদ হিসেবে নিজেই তৈরি হয়ে বিক্রিয়াকে তরান্বিত করে সেটি স্ব-প্রভাবক। \\(\\mathrm{KMnO_4}\\) দ্বারা জারণে উৎপন্ন \\(\\mathrm{Mn^{2+}}\\) (\\(\\mathrm{MnSO_4}\\)) স্ব-প্রভাবক। \\(\\mathrm{V_2O_5}\\) বাইরে থেকে দেওয়া প্রভাবক।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-021",
+      "text": "কোনটি অধিক শক্তিশালী এসিড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_3PO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_2CO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HNO_3}\\) শক্তিশালী এসিড (সম্পূর্ণ বিয়োজিত)। \\(\\mathrm{H_3PO_4}\\), \\(\\mathrm{H_3PO_3}\\) ও \\(\\mathrm{H_2CO_3}\\) তুলনামূলক দুর্বল, তাই \\(\\mathrm{HNO_3}\\) সবচেয়ে শক্তিশালী।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-022",
+      "text": "pH = 2 এবং pH = 4 ঘনমাত্রার দুটি দ্রবণ দেওয়া আছে। প্রথমটি দ্বিতীয়টি অপেক্ষা কত গুণ অম্লীয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10 গুণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100 গুণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1000 গুণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10000 গুণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "pH 2 → \\([\\mathrm{H^+}] = 10^{-2}\\) M; pH 4 → \\(10^{-4}\\) M।\nঅনুপাত = \\(\\frac{10^{-2}}{10^{-4}} = 100\\) গুণ অম্লীয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-023",
+      "text": "0.001 M NaOH দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "13",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\([\\mathrm{OH^-}] = 10^{-3}\\) M ⇒ pOH = 3\npH = 14 − 3 = 11",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-024",
+      "text": "\\(\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}\\); 40°C তাপমাত্রায় \\(K_p = 50.28\\) হলে \\(K_c\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.262",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "22.62",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.028",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "50.28",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - (1+1) = 0\\), তাই \\(K_p = K_c(RT)^0 = K_c\\)। অতএব \\(K_c = 50.28\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-025",
+      "text": "\\(\\mathrm{H_3BO_3}\\) এর ক্ষারকত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{H_3BO_3}\\) লুইস এসিড; \\(\\mathrm{B(OH)_3 + H_2O \\rightarrow [B(OH)_4]^- + H^+}\\) বিক্রিয়ায় একটিমাত্র \\(\\mathrm{H^+}\\) দেয়, তাই ক্ষারকত্ব 1।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-026",
+      "text": "এসিডের তীব্রতার ক্রমানুসারে কোনটি ঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HClO_4 > H_2SO_4 > HNO_3 > H_2SO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HClO_4 > H_2SO_4 > H_2SO_3 > HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_3 > HClO_4 > H_2SO_4 > HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HNO_3 > HClO_4 > H_2SO_4 > H_2SO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HClO_4}\\) সর্বাধিক শক্তিশালী, এরপর \\(\\mathrm{H_2SO_4}\\) ও \\(\\mathrm{HNO_3}\\); \\(\\mathrm{H_2SO_3}\\) তুলনামূলক দুর্বল এসিড।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-027",
+      "text": "রাসায়নিক সাম্যাবস্থার বৈশিষ্ট্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রিয়ার সমাপ্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রিয়ার একমুখীতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রভাবকের প্রয়োজনীয়তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাম্যের স্থিতিশীলতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাম্যাবস্থা গতিশীল ও স্থিতিশীল; সম্মুখ ও বিপরীত বিক্রিয়ার হার সমান হওয়ায় ঘনমাত্রা অপরিবর্তিত থাকে। এতে বিক্রিয়া সমাপ্ত হয় না, একমুখীও নয় এবং প্রভাবক জরুরি নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DB",
+          "year": "2025",
+          "qno": 22,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-028",
+      "text": "মানব রক্তে কোন বাফার দ্রবণ বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NaHCO_3 + H_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3COONa + CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4Cl + NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na_2HPO_4 + H_3PO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মানব রক্তে প্রধান বাফার \\(\\mathrm{H_2CO_3 / NaHCO_3}\\); এটি pH ≈ 7.4 ধ্রুব রাখে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-029",
+      "text": "1% NaOH দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "13.4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "13.0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.6",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "1% NaOH = 10 g/L = \\(\\frac{10}{40}\\) = 0.25 M\npOH = −log 0.25 = 0.60\npH = 14 − 0.60 = 13.4",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-030",
+      "text": "এসিডের তীব্রতার সঠিক ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HBrO_4 > HClO_4 > HNO_3 > H_3PO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HBrO_4 > HClO_4 > H_3PO_3 > HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HClO_4 > HBrO_4 > H_3PO_3 > HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HClO_4 > HBrO_4 > HNO_3 > H_3PO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HClO_4}\\) > \\(\\mathrm{HBrO_4}\\) (Cl-এর তড়িৎ ঋণাত্মকতা বেশি) এবং উভয়ই \\(\\mathrm{HNO_3}\\)-এর চেয়ে শক্তিশালী। \\(\\mathrm{H_3PO_3}\\) তুলনামূলক দুর্বল। তাই ক্রম \\(\\mathrm{HClO_4 > HBrO_4 > HNO_3 > H_3PO_3}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-031",
+      "text": "\\(\\mathrm{Fe_2O_3}\\) এর অম্লত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অম্লত্ব = এক সূত্র অণু ক্ষার যতটি \\(\\mathrm{H^+}\\) গ্রহণ করে। \\(\\mathrm{Fe_2O_3 + 6H^+ \\rightarrow 2Fe^{3+} + 3H_2O}\\) (সমতুল্য \\(\\mathrm{2Fe(OH)_3}\\), 6টি \\(\\mathrm{OH^-}\\)); অতএব 6।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-033",
+      "text": "কোনটি ক্ষারীয় বাফার দ্রবণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_4OH + NaCl}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3CH_2COOH + CH_3CH_2COONa}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NaOH + NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4OH + NH_4Cl}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষারীয় বাফার দুর্বল ক্ষার ও তার লবণ দিয়ে তৈরি: \\(\\mathrm{NH_4OH + NH_4Cl}\\)। (ক) ও (গ)-এ লবণ ভিন্ন আয়নের; (খ) অম্লীয় বাফার।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-034",
+      "text": "উপরোক্ত বিক্রিয়ায় \\(K_p\\) ও \\(K_c\\) এর সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{X_2(g) + 3Y_2(g) \\rightleftharpoons 2XY_3(g)}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_c = K_p(RT)^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_p = K_c(RT)^{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_c = K_p(RT)^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_p = K_c(RT)^{-2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - (1+3) = -2\\), তাই \\(K_p = K_c(RT)^{\\Delta n} = K_c(RT)^{-2}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-035",
+      "text": "উদ্দীপকের বিক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{X_2(g) + 3Y_2(g) \\rightleftharpoons 2XY_3(g)}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-DIB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(K_p\\) এর একক \\((atm)^{-2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(K_c\\) এর একক \\(\\mathrm{mol^{-2}L^{-2}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "চাপ বাড়ালে উৎপাদ এর পরিমাণ বাড়বে।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "i সত্য: \\(K_p\\)-এর একক \\(atm^{\\Delta n} = atm^{-2}\\)।\nii মিথ্যা: \\(K_c\\)-এর একক \\(\\mathrm{mol^{-2}L^{2}}\\), \\(\\mathrm{L^{-2}}\\) নয়।\niii সত্য: \\(\\Delta n < 0\\), চাপ বাড়ালে সাম্য ডানে সরে উৎপাদ বাড়ে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-036",
+      "text": "15 mL 2M HCl দ্রবণের মধ্যে 20 mL 1.5M NaOH যোগ করা হলে মিশ্রিত দ্রবণের pH এর মান হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "> 7",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "< 7",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6 – 7 এর মধ্যে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "HCl = 15 × 2 = 30 mmol; NaOH = 20 × 1.5 = 30 mmol। উভয়ই সমান, তাই সম্পূর্ণ প্রশমিত হয়ে শক্তিশালী এসিড-ক্ষারের লবণ NaCl গঠিত হয়; pH = 7।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-037",
+      "text": "\\(\\mathrm{Fe_2O_3}\\) এর অম্লত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{Fe_2O_3 + 6H^+ \\rightarrow 2Fe^{3+} + 3H_2O}\\); এক সূত্র অণু 6টি \\(\\mathrm{H^+}\\) গ্রহণ করে, তাই অম্লত্ব 6।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-038",
+      "text": "100 mL 0.5(M) HCOOH দ্রবণে কত গ্রাম H–COONa যোগ করলে মিশ্রণের pH = 5 হবে? [\\(K_a = 1.33 \\times 10^{-4}\\)]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "44.81 g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "88 g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "100 g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "448.12 g",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(pK_a = -\\log(1.33 \\times 10^{-4}) = 3.876\\)\n\\(pH = pK_a + \\log\\frac{[\\text{লবণ}]}{[\\text{এসিড}]}\\) ⇒ \\(5 = 3.876 + \\log\\frac{[\\text{লবণ}]}{0.5}\\)\n\\(\\frac{[\\text{লবণ}]}{0.5} \\approx 13.2\\) ⇒ লবণ ≈ 6.6 M, অর্থাৎ 100 mL-এ ≈ 0.66 mol\nভর = 0.66 × 68 ≈ 44.8 g (HCOONa-এর মোলার ভর 68 g/mol)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-039",
+      "text": "এসিডের তীব্রতার ক্ষেত্রে নিচের কোন ক্রমটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SO_4 > HClO_3 > HNO_3 > H_2SO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2SO_3 > H_2SO_4 > HNO_3 > HClO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4 > HNO_3 > HClO_3 > H_2SO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_2SO_4 > H_2SO_3 > HNO_3 > HClO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{H_2SO_4}\\) সবচেয়ে শক্তিশালী, এরপর \\(\\mathrm{HNO_3}\\), \\(\\mathrm{HClO_3}\\) এবং সবচেয়ে দুর্বল \\(\\mathrm{H_2SO_3}\\); তাই ক্রম \\(\\mathrm{H_2SO_4 > HNO_3 > HClO_3 > H_2SO_3}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-040",
+      "text": "0.01(M) \\(\\mathrm{H_2SO_4}\\) দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.7",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{H_2SO_4}\\) দ্বিক্ষারীয়, \\([\\mathrm{H^+}] = 2 \\times 0.01 = 0.02\\) M\npH = −log 0.02 = 1.7",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-041",
+      "text": "অ্যাসিডের তীব্রতা বেশি হবে যদি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিয়োজন ধ্রুবক Ka এর মান বেশি হয়"
+        },
+        {
+          "label": "ii",
+          "text": "কেন্দ্রীয় পরমাণুর চার্জ ঘনত্ব যত বেশি হয়"
+        },
+        {
+          "label": "iii",
+          "text": "হাইড্রাসিডসমূহের অণুস্থ অ্যানায়নের আকার যত বড় হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "i সত্য: \\(K_a\\) বেশি হলে বিয়োজন বেশি, এসিড তীব্র।\nii সত্য: কেন্দ্রীয় পরমাণুর চার্জ ঘনত্ব বেশি হলে O–H বন্ধন দুর্বল হয়ে \\(\\mathrm{H^+}\\) সহজে ছাড়ে।\niii সত্য: হাইড্রাসিডে অ্যানায়নের আকার বড় হলে H–X বন্ধন দুর্বল হয় (HI > HBr > HCl)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-042",
+      "text": "25°C তাপমাত্রায় এবং 100 KPa চাপে নাইট্রোজেন টেট্রোঅক্সাইডের 12% বিয়োজিত হলে \\(K_p\\)—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5.85 KPa",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10.25 KPa",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11.7 KPa",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12 KPa",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}\\); \\(\\alpha = 0.12\\), P = 100 kPa\n\\(K_p = \\frac{4\\alpha^2 P}{1-\\alpha^2} = \\frac{4 \\times (0.12)^2 \\times 100}{1 - (0.12)^2} = \\frac{5.76}{0.9856}\\) = 5.85 kPa",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-043",
+      "text": "ক্ষারীয় মাটির pH কমাতে নিচের কোনটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "CaO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Ca(OH)_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaOH",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশ্নের চারটি অপশনই ক্ষার, যা মাটির pH বাড়ায়, কমায় না। CaO পানির সাথে \\(\\mathrm{Ca(OH)_2}\\) গঠন করে ক্ষারত্ব বাড়ায়। তবু বোর্ডের উত্তর অনুযায়ী (ক) ধরা হয়েছে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "All four options are bases; CaO (lime) is used to RAISE the pH of acidic soil. The question as printed seems to have \"ক্ষারীয়/কমাতে\" in place of \"অম্লীয়/বাড়াতে\". Printed key ক. | উত্তর যাচাই: ক্ষারীয় মাটির pH কমাতে অম্লীয় পদার্থ (যেমন সালফার/জিপসাম) লাগে; CaO, \\(\\mathrm{Ca(OH)_2}\\), \\(\\mathrm{NH_4OH}\\), NaOH সবই ক্ষার বলে কোনো অপশনই সঠিক নয়। সম্ভবত প্রশ্নটি অম্লীয় মাটির pH বাড়ানোর হওয়ার কথা ছিল।"
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-044",
+      "text": "কোনটি সক্রিয় ভর প্রকাশক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আংশিক চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শতকরা হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দ্রাব্যতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্যাসীয় বিক্রিয়ায় সক্রিয় ভর (active mass) আংশিক চাপ দ্বারা প্রকাশ পায়; \\(K_p\\) আংশিক চাপের মাধ্যমে লেখা হয়। মোট চাপ, শতকরা হার বা দ্রাব্যতা সক্রিয় ভর নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-045",
+      "text": "উদ্দীপকের (ii) নং বিক্রিয়াটিকে একমুখী করতে হলে করণীয় হল—",
+      "text_en": null,
+      "image": null,
+      "stem": "(i) ইথিন + অক্সিজেন \\(\\xrightarrow{\\text{প্রভাবক}}\\) ইথিন অক্সাইড\n(ii) ক্যালসিয়াম কার্বনেট \\(\\underset{\\text{(আবদ্ধ পাত্র)}}{\\overset{\\Delta}{\\rightleftharpoons}}\\) চুন + কার্বন ডাইঅক্সাইড",
+      "stem_image": null,
+      "group": "chemistry_1st-2025-MB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বাড়াতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "খোলা পাত্রে বিক্রিয়া করাতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপন্ন \\(\\mathrm{CO_2}\\) রাসায়নিকভাবে পরিবর্তন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{CaCO_3 \\rightleftharpoons CaO + CO_2}\\) একমুখী করতে \\(\\mathrm{CO_2}\\) অপসারণ করতে হয়।\nii সত্য: খোলা পাত্রে \\(\\mathrm{CO_2}\\) বেরিয়ে যায়।\niii সত্য: \\(\\mathrm{CO_2}\\)-কে রাসায়নিকভাবে (যেমন ক্ষারে শোষণ) অপসারণ করলে সাম্য স্থাপিত হয় না।\ni মিথ্যা: শুধু তাপমাত্রা বাড়ালে সাম্য ডানে সরে মাত্র, বিক্রিয়া একমুখী হয় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-046",
+      "text": "কোন তথ্যটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফ্লোরিন সর্বাধিক তড়িৎ আসক্তিসম্পন্ন মৌল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়োডিন সর্বাধিক তড়িৎ ঋণাত্মক মৌল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্রবণে এসিড যোগ করলে pH এর মান বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপমাত্রা বৃদ্ধিতে \\(pK_a\\) এর মান হ্রাস পায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তাপমাত্রা বাড়লে \\(K_a\\) বাড়ে, তাই \\(pK_a = -\\log K_a\\) কমে, (ঘ) সঠিক।\n(ক) সর্বাধিক তড়িৎ আসক্তি Cl-এর; (খ) সর্বাধিক তড়িৎ ঋণাত্মক F; (গ) এসিড যোগে pH কমে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-047",
+      "text": "A (g) ⇌ B (g); ΔH = +ve\nকোন শর্তে সাম্যাবস্থা ডানদিকে অগ্রসর হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ বৃদ্ধি করলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A এর ঘনমাত্রা হ্রাস করলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা বৃদ্ধি করলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রভাবক যোগ করলে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিক্রিয়াটি তাপহারী (\\(\\Delta H = +ve\\)), তাই তাপমাত্রা বাড়ালে সাম্য ডানে সরে। দুই পাশে মোল সংখ্যা সমান বলে চাপে প্রভাব নেই; A-এর ঘনমাত্রা কমালে সাম্য বামে সরে; প্রভাবক সাম্যাবস্থান বদলায় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-048",
+      "text": "\\(\\frac{M}{1000}\\) NaOH দ্রবণের pH মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{M}{1000}\\) = 0.001 M NaOH ⇒ \\([\\mathrm{OH^-}] = 10^{-3}\\), pOH = 3\npH = 14 − 3 = 11",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-049",
+      "text": "কোন মিশ্রণটি বাফার দ্রবণ তৈরি করতে অক্ষম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_4Cl}\\) ও \\(\\mathrm{NH_4OH}\\) দ্রবণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3COOH}\\) ও NaOH এর দ্রবণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NaHCO_3}\\) ও \\(\\mathrm{Na_2CO_3}\\) দ্রবণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4OH}\\) ও \\(\\mathrm{H_2CO_3}\\) দ্রবণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাফারে দুর্বল এসিড + তার লবণ বা দুর্বল ক্ষার + তার লবণ থাকতে হয়। \\(\\mathrm{NH_4OH}\\) (দুর্বল ক্ষার) ও \\(\\mathrm{H_2CO_3}\\) (দুর্বল এসিড) বিক্রিয়ায় \\(\\mathrm{(NH_4)_2CO_3}\\) গঠন করে যা বাফার নয়। (খ)-তে \\(\\mathrm{CH_3COOH}\\) অতিরিক্ত থাকলে বাফার হয়; (গ) \\(\\mathrm{NaHCO_3/Na_2CO_3}\\) বাফার।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-050",
+      "text": "\\(1\\%\\left(\\frac{W}{V}\\right)\\) NaOH দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "13.39",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "12.25",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.00",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.60",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "1% (W/V) NaOH = 10 g/L = 0.25 M\npOH = −log 0.25 = 0.60\npH = 14 − 0.60 ≈ 13.39",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-051",
+      "text": "কত তাপমাত্রায় \\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\) বিক্রিয়ার \\(K_p\\) ও \\(K_c\\) পরস্পর সমান হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.1218 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.1218°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12.18K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12.18°C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(K_p = K_c(RT)^{\\Delta n}\\); এখানে \\(\\Delta n = +1\\)। \\(K_p = K_c\\) হতে \\(RT = 1\\) হতে হবে।\n\\(T = \\frac{1}{R} = \\frac{1}{0.0821}\\) = 12.18 K",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-052",
+      "text": "অসওয়াল্ড লঘুকরণ সূত্রানুসারে বিয়োজন মাত্রার ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "α ∝ C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\alpha \\propto \\frac{1}{\\sqrt{C}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\alpha \\propto \\frac{1}{C}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\alpha \\propto C^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অসওয়াল্ড লঘুকরণ সূত্র: \\(K_a = C\\alpha^2\\) ⇒ \\(\\alpha = \\sqrt{K_a/C}\\), তাই \\(\\alpha \\propto \\frac{1}{\\sqrt{C}}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-053",
+      "text": "অম্লীয় বাফার দ্রবণের pH নির্ণয়ের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(pH = pK_a - \\log\\frac{[\\text{লবণ}]}{[\\text{ক্ষার}]}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(pH = pK_a + \\log\\frac{[\\text{লবণ}]}{[\\text{ক্ষার}]}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(pH = pK_a - \\log\\frac{[\\text{লবণ}]}{[\\text{এসিড}]}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(pH = pK_a + \\log\\frac{[\\text{লবণ}]}{[\\text{এসিড}]}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অম্লীয় বাফারের (দুর্বল এসিড + তার লবণ) জন্য হেন্ডারসন সমীকরণ: \\(pH = pK_a + \\log\\frac{[\\text{লবণ}]}{[\\text{এসিড}]}\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-054",
+      "text": "\\(\\mathrm{A_2(g) + 3B_2(g) \\rightleftharpoons 2AB_3(g)}\\) বিক্রিয়ার ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চাপ বৃদ্ধি করলে উৎপাদ বাড়বে"
+        },
+        {
+          "label": "ii",
+          "text": "\\(A_2\\) যোগ করলে উৎপাদ বাড়বে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K_p\\) ও \\(K_c\\) সমান হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - 4 = -2\\)।\ni সত্য: চাপ বাড়ালে সাম্য মোল কম দিকে (ডানে) সরে।\nii সত্য: বিক্রিয়ক \\(\\mathrm{A_2}\\) যোগ করলে সাম্য ডানে সরে।\niii মিথ্যা: \\(\\Delta n \\neq 0\\), তাই \\(K_p \\neq K_c\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-055",
+      "text": "1.0L আয়তনবিশিষ্ট পাত্রে সংঘটিত বিক্রিয়ায় HA এর বিয়োজন মাত্রা 70% হলে \\(K_c\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.63",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.53",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.30",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.00",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ধরি প্রারম্ভিক HA = 1 mol, আয়তন 1.0 L, \\(\\alpha = 0.7\\) (\\(\\mathrm{HA \\rightleftharpoons H^+ + A^-}\\))।\n\\(K_c = \\frac{C\\alpha^2}{1-\\alpha} = \\frac{1 \\times (0.7)^2}{1-0.7} = \\frac{0.49}{0.3}\\) = 1.63",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-056",
+      "text": "নিচের কোন বিক্রিয়ায় Δn = −1?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{2NO(g) + O_2(g) \\rightleftharpoons 2NO_2(g)}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n\\) = উৎপাদের মোল − বিক্রিয়কের মোল। \\(\\mathrm{2NO + O_2 \\rightleftharpoons 2NO_2}\\)-এ \\(\\Delta n = 2 - 3 = -1\\)। অন্যগুলোতে \\(\\Delta n\\) = 0, +1, −2।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-057",
+      "text": "বাফার দ্রবণ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "10 mL 0.1M \\(\\mathrm{H_2CO_3}\\) + 4 mL 0.1M NaOH"
+        },
+        {
+          "label": "ii",
+          "text": "28 mL 0.25M \\(\\mathrm{CH_3COOH}\\) + 10 mL 0.3M NaOH"
+        },
+        {
+          "label": "iii",
+          "text": "25 mL 0.1M \\(\\mathrm{NH_4OH}\\) + 10 mL 0.6M HCl"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "i: \\(\\mathrm{H_2CO_3}\\) = 1 mmol, NaOH = 0.4 mmol ⇒ 0.6 mmol এসিড ও 0.4 mmol লবণ থাকে; বাফার।\nii: \\(\\mathrm{CH_3COOH}\\) = 7 mmol, NaOH = 3 mmol ⇒ 4 mmol এসিড ও 3 mmol লবণ; বাফার।\niii: \\(\\mathrm{NH_4OH}\\) = 2.5 mmol, HCl = 6 mmol ⇒ ক্ষার সম্পূর্ণ শেষ, অতিরিক্ত HCl থাকে; বাফার নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-058",
+      "text": "প্রমাণ চাপে \\(\\mathrm{NH_3}\\) 20% বিয়োজিত হলে \\(K_p\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(4.5 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.9 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.89 \\times 10^{-3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.9 \\times 10^{-3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{2NH_3 \\rightleftharpoons N_2 + 3H_2}\\), \\(\\alpha = 0.2\\), P = 1 atm\nমোল: \\(\\mathrm{NH_3}\\) = 0.8, \\(\\mathrm{N_2}\\) = 0.1, \\(\\mathrm{H_2}\\) = 0.3; মোট = 1.2\nআংশিক চাপ: 0.667, 0.0833, 0.25 atm\n\\(K_p = \\frac{0.0833 \\times (0.25)^3}{(0.667)^2}\\) = \\(2.9 \\times 10^{-3}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-059",
+      "text": "একটি জলীয় দ্রবণের pOH এর মান 4 হলে দ্রবণটিতে \\(\\mathrm{H^+}\\) এর ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-2}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{-4}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{-8}\\) mol\\(L^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{-10}\\) mol\\(L^{-1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "pH = 14 − pOH = 14 − 4 = 10\n\\([\\mathrm{H^+}] = 10^{-10}\\) mol \\(L^{-1}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-060",
+      "text": "\\(\\mathrm{2AB_2(g) + C_2(g) \\rightleftharpoons 2AC(g) + 2B_2(g)}\\); ΔH = –X KJ \\(\\mathrm{mol^{-1}}\\)\nবিক্রিয়াটির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চাপ বৃদ্ধি করলে উৎপাদ হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "তাপমাত্রা বৃদ্ধি করলে উৎপাদ হ্রাস পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রিয়াটির উভয় দিকের সুগম্যতা আছে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বিক্রিয়কের মোল 3, উৎপাদের মোল 4; চাপ বাড়ালে সাম্য মোল সংখ্যা কমার দিকে (বামে) সরে, ফলে উৎপাদ কমে।\n(ii) সত্য: বিক্রিয়া তাপউৎপাদী (ΔH ঋণাত্মক); তাপমাত্রা বাড়ালে সাম্য বামে সরে, উৎপাদ কমে।\n(iii) সত্য: \\(\\rightleftharpoons\\) চিহ্ন বিক্রিয়াটি উভমুখী বোঝায়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-061",
+      "text": "কোনটি অম্লীয় বাফার দ্রবণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30mL 0.1M HCl + 20mL 0.1M NaOH",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30mL 0.1M \\(\\mathrm{CH_3COOH}\\) + 30mL 0.1M NaOH",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30mL 0.1M \\(\\mathrm{CH_3COOH}\\) + 20mL 0.1M NaOH",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30mL 0.1M \\(\\mathrm{CH_3COOH}\\) + 15mL 0.2M NaOH",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অম্লীয় বাফার = দুর্বল এসিড + তার লবণ (এসিড অতিরিক্ত)।\n(গ) \\(\\mathrm{CH_3COOH}\\): 3 মিলিমোল, NaOH: 2 মিলিমোল। বিক্রিয়ার পর 1 মিলিমোল \\(\\mathrm{CH_3COOH}\\) ও 2 মিলিমোল \\(\\mathrm{CH_3COONa}\\) থাকে, তাই অম্লীয় বাফার।\n(ক) সবল এসিড, (খ) ও (ঘ)-তে এসিড-ক্ষার সমমোলে (3 মিলিমোল) বিক্রিয়া করে শুধু লবণ থাকে।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-062",
+      "text": "দ্রবণ-1 এর pH কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "দ্রবণ-1: HA, 0.01M, 50mL, \\(K_a = 6.8 \\times 10^{-4}\\)\nদ্রবণ-2: NaA, 0.01M, 35mL",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "2.28",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5.28",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.58",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.82",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "HA দুর্বল এসিড: \\([H^+] = \\sqrt{K_a C} = \\sqrt{6.8\\times10^{-4}\\times0.01} = 2.61\\times10^{-3}\\) M\n\\(pH = -\\log(2.61\\times10^{-3}) = 2.58\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-063",
+      "text": "দ্রবণ-1 ও দ্রবণ-2 পরস্পর মিশ্রিত করলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "দ্রবণ-1: HA, 0.01M, 50mL, \\(K_a = 6.8 \\times 10^{-4}\\)\nদ্রবণ-2: NaA, 0.01M, 35mL",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-BB-6-7",
+      "statements": [
+        {
+          "label": "i",
+          "text": "HA এর দ্রাব্যতা হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "মিশ্রণটির প্রকৃতি অম্লীয় হবে"
+        },
+        {
+          "label": "iii",
+          "text": "মিশ্রণটি pH পরিবর্তনে বাধা দিতে সক্ষম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মিশ্রণে HA = 0.5 মিলিমোল, NaA = 0.35 মিলিমোল; এটি অম্লীয় বাফার।\n(i) সত্য: সমআয়ন \\(A^-\\)-এর প্রভাবে HA-এর বিয়োজন/দ্রাব্যতা হ্রাস পায়।\n(ii) সত্য: HA-এর আধিক্য থাকায় প্রকৃতি অম্লীয়।\n(iii) সত্য: বাফার দ্রবণ pH পরিবর্তনে বাধা দেয়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-064",
+      "text": "নিচের কোন যৌগের দ্রবণের pH > 7?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{AlCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CuSO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{Na_2CO_3}\\) সবল ক্ষার ও দুর্বল এসিডের লবণ; \\(\\mathrm{CO_3^{2-}}\\) আর্দ্র বিশ্লেষিত হয়ে \\(\\mathrm{OH^-}\\) দেয়, তাই pH > 7। \\(\\mathrm{H_2CO_3}\\) এসিড এবং \\(\\mathrm{AlCl_3}\\)/\\(\\mathrm{CuSO_4}\\) অম্লীয় লবণ।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-065",
+      "text": "রাসায়নিক সাম্যাবস্থার শর্ত নয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাম্যের স্থায়িত্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উভয় দিকের সুগম্যতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিক্রিয়ার সম্পূর্ণতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রভাবকের ভূমিকাহীনতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাম্যাবস্থার শর্ত: সাম্যের স্থায়িত্ব, উভয় দিক থেকে সাম্যে পৌঁছানো (সুগম্যতা), প্রভাবকের ভূমিকাহীনতা। সাম্যে বিক্রিয়া সম্পূর্ণ হয় না, বিক্রিয়ক ও উৎপাদ উভয়ই বিদ্যমান থাকে। তাই (গ) শর্ত নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-066",
+      "text": "নিচের কোন সম্পর্কটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_c = K_p(RT)^{\\Delta n}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_p = K_c(RT)^{\\Delta n}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_c = \\frac{(RT)^{\\Delta n}}{K_p}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_p = \\frac{K_c}{(RT)^{\\Delta n}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(K_p = K_c(RT)^{\\Delta n}\\), যেখানে \\(\\Delta n\\) = উৎপাদের মোল সংখ্যা − বিক্রিয়কের মোল সংখ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-067",
+      "text": "সাম্যধ্রুবকের মান নিম্নের কোনটির উপর নির্ভর করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘনমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রভাবক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সাম্যধ্রুবক শুধু তাপমাত্রার উপর নির্ভর করে; চাপ, ঘনমাত্রা বা প্রভাবকে এর মান বদলায় না।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-068",
+      "text": "\\(\\mathrm{AB_2(g) + \\frac{1}{2}B_2(g) \\rightleftharpoons AB_3(g)}\\) বিক্রিয়াটিতে \\(K_p\\) এবং \\(K_c\\) এর মধ্যে সম্পর্কের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_p = K_c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_p = K_c(RT)^{-\\frac{1}{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_p = K_c(RT)^{\\frac{1}{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_p = K_c(RT)^{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 1 - (1 + \\tfrac{1}{2}) = -\\tfrac{1}{2}\\)\n\\(K_p = K_c(RT)^{\\Delta n} = K_c(RT)^{-\\frac{1}{2}}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-069",
+      "text": "নিচের কোন জলীয় দ্রবণটির pH মান সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.1M HCl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.1M HCOOH",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.1M KOH",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.1M \\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "KOH সবল ক্ষার, তাই এর 0.1M দ্রবণের pH সর্বাধিক (≈ 13)। অন্যগুলো এসিড।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-070",
+      "text": "কক্ষ তাপমাত্রায় পানির আয়নিক গুণফলের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.114 \\times 10^{-14}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.0 \\times 10^{-14}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.4 \\times 10^{-14}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.0 \\times 10^{-7}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কক্ষ তাপমাত্রায় (25°C) \\(K_w = [H^+][OH^-] = 10^{-7}\\times10^{-7} = 1.0\\times10^{-14}\\)।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-071",
+      "text": "বিক্রিয়াটির \\(K_c\\) এর মান হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{X_2(g) + 3Y_2(g) \\rightleftharpoons 2XY_3(g)}\\); ΔH = –Ve\nবিক্রিয়াটির সাম্যাবস্থায় \\(X_2\\), \\(Y_2\\) এবং \\(XY_3\\) এর ঘনমাত্রা যথাক্রমে 0.18, 0.56 এবং 0.12 mol\\(L^{-1}\\)।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-CB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.45",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.19",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.9",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(K_c = \\dfrac{[XY_3]^2}{[X_2][Y_2]^3} = \\dfrac{(0.12)^2}{0.18\\times(0.56)^3} = \\dfrac{0.0144}{0.0316} = 0.45\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2023",
+          "qno": 15,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-072",
+      "text": "উদ্দীপকে উল্লিখিত বিক্রিয়ার \\(XY_3\\) এর উৎপাদন বৃদ্ধিতে গৃহীত পদক্ষেপ—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{X_2(g) + 3Y_2(g) \\rightleftharpoons 2XY_3(g)}\\); ΔH = –Ve\nবিক্রিয়াটির সাম্যাবস্থায় \\(X_2\\), \\(Y_2\\) এবং \\(XY_3\\) এর ঘনমাত্রা যথাক্রমে 0.18, 0.56 এবং 0.12 mol\\(L^{-1}\\)।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-CB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বাড়াতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "চাপ বাড়াতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(XY_3\\) বিক্রিয়া পাত্র থেকে সরিয়ে দিতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিক্রিয়াটি তাপউৎপাদী ও মোল সংখ্যা 4 থেকে 2 হয়।\n(i) মিথ্যা: তাপমাত্রা বাড়ালে সাম্য বামে সরে, \\(XY_3\\) কমে।\n(ii) সত্য: চাপ বাড়ালে সাম্য ডানে সরে।\n(iii) সত্য: উৎপাদ সরিয়ে নিলে সাম্য ডানে সরে।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2023",
+          "qno": 16,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-073",
+      "text": "1% (w/v) \\(\\mathrm{H_2SO_4}\\) দ্রবণের pH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.31",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.69",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.99",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.00",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "1% (w/v) = 10 g/L। মোলার ঘনমাত্রা = 10/98 = 0.102 M\n\\([H^+] = 2\\times0.102 = 0.204\\) M\n\\(pH = -\\log(0.204) = 0.69\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-074",
+      "text": "বাফার দ্রবণ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "15 mL 0.1M HCOOH + 10 mL 0.1M NaOH"
+        },
+        {
+          "label": "ii",
+          "text": "30 mL 0.1M \\(\\mathrm{CH_3COOH}\\) + 15 mL 0.2M NaOH"
+        },
+        {
+          "label": "iii",
+          "text": "25 mL 0.1M \\(\\mathrm{NH_4OH}\\) + 10 mL 0.2M HCl"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) 1.5 মিলিমোল HCOOH ও 1 মিলিমোল NaOH: বিক্রিয়ার পর 0.5 মিলিমোল HCOOH ও 1 মিলিমোল লবণ, তাই বাফার।\n(ii) 3 মিলিমোল \\(\\mathrm{CH_3COOH}\\) ও 3 মিলিমোল NaOH: শুধু লবণ, বাফার নয়।\n(iii) 2.5 মিলিমোল \\(\\mathrm{NH_4OH}\\) ও 2 মিলিমোল HCl: 0.5 মিলিমোল ক্ষার ও 2 মিলিমোল লবণ, ক্ষারীয় বাফার।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-075",
+      "text": "\\(\\mathrm{HCO_3^-}\\) এর অনুবন্ধী ক্ষারক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CO_3^{2-}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CO_2^{2-}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HCO_2^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "এসিড একটি \\(H^+\\) ত্যাগ করে অনুবন্ধী ক্ষারক গঠন করে: \\(\\mathrm{HCO_3^-} \\rightarrow \\mathrm{CO_3^{2-}} + H^+\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-076",
+      "text": "\\(\\mathrm{CH_3COOH(aq) + NH_4OH(aq)}\\) ⟶ উৎপাদ (X) + \\(\\mathrm{H_2O}\\) (l); বিক্রিয়াটির উৎপাদের (X) প্রকৃতি কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অম্লধর্মী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্ষারধর্মী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উভধর্মী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিরপেক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{CH_3COOH}\\)-এর \\(K_a\\) ও \\(\\mathrm{NH_4OH}\\)-এর \\(K_b\\) প্রায় সমান। উৎপন্ন লবণ \\(\\mathrm{CH_3COONH_4}\\)-এর আর্দ্র বিশ্লেষণে অম্ল ও ক্ষার সমান শক্তিতে গঠিত হয়, তাই দ্রবণ প্রায় নিরপেক্ষ।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-077",
+      "text": "কোন লবণটির জলীয় দ্রবণের pH মান 7 এর চেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NaCl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ZnSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{K_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{PH_4Cl}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{K_2CO_3}\\) সবল ক্ষার ও দুর্বল এসিডের লবণ; আর্দ্র বিশ্লেষণে \\(\\mathrm{OH^-}\\) উৎপন্ন হয়, তাই pH > 7। NaCl নিরপেক্ষ এবং \\(\\mathrm{ZnSO_4}\\), \\(\\mathrm{PH_4Cl}\\) অম্লীয় লবণ।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-078",
+      "text": "বিশুদ্ধ পানিতে কয়েক ফোঁটা HCl যোগ করলে \\(K_w\\) এর মান হবে কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 \\times 10^{-16}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 \\times 10^{-14}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 \\times 10^{-13}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\times 10^{-7}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(K_w\\) শুধু তাপমাত্রার উপর নির্ভরশীল। এসিড যোগ করলে \\([H^+]\\) বাড়ে, কিন্তু \\(K_w\\) অপরিবর্তিত থাকে (25°C-এ \\(1\\times10^{-14}\\))।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-079",
+      "text": "মানুষের রক্তের pH মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "7.4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7.0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3.2",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মানুষের রক্তের স্বাভাবিক pH প্রায় 7.4 (সামান্য ক্ষারীয়)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-080",
+      "text": "সবচেয়ে দুর্বল এসিড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_3BO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_3PO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HClO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{H_3BO_3}\\) (বোরিক এসিড) অত্যন্ত দুর্বল এসিড। \\(\\mathrm{HNO_3}\\) ও \\(\\mathrm{HClO_3}\\) সবল এবং \\(\\mathrm{H_3PO_3}\\) মধ্যম শক্তির।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-081",
+      "text": "ভরক্রিয়ার সূত্রে নিচের কোনটিকে সক্রিয় ভর হিসেবে নির্দেশ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আণবিক ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোল সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পারমাণবিক ভর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোলার ঘনমাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভরক্রিয়ার সূত্রে বিক্রিয়কের সক্রিয় ভর বলতে মোলার ঘনমাত্রা (mol/L) বোঝায়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-082",
+      "text": "উভমুখী বিক্রিয়ার বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রিয়াটি শেষ হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উভয়দিকের বিক্রিয়ার হার সমান হয় না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাম্যাবস্থায় আসার প্রবণতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রভাবকের ভূমিকা আছে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উভমুখী বিক্রিয়া শেষ হয় না এবং সাম্যাবস্থায় উভয় দিকের বিক্রিয়ার হার সমান হয়। এর বৈশিষ্ট্য হলো সাম্যাবস্থায় পৌঁছানোর প্রবণতা। প্রভাবক সাম্যাবস্থার অবস্থান বদলায় না।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-083",
+      "text": "নিচের কোন জোড়টি দিয়ে বাফার দ্রবণ তৈরি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_2}\\) ও \\(\\mathrm{NaNO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HCl ও KCl",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HNO_3}\\) ও \\(\\mathrm{NH_4NO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaOH ও \\(\\mathrm{Na_2CO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বাফার = দুর্বল এসিড + তার লবণ (বা দুর্বল ক্ষার + তার লবণ)। \\(\\mathrm{HNO_2}\\) দুর্বল এসিড ও \\(\\mathrm{NaNO_2}\\) এর লবণ, তাই (ক)। অন্যগুলোতে সবল এসিড/ক্ষার আছে।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-084",
+      "text": "উদ্দীপকের বিক্রিয়াটিতে চাপের প্রভাব কীরূপ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{P_2(g) + Q_2(g) \\rightleftharpoons 2PQ(g)}\\), ΔH = +Y KJ",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-DB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ বাড়ালে উৎপাদ কমে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ কমালে উৎপাদ বাড়ে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপের প্রভাব নেই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_p\\) কমবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিক্রিয়ায় \\(\\Delta n = 2 - 2 = 0\\), অর্থাৎ বিক্রিয়ক ও উৎপাদের মোল সংখ্যা সমান। তাই চাপ পরিবর্তনে সাম্যের কোনো প্রভাব পড়ে না।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-085",
+      "text": "উদ্দীপকের বিক্রিয়ার ক্ষেত্রে \\(K_p\\) ও \\(K_c\\) এর মধ্যে সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{P_2(g) + Q_2(g) \\rightleftharpoons 2PQ(g)}\\), ΔH = +Y KJ",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-DB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_p = K_c(RT)^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_c = K_p(RT)^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_p = K_c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_p = K_c(RT)^{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - 2 = 0\\)\n\\(K_p = K_c(RT)^0 = K_c\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-086",
+      "text": "0.05M \\(\\mathrm{H_2SO_4}\\) এর pOH কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.30",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12.7",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "13",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{H_2SO_4}\\) দ্বিক্ষারীয়: \\([H^+] = 2\\times0.05 = 0.1\\) M\n\\(pH = 1\\), \\(pOH = 14 - 1 = 13\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-087",
+      "text": "25°C তাপমাত্রায় পানির আয়নিক গুণফল \\(1 \\times 10^{-14}\\) হলে \\(\\mathrm{[H_3O^+]}\\) এর মান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(10^{-14}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(10^{-7}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10^{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10^{14}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিশুদ্ধ পানিতে \\([H_3O^+] = [OH^-]\\)\n\\([H_3O^+]^2 = 10^{-14}\\), তাই \\([H_3O^+] = 10^{-7}\\) M",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-088",
+      "text": "নিচের কোন বিক্রিয়ায় Δn > 0?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(ক)-তে \\(\\Delta n = 2 - 1 = +1\\) (> 0)। (খ)-তে \\(-1\\), (গ)-তে 0 এবং (ঘ)-তে \\(-2\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-089",
+      "text": "5.0 g/L ঘনমাত্রার \\(\\mathrm{Zn(OH)_2}\\) দ্রবণে \\(\\mathrm{OH^-}\\) এর মোলার ঘনমাত্রা কত? [\\(\\mathrm{Zn(OH)_2}\\) এর আণবিক ভর 99.4]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.02",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.05",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.10",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.20",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\([\\mathrm{Zn(OH)_2}] = 5.0/99.4 = 0.0503\\) M\n\\([OH^-] = 2\\times0.0503 \\approx 0.10\\) M",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-090",
+      "text": "\\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\); ΔH = + 124 KJ\\(\\mathrm{mol^{-1}}\\) বিক্রিয়াটিতে চাপ হ্রাস করলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Cl_2}\\) এর পরিমাণ বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "বিক্রিয়া সম্মুখমুখী হয়"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K_p\\) এর মান বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিক্রিয়ায় মোল সংখ্যা 1 থেকে 2 বাড়ে।\n(i), (ii) সত্য: চাপ কমালে সাম্য ডানে (সম্মুখমুখী) সরে, \\(\\mathrm{Cl_2}\\) বাড়ে।\n(iii) মিথ্যা: \\(K_p\\) শুধু তাপমাত্রার উপর নির্ভরশীল, চাপে বদলায় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-091",
+      "text": "কোনটির তীব্রতা সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SeO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HBrO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HClO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HIO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অক্সি-এসিডে কেন্দ্রীয় পরমাণুর তড়িৎঋণাত্মকতা ও অক্সিজেনের সংখ্যা বেশি হলে এসিড শক্তিশালী হয়। \\(\\mathrm{HClO_4}\\)-এ Cl-এর তড়িৎঋণাত্মকতা Br ও I-এর চেয়ে বেশি এবং O-এর সংখ্যা \\(\\mathrm{H_2SeO_3}\\)-এর চেয়ে বেশি, তাই সবচেয়ে তীব্র।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-092",
+      "text": "কোনো দ্রবণের pH 12 হলে \\(\\mathrm{OH^-}\\) আয়নের ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 \\times 10^{-2}\\) M",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1 \\times 10^{-10}\\) M",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 \\times 10^{-12}\\) M",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\times 10^{-14}\\) M",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(pOH = 14 - 12 = 2\\)\n\\([OH^-] = 10^{-2} = 1\\times10^{-2}\\) M",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-093",
+      "text": "তাপহারী বিক্রিয়া হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "X + Y + তাপ ⟶ উৎপাদ"
+        },
+        {
+          "label": "ii",
+          "text": "R + Z ⟶ উৎপাদ; ΔH = + Ve"
+        },
+        {
+          "label": "iii",
+          "text": "L + T ⟶ উৎপাদ + তাপ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তাপহারী বিক্রিয়ায় তাপ শোষিত হয় (বিক্রিয়কের দিকে তাপ লেখা হয়) এবং ΔH ধনাত্মক।\n(i) ও (ii) তাপহারী; (iii)-তে তাপ উৎপন্ন হয়, তাই তাপউৎপাদী।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-094",
+      "text": "উদ্দীপকের বিক্রিয়াটির \\(K_p\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি বদ্ধপাত্রে 2.5 মোল HI কে 400°C তাপমাত্রায় উত্তপ্ত করা হল। সাম্যাবস্থায় 25% HI বিয়োজিত হয়।\n\\(\\mathrm{2HI(g) \\rightleftharpoons H_2(g) + I_2(g)}\\); ΔH = – Ve",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-DIB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.0277",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.0177",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.0123",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "HI বিয়োজিত = 2.5 × 0.25 = 0.625 মোল\nসাম্যে HI = 1.875 মোল, \\(\\mathrm{H_2}\\) = \\(\\mathrm{I_2}\\) = 0.3125 মোল\n\\(\\Delta n = 0\\), তাই \\(K_p = K_c = \\dfrac{0.3125\\times0.3125}{(1.875)^2} = 0.0278\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-095",
+      "text": "উদ্দীপকে বিক্রিয়াটির ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি বদ্ধপাত্রে 2.5 মোল HI কে 400°C তাপমাত্রায় উত্তপ্ত করা হল। সাম্যাবস্থায় 25% HI বিয়োজিত হয়।\n\\(\\mathrm{2HI(g) \\rightleftharpoons H_2(g) + I_2(g)}\\); ΔH = – Ve",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-DIB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বৃদ্ধি পেলে সাম্যের অবস্থান বামদিকে সরে যায়"
+        },
+        {
+          "label": "ii",
+          "text": "চাপ বাড়লে \\(K_p\\) এর মান বাড়বে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(K_p\\) ও \\(K_c\\) এর মান সমান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বিক্রিয়াটি তাপউৎপাদী, তাপমাত্রা বাড়ালে সাম্য বামে সরে।\n(ii) মিথ্যা: \\(K_p\\) চাপের উপর নির্ভর করে না।\n(iii) সত্য: \\(\\Delta n = 0\\) হওয়ায় \\(K_p = K_c\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-096",
+      "text": "একটি সবল ক্ষার দ্রবণের ঘনমাত্রা \\(2 \\times 10^{-3}\\) mol\\(L^{-1}\\) হলে ঐ দ্রবণের pH মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9.3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10.3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "11.3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "12.3",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(pOH = -\\log(2\\times10^{-3}) = 2.70\\)\n\\(pH = 14 - 2.70 = 11.3\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-097",
+      "text": "\\(\\mathrm{CO(g) + H_2O(g) \\rightleftharpoons CO_2(g) + H_2(g)}\\); ΔH = + 41 kJ/mol\nবিক্রিয়াটির ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বাড়ালে সাম্যাবস্থা ডান দিকে সরে যাবে"
+        },
+        {
+          "label": "ii",
+          "text": "চাপ বাড়ালে সাম্যাবস্থার কোনো পরিবর্তন হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রিয়কের ঘনমাত্রা বাড়ালে পশ্চাৎমুখী বিক্রিয়ার গতি বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বিক্রিয়াটি তাপহারী, তাপমাত্রা বাড়ালে সাম্য ডানে সরে।\n(ii) সত্য: \\(\\Delta n = 0\\), তাই চাপে সাম্য অপরিবর্তিত।\n(iii) মিথ্যা: বিক্রিয়কের ঘনমাত্রা বাড়ালে সম্মুখমুখী বিক্রিয়ার গতি বাড়ে এবং সাম্য ডানে সরে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-098",
+      "text": "\\(K_p\\) ও \\(K_c\\) এর সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{2SO_2(g) + O_2(g) \\underset{V_2O_5}{\\overset{450 – 500°C}{\\rightleftharpoons}} 2SO_3(g)}\\); ΔH = – 198 kJ/mol",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-JB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_p = K_c(RT)^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_p = K_c(RT)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_p = K_c(RT)^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_c = K_p(RT)^{-1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - 3 = -1\\)\n\\(K_p = K_c(RT)^{-1}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-099",
+      "text": "বিক্রিয়াটির বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{2SO_2(g) + O_2(g) \\underset{V_2O_5}{\\overset{450 – 500°C}{\\rightleftharpoons}} 2SO_3(g)}\\); ΔH = – 198 kJ/mol",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-JB-18-19",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্মুখ বিক্রিয়ায় আয়তনের সংকোচন ঘটে"
+        },
+        {
+          "label": "ii",
+          "text": "অধিক পরিমাণ \\(\\mathrm{O_2}\\) যোগে বিক্রিয়ার সাম্যাবস্থা বামে সরে যাবে।"
+        },
+        {
+          "label": "iii",
+          "text": "পশ্চাৎমুখী বিক্রিয়াটি তাপহারী হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: 3 মোল গ্যাস থেকে 2 মোল গ্যাস হওয়ায় আয়তন সংকুচিত হয়।\n(ii) মিথ্যা: \\(\\mathrm{O_2}\\) বাড়ালে সাম্য ডানে সরে।\n(iii) সত্য: সম্মুখ বিক্রিয়া তাপউৎপাদী, তাই পশ্চাৎ বিক্রিয়া তাপহারী।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-100",
+      "text": "25°C তাপমাত্রায় পানির আয়নিক গুণফল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 \\times 10^{14}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2 \\times 10^{14}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2 \\times 10^{-7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1 \\times 10^{-14}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "25°C তাপমাত্রায় পানির আয়নিক গুণফল \\(K_w = 1\\times10^{-14}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-101",
+      "text": "উদ্দীপক মিশ্রণে কোনটি অতিরিক্ত থাকবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "80mL 0.15M \\(\\mathrm{NH_4OH}\\) দ্রবণে 40mL 0.25M HCl দ্রবণ যোগ করা হলো।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "40 মিলিমোল \\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20 মিলিমোল HCl",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 মিলিমোল HCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 মিলিমোল \\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{NH_4OH}\\) = 80 × 0.15 = 12 মিলিমোল\nHCl = 40 × 0.25 = 10 মিলিমোল\nবিক্রিয়ার পর \\(12 - 10 = 2\\) মিলিমোল \\(\\mathrm{NH_4OH}\\) অতিরিক্ত থাকে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-102",
+      "text": "উদ্দীপক মিশ্রণের pH হ্রাস করতে হলে কোনটি যোগ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "80mL 0.15M \\(\\mathrm{NH_4OH}\\) দ্রবণে 40mL 0.25M HCl দ্রবণ যোগ করা হলো।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4Cl}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaOH",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মিশ্রণটি ক্ষারীয় বাফার (\\(\\mathrm{NH_4OH}\\) + \\(\\mathrm{NH_4Cl}\\)), pH > 7। pH কমাতে অম্ল যোগ করতে হয়; \\(\\mathrm{HNO_3}\\) যোগ করলে \\(\\mathrm{OH^-}\\) নিঃশেষিত হয়ে pH কমে। \\(\\mathrm{NH_4OH}\\) ও NaOH যোগ করলে pH বাড়ে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-103",
+      "text": "সাম্য ধ্রুবকের মান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রার উপর নির্ভরশীল।"
+        },
+        {
+          "label": "ii",
+          "text": "প্রভাবক দ্বারা প্রভাবিত হয় না।"
+        },
+        {
+          "label": "iii",
+          "text": "ক্ষুদ্র হলে মিশ্রণে বিক্রিয়ক বেশি থাকে।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: সাম্যধ্রুবক শুধু তাপমাত্রার উপর নির্ভরশীল।\n(ii) সত্য: প্রভাবক উভয় দিকের গতি সমানভাবে বাড়ায়, \\(K\\) বদলায় না।\n(iii) সত্য: \\(K\\) ক্ষুদ্র হলে উৎপাদ কম, বিক্রিয়ক বেশি থাকে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-104",
+      "text": "এসিডের শক্তির কোন ক্রমটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SO_3 > HClO > HNO_3 > H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_3 > H_3PO_4 > H_2SO_3 > HClO}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HClO > HNO_3 > H_3PO_4 > H_2SO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_3PO_4 > H_2SO_3 > HNO_3 > HClO}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "এসিডের শক্তি: \\(\\mathrm{HNO_3}\\) (সবল) > \\(\\mathrm{H_3PO_4}\\) > \\(\\mathrm{H_2SO_3}\\) > HClO (খুব দুর্বল)। তাই (খ) সঠিক।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-105",
+      "text": "মাটির অম্লত্ব বৃদ্ধি পেলে pH নিয়ন্ত্রণ করার জন্য কোনটি যোগ করতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চুন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফসফেট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সালফেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নাইট্রেট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মাটির অম্লত্ব কমাতে ক্ষারীয় পদার্থ দরকার। চুন (CaO বা \\(\\mathrm{Ca(OH)_2}\\)) ক্ষারীয়, তাই অম্ল প্রশমিত করে pH বাড়ায়।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 16,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-106",
+      "text": "সবচেয়ে শক্তিশালী এসিড নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HClO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HClO_4}\\)-এ Cl-এর জারণ সংখ্যা +7 ও চারটি O আছে; এর অনুবন্ধী ক্ষারক \\(\\mathrm{ClO_4^-}\\) অত্যন্ত স্থিতিশীল, তাই এটি সবচেয়ে শক্তিশালী এসিড।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-107",
+      "text": "\\(\\mathrm{M_2(g) + D_2(g) \\rightleftharpoons 2MD(g)}\\); ΔH = +ve\nএই বিক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বৃদ্ধিতে উৎপাদ বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "সাম্য ধ্রুবক \\(K_p\\) ও \\(K_c\\) এর মান সমান নয়"
+        },
+        {
+          "label": "iii",
+          "text": "সাম্যাবস্থার উপর চাপের প্রভাব নেই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: বিক্রিয়াটি তাপহারী, তাপমাত্রা বাড়ালে উৎপাদ বাড়ে।\n(ii) মিথ্যা: \\(\\Delta n = 0\\) হওয়ায় \\(K_p = K_c\\)।\n(iii) সত্য: \\(\\Delta n = 0\\), তাই চাপে সাম্যের প্রভাব নেই।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-108",
+      "text": "\\(\\mathrm{Al_2O_3}\\) এর অম্লত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ক্ষারকের অম্লত্ব = প্রতিস্থাপনযোগ্য \\(\\mathrm{OH^-}\\)-এর সংখ্যা। \\(\\mathrm{Al_2O_3} + 3\\mathrm{H_2O} \\rightarrow 2\\mathrm{Al(OH)_3}\\), এতে মোট \\(2\\times3 = 6\\)টি \\(\\mathrm{OH^-}\\) আছে। তাই অম্লত্ব 6।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-109",
+      "text": "কোন মিশ্রণটি বাফার দ্রবণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SO_4}\\) ও \\(\\mathrm{CH_3COONa}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NH_4OH}\\) ও \\(\\mathrm{CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_4Cl}\\) ও \\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4Cl}\\) ও NaOH",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্ষারীয় বাফার = দুর্বল ক্ষার + তার লবণ। \\(\\mathrm{NH_4OH}\\) দুর্বল ক্ষার ও \\(\\mathrm{NH_4Cl}\\) তার লবণ। অন্যগুলোতে সবল এসিড/ক্ষার আছে বা লবণ নেই।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-110",
+      "text": "0.02M \\(\\mathrm{H_2SO_4}\\) এর pH মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4.00",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.00",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.69",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.39",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\([H^+] = 2\\times0.02 = 0.04\\) M\n\\(pH = -\\log(0.04) = 1.39\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-111",
+      "text": "\\(5 \\times 10^{-3}\\)M \\(\\mathrm{H_2SO_4}\\) দ্রবণের pH এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\([H^+] = 2\\times5\\times10^{-3} = 10^{-2}\\) M\n\\(pH = 2\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-112",
+      "text": "নিচের কোন এসিডটির তীব্রতা অধিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HClO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\mathrm{HClO_4}\\) প্রদত্ত এসিডগুলোর মধ্যে সবচেয়ে শক্তিশালী; Cl-এর জারণ সংখ্যা +7 ও এর অনুবন্ধী ক্ষারক অত্যন্ত স্থিতিশীল।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-113",
+      "text": "মানব রক্তে কোন বাফার দ্রবণ বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_4Cl + NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3COONa + CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na_2HPO_4 + H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NaHCO_3 + H_2CO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মানব রক্তের প্রধান বাফার \\(\\mathrm{H_2CO_3/NaHCO_3}\\) (কার্বনিক এসিড–বাইকার্বনেট), যা রক্তের pH প্রায় 7.4 রাখে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-114",
+      "text": "\\(\\mathrm{A_2(g) + 3B_2(g) \\rightleftharpoons 2AB_3(g)}\\); বিক্রিয়ার জন্য \\(K_p\\) এবং \\(K_c\\) এর মধ্যে সম্পর্ক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(K_p = K_c(RT)^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(K_c = K_p(RT)^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(K_p = K_c(RT)^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(K_c = K_p(RT)^{-2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta n = 2 - 4 = -2\\)\n\\(K_p = K_c(RT)^{-2}\\), অর্থাৎ \\(K_c = K_p(RT)^2\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-115",
+      "text": "উদ্দীপকের বিক্রিয়ার \\(K_p\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\) বিক্রিয়ার 25°C তাপমাত্রায় এবং 3atm চাপে \\(\\mathrm{PCl_5(g)}\\) 80% বিয়োজিত হয়।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "2.33atm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.33atm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.33atm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.33atm",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মনে করি প্রাথমিক \\(\\mathrm{PCl_5}\\) = 1 মোল, \\(\\alpha = 0.8\\)। সাম্যে \\(\\mathrm{PCl_5}\\) = 0.2, \\(\\mathrm{PCl_3}\\) = \\(\\mathrm{Cl_2}\\) = 0.8, মোট = 1.8 মোল\n\\(K_p = \\dfrac{\\alpha^2 P}{1-\\alpha^2} = \\dfrac{(0.8)^2\\times3}{1-0.64} = 5.33\\) atm",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch4-mcq-116",
+      "text": "উদ্দীপকের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\\(\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}\\) বিক্রিয়ার 25°C তাপমাত্রায় এবং 3atm চাপে \\(\\mathrm{PCl_5(g)}\\) 80% বিয়োজিত হয়।",
+      "stem_image": null,
+      "group": "chemistry_1st-2023-SB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Cl_2}\\) এর আংশিক চাপ 1.332atm"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{PCl_5}\\) এর মোল ভগ্নাংশ 0.111"
+        },
+        {
+          "label": "iii",
+          "text": "চাপ বৃদ্ধি করলে \\(\\mathrm{PCl_3}\\) এর উৎপাদন কমে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মোট 1.8 মোল; \\(P = 3\\) atm।\n(i) সত্য: \\(p_{Cl_2} = \\dfrac{0.8}{1.8}\\times3 \\approx 1.33\\) atm।\n(ii) সত্য: \\(\\mathrm{PCl_5}\\)-এর মোল ভগ্নাংশ = 0.2/1.8 = 0.111।\n(iii) সত্য: মোল সংখ্যা 1 থেকে 2 বাড়ে, তাই চাপ বাড়ালে সাম্য বামে সরে ও \\(\\mathrm{PCl_3}\\) কমে।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

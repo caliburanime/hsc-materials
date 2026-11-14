@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<rect width="320" height="240" fill="#fff"/>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<line x1="70" y1="190" x2="70" y2="25" marker-end="url(#a)"/>
+<line x1="70" y1="190" x2="290" y2="190" marker-end="url(#a)"/>
+<line x1="65" y1="150" x2="75" y2="150"/><line x1="65" y1="100" x2="75" y2="100"/><line x1="65" y1="50" x2="75" y2="50"/>
+<line x1="70" y1="150" x2="270" y2="50"/>
+
+<line x1="170" y1="100" x2="170" y2="190"/><line x1="270" y1="50" x2="270" y2="190"/>
+</g>
+<g font-family="serif" font-size="16" fill="#111">
+<text x="58" y="156" text-anchor="end">20</text><text x="58" y="106" text-anchor="end">40</text><text x="58" y="56" text-anchor="end">60</text>
+<text x="170" y="212" text-anchor="middle">25°C</text><text x="270" y="212" text-anchor="middle">50°C</text>
+</g>
+<g font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="15" fill="#111">
+<text x="30" y="108" text-anchor="middle" transform="rotate(-90 30 108)">দ্রাব্যতা</text>
+<text x="175" y="233" text-anchor="middle">→ তাপমাত্রা</text>
+</g>
+</svg>

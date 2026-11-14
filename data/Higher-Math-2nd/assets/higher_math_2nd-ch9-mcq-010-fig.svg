@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker></defs>
+<rect width="360" height="200" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="1.5" font-family="serif" >
+<line x1="40" y1="160" x2="330" y2="160" marker-end="url(#a)"/>
+<line x1="40" y1="160" x2="87.5" y2="77.7" marker-end="url(#a)"/>
+<path d="M40,160 Q185,-30 300,160"/>
+<path d="M72.0,160.0 A32,32 0 0 0 56.0,132.3"/>
+<text x="26" y="176" fill="#111" stroke="none" font-size="16" font-style="italic">O</text>
+<text x="334" y="176" fill="#111" stroke="none" font-size="16" font-style="italic">X</text>
+<text x="76" y="154" fill="#111" stroke="none" font-size="16" >30°</text>
+<text x="52" y="44" fill="#111" stroke="none" font-size="16" >1 ms<tspan baseline-shift="super" font-size="11">−1</tspan></text>
+</g>
+</svg>

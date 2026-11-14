@@ -1,0 +1,4266 @@
+{
+  "subject": "physics_2nd",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_2nd-ch1-mcq-001",
+      "text": "তাপগতিবিদ্যার কোন সূত্রের উপর ভিত্তি করে রেফ্রিজারেটর নির্মিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্যতম সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রথম সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্বিতীয় সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সবক'টি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রেফ্রিজারেটর নিম্ন তাপমাত্রার বস্তু থেকে উচ্চ তাপমাত্রার বস্তুতে বাইরের কাজের সাহায্যে তাপ প্রেরণ করে, যা তাপগতিবিদ্যার দ্বিতীয় সূত্রের উপর ভিত্তি করে নির্মিত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-002",
+      "text": "ফারেনহাইট স্কেলে পরমশূন্য তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−409°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−419.4°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−429.2°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−459.4°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পরমশূন্য তাপমাত্রা \\(0\\,\\mathrm{K} = -273.15^\\circ\\mathrm{C}\\)।\n\\(F = \\frac{9}{5}(-273.15) + 32 \\approx -459.4^\\circ\\mathrm{F}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-003",
+      "text": "এন্ট্রপি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রাকৃতিক পরিবর্তনে বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "রুদ্ধতাপীয় প্রক্রিয়ায় ধ্রুব থাকে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যাবর্তী প্রক্রিয়ায় ধ্রুব থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) প্রাকৃতিক (অপ্রত্যাবর্তী) পরিবর্তনে এন্ট্রপি বৃদ্ধি পায়।\n(ii) রুদ্ধতাপীয় প্রক্রিয়ায় \\(dQ = 0\\) বলে \\(dS = \\frac{dQ}{T} = 0\\), অর্থাৎ এন্ট্রপি ধ্রুব থাকে।\n(iii) প্রত্যাবর্তী প্রক্রিয়ায় মহাবিশ্বের মোট এন্ট্রপি অপরিবর্তিত থাকে।\nতাই তিনটি বিবৃতিই সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-004",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেমের কোন বৈশিষ্ট্য ধ্রুব থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এন্ট্রপি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়তন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেমের সাথে তাপের আদান-প্রদান হয় না (\\(dQ = 0\\)), তাই \\(dS = \\frac{dQ}{T} = 0\\); অর্থাৎ এন্ট্রপি ধ্রুব থাকে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-005",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায় স্থির থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এন্ট্রপি"
+        },
+        {
+          "label": "ii",
+          "text": "তাপ"
+        },
+        {
+          "label": "iii",
+          "text": "চাপ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) রুদ্ধতাপীয় প্রক্রিয়ায় \\(dQ = 0\\) বলে এন্ট্রপি স্থির থাকে।\n(ii) এতে তাপের আদান-প্রদান ঘটে না, তাই তাপ স্থির (শূন্য) থাকে।\n(iii) চাপ স্থির থাকে না; \\(PV^{\\gamma} = k\\) অনুযায়ী আয়তনের সাথে চাপ পরিবর্তিত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-006",
+      "text": "বয়েলের সূত্রের ক্ষেত্রে কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-006-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-006-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-006-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-006-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বয়েলের সূত্র অনুযায়ী ধ্রুব তাপমাত্রায় \\(PV = \\) ধ্রুবক, অর্থাৎ \\(P \\propto \\frac{1}{V}\\)। তাই \\(P\\text{–}V\\) লেখচিত্র একটি আয়তাকার পরাবৃত্ত (হাইপারবোলা), যা (ক) এ দেখানো হয়েছে। (খ), (গ), (ঘ) এ \\(P\\) আয়তনের সাথে বাড়ছে, যা সঠিক নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-007",
+      "text": "দ্বি-পারমাণবিক গ্যাসের জন্য, γ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.40",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.67",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.69",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্বি-পারমাণবিক গ্যাসের জন্য \\(C_V = \\frac{5}{2}R,\\ C_P = \\frac{7}{2}R\\)।\n\\(\\gamma = \\frac{C_P}{C_V} = \\frac{7}{5} = 1.40\\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-008",
+      "text": "একটি রেফ্রিজারেটরের কর্মসম্পাদন সহগ 2.5। এটি শীতল তাপাধার হতে প্রতি চক্রে 300 J তাপ গ্রহণ করে। রেফ্রিজারেটর চালানোর জন্য প্রতি চক্রে বাইরে থেকে কী পরিমাণ কাজ সম্পাদন করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "120 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "240 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2190 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "375 J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কর্মসম্পাদন সহগ \\(K = \\frac{Q_2}{W}\\)\n\\(W = \\frac{Q_2}{K} = \\frac{300}{2.5} = 120\\ \\mathrm{J}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-009",
+      "text": "এন্ট্রপির মাত্রা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\([\\mathrm{ML^2T^{3}\\theta^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\([\\mathrm{MLT^{-2}\\theta^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\([\\mathrm{ML^2T^{-2}\\theta^{-1}}]\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\([\\mathrm{ML^2T^{2}\\theta^{-2}}]\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "এন্ট্রপি \\(S = \\frac{Q}{T}\\), এর মাত্রা = তাপ (শক্তি) ÷ তাপমাত্রা।\n\\([S] = \\frac{[\\mathrm{ML^2T^{-2}}]}{[\\theta]} = [\\mathrm{ML^2T^{-2}\\theta^{-1}}]\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-010",
+      "text": "একটি ইঞ্জিনের দক্ষতা যদি η হয়, তবে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\eta \\le 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\eta < 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\eta > 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\eta \\ge 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কোনো তাপ ইঞ্জিন গৃহীত সব তাপকে কাজে রূপান্তর করতে পারে না, কিছু তাপ অবশ্যই বর্জিত হয়। তাই \\(\\eta = 1 - \\frac{Q_2}{Q_1} < 1\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-011",
+      "text": "পানিকে পরিবেশের তুলনায় আরো ঠান্ডা করতে বহিঃস্থ শক্তির প্রয়োজন। নিচের কোন সূত্র এ ঘটনার সাথে সম্পর্কিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপ গতিবিদ্যার শূন্যতম সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপ গতিবিদ্যার প্রথম সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপ গতিবিদ্যার দ্বিতীয় সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিউটনের শীতলীকরণ সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পানিকে পরিবেশের চেয়ে ঠান্ডা করা মানে নিম্ন তাপমাত্রার বস্তু থেকে উচ্চ তাপমাত্রার পরিবেশে তাপ পাঠানো, যা বাইরের শক্তি ছাড়া সম্ভব নয়। এটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের (ক্লসিয়াসের বিবৃতি) সাথে সম্পর্কিত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-012",
+      "text": "রুদ্ধতাপীয় সংকোচনে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বর্জিত তাপ শূন্য"
+        },
+        {
+          "label": "ii",
+          "text": "তাপমাত্রা হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "এন্ট্রপি অপরিবর্তিত থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) রুদ্ধতাপীয় প্রক্রিয়ায় তাপের আদান-প্রদান নেই, তাই বর্জিত তাপ শূন্য — সত্য।\n(ii) সংকোচনে গ্যাসের উপর কাজ হয়, ফলে অন্তঃস্থ শক্তি বেড়ে তাপমাত্রা বৃদ্ধি পায়, হ্রাস পায় না — মিথ্যা।\n(iii) \\(dQ = 0\\) বলে এন্ট্রপি অপরিবর্তিত থাকে — সত্য।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-013",
+      "text": "সম আয়তন প্রক্রিয়ার ক্ষেত্রে নিম্নের কোন লেখচিত্রটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-013-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-013-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-013-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-013-optd.svg"
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সম আয়তন প্রক্রিয়ায় আয়তন \\(V\\) ধ্রুব থাকে এবং চাপ \\(P\\) পরিবর্তিত হয়। তাই \\(P\\text{–}V\\) লেখে এটি \\(P\\)-অক্ষের সমান্তরাল উল্লম্ব সরলরেখা, যা (গ) এ দেখানো হয়েছে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-014",
+      "text": "নিম্নের কোন সম্পর্কটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রুদ্ধতাপীয় রেখার ঢাল = \\(\\frac{1}{\\gamma}\\) × সমোষ্ণ রেখার ঢাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রুদ্ধতাপীয় রেখার ঢাল = γ × সমোষ্ণ রেখার ঢাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমোষ্ণ রেখার ঢাল = (γ − 1) × রুদ্ধতাপীয় রেখার ঢাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমোষ্ণ রেখার ঢাল = রুদ্ধতাপীয় রেখার ঢাল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ রেখার ঢাল \\(= -\\frac{P}{V}\\) এবং রুদ্ধতাপীয় রেখার ঢাল \\(= -\\gamma\\frac{P}{V}\\)।\nঅতএব রুদ্ধতাপীয় রেখার ঢাল = \\(\\gamma \\times\\) সমোষ্ণ রেখার ঢাল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-015",
+      "text": "একটি তাপ ইঞ্জিন 175°C ও 75°C এর মধ্যে কার্যরত। এর কর্মদক্ষতা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "28.8%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "25%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "22.3%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(T_1 = 175 + 273 = 448\\ \\mathrm{K},\\ T_2 = 75 + 273 = 348\\ \\mathrm{K}\\)\n\\(\\eta = 1 - \\frac{T_2}{T_1} = \\frac{448 - 348}{448} = \\frac{100}{448} = 0.223 = 22.3\\%\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-016",
+      "text": "এক পারমাণবিক গ্যাসের জন্য \\(\\frac{C_P}{C_V}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.76",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.67",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.40",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.33",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "এক পারমাণবিক গ্যাসের জন্য \\(C_V = \\frac{3}{2}R,\\ C_P = \\frac{5}{2}R\\)।\n\\(\\frac{C_P}{C_V} = \\frac{5}{3} = 1.67\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-017",
+      "text": "গ্যাসীয় পদার্থের অভ্যন্তরীণ শক্তি নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আদর্শ গ্যাসের অণুগুলোর মধ্যে আকর্ষণ নেই, তাই অভ্যন্তরীণ শক্তি শুধু অণুর গতিশক্তির উপর নির্ভর করে, যা তাপমাত্রার সমানুপাতিক। অর্থাৎ অভ্যন্তরীণ শক্তি তাপমাত্রার উপর নির্ভরশীল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-018",
+      "text": "রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(PV^{\\gamma} = k\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(TV^{\\gamma - 1} = k\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(T^{\\gamma}P^{1 + \\gamma} = k\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় পরিবর্তনে \\(PV^{\\gamma} = k\\) এবং \\(TV^{\\gamma-1} = k\\) সঠিক। তবে \\(P\\) ও \\(T\\) এর সম্পর্ক হলো \\(T^{\\gamma}P^{1-\\gamma} = k\\); (iii) এ \\(P^{1+\\gamma}\\) দেওয়া আছে, যা ভুল। তাই (i) ও (ii) সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-019",
+      "text": "ফারেনহাইট স্কেলে নিম্ন স্থির বিন্দুর তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°F",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "32°F",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "212°F",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "273°F",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফারেনহাইট স্কেলে বরফ বিন্দু (নিম্ন স্থির বিন্দু) \\(32^\\circ\\mathrm{F}\\) এবং পানির স্ফুটনাঙ্ক (ঊর্ধ্ব স্থির বিন্দু) \\(212^\\circ\\mathrm{F}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-020",
+      "text": "রুদ্ধতাপীয় প্রসারণে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিস্টেম উষ্ণ হয়"
+        },
+        {
+          "label": "ii",
+          "text": "সিস্টেম শীতল হয়"
+        },
+        {
+          "label": "iii",
+          "text": "অন্তঃস্থ শক্তি হ্রাস পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রসারণে গ্যাস নিজে কাজ করে কিন্তু বাইরে থেকে তাপ পায় না, ফলে অন্তঃস্থ শক্তি হ্রাস পায় এবং সিস্টেম শীতল হয়। তাই (ii) ও (iii) সঠিক; (i) ভুল।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-021",
+      "text": "আদর্শ গ্যাস ধ্রুবক R হলে এক পারমাণবিক গ্যাসের ক্ষেত্রে \\(C_P = ?\\)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4R",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{7}{2}R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3R",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{5}{2}R\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "এক পারমাণবিক গ্যাসের \\(C_V = \\frac{3}{2}R\\)।\n\\(C_P = C_V + R = \\frac{3}{2}R + R = \\frac{5}{2}R\\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-022",
+      "text": "এন্ট্রপি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপ সঞ্চালনের দিক নির্দেশ করে"
+        },
+        {
+          "label": "ii",
+          "text": "বস্তুর তাপগতীয় অবস্থা নির্ধারণে সহায়তা করে না"
+        },
+        {
+          "label": "iii",
+          "text": "বিশৃঙ্খলার পরিমাপ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) তাপ উচ্চ এন্ট্রপির দিকে প্রবাহিত হয়, তাই এন্ট্রপি তাপ সঞ্চালনের দিক নির্দেশ করে — সত্য।\n(ii) এন্ট্রপি অবস্থার অপেক্ষক, তাই এটি তাপগতীয় অবস্থা নির্ধারণে সহায়তা করে — বিবৃতিটি মিথ্যা।\n(iii) এন্ট্রপি ব্যবস্থার বিশৃঙ্খলার পরিমাপ — সত্য।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-023",
+      "text": "\"কোনো বস্তুকে এর পরিপার্শ্বের শীতলতম অংশ হতে অধিকতর শীতল করে শক্তির অবিরাম সরবরাহ পাওয়া সম্ভব নয়।\"—এটি কোন বিজ্ঞানীর বিবৃতি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কার্নো",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্লাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্লসিয়াস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কেলভিন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "এটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের কেলভিন–প্লাঙ্ক বিবৃতির অংশ, যা এখানে কেলভিনের নামে দেওয়া হয়েছে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-024",
+      "text": "উদ্দীপকে BC অংশে ধ্রুবক থাকে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের কার্নো ইঞ্জিনের P-V লেখ দেখানো হলো। যেখানে 1 mol He গ্যাস ব্যবহৃত হয়েছে।",
+      "stem_image": "assets/physics_2nd-ch1-mcq-024-stem.svg",
+      "group": "physics_2nd-2025-RB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চিত্রে \\(BC\\) অংশ রুদ্ধতাপীয় প্রসারণ, যেখানে \\(dQ = 0\\)। তাই \\(dS = \\frac{dQ}{T} = 0\\), অর্থাৎ এন্ট্রপি ধ্রুবক থাকে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-025",
+      "text": "উদ্দীপক অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের কার্নো ইঞ্জিনের P-V লেখ দেখানো হলো। যেখানে 1 mol He গ্যাস ব্যবহৃত হয়েছে।",
+      "stem_image": "assets/physics_2nd-ch1-mcq-024-stem.svg",
+      "group": "physics_2nd-2025-RB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "AB অংশে \\(T^{\\gamma}P^{1-\\gamma}\\) = ধ্রুবক সমীকরণটি মেনে চলে"
+        },
+        {
+          "label": "ii",
+          "text": "উদ্দীপকে প্রতিটি অংশে প্রবাহচিত্র উল্টিয়ে দিলে সেটি রেফ্রিজারেটরের P-V লেখচিত্রে রূপান্তরিত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "CD অংশের কৃতকাজ −1728J"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) \\(AB\\) সমোষ্ণ প্রক্রিয়া (তাপমাত্রা \\(T_1\\) ধ্রুব)। \\(T^{\\gamma}P^{1-\\gamma} = \\) ধ্রুবক সমীকরণটি রুদ্ধতাপীয় প্রক্রিয়ার জন্য প্রযোজ্য — মিথ্যা।\n(ii) প্রবাহচিত্র উল্টে দিলে কার্নো ইঞ্জিন কার্নো রেফ্রিজারেটরে পরিণত হয় — সত্য।\n(iii) \\(CD\\) সমোষ্ণ সংকোচন (\\(V: 4\\,\\mathrm{L} \\to 2\\,\\mathrm{L}\\)):\n\\(W = nRT_2\\ln\\frac{V_D}{V_C} = 1 \\times 8.314 \\times 300 \\times \\ln\\frac{2}{4} \\approx -1728\\ \\mathrm{J}\\) — সত্য।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-026",
+      "text": "তাপ গতিবিদ্যার দ্বিতীয় সূত্রের গাণিতিক রূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(dW = PdV\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(dQ = T\\,dS\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(dQ = TdS + PdV\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(dU = T\\,dS - PdV\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তাপগতিবিদ্যার প্রথম সূত্র \\(dQ = dU + PdV\\) এবং দ্বিতীয় সূত্র থেকে \\(dQ = TdS\\)। দুটি মিলিয়ে দ্বিতীয় সূত্রের গাণিতিক রূপ হয় \\(dU = TdS - PdV\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-027",
+      "text": "তাপগতিবিদ্যার ১ম সূত্র নিচের কোন সূত্রের বিশেষ রূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চার্লসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভীনের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শক্তির নিত্যতা সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তাপগতিবিদ্যার প্রথম সূত্র তাপ ও কাজের সাথে অভ্যন্তরীণ শক্তির সম্পর্ক প্রকাশ করে, যা শক্তির নিত্যতা সূত্রেরই বিশেষ রূপ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-028",
+      "text": "কার্নোর চক্রের ৩য় ধাপে সিস্টেমের এন্ট্রপির ক্ষেত্রে কোনটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থির থাকে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কার্নো চক্রের ধাপগুলো: (১) সমোষ্ণ প্রসারণ, (২) রুদ্ধতাপীয় প্রসারণ, (৩) সমোষ্ণ সংকোচন, (৪) রুদ্ধতাপীয় সংকোচন। তৃতীয় ধাপে সিস্টেম তাপাধারে তাপ বর্জন করে (\\(\\Delta S = -\\frac{Q_2}{T_2} < 0\\)), তাই এন্ট্রপি হ্রাস পায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-029",
+      "text": "একটি ত্রুটিপূর্ণ থার্মোমিটারে নিম্নস্থির বিন্দু 4°C এবং উচ্চস্থির বিন্দু 98°C। ঐ থার্মোমিটার 51°C পাঠ দিলে প্রকৃত পাঠ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "46°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "52°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "54°C",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রকৃত পাঠ ও ত্রুটিপূর্ণ পাঠের অনুপাত সমান:\n\\(\\frac{C - 0}{100} = \\frac{51 - 4}{98 - 4}\\)\n\\(C = \\frac{47}{94} \\times 100 = 50^\\circ\\mathrm{C}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-030",
+      "text": "একটি তাপ ইঞ্জিন গৃহীত তাপের এক-চতুর্থাংশ বর্জন করলে এর দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "25%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "33.3%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "66.6%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "75%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\(Q_2 = \\frac{1}{4}Q_1\\)\n\\(\\eta = 1 - \\frac{Q_2}{Q_1} = 1 - \\frac{1}{4} = \\frac{3}{4} = 75\\%\\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-031",
+      "text": "একটি কার্নো ইঞ্জিনের দক্ষতা 60%। যদি তার তাপ গ্রাহকের তাপমাত্রা 17°C হয় তবে উৎসের তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "725°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "700°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "452°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "290°C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\eta = 1-\\frac{T_2}{T_1}\\) থেকে \\(0.6 = 1-\\frac{290}{T_1}\\)\n\\(T_1 = \\frac{290}{0.4} = 725\\,\\mathrm{K} = 452^\\circ\\mathrm{C}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-032",
+      "text": "\\(\\gamma = \\frac{5}{3}\\) এর জন্য কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(C_P = \\frac{5}{3}R\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(C_V = \\frac{5}{3}R\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(C_V = \\frac{3}{2}R\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(C_V = 2R\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\gamma = \\frac{C_P}{C_V} = \\frac{5}{3}\\) এবং \\(C_P - C_V = R\\)\nসুতরাং \\(\\frac{2}{3}C_V = R\\), অর্থাৎ \\(C_V = \\frac{3}{2}R\\)",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-033",
+      "text": "\\(CO_2\\) গ্যাসের জন্য γ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.40",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.67",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.69",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(CO_2\\) একটি ত্রিপরমাণুক (বহুপরমাণুক) গ্যাস, পাঠ্যবইয়ে বহুপরমাণুক গ্যাসের জন্য \\(\\gamma \\approx 1.33\\) ধরা হয়; 1.40 দ্বিপরমাণুক গ্যাসের মান।",
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: বহুপরমাণুক গ্যাস \\(CO_2\\)-এর γ ≈ 1.33, তাই সঠিক উত্তর (ক) হওয়ার কথা; 1.40 দ্বিপরমাণুক গ্যাসের মান।"
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-034",
+      "text": "বহু পারমাণবিক গ্যাসের ক্ষেত্রে γ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.05",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.66",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একপরমাণুক গ্যাসের \\(\\gamma = 1.67\\), দ্বিপরমাণুকের \\(1.40\\) এবং বহুপরমাণুক গ্যাসের \\(\\gamma = 1.33\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-035",
+      "text": "নিম্নের কোনটি সমোষ্ণ পরিবর্তনের শর্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এটি দ্রুত গতির প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চতুর্পার্শ্বস্থ মাধ্যমের তাপ ধারকত্ব কম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পাত্রের দেয়াল তাপ কুপরিবাহী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপ অপসারণ বা সরবরাহ প্রয়োজন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির রাখতে গ্যাসের প্রসারণ বা সংকোচনের সময় প্রয়োজন অনুযায়ী তাপ সরবরাহ বা অপসারণ করতে হয়। অন্য বিকল্পগুলো শর্তের বিপরীত: প্রক্রিয়া ধীর হতে হবে, পাত্রের দেয়াল তাপ সুপরিবাহী হতে হবে এবং পারিপার্শ্বিকের তাপ ধারকত্ব বেশি হতে হবে।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-036",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায় একটি দ্বিপরমাণু গ্যাসের চাপ 5% বৃদ্ধি করলে গ্যাসের আয়তন শতকরা কত কমবে? (γ = 1.4)",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.5%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.42%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.76%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় \\(PV^\\gamma = \\) ধ্রুবক, তাই \\(\\frac{V_2}{V_1} = \\left(\\frac{P_1}{P_2}\\right)^{1/\\gamma} = (1.05)^{-1/1.4} \\approx 0.9658\\)\nআয়তন হ্রাস \\(= (1-0.9658)\\times 100\\% \\approx 3.42\\%\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-037",
+      "text": "এনট্রপি বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিস্টেমের বিশৃঙ্খলা পরিমাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রূপান্তরের জন্য শক্তির প্রাপ্যতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শক্তি রূপান্তরের সক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শক্তি রূপান্তরের সম্ভাব্যতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "এনট্রপি হলো কোনো সিস্টেমের বিশৃঙ্খলা বা অব্যবস্থার পরিমাপ।",
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-038",
+      "text": "কোন নির্দিষ্ট পরিমাণ গ্যাসের অভ্যন্তরীণ শক্তি কেবল নির্ভর করে এর—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপমাত্রার উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপের উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তনের উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপির উপর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল পরম তাপমাত্রার উপর নির্ভর করে (\\(U = \\frac{f}{2}nRT\\)); চাপ বা আয়তনের উপর নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-039",
+      "text": "এনট্রপির বেলায় প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এর কোনো পরম মান নেই"
+        },
+        {
+          "label": "ii",
+          "text": "প্রত্যাবর্তী প্রক্রিয়ায় এনট্রপির কোনো পরিবর্তন হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "অপ্রত্যাবর্তী প্রক্রিয়ায় এনট্রপি স্থির থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: এনট্রপির কেবল পরিবর্তন পরিমাপযোগ্য, পরম মান নেই।\n(ii) সত্য: প্রত্যাবর্তী প্রক্রিয়ায় সিস্টেম ও পরিবেশ মিলে মোট এনট্রপির পরিবর্তন শূন্য।\n(iii) মিথ্যা: অপ্রত্যাবর্তী প্রক্রিয়ায় এনট্রপি বৃদ্ধি পায়।",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-040",
+      "text": "ইঞ্জিনের দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি কার্নো ইঞ্জিন গৃহীত তাপের \\(\\frac{1}{4}\\) অংশ কাজে পরিণত করে। এর তাপ গ্রাহকের তাপমাত্রা 30 K কমালে দক্ষতা দ্বিগুণ হয়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "80%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "75%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "33%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "25%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মনে করি \\(\\eta = \\frac{1}{4}\\); তাহলে \\(\\frac{T_2}{T_1} = \\frac{3}{4}\\), অর্থাৎ \\(T_2 = \\frac{3}{4}T_1\\)\nগ্রাহকের তাপমাত্রা 30 K কমালে \\(\\eta = \\frac{1}{2}\\), অর্থাৎ \\(T_2 - 30 = \\frac{T_1}{2}\\)\nতাহলে \\(\\frac{3}{4}T_1 - 30 = \\frac{1}{2}T_1\\), \\(T_1 = 120\\,\\mathrm{K}\\), \\(T_2 = 90\\,\\mathrm{K}\\)\nদক্ষতা \\(= \\frac{1}{4} = 25\\%\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-041",
+      "text": "তাপ উৎসের তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি কার্নো ইঞ্জিন গৃহীত তাপের \\(\\frac{1}{4}\\) অংশ কাজে পরিণত করে। এর তাপ গ্রাহকের তাপমাত্রা 30 K কমালে দক্ষতা দ্বিগুণ হয়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-DB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "60 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90 K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "120 K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "150 K",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\(\\eta = \\frac{1}{4}\\) হলে \\(T_2 = \\frac{3}{4}T_1\\)\n30 K কমালে \\(\\eta = \\frac{1}{2}\\), অর্থাৎ \\(T_2 - 30 = \\frac{T_1}{2}\\)\n\\(\\frac{3}{4}T_1 - 30 = \\frac{1}{2}T_1 \\Rightarrow T_1 = 120\\,\\mathrm{K}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-042",
+      "text": "তাপের যান্ত্রিক সমতার একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্যালরি/গ্রাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জুল/ক্যালরি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্যালরি/জুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জুল-ক্যালরি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(W = JH\\) থেকে \\(J = \\frac{W}{H}\\), তাই তাপের যান্ত্রিক সমতার একক জুল/ক্যালরি।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-043",
+      "text": "এন্ট্রপির এসআই একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "JK",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Js^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "J/°C",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "এনট্রপি \\(= \\frac{\\Delta Q}{T}\\), তাই একক জুল/কেলভিন \\(= \\mathrm{JK^{-1}}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-044",
+      "text": "স্থির চাপে একটি গ্যাসে তাপ প্রয়োগ করায় এর—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপমাত্রা বেড়ে যাবে"
+        },
+        {
+          "label": "ii",
+          "text": "বহিস্থ কাজ সম্পন্ন হবে"
+        },
+        {
+          "label": "iii",
+          "text": "আয়তন বেড়ে যাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্থির চাপে তাপ প্রয়োগ করলে গ্যাসের তাপমাত্রা বাড়ে (i সত্য), আয়তন বাড়ে (iii সত্য) এবং আয়তন বৃদ্ধির ফলে গ্যাস বহিস্থ কাজ সম্পন্ন করে (ii-ও সত্য)।",
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: স্থির চাপে আয়তন বাড়ার কারণে বহিস্থ কাজও সম্পন্ন হয় (\\(W = P\\Delta V\\)), তাই তিনটি বিবৃতিই সঠিক; সঠিক উত্তর (ঘ) i, ii ও iii।"
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-045",
+      "text": "নিচের কোন পদ্ধতিতে কাজের পরিমাণ শূন্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থির আয়তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থির চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্থির আয়তনে \\(\\Delta V = 0\\), তাই কাজ \\(W = P\\Delta V = 0\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-046",
+      "text": "0°C তাপমাত্রায় 40g বরফকে 0°C তাপমাত্রার 40g পানিতে পরিণত করতে এন্ট্রপির পরিবর্তন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(49.2\\,\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(49.2 \\times 10^{2}\\,\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(49.2 \\times 10^{3}\\,\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(49.2 \\times 10^{3}\\,\\mathrm{kJK^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বরফ গলার লীন তাপ \\(L = 336\\,\\mathrm{Jg^{-1}}\\), \\(T = 273\\,\\mathrm{K}\\)\n\\(\\Delta S = \\frac{mL}{T} = \\frac{40 \\times 336}{273} \\approx 49.2\\,\\mathrm{JK^{-1}}\\)",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-047",
+      "text": "সমোষ্ণ প্রসারণের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অভ্যন্তরীণ শক্তি স্থির থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "ইহা দ্রুত প্রক্রিয়া"
+        },
+        {
+          "label": "iii",
+          "text": "পাত্রের উপাদান সুপরিবাহী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির, তাই অভ্যন্তরীণ শক্তি স্থির।\n(ii) মিথ্যা: সমোষ্ণ প্রক্রিয়া অত্যন্ত ধীর।\n(iii) সত্য: পাত্রের দেয়াল তাপ সুপরিবাহী হতে হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-048",
+      "text": "রুদ্ধতাপীয় প্রসারণে গ্যাসের শক্তির উৎস হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাহ্যিক কাজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপ বর্জন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপ গ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় \\(\\Delta Q = 0\\), তাই \\(\\Delta U + W = 0\\); প্রসারণকালে কাজ গ্যাসের অভ্যন্তরীণ শক্তি থেকেই পাওয়া যায়।",
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-049",
+      "text": "রুদ্ধতাপ প্রক্রিয়ার ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ds = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "dV = 0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "dQ ≠ 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "dW = du",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় \\(dQ = 0\\), তাই \\(dS = \\frac{dQ}{T} = 0\\) (সমএনট্রপি প্রক্রিয়া)। এখানে \\(dV \\neq 0\\) এবং \\(dW = -dU\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-050",
+      "text": "এন্ট্রপি সম্পর্কে বলা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পরম মান নির্ণয় করা যায় না"
+        },
+        {
+          "label": "ii",
+          "text": "পরিবর্তন ধনাত্মক হতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "পরিবর্তন ঋণাত্মক হতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "(i) সত্য: এনট্রপির কেবল পরিবর্তন নির্ণয় করা যায়।\n(ii) সত্য: তাপ গ্রহণে সিস্টেমের এনট্রপি বাড়ে।\n(iii) সত্য: তাপ বর্জনে সিস্টেমের এনট্রপি কমে, অর্থাৎ পরিবর্তন ঋণাত্মক।",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The source adds: for a whole system/process the total entropy change is positive, but for one part (e.g. a refrigerator) the entropy can decrease."
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-051",
+      "text": "−8°C এবং 27°C তাপমাত্রার মধ্যে ক্রিয়ারত একটি হিমায়কের সর্বোচ্চ কার্যকৃত সহগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "8.57",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "7.57",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.132",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.469",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(T_2 = 273-8 = 265\\,\\mathrm{K}\\), \\(T_1 = 273+27 = 300\\,\\mathrm{K}\\)\nসর্বোচ্চ কার্যকৃত সহগ \\(= \\frac{T_2}{T_1-T_2} = \\frac{265}{35} \\approx 7.57\\)",
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-052",
+      "text": "নিচের কোন তাপগতীয় প্রক্রিয়ার ক্ষেত্রে dQ = dW হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমচাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমআয়তন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ প্রক্রিয়ায় \\(\\Delta U = 0\\), তাই তাপগতিবিদ্যার প্রথম সূত্র অনুযায়ী \\(dQ = dU + dW = dW\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-053",
+      "text": "পরিবেশের সাথে শক্তি বিনিময় করতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিচ্ছিন্ন সিস্টেম"
+        },
+        {
+          "label": "ii",
+          "text": "উন্মুক্ত সিস্টেম"
+        },
+        {
+          "label": "iii",
+          "text": "বদ্ধ সিস্টেম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিচ্ছিন্ন সিস্টেম পরিবেশের সাথে শক্তি ও পদার্থ কোনোটিই বিনিময় করে না। উন্মুক্ত সিস্টেম শক্তি ও পদার্থ উভয়ই, বদ্ধ সিস্টেম কেবল শক্তি বিনিময় করে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-054",
+      "text": "নিচের কোন লেখটি একটি আদর্শ গ্যাসের রুদ্ধতাপীয় সম্প্রসারণকে প্রকাশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-054-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-054-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-054-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch1-mcq-054-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় \\(TP^{\\frac{1-\\gamma}{\\gamma}} = \\) ধ্রুবক, অর্থাৎ \\(\\ln T = \\frac{\\gamma-1}{\\gamma}\\ln P + \\) ধ্রুবক। \\(\\gamma > 1\\) হওয়ায় ঢাল ধনাত্মক, তাই \\(\\ln T\\)–\\(\\ln P\\) লেখ ঊর্ধ্বমুখী সরলরেখা। (গ)-তে তীর চিহ্ন ঊর্ধ্বমুখী (সংকোচন) দেখায়, কিন্তু সম্প্রসারণে চাপ ও তাপমাত্রা উভয়ই কমে; সরলরেখা (খ)-ই সঠিক।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Options খ and গ look almost identical in the scan (both straight lines rising from the origin; গ has an arrowhead). Transcribed as printed; key খ."
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-055",
+      "text": "চিত্রে ab লেখচিত্রটি নির্দেশ করে—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch1-mcq-055-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমআয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমচাপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চিত্রে ab রেখাটি \\(T_1\\) তাপমাত্রার সমোষ্ণ রেখা থেকে \\(T_2\\) তাপমাত্রার সমোষ্ণ রেখায় গেছে এবং সমোষ্ণ রেখার চেয়ে বেশি খাড়া (ঢাল \\(\\gamma\\) গুণ)। তাপমাত্রা পরিবর্তন সহ এই খাড়া রেখা রুদ্ধতাপীয় প্রক্রিয়া নির্দেশ করে।",
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-056",
+      "text": "\\(20\\,\\mathrm{ms^{-1}}\\) বেগ প্রাপ্ত একটি সীসার বুলেট কোথাও থামিয়ে দেয়ার ফলে সমস্ত গতিশক্তি তাপে পরিণত হলো। বুলেটের তাপমাত্রা সর্বোচ্চ কত বৃদ্ধি পাবে? (সীসার আপেক্ষিক তাপ \\(1.26\\,\\mathrm{Jkg^{-1}k^{-1}}\\))",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "148.73k",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "158.73k",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "185.73k",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "186.73k",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\frac{1}{2}mv^2 = ms\\Delta\\theta\\) থেকে \\(\\Delta\\theta = \\frac{v^2}{2s} = \\frac{20^2}{2\\times 1.26} = \\frac{400}{2.52} \\approx 158.73\\,\\mathrm{K}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-057",
+      "text": "রুদ্ধ তাপীয় ও সমোষ্ণ প্রক্রিয়ার ক্ষেত্রে P—V লেখচিত্রের ছেদবিন্দুতে ঢালদ্বয়ের অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "γ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{1}{\\gamma}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "γ + 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "γ − 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ রেখার ঢাল \\(= -\\frac{P}{V}\\), রুদ্ধতাপীয় রেখার ঢাল \\(= -\\gamma\\frac{P}{V}\\)\nছেদবিন্দুতে ঢালের অনুপাত \\(= \\gamma\\)",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-058",
+      "text": "নিচের কোন প্রক্রিয়ার ক্ষেত্রে dQ = dW হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমোষ্ণ প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমচাপ প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমআয়তন প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধ তাপীয় প্রক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ প্রক্রিয়ায় \\(\\Delta U = 0\\), তাই \\(dQ = dW\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-059",
+      "text": "কার্নো চক্রের কোন ধাপে তাপ গৃহীত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রথম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বিতীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তৃতীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চতুর্থ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কার্নো চক্রের প্রথম ধাপ সমোষ্ণ প্রসারণ, যে ধাপে গ্যাস উৎস থেকে তাপ গ্রহণ করে।",
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-060",
+      "text": "একটি কার্নোইঞ্জিন 427°C ও 227°C তাপমাত্রা পরিসরে কাজ করে। ইঞ্জিনের দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "28.5%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "40%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "46.83%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "81%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T_1 = 700\\,\\mathrm{K}\\), \\(T_2 = 500\\,\\mathrm{K}\\)\n\\(\\eta = 1-\\frac{T_2}{T_1} = 1-\\frac{500}{700} \\approx 0.2857 = 28.5\\%\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-061",
+      "text": "একটি গাড়ি চলতে থাকলে এর টায়ারের ভিতর কোন তাপগতীয় প্রক্রিয়া চলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমআয়তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমচাপীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গাড়ি চলার সময় টায়ারের আয়তন প্রায় অপরিবর্তিত থাকে, কিন্তু ঘর্ষণে তাপমাত্রা ও চাপ বাড়ে; তাই প্রক্রিয়াটিকে সমআয়তন ধরা হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-062",
+      "text": "গ্যাসের অন্তঃস্থ শক্তির পরিবর্তন কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি সিলিন্ডারে কিছু গ্যাস আবদ্ধ আছে। গ্যাসের চাপ 400 Pa এ স্থির রেখে সিস্টেমে 800 J তাপশক্তি প্রদান করায় কৃতকাজ 1200 J পাওয়া যায়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-SB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "−800 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−400 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−100 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\(\\Delta U = Q - W = 800 - 1200 = -400\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-063",
+      "text": "সিস্টেমে তাপশক্তি ধীরে ধীরে সরবরাহ করা হলে সিস্টেম কর্তৃক সম্পাদিত কাজ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি সিলিন্ডারে কিছু গ্যাস আবদ্ধ আছে। গ্যাসের চাপ 400 Pa এ স্থির রেখে সিস্টেমে 800 J তাপশক্তি প্রদান করায় কৃতকাজ 1200 J পাওয়া যায়।",
+      "stem_image": null,
+      "group": "physics_2nd-2023-SB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "1200 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "800 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "400 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তাপ ধীরে ধীরে সরবরাহ করা হলে প্রক্রিয়াটি সমোষ্ণ ধরা হয়, তাই \\(\\Delta U = 0\\) এবং \\(W = Q = 800\\,\\mathrm{J}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-064",
+      "text": "এনট্রপির SI একক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Jkg^{-1}K^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{JK^{-1}mol^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "এনট্রপি \\(= \\frac{\\Delta Q}{T}\\); এসআই একক \\(\\mathrm{JK^{-1}}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-065",
+      "text": "\"কোনো নির্দিষ্ট পরিমাণ তাপশক্তি সম্পূর্ণভাবে যান্ত্রিক শক্তিতে রূপান্তর করার মত যন্ত্র নির্মাণ সম্ভব নয়।\"— বিবৃতিটি প্রদান করেন কোন বিজ্ঞানী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্লাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্নো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কেলভিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্লসিয়াস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিবৃতিটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের কেলভিন-প্লাংক বিবৃতি; কার্নোর নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "This statement is usually attributed to Kelvin (the Kelvin–Planck form of the second law), but the printed key is খ (কার্নো). | উত্তর যাচাই: বিবৃতিটি কেলভিন-প্লাংকের (দ্বিতীয় সূত্র), কার্নোর নয়; তাই সঠিক উত্তর (গ) কেলভিন (বা (ক) প্লাংক)।"
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-066",
+      "text": "যদি কোন তাপ-ইঞ্জিন থেকে তাপ বর্জিত না হয়, তবে ইঞ্জিনের দক্ষতা কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দক্ষতা \\(\\eta = 1-\\frac{Q_2}{Q_1}\\)। বর্জিত তাপ \\(Q_2=0\\) হলে \\(\\eta = 1 = 100\\%\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-067",
+      "text": "কার্নোচক্রের চতুর্থ ধাপে নিচের কোনটি স্থির থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কার্নো চক্রের চতুর্থ ধাপ রুদ্ধতাপীয় সংনমন। রুদ্ধতাপীয় প্রক্রিয়ায় তাপের আদান-প্রদান হয় না (\\(\\Delta Q=0\\)), তাই এনট্রপি স্থির থাকে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-068",
+      "text": "এক কেটলি গরম পানিতে লোহার দণ্ড ডুবালে কী ঘটবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লোহার দণ্ডের অন্তঃস্থ শক্তি বৃদ্ধি পাবে।",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পানির অন্তঃস্থ শক্তি বৃদ্ধি পাবে।",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লোহার দণ্ডের অন্তঃস্থ শক্তি হ্রাস পাবে।",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পানির অন্তঃস্থ শক্তি একই থাকবে।",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গরম পানির তাপমাত্রা বেশি, তাই পানি থেকে লোহার দণ্ডে তাপ প্রবাহিত হয়। ফলে দণ্ডের অন্তঃস্থ শক্তি বৃদ্ধি পায় এবং পানির অন্তঃস্থ শক্তি কমে।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-069",
+      "text": "একটি বায়ুভর্তি টায়ার হঠাৎ ফেটে গেলে এই প্রক্রিয়াটিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কাজ সম্পন্ন হয়েছে"
+        },
+        {
+          "label": "ii",
+          "text": "অভ্যন্তরীণ শক্তি ও তাপমাত্রা কমে গেছে"
+        },
+        {
+          "label": "iii",
+          "text": "এনট্রপির পরিবর্তন হয়েছে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) টায়ারের বায়ু প্রসারিত হয়ে বাইরের বায়ুর বিরুদ্ধে কাজ করে — সত্য।\n(ii) প্রক্রিয়াটি দ্রুত বলে রুদ্ধতাপীয়; কাজ হয় অভ্যন্তরীণ শক্তির বিনিময়ে, তাই অভ্যন্তরীণ শক্তি ও তাপমাত্রা কমে — সত্য।\n(iii) রুদ্ধতাপীয় প্রক্রিয়ায় \\(\\Delta Q=0\\), তাই \\(\\Delta S=\\frac{\\Delta Q}{T}=0\\); এনট্রপির পরিবর্তন হয় না — মিথ্যা।",
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-070",
+      "text": "120°C ও 30°C এর মধ্যে কার্যরত কার্নো ইঞ্জিনের দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "22.90%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "25%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "29%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "77.09%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(T_1=273+120=393\\,\\mathrm{K},\\ T_2=273+30=303\\,\\mathrm{K}\\)\n\\(\\eta=\\left(1-\\frac{T_2}{T_1}\\right)\\times100\\%=\\left(1-\\frac{303}{393}\\right)\\times100\\%=22.90\\%\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-071",
+      "text": "কোন প্রক্রিয়ায়, কোনো ব্যবস্থা কর্তৃক কৃতকাজ ব্যবস্থায় সরবরাহকৃত তাপশক্তির সমান হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমআয়তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমচাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমোষ্ণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির, তাই \\(\\Delta U=0\\)। তাপগতিবিদ্যার প্রথম সূত্র \\(Q=\\Delta U+W\\) থেকে \\(Q=W\\), অর্থাৎ কৃতকাজ সরবরাহকৃত তাপের সমান।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-072",
+      "text": "কার্নো চক্রের চতুর্থ ধাপে কী ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমোষ্ণ প্রসারণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমোষ্ণ সংনমন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রুদ্ধতাপীয় প্রসারণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয় সংনমন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কার্নো চক্রের ধাপগুলো: (১) সমোষ্ণ প্রসারণ, (২) রুদ্ধতাপীয় প্রসারণ, (৩) সমোষ্ণ সংনমন, (৪) রুদ্ধতাপীয় সংনমন। তাই চতুর্থ ধাপে রুদ্ধতাপীয় সংনমন ঘটে।",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-073",
+      "text": "কোনো সিলিন্ডারে আবদ্ধ গ্যাসের চাপ স্থির রেখে 400 J তাপশক্তি সরবরাহ করায় 200 J কাজ সম্পাদিত হয়। অভ্যন্তরীণ শক্তির পরিবর্তন কত জুল হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "200",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "400",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "600",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "800",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(Q=\\Delta U+W\\) থেকে\n\\(\\Delta U=Q-W=400-200=200\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-074",
+      "text": "তাপগতিবিদ্যায় গৃহীত বা বর্জিত তাপ শূন্য হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থির চাপে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থির আয়তনে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থির তাপমাত্রায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেম ও পারিপার্শ্বিকের মধ্যে তাপের আদান-প্রদান হয় না, অর্থাৎ \\(\\Delta Q=0\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-075",
+      "text": "5 cal তাপ দ্বারা সর্বোচ্চ কত জুল কাজ করা সম্ভব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.04 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.19 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "21 J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সর্বোচ্চ কাজ পাওয়া যায় সম্পূর্ণ তাপ কাজে রূপান্তরিত হলে।\n\\(W=JH=4.2\\times5=21\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-076",
+      "text": "গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে কোন রাশিটির উপর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আপেক্ষিক তাপ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি শুধু পরম তাপমাত্রার উপর নির্ভর করে, চাপ বা আয়তনের উপর নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-077",
+      "text": "নিয়ন গ্যাসের 'γ' এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.40",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.50",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.67",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিয়ন একপরমাণুক গ্যাস। একপরমাণুক গ্যাসের জন্য \\(\\gamma=\\frac{5}{3}=1.67\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-078",
+      "text": "তাপগতিবিদ্যায় এন্ট্রপি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তাপ ও পরমতাপমাত্রার অনুপাতের সমান"
+        },
+        {
+          "label": "ii",
+          "text": "তাপ সঞ্চালনের দিক নির্দেশ করে"
+        },
+        {
+          "label": "iii",
+          "text": "তাপমাত্রা ও চাপের ন্যায় অনুভব করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) এনট্রপির পরিবর্তন \\(dS=\\frac{dQ}{T}\\), অর্থাৎ তাপ ও পরম তাপমাত্রার অনুপাত — সত্য।\n(ii) এনট্রপি বৃদ্ধির দিকেই প্রাকৃতিক প্রক্রিয়া ঘটে, তাই তাপ সঞ্চালনের দিক নির্দেশ করে — সত্য।\n(iii) তাপমাত্রা ও চাপের মতো এনট্রপি সরাসরি অনুভব করা যায় না — মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-079",
+      "text": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 J তাপ গ্রহণ করে উষ্ণ তাপাধারে 600 J তাপশক্তি বর্জন করে। রেফ্রিজারেটরটির কার্যসম্পাদন সহগ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.83",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.33",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(Q_1=600\\,\\mathrm{J},\\ Q_2=450\\,\\mathrm{J}\\)\nকার্যসম্পাদন সহগ \\(K=\\frac{Q_2}{Q_1-Q_2}=\\frac{450}{600-450}=3\\)",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-080",
+      "text": "রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(P_1V_1^{\\gamma} = P_2V_2^{\\gamma}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(P_1^{1-\\gamma}T_1^{\\gamma} = P_2^{1-\\gamma}T_2^{\\gamma}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(T_1^{\\gamma}V_1^{1-\\gamma} = T_2^{\\gamma}V_2^{1-\\gamma}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় পরিবর্তনে \\(PV^{\\gamma}=\\) ধ্রুবক, তাই (i) সত্য। \\(T\\propto PV\\) ও \\(V\\propto T/P\\) বসিয়ে পাই \\(P^{1-\\gamma}T^{\\gamma}=\\) ধ্রুবক, তাই (ii) সত্য। সঠিক সম্পর্ক \\(TV^{\\gamma-1}=\\) ধ্রুবক; \\(T^{\\gamma}V^{1-\\gamma}=\\) ধ্রুবক নয়, তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-081",
+      "text": "নির্দিষ্ট পরিমাণ গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে কীসের উপর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্যাসাধার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল তাপমাত্রার উপর নির্ভর করে।",
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-082",
+      "text": "সম আয়তন প্রক্রিয়ার ক্ষেত্রে নিম্নের কোনটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বহিস্থ কাজ সম্পাদিত হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃতকাজ সরবরাহকৃত তাপশক্তির সমান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃতকাজ শূন্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভ্যন্তরীণ শক্তি হ্রাস পায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সম আয়তন প্রক্রিয়ায় \\(\\Delta V=0\\), তাই কৃতকাজ \\(W=P\\Delta V=0\\)। এ ক্ষেত্রে সরবরাহকৃত তাপ সম্পূর্ণ অভ্যন্তরীণ শক্তি বৃদ্ধিতে ব্যয় হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-083",
+      "text": "প্রত্যাবর্তী প্রক্রিয়া—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি ধীর প্রক্রিয়া"
+        },
+        {
+          "label": "ii",
+          "text": "একটি স্বতঃস্ফূর্ত প্রক্রিয়া"
+        },
+        {
+          "label": "iii",
+          "text": "তাপগতীয় সাম্যাবস্থা বজায় থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) প্রত্যাবর্তী প্রক্রিয়া অতি ধীরে ঘটে — সত্য।\n(ii) স্বতঃস্ফূর্ত প্রক্রিয়া অপ্রত্যাবর্তী; প্রত্যাবর্তী প্রক্রিয়া স্বতঃস্ফূর্ত নয় — মিথ্যা।\n(iii) প্রতিটি ধাপে সিস্টেম ও পারিপার্শ্বিকের মধ্যে তাপগতীয় সাম্যাবস্থা বজায় থাকে — সত্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-084",
+      "text": "এন্ট্রপির মাত্রা নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{ML^2T^2K^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{ML^2T^2K^{-2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ML^2T^{-2}K^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ML^2T^{-2}K^{-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "এনট্রপি \\(S=\\frac{Q}{T}\\)। তাপের মাত্রা \\(\\mathrm{ML^2T^{-2}}\\) এবং তাপমাত্রার মাত্রা \\(\\mathrm{K}\\), সুতরাং এনট্রপির মাত্রা \\(\\mathrm{ML^2T^{-2}K^{-1}}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-085",
+      "text": "গ্যাসের অভ্যন্তরীণ শক্তির বৃদ্ধি নির্ভর করে নিচের কোন রাশির উপর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গ্যাসের অভ্যন্তরীণ শক্তির পরিবর্তন \\(\\Delta U=nC_V\\Delta T\\), অর্থাৎ শুধু তাপমাত্রার পরিবর্তনের উপর নির্ভর করে।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-086",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়া—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বয়েলের সূত্র মেনে চলে"
+        },
+        {
+          "label": "ii",
+          "text": "একটি দ্রুত প্রক্রিয়া"
+        },
+        {
+          "label": "iii",
+          "text": "সিস্টেমকে শীতল বা উষ্ণ করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) রুদ্ধতাপীয় প্রক্রিয়ায় \\(PV^{\\gamma}=\\) ধ্রুবক; বয়েলের সূত্র (\\(PV=\\) ধ্রুবক) সমোষ্ণ প্রক্রিয়ার — মিথ্যা।\n(ii) তাপ আদান-প্রদানের সময় থাকে না বলে প্রক্রিয়াটি দ্রুত — সত্য।\n(iii) সংনমনে গ্যাস উষ্ণ এবং প্রসারণে শীতল হয় — সত্য।",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-087",
+      "text": "ওজোন গ্যাসের জন্য স্থির চাপে মোলার আপেক্ষিক তাপ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(16.86\\,\\mathrm{JK^{-1}mole^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(25.18\\,\\mathrm{JK^{-1}mole^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(29.09\\,\\mathrm{JK^{-1}mole^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(33.49\\,\\mathrm{JK^{-1}mole^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ওজোন (\\(O_3\\)) বহুপরমাণুক গ্যাস, \\(\\gamma=1.33\\)।\n\\(C_P=\\frac{\\gamma}{\\gamma-1}R=\\frac{1.33}{0.33}\\times8.31\\approx33.49\\,\\mathrm{JK^{-1}mol^{-1}}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-088",
+      "text": "40°C তাপমাত্রায় 1 mole \\(CO_2\\) গ্যাসকে ধীরে ধীরে প্রসারিত করে আয়তন দ্বিগুণ করলে সম্পন্ন কৃতকাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "230.4 J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1802.9 J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "664.8 J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5202.1 J",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ধীরে প্রসারণ অর্থাৎ সমোষ্ণ প্রক্রিয়া। \\(T=273+40=313\\,\\mathrm{K}\\)\n\\(W=nRT\\ln\\frac{V_2}{V_1}=1\\times8.31\\times313\\times\\ln2\\approx1802.9\\,\\mathrm{J}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-089",
+      "text": "ফারেনহাইট স্কেলে মৌলিক ব্যবধানকে কয়ভাগে ভাগ করা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "32",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "100",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "180",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "212",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ফারেনহাইট স্কেলে নিম্ন স্থির বিন্দু \\(32^\\circ F\\) ও ঊর্ধ্ব স্থির বিন্দু \\(212^\\circ F\\); মৌলিক ব্যবধান \\(212-32=180\\) ভাগে ভাগ করা।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-090",
+      "text": "(P–V) লেখচিত্রে সমোষ্ণ রেখা ও রুদ্ধতাপীয় রেখার ঢালদ্বয়ের অনুপাত কোনটি? γ = ধ্রুবক",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{1}{\\gamma}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "γ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "γ − 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "γ + 1",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমোষ্ণ রেখার ঢাল \\(-\\frac{P}{V}\\) এবং রুদ্ধতাপীয় রেখার ঢাল \\(-\\gamma\\frac{P}{V}\\)।\nঅনুপাত \\(=\\frac{-P/V}{-\\gamma P/V}=\\frac{1}{\\gamma}\\)",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-091",
+      "text": "এক পদার্থ থেকে অন্য পদার্থে তাপের প্রবাহ নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পদার্থের পরিমাণের উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রার পার্থক্যের উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপের পার্থক্যের উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পদার্থদ্বয়ের উপাদানের উপর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তাপ সর্বদা উচ্চ তাপমাত্রার বস্তু থেকে নিম্ন তাপমাত্রার বস্তুতে প্রবাহিত হয়; প্রবাহ নির্ভর করে তাপমাত্রার পার্থক্যের উপর।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-092",
+      "text": "একটি তাপ ইঞ্জিন সম্পর্কে ধারণা—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এর দক্ষতা শুধু উৎসের তাপমাত্রার উপর নির্ভর করে"
+        },
+        {
+          "label": "ii",
+          "text": "তাপ উৎস থেকে নিম্নতাপমাত্রার গ্রাহকে তাপের স্থানান্তর করে"
+        },
+        {
+          "label": "iii",
+          "text": "এর দক্ষতা 100% এর কম হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) দক্ষতা \\(\\eta=1-\\frac{T_2}{T_1}\\); উৎস ও গ্রাহক উভয়ের তাপমাত্রার উপর নির্ভর করে — মিথ্যা।\n(ii) ইঞ্জিন উচ্চ তাপমাত্রার উৎস থেকে তাপ নিয়ে নিম্ন তাপমাত্রার গ্রাহকে বর্জন করে — সত্য।\n(iii) কিছু তাপ অবশ্যই বর্জিত হয়, তাই দক্ষতা 100% এর কম — সত্য।",
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-093",
+      "text": "নিম্নের কোন তাপগতীয় রাশিটিকে তাপীয় জড়তা হিসাবে বিবেচনা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এনট্রপি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "এনট্রপি তাপগতীয় ব্যবস্থার অণুগুলোর বিশৃঙ্খলার পরিমাপ; তাপ প্রবাহের বিরুদ্ধে ব্যবস্থার প্রতিরোধকে বোঝায় বলে একে তাপীয় জড়তা বলা হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-094",
+      "text": "Ar গ্যাসের ক্ষেত্রে γ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.41",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.67",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.76",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আর্গন একপরমাণুক গ্যাস, তাই \\(\\gamma=\\frac{5}{3}\\approx1.67\\)।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-095",
+      "text": "কোন উষ্ণতামিতিক পদার্থের উষ্ণতামিতিক ধর্ম তাপমাত্রার—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্গের সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যস্তানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উষ্ণতামিতিক ধর্ম \\(X\\) তাপমাত্রা \\(T\\) এর সমানুপাতিক (\\(X\\propto T\\)) ধরেই তাপমাত্রার স্কেল নির্ধারণ করা হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-096",
+      "text": "কার্নো ইঞ্জিনের চতুর্থ ধাপে তাপ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রহণ করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্জন করে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্রহণ ও বর্জন উভয়েই হতে পারে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রহণ ও বর্জন কোনটিই হয় না",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চতুর্থ ধাপ রুদ্ধতাপীয় সংনমন, যেখানে \\(\\Delta Q=0\\); তাই তাপ গ্রহণ বা বর্জন কোনোটিই হয় না।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-097",
+      "text": "তাত্ত্বিকভাবে তাপগ্রাহকের তাপমাত্রা কত হলে একটি তাপ ইঞ্জিনের কর্মদক্ষতা 100% হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসীম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সিংকের তাপমাত্রার সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে কোনো ঋণাত্মক তাপমাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\(\\eta=1-\\frac{T_2}{T_1}\\)। \\(\\eta=1\\) (100%) হতে হলে \\(T_2=0\\) অর্থাৎ গ্রাহকের তাপমাত্রা শূন্য (পরম শূন্য) হতে হবে।",
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-098",
+      "text": "নিচের কোনটি সঠিক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম আয়তন প্রক্রিয়ায় কৃতকাজ শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমোষ্ণ প্রক্রিয়ায় এনট্রপির পরিবর্তন হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রুদ্ধতাপীয় লেখ সমোষ্ণ লেখ অপেক্ষা বেশি খাড়া",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(ক) \\(W=P\\Delta V=0\\) — সঠিক। (খ) বয়েলের সূত্র সমোষ্ণ প্রক্রিয়ার; রুদ্ধতাপীয় প্রক্রিয়ায় \\(PV^{\\gamma}=\\) ধ্রুবক — ভুল। (গ) সমোষ্ণ প্রক্রিয়ায় তাপ আদান-প্রদান হয় বলে \\(\\Delta S\\neq0\\) — সঠিক। (ঘ) \\(\\gamma>1\\) হওয়ায় রুদ্ধতাপীয় লেখ বেশি খাড়া — সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-099",
+      "text": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখার সম্পর্কের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}} = \\gamma \\times \\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}} = \\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}} = -\\frac{1}{\\gamma} \\times \\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}} = \\gamma \\times \\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় ঢাল \\(\\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}}=-\\gamma\\frac{P}{V}\\) এবং সমোষ্ণ ঢাল \\(\\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}}=-\\frac{P}{V}\\)।\nসুতরাং \\(\\left(\\frac{dp}{dv}\\right)_{\\text{রুদ্ধতাপ}}=\\gamma\\times\\left(\\frac{dp}{dv}\\right)_{\\text{সমোষ্ণ}}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-100",
+      "text": "A বিন্দুতে রুদ্ধতাপীয় রেখার ঢাল—",
+      "text_en": null,
+      "image": null,
+      "stem": "উপরের চিত্রে একটি গ্যাসের ক্ষেত্রে চাপ বনাম আয়তন লেখচিত্র দেখানো হয়েছে। (γ = 1.4)",
+      "stem_image": "assets/physics_2nd-ch1-mcq-100-stem.svg",
+      "group": "physics_2nd-2024-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "−0.2857",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−0.4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−3.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−4.9",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রুদ্ধতাপীয় রেখার ঢাল \\(=-\\gamma\\frac{P}{V}\\)\nA বিন্দুতে \\(P=7,\\ V=2\\): ঢাল \\(=-1.4\\times\\frac{7}{2}=-4.9\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-101",
+      "text": "AC রেখার C বিন্দুতে \\(V_2\\) হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উপরের চিত্রে একটি গ্যাসের ক্ষেত্রে চাপ বনাম আয়তন লেখচিত্র দেখানো হয়েছে। (γ = 1.4)",
+      "stem_image": "assets/physics_2nd-ch1-mcq-100-stem.svg",
+      "group": "physics_2nd-2024-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{14}{3}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{7}{2}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{7}{3}\\,\\mathrm{m^3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{3}{14}\\,\\mathrm{m^3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "AC সমোষ্ণ রেখা, তাই \\(P_AV_A=P_CV_2\\)\n\\(7\\times2=3\\times V_2\\Rightarrow V_2=\\frac{14}{3}\\,\\mathrm{m^3}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-102",
+      "text": "তাপগতিবিদ্যার শূন্যতম সূত্রের উপর ভিত্তি করে তৈরি করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রেফ্রিজারেটর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্নো ইঞ্জিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "থার্মোমিটার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্যালরিমিটার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তাপগতিবিদ্যার শূন্যতম সূত্র তাপীয় সাম্যের ধারণা দেয়, যার উপর ভিত্তি করে তাপমাত্রা পরিমাপক যন্ত্র থার্মোমিটার তৈরি।",
+      "source": {
+        "board": "SB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}
