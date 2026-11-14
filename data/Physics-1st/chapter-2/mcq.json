@@ -5006,6 +5006,124 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-121",
+      "text": "\\(\\vec{P}\\) এর উল্লম্ব উপাংশ ও অনুভূমিক উপাংশের অনুপাত নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "tanθ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P tanθ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "P sinθ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "P cosθ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\vec{P}\\) অনুভূমিকের সাথে \\(\\theta\\) কোণ করলে অনুভূমিক উপাংশ \\(P\\cos\\theta\\) এবং উল্লম্ব উপাংশ \\(P\\sin\\theta\\)।\nঅনুপাত \\(=\\dfrac{P\\sin\\theta}{P\\cos\\theta}=\\tan\\theta\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch2-mcq-122",
+      "text": "\\(\\vec{A}\\) ও \\(\\vec{B}\\) সমতলীয় ভেক্টর হলে \\((\\vec{A}+\\vec{B})\\) এবং \\((\\vec{A}-\\vec{B})\\) এর মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0° থেকে 180°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90° থেকে 270°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\vec{A}\\) ও \\(\\vec{B}\\) এর মধ্যবর্তী কোণ ও মানের উপর নির্ভর করে \\((\\vec{A}+\\vec{B})\\) ও \\((\\vec{A}-\\vec{B})\\) এর মধ্যবর্তী কোণ পরিবর্তিত হয়। \\(|\\vec{A}|=|\\vec{B}|\\) হলে কোণ \\(90^\\circ\\), অন্যথায় তা \\(0^\\circ\\) থেকে \\(180^\\circ\\) এর মধ্যে যেকোনো মান হতে পারে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The angle is 90° only when |A| = |B|; in general it can take any value from 0° to 180°."
+    },
+    {
+      "id": "physics_1st-ch2-mcq-123",
+      "text": "দুটি কণা যথাক্রমে \\(12\\,\\mathrm{ms^{-1}}\\) ও \\(20\\,\\mathrm{ms^{-1}}\\) বেগে 120° কোণ উৎপন্ন করে কোনো একটি বিন্দুকে অতিক্রম করলে 4s পরে এদের মধ্যবর্তী দূরত্ব কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "56 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "112 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "168 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "224 m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "4 s পরে কণা দুটির সরণ: \\(s_1=12\\times4=48\\,\\mathrm{m}\\), \\(s_2=20\\times4=80\\,\\mathrm{m}\\)\n\\(d^2=s_1^2+s_2^2-2s_1s_2\\cos120^\\circ=2304+6400+3840=12544\\)\n\\(\\therefore d=112\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

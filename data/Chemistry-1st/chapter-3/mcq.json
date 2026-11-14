@@ -5607,6 +5607,1757 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-132",
+      "text": "D ও Y দ্বারা গঠিত যৌগের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৪ ও ৫ নং প্রশ্নের উত্তর দাও : \\({}_{17}\\mathrm{A}, {}_{13}\\mathrm{D}, {}_{8}\\mathrm{Y}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2022-CUB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সাধারণ অবস্থায় তরল"
+        },
+        {
+          "label": "ii",
+          "text": "আয়নিক ধর্ম বিদ্যমান"
+        },
+        {
+          "label": "iii",
+          "text": "উভধর্মী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "D = Al (13), Y = O (8); যৌগ \\(\\mathrm{Al_2O_3}\\)।\n(i) ভুল: এটি সাধারণ অবস্থায় কঠিন।\n(ii) সঠিক: \\(\\mathrm{Al^{3+}}\\) ও \\(\\mathrm{O^{2-}}\\) এর মধ্যে আয়নিক বন্ধন (সমযোজী ধর্মও কিছুটা আছে)।\n(iii) সঠিক: \\(\\mathrm{Al_2O_3}\\) উভধর্মী অক্সাইড।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-133",
+      "text": "D ও A দ্বারা গঠিত যৌগে 'D'-এ কী ধরনের সংকরায়ন ঘটে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৪ ও ৫ নং প্রশ্নের উত্তর দাও : \\({}_{17}\\mathrm{A}, {}_{13}\\mathrm{D}, {}_{8}\\mathrm{Y}\\)",
+      "stem_image": null,
+      "group": "chemistry_1st-2022-CUB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(sp^3d\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(sp^3\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(sp^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "sp",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "D = Al, A = Cl; যৌগ \\(\\mathrm{AlCl_3}\\)। Al এর 3টি যোজনী ইলেকট্রন তিনটি Cl এর সাথে বন্ধন গঠন করে; কেন্দ্রীয় পরমাণুতে নিঃসঙ্গ জোড় নেই, তাই \\(sp^2\\) সংকরায়ন, আকৃতি সমতলীয় ত্রিকোণাকার।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "In monomeric AlCl₃ the aluminium atom is sp² hybridised (trigonal planar); in the dimer Al₂Cl₆ each Al becomes sp³."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-134",
+      "text": "\\(\\mathrm{Fe^{2+}}\\) ও \\(\\mathrm{Fe^{3+}}\\) আয়ন দুটির ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Fe^{2+}}\\) কম সুস্থিত"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{Fe^{3+}}\\) অধিক সুস্থিত"
+        },
+        {
+          "label": "iii",
+          "text": "উভয় আয়ন রঙিন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) \\(\\mathrm{Fe^{2+}}\\) (\\(3d^6\\)) কম সুস্থিত — সঠিক।\n(ii) \\(\\mathrm{Fe^{3+}}\\) (\\(3d^5\\), অর্ধপূর্ণ) অধিক সুস্থিত — সঠিক।\n(iii) অসম্পূর্ণ d-অরবিটাল থাকায় উভয় আয়নই রঙিন — সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-135",
+      "text": "কোনটি বেশি সংখ্যক হাইড্রোজেন বন্ধন গঠন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HF",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "HCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "প্রতিটি \\(\\mathrm{H_2O}\\) অণু সর্বোচ্চ ৪টি হাইড্রোজেন বন্ধন গঠন করতে পারে (২টি H দিয়ে ও ২টি নিঃসঙ্গ জোড় দিয়ে)। \\(\\mathrm{NH_3}\\) ও HF এ গড়ে যথাক্রমে ১টি ও ২টি, HCl এ হাইড্রোজেন বন্ধন হয় না।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-136",
+      "text": "অ্যামোনিয়া অণুতে কতটি সিগমা-ইলেকট্রন আছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{NH_3}\\) এ N-H বন্ধন 3টি, প্রতিটি একটি সিগমা বন্ধন। প্রতি বন্ধনে 2টি ইলেকট্রন, তাই সিগমা-ইলেকট্রন = \\(3 \\times 2 = 6\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-137",
+      "text": "কোনটির ইলেকট্রন আসক্তি সর্বনিম্ন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "S",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "O",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "N এর \\(2p^3\\) বিন্যাস অর্ধপূর্ণ ও সুস্থিত, তাই ইলেকট্রন গ্রহণের প্রবণতা খুব কম; এর ইলেকট্রন আসক্তি P, S, O এর তুলনায় সর্বনিম্ন।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Nitrogen's half-filled 2p³ shell gives it an electron affinity close to zero (even slightly negative), the lowest of the four; sattacademy's key gives খ (P)."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-138",
+      "text": "কোন মৌলটির তড়িৎ ঋণাত্মকতা বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Cl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Br",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "O",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পর্যায় সারণিতে বাম থেকে ডানে ও নিচ থেকে উপরে তড়িৎ ঋণাত্মকতা বাড়ে। O (3.5), Cl (3.0), N (3.0), Br (2.8); তাই O এর মান সর্বাধিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "On the Pauling scale O = 3.44, Cl = 3.16, N = 3.04, Br = 2.96; the hand-marked key on the photo chose ক (Cl)."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-139",
+      "text": "পর্যায় সারণির কোন ব্লকে অধাতুর সংখ্যা বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "f",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "d",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "p",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "s",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অধিকাংশ অধাতু (B, C, N, O, F, Cl, Br, I, S, P, Se ইত্যাদি) p-ব্লকে অবস্থিত।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-140",
+      "text": "পানির অণুতে ∠HOH এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "120°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "109°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "107°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "104.5°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পানির অণুতে O এর দুটি নিঃসঙ্গ জোড় বন্ধন জোড়কে বেশি বিকর্ষণ করে, ফলে \\(\\angle\\mathrm{HOH} = 104.5^\\circ\\) (সুষম চতুস্তলকীয় \\(109.5^\\circ\\) এর চেয়ে কম)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-141",
+      "text": "\\(\\mathrm{HCl + PH_3 \\longrightarrow Z}\\) Z যৌগে বন্ধন আছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমযোজী"
+        },
+        {
+          "label": "ii",
+          "text": "আয়নিক"
+        },
+        {
+          "label": "iii",
+          "text": "সন্নিবেশ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{HCl + PH_3 \\rightarrow PH_4^+Cl^-}\\)\n(i) \\(\\mathrm{PH_4^+}\\) এ P-H সমযোজী বন্ধন আছে।\n(ii) \\(\\mathrm{PH_4^+}\\) ও \\(\\mathrm{Cl^-}\\) এর মধ্যে আয়নিক বন্ধন।\n(iii) \\(\\mathrm{PH_3}\\) এর নিঃসঙ্গ জোড় \\(\\mathrm{H^+}\\) কে দান করায় সন্নিবেশ বন্ধন গঠিত হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-142",
+      "text": "কোনটির জ্যামিতিক আকৃতি সরল রৈখিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2S}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{SO_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CO_2}\\) এর গঠন O=C=O; C এ নিঃসঙ্গ জোড় নেই, sp সংকরায়ন, বন্ধন কোণ \\(180^\\circ\\), তাই সরল রৈখিক। \\(\\mathrm{H_2O}\\), \\(\\mathrm{H_2S}\\), \\(\\mathrm{SO_2}\\) কৌণিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-143",
+      "text": "\\(\\mathrm{M_3N_2 + H_2O \\rightarrow A + B(g)}\\), B-এর জন্য প্রযোজ্য, এটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্ষার ধর্মীতা প্রদর্শন করে"
+        },
+        {
+          "label": "ii",
+          "text": "ত্রিকোণী পিরামিডীয়"
+        },
+        {
+          "label": "iii",
+          "text": "সন্নিবেশ বন্ধন গঠন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{M_3N_2 + 6H_2O \\rightarrow 3M(OH)_2 + 2NH_3}\\), তাই B = \\(\\mathrm{NH_3}\\)।\n(i) \\(\\mathrm{NH_3}\\) ক্ষারধর্মী — সঠিক।\n(ii) আকৃতি ত্রিকোণী পিরামিডীয় — সঠিক।\n(iii) নিঃসঙ্গ জোড় থাকায় সন্নিবেশ বন্ধন গঠন করে (যেমন \\(\\mathrm{NH_4^+}\\)) — সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-144",
+      "text": "নিচের কোনটি মিশ্র অ্যানহাইড্রাইড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{N_2O_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{N_2O_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N_2O_5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মিশ্র অ্যানহাইড্রাইড দুটি ভিন্ন অম্লের অ্যানহাইড্রাইড। \\(\\mathrm{N_2O_4 + H_2O \\rightarrow HNO_2 + HNO_3}\\); তাই \\(\\mathrm{N_2O_4}\\) মিশ্র অ্যানহাইড্রাইড।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-145",
+      "text": "\\(\\mathrm{M^{2+}}\\) (= (n − 1)d⁶, n = 4), M মৌলের বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রভাবক হিসাবে কাজ করে"
+        },
+        {
+          "label": "ii",
+          "text": "দুটি হ্যালাইড যৌগ গঠন করে"
+        },
+        {
+          "label": "iii",
+          "text": "ডায়াম্যাগনেটিক ধর্ম প্রদর্শন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{M^{2+}}\\) এর বিন্যাস \\(3d^6\\) (n = 4), তাই M এর বিন্যাস \\(3d^6 4s^2\\), অর্থাৎ M = Fe।\n(i) সঠিক: Fe প্রভাবক (যেমন হেবার পদ্ধতিতে)।\n(ii) সঠিক: \\(\\mathrm{FeCl_2}\\) ও \\(\\mathrm{FeCl_3}\\) গঠন করে।\n(iii) ভুল: \\(\\mathrm{Fe^{2+}}\\) (\\(3d^6\\)) এ ৪টি অযুগ্ম ইলেকট্রন থাকায় প্যারাম্যাগনেটিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-146",
+      "text": "কোন হাইব্রিডাইজেশন দ্বারা \\(\\mathrm{H_2O}\\) অণু গঠিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "sp",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(sp^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(sp^3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(sp^3d\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2O}\\) এ O এর 2টি বন্ধন জোড় ও 2টি নিঃসঙ্গ জোড় (মোট 4টি জোড়) থাকায় \\(sp^3\\) সংকরায়ন ঘটে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-147",
+      "text": "\\(\\mathrm{PCl_5}\\) অণুতে বিদ্যমান বন্ধন কোণের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "105°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "107°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "109°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{PCl_5}\\) এ \\(sp^3d\\) সংকরায়ন; আকৃতি ত্রিকোণীয় দ্বিপিরামিডীয়। অক্ষীয় ও বিষুবীয় বন্ধনের মধ্যবর্তী কোণ \\(90^\\circ\\) (বিষুবীয় বন্ধনগুলোর মধ্যে \\(120^\\circ\\)); প্রদত্ত বিকল্পে \\(90^\\circ\\) আছে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-148",
+      "text": "নিচের কোনটি অধিক সমযোজী বৈশিষ্ট্য প্রদর্শন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "AgF",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "AgCl",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AgBr",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AgI",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ফাজানের নিয়ম অনুযায়ী অ্যানায়নের আকার বড় হলে সহজে পোলারিত হয় ও সমযোজী বৈশিষ্ট্য বাড়ে। \\(\\mathrm{I^-}\\) এর আকার সবচেয়ে বড়, তাই AgI এ সমযোজী বৈশিষ্ট্য সর্বাধিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-149",
+      "text": "পানি তরল হওয়ার জন্য নিচের কোন বন্ধন দায়ী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়নিক বন্ধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমযোজী বন্ধন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাইড্রোজেন বন্ধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ধাতব বন্ধন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পানির অণুগুলোর মধ্যে আন্তঃআণবিক হাইড্রোজেন বন্ধন থাকায় এটি স্বাভাবিক তাপমাত্রায় তরল (অনুরূপ গঠনের \\(\\mathrm{H_2S}\\) গ্যাস)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-150",
+      "text": "\\(\\mathrm{SF_6}\\) অণুটির আকৃতি কিরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পিরামিডীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চতুস্তলকীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্রিভুজীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অষ্টতলকীয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{SF_6}\\) এ S এর \\(sp^3d^2\\) সংকরায়ন, ৬টি বন্ধন জোড় ও কোনো নিঃসঙ্গ জোড় নেই; তাই আকৃতি অষ্টতলকীয় (বন্ধন কোণ \\(90^\\circ\\))।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-151",
+      "text": "কোনটির আয়নীকরণ শক্তি বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Be",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Mg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Al",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আয়নীকরণ শক্তির মান: Be (899), B (801), Mg (738), Al (578) kJ/mol। Be এর পূর্ণ 2s উপস্তর সুস্থিত বলে B এর চেয়ে বেশি; গ্রুপে নিচে নামলে কমে, তাই Be সর্বাধিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-152",
+      "text": "কোনটি পানিতে অধিক দ্রবণীয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "KCl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NaCl",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{MgCl_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CaCl_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Ca^{2+}}\\) এর চার্জ ঘনত্ব বেশি হওয়ায় এবং \\(\\mathrm{CaCl_2}\\) এর হাইড্রেশন শক্তি বেশি হওয়ায় এর দ্রাব্যতা প্রদত্ত লবণগুলোর মধ্যে সর্বাধিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Measured solubilities at 20 °C are about CaCl₂ 74.5, MgCl₂ 54, NaCl 36 and KCl 34 g per 100 mL of water; by Fajans' rule MgCl₂ is also more covalent than CaCl₂."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-153",
+      "text": "\\(\\mathrm{[Zn(NH_3)_4]^{2+}}\\) এ Zn এর সংকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(sp^3\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(sp^3d\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(sp^3d^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(sp^2d\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{[Zn(NH_3)_4]^{2+}}\\) এ \\(\\mathrm{Zn^{2+}}\\) (\\(3d^{10}\\)) এর একটি 4s ও তিনটি 4p অর্বিটাল সংকরিত হয়ে চারটি \\(NH_3\\) এর ইলেকট্রন জোড় গ্রহণ করে। তাই সংকরণ \\(sp^3\\) এবং আকৃতি চতুস্তলকীয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-154",
+      "text": "π বন্ধন গঠিত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দুটি p অর্বিটালের মধ্যে"
+        },
+        {
+          "label": "ii",
+          "text": "একটি p ও একটি s অর্বিটালের মধ্যে"
+        },
+        {
+          "label": "iii",
+          "text": "দুটি সংকর অর্বিটালের মধ্যে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "π বন্ধন কেবল দুটি অসংকরিত p অর্বিটালের পার্শ্বীয় অধিক্রমণে গঠিত হয়, তাই (i) সত্য। p–s অধিক্রমণ ও সংকর অর্বিটালের অধিক্রমণে মুখোমুখি অধিক্রমণ ঘটে, ফলে σ বন্ধন গঠিত হয়; তাই (ii) ও (iii) মিথ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-155",
+      "text": "আকারের ক্ষেত্রে কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Be < B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Mg < Al",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "F > Ne",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Mg > Na",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "(ক) Be > B, (খ) Mg > Al এবং (ঘ) Na > Mg, কারণ পর্যায়ে বাম থেকে ডানে পারমাণবিক আকার কমে; তাই এগুলো ভুল। নিষ্ক্রিয় গ্যাস Ne এর ক্ষেত্রে ভ্যানডার ওয়ালস ব্যাসার্ধ বিবেচনায় আকার নির্ণীত হয় বলে প্রচলিত মতে (গ) F > Ne গ্রহণ করা হয়েছে।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ক, খ and ঘ reverse the across-period trend (atoms shrink from left to right). গ follows the textbook trend continued to Ne; it is the answer in sattacademy's key, though the tabulated van der Waals radius of Ne is larger than F's covalent radius."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-156",
+      "text": "কোন সেটটির ইলেকট্রন সংখ্যা সমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na^+, Ca^{2+}, Sc^{3+}, F^-}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K^+, Cl^-, Mg^{2+}, Sc^{3+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na^+, Mg^{2+}, Al^{3+}, Cl^-}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{K^+, Ca^{2+}, Sc^{3+}, Cl^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{K^+}\\), \\(\\mathrm{Ca^{2+}}\\), \\(\\mathrm{Sc^{3+}}\\) ও \\(\\mathrm{Cl^-}\\) প্রত্যেকের ইলেকট্রন সংখ্যা 18। তাই (ঘ) সেটটি সমইলেকট্রনীয়। (ক)-তে \\(\\mathrm{Na^+}\\) = 10, \\(\\mathrm{Ca^{2+}}\\) = 18; (খ)-তে \\(\\mathrm{Mg^{2+}}\\) = 10; (গ)-তে \\(\\mathrm{Cl^-}\\) = 18, বাকিগুলো 10, তাই সমান নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-157",
+      "text": "কোনটি মৃৎ ক্ষার ধাতু?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Rb",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Fr",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Ca",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "2নং গ্রুপের মৌলসমূহ (Be, Mg, Ca, Sr, Ba, Ra) মৃৎ ক্ষার ধাতু। Ca এই গ্রুপের সদস্য; Rb ও Fr ক্ষার ধাতু এবং Cu অবস্থান্তর মৌল।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-158",
+      "text": "স্ফুটনাংকের সঠিক ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_3 < HF < H_2O < CH_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_4 < NH_3 < HF < H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_4 < NH_3 < H_2O < HF}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_3 < CH_4 < H_2O < HF}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CH_4}\\) অপোলার, হাইড্রোজেন বন্ধন নেই, তাই স্ফুটনাংক সবচেয়ে কম। \\(\\mathrm{NH_3}\\), HF ও \\(\\mathrm{H_2O}\\) এ হাইড্রোজেন বন্ধন আছে; হাইড্রোজেন বন্ধনের মোট শক্তি ও সংখ্যা বিবেচনায় স্ফুটনাংক বাড়ে \\(\\mathrm{NH_3 < HF < H_2O}\\) ক্রমে। সুতরাং \\(\\mathrm{CH_4 < NH_3 < HF < H_2O}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-159",
+      "text": "কোনটির আয়নিক ব্যাসার্ধ বড়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K^+}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Mg^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Ca^{2+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আয়নগুলোর মধ্যে \\(\\mathrm{K^+}\\) এর ইলেকট্রন শক্তিস্তর সংখ্যা সবচেয়ে বেশি (তিনটি) এবং \\(\\mathrm{Na^+}\\), \\(\\mathrm{Mg^{2+}}\\) এর দুটি। \\(\\mathrm{Ca^{2+}}\\) সমইলেকট্রনীয় হলেও এর নিউক্লিয় চার্জ বেশি, তাই \\(\\mathrm{K^+}\\) এর ব্যাসার্ধ বড়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-160",
+      "text": "রঙিন যৌগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{TiCl_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{MnO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{ScCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{ZnSO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{MnO_2}\\) এ Mn এর জারণ সংখ্যা +4 (\\(3d^3\\)), অর্থাৎ অপূর্ণ d অর্বিটাল আছে, তাই d-d ইলেকট্রন স্থানান্তরে যৌগটি রঙিন (কালো)। \\(\\mathrm{TiCl_4}\\) (\\(d^0\\)), \\(\\mathrm{ScCl_3}\\) (\\(d^0\\)) ও \\(\\mathrm{ZnSO_4}\\) (\\(d^{10}\\)) বর্ণহীন।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-161",
+      "text": "পোলারাইজেশন ধর্ম কোনটির সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Be^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Mg^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Ca^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Ba^{2+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আয়নের আকার যত ছোট ও চার্জ ঘনত্ব যত বেশি, পোলারায়ন ক্ষমতা তত বেশি। 2নং গ্রুপে \\(\\mathrm{Be^{2+}}\\) এর আকার সবচেয়ে ছোট, তাই এর পোলারায়ন ক্ষমতা সর্বাধিক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-162",
+      "text": "উদ্দীপকের U, V ও W মৌলের ক্ষেত্রে— [U, V এবং W মৌলের প্রতীক নয়।]",
+      "text_en": null,
+      "image": "assets/chemistry_1st-ch3-mcq-162-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "U এর ক্লোরাইড আর্দ্র বিশ্লেষিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "W পরিবর্তনশীল যোজনী দেখায়"
+        },
+        {
+          "label": "iii",
+          "text": "U ও W এর ভৌত ধর্মে সাদৃশ্য বিদ্যমান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "উদ্দীপক অনুযায়ী U = পর্যায় 2, গ্রুপ 14 (C); V = Si; W = পর্যায় 3, গ্রুপ 15 (P)।\n(i) মিথ্যা: U এর ক্লোরাইড \\(\\mathrm{CCl_4}\\) আর্দ্র বিশ্লেষিত হয় না (d অর্বিটাল নেই)।\n(ii) সত্য: W (P) +3, +5 ইত্যাদি পরিবর্তনশীল যোজনী দেখায়।\n(iii) সত্য: U ও W কর্ণ সম্পর্কিত (diagonal) হওয়ায় ভৌত ধর্মে সাদৃশ্য আছে।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "U is carbon, whose chloride CCl₄ does not hydrolyse (carbon has no vacant d orbitals), so i is wrong; W (phosphorus) shows valencies 3 and 5."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-163",
+      "text": "X মৌলের অক্সাইডের অম্লত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপক হতে ১৯ ও ২০নং প্রশ্নের উত্তর দাও : [X ও Y মৌলের প্রতীক নয়]",
+      "stem_image": "assets/chemistry_1st-ch3-mcq-163-stem.svg",
+      "group": "chemistry_1st-2022-RB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "X পর্যায় 3, গ্রুপ 13 এর মৌল, অর্থাৎ Al; অক্সাইড \\(\\mathrm{Al_2O_3}\\)। অক্সাইডে 3টি O পরমাণু প্রতিটি 2টি \\(H^+\\) গ্রহণ করে, অর্থাৎ 6টি \\(H^+\\) নিরপেক্ষ করতে পারে। তাই অম্লত্ব 6।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "X is aluminium; Al₂O₃ neutralises six HCl (Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O), so its acidity is 6."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-164",
+      "text": "X ও Y মৌল দ্বারা গঠিত যৌগটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপক হতে ১৯ ও ২০নং প্রশ্নের উত্তর দাও : [X ও Y মৌলের প্রতীক নয়]",
+      "stem_image": "assets/chemistry_1st-ch3-mcq-163-stem.svg",
+      "group": "chemistry_1st-2022-RB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডাইমার গঠন করে"
+        },
+        {
+          "label": "ii",
+          "text": "তাপ প্রয়োগে ঊর্ধ্বপাতিত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "জলীয় দ্রবণ অম্লধর্মী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "X = Al, Y = Cl, যৌগ \\(\\mathrm{AlCl_3}\\)।\n(i) সত্য: এটি \\(\\mathrm{Al_2Cl_6}\\) ডাইমার গঠন করে।\n(ii) সত্য: সહযোজী প্রকৃতির কারণে তাপে ঊর্ধ্বপাতিত হয়।\n(iii) সত্য: আর্দ্র বিশ্লেষণে HCl উৎপন্ন হয়, তাই জলীয় দ্রবণ অম্লধর্মী।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-165",
+      "text": "চালকোজেন গ্রুপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "14",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "11",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পর্যায় সারণির 16নং গ্রুপ (O, S, Se, Te, Po) চালকোজেন গ্রুপ নামে পরিচিত।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-166",
+      "text": "\\(\\mathrm{CuSO_4 \\cdot 5H_2O}\\) যৌগে কয় ধরনের বন্ধন বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CuSO_4 \\cdot 5H_2O}\\) এ চার ধরনের বন্ধন আছে: আয়নিক বন্ধন (\\(\\mathrm{Cu^{2+}}\\) ও \\(\\mathrm{SO_4^{2-}}\\) এর মধ্যে), সমযোজী বন্ধন (\\(\\mathrm{SO_4^{2-}}\\) ও \\(\\mathrm{H_2O}\\) এর ভেতরে), পারস্পরিক সম্বন্ধযুক্ত সন্নিবেশ বন্ধন (\\(\\mathrm{Cu^{2+}}\\) ও \\(\\mathrm{H_2O}\\) এর মধ্যে) এবং হাইড্রোজেন বন্ধন।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-167",
+      "text": "কোন যৌগটিতে পোলারায়ন বেশি ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{K_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "CaO",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "MgO",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ক্যাটায়নের আকার যত ছোট ও চার্জ যত বেশি হয়, পোলারায়ন তত বেশি হয়। \\(\\mathrm{Mg^{2+}}\\) এর চার্জ বেশি ও আকার ছোট (\\(\\mathrm{Na^+}\\), \\(\\mathrm{K^+}\\), \\(\\mathrm{Ca^{2+}}\\) এর তুলনায়), তাই MgO তে পোলারায়ন সবচেয়ে বেশি।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-168",
+      "text": "\\(\\mathrm{SO_3}\\) যৌগে S এর কোন ধরনের সংকরণ ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "sp",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(sp^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(sp^3\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(dsp^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{SO_3}\\) এ S এর তিনটি \\(\\sigma\\) বন্ধন আছে এবং কেন্দ্রীয় পরমাণুতে নিঃসঙ্গ ইলেকট্রন জোড় নেই। তাই সংকরণ \\(sp^2\\), আকৃতি সমতলীয় ত্রিকোণাকার।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-169",
+      "text": "X-এর কোন অক্সাইড অধিক অম্লধর্মী?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_1st-2026-ALL-7-8-stem.svg",
+      "group": "chemistry_1st-2026-ALL-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{X_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{X_2O_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{X_2O_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{X_2O_5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "X হলো দ্বিতীয় পর্যায়ের ১৫ নং গ্রুপের মৌল নাইট্রোজেন। অক্সাইডে অক্সিডেশন সংখ্যা যত বেশি, অম্লধর্মিতা তত বেশি। \\(\\mathrm{X_2O_5}\\) এ X এর অক্সিডেশন সংখ্যা \\(+5\\) (সর্বোচ্চ), তাই এটি সবচেয়ে অম্লধর্মী।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-170",
+      "text": "'X' এবং 'Y' সম্পর্কে সঠিক হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_1st-2026-ALL-7-8-stem.svg",
+      "group": "chemistry_1st-2026-ALL-7-8",
+      "statements": [
+        {
+          "label": "i",
+          "text": "Y এর ইলেকট্রন আসক্তি সর্বোচ্চ"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{XY_5}\\) গঠিত হয় না"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{XY_3}\\) এ 'X' এর \\(sp^3\\) সংকরণ ঘটে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "X হলো N (২য় পর্যায়, ১৫ গ্রুপ) এবং Y হলো Cl (৩য় পর্যায়, ১৭ গ্রুপ)।\n(i) সঠিক: Cl এর ইলেকট্রন আসক্তি সব মৌলের মধ্যে সর্বোচ্চ।\n(ii) সঠিক: N এর ২য় শক্তিস্তরে d অর্বিটাল নেই, তাই সম্প্রসারিত যোজ্যতা সম্ভব নয় এবং \\(\\mathrm{NCl_5}\\) গঠিত হয় না।\n(iii) সঠিক: \\(\\mathrm{NCl_3}\\) এ তিনটি বন্ধন জোড় ও একটি নিঃসঙ্গ জোড় আছে, তাই N এর \\(sp^3\\) সংকরণ।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "X is nitrogen and Y is chlorine: Cl has the highest electron affinity of all elements, N has no d orbitals so NCl₅ cannot form, and N in NCl₃ is sp³."
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-171",
+      "text": "নিচের কোন যৌগের বন্ধন কোণ বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CO_2}\\) রৈখিক, বন্ধন কোণ \\(180^\\circ\\)। \\(\\mathrm{CH_4}\\) এ \\(109.5^\\circ\\), \\(\\mathrm{NH_3}\\) এ \\(107^\\circ\\), \\(\\mathrm{H_2O}\\) এ \\(104.5^\\circ\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch3-mcq-172",
+      "text": "আয়নিকরণ শক্তি বৃদ্ধির সঠিক ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Na < K < Rb",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "F < Cl < Br",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C < N < O",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "C < O < N",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "একই পর্যায়ে সাধারণত বাম থেকে ডানে আয়নিকরণ শক্তি বাড়ে, কিন্তু N এর স্থিতিশীল অর্ধপূর্ণ \\(2p^3\\) বিন্যাসের কারণে \\(\\mathrm{IE_{N}>IE_{O}}\\)। তাই ক্রম \\(\\mathrm{C<O<N}\\)। (ক) ও (খ) গ্রুপ বরাবর নিচে নামলে আয়নিকরণ শক্তি কমে, তাই ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

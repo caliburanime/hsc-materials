@@ -3728,6 +3728,844 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-090",
+      "text": "ফটোইলেকট্রিক ক্রিয়ায় ফটোইলেকট্রনের গতিশক্তি নির্ভর করে আপতিত আলোকের কীসের উপর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তীব্রতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কম্পাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেগ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আইনস্টাইনের ফটোইলেকট্রিক সমীকরণ \\( K_{max}=h\\nu-\\phi \\) অনুযায়ী গতিশক্তি আপতিত আলোর কম্পাঙ্কের ওপর নির্ভর করে; তীব্রতা কেবল নির্গত ইলেকট্রনের সংখ্যা নির্ধারণ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-091",
+      "text": "\\(1.6 \\times 10^{6}\\) eV গতিশক্তি সম্পন্ন ইলেকট্রনের ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.75 \\times 10^{-31}\\) kg",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9.1 \\times 10^{-31}\\) kg",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(9.75 \\times 10^{-31}\\) kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(37.54 \\times 10^{-31}\\) kg",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "গতিশক্তি \\( K=1.6\\times10^{6}\\times1.6\\times10^{-19}=2.56\\times10^{-13}\\ \\text{J} \\)\nআপেক্ষিক ভর বৃদ্ধি \\( \\Delta m=\\dfrac{K}{c^2}=\\dfrac{2.56\\times10^{-13}}{9\\times10^{16}}=2.84\\times10^{-30}\\ \\text{kg} \\)\n\\( m=m_0+\\Delta m=0.91\\times10^{-30}+2.84\\times10^{-30}=37.5\\times10^{-31}\\ \\text{kg} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-092",
+      "text": "আপেক্ষিক তত্ত্ব অনুসারে নিচের কোনটি পরিবর্তনশীল নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলোর দ্রুতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দৈর্ঘ্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "আপেক্ষিক তত্ত্ব অনুযায়ী ভর, সময় ও দৈর্ঘ্য পর্যবেক্ষকের আপেক্ষিক গতির সাথে বদলায়; কিন্তু শূন্যস্থানে আলোর দ্রুতি সব জড় কাঠামোতে সমান ও অপরিবর্তনীয়।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-093",
+      "text": "চিত্রের ফটোইলেকট্রন ক্রিয়ায় \\(\\dfrac{BC}{BD}\\) কে প্রকাশ করা হয়—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch8-mcq-093-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "নিবৃত্তি বিভব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্যাপেক্ষক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরঙ্গদৈর্ঘ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্ল্যাঙ্কের ধ্রুবক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\( eV_0=h(\\nu-\\nu_0) \\) অনুযায়ী লেখচিত্রের ঢাল \\( =\\dfrac{eV_0}{\\nu-\\nu_0}=\\dfrac{BC}{DB}=h \\)। তাই \\( \\dfrac{BC}{BD} \\) প্ল্যাঙ্কের ধ্রুবক নির্দেশ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-094",
+      "text": "কোনো ধাতুর কার্য অপেক্ষকের সমান শক্তির একটি ফোটন আপতিত হলে নির্গত ইলেকট্রনের গতিশক্তি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসীম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আপতিত ফোটনের শক্তির সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্য অপেক্ষকের সমান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( K_{max}=h\\nu-\\phi \\) এ ফোটনের শক্তি \\( h\\nu=\\phi \\) হলে \\( K_{max}=0 \\); ইলেকট্রন কেবল ধাতু থেকে বের হতে পারে, কোনো গতিশক্তি পায় না।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-095",
+      "text": "আলোক তড়িৎ ক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আপতিত আলোর কম্পাংক সূচন কম্পাংকের চেয়ে কম হলেই কেবল Electron নির্গমন ঘটে"
+        },
+        {
+          "label": "ii",
+          "text": "আলোর কম্পাংক বাড়ালে নিবৃত্তি বিভব বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "আলোর বর্ণ পরিবর্তনের সাথে নির্গত ইলেকট্রনের শক্তির সম্পর্ক রয়েছে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "(i) মিথ্যা: ইলেকট্রন নির্গমনের জন্য আপতিত আলোর কম্পাঙ্ক সূচন কম্পাঙ্কের সমান বা বেশি হতে হয়।\n(ii) সত্য: \\( eV_0=h\\nu-\\phi \\) অনুযায়ী কম্পাঙ্ক বাড়লে নিবৃত্তি বিভব বাড়ে।\n(iii) সত্য: বর্ণ বদলালে কম্পাঙ্ক বদলায়, ফলে ইলেকট্রনের গতিশক্তিও বদলায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-096",
+      "text": "X-ray এর একটি ফোটনের কম্পাংক \\(4 \\times 10^{15}\\) Hz হলে এর শক্তি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(26.52 \\times 10^{-34}\\) জুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(26.52 \\times 10^{-19}\\) জুল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(26.52 \\times 10^{19}\\) জুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(26.52 \\times 10^{-40}\\) জুল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\( E=h\\nu=6.63\\times10^{-34}\\times4\\times10^{15}=26.52\\times10^{-19}\\ \\text{J} \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-097",
+      "text": "আলোকতড়িৎ ক্রিয়ায় আপতিত বিকিরণের কম্পাঙ্ক υ-এর সঙ্গে নিবৃত্তি বিভবের পরিবর্তন কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch8-mcq-097-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch8-mcq-097-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch8-mcq-097-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch8-mcq-097-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\( V_0=\\dfrac{h}{e}(\\nu-\\nu_0) \\) সরলরৈখিক; \\( \\nu<\\nu_0 \\) হলে নির্গমন নেই, তাই রেখাটি \\( \\nu \\)-অক্ষের ওপর মূলবিন্দুর ডানে (\\( \\nu_0 \\) বিন্দু) থেকে শুরু হয়ে ঊর্ধ্বমুখী। এটি (খ)-এ দেখানো হয়েছে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-098",
+      "text": "\\(\\dfrac{c}{\\sqrt{3}}\\) বেগে চলমান একটি কণার মোট শক্তি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.173\\,m_0c^2\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\sqrt{\\dfrac{3}{2}}\\,m_0c^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{2}}{4}\\,m_0c^2\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.732\\,m_0c\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\( v=\\dfrac{c}{\\sqrt3} \\) হলে \\( \\dfrac{v^2}{c^2}=\\dfrac{1}{3} \\)\n\\( E=\\dfrac{m_0c^2}{\\sqrt{1-\\frac{1}{3}}}=\\dfrac{m_0c^2}{\\sqrt{2/3}}=\\sqrt{\\dfrac{3}{2}}\\,m_0c^2 \\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-099",
+      "text": "এক্স-রে এর একক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাকেরেল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউটন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রন্‌জেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোল্ট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "এক্স-রে বিকিরণের এক্সপোজারের একক রন্‌জেন (Röntgen)। ব্যাকেরেল তেজস্ক্রিয়তার, নিউটন বলের এবং ভোল্ট বিভবের একক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-100",
+      "text": "উদ্দীপকে কার্যাপেক্ষক এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি লক্ষ্য কর এবং ১১ ও ১২ নং প্রশ্নের উত্তর দাও : নিচের লেখচিত্র ফটোতড়িৎ ক্রিয়ায় কম্পাঙ্ক ও গতিশক্তির সম্পর্ক প্রকাশ করে। \\(f_0 = 5 \\times 10^{14}\\) Hz",
+      "stem_image": "assets/physics_2nd-ch8-mcq-100-stem.svg",
+      "group": "physics_2nd-2022-DIB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.2 \\times 10^{-19}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.9 \\times 10^{-19}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.3 \\times 10^{-19}\\) J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.9 \\times 10^{-19}\\) J",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "লেখচিত্রে A বিন্দুতে \\( K=0 \\) ও কম্পাঙ্ক \\( f_0 \\) (সূচন কম্পাঙ্ক), তাই\n\\( \\phi=hf_0=6.63\\times10^{-34}\\times5\\times10^{14}=3.3\\times10^{-19}\\ \\text{J} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-101",
+      "text": "উদ্দীপকে আপতিত আলোর কম্পাঙ্ক হল—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি লক্ষ্য কর এবং ১১ ও ১২ নং প্রশ্নের উত্তর দাও : নিচের লেখচিত্র ফটোতড়িৎ ক্রিয়ায় কম্পাঙ্ক ও গতিশক্তির সম্পর্ক প্রকাশ করে। \\(f_0 = 5 \\times 10^{14}\\) Hz",
+      "stem_image": "assets/physics_2nd-ch8-mcq-100-stem.svg",
+      "group": "physics_2nd-2022-DIB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.43 \\times 10^{15}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.22 \\times 10^{15}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.11 \\times 10^{15}\\) Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.43 \\times 10^{15}\\) Hz",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( K=8\\ \\text{eV}=8\\times1.6\\times10^{-19}=12.8\\times10^{-19}\\ \\text{J} \\)\n\\( hf=K+\\phi=12.8\\times10^{-19}+3.315\\times10^{-19}=16.1\\times10^{-19}\\ \\text{J} \\)\n\\( f=\\dfrac{16.1\\times10^{-19}}{6.63\\times10^{-34}}=2.43\\times10^{15}\\ \\text{Hz} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-102",
+      "text": "আপেক্ষিকতার তত্ত্ব অনুসারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(t = \\dfrac{t_0}{\\sqrt{1 - \\frac{v^2}{c^2}}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(L = \\dfrac{L_0}{\\sqrt{1 - \\frac{v^2}{c^2}}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(m = \\dfrac{m_0}{\\sqrt{1 - \\frac{v^2}{c^2}}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: সময় দীর্ঘায়ন \\( t=\\dfrac{t_0}{\\sqrt{1-v^2/c^2}} \\)।\n(ii) মিথ্যা: দৈর্ঘ্য সংকোচন হয়, সঠিক সম্পর্ক \\( L=L_0\\sqrt{1-\\dfrac{v^2}{c^2}} \\)।\n(iii) সত্য: \\( m=\\dfrac{m_0}{\\sqrt{1-v^2/c^2}} \\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-103",
+      "text": "আলোকতড়িৎ ক্রিয়ার বৈশিষ্ট্য হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি একটি তাৎক্ষণিক ঘটনা"
+        },
+        {
+          "label": "ii",
+          "text": "ফটো ইলেকট্রনের গতিশক্তি আপতিত আলোর কম্পাংকের সমানুপাতিক"
+        },
+        {
+          "label": "iii",
+          "text": "ফটোতড়িৎ প্রবাহের মান আপতিত আলোর তীব্রতার ব্যস্তানুপাতিক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: আলো পড়ার সাথে সাথে (প্রায় \\( 10^{-9} \\) s এর মধ্যে) ইলেকট্রন নির্গত হয়।\n(ii) সত্য: গতিশক্তি আপতিত আলোর কম্পাঙ্কের সাথে বাড়ে (পাঠ্যবইয়ের প্রচলিত বক্তব্য অনুযায়ী)।\n(iii) মিথ্যা: ফটোতড়িৎ প্রবাহ আলোর তীব্রতার সমানুপাতিক, ব্যস্তানুপাতিক নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "iii is wrong (the photocurrent increases in proportion to intensity). Strictly, the kinetic energy rises linearly with frequency (K = hf − W) rather than in direct proportion, but ক is the only option without iii."
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-104",
+      "text": "ফোটনটির শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ১১ ও ১২ নং প্রশ্নের উত্তর দাও : এক গুচ্ছ এক্স রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক \\(3 \\times 10^{17}\\) Hz.",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.989 \\times 10^{-16}\\) J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.89 \\times 10^{-16}\\) J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(19.89 \\times 10^{-16}\\) J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(91.98 \\times 10^{-16}\\) J",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( E=h\\nu=6.63\\times10^{-34}\\times3\\times10^{17}=1.989\\times10^{-16}\\ \\text{J} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-105",
+      "text": "উদ্দীপকে উল্লিখিত ফোটনের—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ১১ ও ১২ নং প্রশ্নের উত্তর দাও : এক গুচ্ছ এক্স রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক \\(3 \\times 10^{17}\\) Hz.",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেগ \\(3 \\times 10^8\\,\\mathrm{ms^{-1}}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "তরঙ্গ দৈর্ঘ্য 10 Å"
+        },
+        {
+          "label": "iii",
+          "text": "ভরবেগ \\(6.63 \\times 10^{-25}\\,\\mathrm{kgms^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: ফোটন শূন্যস্থানে আলোর বেগ \\( 3\\times10^8\\ \\text{ms}^{-1} \\) এ চলে।\n(ii) সত্য: \\( \\lambda=\\dfrac{c}{\\nu}=\\dfrac{3\\times10^8}{3\\times10^{17}}=10^{-9}\\ \\text{m}=10\\ \\text{Å} \\)\n(iii) সত্য: \\( p=\\dfrac{h}{\\lambda}=\\dfrac{6.63\\times10^{-34}}{10^{-9}}=6.63\\times10^{-25}\\ \\text{kgms}^{-1} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-106",
+      "text": "বিশেষ আপেক্ষিক তত্ত্বানুসারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আলোর বেগে গতিশীল কাঠামোতে সময় অসীম।"
+        },
+        {
+          "label": "ii",
+          "text": "আলোর বেগে চলমান বস্তুর দৈর্ঘ্য শূন্য।"
+        },
+        {
+          "label": "iii",
+          "text": "আলোর বেগে চলমান বস্তুর ভর শূন্য হয়।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: \\( v\\to c \\) হলে \\( t=\\dfrac{t_0}{\\sqrt{1-v^2/c^2}}\\to\\infty \\)।\n(ii) সত্য: \\( L=L_0\\sqrt{1-v^2/c^2}\\to0 \\)।\n(iii) মিথ্যা: \\( m=\\dfrac{m_0}{\\sqrt{1-v^2/c^2}}\\to\\infty \\), শূন্য নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-107",
+      "text": "একটি ইলেকট্রন 0.8 C বেগে গতিশীল হলে এর চলমান ভর কত kg? ইলেকট্রনের নিশ্চল ভর \\(= 9.1 \\times 10^{-31}\\) kg.",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(9.1 \\times 10^{-31}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(14.22 \\times 10^{-31}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(15.17 \\times 10^{-31}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(32.76 \\times 10^{-31}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\( m=\\dfrac{m_0}{\\sqrt{1-v^2/c^2}}=\\dfrac{9.1\\times10^{-31}}{\\sqrt{1-0.64}}=\\dfrac{9.1\\times10^{-31}}{0.6}=15.17\\times10^{-31}\\ \\text{kg} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch8-mcq-108",
+      "text": "ফোটনের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থির ভর শূন্য"
+        },
+        {
+          "label": "ii",
+          "text": "শক্তি \\(h\\nu\\)"
+        },
+        {
+          "label": "iii",
+          "text": "বেগ \\(3 \\times 10^8\\,\\mathrm{ms^{-1}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: ফোটনের স্থির ভর শূন্য।\n(ii) সত্য: ফোটনের শক্তি \\( E=h\\nu \\)।\n(iii) সত্য: শূন্যস্থানে ফোটনের বেগ \\( c=3\\times10^8\\ \\text{ms}^{-1} \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

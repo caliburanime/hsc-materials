@@ -1746,6 +1746,163 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-043",
+      "text": "কোনো অধিবৃত্তের অসীমতটের সমীকরণ \\(y = \\pm\\dfrac{2}{3}x\\) হলে, অধিবৃত্তটির সমীকরণ নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{x^2}{9} - \\dfrac{y^2}{4} = 1\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{x^2}{4} - \\dfrac{y^2}{9} = 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{y^2}{3} - \\dfrac{x^2}{2} = 1\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{y^2}{2} - \\dfrac{x^2}{3} = 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অধিবৃত্ত \\(\\dfrac{x^2}{a^2} - \\dfrac{y^2}{b^2} = 1\\) এর অসীমতট \\(y = \\pm\\dfrac{b}{a}x\\)। \\(\\dfrac{b}{a} = \\dfrac{2}{3}\\) থেকে \\(a = 3,\\ b = 2\\)।\nসমীকরণ: \\(\\dfrac{x^2}{9} - \\dfrac{y^2}{4} = 1\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-044",
+      "text": "\\((x - 1)^2 = -y\\) পরাবৃত্তের লেখচিত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/higher_math_2nd-ch6-mcq-044-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/higher_math_2nd-ch6-mcq-044-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/higher_math_2nd-ch6-mcq-044-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/higher_math_2nd-ch6-mcq-044-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\((x-1)^2 = -y\\) পরাবৃত্তের শীর্ষবিন্দু \\((1, 0)\\), অর্থাৎ ধনাত্মক x-অক্ষে। \\(y = -(x-1)^2 \\le 0\\) হওয়ায় বক্ররেখা নিচের দিকে খোলা ও x-অক্ষের নিচে থাকে। এটি (খ) চিত্রের সাথে মেলে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The vertex is (1, 0) and the parabola opens downward (y = −(x − 1)² ≤ 0)."
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-045",
+      "text": "\\(x^2 + 4y + 2x - 8 = 0\\) পরাবৃত্তের শীর্ষবিন্দু—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(-1, \\dfrac{9}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(1, \\dfrac{-9}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(-1, \\dfrac{5}{4}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(1, \\dfrac{-5}{4}\\right)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(x^2 + 2x = -4y + 8 \\Rightarrow (x+1)^2 = -4y + 9 = -4\\left(y - \\dfrac{9}{4}\\right)\\)।\nশীর্ষবিন্দু \\(\\left(-1, \\dfrac{9}{4}\\right)\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch6-mcq-046",
+      "text": "কোনো উপবৃত্তের উপকেন্দ্রিক লম্ব উপবৃত্তটির বৃহৎ অক্ষের অর্ধেক হলে, উৎকেন্দ্রিকতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "উপকেন্দ্রিক লম্ব \\(= \\dfrac{2b^2}{a}\\) এবং বৃহৎ অক্ষের অর্ধেক \\(= a\\)।\n\\(\\dfrac{2b^2}{a} = a \\Rightarrow b^2 = \\dfrac{a^2}{2}\\)\n\\(e^2 = 1 - \\dfrac{b^2}{a^2} = \\dfrac{1}{2} \\Rightarrow e = \\dfrac{1}{\\sqrt{2}}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

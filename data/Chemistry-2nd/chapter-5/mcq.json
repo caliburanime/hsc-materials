@@ -1,0 +1,163 @@
+{
+  "subject": "chemistry_2nd",
+  "chapter": 5,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "chemistry_2nd-ch5-mcq-001",
+      "text": "কোন পদ্ধতিতে চামড়াকে ব্যাকটেরিয়ামুক্ত রাখা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যানিলিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কিউরিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ট্যানিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্লেজিং",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ট্যানিং প্রক্রিয়ায় কাঁচা চামড়ার প্রোটিন (কোলাজেন) ট্যানিন বা ক্রোম লবণের সাথে বিক্রিয়া করে স্থায়ী হয়, ফলে পচন ও ব্যাকটেরিয়ার আক্রমণ রোধ হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch5-mcq-002",
+      "text": "কোনটি মণ্ড তৈরিতে কুকিং লিকার হিসেবে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Ca(OCl)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "CaO + NaOH",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na_2S + NaOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ক্রাফট পদ্ধতিতে কাঠের চিপস থেকে সেলুলোজ (মণ্ড) পেতে কুকিং লিকার হিসেবে \\(\\mathrm{Na_2S+NaOH}\\) ব্যবহার করা হয়, যা লিগনিন দ্রবীভূত করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch5-mcq-003",
+      "text": "সিমেন্ট শিল্পের প্রধান কাঁচামালে কোন ধাতুর যৌগ বিদ্যমান থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Ca",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Al",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Na",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সিমেন্টের প্রধান কাঁচামাল চুনাপাথর (\\(\\mathrm{CaCO_3}\\)) ও কাদামাটি; তাই ক্যালসিয়াম (Ca)-এর যৌগ প্রধান উপাদান।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch5-mcq-004",
+      "text": "কোনটি আকারে ছোট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পলিমারীয় অণু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ন্যানো পার্টিক্যাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অণু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরমাণু",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পরমাণুর আকার প্রায় 0.1–0.3 nm, আর ন্যানো পার্টিক্যালের আকার 1–100 nm; অণু ও পলিমারীয় অণু আরও বড়। তাই পরমাণু সবচেয়ে ছোট।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

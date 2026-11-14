@@ -4940,6 +4940,1788 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-120",
+      "text": "\\(\\mathrm{MnO_4^- + H^+ + Fe^{2+} \\longrightarrow}\\) উৎপাদ; এই বিক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{MnO_4^-}\\) বিজারিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{Fe^{2+}}\\) জারিত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "৫ টি ইলেকট্রন স্থানান্তরিত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{MnO_4^- + 8H^+ + 5Fe^{2+} \\rightarrow Mn^{2+} + 5Fe^{3+} + 4H_2O}\\)\n\\(\\mathrm{MnO_4^-}\\)-এর Mn (+7 \\(\\rightarrow\\) +2) বিজারিত হয় (i সত্য); \\(\\mathrm{Fe^{2+}}\\) জারিত হয় (ii সত্য); Mn পাঁচটি ইলেকট্রন গ্রহণ করে, তাই ৫টি ইলেকট্রন স্থানান্তরিত হয় (iii সত্য)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-121",
+      "text": "প্রদত্ত দ্রবণ দুটির ক্ষেত্রে—",
+      "text_en": null,
+      "image": "assets/chemistry_2nd-ch3-mcq-121-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "১নং দ্রবণ একটি প্রমাণ দ্রবণ"
+        },
+        {
+          "label": "ii",
+          "text": "১ ও ২ নং দ্রবণে দ্রবের ভর ভিন্ন"
+        },
+        {
+          "label": "iii",
+          "text": "১নং দ্রবণ দ্বারা ২নং দ্রবণকে পূর্ণ প্রশমিত করা যাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "i: \\(\\mathrm{Na_2CO_3}\\) প্রাইমারি স্ট্যান্ডার্ড পদার্থ, তাই এর দ্রবণ প্রমাণ দ্রবণ — সত্য।\nii: মোলার ভর ভিন্ন (106 ও 98), তাই একই মোলারিটি ও আয়তনে দ্রবের ভর ভিন্ন — সত্য।\niii: \\(\\mathrm{Na_2CO_3 + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O + CO_2}\\) বিক্রিয়ায় ১ : ১ মোল অনুপাত; দুটির মোল সংখ্যা সমান (0.02 × 0.02 L), তাই পূর্ণ প্রশমিত হয় — সত্য।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-122",
+      "text": "0.05M \\(\\mathrm{H_2SO_4}\\) দ্রবণের ঘনমাত্রা ppm এককে কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4500",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4900",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "14500",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "14900",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(0.05 \\times 98 = 4.9\\ \\mathrm{g/L} = 4.9 \\times 1000\\ \\mathrm{mg/L} = 4900\\ \\mathrm{ppm}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-123",
+      "text": "250 mL 0.1 M NaOH দ্রবণে কত গ্রাম NaOH বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2.0",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "দ্রবের ভর = \\(M \\times V \\times\\) মোলার ভর\n= \\(0.1 \\times 0.25 \\times 40 = 1.0\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-124",
+      "text": "0.5M \\(\\mathrm{HNO_3}\\) এর ঘনমাত্রা ppm এককে কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "31500",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "41500",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "53500",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "63500",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{HNO_3}\\)-এর মোলার ভর = 63\n\\(0.5 \\times 63 = 31.5\\ \\mathrm{g/L} = 31500\\ \\mathrm{ppm}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-125",
+      "text": "\\(\\mathrm{Na_2S_2O_3 + I_2 \\rightarrow}\\) উৎপাদ; এই বিক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2S_2O_3}\\) জারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{I_2}\\) এর বিজারণ ঘটেছে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়োডিনের জারণ মানের বৃদ্ধি হয়েছে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "S এর জারণ মান হ্রাস পেয়েছে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{2Na_2S_2O_3 + I_2 \\rightarrow Na_2S_4O_6 + 2NaI}\\)\n\\(\\mathrm{I_2}\\) ইলেকট্রন গ্রহণ করে \\(\\mathrm{I^-}\\)-এ পরিণত হয় (জারণ মান 0 \\(\\rightarrow\\) −1), অর্থাৎ বিজারিত হয়। \\(\\mathrm{Na_2S_2O_3}\\) বিজারক এবং S-এর জারণ মান বৃদ্ধি পায়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-126",
+      "text": "12% (w/v) \\(\\mathrm{Na_2CO_3}\\) দ্রবণের ঘনমাত্রা মোলারিটিতে কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.13",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.31",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.11",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.20",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "12% (w/v) অর্থাৎ 1 L দ্রবণে 120 g দ্রব।\n\\(M = \\dfrac{120}{106} = 1.13\\ \\mathrm{M}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-127",
+      "text": "পার ক্লোরিক এসিডের কেন্দ্রীয় পরমাণুর জারণ সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "+3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+7",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{HClO_4}\\)-এ Cl-এর জারণ সংখ্যা x হলে: \\(+1 + x - 8 = 0\\), \\(x = +7\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-128",
+      "text": "কোনটি জারক পদার্থ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{FeSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2C_2O_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na_2S_2O_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{KMnO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{KMnO_4}\\)-এ Mn-এর জারণ মান +7 (সর্বোচ্চ) হওয়ায় এটি শক্তিশালী জারক; অন্যগুলো বিজারক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-129",
+      "text": "0.5M \\(\\mathrm{HNO_3}\\) দ্রবণের ঘনমাত্রা ppm এককে কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "15750",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "31500",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "63000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "49000",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(0.5 \\times 63 = 31.5\\ \\mathrm{g/L} = 31500\\ \\mathrm{ppm}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-130",
+      "text": "\\(\\mathrm{Fe^{2+} + Sn^{4+} \\longrightarrow Fe^{3+} + Sn^{2+}}\\) বিক্রিয়াটিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Fe^{2+}}\\) বিজারক"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{Sn^{4+}}\\) বিজারিত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Sn^{2+}}\\) ইলেকট্রন ত্যাগ করেছে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Fe^{2+}}\\) জারিত হয়ে \\(\\mathrm{Fe^{3+}}\\) হয়, তাই এটি বিজারক (i সত্য)। \\(\\mathrm{Sn^{4+}}\\) ইলেকট্রন গ্রহণ করে বিজারিত হয় (ii সত্য)। \\(\\mathrm{Sn^{2+}}\\) বিক্রিয়ার উৎপাদ, এটি ইলেকট্রন ত্যাগ করেনি (iii মিথ্যা)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-131",
+      "text": "\\(\\mathrm{CH_3COOH(aq) + KOH(aq) \\rightarrow CH_3COOK(aq) + H_2O}\\) উক্ত বিক্রিয়ার উপযুক্ত নির্দেশক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিথাইল অরেঞ্জ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফেনলফথ্যালিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিথাইল রেড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে কোনো নির্দেশক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "দুর্বল অম্ল ও তীব্র ক্ষারের প্রশমনে সমতা বিন্দুতে দ্রবণ ক্ষারীয় হয়, তাই ক্ষারীয় pH পরিসরে (8.3–10) রং বদলায় এমন ফেনলফথ্যালিন উপযুক্ত।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-132",
+      "text": "\\(\\mathrm{FeSO_4 + KMnO_4 + H_2SO_4 \\longrightarrow Fe_2(SO_4)_3 + K_2SO_4 + MnSO_4 + H_2O}\\) উক্ত বিক্রিয়ায় সমতাযুক্ত সমীকরণে বিজারক ও জারকের মোল সংখ্যার অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 5",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সমতাযুক্ত সমীকরণ: \\(\\mathrm{10FeSO_4 + 2KMnO_4 + 8H_2SO_4 \\rightarrow 5Fe_2(SO_4)_3 + K_2SO_4 + 2MnSO_4 + 8H_2O}\\)\nবিজারক (\\(\\mathrm{FeSO_4}\\)) : জারক (\\(\\mathrm{KMnO_4}\\)) = 10 : 2 = 5 : 1",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-133",
+      "text": "সমআয়তন 0.1M NaOH এবং 0.1M \\(\\mathrm{H_2SO_4}\\) দ্রবণের প্রকৃতি কী হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিরপেক্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উভধর্মী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অম্লীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষারীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H^+}\\) = \\(0.1 \\times 2 = 0.2\\) মোল/L এবং \\(\\mathrm{OH^-}\\) = 0.1 মোল/L (সমআয়তনে)। \\(\\mathrm{H^+}\\) বেশি থাকে, তাই দ্রবণ অম্লীয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-134",
+      "text": "0.98M \\(\\mathrm{Na_2CO_3}\\) দ্রবণের শতকরা ঘনমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9.80",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10.39",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "13.52",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "15.42",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(0.98 \\times 106 = 103.88\\ \\mathrm{g/L}\\)\nশতকরা ঘনমাত্রা = \\(\\dfrac{103.88}{1000} \\times 100 \\approx 10.39\\%\\) (w/v)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-135",
+      "text": "500ml ডেসিমোলার দ্রবণে দ্রবীভূত সোডিয়াম কার্বনেট এর পরিমাণ কত গ্রাম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.65 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "5.30 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6.30 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10.60 গ্রাম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ডেসিমোলার = 0.1 M\nদ্রবের ভর = \\(0.1 \\times 0.5 \\times 106 = 5.30\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-136",
+      "text": "নিচের কোনটি জারক ও বিজারক উভয়রূপে ক্রিয়া করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Hg^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Fe^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Sn^{4+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Fe^{3+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Fe^{2+}}\\) মধ্যবর্তী জারণ অবস্থায় (+2) আছে; এটি জারিত হয়ে \\(\\mathrm{Fe^{3+}}\\) (বিজারকরূপে) এবং বিজারিত হয়ে Fe (জারকরূপে) হতে পারে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-137",
+      "text": "10 গ্রাম \\(\\mathrm{FeSO_4}\\) কে জারিত করতে কত গ্রাম পটাশিয়াম ডাইক্রোমেট প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3.22 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3.87 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4.12 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.44 গ্রাম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{K_2Cr_2O_7 + 6FeSO_4 + 7H_2SO_4 \\rightarrow \\ldots}\\)\n\\(\\mathrm{FeSO_4}\\) = \\(\\dfrac{10}{152} = 0.0658\\) মোল\n\\(\\mathrm{K_2Cr_2O_7}\\) = \\(\\dfrac{0.0658}{6} = 0.01097\\) মোল\nভর = \\(0.01097 \\times 294 = 3.22\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-138",
+      "text": "\\(\\mathrm{CuSO_4 + KI \\rightarrow Cu_2I_2 + K_2SO_4 + I_2}\\) বিক্রিয়াটিতে বিজারক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{I_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{K^+}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{I^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{I^-}\\) জারিত হয়ে \\(\\mathrm{I_2}\\) হয় (−1 \\(\\rightarrow\\) 0), অর্থাৎ ইলেকট্রন ত্যাগ করে; তাই \\(\\mathrm{I^-}\\) বিজারক।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-139",
+      "text": "NaOH এর 2.5% দ্রবণের ঘনমাত্রা ppm এককে কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.5 \\times 10^{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.5 \\times 10^{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2.5 \\times 10^{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.5 \\times 10^{5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "2.5% = 100 g দ্রবণে 2.5 g = 1 L-এ 25 g\n\\(25\\ \\mathrm{g/L} = 25000\\ \\mathrm{ppm} = 2.5 \\times 10^4\\ \\mathrm{ppm}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-140",
+      "text": "\\(\\mathrm{Na_2CO_3}\\) এবং HCl এর প্রশমন বিক্রিয়ায় উপযুক্ত নির্দেশক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিথাইল অরেঞ্জ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিথাইল রেড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিটমাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফেনলফ থ্যালিন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Na_2CO_3}\\) (ক্ষার) ও HCl (তীব্র অম্ল)-এর প্রশমনে সমতা বিন্দুতে pH অম্লীয় অঞ্চলে থাকে (প্রায় 3.1–4.4), তাই মিথাইল অরেঞ্জ উপযুক্ত।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "For complete neutralisation of Na₂CO₃ by HCl the end point lies in the acidic range, so methyl orange is the standard indicator (phenolphthalein marks only the first step to NaHCO₃)."
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-141",
+      "text": "কোনটি সেমিমোলার দ্রবণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.1M",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.05M",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.01M",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.5M",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সেমিমোলার দ্রবণ হলো 0.5 M ঘনমাত্রার দ্রবণ।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-142",
+      "text": "দ্রবণের মোলারিটির একক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{N}{V}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{mol}{Kg}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{mol}{L}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{g}{L}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মোলারিটি = \\(\\dfrac{\\text{দ্রবের মোল}}{\\text{দ্রবণের আয়তন (L)}}\\), তাই একক mol/L।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-143",
+      "text": "\\(\\mathrm{Fe^{2+} + Sn^{4+} \\rightleftharpoons Fe^{3+} + Sn^{2+}}\\); বিক্রিয়াটিতে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Fe^{2+}}\\) জারিত হয়েছে"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{Sn^{2+}}\\) বিজারক"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Fe^{3+}}\\) একটি ইলেকট্রন গ্রহণ করেছে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Fe^{2+}}\\) জারিত হয়ে \\(\\mathrm{Fe^{3+}}\\) হয় (i সত্য)। \\(\\mathrm{Sn^{2+}}\\) ইলেকট্রন দিয়ে \\(\\mathrm{Sn^{4+}}\\) হতে পারে, তাই এটি বিজারক (ii সত্য)। \\(\\mathrm{Fe^{3+}}\\) বিক্রিয়ার উৎপাদ, ইলেকট্রন গ্রহণ করেনি; ইলেকট্রন গ্রহণ করেছে \\(\\mathrm{Sn^{4+}}\\) (iii মিথ্যা)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Fe²⁺ loses an electron (it does not gain one), so iii is wrong. Sn²⁺, the reduced form of tin, is the reducing agent of the reverse reaction."
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-144",
+      "text": "কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Na_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Na_2S_2O_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{KMnO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Na_2CO_3}\\) বিশুদ্ধ, সুস্থির ও স্থির সংযুক্তিযুক্ত হওয়ায় প্রাইমারি স্ট্যান্ডার্ড পদার্থ। অন্যগুলো এ শর্ত পূরণ করে না।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-145",
+      "text": "কোন যৌগে ক্লোরিনের জারণ মান সর্বোচ্চ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "HClO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HClO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HClO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HClO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "Cl-এর জারণ মান: HClO-তে +1, \\(\\mathrm{HClO_2}\\)-এ +3, \\(\\mathrm{HClO_3}\\)-এ +5, \\(\\mathrm{HClO_4}\\)-এ +7। সর্বোচ্চ +7।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-146",
+      "text": "\\(\\mathrm{3H_2S + 2HNO_3 \\longrightarrow 2NO + 3S + 4H_2O}\\) বিক্রিয়াটিতে \\(\\mathrm{H_2S}\\) এর ভূমিকা কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিজারক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টাইট্রেট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টাইট্রান্ট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2S}\\)-এ S-এর জারণ মান −2 থেকে 0 হয়, অর্থাৎ জারিত হয়; তাই \\(\\mathrm{H_2S}\\) বিজারক।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-147",
+      "text": "মোলার দ্রবণের ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটি একটি প্রমাণ দ্রবণ"
+        },
+        {
+          "label": "ii",
+          "text": "দ্রবণের ঘনমাত্রা 1M"
+        },
+        {
+          "label": "iii",
+          "text": "1L দ্রবণের 0.1 মোল পরিমাণ পদার্থ দ্রবীভূত থাকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "মোলার দ্রবণ হলো 1 M প্রমাণ দ্রবণ (i, ii সত্য)। 1 L দ্রবণে 0.1 মোল দ্রব থাকলে সেটি ডেসিমোলার, মোলার নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-148",
+      "text": "কোন যৌগের অণুতে নাইট্রোজেন সর্বোচ্চ জারণ অবস্থা প্রদর্শন করেছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_2OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{N_2H_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N_3H}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "N-এর জারণ মান: \\(\\mathrm{NH_2OH}\\)-এ −1, \\(\\mathrm{N_2H_4}\\)-এ −2, \\(\\mathrm{NH_3}\\)-এ −3, \\(\\mathrm{HN_3}\\)-এ \\(-\\tfrac{1}{3}\\)। এর মধ্যে সর্বোচ্চ \\(\\mathrm{N_3H}\\)-এ।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Oxidation states of N: NH₂OH −1, N₂H₄ −2, NH₃ −3, N₃H −⅓, so N₃H has the highest; the hand-marked key on the photo chose গ."
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-149",
+      "text": "\\(\\mathrm{3H_2S + 2HNO_3 \\longrightarrow 2NO + 3S + 4H_2O}\\) বিক্রিয়াটিতে \\(\\mathrm{H_2S}\\) এর ভূমিকা কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টাইট্রান্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টাইট্রেট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জারক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিজারক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2S}\\)-এ S জারিত হয়ে মুক্ত S হয় (−2 \\(\\rightarrow\\) 0), তাই \\(\\mathrm{H_2S}\\) বিজারক।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-150",
+      "text": "\\(\\mathrm{Fe^{2+} + MnO_4^- + H^+ \\rightarrow Fe^{3+} + Mn^{2+} + H_2O}\\) -এর রেডক্স বিক্রিয়ার ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{Fe^{2+}}\\) একটি জারক"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{MnO_4^-}\\)-এর \\(\\mathrm{Mn^{2+}}\\) আয়ন বিজারিত হয়েছে"
+        },
+        {
+          "label": "iii",
+          "text": "5টি ইলেকট্রন গ্রহণ করেছে।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Fe^{2+}}\\) জারিত হয়, তাই এটি বিজারক, জারক নয় (i মিথ্যা)। \\(\\mathrm{MnO_4^-}\\)-এর Mn বিজারিত হয়ে \\(\\mathrm{Mn^{2+}}\\) হয় (ii সত্য) এবং 5টি ইলেকট্রন গ্রহণ করে (+7 \\(\\rightarrow\\) +2) (iii সত্য)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-151",
+      "text": "একটি অক্সিজেন পরমাণুর ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2.66 \\times 10^{-23}\\) g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.76 \\times 10^{-23}\\) g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.33 \\times 10^{-22}\\) g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.88 \\times 10^{-22}\\) g",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "1 মোল O = 16 g, তাই একটি পরমাণুর ভর = \\(\\dfrac{16}{6.022 \\times 10^{23}} = 2.66 \\times 10^{-23}\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-152",
+      "text": "দ্রবণের মোলারিটির একক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "g/L",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "mol/L",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "mol/kg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "N/V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "মোলারিটি = মোল/লিটার, তাই একক mol/L।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-153",
+      "text": "অর্ধমোল \\(\\mathrm{CO_2}\\) গ্যাসে অক্সিজেন পরমাণুর সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2 টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.01 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(6.023 \\times 10^{23}\\) টি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "0.5 মোল \\(\\mathrm{CO_2}\\)-এ O পরমাণু = \\(0.5 \\times 2 \\times 6.023 \\times 10^{23} = 6.023 \\times 10^{23}\\)টি",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "0.5 mol CO₂ contains 0.5 × 2 = 1 mol of O atoms, i.e. 6.023 × 10²³; the hand-marked key on the photo chose গ."
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-154",
+      "text": "কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Na_2C_2O_4 \\cdot 2H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na_2S_2O_3 \\cdot 5H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{KMnO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সোডিয়াম অক্সালেট বিশুদ্ধ, সুস্থির ও স্থির সংযুক্তিযুক্ত হওয়ায় প্রাইমারি স্ট্যান্ডার্ড পদার্থ; অন্যগুলো এ শর্ত পূরণ করে না।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-155",
+      "text": "100mL সেমিমোলার দ্রবণ তৈরিতে কী পরিমাণ \\(\\mathrm{Na_2CO_3}\\) প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.53g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.06g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.30g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10.60g",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সেমিমোলার = 0.5 M\nদ্রবের ভর = \\(0.5 \\times 0.1 \\times 106 = 5.30\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-156",
+      "text": "যোজনী ও জারণ সংখ্যা উভয় শূন্য কোনটির?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Br_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Ar",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_2Cl_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "HCHO",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "Ar নিষ্ক্রিয় গ্যাস, এর যোজনী ও জারণ সংখ্যা উভয়ই শূন্য। \\(\\mathrm{Br_2}\\)-এর জারণ সংখ্যা শূন্য হলেও যোজনী 1।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-157",
+      "text": "0.05M গ্লুকোজ দ্রবণের ঘনমাত্রা ppm এককে কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "900",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4500",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "18000",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গ্লুকোজের মোলার ভর = 180\n\\(0.05 \\times 180 = 9\\ \\mathrm{g/L} = 9000\\ \\mathrm{ppm}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-158",
+      "text": "250 mL 0.5M \\(\\mathrm{H_2SO_4}\\) এর দ্রবণে \\(\\mathrm{H^+}\\) আয়নের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6.023 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.01 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(7.5 \\times 10^{22}\\) টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.5 \\times 10^{23}\\) টি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2SO_4}\\) এর মোল = \\(0.5\\times0.25=0.125\\) mol\nপ্রতি অণু থেকে 2টি \\(\\mathrm{H^+}\\), তাই \\(\\mathrm{H^+}\\) = 0.25 mol\nআয়ন সংখ্যা = \\(0.25\\times6.023\\times10^{23}=1.5\\times10^{23}\\) টি",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-159",
+      "text": "উদ্দীপকের \\(\\mathrm{CO_2}\\) এর অণুর সংখ্যা কতটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_2nd-2026-ALL-4-5-stem.svg",
+      "group": "chemistry_2nd-2026-ALL-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(6.023 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(5.33 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4.38 \\times 10^{23}\\) টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2.19 \\times 10^{23}\\) টি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CO_2}\\) এর মোল = \\(\\dfrac{16}{44}=0.3636\\) mol\nঅণুর সংখ্যা = \\(0.3636\\times6.023\\times10^{23}=2.19\\times10^{23}\\) টি",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-160",
+      "text": "কোনটি জারক ও বিজারক উভয়রূপে ক্রিয়া করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Fe^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Mg^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Zn^{2+}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Fe^{2+}}\\) এর মধ্যবর্তী জারণ অবস্থা (+2) থাকায় এটি জারিত হয়ে \\(\\mathrm{Fe^{3+}}\\) (বিজারক) এবং বিজারিত হয়ে Fe (জারক) হতে পারে। \\(\\mathrm{Cu^{2+}}\\), \\(\\mathrm{Mg^{2+}}\\), \\(\\mathrm{Zn^{2+}}\\) সাধারণত শুধু জারক হিসেবে কাজ করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-161",
+      "text": "1.06%(w/v) \\(\\mathrm{Na_2CO_3}\\) দ্রবণটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেসিমোলার দ্রবণ"
+        },
+        {
+          "label": "ii",
+          "text": "10.6 mg/ml দ্রবণ"
+        },
+        {
+          "label": "iii",
+          "text": "\\(1.06 \\times 10^{4}\\) ppm দ্রবণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "1.06% (w/v) = 1.06 g/100 mL = 10.6 g/L\n(i) মোলারিটি = \\(\\dfrac{10.6}{106}=0.1\\) M — ডেসিমোলার, সঠিক।\n(ii) 10.6 g/L = 10.6 mg/mL — সঠিক।\n(iii) 10.6 g/L = 10600 mg/L = \\(1.06\\times10^4\\) ppm — সঠিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch3-mcq-162",
+      "text": "\\(\\mathrm{NH_4OH}\\) ও HCl এর টাইট্রেশনে উপযুক্ত নির্দেশক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লিটমাস পেপার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফেনফথ্যালিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিথাইল অরেঞ্জ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "থাইমল ব্লু",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{NH_4OH}\\) দুর্বল ক্ষার ও HCl তীব্র এসিড; সমতা বিন্দুতে দ্রবণ অম্লীয় (pH < 7) হয়। মিথাইল অরেঞ্জের pH পরিসর (3.1–4.4) এই অঞ্চলে পড়ে, তাই এটিই উপযুক্ত।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

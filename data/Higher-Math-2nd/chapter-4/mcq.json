@@ -1582,6 +1582,129 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch4-mcq-040",
+      "text": "\\(2x^3 - 3x - 5 = 0\\) সমীকরণের মূলগুলি α, β, γ হলে, \\(\\dfrac{1}{\\alpha} + \\dfrac{1}{\\beta} + \\dfrac{1}{\\gamma}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{-3}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{-3}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(2x^3 + 0x^2 - 3x - 5 = 0\\) এ \\(\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = -\\dfrac{3}{2}\\) এবং \\(\\alpha\\beta\\gamma = \\dfrac{5}{2}\\)।\n\\(\\dfrac{1}{\\alpha}+\\dfrac{1}{\\beta}+\\dfrac{1}{\\gamma} = \\dfrac{\\alpha\\beta+\\beta\\gamma+\\gamma\\alpha}{\\alpha\\beta\\gamma} = \\dfrac{-3/2}{5/2} = -\\dfrac{3}{5}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch4-mcq-041",
+      "text": "f(x) এর গরিষ্ঠমান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১২ ও ১৩ নম্বর প্রশ্নের উত্তর দাও : \\(f(x) = 1 + 4x - 3x^2\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2026-ALL-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{7}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{4}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{-7}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{-4}{3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(f'(x) = 4 - 6x = 0 \\Rightarrow x = \\dfrac{2}{3}\\); \\(f''(x) = -6 < 0\\), তাই এখানে গরিষ্ঠমান।\n\\(f\\left(\\dfrac{2}{3}\\right) = 1 + \\dfrac{8}{3} - \\dfrac{4}{3} = \\dfrac{7}{3}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch4-mcq-042",
+      "text": "f(x) = 0 সমীকরণের মূল দুইটি α, β হলে −α, −β মূলবিশিষ্ট সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১২ ও ১৩ নম্বর প্রশ্নের উত্তর দাও : \\(f(x) = 1 + 4x - 3x^2\\)",
+      "stem_image": null,
+      "group": "higher_math_2nd-2026-ALL-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3x^2 + 4x - 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3x^2 + 4x + 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3x^2 - 4x - 1 = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3x^2 - 4x + 1 = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(f(x) = 0\\) থেকে \\(3x^2 - 4x - 1 = 0\\)। মূলগুলোর চিহ্ন পরিবর্তন করতে \\(x\\) এর স্থলে \\(-x\\) বসালে: \\(3x^2 + 4x - 1 = 0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

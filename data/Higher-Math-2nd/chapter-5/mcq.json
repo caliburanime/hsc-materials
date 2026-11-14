@@ -1,0 +1,85 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 5,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch5-mcq-001",
+      "text": "\\(\\left(x^2 + 2 + \\dfrac{1}{x^2}\\right)^8\\) এর বিস্তৃতিতে মধ্যপদটির মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\({}^8C_4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\({}^8C_5\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\({}^{16}C_8\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\({}^{16}C_9\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\left(x^2 + 2 + \\dfrac{1}{x^2}\\right)^8 = \\left(x + \\dfrac{1}{x}\\right)^{16}\\)। পদসংখ্যা \\(17\\), তাই মধ্যপদ \\(9\\)ম পদ।\n\\(T_9 = {}^{16}C_8 \\left(x\\right)^8\\left(\\dfrac{1}{x}\\right)^8 = {}^{16}C_8\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch5-mcq-002",
+      "text": "\\((1 - 3x)^{-1}\\) এর বিস্তৃতিতে \\(x^n\\) এর সহগ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\((-3)^n\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\((-1)^n\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3^n\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\((1-3x)^{-1} = 1 + 3x + (3x)^2 + \\cdots = \\sum (3x)^n\\)। তাই \\(x^n\\) এর সহগ \\(3^n\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

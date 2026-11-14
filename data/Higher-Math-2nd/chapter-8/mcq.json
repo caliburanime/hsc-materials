@@ -1210,6 +1210,90 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch8-mcq-031",
+      "text": "বলদ্বয়ের লব্ধির মান—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের তথ্যের আলোকে ২২ ও ২৩ নম্বর প্রশ্নের উত্তর দাও : 20N ও 10N মানের বলদ্বয় একটি বিন্দুতে পরস্পর 120° কোণে ক্রিয়াশীল।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2026-ALL-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "600N",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "300N",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(10\\sqrt{3}\\) N",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(10\\sqrt{6}\\) N",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(R^2 = 20^2 + 10^2 + 2\\cdot20\\cdot10\\cos120^\\circ = 400 + 100 - 200 = 300\\)\n\\(\\therefore R = 10\\sqrt{3}\\) N।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch8-mcq-032",
+      "text": "লব্ধি বলের ক্রিয়ারেখা বৃহত্তর বলটির সাথে কত কোণে অবস্থান করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের তথ্যের আলোকে ২২ ও ২৩ নম্বর প্রশ্নের উত্তর দাও : 20N ও 10N মানের বলদ্বয় একটি বিন্দুতে পরস্পর 120° কোণে ক্রিয়াশীল।",
+      "stem_image": null,
+      "group": "higher_math_2nd-2026-ALL-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\tan\\alpha = \\dfrac{10\\sin120^\\circ}{20 + 10\\cos120^\\circ} = \\dfrac{5\\sqrt{3}}{15} = \\dfrac{1}{\\sqrt{3}}\\)\n\\(\\therefore \\alpha = 30^\\circ\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

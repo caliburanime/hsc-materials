@@ -1518,6 +1518,182 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-037",
+      "text": "C(1, −2) এবং D(−8, 1) বিন্দুদ্বয়ের সংযোজক রেখাংশ DC কে 2 : 1 অনুপাতে অন্তর্বিভক্তকারী বিন্দুর স্থানাংক নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(−5, 0)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(−2, 0)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(−2, −1)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(−5, −1)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "D থেকে C এর দিকে \\(2:1\\) অনুপাতে অন্তর্বিভক্ত বিন্দু:\n\\(x = \\dfrac{2\\cdot1 + 1\\cdot(-8)}{3} = -2\\)\n\\(y = \\dfrac{2\\cdot(-2) + 1\\cdot1}{3} = -1\\)\nবিন্দুটি \\((-2, -1)\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-038",
+      "text": "উদ্দীপকের রেখা দুইটির মধ্যবর্তী দূরত্ব কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও : x + y = −4 ……… (i), x + y = 2 ……… (ii) দুইটি সরলরেখার সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2026-ALL-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3\\sqrt{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "রেখাদ্বয় সমান্তরাল। দূরত্ব \\(= \\dfrac{|2 - (-4)|}{\\sqrt{1^2 + 1^2}} = \\dfrac{6}{\\sqrt{2}} = 3\\sqrt{2}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-039",
+      "text": "(i) নং রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৯ ও ১০ নং প্রশ্নের উত্তর দাও : x + y = −4 ……… (i), x + y = 2 ……… (ii) দুইটি সরলরেখার সমীকরণ।",
+      "stem_image": null,
+      "group": "higher_math_1st-2026-ALL-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "4 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12 বর্গ একক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16 বর্গ একক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(x + y = -4\\) রেখাটি অক্ষদ্বয়কে \\((-4, 0)\\) ও \\((0, -4)\\) বিন্দুতে ছেদ করে।\nক্ষেত্রফল \\(= \\dfrac{1}{2}\\times4\\times4 = 8\\) বর্গ একক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch3-mcq-040",
+      "text": "\\((\\sqrt{3}, 1)\\) বিন্দু হতে \\(\\sqrt{3}x - y + 1 = 0\\) সরলরেখার উপর লম্ব অঙ্কন করা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অঙ্কিত লম্বের দৈর্ঘ্য = \\(\\dfrac{3}{2}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "লম্ব রেখার সমীকরণ \\(x + \\sqrt{3}y - 2\\sqrt{3} = 0\\)"
+        },
+        {
+          "label": "iii",
+          "text": "লম্ব রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে 150° কোণ উৎপন্ন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: লম্ব দূরত্ব \\(= \\dfrac{|3 - 1 + 1|}{\\sqrt{3 + 1}} = \\dfrac{3}{2}\\)।\n(ii) সত্য: প্রদত্ত রেখার ঢাল \\(\\sqrt{3}\\), লম্বের ঢাল \\(-\\dfrac{1}{\\sqrt{3}}\\); সমীকরণ \\(y - 1 = -\\dfrac{1}{\\sqrt{3}}(x - \\sqrt{3})\\), অর্থাৎ \\(x + \\sqrt{3}y - 2\\sqrt{3} = 0\\)।\n(iii) সত্য: \\(\\tan\\theta = -\\dfrac{1}{\\sqrt{3}}\\) হওয়ায় \\(\\theta = 150^\\circ\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

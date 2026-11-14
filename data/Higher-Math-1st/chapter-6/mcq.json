@@ -1,0 +1,46 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 6,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch6-mcq-001",
+      "text": "9 টা 20 মিনিটের সময় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী ক্ষুদ্রতম কোণ কত ডিগ্রি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "180°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "170°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "169.5°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "160°",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "৯টা ২০ মিনিটে ঘণ্টার কাঁটা ১২টা থেকে \\(9\\times30^\\circ + 20\\times0.5^\\circ = 280^\\circ\\) এবং মিনিটের কাঁটা \\(20\\times6^\\circ = 120^\\circ\\) কোণে থাকে।\nপার্থক্য \\(= 280^\\circ - 120^\\circ = 160^\\circ\\) (এটি \\(180^\\circ\\) এর কম, তাই ক্ষুদ্রতম কোণ)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

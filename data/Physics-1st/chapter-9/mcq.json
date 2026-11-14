@@ -1,0 +1,131 @@
+{
+  "subject": "physics_1st",
+  "chapter": 9,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "physics_1st-ch9-mcq-001",
+      "text": "নিচের কোনটি ত্রয়ী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "48 : 60 : 72",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "36 : 48 : 60",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "30 : 50 : 70",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20 : 30 : 4",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সুরের ত্রয়ীতে তিনটি সুরের কম্পাঙ্কের অনুপাত \\(4:5:6\\)।\n\\(48:60:72=4:5:6\\) (১২ দ্বারা ভাগ করে)। অন্যগুলো এই অনুপাত দেয় না: \\(36:48:60=3:4:5\\), \\(30:50:70=3:5:7\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch9-mcq-002",
+      "text": "মোম লাগানোর পূর্বে B এর কম্পাঙ্ক কত ছিল?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও : A ও B কে একত্রে শব্দায়িত করলে 8টি বিট উৎপন্ন হয়। B এর বাহুতে সামান্য মোম লাগিয়ে A ও B কে শব্দায়িত করলে প্রতি সেকেন্ডে 6টি বিট উৎপন্ন হয়। A এর কম্পাঙ্ক 100 Hz।",
+      "stem_image": null,
+      "group": "physics_1st-2026-ALL-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "92 Hz",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "94Hz",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "106 Hz",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "108 Hz",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বিট সংখ্যা \\(=|f_B-f_A|\\)। মোম লাগালে B এর কম্পাঙ্ক কমে। বিট 8 থেকে 6 এ কমেছে, অর্থাৎ \\(f_B\\) কমে \\(f_A\\) এর কাছে এসেছে; তাই \\(f_B>f_A\\)।\n\\(f_B=f_A+8=100+8=108\\,\\mathrm{Hz}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "B is 100 ± 8 Hz. Wax lowers B's frequency, and the beats fall from 8 to 6, so B must have been above A: 108 Hz."
+    },
+    {
+      "id": "physics_1st-ch9-mcq-003",
+      "text": "B এর বাহুতে মোম লাগানোর পর A ও B এর কম্পাঙ্কের অণুপাত কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ৭ ও ৮নং প্রশ্নের উত্তর দাও : A ও B কে একত্রে শব্দায়িত করলে 8টি বিট উৎপন্ন হয়। B এর বাহুতে সামান্য মোম লাগিয়ে A ও B কে শব্দায়িত করলে প্রতি সেকেন্ডে 6টি বিট উৎপন্ন হয়। A এর কম্পাঙ্ক 100 Hz।",
+      "stem_image": null,
+      "group": "physics_1st-2026-ALL-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "10 : 11",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "11 : 10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50 : 53",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "53 : 50",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মোম লাগানোর পর B এর কম্পাঙ্ক \\(f_B'=100+6=106\\,\\mathrm{Hz}\\)\n\\(f_A:f_B'=100:106=50:53\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

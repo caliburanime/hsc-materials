@@ -1826,6 +1826,45 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch1-mcq-043",
+      "text": "80S মানের একটি রাইবোসোমের একটি উপ-একক 40S হলে অন্য উপ-এককের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30S",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "40S",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50S",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "60S",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "রাইবোসোমের দুটি উপ-একক মিলে 80S হয় (S মান অবক্ষেপণ হার, তাই সরল যোগফল নয়)। একটি উপ-একক 40S হলে অপরটি 60S; ইউক্যারিওটে 60S + 40S = 80S।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

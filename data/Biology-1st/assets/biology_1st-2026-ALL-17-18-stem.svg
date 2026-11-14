@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 200" width="280" height="200">
+<rect width="280" height="200" fill="#fff"/>
+<defs><pattern id="h" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#111"/><circle cx="2" cy="2" r="0.8" fill="#fff"/></pattern></defs>
+<g fill="none" stroke="#111" stroke-width="1.5">
+<circle cx="110" cy="88" r="62"/><circle cx="110" cy="88" r="50"/>
+</g>
+<!-- shaded segment P: angles -50 to +35 deg -->
+<path id="p" fill="url(#h)" stroke="#111" stroke-width="1.5" d="M141.0 34.3 A62 62 0 0 1 157.5 127.9 L148.3 120.1 A50 50 0 0 0 135.0 44.7 Z" transform="rotate(0)"/>
+<path d="M170 88 L225 88" stroke="#111" stroke-width="1.5"/>
+<text x="231" y="93" font-family="serif" font-style="italic" font-size="16" fill="#111">P</text>
+<text x="110" y="180" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="14" text-anchor="middle" fill="#111">চিত্র : G</text>
+</svg>

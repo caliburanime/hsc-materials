@@ -4938,6 +4938,1872 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-121",
+      "text": "সন্ধি তাপমাত্রার নিচে পদার্থের অবস্থা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাষ্প",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তরল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরল স্ফটিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্লাজমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সন্ধি তাপমাত্রার নিচে পদার্থ বাষ্প অবস্থায় থাকে এবং শুধু চাপ প্রয়োগেই একে তরলে পরিণত করা যায়; এর উপরে এটি গ্যাস, যাকে চাপ দিয়ে তরল করা যায় না।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Below its critical temperature a gas is called a vapour, which can be liquefied by pressure alone."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-122",
+      "text": "\\(\\mathrm{4g\\,H_2}\\) গ্যাসের অবস্থার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\left(P + \\dfrac{n^2a}{V^2}\\right)(V - nb) = nRT\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\left(P + \\dfrac{2a}{V^2}\\right)(V - 2b) = 2RT\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\left(P + \\dfrac{4a}{V^2}\\right)(V - 2b) = 2RT\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(P + \\dfrac{4a}{V^2}\\right)(V - b) = RT\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "4 g \\(\\mathrm{H_2}\\) = \\(\\dfrac{4}{2} = 2\\) mol, অর্থাৎ \\(n = 2\\)।\nভ্যান্ডারওয়ালস সমীকরণ \\(\\left(P + \\dfrac{n^2a}{V^2}\\right)(V - nb) = nRT\\) এ \\(n = 2\\) বসালে \\(\\left(P + \\dfrac{4a}{V^2}\\right)(V - 2b) = 2RT\\) পাওয়া যায়।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-123",
+      "text": "SATP ও STP তে তাপমাত্রার পার্থক্য কত °C?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "273",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "25",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−273",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "STP তে তাপমাত্রা 0°C এবং SATP তে 25°C; তাই পার্থক্য \\(25 - 0 = 25\\)°C।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-124",
+      "text": "নিচের কোনটি গ্রাহামের ব্যাপন সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(r_1\\sqrt{M_1} = r_2\\sqrt{M_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(r \\propto \\dfrac{1}{M}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{r_1}{r_2} = \\dfrac{\\sqrt{M_1}}{\\sqrt{M_2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(r \\propto \\sqrt{M}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গ্রাহামের সূত্রানুসারে \\(\\dfrac{r_1}{r_2} = \\sqrt{\\dfrac{M_2}{M_1}}\\), অর্থাৎ \\(r_1\\sqrt{M_1} = r_2\\sqrt{M_2}\\)। (গ) এ ভর উল্টো বসানো হয়েছে, (খ) ও (ঘ) সূত্র নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2022",
+          "qno": 14,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-125",
+      "text": "এসিড বৃষ্টির বেলায় অধঃক্ষেপণ সৃষ্টিতে pH এর মান কত হতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6.9",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "5.8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.3",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "এসিড বৃষ্টির pH সাধারণত 5.6 এর কম হয়। দেওয়া মানগুলোর মধ্যে কেবল 5.3 এই শর্ত পূরণ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-126",
+      "text": "প্রমাণ অবস্থায় 10.0L \\(\\mathrm{CH_4}\\) গ্যাসে অণুর সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(0.2689 \\times 10^{23}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.689 \\times 10^{23}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(26.89 \\times 10^{23}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.02689 \\times 10^{23}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "প্রমাণ অবস্থায় 22.4 L গ্যাসে অণু \\(6.022 \\times 10^{23}\\) টি।\n10.0 L এ অণুর সংখ্যা = \\(\\dfrac{10.0}{22.4} \\times 6.022 \\times 10^{23} = 2.689 \\times 10^{23}\\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-127",
+      "text": "\\(\\mathrm{NH_3}\\) ক্ষারধর্মী কারণ এটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জোড় ইলেক্ট্রন দাতা"
+        },
+        {
+          "label": "ii",
+          "text": "এসিডের সাথে বিক্রিয়া করে"
+        },
+        {
+          "label": "iii",
+          "text": "প্রোটন গ্রহীতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{NH_3}\\) এর N পরমাণুতে একজোড় নিঃসঙ্গ ইলেক্ট্রন আছে, তাই এটি জোড় ইলেক্ট্রন দাতা (i সত্য)। এটি প্রোটন গ্রহণ করে \\(\\mathrm{NH_4^+}\\) গঠন করে (iii সত্য) এবং এসিডের সাথে বিক্রিয়া করে লবণ গঠন করে (ii সত্য)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-128",
+      "text": "কোনটি লুইস ক্ষারক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{AlCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{BF_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "লুইস ক্ষারক হলো জোড় ইলেক্ট্রন দাতা। \\(\\mathrm{H_2O}\\) এর O এ নিঃসঙ্গ ইলেক্ট্রন জোড় আছে; \\(\\mathrm{AlCl_3}\\), \\(\\mathrm{BF_3}\\) ও \\(\\mathrm{H^+}\\) ইলেক্ট্রন গ্রহীতা (লুইস এসিড)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-129",
+      "text": "আদর্শ গ্যাসের বৈশিষ্ট্যসূচক মানদণ্ড হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "PV = nRT"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\left(\\dfrac{du}{dv}\\right)_T = 0\\)"
+        },
+        {
+          "label": "iii",
+          "text": "STP তে মোলার আয়তন 22.414L"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "আদর্শ গ্যাস \\(PV = nRT\\) মেনে চলে (i), এর অভ্যন্তরীণ শক্তি আয়তনের উপর নির্ভর করে না, অর্থাৎ \\(\\left(\\dfrac{\\partial U}{\\partial V}\\right)_T = 0\\) (ii), এবং STP তে এর মোলার আয়তন 22.414 L (iii)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-130",
+      "text": "উদ্দীপকটি লক্ষ্য কর : কোন গ্যাসটি সবার আগে তরলীভূত হবে?",
+      "text_en": null,
+      "image": "assets/chemistry_2nd-ch1-mcq-130-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "A",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "D",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(PV\\)–\\(P\\) লেখচিত্রে C আদর্শ গ্যাস (অনুভূমিক রেখা)। D গ্যাসের \\(PV\\) প্রথমে আদর্শ মানের নিচে নামে, অর্থাৎ আন্তঃআণবিক আকর্ষণ সবচেয়ে বেশি। তাই D সহজে ও সবার আগে তরলীভূত হবে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The dip in D's curve shows strong intermolecular attraction (PV falls below the ideal value), so D is the most easily liquefied; C behaves ideally."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-131",
+      "text": "কোন গ্যাসের তাপমাত্রা ও চাপ দ্বিগুণ করা হলে আয়তনের কী পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্বিগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কোন পরিবর্তন হবে না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চারগুণ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্ধেক হবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(V = \\dfrac{nRT}{P}\\)। \\(T\\) ও \\(P\\) উভয়কে দ্বিগুণ করলে অনুপাত \\(\\dfrac{T}{P}\\) অপরিবর্তিত থাকে, তাই আয়তনের কোনো পরিবর্তন হবে না।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-132",
+      "text": "\\(\\mathrm{SO_3^{2-}}\\) এর অনুবন্ধী এসিড কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HSO_4^-}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HSO_3^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ক্ষারক প্রোটন গ্রহণ করে অনুবন্ধী এসিডে পরিণত হয়: \\(\\mathrm{SO_3^{2-} + H^+ \\rightarrow HSO_3^-}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-133",
+      "text": "পানীয় জলে WHO অনুমোদিত COD এর সর্বোচ্চ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6 ppm",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10 ppm",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "100 ppm",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "500 ppm",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "WHO অনুযায়ী পানীয় জলে COD এর সর্বোচ্চ অনুমোদিত মান 10 ppm।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-134",
+      "text": "নিচের কোনটি তীব্র এসিড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HClO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HIO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অক্সো-এসিডে কেন্দ্রীয় পরমাণুর সাথে অক্সিজেন সংখ্যা বেশি ও কেন্দ্রীয় পরমাণু বেশি তড়িৎঋণাত্মক হলে এসিড তীব্র হয়। \\(\\mathrm{HClO_4}\\) তে Cl এর জারণ সংখ্যা +7 এবং চারটি O আছে, তাই এটি সবচেয়ে তীব্র এসিড (প্রচলিত শক্তিশালী এসিড)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-135",
+      "text": "কোনটি পরমশূন্য তাপমাত্রা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "25°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "273K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−273°C",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পরমশূন্য তাপমাত্রা 0 K = −273°C। 273 K হলো 0°C, তাই (গ) নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-136",
+      "text": "নিচের লেখচিত্রটি গ্যাসের কোন সূত্রকে সমর্থন করে?",
+      "text_en": null,
+      "image": "assets/chemistry_2nd-ch1-mcq-136-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "বয়েলের সূত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গেলুসাকের সূত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চার্লসের সূত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অ্যাভোগেড্রো সূত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "লেখচিত্রে \\(V\\)–\\(T\\) সরলরেখা মূলবিন্দুগামী (\\(\\dfrac{V}{T}\\) = ধ্রুব, যেমন \\(\\dfrac{4}{100} = \\dfrac{8}{200}\\))। স্থির চাপে আয়তন পরম তাপমাত্রার সমানুপাতিক, এটি চার্লসের সূত্র।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-137",
+      "text": "কল-কারখানা অঞ্চলের এসিড বৃষ্টির পানির pH এর সীমা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5.6—3.5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6.5—4.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6.6—3.8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "5.6—4.7",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কল-কারখানা অঞ্চলে বায়ুতে \\(\\mathrm{SO_2}\\), \\(\\mathrm{NO_x}\\) বেশি থাকায় এসিড বৃষ্টির pH সীমা 5.6 থেকে 3.5 পর্যন্ত হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-138",
+      "text": "কোনটি লুইস ক্ষারক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{BF_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{AlCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{FeCl_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2O}\\) এর অক্সিজেনে নিঃসঙ্গ ইলেক্ট্রন জোড় থাকায় এটি জোড় ইলেক্ট্রন দাতা, অর্থাৎ লুইস ক্ষারক। বাকিগুলো ইলেক্ট্রন-ঘাটতি যৌগ (লুইস এসিড)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-139",
+      "text": "গ্রিন হাউজ গ্যাসের মধ্যে নিম্নের কোনটি বায়ুমণ্ডলে সবচেয়ে বেশি থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{O_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CFC",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বায়ুমণ্ডলে গ্রিন হাউজ গ্যাসগুলোর মধ্যে \\(\\mathrm{CO_2}\\) এর পরিমাণ সবচেয়ে বেশি।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-140",
+      "text": "নিচের কোনটি লুইস এসিড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{AlCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_3PO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{AlCl_3}\\) এর Al এর অষ্টক অপূর্ণ, তাই এটি জোড় ইলেক্ট্রন গ্রহণ করতে পারে; ফলে এটি লুইস এসিড। \\(\\mathrm{NH_3}\\) লুইস ক্ষারক।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-141",
+      "text": "\\(\\mathrm{HSO_4^-}\\) এর অনুবন্ধী ক্ষারক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{SO_4^{2-}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{SO_3^{2-}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "এসিড প্রোটন ত্যাগ করে অনুবন্ধী ক্ষারক গঠন করে: \\(\\mathrm{HSO_4^- \\rightarrow H^+ + SO_4^{2-}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Removing a proton from HSO₄⁻ gives its conjugate base SO₄²⁻; H₂SO₄ (the hand-marked choice) is its conjugate acid."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-142",
+      "text": "0° সেঃ তাপমাত্রায় একটি গ্যাসের বর্গমূল গড় বর্গবেগ প্রতি সেকেন্ডে 49330cm. গ্যাসটির আণবিক ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "52",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "32",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "28",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(C_{rms} = \\sqrt{\\dfrac{3RT}{M}}\\) থেকে \\(M = \\dfrac{3RT}{C^2}\\)\n\\(= \\dfrac{3 \\times 8.314 \\times 10^7 \\times 273}{(49330)^2} \\approx 28\\) g/mol\n(\\(R = 8.314 \\times 10^7\\) erg K⁻¹mol⁻¹)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-143",
+      "text": "কোনটির সর্বোচ্চ ব্যাপন হার বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অক্সিজেন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিথেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাইড্রোজেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইথেন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ব্যাপন হার \\(\\propto \\dfrac{1}{\\sqrt{M}}\\)। হাইড্রোজেনের আণবিক ভর সবচেয়ে কম (2), তাই এর ব্যাপন হার সর্বোচ্চ।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-144",
+      "text": "পানিতে দ্রবীভূত অক্সিজেন কী নামে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "COD",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "TDS",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "BOD",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "DO",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পানিতে দ্রবীভূত অক্সিজেনকে DO (Dissolved Oxygen) বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-145",
+      "text": "1.5atm চাপে 25°C তাপমাত্রায় একটি গ্যাসের আয়তন 0.5L হলে উক্ত তাপমাত্রায় দ্বিগুণ চাপে গ্যাসটির আয়তন কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.45 L",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.35 L",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.25 L",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.15 L",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "বয়েলের সূত্র: \\(P_1V_1 = P_2V_2\\)\n\\(1.5 \\times 0.5 = 3 \\times V_2\\)\n\\(V_2 = \\dfrac{0.75}{3} = 0.25\\) L",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-146",
+      "text": "আদর্শ গ্যাসের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "PV = nRT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(PV = \\dfrac{1}{3}mNC^2\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "PV = T",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(P_1V_1 = P_2V_2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আদর্শ গ্যাসের সমীকরণ \\(PV = nRT\\)। (খ) গতিতত্ত্বের সমীকরণ, (ঘ) বয়েলের সূত্রের গাণিতিক রূপ।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-147",
+      "text": "1 atm = কত প্যাসকেল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.01325 \\times 10^{2}\\) pa",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.01325 \\times 10^{-2}\\) pa",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1.01325 \\times 10^{5}\\) pa",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.01325 \\times 10^{-5}\\) pa",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "1 atm = 760 mmHg = \\(1.01325 \\times 10^5\\) Pa।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-148",
+      "text": "১ মোল গ্যাসের গতিশক্তি হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{3RT}{N_A}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{3nRT}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3R}{N_A}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3RT}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "গ্যাসের প্রতি মোলের গতিশক্তি \\(E_k = \\dfrac{3}{2}RT\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-149",
+      "text": "\\(\\mathrm{NO_2^-}\\) আয়নের অনুবন্ধী অম্ল হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{HNO_2^-}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NO_3^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ক্ষারক প্রোটন গ্রহণ করে অনুবন্ধী অম্লে পরিণত হয়: \\(\\mathrm{NO_2^- + H^+ \\rightarrow HNO_2}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-150",
+      "text": "Q বিন্দুতে তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_2nd-ch1-mcq-150-stem.svg",
+      "group": "chemistry_2nd-2022-MB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "−300°C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0°C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−273°C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100°C",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "আয়তন–তাপমাত্রা লেখচিত্রকে পিছনে বাড়ালে যে বিন্দুতে আয়তন শূন্য হয় সেটি পরম শূন্য তাপমাত্রা, অর্থাৎ Q = −273°C।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-151",
+      "text": "বয়েলের সূত্রের সাথে উদ্দীপকের চিত্রের সমন্বয় গঠিত সম্পর্ক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_2nd-ch1-mcq-150-stem.svg",
+      "group": "chemistry_2nd-2022-MB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "PV = K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "PV = KT",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{P}{T} = K\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{V}{T} = K\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বয়েলের সূত্র: \\(V \\propto \\dfrac{1}{P}\\) (স্থির \\(T\\))। উদ্দীপকের চিত্র চার্লসের সূত্র: \\(V \\propto T\\) (স্থির \\(P\\))। দুটি মিলিয়ে \\(V \\propto \\dfrac{T}{P}\\), অর্থাৎ \\(PV = KT\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The graph shows Charles's law (V ∝ T); combining it with Boyle's law (PV = constant) gives the combined gas law PV = KT."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-152",
+      "text": "নিচের কোন গ্যাসটির ব্যাপন হার সর্বাধিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{SO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CO_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ব্যাপন হার \\(\\propto \\dfrac{1}{\\sqrt{M}}\\)। \\(\\mathrm{CH_4}\\) (16), \\(\\mathrm{NH_3}\\) (17), \\(\\mathrm{CO_2}\\) (44), \\(\\mathrm{SO_2}\\) (64) এর মধ্যে \\(\\mathrm{CH_4}\\) এর আণবিক ভর সবচেয়ে কম, তাই ব্যাপন হার সর্বাধিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-153",
+      "text": "গ্যাসের গতিশক্তি নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ ও আয়তনের উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাপমাত্রা ও গ্যাসের প্রকৃতির উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাপ ও তাপমাত্রার উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্যাসের প্রকৃতি ও ঘনত্বের উপর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গ্যাসের মোট গতিশক্তি \\(E = \\dfrac{3}{2}PV\\), তাই এটি চাপ ও আয়তনের উপর নির্ভর করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "From the kinetic theory PV = (2/3)E, so the total kinetic energy of a gas sample is E = (3/2)PV. It does not depend on the nature of the gas (the hand-marked key on the photo chose খ); per mole it depends only on temperature."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-154",
+      "text": "জৈব ও অজৈব উভয় ধরনের দূষণ ভাঙনের জন্য \\(\\mathrm{O_2}\\) এর পরিমাণ নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "pH",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "DO",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "COD",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "BOD",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "COD (রাসায়নিক অক্সিজেন চাহিদা) জৈব ও অজৈব উভয় দূষণ জারণের জন্য প্রয়োজনীয় অক্সিজেনের পরিমাণ নির্দেশ করে; BOD শুধু জৈব দূষণের জন্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-155",
+      "text": "18°C তাপমাত্রায় 0.8 atm চাপে কোনো গ্যাসের ঘনত্ব 2.25 g/L, এর আণবিক ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "67.11 g/mol",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "36.24 g/mol",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24.36 g/mol",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "23.63 g/mol",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(M = \\dfrac{dRT}{P}\\)\n\\(= \\dfrac{2.25 \\times 0.0821 \\times 291}{0.8}\\)\n\\(\\approx 67.1\\) g/mol",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-156",
+      "text": "কোনটি তীব্র এসিড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{HNO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H_2SO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{H_2SO_4}\\) তীব্র এসিড। \\(\\mathrm{HNO_2}\\) ও \\(\\mathrm{H_2SO_3}\\) দুর্বল এসিড; কেন্দ্রীয় পরমাণুতে অক্সিজেন সংখ্যা বেশি হলে এসিড শক্তি বেশি হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-157",
+      "text": "উদ্দীপকের কোনটিকে উভধর্মী পদার্থ বলা যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পড়ে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও : (i) \\(\\mathrm{NH_3 + HCO_3^- \\rightleftharpoons NH_4^+ + CO_3^{2-}}\\) (ii) \\(\\mathrm{HCO_3^- + H_2O \\rightleftharpoons H_2CO_3 + OH^-}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-CUB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H_2O}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CO_3^{2-}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HCO_3^-}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "উভধর্মী পদার্থ এসিড ও ক্ষারক উভয়ভাবে আচরণ করে। (i) এ \\(\\mathrm{HCO_3^-}\\) প্রোটন দান করে এসিড হিসেবে, (ii) এ প্রোটন গ্রহণ করে ক্ষারক হিসেবে আচরণ করেছে। তাই এটি উভধর্মী।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-158",
+      "text": "(i) ও (ii) নং বিক্রিয়ার মূল পার্থক্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পড়ে ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও : (i) \\(\\mathrm{NH_3 + HCO_3^- \\rightleftharpoons NH_4^+ + CO_3^{2-}}\\) (ii) \\(\\mathrm{HCO_3^- + H_2O \\rightleftharpoons H_2CO_3 + OH^-}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-CUB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "জলীয় দ্রবণ"
+        },
+        {
+          "label": "ii",
+          "text": "pH"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{H^+}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "(i) এ \\(\\mathrm{HCO_3^-}\\) \\(\\mathrm{H^+}\\) দান করেছে, আর (ii) এ \\(\\mathrm{H^+}\\) গ্রহণ করেছে। অর্থাৎ মূল পার্থক্য \\(\\mathrm{H^+}\\) এর দান ও গ্রহণ।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "In (i) HCO₃⁻ gives up an H⁺ (acts as an acid) and in (ii) it takes one (acts as a base), so the difference lies in the transfer of H⁺."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-159",
+      "text": "কোনটি পানির অস্থায়ী খরতার জন্য দায়ী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CaCO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{AlCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Mg(HCO_3)_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{FeSO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অস্থায়ী খরতা \\(\\mathrm{Ca(HCO_3)_2}\\) ও \\(\\mathrm{Mg(HCO_3)_2}\\) এর কারণে হয়; ফুটালে এগুলো অধঃক্ষিপ্ত হয়ে যায়।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-160",
+      "text": "HBr দ্রবণে ফেনলফথালিন কী বর্ণ ধারণ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হলুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গোলাপী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্ণহীন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ফেনলফথালিন এসিডীয় মাধ্যমে বর্ণহীন থাকে। HBr একটি তীব্র এসিড, তাই দ্রবণ বর্ণহীন।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-161",
+      "text": "মোলার গ্যাস ধ্রুবক R-এর SI একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{L\\,atm\\,K^{-1}mol^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{J\\,K^{-1}mol^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{erg\\,K^{-1}mol^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{cal\\,K^{-1}mol^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(R = 8.314\\) J K⁻¹mol⁻¹ হলো SI এককে R এর মান।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-162",
+      "text": "কোনটি লুইস ক্ষারক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "CO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{BF_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{BeCl_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{SO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "CO এর কার্বন পরমাণুতে একজোড় নিঃসঙ্গ ইলেক্ট্রন আছে, তাই এটি জোড় ইলেক্ট্রন দিতে পারে (লুইস ক্ষারক)। \\(\\mathrm{BF_3}\\), \\(\\mathrm{BeCl_2}\\), \\(\\mathrm{SO_3}\\) ইলেক্ট্রন-ঘাটতি যৌগ, অর্থাৎ লুইস এসিড।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-163",
+      "text": "একটি গ্যাসের ব্যাপণ হার \\(\\mathrm{CO_2}\\) গ্যাসের 4.691 গুণ হলে উক্ত গ্যাসের আণবিক ভর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "28",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "32",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গ্রাহামের সূত্র অনুযায়ী \\(\\dfrac{r_x}{r_{CO_2}}=\\sqrt{\\dfrac{M_{CO_2}}{M_x}}\\)\nবা, \\(4.691=\\sqrt{\\dfrac{44}{M_x}}\\)\nবা, \\(M_x=\\dfrac{44}{(4.691)^2}=\\dfrac{44}{22}=2\\)\nঅতএব গ্যাসটির আণবিক ভর 2 (H₂)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-164",
+      "text": "উদ্দীপকের গ্যাসসমূহের গতিশক্তির সঠিক ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/chemistry_2nd-2026-ALL-4-5-stem.svg",
+      "group": "chemistry_2nd-2026-ALL-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Ne > O_2 > CO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Ne > CO_2 > O_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CO_2 > O_2 > Ne}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{O_2 > CO_2 > Ne}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "একই তাপমাত্রায় প্রতি মোল গ্যাসের গতিশক্তি সমান (\\(\\tfrac{3}{2}RT\\)), তাই মোট গতিশক্তি মোল সংখ্যার সমানুপাতিক।\nNe = \\(\\dfrac{14}{20}=0.7\\) mol, \\(\\mathrm{O_2}\\) = \\(\\dfrac{12}{32}=0.375\\) mol, \\(\\mathrm{CO_2}\\) = \\(\\dfrac{16}{44}=0.364\\) mol\nঅতএব গতিশক্তির ক্রম: \\(\\mathrm{Ne > O_2 > CO_2}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "At the same temperature the total kinetic energy (3/2)nRT is proportional to the number of moles: Ne 0.70, O₂ 0.375, CO₂ 0.364 mol."
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-165",
+      "text": "কোন লবণের উপস্থিতিতে পানিতে অস্থায়ী খরতা সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NaHCO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Ca(HCO_3)_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{FeSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{MgSO_4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Ca(HCO_3)_2}\\) ফুটালে \\(\\mathrm{CaCO_3}\\) হিসেবে অধঃক্ষিপ্ত হয়ে সরে যায়, তাই এটি অস্থায়ী খরতা সৃষ্টি করে। \\(\\mathrm{FeSO_4}\\) ও \\(\\mathrm{MgSO_4}\\) স্থায়ী খরতা সৃষ্টি করে; \\(\\mathrm{NaHCO_3}\\) খরতা সৃষ্টি করে না।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch1-mcq-166",
+      "text": "STP তে নিচের কোন গ্যাসের RMS বেগ অধিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{SO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "RMS বেগ \\(\\propto \\sqrt{\\dfrac{T}{M}}\\); একই তাপমাত্রায় আণবিক ভর যত কম, RMS বেগ তত বেশি। \\(\\mathrm{CO_2}\\) (44), \\(\\mathrm{SO_2}\\) (64), \\(\\mathrm{NH_3}\\) (17), \\(\\mathrm{N_2}\\) (28)-এর মধ্যে \\(\\mathrm{NH_3}\\)-এর আণবিক ভর সবচেয়ে কম।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

@@ -3451,6 +3451,977 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-084",
+      "text": "ফ্রেনেল শ্রেণির অপবর্তনে আপতিত তরঙ্গমুখের আকৃতি হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "গোলীয়"
+        },
+        {
+          "label": "ii",
+          "text": "সমতল"
+        },
+        {
+          "label": "iii",
+          "text": "সিলিন্ডার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ফ্রেনেল শ্রেণির অপবর্তনে উৎস বা পর্দা অসীম দূরত্বে থাকে না; আপতিত তরঙ্গমুখ গোলীয় (বিন্দু উৎসের ক্ষেত্রে) অথবা বেলনাকার/সিলিন্ডার (রেখা উৎসের ক্ষেত্রে) হয়। সমতল তরঙ্গমুখ ফ্রনহফার শ্রেণির বৈশিষ্ট্য।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-085",
+      "text": "চিত্রে P বিন্দুতে গঠনমূলক ব্যতিচার হলে \\(S_1\\) ও \\(S_2\\) উৎস থেকে নিঃসৃত তরঙ্গদ্বয়ের দশা পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১১ ও ১২ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/physics_2nd-ch7-mcq-085-stem.svg",
+      "group": "physics_2nd-2022-BB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গঠনমূলক ব্যতিচারে পথ পার্থক্য \\( n\\lambda \\) এবং দশা পার্থক্য \\( \\dfrac{2\\pi}{\\lambda}\\times n\\lambda=2n\\pi \\)। চিত্রে P প্রথম উজ্জ্বল ডোরা (n = 1), তাই দশা পার্থক্য \\( 2\\pi \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Constructive interference needs a phase difference of 2nπ, so 2π is the only possible choice; the hand-marked key on the photo chose খ."
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-086",
+      "text": "চিত্রে Q বিন্দুতে প্রথম অন্ধকার ডোরা সৃষ্টি হলে এর পথ পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১১ ও ১২ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/physics_2nd-ch7-mcq-085-stem.svg",
+      "group": "physics_2nd-2022-BB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\lambda}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\lambda}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\lambda}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "প্রথম অন্ধকার ডোরায় পথ পার্থক্য \\( (2n+1)\\dfrac{\\lambda}{2} \\), n = 0 হলে \\( \\dfrac{\\lambda}{2} \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The first dark fringe is where the path difference is λ/2; the hand-marked key on the photo chose খ."
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-087",
+      "text": "ইয়ংয়ের দ্বি-চিড় পরীক্ষায় ধ্বংসাত্মক ব্যতিচার সৃষ্টির জন্য দশা পার্থক্য হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi n\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2n\\left(\\dfrac{\\lambda}{2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\((2n+1)\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\left(n+\\dfrac{1}{2}\\right)\\lambda\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ধ্বংসাত্মক ব্যতিচারে পথ পার্থক্য \\( (2n+1)\\dfrac{\\lambda}{2} \\), তাই দশা পার্থক্য \\( \\dfrac{2\\pi}{\\lambda}\\times(2n+1)\\dfrac{\\lambda}{2}=(2n+1)\\pi \\)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-088",
+      "text": "সরু চিড়ের মধ্য দিয়ে গমনের পর আলোক রশ্মি জ্যামিতিক ছায়া অঞ্চলে প্রবেশ করাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিচ্ছুরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপবর্তন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমবর্তন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "আলো সরু চিড় বা প্রতিবন্ধকের কিনারা দিয়ে যাওয়ার পর জ্যামিতিক ছায়া অঞ্চলে বেঁকে প্রবেশ করার ঘটনাকে অপবর্তন বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-089",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় কোন বর্ণের আলো ব্যবহার করলে ব্যতিচার ডোরার বিস্তার সবচেয়ে কম হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সবুজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বেগুনি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কমলা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ডোরার বিস্তার (প্রস্থ) \\( \\beta=\\dfrac{\\lambda D}{d} \\), অর্থাৎ \\( \\beta\\propto\\lambda \\)। দৃশ্যমান আলোর মধ্যে বেগুনির তরঙ্গদৈর্ঘ্য সবচেয়ে কম, তাই এর ডোরা সবচেয়ে সরু।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-090",
+      "text": "তরঙ্গের দুটি বিন্দুর দূরত্ব \\(\\dfrac{3\\lambda}{2}\\) হলে তাদের দশা পার্থক্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\pi\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{3\\pi}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "দশা পার্থক্য \\( \\delta=\\dfrac{2\\pi}{\\lambda}\\times\\dfrac{3\\lambda}{2}=3\\pi \\)\n\\( 3\\pi=2\\pi+\\pi \\) হওয়ায় দশার দিক থেকে এটি \\( \\pi \\)-এর সমতুল্য (বিপরীত দশা)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "δ = (2π/λ)(3λ/2) = 3π, which is the same phase as π; 3π is not printed, so গ is the intended answer."
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-091",
+      "text": "নিচের কোনটি দ্বারা আলোর প্রতিফলন ও প্রতিসরণের সূত্র প্রমাণ করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাইগেনস এর নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফার্মাটের নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউটনের কণা তত্ত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোরের অনুরূপতার নীতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "হাইগেনসের নীতি ও ফার্মাটের নীতি এবং নিউটনের কণা তত্ত্ব দিয়ে প্রতিফলন ও প্রতিসরণের সূত্র প্রমাণ করা যায়। বোরের অনুরূপতার নীতি কোয়ান্টাম ও চিরায়ত বলবিদ্যার সম্পর্কের নীতি; আলোর প্রতিফলন-প্রতিসরণের সাথে এর সম্পর্ক নেই।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-092",
+      "text": "সুসংগত আলোর উৎসের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎস দুটি ক্ষুদ্র হবে"
+        },
+        {
+          "label": "ii",
+          "text": "উৎস হতে সমান তরঙ্গ দৈর্ঘ্যের তরঙ্গ নির্গত হবে"
+        },
+        {
+          "label": "iii",
+          "text": "উৎস দুটি পরস্পর থেকে স্বল্প দূরে হতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: উৎস দুটি ক্ষুদ্র (বিন্দুসদৃশ) হতে হবে।\n(ii) সত্য: একই তরঙ্গদৈর্ঘ্য (একবর্ণী) হতে হবে।\n(iii) সত্য: উৎস দুটি পরস্পরের কাছাকাছি থাকতে হবে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-093",
+      "text": "মাধ্যমের পরিবর্তন হলে আলোর বৈশিষ্ট্যের কী পরিবর্তন ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কম্পাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্ণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরঙ্গ দৈর্ঘ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোনোটিই না",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "এক মাধ্যম থেকে অন্য মাধ্যমে গেলে আলোর কম্পাঙ্ক ও বর্ণ অপরিবর্তিত থাকে; বেগ বদলায় বলে (\\( v=f\\lambda \\)) তরঙ্গদৈর্ঘ্য বদলায়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-094",
+      "text": "কোনো সুসংগত উৎস হতে নির্গত তরঙ্গদ্বয় সমদশায় মিলিত হবে যদি তরঙ্গদ্বয়ের পথ পার্থক্য—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\lambda}{2}\\) এর যুগ্ম গুণিতক হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\lambda}{2}\\) এর অযুগ্ম গুণিতক হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\lambda}{4}\\) এর যুগ্ম গুণিতক হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\lambda}{4}\\) এর অযুগ্ম গুণিতক হয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সমদশায় মিলনের জন্য পথ পার্থক্য \\( n\\lambda=2n\\cdot\\dfrac{\\lambda}{2} \\), অর্থাৎ \\( \\dfrac{\\lambda}{2} \\)-এর যুগ্ম গুণিতক।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-095",
+      "text": "পানির প্রতিসরাঙ্ক 1.33। পানিতে সমাবর্তন কোণে আলোকরশ্মি আপতিত করলে প্রতিসরণ কোণ হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "53°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "37°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "26°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সমাবর্তন কোণে \\( \\tan i_p=n=1.33 \\), তাই \\( i_p\\approx53^\\circ \\)।\nএ অবস্থায় প্রতিসরণ কোণ \\( r=90^\\circ-i_p=90^\\circ-53^\\circ=37^\\circ \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-096",
+      "text": "ইয়ং এর দ্বি-চির পরীক্ষায় চির হতে পর্দার দূরত্ব হ্রাস করা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঝালরের প্রস্থ হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "ডোরা ব্যবধান হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "ঝালরের কৌণিক বেধ হ্রাস পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ডোরার প্রস্থ \\( \\beta=\\dfrac{\\lambda D}{d} \\); D কমলে β কমে, ফলে (i) ও (ii) সত্য।\nডোরার কৌণিক বেধ \\( \\dfrac{\\beta}{D}=\\dfrac{\\lambda}{d} \\) D-এর ওপর নির্ভর করে না, তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Fringe width β = λD/d shrinks with D, but the angular width λ/d does not depend on D, so iii is wrong; the hand-marked key on the photo chose ঘ."
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-097",
+      "text": "তরঙ্গমুখের উপরস্থ কণাসমূহের দশা পার্থক্য হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0 রেডিয়ান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{4}\\) রেডিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{\\pi}{2}\\) রেডিয়ান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\pi\\) রেডিয়ান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "তরঙ্গমুখ হলো একই দশার কণাসমূহেরর সংযোগকারী তল। তাই এর ওপরের সব কণার দশা পার্থক্য 0 রেডিয়ান।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-098",
+      "text": "অপবর্তন এক বিশেষ ধরনের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিফলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যতিচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিসরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অপবর্তনে একই তরঙ্গমুখের বিভিন্ন বিন্দু থেকে নিঃসৃত গৌণ তরঙ্গগুলোর উপরিপাতন (ব্যতিচার) ঘটে; তাই অপবর্তন এক বিশেষ ধরনের ব্যতিচার।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-099",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় সোডিয়াম আলো \\((\\lambda = 5898\\,\\text{Å})\\) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো \\((\\lambda = 5461\\,\\text{Å})\\) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "62",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "67",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "99",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "নির্দিষ্ট পর্দায় ডোরার সংখ্যা \\( N\\propto\\dfrac{1}{\\beta}\\propto\\dfrac{1}{\\lambda} \\)\n\\( \\dfrac{N_2}{N_1}=\\dfrac{\\lambda_1}{\\lambda_2} \\)\n\\( N_2=92\\times\\dfrac{5898}{5461}\\approx99 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-100",
+      "text": "উপরিপাতিত দুটি তরঙ্গের বিস্তারের অনুপাত 2 : 1 হলে সর্বোচ্চ ও সর্বনিম্ন তীব্রতার অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "9 : 1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 : 1",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বিস্তার \\( a_1:a_2=2:1 \\)\n\\( \\dfrac{I_{max}}{I_{min}}=\\dfrac{(a_1+a_2)^2}{(a_1-a_2)^2}=\\dfrac{(2+1)^2}{(2-1)^2}=9:1 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "I_max : I_min = (2 + 1)² : (2 − 1)² = 9 : 1; the hand-marked key on the photo chose গ."
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-101",
+      "text": "মাধ্যমটির পরম প্রতিসরাংক কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ১১ ও ১২নং প্রশ্নের উত্তর দাও : কোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60°",
+      "stem_image": null,
+      "group": "physics_2nd-2022-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.41",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.5",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.73",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ব্রুস্টারের সূত্র: \\( n=\\tan i_p=\\tan60^\\circ=1.73 \\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-102",
+      "text": "প্রতিসরণ কোণের মান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ১১ ও ১২নং প্রশ্নের উত্তর দাও : কোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60°",
+      "stem_image": null,
+      "group": "physics_2nd-2022-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "30°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "60°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90°",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সমাবর্তন কোণে আপতিত ও প্রতিসৃত রশ্মি পরস্পর লম্ব, তাই \\( r=90^\\circ-i_p=90^\\circ-60^\\circ=30^\\circ \\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-103",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় দুটি তরঙ্গের উপরিপাতনের ফলে পর্দার কোনো বিন্দুতে অন্ধকার ডোরা উৎপন্ন হলো। ঐ বিন্দুতে তরঙ্গদ্বয়ের মধ্যে দশা পার্থক্য (n পূর্ণ সংখ্যা বিবেচনা করে) হলো নিম্নের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(2\\pi n\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\pi n + \\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(2\\pi n + \\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi n + \\pi\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "অন্ধকার ডোরায় পথ পার্থক্য \\( (2n+1)\\dfrac{\\lambda}{2} \\), তাই দশা পার্থক্য \\( (2n+1)\\pi=2\\pi n+\\pi \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-104",
+      "text": "ইয়ং এর দ্বিচিড় পরীক্ষায় চিড়গুলোর মধ্যবর্তী দূরত্ব অর্ধেক এবং চিড় থেকে পর্দার দূরত্ব তিনগুণ করা হলে ডোরা প্রস্থের কীরূপ পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপরিবর্তিত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6 গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 গুণ হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 গুণ হবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ডোরা প্রস্থ \\( \\beta=\\dfrac{\\lambda D}{d} \\)\n\\( \\beta'=\\dfrac{\\lambda(3D)}{d/2}=6\\beta \\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-105",
+      "text": "হাইগেনস এর নীতির সাহায্যে ব্যাখ্যা করা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিসরণ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিফলন"
+        },
+        {
+          "label": "iii",
+          "text": "সমবর্তন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "হাইগেনসের নীতিতে প্রতিফলন ও প্রতিসরণ ব্যাখ্যা করা যায় (i, ii সত্য)। সমবর্তন প্রমাণে আলোর অনুপ্রস্থ তরঙ্গ ধর্ম দরকার, যা হাইগেনসের নীতি (অনুদৈর্ঘ্য তরঙ্গ কল্পনা) দ্বারা ব্যাখ্যা করা যায় না; তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch7-mcq-106",
+      "text": "ফ্রেনেল শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ কীরূপ হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অভিসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপসারী ও গোলীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান্তরাল ও সমতল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমান্তরাল ও বেলনাকৃতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ফ্রেনেল শ্রেণির অপবর্তনে উৎস ও পর্দা সসীম দূরত্বে থাকায় তরঙ্গমুখ গোলীয় হয় এবং আলোকরশ্মি উৎস থেকে অপসারী হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "In Fresnel diffraction the source is at a finite distance, so the rays diverge and the wavefront is spherical (or cylindrical); the hand-marked key on the photo chose ক (convergent)."
     }
   ]
 }

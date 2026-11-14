@@ -4517,6 +4517,123 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-112",
+      "text": "স্থির গতিশক্তির কোনো বস্তুর জন্য ভর বনাম ভরবেগ লেখচিত্র নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-112-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-112-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-112-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch5-mcq-112-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "স্থির গতিশক্তি \\(K=\\dfrac{P^2}{2m}\\) হলে \\(P=\\sqrt{2Km}\\), অর্থাৎ \\(P\\propto\\sqrt{m}\\)। এটি মূলবিন্দু থেকে শুরু হওয়া, ক্রমশ সমতল হয়ে আসা (অধিবৃত্তাকার) বক্ররেখা, যা (খ) এর লেখচিত্র।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-113",
+      "text": "একটি যন্ত্রের কর্মদক্ষতা ও যন্ত্রে প্রদত্ত শক্তির গুণফল নিচের কোনটি নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপচয়কৃত শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপচয়কৃত ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃত কাজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাপ্ত ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কর্মদক্ষতা \\(=\\dfrac{\\text{কার্যকর কাজ}}{\\text{প্রদত্ত শক্তি}}\\), তাই কর্মদক্ষতা \\(\\times\\) প্রদত্ত শক্তি \\(=\\) যন্ত্রের কৃত (কার্যকর) কাজ।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch5-mcq-114",
+      "text": "33m উচ্চতা থেকে একটি বস্তুকে মুক্তভাবে পড়তে দিলে কত উচ্চতায় বস্তুটির গতিশক্তি বিভব শক্তির অর্ধেক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "11 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "22 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "30 m",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মোট যান্ত্রিক শক্তি \\(E=mg\\times33\\)। গতিশক্তি \\(K=\\dfrac{U}{2}\\) হলে \\(U+\\dfrac{U}{2}=E\\), \\(\\therefore U=\\dfrac{2}{3}E\\)\n\\(mgh=\\dfrac{2}{3}mg\\times33\\)\n\\(\\therefore h=22\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

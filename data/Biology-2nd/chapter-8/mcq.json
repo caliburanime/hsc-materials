@@ -576,6 +576,140 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch8-mcq-015",
+      "text": "মায়োপিয়া সমস্যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দূরের বস্তু দেখতে সমস্যা হয়"
+        },
+        {
+          "label": "ii",
+          "text": "অবতল লেন্সের চশমা ব্যবহার করতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "সিলিয়ারী বডির বৃত্তাকার পেশির প্রসারণ ঘটে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "মায়োপিয়ায় (ক্ষীণদৃষ্টি) প্রতিবিম্ব রেটিনার সামনে পড়ে।\n(i) সত্য: দূরের বস্তু ঝাপসা দেখায়।\n(ii) সত্য: প্রতিকারে অবতল লেন্সের চশমা ব্যবহার করা হয়।\n(iii) মিথ্যা: এখানে লেন্স বেশি স্থূল থাকে; সিলিয়ারি বডির বৃত্তাকার পেশির প্রসারণ নয়, বরং সংকোচনজনিত অবস্থা ঘটে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch8-mcq-016",
+      "text": "রক্তে A এর মাত্রা নিয়ন্ত্রণকারী হরমোনগুলো হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ৭ ও ৮ নং প্রশ্নের উত্তর দাও : সুক্রোজ + \\(\\mathrm{H_2O}\\) \\(\\xrightarrow{\\text{সুক্রেজ}}\\) A + ফ্রুক্টোজ",
+      "stem_image": null,
+      "group": "biology_2nd-2026-ALL-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্লুকাগন ও সিক্রেটিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইনসুলিন ও গ্লুকাগন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইনসুলিন ও সোমাটোস্ট্যাটিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সিক্রেটিন ও সোমাটোস্ট্যাটিন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সুক্রোজ আর্দ্রবিশ্লেষিত হয়ে গ্লুকোজ ও ফ্রুক্টোজ দেয়, তাই A হলো গ্লুকোজ। রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণ করে অগ্ন্যাশয়ের ইনসুলিন (মাত্রা কমায়) ও গ্লুকাগন (মাত্রা বাড়ায়)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch8-mcq-017",
+      "text": "চোখের আলোক সংবেদী অংশ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্ক্লেরা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কোরয়েড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেটিনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইরিশ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "চোখের রেটিনায় রড ও কোন কোষ থাকে, যারা আলোক সংবেদী; তাই রেটিনা আলোক সংবেদী অংশ।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

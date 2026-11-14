@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" width="360" height="240">
+<rect width="360" height="240" fill="#fff"/><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<path d="M40 120 L300 120" marker-start="url(#a)" marker-end="url(#a)"/>
+<path d="M100 215 L100 15" marker-start="url(#a)" marker-end="url(#a)"/>
+<path d="M244 215 L244 15" marker-start="url(#a)" marker-end="url(#a)"/>
+<path d="M80 125 L290 72.5" marker-end="url(#a)"/>
+<path d="M100 120 L244 84 L244 120 Z"/></g>
+<g stroke="#111" stroke-width="1"><path d="M106 120 L106 118.5"/><path d="M112 120 L112 117.0"/><path d="M118 120 L118 115.5"/><path d="M124 120 L124 114.0"/><path d="M130 120 L130 112.5"/><path d="M136 120 L136 111.0"/><path d="M142 120 L142 109.5"/><path d="M148 120 L148 108.0"/><path d="M154 120 L154 106.5"/><path d="M160 120 L160 105.0"/><path d="M166 120 L166 103.5"/><path d="M172 120 L172 102.0"/><path d="M178 120 L178 100.5"/><path d="M184 120 L184 99.0"/><path d="M190 120 L190 97.5"/><path d="M196 120 L196 96.0"/><path d="M202 120 L202 94.5"/><path d="M208 120 L208 93.0"/><path d="M214 120 L214 91.5"/><path d="M220 120 L220 90.0"/><path d="M226 120 L226 88.5"/><path d="M232 120 L232 87.0"/><path d="M238 120 L238 85.5"/><path d="M244 120 L244 84.0"/></g>
+<g font-family="serif" font-style="italic" font-size="15" fill="#111">
+<text x="306" y="125">X</text><text x="22" y="125">X′</text>
+<text x="107" y="20">Y</text><text x="107" y="228">Y′</text>
+<text x="298" y="72">Y = </text><text x="248" y="208">X = 8</text>
+<text x="48" y="140" font-style="normal">O(0, 0)</text></g>
+<g font-family="serif" font-size="14" fill="#111"><text x="324" y="62" text-anchor="middle">1</text><text x="324" y="82" text-anchor="middle">4</text><path d="M317 68 h14" stroke="#111"/><text x="336" y="72" font-style="italic">x</text></g>
+</svg>

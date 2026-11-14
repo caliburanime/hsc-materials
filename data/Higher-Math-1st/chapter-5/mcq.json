@@ -1,0 +1,85 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 5,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch5-mcq-001",
+      "text": "6 বাহুবিশিষ্ট বহুভুজের কৌণিক বিন্দুগুলো সংযোগে কয়টি কর্ণ আঁকা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "30",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "n বাহুবিশিষ্ট বহুভুজের কর্ণসংখ্যা \\(\\dfrac{n(n-3)}{2}\\)।\n\\(n=6\\) হলে \\(\\dfrac{6\\times3}{2} = 9\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch5-mcq-002",
+      "text": "সভাপতি পদে 4 জন প্রার্থী আছে এবং 5 জন লোকের ভোটে একজন নির্বাচিত হবে। কত প্রকারে ভোট দেওয়া যেতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\({}^5P_4\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\({}^5C_4\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4^5\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(5^4\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "৫ জন ভোটারের প্রত্যেকে ৪ জন প্রার্থীর যেকোনো একজনকে ভোট দিতে পারে। তাই মোট উপায় \\(4\\times4\\times4\\times4\\times4 = 4^5\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

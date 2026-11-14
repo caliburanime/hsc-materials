@@ -4603,6 +4603,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-112",
+      "text": "সাম্যাবস্থা থেকে একটি সরল দোলগতি সম্পন্ন কণার কী পরিমাণ সরণ হলে এর স্থিতিশক্তি ও গতিশক্তি সমান হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{A^2}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{A^2}{\\sqrt{2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{A}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{A}{\\sqrt{2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "মোট শক্তি \\(\\dfrac{1}{2}m\\omega^2A^2\\)। স্থিতিশক্তি \\(=\\) গতিশক্তি হলে প্রত্যেকটি মোট শক্তির অর্ধেক:\n\\(\\dfrac{1}{2}m\\omega^2y^2=\\dfrac{1}{2}\\times\\dfrac{1}{2}m\\omega^2A^2\\)\n\\(\\therefore y=\\dfrac{A}{\\sqrt{2}}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch8-mcq-113",
+      "text": "\\(y = a\\sin\\left(\\omega t - \\dfrac{\\pi}{2}\\right)\\) সমীকরণ অনুসারে নিচের কোন লেখচিত্রটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-113-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-113-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-113-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_1st-ch8-mcq-113-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(y=a\\sin\\left(\\omega t-\\dfrac{\\pi}{2}\\right)=-a\\cos\\omega t\\)। \\(t=0\\) তে \\(y=-a\\) (ঋণাত্মক সর্বোচ্চ), তারপর মান বাড়ে। (ক) \\(\\sin\\), (খ) \\(-\\sin\\), (গ) \\(\\cos\\) এবং (ঘ) \\(-\\cos\\) লেখচিত্র; তাই (ঘ) সঠিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

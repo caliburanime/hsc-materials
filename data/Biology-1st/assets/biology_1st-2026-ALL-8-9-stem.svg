@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" width="240" height="220">
+<rect width="240" height="220" fill="#fff"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<!-- dark homologue -->
+<g stroke="#111" stroke-width="9">
+<path d="M52 118 C50 150 40 170 32 190"/>
+<path d="M66 118 C66 150 68 170 70 195"/>
+<path d="M50 26 C54 60 62 90 70 108"/>
+<path d="M82 22 C80 50 76 80 66 108"/>
+</g>
+<!-- light homologue -->
+<g stroke="#111" stroke-width="9"><path d="M100 120 C100 150 96 170 94 195"/><path d="M122 120 C124 150 126 170 124 195"/><path d="M100 120 C104 90 128 60 140 34"/><path d="M122 120 C118 90 98 60 106 32"/></g>
+<g stroke="#fff" stroke-width="5.5"><path d="M100 120 C100 150 96 170 94 192"/><path d="M122 120 C124 150 126 170 124 192"/><path d="M100 120 C104 90 128 60 140 36"/><path d="M122 120 C118 90 98 60 106 34"/></g>
+</g>
+<circle cx="60" cy="116" r="5" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<circle cx="111" cy="120" r="5" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<path d="M84 52 L180 64" stroke="#111" stroke-width="1.5"/>
+<text x="186" y="71" font-family="serif" font-style="italic" font-size="16" fill="#111">C</text>
+</svg>

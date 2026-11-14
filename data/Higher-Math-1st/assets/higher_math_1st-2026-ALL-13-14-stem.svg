@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260">
+<rect width="320" height="260" fill="#fff"/><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="1.5" fill="none">
+<path d="M40 60 L290 60" marker-start="url(#a)" marker-end="url(#a)"/>
+<path d="M150 10 L150 245" marker-start="url(#a)" marker-end="url(#a)"/>
+<circle cx="150" cy="138" r="78"/></g>
+<circle cx="150" cy="138" r="1.8" fill="#111"/>
+<g font-family="serif" font-style="italic" font-size="15" fill="#111">
+<text x="296" y="65">X</text><text x="22" y="65">X′</text>
+<text x="156" y="16">Y</text><text x="156" y="254">Y′</text>
+<text x="156" y="54">O</text></g>
+<text x="169" y="54" font-family="serif" font-size="14" fill="#111">(0, 0)</text>
+<text x="158" y="132" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-size="13" fill="#111">কেন্দ্র</text>
+<text x="158" y="150" font-family="serif" font-size="14" fill="#111">(0, −3)</text>
+</svg>

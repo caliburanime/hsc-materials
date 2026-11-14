@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+<rect width="320" height="200" fill="#fff"/>
+<defs><marker id="d" markerWidth="1" markerHeight="1"/></defs>
+<g fill="#fff" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<!-- epidermis outer surface -->
+<path d="M20 100 C20 60 50 52 80 52 C100 52 110 60 114 70 C124 56 150 50 176 52 C196 54 208 62 212 74 C224 58 250 50 270 56 C292 62 298 84 298 120" />
+<!-- mesoglea base -->
+<path d="M14 174 C40 166 60 178 90 172 C120 166 150 178 180 172 C210 166 250 178 304 172"/>
+<path d="M30 182 C60 176 80 188 110 182 M150 184 C180 178 200 188 230 182"/>
+<!-- cell walls -->
+<path d="M34 128 C38 140 40 160 40 170 M114 70 C120 86 124 100 126 120 C126 140 124 156 124 170"/>
+<path d="M66 100 C60 130 62 150 66 172 M96 100 C100 130 98 150 96 172"/>
+<path d="M174 90 C176 120 176 150 178 172 M212 74 C206 100 204 130 206 172"/>
+<path d="M232 90 C230 120 232 150 234 172 M274 90 C278 120 278 150 276 172"/>
+<!-- granule cell -->
+<path d="M118 84 C104 110 106 150 118 160 C130 168 142 160 146 140 C148 120 140 98 128 88 Z"/>
+<!-- cnidocyte -->
+<path d="M196 84 C184 100 184 130 190 150 L192 172 L216 172 L216 150 C224 130 226 100 214 84 C208 78 202 78 196 84 Z"/>
+<ellipse cx="204" cy="118" rx="14" ry="22"/>
+<ellipse cx="204" cy="116" rx="6" ry="16"/>
+<path d="M204 100 C200 108 208 116 204 124 C200 130 208 134 204 138"/>
+<path d="M200 150 l0 18 M208 150 l0 18"/>
+</g>
+<g fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 4"><path d="M30 76 C50 66 80 66 104 72 M130 66 C150 62 176 64 200 74 M220 72 C240 64 262 66 282 74"/></g>
+<g fill="none" stroke="#111" stroke-width="1.5"><ellipse cx="60" cy="86" rx="5" ry="7"/><ellipse cx="150" cy="86" rx="9" ry="5"/><ellipse cx="248" cy="86" rx="6" ry="6"/><ellipse cx="48" cy="140" rx="3" ry="6"/><ellipse cx="86" cy="140" rx="3" ry="6"/><ellipse cx="160" cy="140" rx="3" ry="6"/><ellipse cx="252" cy="140" rx="3" ry="6"/></g>
+<g fill="none" stroke="#111" stroke-width="1"></g>
+<g fill="#fff" stroke="#111" stroke-width="1"><circle cx="117" cy="100" r="4.5"/><circle cx="129" cy="98" r="4.5"/><circle cx="113" cy="114" r="4.5"/><circle cx="122" cy="112" r="4.5"/><circle cx="134" cy="110" r="4.5"/><circle cx="115" cy="128" r="4.5"/><circle cx="125" cy="126" r="4.5"/><circle cx="137" cy="124" r="4.5"/><circle cx="121" cy="142" r="4.5"/><circle cx="130" cy="140" r="4.5"/><circle cx="126" cy="154" r="4.5"/><circle cx="136" cy="150" r="4.5"/></g>
+<path d="M62 52 L62 28" stroke="#111" stroke-width="1.5"/>
+<text x="62" y="22" font-family="serif" font-size="16" text-anchor="middle" fill="#111">A</text>
+<path d="M205 82 L205 28" stroke="#111" stroke-width="1.5"/>
+<text x="205" y="22" font-family="serif" font-size="16" text-anchor="middle" fill="#111">B</text>
+</svg>

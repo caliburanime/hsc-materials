@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 100" width="170" height="100">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+<marker id="ar2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<style>.v{font-family:"Times New Roman",Times,serif;font-style:italic}.t{font-family:"Times New Roman",Times,serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111;font-size:13px}
+.s{fill:none;stroke:#111;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}.d{fill:#111}</style>
+<rect width="170" height="100" fill="#fff"/>
+<path class="s" d="M30,72 V50 H62"/><path class="s" d="M30,72 V72 M21,78 H39 M24,82 H36 M27,86 H33"/><path class="s" d="M62,40 V60 L82,50 Z"/><path class="s" d="M82,40 V60"/><path class="s" d="M82,50 H118 V44"/><path class="s" d="M118.0,50.0 L118.0,45.0 L122.0,43.2 L114.0,39.5 L122.0,35.8 L114.0,32.2 L122.0,28.5 L114.0,24.8 L118.0,23.0 L118.0,18.0"/><circle class="s" cx="118" cy="12" r="3.5" fill="#fff"/><text x="126" y="16" text-anchor="start" class="t" >+5V</text>
+</svg>

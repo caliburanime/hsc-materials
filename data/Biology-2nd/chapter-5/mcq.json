@@ -1368,6 +1368,100 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch5-mcq-033",
+      "text": "ক্লোরাইড শিফট হলে ক্লোরাইড কোন আয়নের সাথে যুক্ত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সোডিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পটাশিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্যালসিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ম্যাগনেশিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ক্লোরাইড শিফটে \\(\\mathrm{HCO_3^-}\\) লোহিত কণিকা থেকে প্লাজমায় বের হলে ভারসাম্য রক্ষায় \\(\\mathrm{Cl^-}\\) প্লাজমা থেকে লোহিত কণিকায় ঢোকে এবং সেখানে \\(\\mathrm{K^+}\\) এর সাথে যুক্ত হয়ে KCl গঠন করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "In the chloride shift Cl⁻ moves into the red blood cell and combines with K⁺ there (as KCl), while HCO₃⁻ moving out pairs with Na⁺ in the plasma. The tick on the scan chose ক."
+    },
+    {
+      "id": "biology_2nd-ch5-mcq-034",
+      "text": "প্রশ্বাসের সময় কী ঘটে?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডায়াফ্রাম পেশি সংকুচিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "ইন্টার কোস্টাল পেশির প্রসারণ ঘটে"
+        },
+        {
+          "label": "iii",
+          "text": "নিচের দিকের পর্শুকা উপরে উঠে আসে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "প্রশ্বাসের সময়—\n(i) সত্য: ডায়াফ্রাম সংকুচিত হয়ে চ্যাপ্টা হয়।\n(ii) মিথ্যা: ইন্টারকোস্টাল পেশি সংকুচিত হয়, প্রসারিত হয় না।\n(iii) সত্য: নিচের দিকের পর্শুকা উপরে ও বাইরে ওঠে, ফলে বক্ষগহ্বর বড় হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "During inspiration the diaphragm and the external intercostal muscles contract, raising the ribs; the intercostals do not expand, so ii is wrong. The tick on the scan chose ঘ, reading ii loosely."
     }
   ]
 }

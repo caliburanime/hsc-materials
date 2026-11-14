@@ -236,6 +236,98 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-007",
+      "text": "সর্বোচ্চ উচ্চতায় প্রাসের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেগ অনুভূমিক"
+        },
+        {
+          "label": "ii",
+          "text": "ত্বরণ শূন্য নয়"
+        },
+        {
+          "label": "iii",
+          "text": "গতিশক্তি শূন্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সঠিক: সর্বোচ্চ বিন্দুতে উল্লম্ব বেগ শূন্য, কেবল অনুভূমিক বেগ থাকে।\n(ii) সঠিক: সর্বদা অভিকর্ষজ ত্বরণ \\(g\\) নিচের দিকে ক্রিয়া করে, তাই ত্বরণ শূন্য নয়।\n(iii) ভুল: অনুভূমিক বেগ থাকায় গতিশক্তি শূন্য নয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch3-mcq-008",
+      "text": "অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর গতিপথের সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 = \\dfrac{2v_0^2}{g}y\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 = \\dfrac{g}{2v_0^2}y\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(y^2 = \\dfrac{1}{2}g\\left(\\dfrac{x}{v_0^2}\\right)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(y^2 = \\dfrac{2v_0^2}{g}x^2\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অনুভূমিক নিক্ষেপে \\(x=v_0t\\) এবং \\(y=\\dfrac{1}{2}gt^2\\)। \\(t=\\dfrac{x}{v_0}\\) বসিয়ে পাই \\(y=\\dfrac{g x^2}{2v_0^2}\\)\n\\(\\therefore x^2=\\dfrac{2v_0^2}{g}y\\) (পরাবৃত্তাকার পথ)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

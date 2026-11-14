@@ -5930,6 +5930,168 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-143",
+      "text": "নিচের কোনটি ভরবেগের ভ্রামক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জড়তার ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দ্বন্দ্বের ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভর ভ্রামক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌণিক ভরবেগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ভরবেগ \\(\\vec{p}\\) এর ভ্রামক হলো কৌণিক ভরবেগ, \\(\\vec{L}=\\vec{r}\\times\\vec{p}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-144",
+      "text": "বৃত্তাকার পথে ঘূর্ণনরত বস্তুর কৌণিক ভরবেগ ও রৈখিক বেগের মধ্যবর্তী কোণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "45°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "90°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "180°",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কৌণিক ভরবেগ \\(\\vec{L}=\\vec{r}\\times\\vec{p}\\) বৃত্তের তলের উপর লম্বভাবে (ঘূর্ণন অক্ষ বরাবর) ক্রিয়া করে, আর রৈখিক বেগ স্পর্শক বরাবর বৃত্তের তলে থাকে। তাই মধ্যবর্তী কোণ \\(90^\\circ\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-145",
+      "text": "পৌর মোড়ে বাঁকের রাস্তা ভেতরের পার্শ্ব অপেক্ষা বাইরের পার্শ্ব কত উঁচু হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ১৯নং এবং ২০নং প্রশ্নের উত্তর দাও : পৌর মোড় এবং স্টেশন মোড়ে যথাক্রমে 16m এবং 25m ব্যাসার্ধের বাঁকের রাস্তার প্রত্যেকটির ব্যাংকিং কোণ 3°। উভয় রাস্তার প্রস্থ 4 m।",
+      "stem_image": null,
+      "group": "physics_1st-2026-ALL-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.109 m",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.209 m",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.995 m",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4.995 m",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বাইরের পার্শ্বের উচ্চতা \\(h=\\) প্রস্থ \\(\\times\\sin\\theta\\)\n\\(=4\\times\\sin3^\\circ=4\\times0.05234\\)\n\\(=0.209\\,\\mathrm{m}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch4-mcq-146",
+      "text": "উভয় মোড়ে রাস্তার বাঁকে গাড়ির সর্বোচ্চ বেগের অনুপাত কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ১৯নং এবং ২০নং প্রশ্নের উত্তর দাও : পৌর মোড় এবং স্টেশন মোড়ে যথাক্রমে 16m এবং 25m ব্যাসার্ধের বাঁকের রাস্তার প্রত্যেকটির ব্যাংকিং কোণ 3°। উভয় রাস্তার প্রস্থ 4 m।",
+      "stem_image": null,
+      "group": "physics_1st-2026-ALL-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "4 : 5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "16 : 25",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "24 : 50",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "36 : 65",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ব্যাংকিং রাস্তায় \\(\\tan\\theta=\\dfrac{v^2}{rg}\\), তাই \\(v=\\sqrt{rg\\tan\\theta}\\propto\\sqrt{r}\\)\n\\(\\dfrac{v_1}{v_2}=\\sqrt{\\dfrac{16}{25}}=\\dfrac{4}{5}\\), অর্থাৎ \\(4:5\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

@@ -3854,6 +3854,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-096",
+      "text": "প্রান্তিক বেগ প্রাপ্তির জন্য দায়ী বল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্লবতা বল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওজন বল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সান্দ্র বল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংরক্ষণশীল বল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "পড়ন্ত বস্তুর বেগ বাড়ার সাথে সান্দ্র বল বাড়ে। সান্দ্র বল ও প্লবতা বলের যোগফল ওজনের সমান হলে লব্ধি বল শূন্য হয় এবং বেগ ধ্রুব হয়; এটাই প্রান্তিক বেগ। এজন্য দায়ী বল সান্দ্র বল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch7-mcq-097",
+      "text": "একটি নিখুঁত নমনীয় বস্তুর ইয়ং এর গুণাঙ্ক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "∞",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ইয়ং এর গুণাঙ্ক \\(Y=\\dfrac{\\text{পীড়ন}}{\\text{বিকৃতি}}\\)। আদর্শ নমনীয় (সামান্য পীড়নেই অসীম বিকৃতি হয় এমন) বস্তুর জন্য \\(Y=0\\); আর নিখুঁত দৃঢ় বস্তুর জন্য \\(Y=\\infty\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

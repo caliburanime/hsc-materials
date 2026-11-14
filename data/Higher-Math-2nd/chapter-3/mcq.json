@@ -1570,6 +1570,85 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-038",
+      "text": "\\(\\dfrac{1}{i - 1}\\) এর মুখ্য আর্গুমেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-3\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{3\\pi}{4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{5\\pi}{4}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\dfrac{1}{i-1} = \\dfrac{-1-i}{(-1+i)(-1-i)} = \\dfrac{-1-i}{2} = -\\dfrac{1}{2} - \\dfrac{1}{2}i\\)\nবিন্দুটি তৃতীয় চতুর্ভাগে; \\(\\tan^{-1}\\left|\\dfrac{-1/2}{-1/2}\\right| = \\dfrac{\\pi}{4}\\)। মুখ্য আর্গুমেন্ট \\(= -\\left(\\pi - \\dfrac{\\pi}{4}\\right) = -\\dfrac{3\\pi}{4}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch3-mcq-039",
+      "text": "Z = x + iy হলে, |2z + 1| = |3z + 2| সমীকরণ দ্বারা নির্দেশিত সঞ্চারপথ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অধিবৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরলরেখা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(|2z+1|^2 = |3z+2|^2\\)\n\\(\\Rightarrow (2x+1)^2 + 4y^2 = (3x+2)^2 + 9y^2\\)\n\\(\\Rightarrow 5x^2 + 5y^2 + 8x + 3 = 0\\)\n\\(x^2 + y^2\\) এর সহগ সমান ও \\(xy\\) পদ নেই, আবার \\(\\left(\\dfrac{4}{5}\\right)^2 - \\dfrac{3}{5} = \\dfrac{1}{25} > 0\\); তাই সঞ্চারপথ বৃত্ত।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Squaring gives (2x + 1)² + 4y² = (3x + 2)² + 9y², i.e. 5x² + 5y² + 8x + 3 = 0, a circle."
     }
   ]
 }

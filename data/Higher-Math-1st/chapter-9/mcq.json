@@ -1223,6 +1223,162 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-032",
+      "text": "\\(\\displaystyle\\lim_{x \\to \\infty} \\dfrac{3x^2 - 7x + 5}{6x^2 + 5x + 3}\\) = কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{-7}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{5}{3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{7}{5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "লব ও হরকে \\(x^2\\) দ্বারা ভাগ করে:\n\\(\\lim_{x\\to\\infty}\\dfrac{3 - 7/x + 5/x^2}{6 + 5/x + 3/x^2} = \\dfrac{3}{6} = \\dfrac{1}{2}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-033",
+      "text": "ln y = −x হলে \\(\\dfrac{d^4y}{dx^4}\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-e^{-x}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^{-x}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(4e^{-x}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\((e^{-x})^4\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\ln y = -x \\Rightarrow y = e^{-x}\\)। প্রতিবার অন্তরীকরণে চিহ্ন বদলায়: \\(y' = -e^{-x},\\ y'' = e^{-x},\\ y''' = -e^{-x},\\ y'''' = e^{-x}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-034",
+      "text": "যদি \\(y = \\sin^{-1}(\\sin ax)\\) হয় তবে \\(\\dfrac{dy}{dx}\\) হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "sin ax",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "cos ax",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "a",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ax",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(y = \\sin^{-1}(\\sin ax) = ax\\) (মূল মান পরিসরে)।\n\\(\\therefore \\dfrac{dy}{dx} = a\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch9-mcq-035",
+      "text": "\\(y = x^2 - x + 1\\) বক্ররেখার x = 1 বিন্দুতে অভিলম্বের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "x − y = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "x + y = 0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "x + y − 1 = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "x + y − 2 = 0",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(x=1\\) এ \\(y = 1\\); \\(\\dfrac{dy}{dx} = 2x - 1 = 1\\)। অভিলম্বের ঢাল \\(-1\\)।\nসমীকরণ: \\(y - 1 = -(x - 1) \\Rightarrow x + y - 2 = 0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

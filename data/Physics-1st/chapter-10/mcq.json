@@ -4730,6 +4730,98 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-116",
+      "text": "বাতাসের আর্দ্রতা বেশি হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাষ্পায়ন ধীরে হয়"
+        },
+        {
+          "label": "ii",
+          "text": "হাইগ্রোমিটারের তাপমাত্রার পার্থক্য বেশি হয়"
+        },
+        {
+          "label": "iii",
+          "text": "শিশিরাঙ্ক বেশি হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "(i) সঠিক: বাতাসে জলীয় বাষ্প বেশি থাকলে বাষ্পায়নের হার কমে, অর্থাৎ ধীরে হয়।\n(ii) ভুল: আর্দ্রতা বেশি হলে ভেজা ও শুকনো বাল্বের তাপমাত্রার পার্থক্য কম হয়।\n(iii) সঠিক: আর্দ্রতা বেশি হলে বাতাস অল্প ঠান্ডায়ই সম্পৃক্ত হয়, ফলে শিশিরাঙ্ক বেশি হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch10-mcq-117",
+      "text": "পানির সঙ্কট তাপমাত্রা নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "273 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "374 K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "405 K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "647 K",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পানির সঙ্কট তাপমাত্রা \\(647\\,\\mathrm{K}\\) (প্রায় \\(374^\\circ\\mathrm{C}\\)); এর উপরে শুধু চাপ প্রয়োগে বাষ্পকে তরলে পরিণত করা যায় না। \\(374\\) সংখ্যাটি সেলসিয়াস স্কেলের মান, কেলভিনের নয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

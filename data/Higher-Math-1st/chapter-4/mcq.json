@@ -1630,6 +1630,130 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-040",
+      "text": "মূল বিন্দুগামী একটি বৃত্ত x-অক্ষ এবং y-অক্ষের ধনাত্মক দিক হতে যথাক্রমে 6 একক এবং 5 একক অংশ ছেদ করলে বৃত্তটির সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 + 6x + 5y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 - 6x + 5y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 - 6x - 5y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 + 5x + 6y = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "বৃত্তটি মূলবিন্দুগামী: \\(x^2 + y^2 + 2gx + 2fy = 0\\)। x-অক্ষের খণ্ড \\(2|g| = 6\\Rightarrow g = -3\\) এবং y-অক্ষের খণ্ড \\(2|f| = 5\\Rightarrow f = -\\tfrac{5}{2}\\) (ধনাত্মক দিকে)।\nসমীকরণ: \\(x^2 + y^2 - 6x - 5y = 0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-041",
+      "text": "উদ্দীপকের বৃত্তের সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১৩ ও ১৪ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/higher_math_1st-2026-ALL-13-14-stem.svg",
+      "group": "higher_math_1st-2026-ALL-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(x^2 + y^2 - 6x = 0\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(x^2 + y^2 + 6y = 0\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(x^2 + y^2 + 6x = 0\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(x^2 + y^2 - 6y = 0\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বৃত্তটির কেন্দ্র \\((0, -3)\\) ও এটি মূলবিন্দুগামী, তাই ব্যাসার্ধ \\(3\\)।\n\\(x^2 + (y + 3)^2 = 9 \\Rightarrow x^2 + y^2 + 6y = 0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch4-mcq-042",
+      "text": "উদ্দীপকের বৃত্তটির যে স্পর্শক x-অক্ষের সমান্তরাল উহার সমীকরণ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকের আলোকে ১৩ ও ১৪ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/higher_math_1st-2026-ALL-13-14-stem.svg",
+      "group": "higher_math_1st-2026-ALL-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "y − 6 = 0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "x − 6 = 0",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "y + 6 = 0",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "x + 6 = 0",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কেন্দ্র \\((0, -3)\\), ব্যাসার্ধ \\(3\\)। x-অক্ষের সমান্তরাল স্পর্শক হবে কেন্দ্র থেকে \\(3\\) একক দূরে: \\(y = -3 \\pm 3\\), অর্থাৎ \\(y = 0\\) (x-অক্ষ) বা \\(y = -6\\)। x-অক্ষ ভিন্ন স্পর্শক: \\(y + 6 = 0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The tangents parallel to the x-axis are y = 0 (the x-axis itself, at O) and y = −6 at the bottom of the circle; only y + 6 = 0 is offered."
     }
   ]
 }

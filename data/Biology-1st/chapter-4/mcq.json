@@ -2876,6 +2876,85 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch4-mcq-068",
+      "text": "কোনটি ইমার্জিং ভাইরাস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{T_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HIV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "TMV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেপাটাইটিস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "HIV সাম্প্রতিক সময়ে আবির্ভূত নতুন রোগের কারণ, তাই এটি ইমার্জিং ভাইরাস। T₂ ব্যাকটেরিওফাজ এবং TMV উদ্ভিদ ভাইরাস।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch4-mcq-069",
+      "text": "ম্যালেরিয়া পরজীবীর কোন দশায় মায়োসিস ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উসিস্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উকিনেট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাইগোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রিপ্টোজয়েট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পাঠ্যবইয়ের ধারা অনুযায়ী ম্যালেরিয়া পরজীবী (Plasmodium) মশার দেহে উসিস্ট দশায় মায়োসিসের মাধ্যমে স্পোরোজয়েট উৎপন্ন করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ক (oocyst) follows the HSC textbook and sattacademy's key; in current parasitology meiosis begins soon after fertilisation, in the zygote/ookinete stage, before the oocyst forms."
     }
   ]
 }

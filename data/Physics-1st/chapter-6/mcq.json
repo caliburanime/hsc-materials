@@ -4544,6 +4544,99 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch6-mcq-111",
+      "text": "মহাকর্ষীয় বিভব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি স্কেলার রাশি"
+        },
+        {
+          "label": "ii",
+          "text": "এর মান ক্ষেত্রের বাইরে সর্বোচ্চ"
+        },
+        {
+          "label": "iii",
+          "text": "এর মাত্রা সমীকরণ \\(\\mathrm{M^{-1}L^2T^{-2}}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সঠিক: মহাকর্ষীয় বিভব স্কেলার রাশি।\n(ii) সঠিক: বিভব ঋণাত্মক এবং অসীমে এর মান শূন্য, যা সর্বোচ্চ; ক্ষেত্রের বাইরে (অসীমে) তাই বিভব সর্বোচ্চ।\n(iii) ভুল: বিভব \\(=\\) কাজ/ভর, এর মাত্রা \\(\\mathrm{L^2T^{-2}}\\); \\(\\mathrm{M^{-1}}\\) নেই।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Gravitational potential is work per unit mass, so its dimension is L²T⁻² (not M⁻¹L²T⁻²); it rises to its maximum (zero) outside the field, at infinity."
+    },
+    {
+      "id": "physics_1st-ch6-mcq-112",
+      "text": "কৃত্রিম উপগ্রহের আবর্তন কাল নির্ণয়ের জন্য কোন সূত্রটি ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{1}{2\\pi}\\dfrac{(R+h)^{3/2}}{(gR^2)^{1/2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\pi\\dfrac{(R+h)^{3/2}}{(gR^2)^{1/2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{2\\pi}\\left\\{\\dfrac{R+h}{gR^2}\\right\\}^{3/2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\pi\\left(\\dfrac{R+h}{gR^2}\\right)^{3/2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কক্ষপথের ব্যাসার্ধ \\(R+h\\); \\(\\dfrac{mv^2}{R+h}=\\dfrac{mgR^2}{(R+h)^2}\\) থেকে \\(v=\\sqrt{\\dfrac{gR^2}{R+h}}\\)\n\\(T=\\dfrac{2\\pi(R+h)}{v}=2\\pi\\dfrac{(R+h)^{3/2}}{(gR^2)^{1/2}}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

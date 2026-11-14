@@ -1767,6 +1767,123 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-044",
+      "text": "\\(A = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}\\), \\(B = \\begin{bmatrix} 16 \\\\ 12 \\end{bmatrix}\\), \\(X = \\begin{bmatrix} x \\\\ y \\end{bmatrix}\\) এবং 4AX = B হলে (x, y) = কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "(1, 1)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "(3, 4)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "(4, 3)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "(16, 12)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(4AX = B\\) এবং \\(A = I\\) হওয়ায় \\(4X = B\\)\n\\(\\therefore \\begin{bmatrix} 4x \\\\ 4y \\end{bmatrix} = \\begin{bmatrix} 16 \\\\ 12 \\end{bmatrix}\\)\nঅতএব \\(x = 4,\\ y = 3\\); \\((x, y) = (4, 3)\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-045",
+      "text": "\\(\\begin{vmatrix} m & \\frac{1}{2} & n+p \\\\ n & \\frac{1}{2} & m+p \\\\ p & \\frac{1}{2} & m+n \\end{vmatrix}\\) নির্ণায়কটির মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "mnp",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "m + n + p",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "১ম ও ৩য় স্তম্ভ যোগ করে ৩য় স্তম্ভে বসালে ৩য় স্তম্ভের প্রতিটি উপাদান \\(m+n+p\\) হয়। ফলে ২য় স্তম্ভ \\(\\left(\\tfrac{1}{2}\\right)\\) ও ৩য় স্তম্ভ সমানুপাতিক, তাই নির্ণায়কের মান \\(0\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch1-mcq-046",
+      "text": "যদি \\(M = \\begin{bmatrix} -2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2} \\end{bmatrix}\\) হয়, \\(M^{-1}\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\begin{pmatrix} \\frac{1}{2} & \\frac{3}{2} \\\\ 1 & 2 \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\begin{pmatrix} 2 & -\\frac{3}{2} \\\\ -1 & \\frac{1}{2} \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\begin{pmatrix} 3 & 4 \\\\ 1 & 2 \\end{pmatrix}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(|M| = (-2)\\left(-\\tfrac{1}{2}\\right) - (1)\\left(\\tfrac{3}{2}\\right) = 1 - \\tfrac{3}{2} = -\\tfrac{1}{2}\\)\n\\(M^{-1} = \\dfrac{1}{|M|}\\begin{pmatrix} -\\frac{1}{2} & -1 \\\\ -\\frac{3}{2} & -2 \\end{pmatrix} = -2\\begin{pmatrix} -\\frac{1}{2} & -1 \\\\ -\\frac{3}{2} & -2 \\end{pmatrix} = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

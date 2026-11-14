@@ -3111,6 +3111,123 @@
       "tags": [],
       "difficulty": null,
       "review_note": "উত্তর যাচাই: ম্যাট্রিক্সে (অন্তঃঝিল্লির ভিতরের দিকে) \\(\\mathrm{O_2}\\) ও \\(\\mathrm{H^+}\\) মিলে পানি উৎপন্ন হয়, তাই বৈজ্ঞানিকভাবে (i) সত্য এবং সঠিক উত্তর (ঘ) i, ii ও iii হওয়া উচিত।"
+    },
+    {
+      "id": "biology_1st-ch9-mcq-072",
+      "text": "কোন বর্ণের আলোতে সালোকসংশ্লেষণের হার বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেগুনি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নীল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কমলা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ক্লোরোফিল লাল ও নীল আলো সবচেয়ে বেশি শোষণ করে; পাঠ্যবই অনুযায়ী লাল আলোতে সালোকসংশ্লেষণের হার সর্বাধিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch9-mcq-073",
+      "text": "ক্যালভিন চক্রে \\(\\mathrm{CO_2}\\) এর গ্রাহক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3PGA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "RuBP",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OAA",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PEP",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ক্যালভিন চক্রে 5-কার্বন যুক্ত RuBP \\(\\mathrm{CO_2}\\) গ্রহণ করে (রুবিস্কোর সাহায্যে) 3PGA উৎপন্ন করে। OAA ও PEP \\(\\mathrm{C_4}\\) চক্রের যৌগ।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch9-mcq-074",
+      "text": "নিচের কোনটি ম্যাক্রো মৌল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Cl",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Mg",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Mn",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "Mg ম্যাক্রো (বৃহৎ মাত্রার) মৌল। Cl, Cu, Mn মাইক্রো মৌল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

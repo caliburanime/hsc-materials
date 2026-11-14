@@ -1,0 +1,138 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 1,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch1-mcq-001",
+      "text": "বাস্তব সংখ্যার স্বীকার্যের ক্ষেত্রে কোনটি সংযোজন বিধি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "4 + 5 = 5 + 4",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4 + (5 + 6) = (4 + 5) + 6",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4 + 0 = 4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2(3 + 4) = 2·3 + 2·4",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "যোগের সহযোগ বিধি (সংযোজন বিধি): \\(a + (b + c) = (a + b) + c\\)। তাই \\(4 + (5 + 6) = (4 + 5) + 6\\)। (ক) বিনিময় বিধি, (গ) যোগাত্মক অভেদক, (ঘ) বণ্টন বিধি।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch1-mcq-002",
+      "text": "\\(|3 - 2x| \\le 1\\) অসমতাটির সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2 ≤ x ≤ 1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 ≤ x ≤ 2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "x ≤ 1 অথবা x ≥ 2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1 < x ≤ 2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(|3-2x| \\le 1 \\Rightarrow -1 \\le 3-2x \\le 1\\)\n\\(\\Rightarrow -4 \\le -2x \\le -2 \\Rightarrow 1 \\le x \\le 2\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch1-mcq-003",
+      "text": "S = {x ∈ ℝ ; −2 ≤ 3 − x ≤ 8} হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "S = {x ∈ ℝ ; x ∈ [−5, 5]}"
+        },
+        {
+          "label": "ii",
+          "text": "\\(|x| \\ge 5\\)"
+        },
+        {
+          "label": "iii",
+          "text": "Sup(S) = 5"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(-2 \\le 3-x \\le 8 \\Rightarrow -5 \\le x \\le 5\\)\n(i) সত্য: \\(S = [-5, 5]\\)।\n(ii) মিথ্যা: \\(S\\) এর সকল \\(x\\) এর জন্য \\(|x| \\le 5\\)।\n(iii) সত্য: \\(S\\) এর ঊর্ধ্বসীমা \\(5\\), সুতরাং \\(\\text{Sup}(S) = 5\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

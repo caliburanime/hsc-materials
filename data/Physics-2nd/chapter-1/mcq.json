@@ -4261,6 +4261,1210 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-103",
+      "text": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত রূপ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(dw = Tds - du\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(du = Tds - pdv\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(dw = Tds - C_vdT\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তাপগতিবিদ্যার প্রথম সূত্র \\(dq = du + dw\\) এবং দ্বিতীয় সূত্র \\(dq = Tds\\) মিলিয়ে \\(dw = Tds - du\\) পাওয়া যায় (i সত্য)।\nপ্রসারণ কাজ \\(dw = pdv\\) বসালে \\(du = Tds - pdv\\) (ii সত্য)।\nআবার \\(du = C_vdT\\) বসালে \\(dw = Tds - C_vdT\\) (iii সত্য)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-104",
+      "text": "তাপগতীয় প্রক্রিয়ার ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমোষ্ণ প্রক্রিয়ায়, du = 0"
+        },
+        {
+          "label": "ii",
+          "text": "রুদ্ধতাপীয় প্রক্রিয়ায়, dw = −du"
+        },
+        {
+          "label": "iii",
+          "text": "সমআয়তন প্রক্রিয়ায়, dq = du"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সমোষ্ণ প্রক্রিয়ায় আদর্শ গ্যাসের তাপমাত্রা স্থির থাকে বলে \\(du = 0\\)।\n(ii) রুদ্ধতাপীয় প্রক্রিয়ায় \\(dq = 0\\), তাই \\(dw = -du\\)।\n(iii) সমআয়তন প্রক্রিয়ায় \\(dw = 0\\), তাই \\(dq = du\\)। তিনটিই সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-105",
+      "text": "একটি কার্নো ইঞ্জিন হিমাঙ্ক ও স্ফুটনাঙ্কের মধ্যে কার্যরত আছে। এর দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "98%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "62.18%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "46.28%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "26.81%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "হিমাঙ্ক \\(T_2 = 273\\) K, স্ফুটনাঙ্ক \\(T_1 = 373\\) K।\n\\(\\eta = \\left(1 - \\dfrac{T_2}{T_1}\\right)\\times 100\\% = \\left(1 - \\dfrac{273}{373}\\right)\\times 100\\% = 26.81\\%\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-106",
+      "text": "প্রত্যাগামী প্রক্রিয়ায় এন্ট্রপি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থির থাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শূন্য হয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "প্রত্যাগামী (প্রত্যাবর্তী) প্রক্রিয়ায় সিস্টেম ও পরিবেশের মোট এনট্রপির পরিবর্তন শূন্য, অর্থাৎ এনট্রপি স্থির থাকে। অপ্রত্যাগামী প্রক্রিয়ায় এনট্রপি বৃদ্ধি পায়।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-107",
+      "text": "থার্মোমিতির মূল সমীকরণ নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{N}{\\theta - \\theta_{ice}} = \\dfrac{X_\\theta - X_{ice}}{X_{steam} - X_{ice}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{\\theta - \\theta_{ice}}{N} = \\dfrac{X_\\theta - X_{ice}}{X_{steam} - X_{ice}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{N}{\\theta - \\theta_{ice}} = \\dfrac{X_{steam} - X_{ice}}{X_\\theta - X_{ice}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{\\theta - \\theta_{ice}}{N} = \\dfrac{X_{steam} - X_{ice}}{X_\\theta - X_{ice}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "থার্মোমিতির মূল সমীকরণ: \\(\\dfrac{\\theta - \\theta_{ice}}{N} = \\dfrac{X_\\theta - X_{ice}}{X_{steam} - X_{ice}}\\), যেখানে \\(N\\) মৌলিক ব্যবধান (সেলসিয়াস স্কেলে 100)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "খ is the standard form (sattacademy's key also gives খ). Option গ is the same relation with both sides inverted, so it is algebraically equivalent; the hand mark on the photo ticks ক, which is wrong."
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-108",
+      "text": "ত্রিপরমাণুক গ্যাসের জন্য γ এর মান—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.41",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.66",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3.00",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ত্রিপরমাণুক গ্যাসের (অরৈখিক) জন্য \\(\\gamma = \\dfrac{4}{3} \\approx 1.33\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-109",
+      "text": "কোনো ব্যবস্থা পরিবেশ থেকে 50 জুল তাপশক্তি শোষণ করে এবং পরিবেশের উপর 20 জুল কাজ সম্পাদন করে। এতে ব্যবস্থার অন্তঃস্থ শক্তির পরিবর্তন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "20 জুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30 জুল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "50 জুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "70 জুল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "প্রথম সূত্র: \\(\\Delta U = Q - W\\)\nএখানে \\(Q = 50\\) J (শোষিত), \\(W = 20\\) J (সিস্টেম কর্তৃক কাজ)।\n\\(\\Delta U = 50 - 20 = 30\\) J",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-110",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "Entropy অপরিবর্তিত থাকে"
+        },
+        {
+          "label": "ii",
+          "text": "তাপের আদান প্রদান ঘটে না"
+        },
+        {
+          "label": "iii",
+          "text": "তাপমাত্রার পরিবর্তন ঘটে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় তাপের আদান-প্রদান হয় না (\\(dq = 0\\)), ফলে (প্রত্যাগামী হলে) \\(dS = \\dfrac{dq}{T} = 0\\), অর্থাৎ এনট্রপি অপরিবর্তিত থাকে (i, ii সত্য)।\nএ প্রক্রিয়ায় গ্যাস প্রসারিত বা সংকুচিত হলে তাপমাত্রা পরিবর্তিত হয়, তাই (iii) মিথ্যা।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-111",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায় কোন ভৌত রাশি স্থির থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এনট্রপি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভ্যন্তরীণ শক্তি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "রুদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় \\(dq = 0\\), তাই \\(dS = \\dfrac{dq}{T} = 0\\); এনট্রপি স্থির থাকে। তাপমাত্রা, চাপ ও অভ্যন্তরীণ শক্তি পরিবর্তিত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-112",
+      "text": "\\(1.0 \\times 10^{5}\\,\\mathrm{Nm^{-2}}\\) স্থির চাপে কোনো আদর্শ গ্যাসের আয়তন \\(0.04\\,\\mathrm{m^3}\\) থেকে প্রসারিত হয়ে \\(0.05\\,\\mathrm{m^3}\\) হলো। বহিঃস্থ কাজের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1J",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "100J",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1000J",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(W = P\\Delta V = 1.0\\times 10^{5} \\times (0.05 - 0.04)\\)\n\\(= 1.0\\times 10^{5} \\times 0.01 = 1000\\) J",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-113",
+      "text": "অপ্রত্যাবর্তী প্রক্রিয়া—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি দ্রুত প্রক্রিয়া"
+        },
+        {
+          "label": "ii",
+          "text": "একটি স্বতঃস্ফূর্ত প্রক্রিয়া"
+        },
+        {
+          "label": "iii",
+          "text": "সিস্টেম তাপগতীয় সাম্যাবস্থা বজায় রাখে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "অপ্রত্যাবর্তী প্রক্রিয়া দ্রুত ঘটে, স্বতঃস্ফূর্ত হয় এবং এতে সিস্টেম প্রতিটি ধাপে তাপগতীয় সাম্যাবস্থা বজায় রাখতে পারে না। তাই তিনটি বিবৃতিই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-114",
+      "text": "কার্নোচক্রের দ্বিতীয় ধাপে",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চাপ হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "তাপমাত্রা হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "আয়তন হ্রাস পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কার্নো চক্রের দ্বিতীয় ধাপ রুদ্ধতাপীয় প্রসারণ। এতে আয়তন বাড়ে, চাপ কমে এবং তাপমাত্রা \\(T_1\\) থেকে \\(T_2\\)-তে নেমে আসে। তাই (i) ও (ii) সত্য, (iii) মিথ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-115",
+      "text": "প্রত্যাবর্তী প্রক্রিয়ার ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এটি স্বতঃস্ফূর্ত প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এটি ধীর প্রক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপগতীয় সাম্যাবস্থা বজায় থাকে না",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শক্তির অপচয় হয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "প্রত্যাবর্তী প্রক্রিয়া অত্যন্ত ধীর গতিতে ঘটে, যাতে সিস্টেম প্রতিটি ধাপে তাপগতীয় সাম্যাবস্থায় থাকে। স্বতঃস্ফূর্ত হওয়া ও শক্তির অপচয় অপ্রত্যাবর্তী প্রক্রিয়ার বৈশিষ্ট্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "A reversible process is infinitely slow and passes through equilibrium states; spontaneity, loss of equilibrium and dissipation describe irreversible processes."
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-116",
+      "text": "তাপ উৎসের তাপমাত্রা হল—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পড় এবং ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও : কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360K এবং দক্ষতা 40%।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "400K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "600K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "720K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "900K",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\eta = 1 - \\dfrac{T_2}{T_1}\\) থেকে \\(0.4 = 1 - \\dfrac{360}{T_1}\\)\n\\(\\dfrac{360}{T_1} = 0.6\\) \\(\\Rightarrow T_1 = 600\\) K",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-117",
+      "text": "ইঞ্জিনের দক্ষতা দ্বিগুণ করতে হলে উৎসের তাপমাত্রা বৃদ্ধি করতে হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পড় এবং ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও : কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360K এবং দক্ষতা 40%।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "450K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "600K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "900K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1200K",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "দক্ষতা দ্বিগুণ হলে \\(\\eta' = 80\\% = 0.8\\)।\n\\(0.8 = 1 - \\dfrac{360}{T_1'}\\) \\(\\Rightarrow T_1' = \\dfrac{360}{0.2} = 1800\\) K\nআগের উৎসের তাপমাত্রা 600 K, তাই বৃদ্ধি করতে হবে \\(1800 - 600 = 1200\\) K।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-118",
+      "text": "এনট্রপির একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{JK^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Jmole^{-1}K^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{N^{-1}m^{-2}C^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(dS = \\dfrac{dq}{T}\\) থেকে এনট্রপির একক \\(\\mathrm{JK^{-1}}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-119",
+      "text": "কোনো সিস্টেম কর্তৃক কৃতকাজ শূন্য-এর অর্থ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাপ স্থির কিন্তু আয়তন বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ স্থির কিন্তু আয়তন কমে যায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়তন স্থির কিন্তু চাপ বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাপ, আয়তন এবং তাপমাত্রা বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কাজ \\(W = P\\Delta V = 0\\) হতে হলে \\(\\Delta V = 0\\), অর্থাৎ আয়তন স্থির থাকবে। আয়তন স্থির রেখে তাপ দিলে চাপ বৃদ্ধি পায়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-120",
+      "text": "রুদ্ধতাপীয় প্রক্রিয়ায় একটি আদর্শ গ্যাসের চাপ ও তাপমাত্রার মধ্যে সম্পর্ক—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(P^{\\gamma-1}T^{\\gamma}\\) = ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(P^{\\gamma}T^{\\gamma+1}\\) = ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(P^{\\gamma}T^{\\gamma-1}\\) = ধ্রুবক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(P^{1-\\gamma}T^{\\gamma}\\) = ধ্রুবক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় \\(PV^{\\gamma} = \\) ধ্রুবক এবং \\(V = \\dfrac{nRT}{P}\\) বসালে \\(P^{1-\\gamma}T^{\\gamma} = \\) ধ্রুবক পাওয়া যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-121",
+      "text": "এক পরমাণুক গ্যাসের ক্ষেত্রে γ এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.11",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.41",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.33",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.67",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "এক পরমাণুক গ্যাসের জন্য \\(\\gamma = \\dfrac{5}{3} = 1.67\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-122",
+      "text": "রুদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় কোনো সিস্টেমের যে তাপগতীয় ধর্ম ধ্রুব থাকে তাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গতিশক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অন্তস্থ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তাপমাত্রা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এনট্রপি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "রুদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় \\(dq = 0\\) বলে \\(dS = 0\\); সুতরাং এনট্রপি ধ্রুব থাকে। এ কারণে একে সমএনট্রপি প্রক্রিয়াও বলা হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-123",
+      "text": "তাপের যান্ত্রিক সমতার একক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জুল-ক্যালরি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জুল/ক্যালরি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্যালরি/গ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্যালরি/জুল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "তাপের যান্ত্রিক সমতা \\(J = \\dfrac{W}{H}\\); এর একক জুল/ক্যালরি (\\(J = 4.2\\) J/cal)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-124",
+      "text": "একটি কার্নো ইঞ্জিনের পানির হিমাঙ্ক ও স্ফুটনাংক-এর মধ্যে কার্যকর দক্ষতা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "100 %",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "26.8 %",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "20.6 %",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0 %",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(T_1 = 373\\) K, \\(T_2 = 273\\) K।\n\\(\\eta = \\left(1 - \\dfrac{273}{373}\\right)\\times 100\\% = 26.8\\%\\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-125",
+      "text": "তিনটি সিস্টেম তাপীয় সাম্যাবস্থায় থাকলে তাদের নিচের কোন রাশিটি একই হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিভব শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অন্তস্থ শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপমাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তাপীয় সাম্যাবস্থায় থাকা সিস্টেমগুলোর তাপমাত্রা সমান হয় (তাপগতিবিদ্যার শূন্যতম সূত্র)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-126",
+      "text": "ইঞ্জিনটির উৎসের তাপমাত্রা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ২৩ ও ২৪ নং প্রশ্নের উত্তর দাও : একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27°C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্ম-দক্ষতা হয় 50%।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "500 K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "600 K",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "550 K",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "650 K",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(T_2 = 27 + 273 = 300\\) K, \\(\\eta = 0.5\\)।\n\\(0.5 = 1 - \\dfrac{300}{T_1}\\) \\(\\Rightarrow T_1 = \\dfrac{300}{0.5} = 600\\) K",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-127",
+      "text": "ইঞ্জিনটির দক্ষতা 60% করতে হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ২৩ ও ২৪ নং প্রশ্নের উত্তর দাও : একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27°C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্ম-দক্ষতা হয় 50%।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎসের তাপমাত্রা 750 K করতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "তাপগ্রাহকের তাপমাত্রা 150 K কমাতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "উৎসের তাপমাত্রা 150 K বাড়াতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\eta = 0.6\\) হলে:\nতাপগ্রাহক স্থির রেখে \\(T_1 = \\dfrac{300}{1-0.6} = 750\\) K, অর্থাৎ উৎস 150 K বাড়াতে হবে (i, iii সত্য)।\nউৎস স্থির (600 K) রেখে \\(T_2 = 600\\times 0.4 = 240\\) K, অর্থাৎ তাপগ্রাহক 60 K কমাতে হবে, 150 K নয়; তাই (ii) মিথ্যা।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-128",
+      "text": "উন্মুক্ত সিস্টেমে সিস্টেম ও পরিবেশের মধ্যে আদান-প্রদান হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভর ও ভরবেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভরবেগ ও শক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভর ও শক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভর ও তাপ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "উন্মুক্ত সিস্টেমে সিস্টেম ও পরিবেশের মধ্যে ভর ও শক্তি উভয়ের আদান-প্রদান ঘটে। বদ্ধ সিস্টেমে শুধু শক্তির এবং বিচ্ছিন্ন সিস্টেমে কোনোটিরই আদান-প্রদান হয় না।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-129",
+      "text": "আয়তন অপরিবর্তিত রেখে কোনো গ্যাসে যদি কিছু তাপ প্রয়োগ করা হয়, তাহলে ঐ গ্যাসের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চাপ বৃদ্ধি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "গতিশক্তি বৃদ্ধি পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "তাপমাত্রা বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "আয়তন স্থির রেখে তাপ দিলে গ্যাসের অণুর গতিশক্তি বাড়ে, ফলে তাপমাত্রা বৃদ্ধি পায় এবং \\(P \\propto T\\) হওয়ায় চাপও বৃদ্ধি পায়। তিনটিই সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch1-mcq-130",
+      "text": "m ভরের এবং s আপেক্ষিক তাপের কোনো বস্তুর উচ্চ তাপমাত্রা \\(T_1\\) থেকে নিম্ন তাপমাত্রার \\(T_2\\) তে পরিবর্তিত হলে এর এনট্রপির পরিবর্তন হবে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(ms(\\ln T_2 - \\ln T_1)\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(ms(\\ln T_1 - \\ln T_2)\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(ms\\ln(T_2 - T_1)\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(ms\\ln(T_1 - T_2)\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(dS = \\dfrac{dq}{T} = \\dfrac{ms\\,dT}{T}\\)\n\\(\\Delta S = ms\\int_{T_1}^{T_2}\\dfrac{dT}{T} = ms\\ln\\dfrac{T_2}{T_1} = ms(\\ln T_2 - \\ln T_1)\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

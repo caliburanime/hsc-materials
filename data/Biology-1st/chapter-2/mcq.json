@@ -2114,6 +2114,144 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch2-mcq-050",
+      "text": "উদ্দীপকে 'C' অংশের মাধ্যমে কী ঘটে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ৮ ও ৯ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-8-9-stem.svg",
+      "group": "biology_1st-2026-ALL-8-9",
+      "statements": [
+        {
+          "label": "i",
+          "text": "জিনগত বৈচিত্র্য"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রসিংওভার"
+        },
+        {
+          "label": "iii",
+          "text": "সিস্টার ক্রোমাটিডের অংশ বিনিময়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "C হলো কায়াজমা, যেখানে হোমোলগাস ক্রোমোসোমের নন-সিস্টার ক্রোমাটিডের মধ্যে ক্রসিংওভার ঘটে এবং ফলে জিনগত বৈচিত্র্য আসে। (i) ও (ii) সঠিক; (iii) ভুল, কারণ অংশ বিনিময় নন-সিস্টার ক্রোমাটিডের মধ্যে হয়, সিস্টার ক্রোমাটিডের মধ্যে নয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Crossing over exchanges segments between non-sister chromatids of homologous chromosomes, so iii is wrong."
+    },
+    {
+      "id": "biology_1st-ch2-mcq-051",
+      "text": "উদ্দীপকে প্রদর্শিত প্রক্রিয়াটি কোন উপধাপে ঘটে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ৮ ও ৯ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-8-9-stem.svg",
+      "group": "biology_1st-2026-ALL-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "লেপ্টোটিন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাইগোটিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্যাকাইটিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিপ্লোটিন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ক্রসিংওভার মিয়োসিস-১ এর প্রোফেজের প্যাকাইটিন উপধাপে ঘটে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch2-mcq-052",
+      "text": "মাইটোসিস বিভাজনের অ্যানাফেজে মেটাসেন্ট্রিক ক্রোমোসোমের আকৃতি কেমন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "J",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "L",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "I",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অ্যানাফেজে সেন্ট্রোমিয়ার ভাগ হয়ে ক্রোমাটিড দুই মেরুর দিকে সরে যায়; মেটাসেন্ট্রিক ক্রোমোসোমের সেন্ট্রোমিয়ার মাঝখানে থাকায় এটি V আকৃতি ধারণ করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

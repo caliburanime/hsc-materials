@@ -3751,6 +3751,1326 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-094",
+      "text": "তেজস্ক্রিয় রূপান্তর সূত্র \\(N = N_0e^{-\\lambda t}\\) নিচের কোন লেখচিত্রটি সমর্থন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-094-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-094-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-094-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch9-mcq-094-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( N=N_0e^{-\\lambda t} \\) এ \\( t=0 \\) এ \\( N=N_0 \\) এবং সময়ের সাথে N সূচকীয়ভাবে কমে \\( t\\to\\infty \\) এ শূন্যের দিকে যায়। এই বক্ররেখা (ক)-এ দেখানো হয়েছে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-095",
+      "text": "তেজস্ক্রিয় বস্তুখণ্ডের গড় জীবন হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\lambda}{\\ln 2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{0.693}{T_{1/2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{0.693}{\\lambda}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "গড় আয়ু \\( \\tau=\\dfrac{1}{\\lambda} \\); এটি অর্ধায়ুর সাথে \\( \\tau=\\dfrac{T_{1/2}}{0.693} \\) সম্পর্কে যুক্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-096",
+      "text": "হাইড্রোজেন পরমাণুর চতুর্থ বোর কক্ষে ইলেকট্রনের কৌণিক ভরবেগ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{2h}{\\pi}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{h}{\\lambda}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{2h}{\\lambda}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কৌণিক ভরবেগ \\( L=\\dfrac{nh}{2\\pi} \\); চতুর্থ কক্ষে n = 4,\n\\( L=\\dfrac{4h}{2\\pi}=\\dfrac{2h}{\\pi} \\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-097",
+      "text": "Y মৌলের পারমাণবিক সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের তথ্যচিত্রের ভিত্তিতে ৪নং ও ৫নং প্রশ্নের উত্তর দাও : \\(X \\xrightarrow{\\beta} Y \\xrightarrow{\\alpha} Z \\xrightarrow{\\gamma} M\\) [এখানে α, β ও γ যথাক্রমে X, Y ও Z হতে রশ্মির বিকিরণ বোঝানো হয়েছে। M মৌলের ভরসংখ্যা 210 এবং পারমাণবিক সংখ্যা 82.]",
+      "stem_image": null,
+      "group": "physics_2nd-2022-CB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "84",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "82",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "80",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "78",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "Z-এর ভরসংখ্যা 210 ও পারমাণবিক সংখ্যা 82 (γ বিকিরণে পরিবর্তন হয় না)।\nα নির্গমনে ভরসংখ্যা 4 ও পারমাণবিক সংখ্যা 2 কমে, তাই Y-এর পারমাণবিক সংখ্যা \\( =82+2=84 \\) (ভরসংখ্যা 214)।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-098",
+      "text": "উদ্দীপকের X ও Y মৌল হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের তথ্যচিত্রের ভিত্তিতে ৪নং ও ৫নং প্রশ্নের উত্তর দাও : \\(X \\xrightarrow{\\beta} Y \\xrightarrow{\\alpha} Z \\xrightarrow{\\gamma} M\\) [এখানে α, β ও γ যথাক্রমে X, Y ও Z হতে রশ্মির বিকিরণ বোঝানো হয়েছে। M মৌলের ভরসংখ্যা 210 এবং পারমাণবিক সংখ্যা 82.]",
+      "stem_image": null,
+      "group": "physics_2nd-2022-CB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "আইসোবার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আইসোটোন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আইসোটোপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইসোমার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "β নির্গমনে পারমাণবিক সংখ্যা 1 বাড়ে, ভরসংখ্যা অপরিবর্তিত। তাই X হলো \\( {}^{214}_{83} \\) এবং Y হলো \\( {}^{214}_{84} \\)। ভরসংখ্যা সমান কিন্তু পারমাণবিক সংখ্যা ভিন্ন, তাই এরা আইসোবার।",
+      "source": {
+        "board": "CB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-099",
+      "text": "নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফটোইলেকট্রন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গামা রশ্মি উচ্চ কম্পাঙ্কের তড়িৎ চুম্বকীয় তরঙ্গ। আলফা ও বিটা রশ্মি কণা প্রবাহ এবং ফটোইলেকট্রন ইলেকট্রন।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-100",
+      "text": "নিচের কোনটি চৌম্বক ক্ষেত্র দ্বারা সবচেয়ে বেশি বিক্ষিপ্ত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবলোহিত রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলফা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিটা রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বিটা কণার ভর খুব কম (ইলেকট্রনের সমান) অথচ চার্জ আছে, তাই এর বিক্ষেপ সবচেয়ে বেশি। আলফা কণা ভারী বলে কম বিক্ষিপ্ত হয়; গামা ও অবলোহিত রশ্মি চার্জহীন, তাই বিক্ষিপ্ত হয় না।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-101",
+      "text": "একটি বিটা কণা নির্গত হলে নিউক্লিয়াসের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোটন সংখ্যা বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউট্রন সংখ্যা বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোটন সংখ্যা হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভরসংখ্যা হ্রাস পায়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বিটা (\\( \\beta^- \\)) নির্গমনের সময় নিউক্লিয়াসের একটি নিউট্রন প্রোটনে রূপান্তরিত হয় (\\( n\\to p+e^-+\\bar\\nu \\)), ফলে প্রোটন সংখ্যা 1 বাড়ে; ভরসংখ্যা অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-102",
+      "text": "তেজস্ক্রিয় সক্রিয়তার একক—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেকেরেল"
+        },
+        {
+          "label": "ii",
+          "text": "কুরী"
+        },
+        {
+          "label": "iii",
+          "text": "রাদারফোর্ড"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তেজস্ক্রিয়তার (সক্রিয়তার) একক বেকেরেল (SI একক), কুরী ও রাদারফোর্ড; সবগুলোই এর একক।\n\\( 1\\ \\text{Ci}=3.7\\times10^{10}\\ \\text{Bq} \\), \\( 1\\ \\text{Rd}=10^6\\ \\text{Bq} \\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-103",
+      "text": "কোনটি তড়িৎ চুম্বকীয় তরঙ্গ নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৃশ্যমান আলো",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "X-রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলফা রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "আলফা রশ্মি হিলিয়াম নিউক্লিয়াসের (ধনাত্মক কণা) প্রবাহ, তড়িৎ চুম্বকীয় তরঙ্গ নয়। দৃশ্যমান আলো, X-রশ্মি ও গামা রশ্মি তড়িৎ চুম্বকীয় তরঙ্গ।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-104",
+      "text": "আইসোটোপের 'টোপ'-এর অর্থ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিকিরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\"আইসোটোপ\" শব্দটি গ্রিক \"iso\" (সমান) ও \"topos\" (স্থান) থেকে এসেছে; \"টোপ\" অর্থ স্থান, কারণ আইসোটোপগুলো পর্যায় সারণির একই স্থানে অবস্থান করে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "From Greek isos (same) + topos (place): isotopes occupy the same place in the periodic table. The hand-marked key on the photo chose ঘ."
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-105",
+      "text": "1 amu ভরের সমতুল্য শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "932 MeV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "93.2 MeV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "9.32 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.932 MeV",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( 1\\ \\text{amu}=1.66\\times10^{-27}\\ \\text{kg} \\) এর সমতুল্য শক্তি \\( =931\\text{ MeV}\\approx932\\ \\text{MeV} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-106",
+      "text": "\\({}^{40}_{18}\\mathrm{Ar}\\) ও \\({}^{40}_{20}\\mathrm{Ca}\\) হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আইসোমার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আইসোটোপ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আইসোবার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইসোটোন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\( {}^{40}_{18}\\text{Ar} \\) ও \\( {}^{40}_{20}\\text{Ca} \\) এর ভরসংখ্যা সমান (40) কিন্তু পারমাণবিক সংখ্যা ভিন্ন (18 ও 20), তাই এরা আইসোবার।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-107",
+      "text": "কক্ষপথে ঘূর্ণনশীল ইলেকট্রনের ওপর প্রযুক্ত কেন্দ্রমুখী বল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(F_c = \\dfrac{mv^2}{r}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(F_c = m\\omega^2 r\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(F_c = mr^2\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: \\( F_c=\\dfrac{mv^2}{r} \\)।\n(ii) সত্য: \\( v=\\omega r \\) বসালে \\( F_c=m\\omega^2r \\)।\n(iii) মিথ্যা: \\( mr^2 \\) বল নয়, এটি জড়তার ভ্রামকের সদৃশ রাশি।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-108",
+      "text": "কোনো নিউক্লিয়াসের ভরত্রুটি 0.0377 amu হলে বন্ধন শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "31.2 MeV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "32.5 MeV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "33.1 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "35.1 MeV",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বন্ধন শক্তি \\( =0.0377\\times931=35.1\\ \\text{MeV} \\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-109",
+      "text": "1 কুরি = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.7 \\times 10^{3}\\) Bq",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.7 \\times 10^{4}\\) Bq",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.7 \\times 10^{7}\\) Bq",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(3.7 \\times 10^{10}\\) Bq",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\( 1\\ \\text{কুরি}=3.7\\times10^{10}\\ \\text{Bq} \\), অর্থাৎ প্রতি সেকেন্ডে \\( 3.7\\times10^{10} \\) টি ক্ষয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-110",
+      "text": "\\({}^{7}_{3}\\mathrm{Li} + \\mathrm{X} \\longrightarrow {}^{4}_{2}\\mathrm{He} + {}^{4}_{2}\\mathrm{He}\\) এখানে X হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আলফা কণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিউটেরন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ভরসংখ্যা ও পারমাণবিক সংখ্যা সংরক্ষিত: X-এর ভরসংখ্যা \\( =4+4-7=1 \\), পারমাণবিক সংখ্যা \\( =2+2-3=1 \\)। অতএব \\( X={}^{1}_{1}\\text{H} \\), অর্থাৎ প্রোটন।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Balancing mass and atomic numbers gives X = ¹₁H, a proton; the hand-marked key on the photo chose ঘ (deuteron)."
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-111",
+      "text": "প্রথম ও দ্বিতীয় বোর কক্ষপথে ইলেকট্রনের শক্তির অনুপাত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1 : 2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1 : 4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2 : 1",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4 : 1",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\( E_n\\propto\\dfrac{1}{n^2} \\)\n\\( \\dfrac{E_1}{E_2}=\\dfrac{2^2}{1^2}=4:1 \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-112",
+      "text": "কোনো তেজস্ক্রিয় পদার্থের প্রারম্ভিক পরমাণু সংখ্যা \\(N_0\\) অর্ধায়ু 3 দিন হলে 15 দিন পর অক্ষত পরমাণু সংখ্যা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{N_0}{32}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{N_0}{16}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{N_0}{10}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{N_0}{8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অর্ধায়ুর সংখ্যা \\( n=\\dfrac{15}{3}=5 \\)\n\\( N=N_0\\left(\\dfrac{1}{2}\\right)^5=\\dfrac{N_0}{32} \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-113",
+      "text": "যখন কোনো তেজস্ক্রিয় মৌল থেকে α কণা নির্গত হয় তখন পর্যায় সারণিতে মৌলটির অবস্থান নিচে নেমে যায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক ঘর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুই ঘর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তিন ঘর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চার ঘর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "α কণা নির্গমনে পারমাণবিক সংখ্যা 2 কমে, তাই মৌলটি পর্যায় সারণিতে দুই ঘর পিছিয়ে (নিচে নেমে) যায়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-114",
+      "text": "কোনো তেজস্ক্রিয় মৌলের 1 দিন পর \\(\\dfrac{1}{16}\\) অংশ অবশিষ্ট থাকলে অর্ধায়ু হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "12 ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "6 ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3 ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2 ঘণ্টা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\( \\dfrac{N}{N_0}=\\dfrac{1}{16}=\\left(\\dfrac{1}{2}\\right)^4 \\), অর্থাৎ 4টি অর্ধায়ু = 24 ঘণ্টা\n\\( T_{1/2}=\\dfrac{24}{4}=6 \\) ঘণ্টা",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "1/16 = (1/2)⁴, so 24 hours is 4 half-lives and the half-life is 6 hours; the hand-marked key on the photo chose গ."
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-115",
+      "text": "বিক্রিয়াটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ৪ ও ৫ নং প্রশ্নের উত্তর দাও : \\({}^{1}_{0}\\mathrm{n} + {}^{235}_{92}\\mathrm{U} \\rightarrow {}^{141}_{56}\\mathrm{Ba} + {}^{92}_{36}\\mathrm{Kr} + 3\\,{}^{1}_{0}\\mathrm{n}\\) + শক্তি।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "ফিউশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফিশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিউক্লীয় তাপ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংযোজন বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "এখানে ভারী নিউক্লিয়াস (\\( {}^{235}\\text{U} \\)) নিউট্রন শোষণ করে দুটি মাঝারি ভরের নিউক্লিয়াসে (Ba, Kr) ভেঙে শক্তি ও নিউট্রন নির্গত করছে; এটি নিউক্লীয় ফিশন বিক্রিয়া।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-116",
+      "text": "বিক্রিয়াটিতে কী পরিমাণ শক্তি উৎপন্ন হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক হতে ৪ ও ৫ নং প্রশ্নের উত্তর দাও : \\({}^{1}_{0}\\mathrm{n} + {}^{235}_{92}\\mathrm{U} \\rightarrow {}^{141}_{56}\\mathrm{Ba} + {}^{92}_{36}\\mathrm{Kr} + 3\\,{}^{1}_{0}\\mathrm{n}\\) + শক্তি।",
+      "stem_image": null,
+      "group": "physics_2nd-2022-MB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "132 MeV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "182 MeV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "192 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "200 MeV",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "একটি \\( {}^{235}\\text{U} \\) নিউক্লিয়াসের ফিশনে প্রায় 200 MeV শক্তি উৎপন্ন হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-117",
+      "text": "1 a.m.u =",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "931 MeV"
+        },
+        {
+          "label": "ii",
+          "text": "\\(931 \\times 10^{6}\\) eV"
+        },
+        {
+          "label": "iii",
+          "text": "\\(1.66057 \\times 10^{-27}\\) kg"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: \\( 1\\ \\text{amu}\\approx931\\ \\text{MeV} \\)।\n(ii) সত্য: \\( 931\\ \\text{MeV}=931\\times10^6\\ \\text{eV} \\)।\n(iii) সত্য: \\( 1\\ \\text{amu}=1.66057\\times10^{-27}\\ \\text{kg} \\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-118",
+      "text": "নিচের কোনটি চার্জ নিরপেক্ষ রশ্মি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্যাথোড রশ্মি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আলফা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গামা রশ্মি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিটা রশ্মি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গামা রশ্মি তড়িৎ চুম্বকীয় তরঙ্গ, চার্জহীন। ক্যাথোড রশ্মি ও বিটা রশ্মি ঋণাত্মক চার্জযুক্ত ইলেকট্রন প্রবাহ এবং আলফা রশ্মি ধনাত্মক চার্জযুক্ত।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-119",
+      "text": "একটি নিউক্লিয়াসের ভরত্রুটি 0.0377 a.m.u. হলে এর বন্ধন শক্তি কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3.51 MeV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "35.2 MeV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "37.7 MeV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "931 MeV",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বন্ধন শক্তি \\( =0.0377\\times931.5\\approx35.1\\text{ MeV} \\), প্রদত্ত বিকল্পগুলোর মধ্যে নিকটতম 35.2 MeV।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-120",
+      "text": "1kg ইউরেনিয়াম \\(({}^{235}\\mathrm{U})\\) হতে শক্তির পরিমাণ কত kwh?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(5.25 \\times 10^{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2.29 \\times 10^{7}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(3.92 \\times 10^{7}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9.32 \\times 10^{7}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "1 kg \\( {}^{235}\\text{U} \\) এর পরমাণু সংখ্যা \\( =\\dfrac{1000}{235}\\times6.022\\times10^{23}=2.56\\times10^{24} \\)\nমোট শক্তি \\( =2.56\\times10^{24}\\times200\\ \\text{MeV}=5.13\\times10^{26}\\ \\text{MeV}=8.2\\times10^{13}\\ \\text{J} \\)\n\\( =\\dfrac{8.2\\times10^{13}}{3.6\\times10^6}\\approx2.29\\times10^{7}\\ \\text{kWh} \\)",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-121",
+      "text": "একটি ফিশন বিক্রিয়ায় \\({}^{235}_{92}\\mathrm{U} + {}^{1}_{0}\\mathrm{n} \\rightarrow {}^{141}_{56}\\mathrm{Ba} + {}^{92}_{36}\\mathrm{Kr}\\) + শক্তি + ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দুটি নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তিনটি নিউট্রন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দুটি প্রোটন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তিনটি প্রোটন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ভরসংখ্যা সংরক্ষণ: বামে \\( 235+1=236 \\), ডানে \\( 141+92=233 \\), ঘাটতি 3। পারমাণবিক সংখ্যা মেলে (92 = 56 + 36), তাই তিনটি নিউট্রন (\\( 3\\,{}^1_0\\text{n} \\)) নির্গত হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-122",
+      "text": "রিডবার্গ ধ্রুবকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.097 \\times 10^{7}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.097\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.097\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.097 \\times 10^{-7}\\,\\mathrm{m^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "রিডবার্গ ধ্রুবকের মান \\( R=1.097\\times10^{7}\\ \\text{m}^{-1} \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-123",
+      "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু 5 বছর। 25 বছর পর মৌলটির কত অংশ ক্ষয়প্রাপ্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(3.127 \\times 10^{-2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(3.198 \\times 10^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(6.802 \\times 10^{-1}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(9.687 \\times 10^{-1}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "অর্ধায়ুর সংখ্যা \\( n=\\dfrac{25}{5}=5 \\)\nঅবশিষ্ট অংশ \\( =\\left(\\dfrac{1}{2}\\right)^5=\\dfrac{1}{32}=0.03125 \\)\nক্ষয়প্রাপ্ত অংশ \\( =1-0.03125=0.96875\\approx9.687\\times10^{-1} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-124",
+      "text": "1 amu \\((1.66 \\times 10^{-27}\\,\\mathrm{kg})\\) ভরের সমতুল্য শক্তি কত eV?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(9.338 \\times 10^{8}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(9.338 \\times 10^{6}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.113",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(1.494 \\times 10^{-10}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\( E=mc^2=1.66\\times10^{-27}\\times(3\\times10^8)^2=1.494\\times10^{-10}\\ \\text{J} \\)\n\\( =\\dfrac{1.494\\times10^{-10}}{1.6\\times10^{-19}}=9.338\\times10^{8}\\ \\text{eV} \\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "E = mc² = 1.66 × 10⁻²⁷ × (3 × 10⁸)² = 1.494 × 10⁻¹⁰ J = 9.338 × 10⁸ eV (about 931 MeV); the hand-marked key chose খ."
+    },
+    {
+      "id": "physics_2nd-ch9-mcq-125",
+      "text": "তেজস্ক্রিয়তা—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি নিউক্লীয় ঘটনা"
+        },
+        {
+          "label": "ii",
+          "text": "একটি স্বতঃস্ফূর্ত ঘটনা"
+        },
+        {
+          "label": "iii",
+          "text": "মৌলের পারমাণবিক সংখ্যার উপর নির্ভরশীল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: তেজস্ক্রিয়তা নিউক্লিয়াসের অস্থিরতা থেকে উদ্ভূত নিউক্লীয় ঘটনা।\n(ii) সত্য: বাহ্যিক কারণ ছাড়াই এটি স্বতঃস্ফূর্তভাবে ঘটে।\n(iii) সত্য: নিউক্লিয়াসের স্থিতিশীলতা পারমাণবিক সংখ্যার ওপর নির্ভর করে; যেমন \\( Z>82 \\) মৌলগুলো সাধারণত তেজস্ক্রিয়।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

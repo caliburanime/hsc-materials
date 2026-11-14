@@ -1473,6 +1473,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-038",
+      "text": "ত্রিকোণমিতিক সমীকরণ \\(2\\cos\\theta = \\sqrt{3}\\) এর সমাধান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\theta = n\\pi + \\dfrac{\\pi}{6}, n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\theta = n\\pi + \\dfrac{\\pi}{3}, n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\theta = 2n\\pi \\pm \\dfrac{\\pi}{6}, n \\in \\mathbb{Z}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\theta = 2n\\pi \\pm \\dfrac{\\pi}{3}, n \\in \\mathbb{Z}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\cos\\theta = \\dfrac{\\sqrt{3}}{2} = \\cos\\dfrac{\\pi}{6}\\)\n\\(\\therefore \\theta = 2n\\pi \\pm \\dfrac{\\pi}{6},\\ n \\in \\mathbb{Z}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch7-mcq-039",
+      "text": "\\(\\sin\\cot^{-1}\\cos\\tan^{-1}x\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{x}{\\sqrt{1+x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1}{\\sqrt{1+x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{1}{\\sqrt{2+x^2}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\sqrt{\\dfrac{1+x^2}{2+x^2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\tan^{-1}x = \\alpha\\) হলে \\(\\cos\\alpha = \\dfrac{1}{\\sqrt{1+x^2}} = c\\)। এখন \\(\\cot^{-1}c = \\beta\\) হলে \\(\\sin\\beta = \\dfrac{1}{\\sqrt{1+c^2}}\\)।\n\\(= \\dfrac{1}{\\sqrt{1 + \\frac{1}{1+x^2}}} = \\sqrt{\\dfrac{1+x^2}{2+x^2}}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

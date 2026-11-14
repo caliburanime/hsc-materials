@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 256" width="270" height="256">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#111"/></marker>
+<marker id="ar2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<style>.v{font-family:"Times New Roman",Times,serif;font-style:italic}.t{font-family:"Times New Roman",Times,serif}.b{font-family:"Noto Sans Bengali","Hind Siliguri",sans-serif}text{fill:#111;font-size:13px}
+.s{fill:none;stroke:#111;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}.d{fill:#111}</style>
+<rect width="270" height="256" fill="#fff"/>
+<circle class="s" cx="110" cy="115" r="56"/><path class="s" d="M20,115 H96"/><path class="s" d="M96,92 V138"/><path class="s" d="M96,104 L124,82 V42 H235"/><path class="s" d="M96,126 L124,148 V232"/><path class="s" d="M124,148 L100,128.5" marker-end="url(#ar2)"/><text x="242" y="46" text-anchor="start" class="v" style="font-size:16px">y</text><text x="8" y="108" text-anchor="start" class="v" style="font-size:16px">x</text><text x="130" y="248" text-anchor="start" class="v" style="font-size:16px">z</text>
+</svg>

@@ -1618,6 +1618,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-038",
+      "text": "রিডিউসিং সুগার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্লুকোজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুক্রোজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্টার্চ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেলুলোজ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "গ্লুকোজ মনোস্যাকারাইড; মুক্ত অ্যালডিহাইড গ্রুপ থাকায় এটি বেনেডিক্ট বিকারককে বিজারিত করে, তাই রিডিউসিং সুগার। সুক্রোজ, স্টার্চ ও সেলুলোজ নন-রিডিউসিং।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch3-mcq-039",
+      "text": "কোলেস্টেরল কোন জাতীয় পদার্থ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কার্বোহাইড্রেট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোটিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লিপিড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভিটামিন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কোলেস্টেরল একটি স্টেরয়েড জাতীয় অ্যালকোহল, যা লিপিডের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

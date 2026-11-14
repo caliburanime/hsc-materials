@@ -1,0 +1,46 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch2-mcq-001",
+      "text": "'a' এর মান কত হলে \\(2\\hat{i} - 3\\hat{j} + a\\hat{k}\\) এবং \\(3\\hat{i} - 4\\hat{j} + 3\\hat{k}\\) ভেক্টরদ্বয় পরস্পর লম্ব হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−6",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−2",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ভেক্টরদ্বয় লম্ব হলে ডট গুণফল \\(0\\):\n\\(2\\cdot3 + (-3)(-4) + a\\cdot3 = 0\\)\n\\(6 + 12 + 3a = 0 \\Rightarrow a = -6\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

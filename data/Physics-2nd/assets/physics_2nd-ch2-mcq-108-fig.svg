@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 210" width="200" height="210">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker></defs>
+<style>.l{fill:none;stroke:#111;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}.t{fill:none;stroke:#111;stroke-width:1.5}.d{fill:#111;stroke:none}.v{font-family:'Times New Roman',Times,serif;font-style:italic;fill:#111}.n{font-family:'Times New Roman',Times,serif;fill:#111}.b{font-family:Noto Sans Bengali, Hind Siliguri, sans-serif;fill:#111}</style>
+<rect width="200" height="210" fill="#fff"/>
+<text x="14" y="45" class="v" font-size="15" text-anchor="start">i</text><path class="l" d="M50,40 H100 M100,22 V58 M118,29 V51 M118,40 H170"/><text x="14" y="110" class="v" font-size="15" text-anchor="start">ii</text><path class="l" d="M50,105 H100 M100,87 V123 M118,87 V123 M118,105 H170"/><text x="14" y="175" class="v" font-size="15" text-anchor="start">iii</text><path class="l" d="M50,170 H100 M100,152 V188 M118,152 V188 M118,170 H170"/><path class="l" d="M84,192 L132,148" marker-end="url(#ar)"/>
+</svg>

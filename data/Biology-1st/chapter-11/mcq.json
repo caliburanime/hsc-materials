@@ -2124,6 +2124,144 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch11-mcq-049",
+      "text": "উদ্দীপক 'G' ব্যাকটেরিয়াতে প্রবেশ করানোর প্রক্রিয়া কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-17-18-stem.svg",
+      "group": "biology_1st-2026-ALL-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রান্সফরমেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রান্সলেশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ট্রান্সক্রিপশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রান্সলোকেশান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "প্লাজমিডে নির্দিষ্ট জিন যুক্ত করে তা ব্যাকটেরিয়া কোষে প্রবেশ করানোর প্রক্রিয়াকে ট্রান্সফরমেশন বলে। ট্রান্সক্রিপশন (DNA→RNA) ও ট্রান্সলেশন (RNA→প্রোটিন) ভিন্ন প্রক্রিয়া।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch11-mcq-050",
+      "text": "উদ্দীপকের প্রযুক্তিটি ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-17-18-stem.svg",
+      "group": "biology_1st-2026-ALL-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "রোগ প্রতিরোধী জাত উৎপাদনে"
+        },
+        {
+          "label": "ii",
+          "text": "ট্রান্সজেনিক জীব উৎপাদনে"
+        },
+        {
+          "label": "iii",
+          "text": "ইনসুলিন উৎপাদনে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "উদ্দীপকে রিকম্বিন্যান্ট DNA প্রযুক্তি দেখানো হয়েছে। এটি রোগ প্রতিরোধী জাত উৎপাদন, ট্রান্সজেনিক জীব সৃষ্টি এবং ইনসুলিন উৎপাদন — তিনটিতেই ব্যবহৃত হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch11-mcq-051",
+      "text": "কোনটিকে আণবিক কাঁচি বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "DNA পলিমারেজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লাইগেজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এন্ডোনিউক্লিয়েজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেলিকেজ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ এনজাইম DNA-কে নির্দিষ্ট স্থানে কাটে, তাই একে আণবিক কাঁচি বলা হয়। লাইগেজকে আণবিক আঠা বলা হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Restriction endonucleases cut DNA at specific sites (\"molecular scissors\"); ligase joins DNA fragments (\"molecular glue\"). The tick on the scan chose খ."
     }
   ]
 }

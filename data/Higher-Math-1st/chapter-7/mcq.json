@@ -1572,6 +1572,177 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-039",
+      "text": "sin(4x − 2) এর পর্যায় কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{\\pi}{2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "π",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2π",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4π",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\sin(ax+b)\\) এর পর্যায় \\(\\dfrac{2\\pi}{a}\\)। এখানে \\(a = 4\\), তাই পর্যায় \\(\\dfrac{2\\pi}{4} = \\dfrac{\\pi}{2}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-040",
+      "text": "\\(\\tan\\theta = \\dfrac{1}{y}\\) হলে sin2θ = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\dfrac{2y}{1+y^2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\dfrac{1+y^2}{1-y^2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\dfrac{2y}{1-y^2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\dfrac{1-y^2}{1+y^2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\sin2\\theta = \\dfrac{2\\tan\\theta}{1+\\tan^2\\theta} = \\dfrac{2/y}{1 + 1/y^2} = \\dfrac{2y}{y^2+1}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-041",
+      "text": "\\(\\sin^4 A - \\cos^4 A\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1 + 2\\sin^2 A\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(2\\sin^2 A - 1\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(1 + 2\\cos^2 A\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(2\\cos^2 A - 1\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\sin^4A - \\cos^4A = (\\sin^2A+\\cos^2A)(\\sin^2A-\\cos^2A) = \\sin^2A - (1-\\sin^2A) = 2\\sin^2A - 1\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch7-mcq-042",
+      "text": "একটি ত্রিভুজের বাহুগুলোর দৈর্ঘ্য যথাক্রমে 3, 5, 7 একক হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ত্রিভুজটির ক্ষেত্রফল = \\(\\dfrac{15}{4}\\sqrt{3}\\) বর্গ একক"
+        },
+        {
+          "label": "ii",
+          "text": "ত্রিভুজটির পরিব্যাসার্ধ = \\(\\dfrac{7\\sqrt{3}}{3}\\) একক"
+        },
+        {
+          "label": "iii",
+          "text": "ত্রিভুজটির ক্ষুদ্রতম কোণ 30°"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বৃহত্তম বাহু \\(7\\) এর বিপরীত কোণ \\(C\\): \\(\\cos C = \\dfrac{9+25-49}{2\\cdot3\\cdot5} = -\\dfrac{1}{2}\\), অর্থাৎ \\(C = 120^\\circ\\)।\n(i) সত্য: ক্ষেত্রফল \\(= \\dfrac{1}{2}\\cdot3\\cdot5\\sin120^\\circ = \\dfrac{15\\sqrt{3}}{4}\\)।\n(ii) সত্য: \\(R = \\dfrac{c}{2\\sin C} = \\dfrac{7}{\\sqrt{3}} = \\dfrac{7\\sqrt{3}}{3}\\)।\n(iii) মিথ্যা: ক্ষুদ্রতম কোণ \\(A\\) এর জন্য \\(\\sin A = \\dfrac{3}{2R} = \\dfrac{3\\sqrt{3}}{14} \\ne \\dfrac{1}{2}\\), তাই \\(A \\ne 30^\\circ\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The largest angle is 120° (cos C = −½), giving area ½·3·5·sin120° = 15√3/4 and R = 7/(2 sin120°) = 7√3/3; the smallest angle has sin A = 3/(2R) = 3√3/14, about 21.8°, not 30°."
     }
   ]
 }

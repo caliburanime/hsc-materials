@@ -55,6 +55,98 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch5-mcq-002",
+      "text": "দাদ রোগের জীবাণু কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Mycobacterium",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Plasmodium",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Trichophyton",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Penicillium",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "দাদ রোগ ছত্রাকজনিত; এর জীবাণু Trichophyton। Mycobacterium ব্যাকটেরিয়া, Plasmodium প্রোটোজোয়া, Penicillium অ-রোগজনক ছত্রাক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch5-mcq-003",
+      "text": "লাইকেন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শৈবাল ছত্রাকের মিথোজীবিতা"
+        },
+        {
+          "label": "ii",
+          "text": "অনুর্বর স্থানে জন্মাতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "মাটি তৈরিতে ভূমিকা রাখে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "(i) লাইকেন শৈবাল ও ছত্রাকের মিথোজীবী সম্পর্ক — সঠিক।\n(ii) এরা পাথর, অনুর্বর স্থানে জন্মাতে পারে — সঠিক।\n(iii) এরা শিলা ক্ষয় করে মাটি তৈরিতে ভূমিকা রাখে — সঠিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

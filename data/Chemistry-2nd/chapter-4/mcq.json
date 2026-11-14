@@ -1473,7 +1473,7 @@
     },
     {
       "id": "chemistry_2nd-ch4-mcq-036",
-      "text": "সেমিকন্ডাক্টর হিসাবে ব্যবহৃত হয়—",
+      "text": "সেমিকন্ডাক্টর হিসেবে ব্যবহৃত হয়—",
       "text_en": null,
       "image": null,
       "options": [
@@ -1499,14 +1499,22 @@
         }
       ],
       "answer": "d",
-      "answer_source": "printed",
+      "answer_source": "derived",
       "explanation": "জার্মেনিয়াম (Ge) একটি অর্ধপরিবাহী (সেমিকন্ডাক্টর); Cu, Al, Zn ধাতু, উত্তম পরিবাহী।",
       "source": {
-        "board": "RB",
-        "year": "2025",
-        "qno": 24,
+        "board": "MB",
+        "year": "2022",
+        "qno": 4,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2025",
+          "qno": 24,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -3578,6 +3586,1494 @@
         "board": "SB",
         "year": "2023",
         "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-087",
+      "text": "\\(\\mathrm{M/M^{2+} \\parallel N^+/N}\\), \\(E^\\circ_{M/M^{2+}} = 0.76\\) volt এবং \\(E^\\circ_{N/N^+} = -0.4\\) volt. প্রদত্ত কোষটির e.m.f কত volt?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+1.16",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "+0.36",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−0.36",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−1.16",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "প্রদত্ত \\(E^\\circ_{N/N^+} = -0.4\\ \\mathrm{V}\\) জারণ বিভব, তাই \\(N^+/N\\) এর বিজারণ বিভব = +0.4 V।\nকোষ emf = অ্যানোডের জারণ বিভব + ক্যাথোডের বিজারণ বিভব = \\(0.76 + 0.40 = +1.16\\ \\mathrm{V}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-088",
+      "text": "1F বিদ্যুৎ চালনা করলে নিচের কোন ধাতুর আয়নটি ক্যাথোডে অধিক পরিমাণে সঞ্চিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "K",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Zn",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Ca",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Al",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "1 F বিদ্যুতে প্রতিটি ধাতুর এক গ্রাম-তুল্য সঞ্চিত হয়। তুল্য ভর K = 39, Zn = 32.5, Ca = 20, Al = 9; K-এর তুল্য ভর সবচেয়ে বেশি, তাই K-এর পরিমাণ বেশি।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "1 F deposits one equivalent: K 39 g, Zn 32.7 g, Ca 20 g, Al 9 g."
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-089",
+      "text": "5A বিদ্যুৎ 30 s ধরে কোনো ইলেক্ট্রোডে প্রবাহিত করলে প্রবাহিত বিদ্যুতের চার্জ কত কুলম্ব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.15",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.5",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "15",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "150",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(Q = It = 5 \\times 30 = 150\\ \\mathrm{C}\\)",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-090",
+      "text": "\\(\\mathrm{Zn/Zn^{2+}}\\) (E° = +0.76v) অ্যানোড হলে নিচের কোনটি ক্যাথোড হিসাবে ব্যবহার করা যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Co/Co^{2+}}\\) (E° = +0.28 V)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Mg/Mg^{2+}}\\) (E° = +2.36 V)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Ca/Ca^{2+}}\\) (E° = +2.87 V)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Al/Al^{3+}}\\) (E° = +1.166 V)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "Zn অ্যানোড হলে কোষ বিভব ধনাত্মক হতে ক্যাথোডের জারণ বিভব Zn-এর (+0.76 V) চেয়ে কম হতে হবে। শুধু Co (+0.28 V)-এর জারণ বিভব কম, বাকিগুলোর বেশি।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-091",
+      "text": "লবণ সেতুতে নিচের কোনটির দ্রবণ ব্যবহার করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{KNO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{KNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{KMnO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{K_2CO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "লবণ সেতুর তড়িৎ বিশ্লেষ্য অবশ্যই কোষের আয়নের সাথে বিক্রিয়া করবে না এবং ক্যাটায়ন ও অ্যানায়নের গতিশীলতা প্রায় সমান হবে; \\(\\mathrm{KNO_3}\\) এ শর্ত পূরণ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-092",
+      "text": "ফ্যারাডের সূত্র প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইলেক্ট্রনের চার্জ গণনায়"
+        },
+        {
+          "label": "ii",
+          "text": "ধাতুর পরিমাণ নির্ণয়ে"
+        },
+        {
+          "label": "iii",
+          "text": "তড়িৎ বিশ্লেষ্য পরিবাহীর ক্ষেত্রে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ফ্যারাডের সূত্র তড়িৎ বিশ্লেষ্য পরিবাহীতে ব্যবহৃত হয় (iii) এবং এর সাহায্যে সঞ্চিত ধাতুর পরিমাণ নির্ণয় (ii) ও ইলেকট্রনের চার্জ গণনা (i) করা যায়; তাই সবগুলো সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Faraday's laws apply to electrolytic conductors (iii), and they are used to find the mass of metal deposited (ii) and to calculate the charge of the electron (i)."
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-093",
+      "text": "সুক্রোজের দ্রবণটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তড়িৎ বিশ্লেষ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ অবিশ্লেষ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইলেকট্রনীয় পরিবাহী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধাতব পরিবাহী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সুক্রোজ পানিতে আয়নিত হয় না, তাই এর দ্রবণ তড়িৎ অবিশ্লেষ্য।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-094",
+      "text": "কোনটির তড়িৎ রাসায়নিক তুল্যাংক সবচেয়ে বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Ag",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Zn",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Fe",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "তড়িৎ রাসায়নিক তুল্যাংক \\(Z = \\dfrac{\\text{তুল্য ভর}}{96500}\\)। তুল্য ভর: Ag = 108, Cu = 31.75, Zn = 32.5, Fe = 27.9 (বা 18.6); Ag-এর সবচেয়ে বেশি।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-095",
+      "text": "কোন আয়নটি ক্যাথোডে সবার আগে চার্জমুক্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Ni^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Zn^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ক্যাথোডে যে আয়নের বিজারণ বিভব বেশি সেটি আগে চার্জমুক্ত হয়। \\(\\mathrm{Cu^{2+}}\\) (+0.34 V) \\(>\\) \\(\\mathrm{Ni^{2+}}\\) (−0.25 V) \\(>\\) \\(\\mathrm{Zn^{2+}}\\) (−0.76 V) \\(>\\) \\(\\mathrm{Na^+}\\) (−2.71 V)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-096",
+      "text": "\\(\\mathrm{AgNO_3}\\) দ্রবণের মধ্যে 3000C বিদ্যুৎ চালনা করলে ক্যাথোডে কত গ্রাম Ag সঞ্চিত হবে? [Ag = 108]",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3.3575",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.3575",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.3357",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.2357",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(m = \\dfrac{108 \\times 3000}{96500} = 3.3575\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-097",
+      "text": "কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(E^\\circ_{কোষ} = E^\\circ_{অ্যানোড\\,(জারণ)} + E^\\circ_{ক্যাথোড\\,(জারণ)}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(E^\\circ_{কোষ} = E^\\circ_{অ্যানোড\\,(বিজারণ)} - E^\\circ_{ক্যাথোড\\,(বিজারণ)}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(E^\\circ_{কোষ} = E^\\circ_{অ্যানোড\\,(জারণ)} + E^\\circ_{ক্যাথোড\\,(বিজারণ)}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(E^\\circ_{কোষ} = E^\\circ_{ক্যাথোড\\,(জারণ)} - E^\\circ_{অ্যানোড\\,(বিজারণ)}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কোষ বিভব = অ্যানোডের জারণ বিভব + ক্যাথোডের বিজারণ বিভব।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-098",
+      "text": "গলিত \\(\\mathrm{AlCl_3}\\) এর মধ্যে কত ফ্যারাড তড়িৎ প্রবাহিত করলে ক্যাথোডে 54 গ্রাম Al সঞ্চিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "54 g Al = \\(\\dfrac{54}{27} = 2\\) মোল\n\\(\\mathrm{Al^{3+} + 3e \\rightarrow Al}\\)-এ 1 মোল Al-এর জন্য 3F\nপ্রয়োজনীয় বিদ্যুৎ = \\(2 \\times 3 = 6\\ \\mathrm{F}\\)",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-099",
+      "text": "পরিবাহিতার একক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "mho"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{ohm^{-1}}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "Siemens"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পরিবাহিতা রোধের ব্যস্তানুপাত; একক \\(\\mathrm{ohm^{-1}}\\), যাকে mho বা সিমেন্স (S) বলা হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-100",
+      "text": "2 mol Al ক্যাথোডে জমা করতে কী পরিমাণ বিদ্যুৎ প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1.5 F",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2.0 F",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3.0 F",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6.0 F",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Al^{3+} + 3e \\rightarrow Al}\\)\n2 মোল Al-এর জন্য \\(2 \\times 3 = 6.0\\ \\mathrm{F}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-101",
+      "text": "কোনটির তড়িৎ রাসায়নিক তুল্যাংক বেশি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Zn",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Fe",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Ag",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তড়িৎ রাসায়নিক তুল্যাংক তুল্য ভরের সমানুপাতিক; Ag-এর তুল্য ভর (108) চারটির মধ্যে সর্বোচ্চ।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-102",
+      "text": "নিচের কোন তড়িৎদ্বার জারণ প্রক্রিয়া বুঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}/Cu}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Zn^{2+}/Zn}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Zn/Zn^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Cr^{3+}/Cr}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "জারণ প্রক্রিয়ায় ধাতু আয়নে পরিণত হয় (\\(\\mathrm{Zn \\rightarrow Zn^{2+} + 2e}\\)), যা \\(\\mathrm{Zn/Zn^{2+}}\\) তড়িৎদ্বারে বোঝায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-103",
+      "text": "0.5F = কত কুলম্ব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "48,250C",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "96,500C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1,93,000C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2,89,500C",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(0.5 \\times 96500 = 48250\\ \\mathrm{C}\\)",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-104",
+      "text": "তড়িৎ রাসায়নিক কোষে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্যাথোড থেকে অ্যানোডে বিদ্যুৎ প্রবাহিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "বিদ্যুৎ শক্তি রাসায়নিক শক্তিতে পরিণত হয়"
+        },
+        {
+          "label": "iii",
+          "text": "অ্যানোডে জারণ ঘটে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "গ্যালভানিক কোষে বাহ্যিক বর্তনীতে ক্যাথোড থেকে অ্যানোডে প্রচলিত বিদ্যুৎ প্রবাহিত হয় (i সত্য); অ্যানোডে জারণ ঘটে (iii সত্য)। রাসায়নিক শক্তি বিদ্যুৎ শক্তিতে পরিণত হয়, উল্টোটি নয় (ii মিথ্যা)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-105",
+      "text": "কোনটি ইলেকট্রনীয় পরিবাহী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CuSO_4}\\) দ্রবণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Cu তার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গলিত NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাঁচনল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ইলেকট্রনীয় পরিবাহীতে ইলেকট্রনের মাধ্যমে বিদ্যুৎ চলে, যেমন Cu তার। অন্যগুলো আয়নীয় বা অপরিবাহী।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-106",
+      "text": "কোষ বিক্রিয়া : \\(\\mathrm{H_2 + Cu^{2+} = 2H^+ + Cu}\\) উক্ত কোষের অ্যানোডের বিক্রিয়া কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{2H^+ + 2e \\rightarrow H_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Cu \\rightarrow Cu^{2+} + 2e}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2 \\rightarrow 2H^+ + 2e}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Cu^{2+} + 2e \\rightarrow Cu}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অ্যানোডে জারণ ঘটে; এখানে \\(\\mathrm{H_2}\\) জারিত হয়: \\(\\mathrm{H_2 \\rightarrow 2H^+ + 2e}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-107",
+      "text": "গলিত অবস্থায় খাদ্য লবণে 5.0 amp মাত্রার বিদ্যুৎ 10min ধরে চালনা করলে ক্যাথোডে কী পরিমাণ ধাতু জমা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.52 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.62 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.72 গ্রাম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.82 গ্রাম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(Q = 5.0 \\times 600 = 3000\\ \\mathrm{C}\\)\nক্যাথোডে \\(\\mathrm{Na^+ + e \\rightarrow Na}\\)\n\\(m = \\dfrac{23 \\times 3000}{96500} = 0.715 \\approx 0.72\\ \\mathrm{g}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-108",
+      "text": "প্রমাণ হাইড্রোজেন তড়িৎদ্বারের বিভবের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.0 V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−1.34 V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+1.00 V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+1.76 V",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "প্রমাণ হাইড্রোজেন তড়িৎদ্বারের বিভব সংজ্ঞা অনুযায়ী 0.0 V ধরা হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-110",
+      "text": "১ মোল Ag ক্যাথোডে সঞ্চিত করতে \\(\\mathrm{AgNO_3}\\) দ্রবণের কত ফ্যারাডে তড়িৎ চালনা করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1F",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2F",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3F",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4F",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Ag^+ + e \\rightarrow Ag}\\)\n1 মোল Ag-এর জন্য 1 মোল ইলেকট্রন, অর্থাৎ 1F।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-111",
+      "text": "Ag-এর তড়িৎ রাসায়নিক তুল্যাঙ্ক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(1.01118 \\times 10^{-3}\\,\\mathrm{gC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(1.118 \\times 10^{-3}\\,\\mathrm{gC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(0.10118 \\times 10^{-3}\\,\\mathrm{gC^{-1}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(0.010118 \\times 10^{-3}\\,\\mathrm{gC^{-1}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(Z = \\dfrac{108}{96500} = 1.1192 \\times 10^{-3}\\ \\mathrm{g\\,C^{-1}} \\approx 1.118 \\times 10^{-3}\\ \\mathrm{g\\,C^{-1}}\\) (প্রদত্ত বিকল্পগুলোর মধ্যে (খ) নিকটতম)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-112",
+      "text": "তড়িৎ বিশ্লেষণে কোনটি আগে চার্জমুক্ত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{H^+}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Pb^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Na^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বিজারণ বিভব বেশি হলে আয়ন আগে চার্জমুক্ত হয়। \\(\\mathrm{Cu^{2+}}\\) (+0.34 V) এর বিজারণ বিভব \\(\\mathrm{Pb^{2+}}\\) (−0.13 V), \\(\\mathrm{Na^+}\\) (−2.71 V) ও \\(\\mathrm{H^+}\\) (0.00 V)-এর চেয়ে বেশি।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-113",
+      "text": "Zn-এর প্রমাণ জারণ বিভব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−0.76V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "+0.76V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "−0.34V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+0.34V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "প্রমাণ অবস্থায় Zn-এর জারণ বিভব +0.76 V (বিজারণ বিভব −0.76 V)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-114",
+      "text": "\\(\\mathrm{AgNO_3}\\) দ্রবণে 1.2 amp বিদ্যুৎ কতক্ষণ চালনা করলে 1.61g Ag জমা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "40 min",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "30 min",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "25 min",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20 min",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(m = \\dfrac{M \\cdot I \\cdot t}{96500}\\)\n\\(t = \\dfrac{1.61 \\times 96500}{108 \\times 1.2} = 1198.7\\ \\mathrm{s} \\approx 1200\\ \\mathrm{s} = 20\\ \\mathrm{min}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-115",
+      "text": "\\(\\mathrm{Ag^+/Ag}\\) এবং \\(\\mathrm{Au^{3+}/Au}\\) অর্ধকোষদ্বয়ের প্রমাণ বিজারণ বিভব +0.80V এবং +1.56V। এ দুটি অর্ধকোষ দ্বারা গঠিত কোষের বিভব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+0.76V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−0.76V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+2.36V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "−2.36V",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কোষ বিভব = ক্যাথোডের বিজারণ বিভব − অ্যানোডের বিজারণ বিভব\n= \\(1.56 - 0.80 = +0.76\\ \\mathrm{V}\\)",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-116",
+      "text": "সেমিকন্ডাক্টর হিসেবে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Ge",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Zn",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Cu",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Al",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "জার্মেনিয়াম (Ge) একটি অর্ধপরিবাহী (সেমিকন্ডাক্টর); Zn, Cu, Al ধাতব পরিবাহী।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-117",
+      "text": "নিচের কোন তড়িৎদ্বার জারণ অর্ধকোষ বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Zn^{2+}/Zn}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Zn/Zn^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Cu^{2+}/Cu}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{H^+/H_2, Pt}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Zn \\rightarrow Zn^{2+} + 2e}\\) জারণ অর্ধকোষ, যা \\(\\mathrm{Zn/Zn^{2+}}\\) দ্বারা বোঝানো হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-118",
+      "text": "নিচের উদ্দীপক থেকে : \\(\\mathrm{M + M'^+ \\longrightarrow M^{2+} + M'(s)}\\); এখানে, \\(E^\\circ_{M^{2+}/M} = +0.34\\) V এবং \\(E^\\circ_{M'^+/M'} = +0.80\\) V. কোষটির EMF কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−1.14V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "−1.46V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+0.46V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+1.14V",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "এখানে প্রদত্ত দুটি মানই বিজারণ বিভব। M অ্যানোড, \\(\\mathrm{M'^+/M'}\\) ক্যাথোড।\nEMF = \\(0.80 - 0.34 = +0.46\\ \\mathrm{V}\\)",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The second electrode potential is partly hidden at the edge of the photo; +0.80 V (Ag⁺/Ag, with M = Cu) is the value consistent with the options. EMF = 0.80 − 0.34 = +0.46 V."
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-119",
+      "text": "কোনটি দুর্বল তড়িৎ বিশ্লেষ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{NH_4OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NaOH",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{H_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{HNO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{NH_4OH}\\) দুর্বল ক্ষার, দ্রবণে আংশিক আয়নিত হয়, তাই দুর্বল তড়িৎ বিশ্লেষ্য; বাকিগুলো তীব্র।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-120",
+      "text": "কোনটি তড়িৎ বিশ্লেষ্য পরিবাহী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কঠিন সোডিয়াম ক্লোরাইড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সালফিউরিক এসিড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইথাইল অ্যালকোহল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্বন টেট্রাক্লোরাইড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "গলিত বা জলীয় দ্রবণে যে পদার্থ আয়নিত হয়ে তড়িৎ পরিবহন করে সেটি তড়িৎ বিশ্লেষ্য। \\(\\mathrm{H_2SO_4}\\) পানিতে আয়নিত হয়ে তড়িৎ পরিবহন করে। কঠিন NaCl-এ মুক্ত আয়ন নেই; ইথাইল অ্যালকোহল ও \\(\\mathrm{CCl_4}\\) আয়নিত হয় না।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-121",
+      "text": "ড্রাই সেলের তড়িচ্চালক বল কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "+1.10V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "+1.23V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "+1.51V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "+2.37V",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ড্রাই সেল (লেক্ল্যাঞ্চি সেল)-এর তড়িচ্চালক বল প্রায় 1.5 V; বিকল্পগুলোর মধ্যে +1.51 V নিকটতম।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-122",
+      "text": "নিম্নের কোনটি বিজারণ তড়িৎদ্বারকে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{Cu/Cu^{2+}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Zn^{2+}/Zn}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Pt/Fe^{2+}, Fe^{3+}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Pt, H_2/H^+}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বিজারণ তড়িৎদ্বার ধাতু-ধাতব আয়ন আকারে \\(\\mathrm{M^{n+}/M}\\) লেখা হয় (আয়ন প্রথমে), যেখানে \\(\\mathrm{M^{n+}+ne^-\\to M}\\)। তাই \\(\\mathrm{Zn^{2+}/Zn}\\) বিজারণ তড়িৎদ্বার; \\(\\mathrm{Cu/Cu^{2+}}\\) ও \\(\\mathrm{Pt,H_2/H^+}\\) জারণ তড়িৎদ্বারের লিখন পদ্ধতি।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-123",
+      "text": "লেড-এসিড স্টোরেজ ব্যাটারিতে সালফিউরিক এসিডের ঘনত্ব কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "9.8 g/Cm³",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.9 g/Cm³",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.29 g/Cm³",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.0 g/Cm³",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "লেড-এসিড ব্যাটারিতে ব্যবহৃত সালফিউরিক এসিডের ঘনত্ব সাধারণত প্রায় 1.29 g/cm³ (চার্জিত অবস্থায়)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch4-mcq-124",
+      "text": "\\(\\mathrm{CuSO_4}\\) দ্রবণের মধ্য দিয়ে 5S এ 5A মাত্রার তড়িৎ চালনা করলে ক্যাথোডে কী পরিমাণ ধাতু জমা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.016g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.017g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.0082g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.0085g",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ফ্যারাডের সূত্র: \\(m=\\dfrac{M\\,I\\,t}{nF}\\)\n\\(m=\\dfrac{63.5\\times5\\times5}{2\\times96500}=\\dfrac{1587.5}{193000}=0.0082\\) g",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
         "session": null
       },
       "tags": [],

@@ -2060,6 +2060,183 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch7-mcq-048",
+      "text": "উদ্দীপক চিত্রের প্রতিনিধিত্বকারী উদ্ভিদের ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের সাহায্যে ২ ও ৩ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-2-3-stem.svg",
+      "group": "biology_1st-2026-ALL-2-3",
+      "statements": [
+        {
+          "label": "i",
+          "text": "উদ্ভিদ গ্যামিটোফাইট"
+        },
+        {
+          "label": "ii",
+          "text": "পাতা যৌগিক"
+        },
+        {
+          "label": "iii",
+          "text": "মূল কোরালয়েড"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "চিত্রটি সাইকাসের মেগাস্পোরোফিল।\n(i) সাইকাস উদ্ভিদ স্পোরোফাইট, গ্যামিটোফাইট নয় — ভুল।\n(ii) পাতা পিনেট যৌগিক — সঠিক।\n(iii) মূল কোরালয়েড (প্রবালের মতো শাখান্বিত) — সঠিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch7-mcq-049",
+      "text": "উদ্দীপক চিত্রের 'A' চিহ্নিত অংশ কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকের সাহায্যে ২ ও ৩ নং প্রশ্নের উত্তর দাও :",
+      "stem_image": "assets/biology_1st-2026-ALL-2-3-stem.svg",
+      "group": "biology_1st-2026-ALL-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "ফুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিম্বক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডিম্বাশয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সাইকাসের মেগাস্পোরোফিলের নিচের দিকে পাশে যে গোলাকার অংশ যুক্ত থাকে তা ডিম্বক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The figure is a Cycas megasporophyll; gymnosperms bear naked ovules (no ovary), so A is an ovule. The tick on the scan chose ঘ."
+    },
+    {
+      "id": "biology_1st-ch7-mcq-050",
+      "text": "ধানগাছের একটি পুষ্পে কয়টি পুংকেশর থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ধানের পুষ্পে ৬টি পুংকেশর থাকে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_1st-ch7-mcq-051",
+      "text": "মালভেসী গোত্রের অমরাবিন্যাস কীরূপ দেখা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রান্তীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাত্রীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অক্ষীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মালভেসী গোত্রের অমরাবিন্যাস অক্ষীয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "subject": "higher_math_1st",
+  "chapter": 8,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_1st-ch8-mcq-001",
+      "text": "\\(y = f(x) = \\sqrt{x^2 - 4x + 3}\\) এর জন্য কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রেঞ্জ f = { y ∈ ℝ : y > 1 }",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডোমেন f = { x ∈ ℝ : x ≤ 1 অথবা x ≥ 3 }",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডোমেন f = { x ∈ ℝ : x ≤ −1 অথবা x ≥ 3 }",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডোমেন f = { x ∈ ℝ : x ≤ 3 অথবা x ≥ 1 }",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "বর্গমূলের নিচের রাশি অঋণাত্মক হতে হবে: \\(x^2 - 4x + 3 = (x-1)(x-3) \\ge 0\\), তাই \\(x \\le 1\\) অথবা \\(x \\ge 3\\)। রেঞ্জ \\(y \\ge 0\\) (ফলে (ক) ভুল)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

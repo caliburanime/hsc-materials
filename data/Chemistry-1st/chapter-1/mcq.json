@@ -292,6 +292,179 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-008",
+      "text": "সবুজ রসায়নের অন্তর্ভুক্ত—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কক্ষ তাপমাত্রা ও চাপে বিক্রিয়া সংঘটনের চেষ্টা করা"
+        },
+        {
+          "label": "ii",
+          "text": "নবায়নযোগ্য কাঁচামাল কম ব্যবহার করা"
+        },
+        {
+          "label": "iii",
+          "text": "মাধ্যমিক গৌণ উৎপাদ হ্রাস করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "(i) সঠিক: সবুজ রসায়নে কক্ষ তাপমাত্রা ও চাপে বিক্রিয়া ঘটানোর চেষ্টা করা হয়।\n(ii) ভুল: সবুজ রসায়নে নবায়নযোগ্য কাঁচামাল বেশি ব্যবহার করা হয়, কম নয়।\n(iii) সঠিক: গৌণ উৎপাদ হ্রাস করে বর্জ্য কমানো সবুজ রসায়নের নীতি।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Green chemistry favours renewable feedstocks, so ii (using fewer renewable raw materials) is wrong."
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-009",
+      "text": "সবুজ রসায়নের মূলনীতি কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "12",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "14",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সবুজ রসায়নের মূলনীতি ১২টি; এগুলো পল অ্যানাস্টাস ও জন ওয়ার্নার প্রণয়ন করেন।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-010",
+      "text": "পলবুঝি ব্যালেন্সে 20 mg ভরের রাইডারের জন্য রাইডার ধ্রুবকের মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.0002g",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.0004g",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "0.0001g",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "0.04g",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "পলবুঝি ব্যালেন্সের দণ্ডের একপাশ 50 ভাগে বিভক্ত। 20 mg রাইডার দণ্ডের শেষ প্রান্তে বসালে তা 20 mg ভরের সমতুল্য, তাই প্রতি ভাগের মান \\(\\dfrac{20\\,\\mathrm{mg}}{50}=0.4\\,\\mathrm{mg}=0.0004\\,\\mathrm{g}\\)। এটিই রাইডার ধ্রুবক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The beam arm is divided into 10 main divisions of 5 small divisions each (50 in all); a rider at the end mark equals its own mass, so each small division is 20 mg ÷ 50 = 0.4 mg = 0.0004 g."
+    },
+    {
+      "id": "chemistry_1st-ch1-mcq-011",
+      "text": "শুষ্ককারক পদার্থ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{N_2O_5}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{P_2O_5}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{V_2O_5}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Cl_2O_5}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{P_2O_5}\\) পানি শোষণ করে \\(\\mathrm{H_3PO_4}\\) গঠন করে, তাই এটি শক্তিশালী শুষ্ককারক পদার্থ।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "P₂O₅ absorbs water avidly and is the standard laboratory drying (dehydrating) agent; V₂O₅ is a catalyst (contact process). sattacademy's key gives গ."
     }
   ]
 }

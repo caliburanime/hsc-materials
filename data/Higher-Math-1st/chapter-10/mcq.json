@@ -1487,6 +1487,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-038",
+      "text": "\\(\\displaystyle\\int e^x(\\sin x - \\cos x)\\,dx\\) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(-e^x\\cos x + c\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(e^x\\cos x + c\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(-e^x\\sin x + c\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(e^x\\sin x + c\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\dfrac{d}{dx}(-\\cos x) = \\sin x\\), অর্থাৎ \\(f(x) = -\\cos x\\) হলে \\(f'(x) = \\sin x\\)। সূত্র: \\(\\int e^x\\{f(x) + f'(x)\\}dx = e^x f(x) + c\\)\n\\(\\therefore \\int e^x(\\sin x - \\cos x)dx = -e^x\\cos x + c\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "higher_math_1st-ch10-mcq-039",
+      "text": "চিত্রের ছায়াঘেরা অংশের ক্ষেত্রফল কত?",
+      "text_en": null,
+      "image": "assets/higher_math_1st-ch10-mcq-039-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "64",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(x = 8\\) এ \\(y = \\dfrac{8}{4} = 2\\); ত্রিভুজের ভূমি \\(8\\), উচ্চতা \\(2\\)।\nক্ষেত্রফল \\(= \\int_0^8 \\dfrac{x}{4}dx = \\left[\\dfrac{x^2}{8}\\right]_0^8 = 8\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

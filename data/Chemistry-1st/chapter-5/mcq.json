@@ -2375,6 +2375,581 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-058",
+      "text": "কোনটি জীবাণুনাশক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফরমালডিহাইড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বেনজোয়েট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সালফাইট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্রোমেট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ফরমালডিহাইড (HCHO) জীবাণু ধ্বংস করে বলে এটি জীবাণুনাশক হিসেবে ব্যবহৃত হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-059",
+      "text": "কিউরিং-এ কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "NaI",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NaBr",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NaCl",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaF",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কিউরিং হলো খাদ্য লবণ (NaCl) দিয়ে খাদ্য সংরক্ষণ। লবণ অভিস্রবণ প্রক্রিয়ায় খাদ্যের পানি টেনে নিয়ে জীবাণুর বৃদ্ধি রোধ করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-060",
+      "text": "নিচের কোনটি প্রাকৃতিক খাদ্য সংরক্ষক হিসাবে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{SO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{NaNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Na_2CO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NaCl",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "খাদ্য লবণ (NaCl) প্রাকৃতিক সংরক্ষক। বাকিগুলো (\\(\\mathrm{SO_2}\\), \\(\\mathrm{NaNO_3}\\), \\(\\mathrm{Na_2CO_3}\\)) রাসায়নিক সংরক্ষক বা অন্য ব্যবহারের যৌগ।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-061",
+      "text": "ভিনেগারে ইথানোয়িক এসিডের শতকরা পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6—10%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "12—17%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "15—20%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "20—25%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ভিনেগারে ইথানোয়িক (অ্যাসিটিক) এসিডের পরিমাণ 6—10%, বাকি অংশ প্রধানত পানি।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-062",
+      "text": "নিচের কোনটি কিলেটিং এজেন্ট হিসাবে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BHA",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BHT",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "HCHO",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "EDTA",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "EDTA ধাতব আয়নের সাথে জটিল যৌগ (কিলেট) গঠন করে খাদ্যে জারণ ঘটানো ধাতব আয়নকে নিষ্ক্রিয় করে, তাই এটি কিলেটিং এজেন্ট। BHA ও BHT প্রতিজারক।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-063",
+      "text": "ভিনেগার—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "খাদ্যের ব্যাকটেরিয়া ধ্বংস করে"
+        },
+        {
+          "label": "ii",
+          "text": "খাবারের রুচি বৃদ্ধি করে"
+        },
+        {
+          "label": "iii",
+          "text": "রক্ত সঞ্চালন কমায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: ভিনেগারের অম্লীয় পরিবেশে ব্যাকটেরিয়া বাঁচে না।\n(ii) সত্য: এটি খাবারের স্বাদ ও রুচি বাড়ায়।\n(iii) মিথ্যা: এটি রক্ত সঞ্চালন কমায় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-064",
+      "text": "কোন এনজাইম এর প্রভাবে ইনভার্ট চিনি হতে ইথানল তৈরি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মল্টেজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইনভারটেজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাইমেজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডায়াস্টেজ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ইনভার্ট চিনি (গ্লুকোজ ও ফ্রুক্টোজ) জাইমেজ এনজাইমের প্রভাবে গাঁজনে ইথানল ও \\(\\mathrm{CO_2}\\) এ পরিণত হয়। ইনভারটেজ সুক্রোজকে ইনভার্ট চিনিতে রূপান্তর করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-065",
+      "text": "ভিনেগার দ্বারা খাদ্য সংরক্ষণের পদ্ধতিটি কী নামে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কিউরিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যানিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্লাঞ্চিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পিকলিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ভিনেগার ব্যবহার করে খাদ্য সংরক্ষণ করার পদ্ধতিকে পিকলিং (আচার তৈরি) বলে।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-066",
+      "text": "ভিনেগার খাদ্য সংরক্ষণ করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অম্লীয় পরিবেশ সৃষ্টির মাধ্যমে"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাকটেরিয়ার অ্যাকটিভ সাইট নষ্ট করার মাধ্যমে"
+        },
+        {
+          "label": "iii",
+          "text": "কিলেটিং এজেন্ট হিসেবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "(i) সত্য: ভিনেগার অম্লীয় পরিবেশ সৃষ্টি করে জীবাণুর বৃদ্ধি রোধ করে।\n(ii) সত্য: অম্লীয় পরিবেশ ব্যাকটেরিয়ার এনজাইমের সক্রিয় স্থান নষ্ট করে।\n(iii) মিথ্যা: ভিনেগার কিলেটিং এজেন্ট নয়; এই কাজ করে EDTA।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-067",
+      "text": "নিচের কোন উপাদান দ্বারা খাদ্য সংরক্ষণ পদ্ধতিকে কিউরিং বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরিষার তেল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চিনি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "খাদ্য লবণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভিনেগার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "খাদ্য লবণ (NaCl) দিয়ে খাদ্য সংরক্ষণের পদ্ধতিকে কিউরিং বলে।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-068",
+      "text": "ভিনেগারে কত শতাংশ পানি বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "15%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "70%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "90%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ভিনেগারে প্রায় 6—10% অ্যাসিটিক এসিড থাকে এবং বাকি প্রায় 90% পানি।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-069",
+      "text": "কোন প্রাণীর দুধে প্রোটিন বেশি থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ছাগল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভেড়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহিষ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ভেড়ার দুধে প্রোটিনের পরিমাণ (প্রায় 5–6%) উট, ছাগল ও মহিষের দুধের চেয়ে বেশি।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-070",
+      "text": "কোনটি প্রিজারভেটিভস নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C_2H_5OH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "HCHO",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CH_3COOH}\\), \\(\\mathrm{C_2H_5OH}\\) ও HCHO খাদ্য সংরক্ষণে ব্যবহৃত হয়। \\(\\mathrm{CH_3OH}\\) (মিথানল) বিষাক্ত, তাই এটি প্রিজারভেটিভ নয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Acetic acid (vinegar), ethanol and formaldehyde (formalin) all act as preservatives (formalin is banned in food but is still a preservative); methanol is not used as one. The student's tick on the scan chose গ."
+    },
+    {
+      "id": "chemistry_1st-ch5-mcq-071",
+      "text": "সবচেয়ে কার্যকর কোয়াগুলেন্ট কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{K_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Na_2SO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{FeSO_4}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Fe_2(SO_4)_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "কোয়াগুলেন্টের ক্যাটায়নের চার্জ যত বেশি, কলয়েড কণাকে তত কার্যকরভাবে স্কন্দিত করে (হার্ডি-শুলজ নিয়ম)। \\(\\mathrm{Fe^{3+}}\\) এর চার্জ সর্বোচ্চ, তাই \\(\\mathrm{Fe_2(SO_4)_3}\\) সবচেয়ে কার্যকর।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

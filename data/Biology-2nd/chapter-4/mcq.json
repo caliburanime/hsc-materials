@@ -3281,6 +3281,137 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch4-mcq-076",
+      "text": "ধমনীর বৈশিষ্ট্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেহ থেকে হৃদপিণ্ডের দিকে রক্ত পরিবহন করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রাচীর কম পুরু ও অস্থিতিস্থাপক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাচীর পুরু ও স্থিতিস্থাপক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেমিলুনার কপাটিকা দেখা যায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ধমনীর প্রাচীর পুরু ও স্থিতিস্থাপক, কারণ এটি হৃৎপিণ্ড থেকে উচ্চচাপে রক্ত বহন করে। হৃৎপিণ্ড থেকে দেহে রক্ত বহন, পাতলা অস্থিতিস্থাপক প্রাচীর ও সেমিলুনার কপাটিকা শিরার বৈশিষ্ট্য।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch4-mcq-077",
+      "text": "সার্বজনীন দাতার ক্ষেত্রে প্রযোজ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A ও B অ্যান্টিজেন আছে"
+        },
+        {
+          "label": "ii",
+          "text": "a ও b অ্যান্টিবডি আছে"
+        },
+        {
+          "label": "iii",
+          "text": "শুধুমাত্র একটি গ্রুপ থেকে রক্ত গ্রহণ করতে পারবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সার্বজনীন দাতা হলো O গ্রুপ।\n(i) মিথ্যা: এর লোহিত কণিকায় A বা B কোনো অ্যান্টিজেন নেই।\n(ii) সত্য: প্লাজমায় a ও b উভয় অ্যান্টিবডি আছে।\n(iii) সত্য: O গ্রুপ শুধু O গ্রুপ থেকেই রক্ত গ্রহণ করতে পারে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "biology_2nd-ch4-mcq-078",
+      "text": "উদ্দীপকের P চিহ্নিত অংশের নাম কী?",
+      "text_en": null,
+      "image": "assets/biology_2nd-ch4-mcq-078-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "টিউনিকা ইন্টিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টিউনিকা এক্সটার্না",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টিউনিকা মিডিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লুমেন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "রক্তবাহিকার প্রস্থচ্ছেদে একেবারে মাঝের ফাঁকা স্থানটি, যার মধ্য দিয়ে রক্ত প্রবাহিত হয়, তাকে লুমেন বলে। টিউনিকা ইন্টিমা, মিডিয়া ও এক্সটার্না হলো প্রাচীরের স্তর।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

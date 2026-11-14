@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 200" width="380" height="200">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 Z" fill="#111"/></marker></defs>
+<style>.l{fill:none;stroke:#111;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}.t{fill:none;stroke:#111;stroke-width:1.5}.d{fill:#111;stroke:none}.v{font-family:'Times New Roman',Times,serif;font-style:italic;fill:#111}.n{font-family:'Times New Roman',Times,serif;fill:#111}.b{font-family:Noto Sans Bengali, Hind Siliguri, sans-serif;fill:#111}</style>
+<rect width="380" height="200" fill="#fff"/>
+<path class="l" d="M14,70 H50" marker-end="url(#ar)"/><path class="l" d="M70,70 H178 M222,70 H360"/><ellipse cx="200" cy="70" rx="22" ry="17" class="l"/><text x="200" y="76" class="n" font-size="17" text-anchor="middle">G</text><path class="l" d="M105,70 V150 H170 M230,150 H300 V70"/><path class="l" d="M170.0,150.0 L175.0,150.0 L180.0,156.0 L190.0,144.0 L200.0,156.0 L210.0,144.0 L220.0,156.0 L225.0,150.0 L230.0,150.0"/><circle cx="105" cy="70" r="2.6" class="d"/><circle cx="300" cy="70" r="2.6" class="d"/><text x="28" y="56" class="v" font-size="16" text-anchor="start">I</text><text x="193" y="186" class="n" font-size="16" text-anchor="start">S</text>
+</svg>

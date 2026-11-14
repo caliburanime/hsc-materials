@@ -6202,6 +6202,2247 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-148",
+      "text": "নিচের কোনটি মেসো যৌগ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3CH(OH)CH(OH)COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3CH(OH)CH(Cl)CH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3CH(OH)CH(OH)CH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-CH_2CH(OH)CH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "মেসো যৌগে একাধিক কাইরাল কার্বন থাকে এবং অণুর মধ্যে প্রতিসাম্য তল থাকায় এটি আলোক নিষ্ক্রিয়। \\(\\mathrm{CH_3CH(OH)CH(OH)CH_3}\\) এর দুই কাইরাল কার্বনে একই মূলক থাকায় এটি মেসো যৌগ।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-149",
+      "text": "নিচের কোন যৌগটি Optical Isomerism দেখায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_2(NH_2)COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3CH(NH_2)COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{(CH_3)_2C=CHCl}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3CH_2COOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আলোক সমাণুতার জন্য কাইরাল কার্বন (চারটি ভিন্ন মূলকযুক্ত) প্রয়োজন। \\(\\mathrm{CH_3\\overset{*}{C}H(NH_2)COOH}\\) (অ্যালানিন) এ এমন কার্বন আছে।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-150",
+      "text": "নিচের কোন যৌগে সঞ্চরণশীল π ইলেক্ট্রন আছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{C_2H_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C_2H_4}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{C_6H_6}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{C_3H_8}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "বেনজিনে ছয়টি কার্বনের \\(\\pi\\) ইলেক্ট্রন সমগ্র বলয়ে সঞ্চরণশীল (ডিলোকালাইজড)। অন্যগুলোতে এমন সঞ্চরণ নেই।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-151",
+      "text": "\\(S_N1\\) বিক্রিয়ায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রিয়া ধাপ দুটি"
+        },
+        {
+          "label": "ii",
+          "text": "সক্রিয়তার ক্রম—3°RX > 2°RX > 1°RX > CH₃X"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রিয়া হার হ্যালোজেনো অ্যালকেন ও নিউক্লিওফাইল উভয়ের উপর নির্ভরশীল।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(S_N1\\) বিক্রিয়া দুই ধাপে ঘটে (i সত্য) এবং কার্বোক্যাটায়নের স্থিতিশীলতার কারণে সক্রিয়তার ক্রম 3° > 2° > 1° > \\(\\mathrm{CH_3X}\\) (ii সত্য)। এর হার শুধু হ্যালোজেনো অ্যালকেনের ঘনমাত্রার উপর নির্ভর করে, নিউক্লিওফাইলের উপর নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-152",
+      "text": "কোনটি অধিকতর স্থিতিশীল কার্বোনিয়াম আয়ন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{{}^{\\oplus}CR_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{{}^{\\oplus}CHR_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{{}^{\\oplus}CH_2R}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{{}^{\\oplus}CH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কার্বোনিয়াম আয়নের স্থিতিশীলতা: 3° > 2° > 1° > \\(\\mathrm{CH_3^+}\\), কারণ বেশি অ্যালকাইল মূলকের +I ও হাইপারকনজুগেশন ধনাত্মক চার্জ বণ্টন করে। তাই \\(\\mathrm{CR_3^+}\\) সবচেয়ে স্থিতিশীল।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-153",
+      "text": "কোন যৌগটি আয়োডোফর্ম বিক্রিয়া দেয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3COCH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3CH(OH)CH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3CH_2OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "আয়োডোফর্ম বিক্রিয়া দেয় \\(\\mathrm{CH_3CO-}\\) বা \\(\\mathrm{CH_3CH(OH)-}\\) মূলকযুক্ত যৌগ। \\(\\mathrm{CH_3OH}\\) এ এ মূলক নেই, তাই এটি দেয় না।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-154",
+      "text": "জৈব যৌগে —COOH মূলক শনাক্তকরণে নিচের কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{FeCl_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{AgNO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{NaHCO_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NaNO_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কার্বক্সিলিক এসিড \\(\\mathrm{NaHCO_3}\\) এর সাথে বিক্রিয়া করে \\(\\mathrm{CO_2}\\) গ্যাসের বুদবুদ (ফেনা) উৎপন্ন করে, যা —COOH শনাক্তকরণের পরীক্ষা।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-155",
+      "text": "\\(\\mathrm{CH_3-C\\equiv C-H + H_2 \\xrightarrow{Pd-BaSO_4} A}\\), A যৌগটির সংকেত—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3-CH_2-CH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3-CH=CH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3-CH_2-COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-CH(OH)-CH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{Pd\\text{-}BaSO_4}\\) (লিন্ডলার প্রভাবক) দ্বারা অ্যালকাইনের আংশিক হাইড্রোজেনেশন হয় এবং অ্যালকিন পাওয়া যায়: \\(\\mathrm{CH_3C\\equiv CH + H_2 \\rightarrow CH_3CH=CH_2}\\)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-156",
+      "text": "প্রাইমারি অ্যামিন শনাক্তকরণে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CHCl_3 + KOH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{Br_2 + KOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{Cu(OH)_2 + NaOH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{KMnO_4 + KOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "প্রাইমারি অ্যামিন \\(\\mathrm{CHCl_3}\\) ও অ্যালকোহলিক KOH এর সাথে উত্তপ্ত করলে দুর্গন্ধযুক্ত আইসোসায়ানাইড (কার্বিলঅ্যামিন) উৎপন্ন করে; এটি প্রাইমারি অ্যামিনের পরীক্ষা।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-157",
+      "text": "কোন যৌগটি টটোমারিতা প্রদর্শন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিউট-২-ইন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডাই ইথাইল ইথার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোপানোন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইথান্যাল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "প্রোপানোন (\\(\\mathrm{CH_3COCH_3}\\)) এ \\(\\alpha\\)-হাইড্রোজেন আছে, তাই এটি কিটো-ইনল টটোমারিতা দেখায়। ইথান্যালেও \\(\\alpha\\)-H থাকলেও প্রশ্নের প্রচলিত উত্তর প্রোপানোন।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Propanone is the intended answer; ethanal also has an α-hydrogen and can show keto–enol tautomerism."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-158",
+      "text": "কোনটি হাকেল সংখ্যা নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "10",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "হাকেল সংখ্যা \\(4n+2\\) (n = 0, 1, 2, ...): 2, 6, 10, 14... । 4 এই সূত্রে পড়ে না।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-159",
+      "text": "ইথিন ও ইথাইনের পার্থক্যকরণে ব্যবহৃত দ্রবণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{[Ag(NH_3)_2]NO_3}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{[Cu(NH_3)_2]Cl}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Br_2 + CCl_4}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ইথাইনের অম্লীয় হাইড্রোজেন আছে, তাই \\(\\mathrm{[Ag(NH_3)_2]NO_3}\\) ও \\(\\mathrm{[Cu(NH_3)_2]Cl}\\) এর সাথে অধঃক্ষেপ দেয়; ইথিন দেয় না (i, ii সঠিক)। \\(\\mathrm{Br_2 + CCl_4}\\) উভয়কেই বর্ণহীন করে, তাই পার্থক্য করা যায় না (iii ভুল)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-160",
+      "text": "জৈব যৌগের কার্বন শিকলে কার্বন সংখ্যা হ্রাস করার পদ্ধতি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উর্টজ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্বিল অ্যামিন বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডিকার্বক্সিলেশন বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উইলিয়ামসন বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "কার্বক্সিলিক এসিডের লবণকে সোডালাইমের সাথে উত্তপ্ত করে \\(\\mathrm{CO_2}\\) অপসারণ (ডিকার্বক্সিলেশন) করলে কার্বন সংখ্যা এক কমে যায়। উর্টজ ও উইলিয়ামসন বিক্রিয়ায় কার্বন বাড়ে।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-161",
+      "text": "\\(\\mathrm{C_6H_6 + Cl_2 \\xrightarrow{\\text{অনার্দ্র } AlCl_3} A + HCl}\\); এই বিক্রিয়ায়—",
+      "text_en": null,
+      "image": "assets/chemistry_2nd-ch2-mcq-161-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{AlCl_3}\\) লুইস এসিড"
+        },
+        {
+          "label": "ii",
+          "text": "ইলেকট্রোফিলিক প্রতিস্থাপন ঘটেছে"
+        },
+        {
+          "label": "iii",
+          "text": "A হলো কীটনাশক তৈরির উপাদান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{AlCl_3}\\) ইলেক্ট্রন গ্রহণকারী, তাই লুইস এসিড (i)। বেনজিনে \\(\\mathrm{Cl^+}\\) ইলেকট্রোফাইলের আক্রমণে ইলেকট্রোফিলিক প্রতিস্থাপন ঘটে (ii)। উৎপাদ A ক্লোরোবেনজিন, যা কীটনাশক (যেমন DDT) তৈরিতে ব্যবহৃত হয় (iii)।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-162",
+      "text": "অ্যালডিহাইড + ফেহলিং দ্রবণ → লাল অধঃক্ষেপ বিক্রিয়াটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিস্থাপন বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংযোজন বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জারণ-বিজারণ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপসারণ বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অ্যালডিহাইড জারিত হয়ে কার্বক্সিলিক এসিড হয়, আর \\(\\mathrm{Cu^{2+}}\\) বিজারিত হয়ে লাল \\(\\mathrm{Cu_2O}\\) অধঃক্ষেপ দেয়। তাই এটি জারণ-বিজারণ বিক্রিয়া।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-163",
+      "text": "\\(\\mathrm{CH_3-CH=C(CH_3)-CH_2OH}\\) যৌগটির IUPAC নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2-মিথাইল বিউট-2-ইন-1-অল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2-মিথাইল-2-বিউটিনল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অ্যালাইল অ্যালকোহল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিথাইল-2-বিউটিন-1-অল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{CH_2OH}\\) যুক্ত কার্বন C-1; শিকলে চার কার্বন, C-2 তে \\(\\mathrm{CH_3}\\) ও দ্বিবন্ধন C-2 ও C-3 এর মধ্যে। তাই নাম 2-মিথাইল বিউট-2-ইন-1-অল।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-164",
+      "text": "কোনটি অ্যারোমেটিক হাইড্রোকার্বন নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/chemistry_2nd-ch2-mcq-164-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/chemistry_2nd-ch2-mcq-164-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/chemistry_2nd-ch2-mcq-164-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/chemistry_2nd-ch2-mcq-164-optd.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "সাইক্লোহেক্সেন (ক) এ কোনো \\(\\pi\\) বন্ধন বা সঞ্চরণশীল ইলেক্ট্রন নেই, তাই এটি অ্যারোমেটিক নয়। থায়োফিন, ন্যাপথালিন ও বেনজিন অ্যারোমেটিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Cyclohexane is not aromatic (no delocalised π system), so ক is the intended answer. Strictly, thiophene (খ) is aromatic but is not a hydrocarbon because it contains sulfur."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-165",
+      "text": "বিউট-2-ইন প্রদর্শন করে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টটোমারিজম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্যকরী মূলক সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলোক সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জ্যামিতিক সমাণুতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "বিউট-2-ইন (\\(\\mathrm{CH_3CH=CHCH_3}\\)) এ দ্বিবন্ধনের প্রতিটি কার্বনে দুটি ভিন্ন মূলক আছে, তাই এটি সিস-ট্রান্স (জ্যামিতিক) সমাণুতা দেখায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-166",
+      "text": "কোনটি 2° অ্যালকোহলের কার্যকরী মূলক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{-\\overset{O}{\\overset{\\|}{C}}-OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{>CH-OH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{-\\overset{|}{\\underset{|}{C}}-OH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{-CH_2OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "2° অ্যালকোহলে \\(\\mathrm{-OH}\\) যুক্ত কার্বনের সাথে দুটি কার্বন ও একটি H যুক্ত থাকে, অর্থাৎ \\(\\mathrm{>CH-OH}\\)। (ক) কার্বক্সিল, (ঘ) 1° অ্যালকোহল।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-167",
+      "text": "1°, 2° এবং 3° অ্যালকোহলের পার্থক্য নির্ণয়ে কোন বিকারক ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "টলেন বিকারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রীগনার্ড বিকারক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লুকাস বিকারক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফেহলিং বিকারক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "লুকাস বিকারক (\\(\\mathrm{ZnCl_2}\\) + conc. HCl) এর সাথে 3° অ্যালকোহল তৎক্ষণাৎ, 2° কিছু সময় পরে এবং 1° সাধারণ তাপমাত্রায় ঘোলাটে হয় না; এভাবে এদের পার্থক্য করা যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-168",
+      "text": "উদ্দীপকের P যৌগটি নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ২৩নং ও ২৪নং প্রশ্নের উত্তর দাও : \\(\\mathrm{P + O_3 \\xrightarrow{CCl_4} A \\xrightarrow[H_2O,\\ \\Delta]{Zn} B + C}\\) C-যৌগটি তিন কার্বনবিশিষ্ট কিটোন",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-DIB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{(CH_3)_2C=CH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3-CH_2-CH=CH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3-CH(CH_3)CH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-CH=CH-CH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ওজোনোলাইসিসে C তিন কার্বনবিশিষ্ট কিটোন, অর্থাৎ প্রোপানোন, তাই P এর একটি কার্বনে দুটি \\(\\mathrm{CH_3}\\) যুক্ত আছে। অপর উৎপাদ B হলো HCHO। অতএব \\(\\mathrm{(CH_3)_2C=CH_2}\\)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-169",
+      "text": "উদ্দীপকের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ২৩নং ও ২৪নং প্রশ্নের উত্তর দাও : \\(\\mathrm{P + O_3 \\xrightarrow{CCl_4} A \\xrightarrow[H_2O,\\ \\Delta]{Zn} B + C}\\) C-যৌগটি তিন কার্বনবিশিষ্ট কিটোন",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-DIB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "উভয় উৎপাদ (B ও C) কে 1° অ্যালকোহল থেকে প্রস্তুত করা যায়"
+        },
+        {
+          "label": "ii",
+          "text": "C-যৌগটি ফেহলিং দ্রবণের সাথে বিক্রিয়া দেয় না"
+        },
+        {
+          "label": "iii",
+          "text": "B ও C উভয়ই কার্বনিল যৌগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "B = HCHO, C = প্রোপানোন। HCHO 1° অ্যালকোহল (মিথানল) থেকে পাওয়া যায়, কিন্তু প্রোপানোন 2° অ্যালকোহল থেকে হয়, তাই i ভুল। কিটোন ফেহলিং দ্রবণের সাথে বিক্রিয়া করে না (ii সত্য)। উভয়ই কার্বনিল (>C=O) যৌগ (iii সত্য)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "B is methanal (from methanol, a 1° alcohol) but C is propanone, which comes from propan-2-ol (a 2° alcohol), so i is wrong."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-170",
+      "text": "মিথাইল কার্বিনল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3-OH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "HCHO",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "H-COOH",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-CH_2-OH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "কার্বিনল হলো \\(\\mathrm{CH_3OH}\\)। এর H কে অ্যালকাইল মূলক দিয়ে প্রতিস্থাপন করে নামকরণ হয়; মিথাইল কার্বিনল = \\(\\mathrm{CH_3-CH_2-OH}\\) (ইথানল)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Carbinol is the old name for methanol (CH₃OH), so methyl carbinol is CH₃–CH₂OH (ethanol); the hand-marked key on the photo chose খ."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-171",
+      "text": "অ্যারোমেটিক বলয়ে সক্রিয়কারী মূলক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{-NH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{-CHO}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{-NO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{-COOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অ্যারোমেটিক বলয়ে ইলেক্ট্রন দানকারী মূলক (যেমন \\(\\mathrm{-NH_2}\\)) বলয়কে সক্রিয় করে; \\(\\mathrm{-CHO}\\), \\(\\mathrm{-NO_2}\\), \\(\\mathrm{-COOH}\\) নিষ্ক্রিয়কারী মূলক।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-172",
+      "text": "উদ্দীপকের 'A' যৌগটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক অনুসারে ১৫ ও ১৬ নং প্রশ্নের উত্তর দাও : \\(\\mathrm{CH_3-CH_2-COONa + NaOH \\xrightarrow[\\Delta]{CaO} A + Na_2CO_3}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোপেন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোপিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিউটেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইথেন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "সোডিয়াম প্রোপানোয়েট সোডালাইমের সাথে ডিকার্বক্সিলেশনে একটি কার্বন হারায়: \\(\\mathrm{C_2H_5COONa + NaOH \\rightarrow C_2H_6 + Na_2CO_3}\\)। অতএব A হলো ইথেন।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Soda-lime decarboxylation removes one carbon: sodium propanoate gives ethane (C₂H₆); the hand-marked key on the photo chose খ."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-173",
+      "text": "উদ্দীপকের বিক্রিয়াটি কী নামে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক অনুসারে ১৫ ও ১৬ নং প্রশ্নের উত্তর দাও : \\(\\mathrm{CH_3-CH_2-COONa + NaOH \\xrightarrow[\\Delta]{CaO} A + Na_2CO_3}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-JB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "উর্টজ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডি-কার্বোক্সিলেশন বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উর্টজ ফিটিগ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফ্রিডেল ক্রাফ্‌ট বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কার্বক্সিলিক এসিডের লবণ থেকে সোডালাইম দ্বারা \\(\\mathrm{CO_2}\\) অপসারণ করে নিম্নতর অ্যালকেন তৈরির বিক্রিয়া ডি-কার্বক্সিলেশন।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-174",
+      "text": "ফিউরান যৌগে সঞ্চারণশীল ইলেকট্রন কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8টি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ফিউরানে O এর একজোড় নিঃসঙ্গ ইলেক্ট্রন ও দুটি দ্বিবন্ধনের চার \\(\\pi\\) ইলেক্ট্রন মিলে মোট 6টি সঞ্চরণশীল ইলেক্ট্রন থাকে (\\(4n+2\\), \\(n = 1\\))।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-175",
+      "text": "নিচের কোনটি কিটো-ইনল টটোমারিতা প্রদর্শন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রোপানল-২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রোপানোন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রোপান্যাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রোপানয়িক এসিড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "কিটো-ইনল টটোমারিতার জন্য \\(\\alpha\\)-হাইড্রোজেনযুক্ত কার্বনিল যৌগ লাগে। প্রোপানোন (\\(\\mathrm{CH_3COCH_3}\\)) কিটো ও ইনল রূপের মধ্যে সাম্যাবস্থায় থাকে।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Propanone is the textbook example; strictly, propanal also has α-hydrogens and can show keto–enol tautomerism."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-176",
+      "text": "উদ্দীপকের বিক্রিয়ায় 'Zn' ব্যবহার না করলে কী উৎপন্ন হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড়ে ২২ ও ২৩ নং প্রশ্নের উত্তর দাও : \\(\\mathrm{A + O_3 \\xrightarrow{CCl_4} B \\xrightarrow{H_2O/Zn} 2CH_3CHO}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-JB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "H–COOH",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "H–CHO",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3-CH_2-OH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-COOH}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "Zn না থাকলে উৎপন্ন \\(\\mathrm{H_2O_2}\\) অ্যাসিটালডিহাইডকে জারিত করে অ্যাসিটিক এসিডে পরিণত করে: \\(\\mathrm{CH_3CHO \\xrightarrow{[O]} CH_3COOH}\\)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-177",
+      "text": "উদ্দীপকের 'A' যৌগটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড়ে ২২ ও ২৩ নং প্রশ্নের উত্তর দাও : \\(\\mathrm{A + O_3 \\xrightarrow{CCl_4} B \\xrightarrow{H_2O/Zn} 2CH_3CHO}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-JB-22-23",
+      "statements": [
+        {
+          "label": "i",
+          "text": "জ্যামিতিক সমাণুতা প্রদর্শন করে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিস্থাপন বিক্রিয়া দেয় না"
+        },
+        {
+          "label": "iii",
+          "text": "ক্ষারীয় \\(\\mathrm{KMnO_4}\\) দ্রবণের সাথে গ্লাইকল উৎপন্ন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ওজোনোলাইসিসে \\(2\\mathrm{CH_3CHO}\\) পাওয়া যায়, তাই A = বিউট-2-ইন (\\(\\mathrm{CH_3CH=CHCH_3}\\))। এটি সিস-ট্রান্স সমাণুতা দেখায় (i), অসম্পৃক্ত হওয়ায় সংযোজন বিক্রিয়া দেয়, প্রতিস্থাপন নয় (ii), এবং ক্ষারীয় \\(\\mathrm{KMnO_4}\\) এর সাথে গ্লাইকল (বিউটেন-2,3-ডাইঅল) উৎপন্ন করে (iii)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-178",
+      "text": "কোন সমাণুতা আপনা আপনি ঘটতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবস্থান সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "টটোমারিজম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিকল সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেটামারিজম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "টটোমারিজমে দুটি সমাণু সাম্যাবস্থায় থেকে আপনা আপনি একটি অপরটিতে রূপান্তরিত হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-179",
+      "text": "ইলেকট্রোফাইল হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "\\(\\mathrm{AlCl_3}\\)"
+        },
+        {
+          "label": "ii",
+          "text": "\\(\\mathrm{BF_3}\\)"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{BeCl_2}\\)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ইলেকট্রোফাইল হলো ইলেক্ট্রন গ্রহীতা। \\(\\mathrm{AlCl_3}\\), \\(\\mathrm{BF_3}\\) ও \\(\\mathrm{BeCl_2}\\) তিনটিতেই কেন্দ্রীয় পরমাণুর অষ্টক অপূর্ণ, তাই সবগুলোই ইলেকট্রোফাইল।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-180",
+      "text": "অ্যালকিনের সাধারণ সংকেত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{C_nH_{2n+2}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{C_nH_{2n+1}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{C_nH_{2n}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{C_nH_{2n-2}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অ্যালকিনের সাধারণ সংকেত \\(\\mathrm{C_nH_{2n}}\\)। (ক) অ্যালকেনের, (ঘ) অ্যালকাইনের সংকেত।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-181",
+      "text": "বেনজিন বলয়ে অর্থো-প্যারা নির্দেশক মূলক হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{-COOCH_3}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "–CHO",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{-NO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{-NHCOCH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "অর্থো-প্যারা নির্দেশক মূলক বলয়ে ইলেক্ট্রন দেয়। \\(\\mathrm{-NHCOCH_3}\\) এর N এর নিঃসঙ্গ ইলেক্ট্রন জোড় বলয়ে প্রবেশ করে, তাই এটি o-, p- নির্দেশক। বাকিগুলো মেটা নির্দেশক।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-182",
+      "text": "\\(\\mathrm{C_2H_5-O-C_2H_5}\\) যৌগটির নাম—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইথার"
+        },
+        {
+          "label": "ii",
+          "text": "ডাই ইথাইল ইথার"
+        },
+        {
+          "label": "iii",
+          "text": "ইথোক্সি ইথেন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\mathrm{C_2H_5-O-C_2H_5}\\) একটি ইথার (i)। সাধারণ নাম ডাই ইথাইল ইথার (ii) এবং IUPAC নাম ইথোক্সি ইথেন (iii)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-183",
+      "text": "নিচের উদ্দীপকের আলোকে : \\(\\mathrm{CH_3CH_2CH_2Br + KOH(alc) \\xrightarrow{\\Delta}}\\) 'A' + KBr + \\(\\mathrm{H_2O}\\). উদ্দীপকের 'A' যৌগ হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অপ্রতিসম অ্যালকিন"
+        },
+        {
+          "label": "ii",
+          "text": "জ্যামিতিক সমাণুতা প্রদর্শন করে"
+        },
+        {
+          "label": "iii",
+          "text": "\\(\\mathrm{Br_2}\\) দ্রবণকে বর্ণহীন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "প্রোপিল ব্রোমাইড অ্যালকোহলিক KOH এর সাথে অপসারণ বিক্রিয়ায় প্রোপিন (\\(\\mathrm{CH_3CH=CH_2}\\)) দেয়। এটি অপ্রতিসম অ্যালকিন (i সত্য)। দ্বিবন্ধনের একটি কার্বনে দুটি H থাকায় জ্যামিতিক সমাণুতা নেই (ii ভুল)। অসম্পৃক্ত বলে \\(\\mathrm{Br_2}\\) দ্রবণকে বর্ণহীন করে (iii সত্য)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-184",
+      "text": "অ্যান্থ্রাসিন অণুতে π (পাই) ইলেকট্রন সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "6",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "10",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "14",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "16",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "অ্যান্থ্রাসিন \\(\\mathrm{C_{14}H_{10}}\\) এ তিনটি বেনজিন বলয় রৈখিকভাবে যুক্ত, মোট 14টি কার্বনের প্রতিটি একটি করে \\(\\pi\\) ইলেক্ট্রন দেয়; তাই \\(\\pi\\) ইলেক্ট্রন 14টি।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-185",
+      "text": "কোন সমাণুতা আপনা আপনি ঘটতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবস্থান সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গাঠনিক সমাণুতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেটামারিজম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "টটোমারিজম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "টটোমারিজমে একটি সমাণু অন্যটিতে সাম্যাবস্থায় আপনা আপনি রূপান্তরিত হয় (যেমন কিটো-ইনল), অন্য সমাণুতাগুলো এভাবে ঘটে না।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-186",
+      "text": "'A' যৌগে কয়টি বন্ধন ইলেকট্রন আছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পর্যবেক্ষণ কর : \\(\\mathrm{CH_3-CH(OH)-CH_3 \\xrightarrow{KMnO_4/KOH} A + H_2O}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-CUB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "24",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "20",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "8",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আইসোপ্রোপানল জারিত হয়ে অ্যাসিটোন \\(\\mathrm{CH_3COCH_3}\\) (A) দেয়।\nঅণুতে বন্ধন সংখ্যা = ৬টি C–H + ২টি C–C + ২টি (C=O) = ১০টি; বন্ধন ইলেকট্রন = \\(10 \\times 2 = 20\\)টি।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-187",
+      "text": "'A' নিচের কোন বিক্রিয়া প্রদর্শন করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকটি পর্যবেক্ষণ কর : \\(\\mathrm{CH_3-CH(OH)-CH_3 \\xrightarrow{KMnO_4/KOH} A + H_2O}\\)",
+      "stem_image": null,
+      "group": "chemistry_2nd-2022-CUB-10-11",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অ্যালডল ঘনীভবন"
+        },
+        {
+          "label": "ii",
+          "text": "ক্লিমেনসন বিজারণ"
+        },
+        {
+          "label": "iii",
+          "text": "ক্যানিজারো বিক্রিয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "A হলো অ্যাসিটোন। এতে \\(\\alpha\\)-হাইড্রোজেন আছে, তাই অ্যালডল ঘনীভবন (i) ঘটে; কার্বনিল মূলক থাকায় ক্লিমেনসন বিজারণ (ii) ঘটে। ক্যানিজারো বিক্রিয়া শুধু \\(\\alpha\\)-H বিহীন অ্যালডিহাইডে ঘটে, তাই অ্যাসিটোনে ঘটে না (iii মিথ্যা)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-188",
+      "text": "ইলেকট্রোফিলিক যুত বিক্রিয়ায় কোন যৌগটি বেশি সক্রিয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পেন্টাইন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পেন্টান্যাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিউটানল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিউটিন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "ইলেকট্রোফিলিক যুত বিক্রিয়া কার্বন-কার্বন দ্বিবন্ধনযুক্ত (π ইলেকট্রন সমৃদ্ধ) যৌগে সহজে ঘটে। তাই অ্যালকিন বিউটিন বেশি সক্রিয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Alkenes undergo electrophilic addition faster than alkynes (the alkyne's π electrons are held more tightly by sp carbons); the hand-marked key on the photo chose ক."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-189",
+      "text": "কার্বানায়নের সুস্থিতির ক্রম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "3° > 2° > 1°",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1° > 2° > 3°",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1° > 3° > 2°",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "2° > 1° > 3°",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "অ্যালকাইল মূলকের +I ক্রিয়া কার্বানায়নের ঋণাত্মক চার্জ বাড়িয়ে একে অসুস্থিত করে। তাই অ্যালকাইল মূলক যত বেশি, সুস্থিতি তত কম; ক্রম \\(1^\\circ > 2^\\circ > 3^\\circ\\)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-190",
+      "text": "নিচের কোন যৌগে 'নাইট্রাইল' কার্যকরী মূলকটি বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3NH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CCl_3NO_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3CN}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{NH_4CNO}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "নাইট্রাইল মূলক হলো \\(-\\mathrm{C\\equiv N}\\), যা \\(\\mathrm{CH_3CN}\\)-এ আছে। (ক) অ্যামিন, (খ) নাইট্রো, (ঘ) অ্যামোনিয়াম সায়ানেট।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-191",
+      "text": "কার্বিল অ্যামিন পরীক্ষা দ্বারা নিচের কোনটি শনাক্ত করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্লোরোফরম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেকেন্ডারি অ্যামিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "টারসিয়ারি অ্যামিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নাইট্রোবেনজিন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "কার্বিল অ্যামিন বিক্রিয়ায় প্রাইমারি অ্যামিন, \\(\\mathrm{CHCl_3}\\) ও অ্যালকোহলীয় KOH-এর সাথে বিক্রিয়া করে আইসোসায়ানাইডের দুর্গন্ধ দেয়; এই পরীক্ষায় ক্লোরোফরম শনাক্ত করা যায়, সেকেন্ডারি ও টারসিয়ারি অ্যামিন বিক্রিয়া দেয় না।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-192",
+      "text": "হফম্যান ডিগ্রেডেশন দ্বারা কোনটি উৎপন্ন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এসিড অ্যামাইড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রাইমারী অ্যামিন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সেকেন্ডারী অ্যামিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্বক্সিলিক এসিড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "হফম্যান ডিগ্রেডেশনে অ্যাসিড অ্যামাইড \\(\\mathrm{Br_2/KOH}\\)-এর সাথে বিক্রিয়া করে একটি কার্বন কম বিশিষ্ট প্রাইমারি অ্যামিন উৎপন্ন করে: \\(\\mathrm{RCONH_2 + Br_2 + 4KOH \\rightarrow RNH_2 + 2KBr + K_2CO_3 + 2H_2O}\\)।",
+      "source": {
+        "board": "SB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-193",
+      "text": "A যৌগটির IUPAC নাম কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ৯ ও ১০নং প্রশ্নের উত্তর দাও : \\(\\mathrm{RMgX + A \\xrightarrow{H_2O,\\ H^+} B}\\) [লুকাস বিকারকের সাথে দ্রুত বিক্রিয়া করে] [A, B প্রতীকী অর্থে ব্যবহৃত এবং A পাঁচ কার্বন বিশিষ্ট যৌগ]",
+      "stem_image": null,
+      "group": "chemistry_2nd-2026-ALL-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "পেন্টানোন-2",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পেন্টান্যাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2-মিথাইল বিউটান্যাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "3-মিথাইল বিউটান্যাল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "B লুকাস বিকারকের সাথে দ্রুত বিক্রিয়া করে, অর্থাৎ B একটি ৩° অ্যালকোহল। গ্রিনিয়ার বিকারক কিটোনের সাথে বিক্রিয়া করে ৩° অ্যালকোহল দেয় (অ্যালডিহাইড দিলে ২° অ্যালকোহল হতো)। A পাঁচ কার্বন বিশিষ্ট কিটোন হওয়ায় বিকল্পগুলোর মধ্যে পেন্টানোন-2 (\\(\\mathrm{CH_3COCH_2CH_2CH_3}\\)) সঠিক।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "B reacts at once with Lucas reagent, so it is a 3° alcohol; a Grignard reagent gives a 3° alcohol only from a ketone, and the only ketone offered is pentan-2-one (the aldehydes would give 2° alcohols)."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-194",
+      "text": "B যৌগটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপকটি পড় এবং ৯ ও ১০নং প্রশ্নের উত্তর দাও : \\(\\mathrm{RMgX + A \\xrightarrow{H_2O,\\ H^+} B}\\) [লুকাস বিকারকের সাথে দ্রুত বিক্রিয়া করে] [A, B প্রতীকী অর্থে ব্যবহৃত এবং A পাঁচ কার্বন বিশিষ্ট যৌগ]",
+      "stem_image": null,
+      "group": "chemistry_2nd-2026-ALL-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পানিতে দ্রবণীয়"
+        },
+        {
+          "label": "ii",
+          "text": "অম্লধর্মী"
+        },
+        {
+          "label": "iii",
+          "text": "জারিত হয়ে কার্বক্সিলিক এসিড উৎপন্ন করে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "B একটি ৩° অ্যালকোহল।\n(i) ছোট আকারের অ্যালকোহল হিসেবে H-বন্ধনের মাধ্যমে পানিতে দ্রবণীয় — সঠিক।\n(ii) অ্যালকোহল দুর্বল অম্লধর্মী — সঠিক।\n(iii) ৩° অ্যালকোহল সহজে জারিত হয় না, কার্বক্সিলিক এসিড দেয় না (১° অ্যালকোহল দেয়) — ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "A 3° alcohol resists oxidation, so iii is wrong; alcohols dissolve in water through hydrogen bonding and are very weakly acidic (they liberate H₂ with Na)."
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-195",
+      "text": "বিস্ফোরক তৈরিতে ব্যবহৃত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "গ্লিসারিন"
+        },
+        {
+          "label": "ii",
+          "text": "টলুইন"
+        },
+        {
+          "label": "iii",
+          "text": "ফেনল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "গ্লিসারিন থেকে নাইট্রোগ্লিসারিন, টলুইন থেকে TNT এবং ফেনল থেকে পিক্রিক এসিড তৈরি হয়; তিনটিই বিস্ফোরক তৈরিতে ব্যবহৃত হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-196",
+      "text": "Q যৌগের গাঠনিক সংকেত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক অনুসারে ১৭ ও ১৮নং প্রশ্নের উত্তর দাও : \\(\\mathrm{Q + O_3 \\xrightarrow{CCl_4} X \\xrightarrow{Zn,\\ H_2O} Y + Z}\\) (Y ২-কার্বন বিশিষ্ট, Z ১-কার্বন বিশিষ্ট) [Q, X, Y, Z প্রতীকী অর্থে ব্যবহৃত এবং Y ও Z কার্বনিল যৌগ]",
+      "stem_image": null,
+      "group": "chemistry_2nd-2026-ALL-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{CH_3-C\\equiv CH}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_3-CH=CH_2}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/chemistry_2nd-ch2-mcq-196-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{CH_3-CH_2-CH_3}\\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "Y (২-কার্বন কার্বনিল যৌগ) = \\(\\mathrm{CH_3CHO}\\), Z (১-কার্বন) = HCHO। ওজোনোলাইসিসে এ দুটি উৎপন্ন হতে হলে Q = \\(\\mathrm{CH_3-CH=CH_2}\\) (প্রোপিন)। অন্য বিকল্পগুলো এ দুটি উৎপাদ দেয় না।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-197",
+      "text": "উদ্দীপকের যৌগগুলোর মধ্যে—",
+      "text_en": null,
+      "image": null,
+      "stem": "নিচের উদ্দীপক অনুসারে ১৭ ও ১৮নং প্রশ্নের উত্তর দাও : \\(\\mathrm{Q + O_3 \\xrightarrow{CCl_4} X \\xrightarrow{Zn,\\ H_2O} Y + Z}\\) (Y ২-কার্বন বিশিষ্ট, Z ১-কার্বন বিশিষ্ট) [Q, X, Y, Z প্রতীকী অর্থে ব্যবহৃত এবং Y ও Z কার্বনিল যৌগ]",
+      "stem_image": null,
+      "group": "chemistry_2nd-2026-ALL-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "Y আয়োডোফরম বিক্রিয়া দেয়"
+        },
+        {
+          "label": "ii",
+          "text": "Z ক্যানিজারো বিক্রিয়া দেয়"
+        },
+        {
+          "label": "iii",
+          "text": "Y ও Z কেন্দ্রাকর্ষী প্রতিস্থাপন বিক্রিয়া দেয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "Y = \\(\\mathrm{CH_3CHO}\\), Z = HCHO।\n(i) \\(\\mathrm{CH_3CO-}\\) গ্রুপ থাকায় Y আয়োডোফরম বিক্রিয়া দেয় — সঠিক।\n(ii) HCHO-তে α-হাইড্রোজেন নেই, তাই ক্যানিজারো বিক্রিয়া দেয় — সঠিক।\n(iii) কার্বনিল যৌগ কেন্দ্রাকর্ষী যোগ বিক্রিয়া দেয়, প্রতিস্থাপন নয় — ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-198",
+      "text": "কোন যৌগটি আলোক সক্রিয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\mathrm{(CH_3)_2C=CHCl}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\mathrm{CH_2(NH_2)-COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\mathrm{CH_3-CH(NH_2)-COOH}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\mathrm{Cl-CH_2-NO_2}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "যে যৌগে কাইরাল কার্বন (চারটি ভিন্ন গ্রুপযুক্ত C) আছে তা আলোক সক্রিয়। \\(\\mathrm{CH_3-C^*H(NH_2)-COOH}\\) (অ্যালানিন)-এ কাইরাল কার্বন আছে; অন্যগুলোতে নেই।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "chemistry_2nd-ch2-mcq-199",
+      "text": "নিম্নের কোন বিক্রিয়ায় কার্বন শিকল হ্রাস পায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উর্টজ বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্যান্ডমেয়ার বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফ্রিডেল ক্রাফট বিক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হফম্যান ক্ষুদ্রাংশকরণ বিক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "হফম্যান ক্ষুদ্রাংশকরণ (ব্রোমামাইড) বিক্রিয়ায় অ্যামাইড থেকে এক কার্বন কম প্রাইমারি অ্যামিন উৎপন্ন হয়, তাই কার্বন শিকল হ্রাস পায়। উর্টজ ও ফ্রিডেল-ক্রাফট বিক্রিয়ায় শিকল বৃদ্ধি পায়; স্যান্ডমেয়ার বিক্রিয়ায় শিকল অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

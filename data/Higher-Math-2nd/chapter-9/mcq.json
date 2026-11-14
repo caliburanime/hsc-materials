@@ -1361,6 +1361,100 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-034",
+      "text": "প্রক্ষেপকটির—",
+      "text_en": null,
+      "image": "assets/higher_math_2nd-ch9-mcq-034-fig.svg",
+      "statements": [
+        {
+          "label": "i",
+          "text": "আনুভূমিক দূরত্ব = \\(\\dfrac{50}{g}\\) m"
+        },
+        {
+          "label": "ii",
+          "text": "সর্বাধিক উচ্চতা = \\(\\dfrac{25}{2g}\\) m"
+        },
+        {
+          "label": "iii",
+          "text": "উড্ডয়নকাল = \\(\\dfrac{10}{g}\\) sec"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(u = 10,\\ \\alpha = 30^\\circ\\)।\n(i) মিথ্যা: আনুভূমিক পাল্লা \\(= \\dfrac{u^2\\sin2\\alpha}{g} = \\dfrac{100\\cdot\\frac{\\sqrt{3}}{2}}{g} = \\dfrac{50\\sqrt{3}}{g}\\)।\n(ii) সত্য: \\(H = \\dfrac{u^2\\sin^2\\alpha}{2g} = \\dfrac{100\\cdot\\frac{1}{4}}{2g} = \\dfrac{25}{2g}\\)।\n(iii) সত্য: \\(T = \\dfrac{2u\\sin\\alpha}{g} = \\dfrac{10}{g}\\)।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Range = u² sin60°/g = 50√3/g (not 50/g); H = u² sin²30°/(2g) = 25/(2g); T = 2u sin30°/g = 10/g."
+    },
+    {
+      "id": "higher_math_2nd-ch9-mcq-035",
+      "text": "একটি প্রক্ষেপকের সর্বাধিক আনুভূমিক দূরত্ব 200m হলে তার সর্বাধিক উচ্চতা কত মিটার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "50",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "75",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "100",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "সর্বাধিক পাল্লা \\(\\dfrac{u^2}{g} = 200\\) (\\(\\alpha = 45^\\circ\\) এ)।\nসর্বাধিক উচ্চতা \\(= \\dfrac{u^2\\sin^2 45^\\circ}{2g} = \\dfrac{u^2}{4g} = \\dfrac{200}{4} = 50\\) মিটার।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The maximum range u²/g = 200 m occurs at 45°, where the greatest height is u² sin²45°/(2g) = R/4 = 50 m."
     }
   ]
 }

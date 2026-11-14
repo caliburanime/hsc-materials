@@ -1,0 +1,46 @@
+{
+  "subject": "higher_math_2nd",
+  "chapter": 2,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "higher_math_2nd-ch2-mcq-001",
+      "text": "উদ্দেশ্য ফাংশন : Z = x + 2y; শর্তসমূহ : x + y ≤ 4; x ≥ 2; x, y ≥ 0। উল্লিখিত শর্তাধীনে সমাধান অঞ্চলটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়তাকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্গাকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্রিভুজাকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রাপিজিয়ামাকার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(x \\ge 2\\), \\(y \\ge 0\\) ও \\(x + y \\le 4\\) এর সাধারণ অঞ্চলের কৌণিক বিন্দু \\((2, 0)\\), \\((4, 0)\\), \\((2, 2)\\)। তিনটি কৌণিক বিন্দু থাকায় সমাধান অঞ্চলটি ত্রিভুজাকার।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

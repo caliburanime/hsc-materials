@@ -3365,6 +3365,713 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-083",
+      "text": "চিত্রে z চিহ্নিত প্রান্তটি কী?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-083-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "P টাইপ নিঃসারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "P টাইপ সংগ্রাহক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "n টাইপ নিঃসারক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "n টাইপ সংগ্রাহক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "চিত্রে তীরচিহ্নসহ প্রান্তটি নিঃসারক (emitter) এবং তীর বেসের দিকে নির্দেশ করছে, অর্থাৎ ট্রানজিস্টরটি p-n-p। p-n-p ট্রানজিস্টরের নিঃসারক p টাইপ, তাই z হলো P টাইপ নিঃসারক।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-084",
+      "text": "Ge এর ক্ষেত্রে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তির ব্যবধান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.7 eV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "1.1 eV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6 eV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "7 eV",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "জার্মেনিয়ামের যোজন ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান (শক্তিফাঁক) প্রায় 0.7 eV (সিলিকনের 1.1 eV)।",
+      "source": {
+        "board": "BB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Germanium's band gap is about 0.7 eV; 1.1 eV (the hand-marked choice) is silicon's."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-085",
+      "text": "Forward bias এ PN জাংশনের ডিপ্লেশন স্তর—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রসারিত হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংকুচিত হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চার্জিত হয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "অগ্র ঝোঁকে বাইরের বিভব অন্তর্নিহিত বিভব-প্রাচীরের বিপরীতে কাজ করে, ফলে ডিপ্লেশন স্তর সংকুচিত হয় এবং তড়িৎ প্রবাহ চলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-086",
+      "text": "N টাইপ অর্ধপরিবাহী পাওয়ার জন্য নিচের কোন পদার্থটি অপদ্রব্য হিসেবে ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এলুমিনিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এন্টিমনি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোরন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইন্ডিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "পঞ্চযোজী অপদ্রব্য (যেমন As, Sb, P) মেশালে n টাইপ অর্ধপরিবাহী পাওয়া যায়। এন্টিমনি পঞ্চযোজী; বাকিগুলো ত্রিযোজী (p টাইপ)।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-087",
+      "text": "বিপরীত ঝোঁকে যখন PN জাংশনে তড়িৎ প্রবাহ হঠাৎ করে অস্বাভাবিক হারে বৃদ্ধি পায়, তখন এই ঘটনাকে বলা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অ্যামপ্লিফিকেশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফিল্টারিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনার ক্রিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেক্টিফিকেশন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "বিপরীত ঝোঁকে ভাঙন বিভবে পৌঁছালে প্রবাহ হঠাৎ অস্বাভাবিক হারে বেড়ে যায়; এই ঘটনাকে জেনার ক্রিয়া বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2022",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-088",
+      "text": "নিচের কোন ডায়োডটি রিভার্স বায়াসে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-088-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-088-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-088-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-088-optd.svg"
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ডায়োড রিভার্স বায়াসে থাকে যখন অ্যানোডের বিভব ক্যাথোডের চেয়ে কম থাকে।\n(ক) ও (ঘ): অ্যানোড 0 V, ক্যাথোড −10 V-এর দিকে; অ্যানোড উচ্চতর, তাই ফরোয়ার্ড।\n(খ): অ্যানোড 0 V, ক্যাথোড +5 V-এর দিকে; অ্যানোড নিম্নতর, তাই রিভার্স।\n(গ): অ্যানোড +10 V-এর দিকে, ক্যাথোড +5 V; ফরোয়ার্ড।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-089",
+      "text": "নিম্নলিখিত বর্তনীটির আউটপুট কোনটি?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-089-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-089-opta.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-089-optb.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-089-optc.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/physics_2nd-ch10-mcq-089-optd.svg"
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "একটি ডায়োড শুধু ধনাত্মক অর্ধচক্রে পরিবাহী হয় এবং ঋণাত্মক অর্ধচক্রে বাধা দেয়। তাই আউটপুটে ফাঁকসহ কেবল ধনাত্মক অর্ধতরঙ্গ পাওয়া যায়, যা অর্ধতরঙ্গ রেকটিফায়ারের আউটপুট।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-090",
+      "text": "নিচের বর্তনীটি দ্বারা কোন গেটের লজিক নীতি সম্পাদিত হয়?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-090-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "দ্বিতীয় NOR গেটের দুই ইনপুট একত্রে যুক্ত থাকায় সেটি NOT গেটের মতো কাজ করে। প্রথম NOR-এর আউটপুট \\(\\overline{A+B}\\)-কে উল্টালে \\(\\overline{\\overline{A+B}} = A+B\\) পাওয়া যায়, যা OR গেট।",
+      "source": {
+        "board": "DB",
+        "year": "2022",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-091",
+      "text": "জার্মেনিয়াম কেলাসের শক্তিফাঁক কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.3V",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.7V",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.0V",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "1.1V",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "জার্মেনিয়াম কেলাসের শক্তিফাঁক প্রায় 0.7 eV (সিলিকনের 1.1 eV)।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Germanium's band gap is about 0.7 eV (printed in volts); 1.1 eV, written by hand on the photo, is silicon's."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-092",
+      "text": "কমন ইমিটার বর্তনীতে \\(V_{CE}\\) স্থির থাকলে \\(I_B\\) বনাম \\(I_C\\) লেখচিত্র নিম্নরূপ : লেখচিত্রটির ঢাল প্রকাশ করে—",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-092-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রবাহ লাভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রবাহ বিবর্ধক গুণক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিভব লাভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষমতা লাভ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "\\(V_{CE}\\) স্থির থাকলে \\(I_C\\)-\\(I_B\\) লেখের ঢাল \\(\\dfrac{\\Delta I_C}{\\Delta I_B} = \\beta\\), যা কমন ইমিটার বর্তনীর প্রবাহ লাভ।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "The slope ΔI_C/ΔI_B is β, the common-emitter current gain (প্রবাহ লাভ); the Bangla textbooks reserve \"প্রবাহ বিবর্ধন গুণক\" for the common-base factor α."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-093",
+      "text": "উপরের বর্তনী দ্বারা নিচের কোন লজিক গেইট বাস্তবায়ন করা যায়?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-093-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NOT",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "AND",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "NAND",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "দুটি সুইচ A ও B সমান্তরালে যুক্ত। যেকোনো একটি চালু (বন্ধ) থাকলেই বাতি জ্বলে; এটি OR গেটের নীতি।",
+      "source": {
+        "board": "DIB",
+        "year": "2022",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-094",
+      "text": "ট্রানজিস্টরের ক্ষেত্রে α ও β এর মধ্যে সম্পর্ক নিম্নরূপ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\beta = \\dfrac{\\alpha}{1+\\alpha}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\beta = \\dfrac{1+\\alpha}{1-\\alpha}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\alpha = \\dfrac{\\beta}{1+\\beta}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\alpha = \\dfrac{1+\\beta}{\\beta}\\)",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\(\\alpha = \\dfrac{I_C}{I_E}\\), \\(\\beta = \\dfrac{I_C}{I_B}\\) এবং \\(I_E = I_B + I_C\\)।\n\\(\\alpha = \\dfrac{I_C}{I_B + I_C} = \\dfrac{\\beta}{1+\\beta}\\)",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-095",
+      "text": "ট্রানজিস্টর হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইলেকট্রন-প্রভাবিত ডিভাইস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাপ-প্রভাবিত ডিভাইস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গর্ত-প্রভাবিত ডিভাইস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তাপমাত্রা-প্রভাবিত ডিভাইস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ট্রানজিস্টরে ইলেকট্রন ও হোল উভয় বাহক কাজ করলেও প্রদত্ত বিকল্পগুলোর মধ্যে একে ইলেকট্রন-প্রভাবিত ডিভাইস হিসেবে ধরা হয়েছে; তাই (ক) সঠিক।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ক is the answer in both sattacademy's key and the hand-marked key; strictly, a bipolar transistor is a current-controlled device in which both electrons and holes carry current."
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-096",
+      "text": "পূর্ণ তরঙ্গ রেকটিফায়ারের সর্বোচ্চ কতটি ডায়োড প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "1",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "4",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "পূর্ণ তরঙ্গ রেকটিফায়ার দুই ডায়োড (সেন্টার-ট্যাপ) বা চার ডায়োড (ব্রিজ) দিয়ে তৈরি করা যায়। সর্বোচ্চ প্রয়োজন 4টি ডায়োড (ব্রিজ রেকটিফায়ার)।",
+      "source": {
+        "board": "JB",
+        "year": "2022",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-097",
+      "text": "বুলিয়ান বীজগণিত অনুযায়ী \\(\\overline{A+B}\\) এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\overline{A}\\cdot\\overline{B}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\overline{A}+\\overline{B}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(A+B\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(A\\cdot B\\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "ডি মরগানের উপপাদ্য অনুযায়ী \\(\\overline{A+B} = \\overline{A}\\cdot\\overline{B}\\)।",
+      "source": {
+        "board": "MB",
+        "year": "2022",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-098",
+      "text": "উপরের চিত্রটি কোন Gate কে নির্দেশ করে?",
+      "text_en": null,
+      "image": "assets/physics_2nd-ch10-mcq-098-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "NOR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NAND",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "OR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "AND",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "দুটি সুইচ A ও B শ্রেণিতে যুক্ত। উভয় সুইচ চালু হলেই বাতি জ্বলে; এটি AND গেটের নীতি।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-099",
+      "text": "একটি ট্রানজিস্টরের ক্ষেত্রে α = 0.9 হলে β কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.11",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.47",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "2.11",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "9",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "\\(\\beta = \\dfrac{\\alpha}{1-\\alpha} = \\dfrac{0.9}{1-0.9} = \\dfrac{0.9}{0.1} = 9\\)",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_2nd-ch10-mcq-100",
+      "text": "সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান থাকে কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "0.3 eV",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "0.7 eV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "1.1 eV",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "6 eV",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "সিলিকনের যোজন ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান প্রায় 1.1 eV।",
+      "source": {
+        "board": "RB",
+        "year": "2022",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "Silicon's band gap is about 1.1 eV; 0.7 V (the hand-marked choice) is the barrier potential of a silicon p-n junction."
     }
   ]
 }

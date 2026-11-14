@@ -387,6 +387,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-010",
+      "text": "নিচের কোনটি দূরত্ব মাপার একক নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অটোমিটার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেগা পারসেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলোক বর্ষ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওহম মিটার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "অটোমিটার (\\(10^{-18}\\,\\mathrm{m}\\)), মেগা পারসেক ও আলোক বর্ষ—তিনটিই দূরত্বের একক। ওহম মিটার (\\(\\Omega\\,\\mathrm{m}\\)) হলো রোধাংকের (আপেক্ষিক রোধের) একক; তাই (ঘ) দূরত্বের একক নয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "physics_1st-ch1-mcq-011",
+      "text": "একটি সিলিন্ডারের দৈর্ঘ্য (10.0 ± 0.05) cm এবং ব্যাসার্ধ (5.0 ± 0.1) mm পরিমাপ করা হলো। এর ভিত্তিতে সিলিন্ডারটির আয়তন পরিমাপে শতকরা ত্রুটি কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "2.5%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "4.5%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "6.5%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "8.5%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "আয়তন \\(V=\\pi r^2 l\\), তাই \\(\\dfrac{\\Delta V}{V}=2\\dfrac{\\Delta r}{r}+\\dfrac{\\Delta l}{l}\\)\n\\(=2\\times\\dfrac{0.1}{5.0}+\\dfrac{0.05}{10.0}=0.04+0.005=0.045\\)\nশতকরা ত্রুটি \\(=4.5\\%\\)",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }
