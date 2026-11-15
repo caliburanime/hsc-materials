@@ -1229,6 +1229,14 @@
         "year": "2023",
         "qno": 3
       },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2025",
+          "qno": 2,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -4005,6 +4013,1315 @@
       "source": {
         "board": "SB",
         "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-095",
+      "text": "বিক্রয় ফেরত লিপিবদ্ধ করার জন্য কোন দলিল ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ডেবিট ভাউচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডেবিট নোট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেডিট ভাউচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেডিট নোট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-096",
+      "text": "হিসাবচক্রের কোন ধাপগুলোর কাজ সারা বছর চলমান থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লেনদেন শনাক্তকরণ, সাধারণ জাবেদা, খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ জাবেদা, সমন্বয় জাবেদা, খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ জাবেদা, খতিয়ান, রেওয়ামিল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লেনদেন শনাক্তকরণ, সমন্বয় জাবেদা, খতিয়ান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-097",
+      "text": "প্রদেয় হিসাবের প্রারম্ভিক উদ্বৃত্ত ৫,০০০ টাকা, সমাপনী উদ্বৃত্ত ৮,০০০ টাকা, ক্রয় ফেরত ২,০০০ টাকা এবং পাওনাদারদের পরিশোধ ২০,০০০ টাকা হলে ধারে ক্রয়ের পরিমাণ হবে কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-098",
+      "text": "সকল প্রকার লেনদেনের স্থায়ী ভান্ডার হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদানবই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেওয়ামিল",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-099",
+      "text": "ক্রেডিট নোট কে কাকে প্রেরণ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালিক কর্মচারীকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মচারী মালিককে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেতা বিক্রেতাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিক্রেতা ক্রেতাকে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-100",
+      "text": "মি. আবের বাট্টা বাবদ কত টাকা হিসাবভুক্ত করবেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আবের ০১ এপ্রিল ৪০,০০০ টাকার পণ্য ১০% বাট্টায় বাকিতে বিক্রয় করেন। ০৯ এপ্রিল তারিখে উক্ত বিক্রয়ের দুই-তৃতীয়াংশ টাকা ২% বাট্টায় নগদে প্রাপ্ত হয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৪০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭২০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-101",
+      "text": "৯ তারিখের লেনদেনটি মি. আবের তার নগদান বহিতে কীভাবে লিপিবদ্ধ করবেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আবের ০১ এপ্রিল ৪০,০০০ টাকার পণ্য ১০% বাট্টায় বাকিতে বিক্রয় করেন। ০৯ এপ্রিল তারিখে উক্ত বিক্রয়ের দুই-তৃতীয়াংশ টাকা ২% বাট্টায় নগদে প্রাপ্ত হয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ডেবিট পাশে নগদ কলামে"
+        },
+        {
+          "label": "ii",
+          "text": "ডেবিট পাশে ব্যাংক কলামে"
+        },
+        {
+          "label": "iii",
+          "text": "ডেবিট পাশে বাট্টা কলামে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-102",
+      "text": "৬% ঋণপত্র ২,০০,০০০ টাকা মি. জহিরের নিকট ইস্যু করা হল। এর জাবেদা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ ডেবিট, ঋণপত্র ক্রেডিট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জহির ডেবিট, ঋণ ক্রেডিট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ ডেবিট, জহির ক্রেডিট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণপত্র ডেবিট, নগদ ক্রেডিট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-103",
+      "text": "সোনালী ট্রেডার্স ১২,০০০ টাকার পণ্য ১০% বাট্টায় ক্রয় করে। বিক্রেতার শর্ত মোতাবেক নির্ধারিত সময়ে ৫% বাট্টায় মূল্য পরিশোধ করে। সোনালী ট্রেডার্স বাট্টা বাবদ কত টাকা হিসাবভুক্ত করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৪০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৮০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-104",
+      "text": "দেনা বা পাওনা নিষ্পত্তির সময় কোন বাট্টার উদ্ভব হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ বাট্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কারবারি বাট্টা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিমাণ বাট্টা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রদত্ত বাট্টা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-105",
+      "text": "কারবারি বাট্টার অপর নাম হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্রয়বাট্টা"
+        },
+        {
+          "label": "ii",
+          "text": "প্রদত্ত বাট্টা"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রয় বাট্টা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-106",
+      "text": "নিচের কোন লেনদেনটি নগদান বইতে লিপিবদ্ধ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালিক কর্তৃক ব্যবসায় হতে পণ্য উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিজ্ঞাপনের উদ্দেশ্যে বিনামূল্যে পণ্য বিতরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যন্ত্রপাতির উপর অবচয় ধার্যকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিক কর্তৃক ব্যবসায়ে মূলধন আনয়ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-107",
+      "text": "মালিক কর্তৃক বিক্রয়মূল্যে পণ্য উত্তোলন লেনদেনটির জাবেদা দাখিলা নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উত্তোলন হিসাব- ডে; ক্রয় হিসাব- ক্রে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উত্তোলন হিসাব- ডে; বিক্রয় হিসাব- ক্রে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উত্তোলন হিসাব- ডে; মূলধন হিসাব- ক্রে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উত্তোলন হিসাব- ডে; দায় হিসাব- ক্রে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-108",
+      "text": "নিচের কোন দফাটির জন্য নগদান বইতে কন্ট্রা (C) শব্দটি লিখতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালিকের ব্যক্তিগত প্রয়োজনে ব্যাংক থেকে উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবসায়ের প্রয়োজনে ব্যাংক থেকে উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চেকের মাধ্যমে গ্রাহকের নিকট হতে টাকা গ্রহণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চেকের মাধ্যমে পণ্য বিক্রয় করে চেকটি সাথে সাথে ব্যাংকে জমাকরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-109",
+      "text": "ডেবিট নোট কে কাকে প্রেরণ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রেতা কর্তৃক বিক্রেতাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রেতা কর্তৃক ক্রেতাকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেতা কর্তৃক মালিককে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিক্রেতা কর্তৃক মালিককে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ক্রয় ফেরতের সময় ক্রেতা বিক্রেতাকে ডেবিট নোট পাঠায় (ক); বিক্রেতা ক্রেতাকে পাঠায় ক্রেডিট নোট — পোস্টারের চিহ্ন (খ) ভুল।"
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-110",
+      "text": "খতিয়ানের প্রধান উদ্দেশ্য হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লাভ-ক্ষতি নির্ণয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেনদেনের স্থায়ী সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক অবস্থা নির্ণয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিসাবের গাণিতিক শুদ্ধতা যাচাই",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-111",
+      "text": "বিক্রয় জাবেদা থেকে জানা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোট ধারে বিক্রয়ের পরিমাণ"
+        },
+        {
+          "label": "ii",
+          "text": "মোট বিক্রয়ের পরিমাণ"
+        },
+        {
+          "label": "iii",
+          "text": "মোট দেনাদারের পরিমাণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-112",
+      "text": "পারুল ট্রেডার্সের প্রাপ্ত বাট্টার পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "পারুল ট্রেডার্স ২০২৫ সালের ১ জানুয়ারি ১,০০,০০০ টাকার পণ্য ১০% বাট্টায় ক্রয় করে। এক সপ্তাহ পর উক্ত মালের মূল্যের অর্ধেক ১০% বাট্টায় পরিশোধ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-113",
+      "text": "মূল্য পরিশোধের পর দায় কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "পারুল ট্রেডার্স ২০২৫ সালের ১ জানুয়ারি ১,০০,০০০ টাকার পণ্য ১০% বাট্টায় ক্রয় করে। এক সপ্তাহ পর উক্ত মালের মূল্যের অর্ধেক ১০% বাট্টায় পরিশোধ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-114",
+      "text": "ডেবিট নোট কে তৈরি করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরবরাহকারী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-115",
+      "text": "কোনটি হিসাবের স্থায়ী ধাপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশেষ জাবেদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেওয়ামিল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-116",
+      "text": "ক্রয় ফেরতের জন্য কোন দলিল ব্যবহার করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভাউচার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চালান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেডিট নোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডেবিট নোট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-117",
+      "text": "নগদ বাট্টা কোন নগদান বইতে লেখা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একঘরা নগদান বই",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দু'ঘরা নগদান বই",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বহুঘরা খুচরা নগদান বই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তিনঘরা নগদান বই",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-118",
+      "text": "আসিফের পরিশোধিত অর্থের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "১ এপ্রিল ২০২৪ তারিখে ৪/২০, N/৩০ শর্তে আসিফের নিকট ২৫,০০০ টাকার পণ্য ধারে বিক্রয় করে। আসিফ ১০ এপ্রিল তারিখে ৫,০০০ টাকার পণ্য ফেরত দেয় এবং ১৫ এপ্রিল তারিখে পাওনা পরিশোধ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৯,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-119",
+      "text": "উদ্দীপকে উল্লিখিত আসিফকে প্রদত্ত বাট্টার পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "১ এপ্রিল ২০২৪ তারিখে ৪/২০, N/৩০ শর্তে আসিফের নিকট ২৫,০০০ টাকার পণ্য ধারে বিক্রয় করে। আসিফ ১০ এপ্রিল তারিখে ৫,০০০ টাকার পণ্য ফেরত দেয় এবং ১৫ এপ্রিল তারিখে পাওনা পরিশোধ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-120",
+      "text": "কোন দলিলের উপর ভিত্তি করে বিক্রয় জাবেদা প্রস্তুত করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রেডিট নোট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভাউচার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চালান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডেবিট নোট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-121",
+      "text": "হাসান ব্রাদার্স এর নিকট হতে ১০% বাট্টায় পাওয়া গেল ৫,৪০০ টাকা। বাট্টার পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৪০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪,৮৬০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,৪০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-122",
+      "text": "লেনদেনের সর্বশেষ আশ্রয়স্থল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদান হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চূড়ান্ত হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-123",
+      "text": "জাবেদাকে হিসাবের কোন ধরনের বই বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পাকা বই",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খসড়া বই",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাথমিক বই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রধান বই",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-124",
+      "text": "ক্যাশ মেমো কে প্রস্তুত করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংক কর্মকর্তা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পাওনাদার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-125",
+      "text": "অনগদ লেনদেনের জন্য ব্যবহৃত ভাউচার কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চালান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যাশমেমো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেবিট নোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জার্নাল ভাউচার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-126",
+      "text": "Ledger শব্দটি কোন ভাষা থেকে এসেছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইংরেজি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফরাসি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ল্যাটিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্পেনীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
         "qno": 24,
         "session": null
       },

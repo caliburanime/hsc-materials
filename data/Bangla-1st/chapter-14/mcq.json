@@ -660,7 +660,7 @@
       "image": null,
       "stem": "'তোমাকে পাওয়ার জন্যে, হে স্বাধীনতা / তোমাকে পাওয়ার জন্যে / আর কতবার ভাসতে হবে রক্তগঙ্গায়?'",
       "stem_image": null,
-      "group": "bangla_1st-2026-ALL-7-8",
+      "group": "bangla_1st-2026-ALL-15-16",
       "options": [
         {
           "label": "a",
@@ -689,7 +689,7 @@
       "source": {
         "board": "ALL",
         "year": "2026",
-        "qno": 7,
+        "qno": 15,
         "session": null
       },
       "tags": [],
@@ -702,7 +702,7 @@
       "image": null,
       "stem": "'তোমাকে পাওয়ার জন্যে, হে স্বাধীনতা / তোমাকে পাওয়ার জন্যে / আর কতবার ভাসতে হবে রক্তগঙ্গায়?'",
       "stem_image": null,
-      "group": "bangla_1st-2026-ALL-7-8",
+      "group": "bangla_1st-2026-ALL-15-16",
       "statements": [
         {
           "label": "i",
@@ -745,8 +745,1513 @@
       "source": {
         "board": "ALL",
         "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-019",
+      "text": "ভিক্টোরিয়া পার্কের বর্তমান নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঢাকা ন্যাশনাল পার্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রমনা পার্ক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাহাদুর শাহ পার্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বঙ্গবন্ধু সাফারি পার্ক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-020",
+      "text": "'রেইনকোট' গল্পে প্রিন্সিপ্যাল আজকাল কাকে তোয়াজ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আবদুস সাত্তার মৃধাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নুরুল হুদাকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আকবর সাজিদকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইসহাক মিয়াকে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
         "qno": 8,
         "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-021",
+      "text": "'রেইনকোট' গল্পের মুয়াজ্জিন যেই দিন মারা যায়, সেইদিন রাতে নুরুল হুদার ঘুম না হওয়ার কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ট্যাঙ্কের হুঙ্কার"
+        },
+        {
+          "label": "ii",
+          "text": "মেশিনগানের আওয়াজ"
+        },
+        {
+          "label": "iii",
+          "text": "মানুষের কাতরানি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-022",
+      "text": "'রেইনকোট' গল্পে উর্দুর প্রফেসরের নাম কী ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নুরুল হুদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আফাজ আহমদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আকবর সাজিদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আব্দুস সাত্তার মৃধা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-023",
+      "text": "নুরুল হুদাকে মিলিটারীরা কেন ধরে নিয়ে গিয়েছিলো?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুক্তিযোদ্ধাদের সাথে সম্পর্ক থাকায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুক্তিযুদ্ধে অংশগ্রহণ করায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রিন্সিপালের ষড়যন্ত্রে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রেইনকোট পরায়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-024",
+      "text": "উদ্দীপকের 'মোরা' 'রেইনকোট' গল্পের কোন চরিত্রগুলোকে মনে করিয়ে দেয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি, / মোরা একটি মুখের হাসির জন্য অস্ত্র ধরি।\"",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রফেসর আকবর সাজিদ ও মিন্টু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিন্টু ও নুরুল হুদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আফাজ আহমদ ও নুরুল হুদা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রফেসর আকবর সাজিদ ও ইসহাক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-025",
+      "text": "উদ্দীপকের ভাবানুষঙ্গ 'রেইনকোট' গল্পের কোন দিকটি প্রতিফলিত করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি, / মোরা একটি মুখের হাসির জন্য অস্ত্র ধরি।\"",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "নির্বিচার গণহত্যা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গেরিলা আক্রমণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাহস ও দেশপ্রেম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "'সাবভার্সিভ অ্যাকটিভিটিজ'",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-026",
+      "text": "\"এগুলো হলো পাকিস্তানের শরীরের কাঁটা।\" কারণ, 'রেইনকোট' গল্পে এগুলো বাঙালির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জাতীয়তাবোধ জাগিয়ে রাখে"
+        },
+        {
+          "label": "ii",
+          "text": "দেশপ্রেমকে উজ্জীবিত করে"
+        },
+        {
+          "label": "iii",
+          "text": "যুদ্ধ জয়ে প্রেরণা জোগায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-027",
+      "text": "উদ্দীপকের সঙ্গে 'রেইনকোট' গল্পের সাদৃশ্যপূর্ণ বিষয়টি—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"শহরের বুকে জলপাই রঙের ট্যাংক এলো দানবের মতো চিৎকার করতে করতে\"।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-DB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "গ্রেনেড ছোঁড়া"
+        },
+        {
+          "label": "ii",
+          "text": "মুক্তিযুদ্ধের সময়"
+        },
+        {
+          "label": "iii",
+          "text": "সালাম ও বরকত শহিদ হওয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-028",
+      "text": "উদ্দীপকের কোন বিষয়টিতে 'রেইনকোট' গল্পের মিল পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"শহরের বুকে জলপাই রঙের ট্যাংক এলো দানবের মতো চিৎকার করতে করতে\"।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-DB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্র্যাক-ডাউন রাতে ট্যাংকের হুঙ্কার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মানুষ মেরে ফেলা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাড়িঘর জ্বালিয়ে দেওয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুক্তিযোদ্ধাদের গেরিলা যুদ্ধ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-029",
+      "text": "\"মিরপুরের বিল দিয়া দুই নৌকা বোঝাই কইরা আইছিল।\" 'রেইনকোট' গল্পে উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কলেজের শিক্ষকদের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দোকানদারের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাস চালকের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আছমার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-030",
+      "text": "'রেইনকোট' গল্পে নুরুল হুদার ঝুলন্ত শরীর কাঁপতে থাকে কেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আঘাতের ভয়ে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আঘাতের যন্ত্রণায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দেশপ্রেমের উত্তেজনায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পারিবারিক চিন্তায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-031",
+      "text": "'রেইনকোট' গল্পের নুরুল হুদা কোন বিষয়ের লেকচারার ছিলেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূগোল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পদার্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আরবি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কেমিস্ট্রি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-032",
+      "text": "'রেইনকোট' গল্পে রাশিয়ার সাথে বাংলাদেশের তুলনা করার কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সামরিক শক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভৌগোলিক অবস্থান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মৌসুমি জলবায়ু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বন্ধুরাষ্ট্র হিসেবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-033",
+      "text": "মিলিটারির বুটের লাথি নুরুল হুদার কাছে কী বলে মনে হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অসহ্য যন্ত্রণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্রেফ উৎপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসহ্য অত্যাচার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অমানবিক অত্যাচার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-034",
+      "text": "নুরুল হুদাকে পাকিস্তানি হানাদার বাহিনীর তলব করার কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মুক্তিযোদ্ধাদের সন্ধান পেতে"
+        },
+        {
+          "label": "ii",
+          "text": "মুক্তিযোদ্ধার সহযোগী সন্দেহে"
+        },
+        {
+          "label": "iii",
+          "text": "মুক্তিযোদ্ধা সন্দেহে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-035",
+      "text": "উদ্দীপকের রায়হান 'রেইনকোট' গল্পের কোন চরিত্রের প্রতিনিধি?",
+      "text_en": null,
+      "image": null,
+      "stem": "বায়ান্নর ভাষা আন্দোলনের রায়হান ভয়ে মিছিলে যেতে না চাইলেও তপু তাকে জোর করে নিয়ে যায় এবং হাতে একটি প্ল্যাকার্ড ধরিয়ে দেয়। প্ল্যাকার্ড পেয়ে হঠাৎ তার মধ্যে এক অজানা সাহসের উদয় হয় এবং সে দ্রুত মিছিলের দিকে এগিয়ে যায়।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-RB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "নুরুল হুদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আফাজ আহমদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিন্টু",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আবদুস সাত্তার মৃধা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-036",
+      "text": "উদ্দীপকের ভাববস্তু 'রেইনকোট' গল্পের কোন অন্তর্নিহিত বিষয়কে ইঙ্গিত করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "বায়ান্নর ভাষা আন্দোলনের রায়হান ভয়ে মিছিলে যেতে না চাইলেও তপু তাকে জোর করে নিয়ে যায় এবং হাতে একটি প্ল্যাকার্ড ধরিয়ে দেয়। প্ল্যাকার্ড পেয়ে হঠাৎ তার মধ্যে এক অজানা সাহসের উদয় হয় এবং সে দ্রুত মিছিলের দিকে এগিয়ে যায়।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-RB-28-29",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সুপ্ত চেতনার জাগরণ"
+        },
+        {
+          "label": "ii",
+          "text": "আত্মত্যাগের মহিমা"
+        },
+        {
+          "label": "iii",
+          "text": "ভয়কে জয় করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-037",
+      "text": "'রেইনকোট' গল্পে মিরপুরের বিল দিয়ে আসা নৌকায় কী ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "খাদ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অস্ত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাহায্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আলমারি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-038",
+      "text": "'সবই তো নর্ম্যাল হয়ে আসছে।'—এ বাক্যে প্রকাশিত হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্ভাবনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাঙ্গ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সন্তুষ্টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আশা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-039",
+      "text": "'রেইনকোট' গল্পে 'আন অথারাইজড কনস্ট্রাকশন' বলতে বুঝানো হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কলেজ কম্পাউন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিমনেশিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্মৃতিসৌধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শহিদ মিনার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-040",
+      "text": "কোন ঋতুর শেষের বৃষ্টিতে 'রেইনকোট' গল্পের নুরুল হুদার শীত শীত ভাব হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শেষ শরতের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেষ বর্ষার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শেষ শীতের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শেষ হেমন্তের",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-041",
+      "text": "উদ্দীপকে 'রেইনকোট' গল্পের কোন বিষয়টি সাদৃশ্যমান?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"অলভ্য জয়ের লোভে, জ্বালায় শহর, গ্রামে গ্রামে / প্রাচীন সংহতি ভেঙে ভগ্নস্তূপে দূরের উল্লুক—\"",
+      "stem_image": null,
+      "group": "bangla_1st-2023-DB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "নির্যাতন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধ্বংসাত্মক কার্যক্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাজনৈতিক কৌশল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুক্তিযুদ্ধ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-042",
+      "text": "উক্ত বিষয়ে যা ফুটে উঠেছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"অলভ্য জয়ের লোভে, জ্বালায় শহর, গ্রামে গ্রামে / প্রাচীন সংহতি ভেঙে ভগ্নস্তূপে দূরের উল্লুক—\"",
+      "stem_image": null,
+      "group": "bangla_1st-2023-DB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সভ্যতার ঐতিহ্যভাঙা"
+        },
+        {
+          "label": "ii",
+          "text": "অপ্রতিরোধ্য হামলা"
+        },
+        {
+          "label": "iii",
+          "text": "মানুষকে বাস্তুহারা করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-043",
+      "text": "'রেইনকোট' গল্পে রেইনকোটটি কীসের প্রতীক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেশপ্রেম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাহস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আভিজাত্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আত্মরক্ষা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-044",
+      "text": "'রেইনকোট' গল্পে কে এপ্রিলের শুরু থেকে বাংলা বলা ছেড়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আব্দুস সাত্তার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আকবর সাজিদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আফাজ আহমদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইসহাক মিয়া",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-045",
+      "text": "ডক্টর আফাজ আহমদ 'পাকিস্তানের শরীরের কাঁটা' বলতে বুঝিয়েছেন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গেরিলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিসক্রিয়ান্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জেনারেল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শহিদ মিনার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-046",
+      "text": "রেইনকোট গল্পে মিলিটারি ক্যাম্পটির অবস্থান কোথায় ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রিন্সিপালের অফিস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রিন্সিপালের কোয়ার্টার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুটবল মাঠ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জিমন্যাশিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-047",
+      "text": "রেইনকোট গল্পে রেইনকোটটি কীসের প্রতীক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেশপ্রেম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বাধীনতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগ্রাম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-048",
+      "text": "'রেইনকোট' গল্পে প্রকাশিত হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অনুভূতির তীব্রতা"
+        },
+        {
+          "label": "ii",
+          "text": "আবেগের তীব্রতা"
+        },
+        {
+          "label": "iii",
+          "text": "দেশপ্রেম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-049",
+      "text": "\"মিসক্রিয়েন্টরা সব খতম।\"—এখানে 'মিসক্রিয়েন্ট' বলতে কাদের বোঝানো হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুক্তিফৌজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পাকবাহিনী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শান্তিবাহিনী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিত্রবাহিনী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-050",
+      "text": "অনুচ্ছেদের রাহাত চরিত্রে ভাবনা 'রেইনকোট' গল্পে কার মধ্যে খুঁজে পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "মুক্তিযুদ্ধ চলাকালে রাহাত ভাবল, দেশের এই সংকটময় মুহূর্তে আমি নিশ্চিন্তে ঘরে বসে থাকতে পারি না। তাই এলাকার ১০ জন যুবকের সাথে পরামর্শ করে পাড়ি জমায় প্রশিক্ষণ কেন্দ্রে।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-SB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "নুরুল হুদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিন্টু",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইসহাক মিয়া",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আবদুস সাত্তার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-051",
+      "text": "উক্ত সাদৃশ্যের অন্তর্নিহিত কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "মুক্তিযুদ্ধ চলাকালে রাহাত ভাবল, দেশের এই সংকটময় মুহূর্তে আমি নিশ্চিন্তে ঘরে বসে থাকতে পারি না। তাই এলাকার ১০ জন যুবকের সাথে পরামর্শ করে পাড়ি জমায় প্রশিক্ষণ কেন্দ্রে।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-SB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্বদেশপ্রেম"
+        },
+        {
+          "label": "ii",
+          "text": "অসীম সাহসিকতা"
+        },
+        {
+          "label": "iii",
+          "text": "স্বাধীনতার আকাঙ্ক্ষা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-052",
+      "text": "প্রফেসর আকবর সাজিদকে প্রিন্সিপাল আজকাল তোয়াক্কা করে কেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিক্ষিত মানুষ বলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিলিটারিদের সাথে আঁতাত থাকায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভালো উর্দু বলতে পারে বলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিসক্রিয়ান্ট সহচর বলে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 12
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch14-mcq-053",
+      "text": "রেইনকোট খুলে ফেললেও নুরুল হুদার শরীরে রেইনকোটের কী অনুভূত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ওম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গন্ধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শীতলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্পর্শ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13
       },
       "tags": [],
       "difficulty": null

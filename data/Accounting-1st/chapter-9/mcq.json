@@ -4163,6 +4163,1829 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-101",
+      "text": "আর্থিক বিবরণী তথ্য সরবরাহ করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আর্থিক অবস্থার"
+        },
+        {
+          "label": "ii",
+          "text": "নগদ প্রবাহের"
+        },
+        {
+          "label": "iii",
+          "text": "লাভ-ক্ষতির"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-102",
+      "text": "প্রারম্ভিক মজুদ পণ্য ২০,০০০ টাকা, ক্রয় ২,৪০,০০০ টাকা, ক্রয় পরিবহন ১০,০০০ টাকা, বিক্রয় ৩,২০,০০০ টাকা এবং মোট লাভের হার বিক্রয়ের ২৫%। সমাপনী মজুদ পণ্যের মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-103",
+      "text": "মালিক কারবার থেকে প্রতি মাসে ২,০০০ টাকা করে উত্তোলন করেন। উত্তোলনের ওপর ৫% সুদ ধার্য করা হলে, উত্তোলনের সুদের পরিমাণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তোলনের সময় (মাসের শুরু/শেষ) উল্লেখ নেই, তাই গড় ৬ মাস ধরে ২৪,০০০ × ৫% × ৬/১২ = ৬০০ টাকা (খ); মাসের শুরুতে ধরলে ৬৫০ (গ), শেষে ধরলে ৫৫০ (ক) — যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-104",
+      "text": "\"আয়-ব্যয় হিসাব\" কোন দাখিলার মাধ্যমে বন্ধ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রারম্ভিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমাপনী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানান্তর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমন্বয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-105",
+      "text": "সমাপনী মজুদ পণ্যের মূল্য হবে কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "সমাপনী মজুদ পণ্যের ক্রয়মূল্য ১,০০,০০০ টাকা, যার বাজারমূল্য ছিল ক্রয়মূল্য অপেক্ষা ৮,০০০ টাকা কম। উক্ত সমাপনী মজুদপণ্যের মধ্যে অব্যবহৃত মনিহারি ২,০০০ টাকা অন্তর্ভুক্ত আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "৯০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯৮,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-106",
+      "text": "যদি সমাপনী মজুদপণ্যের বাজারমূল্য, ক্রয়মূল্য অপেক্ষা ৫,০০০ টাকা বেশি হয় তবে আর্থিক অবস্থার বিবরণীতে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সমাপনী মজুদ পণ্যের ক্রয়মূল্য ১,০০,০০০ টাকা, যার বাজারমূল্য ছিল ক্রয়মূল্য অপেক্ষা ৮,০০০ টাকা কম। উক্ত সমাপনী মজুদপণ্যের মধ্যে অব্যবহৃত মনিহারি ২,০০০ টাকা অন্তর্ভুক্ত আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "চলতি সম্পদ বাড়বে"
+        },
+        {
+          "label": "ii",
+          "text": "নীট মুনাফা বাড়বে"
+        },
+        {
+          "label": "iii",
+          "text": "মালিকানা তহবিল বাড়বে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-107",
+      "text": "নির্দিষ্ট হিসাবকালের মোট বিক্রয় ৪,০০,০০০ টাকা এবং বিক্রয় ফেরত ১০,০০০ টাকা। মোট লাভের হার ৪০% এবং নিট লাভের হার মোট লাভের ৩০% হলে পরোক্ষ খরচের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০৯,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,১২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৩৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,৭০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-108",
+      "text": "পণ্যের বিক্রয়মূল্য ৫০,০০০ টাকা, পরিচালনা খরচ ৩,২০০ টাকা, বিক্রীত পণ্যের ব্যয় ৩০,০০০ টাকা এবং প্রাপ্ত বাট্টা ২,০০০ টাকা হলে মোট মুনাফার পরিমাণ কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৬,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-109",
+      "text": "মোট লাভের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "প্রারম্ভিক মজুদপণ্য ২২,০০০ টাকা, ক্রয় ১,৩৫,০০০ টাকা, মজুরি ১০,০০০ টাকা, বিক্রয় ৩,৭৫,০০০ টাকা, সমাপনী মজুদপণ্য ৩৬,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,০৮,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,৪৪,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৫৪,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,৬৬,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-110",
+      "text": "বিক্রিত পণ্যের ব্যয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "প্রারম্ভিক মজুদপণ্য ২২,০০০ টাকা, ক্রয় ১,৩৫,০০০ টাকা, মজুরি ১০,০০০ টাকা, বিক্রয় ৩,৭৫,০০০ টাকা, সমাপনী মজুদপণ্য ৩৬,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০৯,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,২১,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৩১,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,০৩,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-111",
+      "text": "কোনটি অপরিচালন আয়?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রাপ্ত সুদ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রাপ্ত বাট্টা"
+        },
+        {
+          "label": "iii",
+          "text": "সম্পদ বিক্রির লাভ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-112",
+      "text": "মোট লাভ − পরিচালন ব্যয় = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিট লাভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট লাভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিচালন মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর পরবর্তী নিট মুনাফা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-113",
+      "text": "যদি মোট লাভ ১,০০,০০০ টাকা হয় তাহলে বিক্রয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "বিক্রিত পণ্যের ব্যয় ২,০০,০০০ টাকা, ব্যাংক ঋণের সুদ ২০,০০০ টাকা, পরিচালন ব্যয় ১,০০,০০০ টাকা, প্রাপ্ত বাট্টা ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৩০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-114",
+      "text": "যদি মোট লাভ ১,৫০,০০০ টাকা হয়। তাহলে নিট লাভ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "বিক্রিত পণ্যের ব্যয় ২,০০,০০০ টাকা, ব্যাংক ঋণের সুদ ২০,০০০ টাকা, পরিচালন ব্যয় ১,০০,০০০ টাকা, প্রাপ্ত বাট্টা ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-115",
+      "text": "নিচের কোনটি অপরিচালন ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কমিশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বহিঃপরিবহন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবচয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-116",
+      "text": "আর্থিক অবস্থার বিবরণীর উপাদান কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-117",
+      "text": "প্রারম্ভিক মজুদ ৯০,০০০ টাকা, নিট ক্রয় ২,৬০,০০০ টাকা, এবং সমাপনী মজুদ ৭০,০০০ টাকা হলে সমন্বিত ক্রয়ের পরিমাণ কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৭০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৯০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৫০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-118",
+      "text": "মোট বিক্রয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালে জনাব মুশফিক এর ব্যবসায়ের বিক্রীত পণ্যের ব্যয় দাঁড়ায় ৪,৫০,০০০ টাকা। তিনি ২৫% মুনাফায় পণ্য বিক্রয় করে। বছর শেষে তাঁর নিট মুনাফার হার দাঁড়ায় ১০%।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,৬২,৫০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪,৯৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪,৫০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "\"২৫% মুনাফায় বিক্রয়\" সাধারণত ক্রয়মূল্যের (বিক্রীত পণ্যের ব্যয়ের) উপর ধরা হয়: ৪,৫০,০০০ × ১২৫% = ৫,৬২,৫০০ টাকা (খ)। বিক্রয়মূল্যের উপর ২৫% ধরলে ৬,০০,০০০ টাকা (ক) — পোস্টারের চিহ্ন (ক)-তে; যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-119",
+      "text": "মোট মুনাফার হার স্থির রেখে নিট মুনাফার হার বৃদ্ধি করতে চাইলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালে জনাব মুশফিক এর ব্যবসায়ের বিক্রীত পণ্যের ব্যয় দাঁড়ায় ৪,৫০,০০০ টাকা। তিনি ২৫% মুনাফায় পণ্য বিক্রয় করে। বছর শেষে তাঁর নিট মুনাফার হার দাঁড়ায় ১০%।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রয়ের পরিমাণ বৃদ্ধি করতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "পরিচালন ব্যয় হ্রাস করতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "অ-পরিচালন আয় বৃদ্ধি করতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-120",
+      "text": "আয় বিবরণীতে মোট সেবা আয় কত টাকা প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রেওয়ামিল (আংশিক): সেবা আয় — ক্রেডিট ১,৪০,০০০ টাকা; অনুপার্জিত আয় — ক্রেডিট ৬০,০০০ টাকা। সমন্বয়: সেবা আয় ২০,০০০ টাকা হিসাবভুক্ত হয়নি।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "২০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৬০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-121",
+      "text": "অনুপার্জিত সেবা আয়ের \\(\\frac{3}{4}\\) অংশ অর্জিত হলে আর্থিক অবস্থার বিবরণীতে অনুপার্জিত সেবা আয় বাবদ কত টাকা প্রদর্শিত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রেওয়ামিল (আংশিক): সেবা আয় — ক্রেডিট ১,৪০,০০০ টাকা; অনুপার্জিত আয় — ক্রেডিট ৬০,০০০ টাকা। সমন্বয়: সেবা আয় ২০,০০০ টাকা হিসাবভুক্ত হয়নি।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-122",
+      "text": "মোট বিক্রয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালে জনাব আরিফের ব্যবসায়ের বিক্রীত পণ্যের ব্যয় ৫,০০,০০০ টাকা। তিনি ২০% মুনাফায় পণ্য বিক্রি করেন। বছর শেষে তার নিট মুনাফার হার দাঁড়ায় ১৫%।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,২৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,১৭,৫০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,০০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-123",
+      "text": "মোট মুনাফার হার স্থির রেখে নিট মুনাফার হার বৃদ্ধি করতে চাইলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালে জনাব আরিফের ব্যবসায়ের বিক্রীত পণ্যের ব্যয় ৫,০০,০০০ টাকা। তিনি ২০% মুনাফায় পণ্য বিক্রি করেন। বছর শেষে তার নিট মুনাফার হার দাঁড়ায় ১৫%।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রয়ের পরিমাণ বৃদ্ধি করতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "পরিচালন ব্যয় হ্রাস করতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "অপরিচালন আয় বৃদ্ধি করতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-124",
+      "text": "প্রারম্ভিক মজুদ পণ্য + নিট ক্রয় + ক্রয় সংক্রান্ত প্রত্যক্ষ খরচ − সমাপনী মজুদ পণ্য = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রীত পণ্যের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমন্বিত ক্রয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদিত পণ্যের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোট ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-125",
+      "text": "ব্যবসায় পরিচালন ব্যয় হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অফিস ভাড়া"
+        },
+        {
+          "label": "ii",
+          "text": "বিজ্ঞাপন খরচ"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণের সুদ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-126",
+      "text": "সমন্বিত ক্রয় সম্পর্কে নিচের কোনটি সঠিক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রয় + সমাপনী মজুদ পণ্য − ক্রয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রারম্ভিক মজুদ + ক্রয় + সমাপনী মজুদ পণ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রারম্ভিক মজুদ + নিট ক্রয় − সমাপনী মজুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রারম্ভিক মজুদ − ক্রয় + সমাপনী মজুদ পণ্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-127",
+      "text": "বিক্রয় মূল্যের উপর মুনাফার হার ২০% হলে বিক্রিত পণ্যের ব্যয়ের উপর শতকরা হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৩.৩৩%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬.৬৭%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-128",
+      "text": "মুনাফা বিহীন পণ্য বিক্রয় করা হলে এর প্রভাবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যয় হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "আয় হ্রাস পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "সম্পদ হ্রাস পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-129",
+      "text": "ইসলামিয়া ট্রেডার্সের বিক্রিত পণ্যের ব্যয়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ইসলামিয়া ট্রেডার্স এর প্রারম্ভিক মজুদ পণ্য ১০,০০০ টাকা, পণ্য ক্রয় ১,০০,০০০ টাকা, ক্রয় ফেরত ৭,৫০০ টাকা, ক্রয়ের উপর বাট্টা ২,৫০০ টাকা, মজুরি ৩,০০০ টাকা, আবগারী শুল্ক ১২,০০০ টাকা। সমাপনী মজুদ পণ্য ২৫,০০০ টাকা। প্রতিষ্ঠানটি বিক্রয় মূল্যের উপর ২০% লাভ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "৭৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-130",
+      "text": "ইসলামিয়া ট্রেডার্সের মোট লাভের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ইসলামিয়া ট্রেডার্স এর প্রারম্ভিক মজুদ পণ্য ১০,০০০ টাকা, পণ্য ক্রয় ১,০০,০০০ টাকা, ক্রয় ফেরত ৭,৫০০ টাকা, ক্রয়ের উপর বাট্টা ২,৫০০ টাকা, মজুরি ৩,০০০ টাকা, আবগারী শুল্ক ১২,০০০ টাকা। সমাপনী মজুদ পণ্য ২৫,০০০ টাকা। প্রতিষ্ঠানটি বিক্রয় মূল্যের উপর ২০% লাভ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮,৭৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২,৫০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-131",
+      "text": "কোনটি আর্থিক অবস্থার বিবরণীতে প্রদর্শিত হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ সঞ্চিতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশেষ সঞ্চিতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গুপ্ত সঞ্চিতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন সঞ্চিতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-132",
+      "text": "বিক্রয় মূল্যের উপর মুনাফার হার ২০% হলে বিক্রীত পণ্যের ব্যয়ের উপর কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৬.৬৭%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(33\\frac{1}{3}\\)%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-133",
+      "text": "নিট ক্রয় নির্ণয়ের ক্ষেত্রে ক্রয় হতে বাদ দিতে হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্রয় বাট্টা"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রয় পরিবহন"
+        },
+        {
+          "label": "iii",
+          "text": "ক্রয় ফেরত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-134",
+      "text": "২০২৪ সালের ৩১শে ডিসেম্বর তারিখে সমাপনী মজুদ পণ্যের মূল্য কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালের ৩১ শে ডিসেম্বর তারিখে সমাপনী মজুদ পণ্য ৪০,০০০ টাকা যার বাজার মূল্য ৩০,০০০ টাকা। অন্যদিকে সমাপনী মজুদ পণ্যের মধ্যে ৫,০০০ টাকার আগুনে বিনষ্ট পণ্য অন্তর্ভুক্ত আছে। বিমা কোম্পানি ৪০% অর্থ দিতে রাজি আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-RB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৫,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫,০০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-135",
+      "text": "চলতি সম্পদের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালের ৩১ শে ডিসেম্বর তারিখে সমাপনী মজুদ পণ্য ৪০,০০০ টাকা যার বাজার মূল্য ৩০,০০০ টাকা। অন্যদিকে সমাপনী মজুদ পণ্যের মধ্যে ৫,০০০ টাকার আগুনে বিনষ্ট পণ্য অন্তর্ভুক্ত আছে। বিমা কোম্পানি ৪০% অর্থ দিতে রাজি আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-RB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৭,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-136",
+      "text": "অপরিচালন ব্যয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিনিয়োগের সুদ"
+        },
+        {
+          "label": "ii",
+          "text": "ঋণের সুদ"
+        },
+        {
+          "label": "iii",
+          "text": "বিবিধ খরচ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-137",
+      "text": "আর্থিক অবস্থা নির্ণয়ের উপাদান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্পদ"
+        },
+        {
+          "label": "ii",
+          "text": "দায়"
+        },
+        {
+          "label": "iii",
+          "text": "মালিকানা স্বত্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-138",
+      "text": "বৈষয়িক বিবরণীর মাধ্যমে আমরা জানতে পারি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্পত্তির প্রকৃতি ও পরিমাণ"
+        },
+        {
+          "label": "ii",
+          "text": "দায়ের প্রকৃতি ও পরিমাণ"
+        },
+        {
+          "label": "iii",
+          "text": "নিট লাভের প্রকৃতি ও পরিমাণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-139",
+      "text": "বিক্রয়—বিক্রীত পণ্যের ব্যয়—পরিচালন ব্যয়=?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোট লাভ/ক্ষতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধারণাগত লাভ/ক্ষতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিট লাভ/ক্ষতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাক্কলিত লাভ/ক্ষতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-140",
+      "text": "ব্যবহৃত মনিহারির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সালাম একজন ব্যবসায়ী। ২০২৪ সালের ৩১ ডিসেম্বর তারিখে তাঁর ব্যবসায়ের রেওয়ামিলে মনিহারির পরিমাণ ছিল ১,০০০ টাকা। সমন্বয়ে বলা আছে প্রারম্ভিক মজুদ পণ্যের মধ্যে ১৫০ টাকার মনিহারি এবং সমাপনী মজুদ পণ্যের মধ্যে ৩৫০ টাকার মনিহারি অন্তর্ভুক্ত আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch9-mcq-141",
+      "text": "জনাব সালামের ব্যবসায়ের আর্থিক বিবরণীতে অব্যবহৃত মনিহারি ১৫০ টাকা হিসাবভুক্ত করা হলে, আর্থিক বিবরণীতে কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সালাম একজন ব্যবসায়ী। ২০২৪ সালের ৩১ ডিসেম্বর তারিখে তাঁর ব্যবসায়ের রেওয়ামিলে মনিহারির পরিমাণ ছিল ১,০০০ টাকা। সমন্বয়ে বলা আছে প্রারম্ভিক মজুদ পণ্যের মধ্যে ১৫০ টাকার মনিহারি এবং সমাপনী মজুদ পণ্যের মধ্যে ৩৫০ টাকার মনিহারি অন্তর্ভুক্ত আছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-20-21",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমাপনী মজুদ পণ্যের পরিমাণ বেশি দেখানো হবে"
+        },
+        {
+          "label": "ii",
+          "text": "নিট লাভের পরিমাণ হ্রাস পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "মনিহারি ব্যয়ের পরিমাণ কম দেখানো হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

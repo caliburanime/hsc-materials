@@ -4,8 +4,8 @@
   "type": "mcq",
   "questions": [
     {
-      "id": "bangla_1st-ch1-mcq-001",
-      "text": "'বাঙালার নব্য লেখকদিগের প্রতি নিবেদন' প্রবন্ধ অনুযায়ী তখনকার প্রবন্ধে কোনটি বেশি দেখতে পাওয়া যায়?",
+      "id": "bangla_1st-ch1-mcq-002",
+      "text": "'বাঙ্গালার নব্য লেখকদিগের প্রতি নিবেদন' প্রবন্ধ অনুযায়ী এখনকার প্রবন্ধে কোনটি বেশি দেখতে পাওয়া যায়?",
       "text_en": null,
       "image": null,
       "options": [
@@ -36,8 +36,85 @@
       "source": {
         "board": "ALL",
         "year": "2026",
-        "qno": 11,
+        "qno": 19,
         "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch1-mcq-003",
+      "text": "\"তুমি অধম তাই বলিয়া আমি উত্তম হইব না কেন?\"—উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিদ্যাপতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চণ্ডীদাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বঙ্কিম চন্দ্র চট্টোপাধ্যায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রবীন্দ্রনাথ ঠাকুর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch1-mcq-004",
+      "text": "\"তুমি অধম তাই বলিয়া আমি উত্তম হইবো না কেন\"?—কথাটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সঞ্জীবচন্দ্র চট্টোপাধ্যায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শরৎচন্দ্র চট্টোপাধ্যায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রবীন্দ্রনাথ ঠাকুর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 25
       },
       "tags": [],
       "difficulty": null

@@ -1017,7 +1017,7 @@
         },
         {
           "label": "ii",
-          "text": "স্বচ্ছলতা"
+          "text": "সচ্ছলতা"
         },
         {
           "label": "iii",
@@ -1032,12 +1032,12 @@
         },
         {
           "label": "b",
-          "text": "ii ও iii",
+          "text": "i ও iii",
           "image": null
         },
         {
           "label": "c",
-          "text": "i ও iii",
+          "text": "ii ও iii",
           "image": null
         },
         {
@@ -1047,14 +1047,22 @@
         }
       ],
       "answer": "d",
-      "answer_source": "printed",
+      "answer_source": "derived",
       "explanation": null,
       "source": {
-        "board": "JB",
-        "year": "2024",
-        "qno": 19,
+        "board": "RB",
+        "year": "2023",
+        "qno": 7,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2024",
+          "qno": 19,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1614,6 +1622,1749 @@
         "board": "SB",
         "year": "2024",
         "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-039",
+      "text": "নিচের কোন অনুপাতটি লাভ উপার্জন ক্ষমতার পরিমাপক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ত্বরিত অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিচালন মুনাফা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-040",
+      "text": "দীর্ঘমেয়াদি দায় ২০,০০০ টাকা, চলতি সম্পদ ২৫,০০০ টাকা এবং চলতি অনুপাত ৫ : ২ হলে মোট দায় কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-041",
+      "text": "নিট মুনাফার অনুপাতের আদর্শ মান হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২০%—২৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫%—২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০%—১৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫%—১০%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "খাতায় টিক চিহ্ন (গ) ১০%—১৫%-এ; পরীক্ষা-গাইডের উত্তরমালা অনুযায়ী (ঘ) ৫%—১০% — যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-042",
+      "text": "তারল্য অনুপাতের মাধ্যমে নিচের কোনটি জানা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বল্পমেয়াদি দায়-দেনা পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দীর্ঘমেয়াদি দায়-দেনা পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ ব্যবহারের দক্ষতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-043",
+      "text": "তরল বা তড়িৎ সম্পদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "অনন্ত লিঃ এর নগদ তহবিল ২০,০০০ টাকা, প্রাপ্য হিসাব ৬০,০০০ টাকা, প্রদেয় হিসাব ৪০,০০০ টাকা, অগ্রিম প্রদত্ত খরচ ১০,০০০ টাকা, বকেয়া খরচ ৫,০০০ টাকা, প্রাপ্য আয় ৮,০০০ টাকা, প্রদেয় নোট ২০,০০০ টাকা, প্রাপ্য নোট ১৫,০০০ টাকা এবং সমাপনি মজুদ পণ্য ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-BB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,১৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৩৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৪৩,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-044",
+      "text": "ব্যাংক জমাতিরিক্ত ৮,০০০ টাকা হলে তড়িৎ দায়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "অনন্ত লিঃ এর নগদ তহবিল ২০,০০০ টাকা, প্রাপ্য হিসাব ৬০,০০০ টাকা, প্রদেয় হিসাব ৪০,০০০ টাকা, অগ্রিম প্রদত্ত খরচ ১০,০০০ টাকা, বকেয়া খরচ ৫,০০০ টাকা, প্রাপ্য আয় ৮,০০০ টাকা, প্রদেয় নোট ২০,০০০ টাকা, প্রাপ্য নোট ১৫,০০০ টাকা এবং সমাপনি মজুদ পণ্য ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-BB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "৭৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫৭,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "তড়িৎ দায় = চলতি দায় − ব্যাংক জমাতিরিক্ত = (৪০,০০০ + ৫,০০০ + ২০,০০০ + ৮,০০০) − ৮,০০০ = ৬৫,০০০ (গ)। খাতায় টিক (ঘ) ৫৭,০০০-এ; পরীক্ষা-গাইডের অস্পষ্ট উত্তরমালায় (ক) ৭৩,০০০ (জমাতিরিক্তসহ মোট চলতি দায়) মনে হয় — যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-045",
+      "text": "চলতি অনুপাত ৩ : ১ হলে এবং চলতি দায় ১৮,০০০ টাকা হলে, চলতি সম্পদের পরিমাণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫৪,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-046",
+      "text": "অনুপাত বিশ্লেষণের উদ্দেশ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যবস্থাপনার দক্ষতা যাচাই"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিষ্ঠানের তারল্য সম্পর্কে জ্ঞান"
+        },
+        {
+          "label": "iii",
+          "text": "বিনিয়োজিত মূলধনের সাথে অর্জিত মুনাফার সম্পর্ক নির্ণয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-047",
+      "text": "প্রতিষ্ঠানের স্বল্পমেয়াদি ঋণ পরিশোধ ক্ষমতা মূল্যায়ন বিষয়ক অনুপাত হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চলতি মূলধন অনুপাত"
+        },
+        {
+          "label": "ii",
+          "text": "তড়িৎ অনুপাত"
+        },
+        {
+          "label": "iii",
+          "text": "মুনাফা অনুপাত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-048",
+      "text": "বিক্রয় ৬,০০,০০০ টাকা, বিক্রয় ফেরত ৪০,০০০ টাকা, বিক্রয় বাট্টা ২০,০০০ টাকা, মোট লাভ ২৭,০০০ টাকা হলে মোট মুনাফার অনুপাত হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-049",
+      "text": "আর্থিক বিবরণী বিশ্লেষণের কৌশল কত প্রকার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫ প্রকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪ প্রকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩ প্রকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২ প্রকার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-050",
+      "text": "চলতি সম্পদ − (মজুদ পণ্য + অগ্রিম খরচ) = ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অলীক সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থায়ী সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অস্পর্শনীয় সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তরল সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-051",
+      "text": "তারল্য বাড়াতে গেলে ব্যবসায়ে কোনটি ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা অর্জন ক্ষমতা বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা অর্জন ক্ষমতা হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা অর্জন ক্ষমতা স্বাভাবিক থাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোট আয় বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-052",
+      "text": "কোনটি ঋণ পরিশোধ ক্ষমতা নির্দেশক অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়-সম্পত্তি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মজুদ আবর্তন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ আবর্তন অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "sattacademy-তে উত্তর (ক) চলতি অনুপাত; কিন্তু চলতি অনুপাত তারল্য অনুপাত — ঋণ পরিশোধ ক্ষমতা (সচ্ছলতা) নির্দেশক অনুপাত হলো দায়-সম্পত্তি অনুপাত (খ)। যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-053",
+      "text": "কোনো প্রতিষ্ঠানের চলতি দায় ৫,০০০ টাকা। চলতি অনুপাত ১১ : ৫ হলে চলতি সম্পদ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-054",
+      "text": "বিনিয়োজিত মূলধন হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোট সম্পদ-মোট দায়"
+        },
+        {
+          "label": "ii",
+          "text": "মোট সম্পদ-চলতি দায়"
+        },
+        {
+          "label": "iii",
+          "text": "মোট সম্পদ (বাদ অবাস্তব সম্পদ)-চলতি দায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-055",
+      "text": "সান কোম্পানির মোট সম্পদের পরিমাণ ৮,০০,০০০ টাকা যার \\(\\frac{3}{8}\\) অংশ চলতি সম্পদ। চলতি দায় ১,০০,০০০ টাকা হলে কার্যকরী মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-056",
+      "text": "জনাব খান এর কারবারের চলতি সম্পদ ও চলতি দায়ের পরিমাণ সমান। দৈনন্দিন কারবার পরিচালনার জন্য তার কোন ধরনের সম্পদ বৃদ্ধি করা প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থায়ী সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চলতি সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অলিক সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অস্পর্শনীয় সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-057",
+      "text": "আর্থিক বিবরণী বিশ্লেষণের উদ্দেশ্য হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যবসায়ের মুনাফা অর্জন ক্ষমতা যাচাই"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবসায়ের দক্ষতা যাচাই"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যবসায়ের স্বচ্ছলতা যাচাই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-058",
+      "text": "তাৎক্ষণিক দায় পরিশোধের ক্ষমতা পরিমাপ করা হয় কোন অনুপাতের মাধ্যমে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এসিড টেস্ট অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায় মালিকানা অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-059",
+      "text": "মজুদ আবর্তন অনুপাত দ্বারা প্রতিষ্ঠানের কী যাচাই করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তারল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক স্বচ্ছলতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-060",
+      "text": "আকন লি: এর নিট চলতি মূলধন ১,৮০,০০০ টাকা এবং চলতি অনুপাত ৫ : ২। উক্ত কোম্পানির চলতি দায়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-061",
+      "text": "মজুদ আবর্তন অনুপাত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\(\\frac{\\text{ক্রয়}}{\\text{গড় মজুদ}}\\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\(\\frac{\\text{বিক্রিত পণ্যের ব্যয়}}{\\text{প্রারম্ভিক মজুদ}}\\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\(\\frac{\\text{বিক্রিত পণ্যের ব্যয়}}{\\text{সমাপনী মজুদ}}\\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\(\\frac{\\text{বিক্রিত পণ্যের ব্যয়}}{\\text{গড় মজুদ}}\\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-062",
+      "text": "তারল্যতা ও মুনাফাযোগ্যতার সম্পর্ক কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শূন্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-063",
+      "text": "কোনটি স্বচ্ছলতা নির্দেশক অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তড়িৎ অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিটলাভ অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-064",
+      "text": "Apex লি. এর মোট মুনাফার পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "Apex লি. — মোট লাভ অনুপাত ২৫%, নিট লাভ অনুপাত ১২%, মজুদ আবর্তন অনুপাত ১২ বার, তরল অনুপাত ৩ : ১, নিট বিক্রয় ২০,০০,০০০ টাকা; Bata লি. — মোট লাভ অনুপাত ২০%, নিট লাভ অনুপাত ১৫%, মজুদ আবর্তন অনুপাত ৮ বার, তরল অনুপাত ২ : ১, নিট বিক্রয় ২৫,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-DIB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,৭৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-065",
+      "text": "বিনিয়োগের ক্ষেত্রে কোন কোম্পানিটি অধিকতর লাভজনক?",
+      "text_en": null,
+      "image": null,
+      "stem": "Apex লি. — মোট লাভ অনুপাত ২৫%, নিট লাভ অনুপাত ১২%, মজুদ আবর্তন অনুপাত ১২ বার, তরল অনুপাত ৩ : ১, নিট বিক্রয় ২০,০০,০০০ টাকা; Bata লি. — মোট লাভ অনুপাত ২০%, নিট লাভ অনুপাত ১৫%, মজুদ আবর্তন অনুপাত ৮ বার, তরল অনুপাত ২ : ১, নিট বিক্রয় ২৫,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-DIB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "Apex লি. কারণ মোট লাভ অনুপাত বেশি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Bata লি. কারণ নিট লাভ অনুপাত বেশি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Apex লি. কারণ নিট তারল্য অনুপাত বেশি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Apex লি. কারণ মজুদ আবর্তন অনুপাত বেশি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-066",
+      "text": "অনুপাত বিশ্লেষণ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাব বিবরণী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেনদেনের সংখ্যাত্মক সম্পর্ক বিশ্লেষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয় বিশ্লেষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয় বিশ্লেষণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-067",
+      "text": "অনুপাত বিশ্লেষণ কত প্রকারের হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-068",
+      "text": "স্বচ্ছলতা যাচাইয়ের অনুপাত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দায় মালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিট মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্যকরী মূলধন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-069",
+      "text": "চলতি অনুপাতের আদর্শ মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "০.২৫ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "০.৫০ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২ : ১",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-070",
+      "text": "চলতি সম্পদ ১,২০,০০০ টাকা এবং চলতি অনুপাত ৩ : ১। চলতি দায় কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-071",
+      "text": "চলতি মূলধন অনুপাত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি সম্পদ ÷ চলতি দায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চলতি মূলধন ÷ চলতি দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চলতি সম্পদ ÷ চলতি মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি মূলধন ÷ চলতি সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-072",
+      "text": "কোনটি উপার্জন অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মজুদ আবর্তন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিচালন মুনাফা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিনিয়োজিত মূলধন অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-073",
+      "text": "স্বল্পমেয়াদি তারল্য অনুপাত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারল্য অনুপাত"
+        },
+        {
+          "label": "ii",
+          "text": "চলতি অনুপাত"
+        },
+        {
+          "label": "iii",
+          "text": "কার্যকরী মূলধন অনুপাত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-074",
+      "text": "আদিয়ানের চলতি অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "আদিয়ান ট্রেডার্স-এর নগদ তহবিল ১৫,০০০ টাকা, প্রাপ্য হিসাব ২৫,০০০ টাকা, প্রদেয় হিসাব ২০,০০০ টাকা, অগ্রিম প্রদত্ত খরচ ৬,০০০ টাকা, বকেয়া খরচ ৭,৫০০ টাকা, প্রাপ্য আয় ৮,০০০ টাকা, প্রদেয় নোট ১০,০০০ টাকা, প্রাপ্য নোট ৫,০০০ টাকা এবং মজুদ পণ্য ২৫,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-MB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "২.০২ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২.২৪ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২.৬০ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২.৮০ : ১",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-075",
+      "text": "চলতি মূলধন কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "আদিয়ান ট্রেডার্স-এর নগদ তহবিল ১৫,০০০ টাকা, প্রাপ্য হিসাব ২৫,০০০ টাকা, প্রদেয় হিসাব ২০,০০০ টাকা, অগ্রিম প্রদত্ত খরচ ৬,০০০ টাকা, বকেয়া খরচ ৭,৫০০ টাকা, প্রাপ্য আয় ৮,০০০ টাকা, প্রদেয় নোট ১০,০০০ টাকা, প্রাপ্য নোট ৫,০০০ টাকা এবং মজুদ পণ্য ২৫,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-MB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৮,৫০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৬,৫০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫৪,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-077",
+      "text": "নিট বিক্রয় ৮৪,০০০ টাকা, মোট লাভ ২১,০০০ টাকা এবং পরিচালন ব্যয় ৪,২০০ টাকা। নিট লাভের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-078",
+      "text": "মোট লাভ অনুপাত দ্বারা যাচাই করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক সচ্ছলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবস্থাপকীয় দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণ পরিশোধের ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-079",
+      "text": "একটি ব্যবসায় প্রতিষ্ঠানের সর্বোচ্চ তরল সম্পদ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ উদ্বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মজুদ পণ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপ্য হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাপ্য নোট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-080",
+      "text": "তরল সম্পদ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হাতে নগদ"
+        },
+        {
+          "label": "ii",
+          "text": "অগ্রিম ভাড়া"
+        },
+        {
+          "label": "iii",
+          "text": "প্রাপ্য সুদ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-081",
+      "text": "পরিচালন মুনাফা অনুপাতের আদর্শ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%—১০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০%—২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫%—১৮%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০%—৩০%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 15,
         "session": null
       },
       "tags": [],

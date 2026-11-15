@@ -1433,6 +1433,14 @@
         "qno": 2,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2025",
+          "qno": 20,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2240,6 +2248,1088 @@
         "board": "SB",
         "year": "2024",
         "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-054",
+      "text": "উভয় বইয়ের উদ্বৃত্তের মধ্যে গরমিলের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ব্যাংক চার্জ ৫৪০ টাকা নগদান বইতে ভুলক্রমে ৪৫০ টাকা ক্রেডিট করা হয়েছে। ফলে নগদান বইয়ের উদ্বৃত্ত ও ব্যাংক বিবরণীর উদ্বৃত্তের মধ্যে গরমিল দেখা দেয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2026-ALL-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৯৯০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৪০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-055",
+      "text": "যদি ভুলক্রমে ৪৫০ টাকা নগদান বইতে ডেবিট করা হয়, উভয় বইয়ের উদ্বৃত্তের মধ্যে গরমিলের পরিমাণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "ব্যাংক চার্জ ৫৪০ টাকা নগদান বইতে ভুলক্রমে ৪৫০ টাকা ক্রেডিট করা হয়েছে। ফলে নগদান বইয়ের উদ্বৃত্ত ও ব্যাংক বিবরণীর উদ্বৃত্তের মধ্যে গরমিল দেখা দেয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2026-ALL-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৯৯০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৪০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-056",
+      "text": "নিচের কোনটি NSF চেকের প্রভাবে ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জমাকৃত চেক প্রত্যাখ্যান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইস্যুকৃত চেক উপস্থাপন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জমাকৃত চেক আদায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইস্যুকৃত চেক পরিশোধ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-057",
+      "text": "পাওনাদার বরাবর ইস্যুকৃত চেক ব্যাংকে উপস্থাপন না হলে এমন চেককে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিবহনাধীন চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বকেয়া চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রিম চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যাখ্যাত চেক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-058",
+      "text": "ব্যাংক সমন্বয় বিবরণী প্রস্তুতের সময় নগদান বইয়ের ব্যাংক উদ্বৃত্তের সাথে কত টাকা যোগ-বিয়োগ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান বই অনুসারে ব্যাংক উদ্বৃত্ত ৮০,০০০ টাকা কিন্তু ব্যাংক সমন্বয় বিবরণী প্রস্তুতকালে দেখা যায় ব্যাংকে জমাকৃত ২০,০০০ টাকা নগদান বইয়ে ২,০০০ লেখা হয়েছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-059",
+      "text": "উপরোক্ত গড়মিলের কারণে আর্থিক অবস্থার বিবরণীতে কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান বই অনুসারে ব্যাংক উদ্বৃত্ত ৮০,০০০ টাকা কিন্তু ব্যাংক সমন্বয় বিবরণী প্রস্তুতকালে দেখা যায় ব্যাংকে জমাকৃত ২০,০০০ টাকা নগদান বইয়ে ২,০০০ লেখা হয়েছে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থায়ী সম্পদের বৃদ্ধি"
+        },
+        {
+          "label": "ii",
+          "text": "চলতি সম্পদের বৃদ্ধি"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাংক উদ্বৃত্তের বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-060",
+      "text": "ব্যাংকে সুদ ৩৫০ টাকা ভুলবশত নগদান বইয়ে ৫৩০ টাকা ক্রেডিট করা হয়েছে। ব্যাংক সমন্বয় বিবরণী প্রস্তুতের সময় নগদান বইয়ের উদ্বৃত্তের সাথে কত টাকা যোগ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫৩০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮৮০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ব্যাংক জমার উপর প্রাপ্ত সুদ ৩৫০ টাকা নগদান বইয়ের ডেবিট পাশে লেখার কথা, অথচ ক্রেডিট পাশে ৫৩০ টাকা লেখা হয়েছে — তাই ৩৫০ + ৫৩০ = ৮৮০ টাকা যোগ হবে (ঘ, ছাপা উত্তর)। সুদটি ব্যাংক কর্তৃক ধার্যকৃত খরচ ধরলে পার্থক্য হতো ১৮০ টাকা (ক)।"
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-061",
+      "text": "নিচের কোন লেনদেনের দ্বারা ব্যাংকে জমাতিরিক্তের পরিমাণ হ্রাস পায়।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চেকের টাকা আদায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চেকের টাকা পরিশোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংকে জমাকৃত চেক প্রত্যাখ্যান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক চার্জ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-062",
+      "text": "কোন নীতি অনুযায়ী ব্যাংক সমন্বয় বিবরণী প্রস্তুত করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রক্ষণশীলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্ণ প্রকাশ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সামঞ্জস্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমন্বয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-063",
+      "text": "ব্যাংক সমন্বয় বিবরণী কে তৈরি করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দেনাদার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পাওনাদার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আমানতকারী",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-064",
+      "text": "সিয়াম ট্রেডার্স এর নগদান বই অনুযায়ী ব্যাংকে জমার উদ্বৃত্ত এবং ব্যাংক বিবরণীর উদ্বৃত্তের মধ্যে পার্থক্য দেখা যায়। পর্যালোচনাকালে নিম্নলিখিত কতিপয় দফা চিহ্নিত হয়: প্রাপ্য হিসাবের টাকা গ্রাহক কর্তৃক সরাসরি ব্যাংকে জমা ১৫,০০০ টাকা; ব্যাংকে মঞ্জুরিকৃত সুদ ৪৫০ টাকা এবং ব্যাংক চার্জ ৬০০ টাকা। ডিসেম্বর ২০ তারিখে আদায়ের জন্য জমাকৃত ২০,০০০ টাকার একটি চেক ৩০ তারিখে জমা হয়েছে। উপর্যুক্ত লেনদেন/দফাগুলো দ্বারা ব্যাংক ও নগদ বইয়ের উদ্বৃত্তের পার্থক্যের পরিমাণ কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৪,৮৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫,৪৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৪,৮৫০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-065",
+      "text": "নিচের কোনটির জন্য ডেবিট মেমোরেন্ডাম ইস্যু করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক কর্তৃক প্রাপ্য নোটের টাকা আদায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংক কর্তৃক বিনিয়োগের সুদ আদায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক কর্তৃক ধার্যকৃত সার্ভিস চার্জ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক কর্তৃক মঞ্জুরকৃত সুদ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-066",
+      "text": "ব্যাংক বিবরণী প্রস্তুত করেন কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আমানতকারী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগকারী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণ গ্রহীতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক কর্তৃপক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-067",
+      "text": "নোমান কোম্পানির নগদান বহি অনুযায়ী ব্যাংক জমার উদ্বৃত্ত ২০,০০০ টাকা। দেনাদার কর্তৃক সরাসরি ব্যাংকে জমা ৫,০০০ টাকা, আদায়ের জন্য জমাকৃত চেক প্রত্যাখ্যাত ৪,০০০ টাকা এবং ব্যাংক কর্তৃক ধার্যকৃত চার্জ ২০০ টাকা। ব্যাংক বিবরণী অনুযায়ী ব্যাংকে জমার উদ্বৃত্ত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২৯,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-068",
+      "text": "ব্যাংক বিবরণীর ডেবিট উদ্বৃত্ত দ্বারা কী বুঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক তহবিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংক জমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক জমাতিরিক্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নগদ তহবিল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-069",
+      "text": "ক্রেডিট মেমোরেন্ডাম ইস্যু করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সার্ভিস চার্জের জন্য"
+        },
+        {
+          "label": "ii",
+          "text": "সুদ মঞ্জুরের জন্য"
+        },
+        {
+          "label": "iii",
+          "text": "প্রাপ্য নোট আদায়ের জন্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-070",
+      "text": "ব্যাংক সমন্বয় বিবরণীর উদ্দেশ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গরমিলের কারণ জানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাট্টাকৃত বিলের পরিমাণ জানা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ প্রাপ্তির পরিমাণ জানা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নগদ প্রদানের পরিমাণ জানা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-071",
+      "text": "'NSF' এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Not Sufficient Fund",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Not Suitable Fund",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Not So Fund",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Not Significient Fund",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-072",
+      "text": "ব্যাংক বিবরণীর ক্রেডিট পার্শ্বে লেখা হয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংক হতে উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংকে জমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক চার্জ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-073",
+      "text": "ব্যাংক সমন্বয় বিবরণীতে ব্যাংকে জমাকৃত চেক বাবদ নগদান বইয়ের উদ্বৃত্তের সাথে কত টাকা জমা দিতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান বই অনুযায়ী ব্যাংক উদ্বৃত্ত ৫০,০০০ টাকা। ব্যাংক বিবরণী সংশোধনের নিমিত্তে দেখা যায় ব্যাংকে জমাকৃত চেক ৫,০০০ টাকার স্থলে হিসাব রক্ষক ৫০০ টাকা লিখেন।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-RB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,৫০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,৫০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-074",
+      "text": "উক্ত ভুল সংশোধন করা হলে আর্থিক অবস্থার বিবরণীতে কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান বই অনুযায়ী ব্যাংক উদ্বৃত্ত ৫০,০০০ টাকা। ব্যাংক বিবরণী সংশোধনের নিমিত্তে দেখা যায় ব্যাংকে জমাকৃত চেক ৫,০০০ টাকার স্থলে হিসাব রক্ষক ৫০০ টাকা লিখেন।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-RB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "চলতি সম্পদ বৃদ্ধি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "চলতি দায় বৃদ্ধি পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাংক উদ্বৃত্ত বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-075",
+      "text": "আদায়ের জন্য ব্যাংকে জমাকৃত চেক প্রত্যাখ্যাত হলে নগদান বইতে লিখতে হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রেডিট পার্শ্বে ব্যাংক কলামে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ডেবিট পার্শ্বে ব্যাংক কলামে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেবিট পার্শ্বে নগদ কলামে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেডিট পার্শ্বে নগদ কলামে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-076",
+      "text": "NSF এর পূর্ণরূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Not Satisfying Fund",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "National Statement of Fund",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Not Sufficient Fund",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Not Significant Fund",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-077",
+      "text": "ব্যাংকের মক্কেল কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যে ব্যক্তি ব্যাংকে টাকা জমা দেন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যে ব্যক্তি বা প্রতিষ্ঠান ব্যাংকে হিসাব খোলেন এবং ঐ হিসাব পরিচালনা করেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যে ব্যক্তি ব্যাংক থেকে টাকা উত্তোলন করেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে ব্যক্তি ব্যাংকে চাকরি করেন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-078",
+      "text": "নগদান বই মোতাবেক ব্যাংকে জমার উদ্বৃত্ত কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সুমনের ব্যবসায়ের নগদান বই মোতাবেক ব্যাংকে জমার উদ্বৃত্ত ২০,০০০ টাকা। আদায়ের জন্য ব্যাংকে জমাকৃত ৫,০০০ টাকার চেকটি এখনো ব্যাংক কর্তৃক আদায় হয়নি এবং ইস্যুকৃত ৩,০০০ টাকার একটি চেক এখনো ব্যাংকে উপস্থাপন করা হয়নি।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "১২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "প্রশ্নে \"নগদান বই\" ছাপা হলেও উদ্দীপকে নগদান বইয়ের উদ্বৃত্ত (২০,০০০) দেওয়াই আছে — প্রশ্নটি আসলে পাস বইয়ের উদ্বৃত্ত জানতে চায়: ২০,০০০ − ৫,০০০ + ৩,০০০ = ১৮,০০০ টাকা (গ, ছাপা উত্তর)।"
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-079",
+      "text": "নগদান বই মোতাবেক ব্যাংক জমাতিরিক্তের পরিমাণ ১০,০০০ টাকা হলে পাশ বইয়ের উদ্বৃত্ত কী দাঁড়াবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সুমনের ব্যবসায়ের নগদান বই মোতাবেক ব্যাংকে জমার উদ্বৃত্ত ২০,০০০ টাকা। আদায়ের জন্য ব্যাংকে জমাকৃত ৫,০০০ টাকার চেকটি এখনো ব্যাংক কর্তৃক আদায় হয়নি এবং ইস্যুকৃত ৩,০০০ টাকার একটি চেক এখনো ব্যাংকে উপস্থাপন করা হয়নি।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংকে জমার উদ্বৃত্ত ৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংকে জমাতিরিক্ত ৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংকে জমার উদ্বৃত্ত ১২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংকে জমাতিরিক্ত ১২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 29,
         "session": null
       },
       "tags": [],

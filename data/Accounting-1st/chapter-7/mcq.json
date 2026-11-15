@@ -1393,6 +1393,965 @@
       "tags": [],
       "difficulty": null,
       "review_note": "মেয়াদ উত্তীর্ণ হলে অগ্রিম ভাড়া (চলতি সম্পত্তি) কমে এবং ভাড়া খরচ বাড়ে, কমে না; তাই iii ভুল। উৎসের কোচিং-সমাধানে (ঘ) দাগ।"
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-034",
+      "text": "রেওয়ামিলে ১০% ঋণ ১,৫০,০০০ (০১-১০-২০২৪) ও ঋণের সুদ ১০,০০০ টাকা দেওয়া আছে। যদি হিসাবকাল ৩১ ডিসেম্বর শেষ হয় ২০২৫ সালের আয় বিবরণীতে বকেয়া সুদ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৭৫০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-038",
+      "text": "রেওয়ামিলে ভাড়া \\(\\frac{4}{5}\\) অংশ ২০,০০০ টাকা হলে, আয় বিবরণীতে ভাড়া খরচ কত টাকা দেখাতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-039",
+      "text": "কার্যপত্রে নিট মুনাফা কোথায় দেখানো হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয় বিবরণী ক্রেঃ, আর্থিক অবস্থার বিবরণী ডেঃ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয় বিবরণী ক্রেঃ, আর্থিক অবস্থার বিবরণী ক্রেঃ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয় বিবরণী ডেঃ, আর্থিক অবস্থার বিবরণী ক্রেঃ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয় বিবরণী ডেঃ, আর্থিক অবস্থার বিবরণী ডেঃ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-041",
+      "text": "বিপরীত দাখিলা কখন দেয়া হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাবকালের শেষে বা শুরুতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যে কোনো সময়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হিসাবকাল শেষে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিসাবকালের শুরুতে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-042",
+      "text": "সমাপনী জাবেদা প্রস্তুতের পর নিচের কোন হিসাবের উদ্বৃত্ত শূন্য হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিলম্বিত বিজ্ঞাপন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রিম বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অনুপার্জিত সেবা আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবা আয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-043",
+      "text": "কখন বিপরীত দাখিলা দেওয়া হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাবকালের শুরুতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হিসাবকালের শেষে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হিসাবকালের মধ্যবর্তী সময়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরবর্তী হিসাব বছর শুরুতে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-044",
+      "text": "কার্যপত্র হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "১০ ঘর"
+        },
+        {
+          "label": "ii",
+          "text": "১২ ঘর"
+        },
+        {
+          "label": "iii",
+          "text": "১৪ ঘর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-045",
+      "text": "প্রাপ্য আয়, অনুপার্জিত আয়, বকেয়া খরচ এবং অগ্রিম খরচের জন্য হিসাবকাল শেষে কোন দাখিলা প্রদান করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমাপনী দাখিলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংশোধনী দাখিলা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমন্বয় দাখিলা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিপরীত দাখিলা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-046",
+      "text": "জামান ট্রেডার্সের চলতি বছরে পরিশোধিত বিজ্ঞাপন খরচের পরিমাণ ৬০,০০০ টাকা এবং বিনামূল্যে পণ্য বিতরণ ১৫,০০০ টাকা। মোট বিজ্ঞাপন খরচ পরপর পাঁচটি অর্থবছরে অবলোপন করতে হবে। চলতি বছর শেষে বিলম্বিত বিজ্ঞাপন বাবদ কত টাকা হিসাবভুক্ত করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৮,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-047",
+      "text": "অনুপার্জিত আয় সমন্বয় করা হলে নিচের কোনটি ঘটবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয় বৃদ্ধি ও দায় হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ বৃদ্ধি ও আয় হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ বৃদ্ধি ও আয় বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ বৃদ্ধি ও দায় হ্রাস পাবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-048",
+      "text": "সমাপনী দাখিলা দেওয়া হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নামিক হিসাবসমূহ বন্ধ করার জন্য"
+        },
+        {
+          "label": "ii",
+          "text": "উত্তোলন হিসাব বন্ধ করার জন্য"
+        },
+        {
+          "label": "iii",
+          "text": "স্থায়ী হিসাবসমূহ বন্ধ করার জন্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-049",
+      "text": "সমাপনী দাখিলা দেওয়া হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নামিক হিসাবসমূহ বন্ধ করার জন্য"
+        },
+        {
+          "label": "ii",
+          "text": "স্থায়ী হিসাবসমূহ বন্ধ করার জন্য"
+        },
+        {
+          "label": "iii",
+          "text": "উত্তোলন হিসাব বন্ধ করার জন্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-050",
+      "text": "বিপরীত দাখিলা কখন দেয়া হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাব কালের ১ তারিখে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমন্বয় দাখিলার পূর্বে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হিসাব কালের শেষ তারিখে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক বিবরণী তৈরির পূর্বে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-051",
+      "text": "মুনাফা জাতীয় হিসাব বন্ধ করার জন্য যে দাখিলার প্রয়োজন হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংশোধনী জাবেদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রারম্ভিক জাবেদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমাপনী জাবেদা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমন্বয় জাবেদা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-052",
+      "text": "রেওয়ামিলে অফিস সাপ্লাইজ ১,০০০ টাকা। সাপ্লাইজ খরচ শূন্য টাকা এবং সমন্বয়ে সমাপনী সাপ্লাইজ ৬০০ টাকা। সমন্বয় দাখিলা হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাপ্লাইজ খরচ ডে: ১,০০০; সাপ্লাইজ ক্রে: ১,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাপ্লাইজ খরচ ডে: ৬০০; সাপ্লাইজ খরচ ক্রে: ৬০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাপ্লাইজ খরচ ডে: ৬০০; সাপ্লাইজ ক্রে: ৬০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাপ্লাইজ খরচ ডে: ৪০০; সাপ্লাইজ ক্রে: ৪০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-053",
+      "text": "কার্যপত্র প্রস্তুতের হিসাব কাল হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "এক বছর"
+        },
+        {
+          "label": "ii",
+          "text": "এক মাস"
+        },
+        {
+          "label": "iii",
+          "text": "ছয় মাস"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-054",
+      "text": "রেওয়ামিলে ১৫% বিনিয়োগ (৩১-৩-২০২৪) ৫০,০০০ টাকা ও বিনিয়োগের সুদ ১,৫০০ টাকা দেয়া আছে। বছর শেষে মোট বিনিয়োগের সুদের পরিমাণ কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৫০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,১২৫",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,৬২৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭,১২৫",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-055",
+      "text": "হিসাবকাল শেষে আয় ও ব্যয় জাতীয় হিসাব বন্ধ করার জন্য কোন দাখিলা প্রদান করতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রারম্ভিক দাখিলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমন্বয় দাখিলা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানান্তর দাখিলা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমাপনী দাখিলা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-056",
+      "text": "মোট সেবা আয়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "রেওয়ামিলে দেওয়া আছে সেবা আয় ৫০,০০০ টাকা ও অনুপার্জিত সেবা আয় ১৬,০০০ টাকা। সমন্বয়ে দেওয়া আছে সেবা আয় ৫,০০০ টাকা হিসাবভুক্ত হয়নি এবং অনুপার্জিত সেবা আয় ৭,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮৮,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-057",
+      "text": "অনুপার্জিত সেবা আয়ের ৭০০০ টাকার পরিবর্তে \\(\\frac{1}{4}\\) অংশ অর্জিত হলে, নীট সেবা আয়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "রেওয়ামিলে দেওয়া আছে সেবা আয় ৫০,০০০ টাকা ও অনুপার্জিত সেবা আয় ১৬,০০০ টাকা। সমন্বয়ে দেওয়া আছে সেবা আয় ৫,০০০ টাকা হিসাবভুক্ত হয়নি এবং অনুপার্জিত সেবা আয় ৭,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫৯,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-058",
+      "text": "আয়-ব্যয় হিসাবের উদ্বৃত্ত কোন দাখিলার মাধ্যমে শূন্য হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমাপনী দাখিলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রারম্ভিক দাখিলা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সংশোধনী দাখিলা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিপরীত দাখিলা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-059",
+      "text": "রেওয়ামিলে প্রদত্ত ভাড়া ১২,০০০ টাকা \\(\\left(\\frac{2}{3}\\text{ অংশ}\\right)\\) হলে, বকেয়া ভাড়ার পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-060",
+      "text": "কোন দাখিলার মাধ্যমে মুনাফা জাতীয় হিসাব বন্ধ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রারম্ভিক দাখিলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমন্বয় দাখিলা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিপরীত দাখিলা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমাপনী দাখিলা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

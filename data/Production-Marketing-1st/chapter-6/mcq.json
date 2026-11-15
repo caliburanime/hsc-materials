@@ -2066,6 +2066,143 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch6-mcq-049",
+      "text": "কোন ডিজাইনে পণ্যের মান উন্নত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্যাকিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নান্দনিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবহারিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মডিউলার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch6-mcq-050",
+      "text": "নতুন পণ্যের ক্ষেত্রে কামিনী কোম্পানি কোন ধরনের ডিজাইন অনুসরণ করেছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "'কামিনী' কোম্পানি তাদের প্রচলিত পারফিউম এর স্থলে গন্ধ ও মানের সামান্য পরিবর্তন করে আকর্ষণীয় মোড়কে নতুন পারফিউম উৎপাদন ও বিপণন করছে। পাশাপাশি দাম নির্ধারণের ক্ষেত্রে ক্রেতাদের আয় এবং প্রতিযোগীদেরও বিবেচনায় আনা হয়েছে। ফলে নতুন পারফিউমে ক্রেতাদের ব্যাপক সাড়া পাওয়া যাচ্ছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2026-ALL-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রিয়াগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নান্দনিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্যাকিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch6-mcq-051",
+      "text": "কামিনী কোম্পানির সফলতার কারণ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "'কামিনী' কোম্পানি তাদের প্রচলিত পারফিউম এর স্থলে গন্ধ ও মানের সামান্য পরিবর্তন করে আকর্ষণীয় মোড়কে নতুন পারফিউম উৎপাদন ও বিপণন করছে। পাশাপাশি দাম নির্ধারণের ক্ষেত্রে ক্রেতাদের আয় এবং প্রতিযোগীদেরও বিবেচনায় আনা হয়েছে। ফলে নতুন পারফিউমে ক্রেতাদের ব্যাপক সাড়া পাওয়া যাচ্ছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2026-ALL-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পণ্যের গুণাগুণ"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রেতাদের ক্রয়-ক্ষমতা বিবেচনা"
+        },
+        {
+          "label": "iii",
+          "text": "ভোক্তার পছন্দ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

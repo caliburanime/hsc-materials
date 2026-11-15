@@ -1004,14 +1004,22 @@
         }
       ],
       "answer": "b",
-      "answer_source": "printed",
+      "answer_source": "derived",
       "explanation": null,
       "source": {
-        "board": "JB",
-        "year": "2024",
-        "qno": 15,
+        "board": "RB",
+        "year": "2023",
+        "qno": 11,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2024",
+          "qno": 15,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1606,6 +1614,1925 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-040",
+      "text": "কোনটি হাইব্রিড সিকিউরিটি নামে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-041",
+      "text": "কোম্পানির জন্মসনদ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিবরণপত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিবন্ধনপত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিমেল নিয়মাবলি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্মারকলিপি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-042",
+      "text": "কোম্পানির ইস্যুকৃত শেয়ার সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান পিএলসি ১০ টাকা মূল্যের ৭০,০০০ শেয়ারে নিবন্ধিত হলো। কোম্পানি নিবন্ধিত শেয়ারের ৮০% শেয়ার ৫% অবহারে ইস্যু করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2026-ALL-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "৭০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৬,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৪,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-043",
+      "text": "কোম্পানির অলীক সম্পদের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান পিএলসি ১০ টাকা মূল্যের ৭০,০০০ শেয়ারে নিবন্ধিত হলো। কোম্পানি নিবন্ধিত শেয়ারের ৮০% শেয়ার ৫% অবহারে ইস্যু করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2026-ALL-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,৮০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,৫০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৮,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৫,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-044",
+      "text": "কোন ধরনের পত্র পাওয়ার পরে পাবলিক লিমিটেড কোম্পানি কাজ শুরু করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রত্যয়নপত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিবন্ধনপত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্যারম্ভের অনুমতিপত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিবরণপত্র",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-045",
+      "text": "পাবলিক লিমিটেড কোম্পানি অপেক্ষা প্রাইভেট লিমিটেড কোম্পানির সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অপেক্ষাকৃত সহজ গঠনপ্রণালি"
+        },
+        {
+          "label": "ii",
+          "text": "আইনের শিথিলতা"
+        },
+        {
+          "label": "iii",
+          "text": "অবাধে শেয়ার হস্তান্তর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-046",
+      "text": "পাবলিক লিমিটেড কোম্পানির শেয়ার ও ঋণপত্র বিক্রয়ের দায়া গ্রহণকারীকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবলেখক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিনিধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দালাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিক্রয়কর্তা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-047",
+      "text": "রিয়াদ কোম্পানি লিঃ এর অনুমোদিত মূলধন প্রতিটি ১০ টাকা মূল্যের ১,০০,০০০ শেয়ারে বিভক্ত। ইস্যুকৃত মূলধনের পরিমাণ ৮০% এবং বিলিকৃত মূলধনের পরিমাণ ৭০% হলে, রিয়াদ কোম্পানি লিঃ এর বিলিকৃত মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫,৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "বিলিকৃত মূলধন = (১,০০,০০০ × ৮০%) × ৭০% × ১০ = ৫,৬০,০০০ টাকা (ইস্যুকৃত শেয়ারের ৭০%) — পরীক্ষা-গাইডের ব্যাখ্যা অনুযায়ী। খাতায় টিক (খ) ৭,০০,০০০-এ (অনুমোদিত মূলধনের ৭০% ধরে); যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-048",
+      "text": "স্টক এর বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আংশিক মূল্য থাকে না"
+        },
+        {
+          "label": "ii",
+          "text": "কোনো ক্রমিক নম্বর থাকে না"
+        },
+        {
+          "label": "iii",
+          "text": "অবাধে হস্তান্তরযোগ্য নয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-049",
+      "text": "প্রতিটি ১০ টাকা মূল্যের ১০,০০০ টি শেয়ারের বিক্রয়মূল্য ১,০৫,০০০ টাকা, অন্যদিকে ৩০,০০০ শেয়ারের বিক্রয়মূল্য ২,৯৪,০০০ টাকা। বাট্টার পরিমাণ হবে কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-050",
+      "text": "শেয়ার হচ্ছে কোম্পানির—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঋণের অংশ"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধনের অংশ"
+        },
+        {
+          "label": "iii",
+          "text": "মালিকানার প্রতীক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-051",
+      "text": "শেয়ার অধিহারের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "ফারাহ কোম্পানির অনুমোদিত মূলধন প্রতিটি ১০ টাকা মূল্যের ১০,০০,০০০ সাধারণ শেয়ারে বিভক্ত। প্রথম বছর কোম্পানি ১ টাকা অধিহারে অনুমোদিত মূলধনের ৬০% শেয়ার ইস্যু করে। ৮,০০,০০০ শেয়ারের জন্য আবেদন পাওয়া গেল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-CB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-052",
+      "text": "শেয়ার আবেদনের কত টাকা ফেরত দেয়া হলো?",
+      "text_en": null,
+      "image": null,
+      "stem": "ফারাহ কোম্পানির অনুমোদিত মূলধন প্রতিটি ১০ টাকা মূল্যের ১০,০০,০০০ সাধারণ শেয়ারে বিভক্ত। প্রথম বছর কোম্পানি ১ টাকা অধিহারে অনুমোদিত মূলধনের ৬০% শেয়ার ইস্যু করে। ৮,০০,০০০ শেয়ারের জন্য আবেদন পাওয়া গেল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-CB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "২২,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৬,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮৮,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-053",
+      "text": "কোম্পানির গঠনতন্ত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংঘস্মারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংঘ বিধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিবরণপত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিবন্ধনপত্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-054",
+      "text": "কোম্পানি শেয়ার আবেদন হতে মোট কত টাকা পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মেঘনা কোং লিঃ প্রতিটি ১০ টাকা মূল্যের ৭,৫০,০০০ শেয়ার নিয়ে নিবন্ধিত হলো। প্রতিটি শেয়ার ১২ টাকায় ৪,০০,০০০ শেয়ার ইস্যু করা হলো। কোম্পানি ইস্যুকৃত শেয়ার অপেক্ষা ৫০,০০০ শেয়ারের বেশি আবেদন পেল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-CUB-6-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪২,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-055",
+      "text": "শেয়ার অধিহার বাবদ কত টাকা আর্থিক অবস্থার বিবরণীতে লিপিবদ্ধ হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মেঘনা কোং লিঃ প্রতিটি ১০ টাকা মূল্যের ৭,৫০,০০০ শেয়ার নিয়ে নিবন্ধিত হলো। প্রতিটি শেয়ার ১২ টাকায় ৪,০০,০০০ শেয়ার ইস্যু করা হলো। কোম্পানি ইস্যুকৃত শেয়ার অপেক্ষা ৫০,০০০ শেয়ারের বেশি আবেদন পেল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-CUB-6-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৭,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-056",
+      "text": "যদি ইস্যু অপেক্ষা ৫০,০০০ শেয়ার আবেদন কম পাওয়া যায় তবে আদায়কৃত শেয়ার মূলধন কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মেঘনা কোং লিঃ প্রতিটি ১০ টাকা মূল্যের ৭,৫০,০০০ শেয়ার নিয়ে নিবন্ধিত হলো। প্রতিটি শেয়ার ১২ টাকায় ৪,০০,০০০ শেয়ার ইস্যু করা হলো। কোম্পানি ইস্যুকৃত শেয়ার অপেক্ষা ৫০,০০০ শেয়ারের বেশি আবেদন পেল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-CUB-6-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৫,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮৪,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-057",
+      "text": "DSE এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Deputy Secretary of Energy",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Dhaka Stock Exchange",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Dhaka Security Exchange",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Divisional Sales Executive",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-058",
+      "text": "১০ টাকার শেয়ার ১২ টাকায় ইস্যু করলে মূলধন হিসাবে প্রতি শেয়ার কত টাকা লিখতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-059",
+      "text": "কোন ধরনের শেয়ারহোল্ডারগণ কারবার পরিচালনায় অংশগ্রহণ করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "sattacademy-তে উত্তর (ক) রাইট শেয়ার; কিন্তু ভোটাধিকারসহ ব্যবস্থাপনায় অংশগ্রহণের অধিকার সাধারণ শেয়ারহোল্ডারদের (গ)।"
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-060",
+      "text": "বোনাস শেয়ার ইস্যু করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বর্তমান শেয়ারহোল্ডারদের"
+        },
+        {
+          "label": "ii",
+          "text": "ভবিষ্যৎ শেয়ারহোল্ডারদের"
+        },
+        {
+          "label": "iii",
+          "text": "নগদ লভ্যাংশের পরিবর্তে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-061",
+      "text": "কোম্পানি আইন অনুযায়ী অবহারের সর্বোচ্চ হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-062",
+      "text": "কোম্পানির শেয়ার মূলধনকে সাধারণত কয় ভাগে ভাগ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৭",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-063",
+      "text": "কোম্পানির ইস্যুকৃত মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্টার কোম্পানি ১০ টাকা মূল্যের ১,০০,০০০ শেয়ারে নিবন্ধিত হল। কোম্পানি ৮% অবহারে ৮০% শেয়ার ইস্যু করল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-DB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,৬৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭,৩৬,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-064",
+      "text": "কোম্পানির শেয়ার অবহার এর পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্টার কোম্পানি ১০ টাকা মূল্যের ১,০০,০০০ শেয়ারে নিবন্ধিত হল। কোম্পানি ৮% অবহারে ৮০% শেয়ার ইস্যু করল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-DB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-065",
+      "text": "আলফা কোম্পানি ১০% অবহারে শেয়ার ইস্যু করে ৩,৬০,০০০ টাকা পেল। কোম্পানির পরিশোধিত মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,২৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,৯৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-066",
+      "text": "জাবেদায় ডেবিট পাশে নিচের কোন হিসাবটি লিখতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "শেয়ার ইস্যুর জন্য বিবরণপত্র ও আবেদন ফরম ছাপানো খরচ বাবদ 'DX'-প্রেসের ৩০,০০০ টাকা বিল নগদে পরিশোধ করা হল।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-DIB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাথমিক খরচাবলি হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আবেদন খরচ হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শেয়ার ইস্যু হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিবরণপত্র হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-067",
+      "text": "বোনাস শেয়ার ইস্যু করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নগদ লভ্যাংশের পরিবর্তে"
+        },
+        {
+          "label": "ii",
+          "text": "বর্তমান শেয়ার মালিকগণকে"
+        },
+        {
+          "label": "iii",
+          "text": "নতুন শেয়ার মালিকগণকে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-068",
+      "text": "যৌথ মূলধনী কোম্পানি সর্বনিম্ন সদস্য সংখ্যা কতজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ জন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭ জন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০ জন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০ জন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন (খ) ৭ জন-এ (পাবলিক লিমিটেড কোম্পানির সর্বনিম্ন সদস্য); কিন্তু যৌথ মূলধনী কোম্পানির (প্রাইভেট লিমিটেড) সর্বনিম্ন সদস্য সংখ্যা ২ জন (ক) — যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-069",
+      "text": "যৌথমূলধনী কোম্পানি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শেয়ার বিক্রির মাধ্যম মূলধন সংগ্রহ করে"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যক্তির ন্যায় যে কোনো লেনদেনে অংশ নিতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "কেবল আইনের মাধ্যমেই বিলুপ্ত হতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-070",
+      "text": "মোট মূলধনের ক্ষুদ্র ক্ষুদ্র অংশকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্টক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণপত্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-071",
+      "text": "কোন ধরনের শেয়ার বিক্রি করলে নগদ অর্থ বৃদ্ধি পায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাইট শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-072",
+      "text": "অবহারের পরিমাণ অভিহিত মূল্যের সর্বোচ্চ কত হার হতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-073",
+      "text": "শেয়ারহোল্ডারদেরকে প্রদত্ত মুনাফার অংশকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কমিশন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লভ্যাংশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দালালি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-074",
+      "text": "যারা কোম্পানির শেয়ার ও ঋণপত্র বিক্রয়ের দায়িত্ব গ্রহণ করে তাদেরকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিবন্ধক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দালাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কমিশন এজেন্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবলেখক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-075",
+      "text": "যৌথ মূলধনী কোম্পানি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চিরন্তন অস্তিত্বসম্পন্ন"
+        },
+        {
+          "label": "ii",
+          "text": "নিবন্ধিত"
+        },
+        {
+          "label": "iii",
+          "text": "সীমাহীন দায়বিশিষ্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-076",
+      "text": "কোম্পানির মোট অধিহারের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "সালাম লিঃ প্রতিটি ১০ টাকা মূল্যের ২,০০,০০০ শেয়ারে নিবন্ধিত। কোম্পানি ৮০,০০০ শেয়ার ৮,৪০,০০০ টাকায় এবং ৭০,০০০ শেয়ার ৭,৩৫,০০০ টাকায় বিলি করলো।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭৫,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,২৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৫০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-077",
+      "text": "মোট বিলিকৃত মূলধনের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "সালাম লিঃ প্রতিটি ১০ টাকা মূল্যের ২,০০,০০০ শেয়ারে নিবন্ধিত। কোম্পানি ৮০,০০০ শেয়ার ৮,৪০,০০০ টাকায় এবং ৭০,০০০ শেয়ার ৭,৩৫,০০০ টাকায় বিলি করলো।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-MB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,৫০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৫,৮০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-078",
+      "text": "কোম্পানির বিলিকৃত মূলধন কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিশু লিঃ প্রতিটি ১০ টাকা মূল্যের ৫০,০০০ শেয়ার নিয়ে নিবন্ধিত হলো। প্রতি শেয়ার ১১ টাকা দরে ৪০,০০০ শেয়ার বিক্রয়ের জন্য ইস্যু করে। জনগণ ৩০,০০০ শেয়ারের জন্য আবেদন করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-RB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪,৪০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-079",
+      "text": "কোম্পানির শেয়ার অধিহার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিশু লিঃ প্রতিটি ১০ টাকা মূল্যের ৫০,০০০ শেয়ার নিয়ে নিবন্ধিত হলো। প্রতি শেয়ার ১১ টাকা দরে ৪০,০০০ শেয়ার বিক্রয়ের জন্য ইস্যু করে। জনগণ ৩০,০০০ শেয়ারের জন্য আবেদন করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-RB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,১০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-080",
+      "text": "কোম্পানির জন্ম সনদ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিবন্ধনপত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্মারকলিপি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্যারম্ভের অনুমতিপত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিবরণপত্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-081",
+      "text": "বাংলাদেশের শেয়ার বাজার নিয়ন্ত্রণকারী প্রতিষ্ঠান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "FASB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BSEC",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "DSE",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CSE",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-082",
+      "text": "কোম্পানির আদায়কৃত মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "যমুনা কোম্পানি লিঃ প্রতি শেয়ার ১০ টাকা মূল্যের ৭০,০০০ শেয়ারে বিভক্ত মোট ৭,০০,০০০ টাকা মূলধন নিয়ে নিবন্ধিত হয়। কোম্পানি প্রতি শেয়ার ২ টাকা অধিহারে ৬০% শেয়ার জনসাধারণের কাছে বিক্রির উদ্দেশ্যে ইস্যু করে। ১০% অতিরিক্ত শেয়ারের আবেদনপত্র পাওয়া গেল। ইস্যুকৃত শেয়ার যথারীতি বণ্টন করা হলো এবং অতিরিক্ত শেয়ারের আবেদনের টাকা ফেরত দেয়া হলো।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,০৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬,৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-083",
+      "text": "কোম্পানির ব্যাংকে জমার উদ্বৃত্ত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "যমুনা কোম্পানি লিঃ প্রতি শেয়ার ১০ টাকা মূল্যের ৭০,০০০ শেয়ারে বিভক্ত মোট ৭,০০,০০০ টাকা মূলধন নিয়ে নিবন্ধিত হয়। কোম্পানি প্রতি শেয়ার ২ টাকা অধিহারে ৬০% শেয়ার জনসাধারণের কাছে বিক্রির উদ্দেশ্যে ইস্যু করে। ১০% অতিরিক্ত শেয়ারের আবেদনপত্র পাওয়া গেল। ইস্যুকৃত শেয়ার যথারীতি বণ্টন করা হলো এবং অতিরিক্ত শেয়ারের আবেদনের টাকা ফেরত দেয়া হলো।",
+      "stem_image": null,
+      "group": "accounting_2nd-2023-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,০৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,৮৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬,৯২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch4-mcq-084",
+      "text": "যৌথমূলধনী কোম্পানির পরিচালনা পর্ষদ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শেয়ার হোল্ডারদের প্রতিনিধি"
+        },
+        {
+          "label": "ii",
+          "text": "শেয়ার হোল্ডারদের কর্মচারী"
+        },
+        {
+          "label": "iii",
+          "text": "কোম্পানির সর্বোচ্চ কর্তৃপক্ষ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন (ক) i ও ii-তে; কিন্তু পরিচালকগণ শেয়ারহোল্ডারদের নির্বাচিত প্রতিনিধি ও কোম্পানির সর্বোচ্চ ব্যবস্থাপনা কর্তৃপক্ষ — কর্মচারী নন (গ)। যাচাই প্রয়োজন।"
     }
   ]
 }

@@ -1120,7 +1120,7 @@
       "source": {
         "board": "ALL",
         "year": "2026",
-        "qno": 2,
+        "qno": 10,
         "session": null
       },
       "tags": [],
@@ -1159,7 +1159,7 @@
       "source": {
         "board": "ALL",
         "year": "2026",
-        "qno": 5,
+        "qno": 13,
         "session": null
       },
       "tags": [],
@@ -1198,8 +1198,2248 @@
       "source": {
         "board": "ALL",
         "year": "2026",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-029",
+      "text": "\"শুধু অপমান! প্রাণের আশঙ্কায় সে আমাদের আতঙ্কিত করে তোলেনি?\"—উক্তিটি কে করেছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রায়দুর্লভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাজবল্লভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জগৎশেঠ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "প্রশ্নপত্রের ওপর ছাপা উত্তর (গ) রাজবল্লভ; sattacademy-তে উত্তর (ক) মিরজাফর — যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-030",
+      "text": "\"দওলত আমার কাছে ভগবানের দাদামশায়ের চেয়েও বড়।\"—উক্তিটিতে কীসের কথা প্রকাশ পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বার্থের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্থের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্ষমতার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গৌরবের",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-031",
+      "text": "মিরজাফরের গুপ্তচর কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উমর বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কমর বেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মানিক চাঁদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাইসুল জুহালা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-032",
+      "text": "উদ্দীপকের ডব্লিও.এ.এস ওডারল্যান্ড 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের অনুরূপ?",
+      "text_en": null,
+      "image": null,
+      "stem": "একজন বিদেশি হয়েও ডব্লিও.এ.এস ওডারল্যান্ড বাংলাদেশের মুক্তিযুদ্ধে সরাসরি অংশ নিয়েছিলেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "মোহনলাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মীর মর্দান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাইসুল জুহালা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাঁফ্রে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-033",
+      "text": "উদ্দীপকটি 'সিরাজউদ্দৌলা' নাটকের কোন বিষয়টিকে ধারণ করেছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একজন বিদেশি হয়েও ডব্লিও.এ.এস ওডারল্যান্ড বাংলাদেশের মুক্তিযুদ্ধে সরাসরি অংশ নিয়েছিলেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "দেশপ্রেম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উদারতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিবাদী চেতনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃতজ্ঞতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-034",
+      "text": "উদ্দীপকের 'ক্ষুদ্রমতি নরের' সঙ্গে 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্র তুলনীয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"ক্ষুদ্রমতি নর, শূর, লক্ষ্মণ; নহিলে / অস্ত্রহীন যোধে কি সে সম্বোধে সংগ্রামে?\"",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্লাইভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিরন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোহাম্মদী বেগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-035",
+      "text": "উদ্দীপকে 'সিরাজউদ্দৌলা' নাটকের প্রতিফলিত দিক—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"ক্ষুদ্রমতি নর, শূর, লক্ষ্মণ; নহিলে / অস্ত্রহীন যোধে কি সে সম্বোধে সংগ্রামে?\"",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-27-28",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিরাজের সঙ্গে বিশ্বাসঘাতকতা"
+        },
+        {
+          "label": "ii",
+          "text": "অস্ত্রহীন সিরাজের ওপর হামলা"
+        },
+        {
+          "label": "iii",
+          "text": "সশস্ত্র সিরাজের সঙ্গে যুদ্ধের আহ্বান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-036",
+      "text": "\"আমার নালিশ আজ আমার নিজের বিরুদ্ধে।\"—নবাব সিরাজের এই উক্তির কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তিনি সময়মত ব্যবস্থা নিতে পারেননি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তাঁর ক্ষমাশীলতার নীতি বিপর্যয় ঘটিয়েছে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তিনি প্রজাদের নিরাপত্তা বিধান করতে পারেননি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তিনি শত্রু-মিত্র চিনতে ব্যর্থ হয়েছেন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-037",
+      "text": "মীর জাফরের প্রকৃত নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মীর জাফর খান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাফর আলি খান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মীর জাফর আলি খাঁ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মির্জা জাফর খান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-038",
+      "text": "'খাজাঞ্চি' বলতে কোন ব্যক্তিকে বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সেনাপতিকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নবাবকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কোষাধ্যক্ষকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গুপ্তচরকে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-039",
+      "text": "\"ব্রিটিশ সিংহ ভয়ে লেজ গুটিয়ে নিলেন, এ বড় লজ্জার কথা।\" উমিচাঁদের এই সংলাপের মধ্যদিয়ে আমরা অনুধাবন করতে পারি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিংহের মতো শক্তি ও সাহস ইংরেজদের আছে"
+        },
+        {
+          "label": "ii",
+          "text": "ইংরেজরা ভীরু"
+        },
+        {
+          "label": "iii",
+          "text": "ইংরেজরা কাপুরুষ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-040",
+      "text": "'সিরাজউদ্দৌলা' নাটকে নবাবের পদাতিক বাহিনী কোন দিক দিয়ে দুর্গ আক্রমণ করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিয়ালদহের মারাঠা খাল পেরিয়ে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দমদমের সরু রাস্তা দিয়ে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দুর্গের পেছনের মাঠ দিয়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্গের সামনের নদী পেরিয়ে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-041",
+      "text": "\"নবাব মসনদের পাশে দাঁড়িয়ে আছেন। ইনি কি নবাব না ফকির।\"—এ কথার মধ্য দিয়ে মিরজাফর চরিত্রের কোন বৈশিষ্ট্য প্রকাশিত হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিরীহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুশলী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃতজ্ঞতাবোধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাটুকারিতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-042",
+      "text": "\"আমরা এক বাক্যে আপনাকেই নেতৃত্ব দিলাম।\"—'সিরাজউদ্দৌলা' নাটকে উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাজবল্লভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উমিচাঁদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জগৎশেঠ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃষ্ণবল্লভ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-043",
+      "text": "উদ্দীপকের বেসরকারি সংস্থা 'সিরাজউদ্দৌলা' নাটকের কোন ঘটনাকে স্মরণ করিয়ে দেয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "সহকর্মীদের পরামর্শে নাম-পরিচয়হীন একটি বেসরকারি সংস্থাকে গ্রামের শিক্ষা ও স্বাস্থ্য নিয়ে কাজ করার অনুমতি প্রদান করেন নব-নির্বাচিত চেয়ারম্যান আসিফ তালুকদার। কিছুদিন পর নানা-প্রলোভন দেখিয়ে গ্রামবাসীর কাছে কোটি টাকার চাঁদা হাতিয়ে নিয়ে সংস্থাটি চলে যায়। এই ঘটনায় অনুতপ্ত চেয়ারম্যান স্বেচ্ছায় পদত্যাগ করেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-JB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "লবণের ইজারা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আলিনগরের সন্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পলাশির যুদ্ধের নেতৃত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃষ্ণবল্লভের মুক্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-044",
+      "text": "উদ্দীপকের চেয়ারম্যানের সাথে 'সিরাজউদ্দৌলা' নাটকের সিরাজ চরিত্রের মিল কোথায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "সহকর্মীদের পরামর্শে নাম-পরিচয়হীন একটি বেসরকারি সংস্থাকে গ্রামের শিক্ষা ও স্বাস্থ্য নিয়ে কাজ করার অনুমতি প্রদান করেন নব-নির্বাচিত চেয়ারম্যান আসিফ তালুকদার। কিছুদিন পর নানা-প্রলোভন দেখিয়ে গ্রামবাসীর কাছে কোটি টাকার চাঁদা হাতিয়ে নিয়ে সংস্থাটি চলে যায়। এই ঘটনায় অনুতপ্ত চেয়ারম্যান স্বেচ্ছায় পদত্যাগ করেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-JB-5-6",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সহকর্মীদের পরামর্শ"
+        },
+        {
+          "label": "ii",
+          "text": "সরলতা ও শুভবোধ"
+        },
+        {
+          "label": "iii",
+          "text": "স্বেচ্ছায় পদত্যাগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-045",
+      "text": "\"শুধু ওই একটি পথেই আবার আমরা উভয়ে উভয়ের কাছাকাছি আসতে পারি\"—কোন পথ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেশপ্রেম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আত্মবিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আত্মবিসর্জন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যুদ্ধ-চালিয়ে যাওয়া",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-046",
+      "text": "\"সবাই মিলে সত্যিই আমরা বাংলাকে বিক্রি করে দিচ্ছি না তো?\"—'সিরাজউদ্দৌলা' নাটকে উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মীরজাফর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উমিচাঁদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জগৎশেঠ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঘসেটি বেগম",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-047",
+      "text": "ঘসেটি বেগমের বাড়িতে হঠাৎ নবাব উপস্থিত হলে সবাই—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অভিবাদন জানাল"
+        },
+        {
+          "label": "ii",
+          "text": "হকচকিয়ে গেল"
+        },
+        {
+          "label": "iii",
+          "text": "সতর্ক হলো"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
         "qno": 22,
         "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-048",
+      "text": "'সিরাজউদ্দৌলা' নাটকে প্রথম অঙ্কের প্রথম দৃশ্যের স্থান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোর্ট উইলিয়াম জাহাজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নবাবের দরবার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘসেটি বেগমের বাড়ি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফোর্ট উইলিয়াম দুর্গ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-049",
+      "text": "নবাব সিরাজউদ্দৌলাকে কায়েদখানায় হত্যা করেছিল কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্লাইভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোহাম্মদি বেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিরজাফর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-050",
+      "text": "উদ্দীপকের শাহেদ 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের সঙ্গে সাদৃশ্যপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "হাতেমের বাবা অনাথ শাহেদকে ছোটকাল থেকে সর্ন্তানস্নেহে লালন-পালন করেন। হাতেমের সঙ্গে তার নিকট আত্মীয় শামসু মিয়ার বিরোধ সৃষ্টি হলে মাত্র পনের হাজার টাকার বিনিময়ে শামসু মিয়ার প্ররোচনায় হাতেমকে নির্মমভাবে খুন করে শাহেদ।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-RB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উমিচাঁদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোহাম্মদি বেগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিরজাফর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-051",
+      "text": "উভয় চরিত্রের মধ্যে সাদৃশ্যের কারণ হলো, এরা—",
+      "text_en": null,
+      "image": null,
+      "stem": "হাতেমের বাবা অনাথ শাহেদকে ছোটকাল থেকে সর্ন্তানস্নেহে লালন-পালন করেন। হাতেমের সঙ্গে তার নিকট আত্মীয় শামসু মিয়ার বিরোধ সৃষ্টি হলে মাত্র পনের হাজার টাকার বিনিময়ে শামসু মিয়ার প্ররোচনায় হাতেমকে নির্মমভাবে খুন করে শাহেদ।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-RB-10-11",
+      "statements": [
+        {
+          "label": "i",
+          "text": "কৃতঘ্ন"
+        },
+        {
+          "label": "ii",
+          "text": "ক্ষমতালোভী"
+        },
+        {
+          "label": "iii",
+          "text": "অর্থলোভী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2024",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-052",
+      "text": "উদ্দীপকের আকবর সাহেব 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের অনুরূপ?",
+      "text_en": null,
+      "image": null,
+      "stem": "আকবর সাহেবের কুপুত্র তানভীরকে পারিবারিক ব্যবসার ভাগ না দিয়ে আকমল সাহেবের ছেলে ইমরানকে ব্যবসার একচ্ছত্র কর্ণধার করে যান দাদা আশরাফউদ্দিন। এ নিয়েই আকবর সাহেব ভ্রাতুষ্পুত্রের বিরুদ্ধে ষড়যন্ত্রে লিপ্ত হন।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "ঘসেটি বেগম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লুৎফুন্নেসা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শওকতজঙ্গ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিরজাফর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-053",
+      "text": "উদ্দীপকটি 'সিরাজউদ্দৌলা' নাটকের যে দিকের সাথে সঙ্গতিপূর্ণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "আকবর সাহেবের কুপুত্র তানভীরকে পারিবারিক ব্যবসার ভাগ না দিয়ে আকমল সাহেবের ছেলে ইমরানকে ব্যবসার একচ্ছত্র কর্ণধার করে যান দাদা আশরাফউদ্দিন। এ নিয়েই আকবর সাহেব ভ্রাতুষ্পুত্রের বিরুদ্ধে ষড়যন্ত্রে লিপ্ত হন।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-BB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতার দ্বন্দ্ব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হিংসা-বিদ্বেষ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেষারেষি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বার্থপরতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-054",
+      "text": "'আমার অদৃষ্ট আর কল্যাণের মাঝখানে শুধু দেয়াল আর দেয়াল।' এখানে দেয়াল দ্বারা বুঝানো হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাধা"
+        },
+        {
+          "label": "ii",
+          "text": "বিভক্তি"
+        },
+        {
+          "label": "iii",
+          "text": "ষড়যন্ত্র"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-055",
+      "text": "\"উমিচাঁদ এ যুগের সেরা বিশ্বাসঘাতক\"—'সিরাজউদ্দৌলা' নাটকে এ উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জগৎশেঠ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাজবল্লভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্লাইভ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-056",
+      "text": "উদ্দীপকের সিহাবের সাথে 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের সাদৃশ্য মেলে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"ইসমাইলের বাবা অনাথ সিহাবকে লালন-পালন করেন। ইসমাইলের সাথে তার চাচা তায়েবের বিরোধ বাধলে অর্থের লোভে তায়েবের নির্দেশে সিহাব ইসমাইলকে হত্যা করে।\"",
+      "stem_image": null,
+      "group": "bangla_1st-2023-CUB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "উমিচাঁদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোহাম্মাদি বেগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মির জাফর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-057",
+      "text": "সাদৃশ্যের কারণ হলো, উভয়েই—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"ইসমাইলের বাবা অনাথ সিহাবকে লালন-পালন করেন। ইসমাইলের সাথে তার চাচা তায়েবের বিরোধ বাধলে অর্থের লোভে তায়েবের নির্দেশে সিহাব ইসমাইলকে হত্যা করে।\"",
+      "stem_image": null,
+      "group": "bangla_1st-2023-CUB-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "কৃতঘ্ন"
+        },
+        {
+          "label": "ii",
+          "text": "ক্ষমতালোভী"
+        },
+        {
+          "label": "iii",
+          "text": "অর্থলোভী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-058",
+      "text": "'সিরাজউদ্দৌলা' নাটকের শওকতজঙ্গের প্রকৃতি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অকর্মন্য"
+        },
+        {
+          "label": "ii",
+          "text": "ক্ষমতানির্লিপ্ত"
+        },
+        {
+          "label": "iii",
+          "text": "মদাসক্ত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-059",
+      "text": "ফোর্ট উইলিয়াম দুর্গ আক্রমণের প্রাক্কালে ইংরেজ বাহিনী সাদা নিশান উড়ায় কেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আক্রমণ তীব্র করার জন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যুদ্ধ বিরতির জন্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সন্ধি স্থাপনের জন্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিজয় প্রকাশের জন্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-060",
+      "text": "'ফরাসি অধিকৃত' বলতে কী বুঝানো হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অধিকার করে নিয়েছে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আধিপত্য বিস্তার করেছে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লুটপাট শুরু করেছে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাণিজ্য কেন্দ্র গড়ে তুলেছে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-061",
+      "text": "\"স্বার্থপর ক্লডিয়াস রানির সাথে হাত মিলিয়ে রাজা হ্যামলেটকে হত্যা করে।\"—উক্ত বাক্যে রাজা হ্যামলেটের সঙ্গে 'সিরাজউদ্দৌলা' নাটকে কোন চরিত্রের সাদৃশ্য রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সিরাজউদ্দৌলা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোহনলাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আলিবর্দি খাঁ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মির মর্দান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-062",
+      "text": "'সিরাজউদ্দৌলা' নাটকে অঙ্কসংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুই",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তিন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-063",
+      "text": "উদ্দীপকের শিব্বিরের সঙ্গে 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের সাদৃশ্য রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "আবুলের বাবা অনাথ শিব্বিরকে লালন-পালন করে সমাজে প্রতিষ্ঠিত করেন। সময়ের আবর্তনে বিত্ত-সম্পত্তি নিয়ে আবুলের সঙ্গে তার চাচা জাফরের বিরোধ বাঁধলে জাফর শিব্বিরকে নিজের দলে ভেড়ান। অর্থের লোভে জাফরের নির্দেশে শিব্বির আবুলকে হত্যা করে।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-DIB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "মোহাম্মদী বেগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিরন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শওকতজঙ্গ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-064",
+      "text": "উদ্দীপক ও 'সিরাজউদ্দৌলা' নাটকে সমভাবে প্রকাশিত হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "আবুলের বাবা অনাথ শিব্বিরকে লালন-পালন করে সমাজে প্রতিষ্ঠিত করেন। সময়ের আবর্তনে বিত্ত-সম্পত্তি নিয়ে আবুলের সঙ্গে তার চাচা জাফরের বিরোধ বাঁধলে জাফর শিব্বিরকে নিজের দলে ভেড়ান। অর্থের লোভে জাফরের নির্দেশে শিব্বির আবুলকে হত্যা করে।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-DIB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষমতালিপ্সা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অকৃতজ্ঞতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃতঘ্নতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিশোধস্পৃহা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-065",
+      "text": "'ব্রিটিশ সিংহ ভয়ে লেজ গুটিয়ে নিলেন, এ বড় লজ্জার কথা।'—উমিচাঁদের উক্তিটিতে প্রকাশ পেয়েছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হাস্যরস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রঙ্গরস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিদ্রূপ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আত্মগ্লানি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-066",
+      "text": "কে নিজেকে 'দওলতের পূজারি' বলে পরিচয় দিয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উমিচাঁদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জগৎশেঠ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মানিক চাঁদ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-067",
+      "text": "উদ্দীপকের বীরের সঙ্গে 'সিরাজউদ্দৌলা' নাটকের কোন চরিত্রের মিল রয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "'অন্যায়ের কাছে নত নয় শির / ভয়ে কাঁদে কাপুরুষ, লড়ে যায় বীর।'",
+      "stem_image": null,
+      "group": "bangla_1st-2023-JB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "মোহনলাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জগৎশেঠ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিরজাফর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উমিচাঁদ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-068",
+      "text": "উদ্দীপকে 'সিরাজউদ্দৌলা' নাটকের ফুটে ওঠা দিকটি হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "'অন্যায়ের কাছে নত নয় শির / ভয়ে কাঁদে কাপুরুষ, লড়ে যায় বীর।'",
+      "stem_image": null,
+      "group": "bangla_1st-2023-JB-10-11",
+      "statements": [
+        {
+          "label": "i",
+          "text": "দেশপ্রেম"
+        },
+        {
+          "label": "ii",
+          "text": "বীরত্ব"
+        },
+        {
+          "label": "iii",
+          "text": "উচ্চাকাঙ্ক্ষা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-069",
+      "text": "নবাব সিরাজ রাজধানীতে ফিরে এলেন কেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিজ প্রাণ বাঁচাতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রজাসাধারণকে অনুপ্রাণিত করতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পুনরায় যুদ্ধ করতে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৌশলগত কারণে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-070",
+      "text": "\"বৃটিশ সিংহ ভয়ে লেজ গুটিয়ে নিলেন, এ বড় লজ্জার কথা।\"—উমিচাঁদের এই উক্তিতে কী প্রকাশ পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিদ্রূপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্লানি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হাস্যরস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভিমান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-071",
+      "text": "\"তুমিও কম সাপিনী নও।\"—ঘসেটি বেগমের এই উক্তিতে কী প্রকাশ পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিশোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিদ্রোহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘৃণা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিংসা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-072",
+      "text": "সিরাজউদ্দৌলাকে কোথায় হত্যা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভগবান গোলায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাফরাগঞ্জের কয়েদখানায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুর্শিদাবাদে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পাটনার কয়েদখানায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-073",
+      "text": "মীর মর্দান ছিলেন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নারী লোলুপ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতারক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দেশপ্রেমিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দেশদ্রোহী",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-074",
+      "text": "\"আমার নালিশ আজ আমার নিজের বিরুদ্ধে\" সিরাজউদ্দৌলার এই উক্তিটিতে প্রকাশ পেয়েছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শাসন পরিচালনায় অযোগ্যতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যুদ্ধবিদ্যায় অদক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইংরেজদের মোকাবিলা করতে না পারা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রজাসাধারণের নিরাপত্তা বিধান করতে না পারা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-075",
+      "text": "'সিরাজউদ্দৌলা' নাটকে অঙ্ক সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পাঁচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ছয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-076",
+      "text": "'কুর্নিশ' শব্দের অর্থ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্ভাষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভিবাদন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমাদর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভিনন্দন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-077",
+      "text": "'সিরাজউদ্দৌলা' নাটকে নবাব কোথায় গিয়ে বন্দিদের বিচার করবেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পাটনায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাশিমবাজারে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুরাটে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুর্শিদাবাদে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-078",
+      "text": "\"ওর কাছে সবকিছুই যেন জুয়াখেলা।\"—'সিরাজউদ্দৌলা' নাটকে 'ওর' বলতে কাকে বোঝানো হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাজবল্লভকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্লাইভকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিরজাফরকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জগৎশেঠকে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-079",
+      "text": "\"আমরা সাদা নিশান উড়িয়ে দিয়েছি\"—বাক্যটির মধ্য দিয়ে কোন মনোভাব প্রকাশ পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিজয়ের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপদের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যুদ্ধের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সন্ধির",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-080",
+      "text": "\"সিরাজদ্দৌলা\" নাটকের প্রথম অঙ্কের প্রথম দৃশ্যের স্থান কোথায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফোর্ট উইলিয়াম দুর্গ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফোর্ট উইলিয়াম জাহাজ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘসেটি বেগমের বাড়ি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নবাবের দরবার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 9
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch38-mcq-081",
+      "text": "স্বাধীনতার মহানায়ক জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানকে এদেশের কিছু বিপথগামী সেনা সদস্য নির্মমভাবে হত্যা করে। উদ্দীপকের সেনা সদস্যদের আচরণ 'সিরাজউদ্দৌলা' নাটকের মীরজাফরের কোন বৈশিষ্ট্যের সঙ্গে সঙ্গতিপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশ্বাসঘাতকতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাষ্ট্রদ্রোহিতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাজানুগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রজা নিপীড়ক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 30
       },
       "tags": [],
       "difficulty": null

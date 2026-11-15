@@ -1892,6 +1892,104 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "business_org_1st-ch4-mcq-044",
+      "text": "উদ্দীপকে লিখিত দলিলটি ব্যবসায় সংগঠনের ক্ষেত্রে কী হিসেবে পরিচিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "চারজন বন্ধু মিলে 'বন্ধু টেক্সটাইল' নামে একটি ব্যবসায় শুরু করেন। তাদের মধ্যে একটি লিখিত দলিল রয়েছে। যেখানে মূলধন, লাভ-ক্ষতি বণ্টন ও দায়িত্ব পালনের নিয়মাবলি লেখা আছে। তারা তাদের ব্যবসায়টি নিবন্ধন করেননি।",
+      "stem_image": null,
+      "group": "business_org_1st-2026-ALL-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিমেল নিয়মাবলি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্মারকলিপি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিবরণ পত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অংশীদারি চুক্তিপত্র",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_1st-ch4-mcq-045",
+      "text": "'বন্ধু টেক্সটাইল' নিবন্ধন ছাড়া ব্যবসায় পরিচালনার ক্ষেত্রে যে সমস্যা হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "চারজন বন্ধু মিলে 'বন্ধু টেক্সটাইল' নামে একটি ব্যবসায় শুরু করেন। তাদের মধ্যে একটি লিখিত দলিল রয়েছে। যেখানে মূলধন, লাভ-ক্ষতি বণ্টন ও দায়িত্ব পালনের নিয়মাবলি লেখা আছে। তারা তাদের ব্যবসায়টি নিবন্ধন করেননি।",
+      "stem_image": null,
+      "group": "business_org_1st-2026-ALL-26-27",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অন্যের বিরুদ্ধে মামলা করতে বাধা"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবসায়টি অবৈধ বলে গণ্য হওয়া"
+        },
+        {
+          "label": "iii",
+          "text": "১০০ টাকার বেশি পাওনা আদায়ে সমস্যা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

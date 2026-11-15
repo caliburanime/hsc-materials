@@ -168,6 +168,12 @@
           "year": "2024",
           "qno": 9,
           "session": null
+        },
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 6,
+          "session": null
         }
       ],
       "tags": [],
@@ -3603,6 +3609,1522 @@
         "board": "SB",
         "year": "2024",
         "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-088",
+      "text": "মৌলিক হিসাব সমীকরণ হিসাববিজ্ঞানের কোন ধারণার উপর প্রতিষ্ঠিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাবকাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সত্তা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিলকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলমান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-089",
+      "text": "হিসাব তথ্যের বাহ্যিক ব্যবহারকারী কারা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালিক পক্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপণন ব্যবস্থাপক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিয়োগকারী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবস্থাপনা কর্তৃপক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-090",
+      "text": "হিসাববিজ্ঞান জবাবদিহিতা নিশ্চিত করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মালিকের মুনাফা বৃদ্ধির মাধ্যমে"
+        },
+        {
+          "label": "ii",
+          "text": "লেনদেনের সত্যতা যাচাইয়ের মাধ্যমে"
+        },
+        {
+          "label": "iii",
+          "text": "সঠিক তথ্য সরবরাহের মাধ্যমে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-091",
+      "text": "নিচের কোনটি শুধু হিসাবের ক্রেডিট পার্শ্বকে প্রভাবিত করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়, দায় ও মূলধন বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ, খরচ ও উত্তোলন বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়, দায় ও উত্তোলন বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়, মূলধন ও উত্তোলন হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-092",
+      "text": "প্রদত্ত বাট্টা হিসাব সমীকরণকে কীভাবে প্রভাবিত করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ হ্রাস, দায় হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ হ্রাস, মালিকানা স্বত্ব হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায় হ্রাস, মালিকানা স্বত্ব বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ বৃদ্ধি, মালিকানা স্বত্ব হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-093",
+      "text": "\"মালিক কর্তৃক পণ্য উত্তোলন\"— লেনদেনের ফলে হিসাব সমীকরণে এর কী প্রভাব হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বত্বাধিকার হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ ও স্বত্বাধিকার হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বত্বাধিকার বৃদ্ধি ও হ্রাস পাবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "অবিরত মজুদ পদ্ধতিতে উত্তর (গ); কালান্তিক মজুদ পদ্ধতিতে (ক্রয় হ্রাস → স্বত্বাধিকার বৃদ্ধি, উত্তোলন → স্বত্বাধিকার হ্রাস) উত্তর (ঘ) — পোস্টারের টীকা অনুযায়ী দুটিই গ্রহণযোগ্য।"
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-094",
+      "text": "হিসাব বছরের শুরুতে প্রারম্ভিক সম্পদ ১২,০০০ টাকা এবং স্বত্বাধিকার ১০,০০০ টাকা ছিল। সারা বছর সম্পদ ৫,০০০ টাকা এবং দায় ২,০০০ টাকা বৃদ্ধি পেয়েছে। সেক্ষেত্রে সমাপনী স্বত্বাধিকারের পরিমাণ হবে কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১২০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৩০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-095",
+      "text": "কোনো নামিক হিসাব শিরোনামের সাথে বকেয়া বা অগ্রিম ইত্যাদি যুক্ত থাকলে সেটি কোন ধরণের হিসাব বলে গণ্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যক্তিবাচক হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পত্তিবাচক হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়বাচক হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয় হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-096",
+      "text": "নিচের কোনটি 'কন্ট্রা আয়' হিসাবে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রয় ফেরত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রয় ফেরত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদ আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অনুপার্জিত সেবা আয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-097",
+      "text": "হিসাব সমীকরণের সম্প্রসারিত রূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A=L+C−R+D",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A=L+C+R−E−D",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "A=L+OE−R+E−D",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A=L+C+R−D+E",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-098",
+      "text": "একটি সম্পদ বৃদ্ধি পায় এবং অন্য একটি সম্পদ হ্রাস পায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নগদে আসবাবপত্র ক্রয়"
+        },
+        {
+          "label": "ii",
+          "text": "নগদে বিক্রয়"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাংকে নগদ জমা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-099",
+      "text": "হিসাববিজ্ঞানের মূল উদ্দেশ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তথ্য সরবরাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেনদেন সনাক্তকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোট লাভ নির্ণয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক ফলাফল নির্ধারণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-100",
+      "text": "ধারে ক্রয়ের ফলে হিসাব সমীকরণের কোন উপাদানগুলো প্রভাবিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A ও L",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A ও OE",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "L ও OE",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A, L ও OE",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-101",
+      "text": "কোনটিকে হিসাববিজ্ঞানের 'ভিত্তি' বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রেওয়ামিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লেনদেন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-102",
+      "text": "কে নিট লাভ দাবি করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দেনাদার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মালিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরকার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-103",
+      "text": "নিচের কোনটি দ্বারা স্বত্বাধিকারের পরিমাণ বৃদ্ধি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালিকের জীবন বিমার প্রিমিয়াম প্রদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মালিকের ব্যক্তিগত প্রয়োজনে ব্যবসায় হতে পণ্য উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবসায়ের আয়কর প্রদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিক কর্তৃক ব্যবসায়ে অতিরিক্ত মূলধন বিনিয়োগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-104",
+      "text": "প্রাপ্য হিসাবের টাকা সরাসরি ব্যাংক কর্তৃক আদায় এই লেনদেনটি দ্বারা হিসাব সমীকরণের (A = L + OE) কোন উপাদান বা উপাদানগুলো প্রভাবিত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A ও L",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A ও OE",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শুধুমাত্র-L",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শুধুমাত্র-A",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-105",
+      "text": "হিসাব তথ্যের অভ্যন্তরীণ ব্যবহারকারী কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পাওনাদার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগকারী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রমিকসংঘ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক ব্যবস্থাপক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-106",
+      "text": "জনাব রানার প্রারম্ভিক মূলধন কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রানা ২০২৫ সালের ১ জানুয়ারি তারিখে নগদ ১,২০,০০০ টাকা, ৪০,০০০ টাকার যন্ত্রপাতি ও ২০,০০০ টাকা ঋণ নিয়ে ব্যবসায় আরম্ভ করেন। জানুয়ারি মাসে অন্যান্য লেনদেনগুলো হল— পণ্য ক্রয় ৫০,০০০ টাকা, পণ্য বিক্রয় ৮০,০০০ টাকা এবং ব্যক্তিগত প্রয়োজনে উত্তোলন ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৮০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-107",
+      "text": "জানুয়ারি মাসের শেষে মালিকানা স্বত্বের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রানা ২০২৫ সালের ১ জানুয়ারি তারিখে নগদ ১,২০,০০০ টাকা, ৪০,০০০ টাকার যন্ত্রপাতি ও ২০,০০০ টাকা ঋণ নিয়ে ব্যবসায় আরম্ভ করেন। জানুয়ারি মাসে অন্যান্য লেনদেনগুলো হল— পণ্য ক্রয় ৫০,০০০ টাকা, পণ্য বিক্রয় ৮০,০০০ টাকা এবং ব্যক্তিগত প্রয়োজনে উত্তোলন ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,৭০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৮০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৬০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-108",
+      "text": "হিসাব সমীকরণের সঠিক বর্ধিত রূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ = দায় + মূলধন − উত্তোলন + আয় − খরচ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ = দায় + মূলধন − খরচ + আয় − উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ = দায় − মূলধন + আয় − খরচ − উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ = দায় − মূলধন − উত্তোলন − খরচ + আয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-109",
+      "text": "জনাব ইমরানের ব্যবসায়ের দায় ২০,০০০ টাকা এবং মালিকানাস্বত্ব ৩০,০০০ টাকা। ব্যবসায়ের সম্পত্তির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-110",
+      "text": "পাওনাদারকে প্রদান হিসাব সমীকরণে এর প্রভাব হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্পদ হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "দায় হ্রাস"
+        },
+        {
+          "label": "iii",
+          "text": "সম্পদ বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-111",
+      "text": "সবসময় ডেবিট উদ্বৃত্ত প্রকাশ করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায় হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয় হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-112",
+      "text": "নিট লাভ দ্বারা কী বৃদ্ধি পায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বত্বাধিকার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-113",
+      "text": "১,০০,০০০ টাকার প্রদেয় হিসাব পূর্ণ নিষ্পত্তিতে ৯৮,৫০০ টাকায় নিষ্পত্তি করা হল। হিসাব সমীকরণে লেনদেনটির প্রভাব—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্পত্তি হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "দায় হ্রাস পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "মালিকানা স্বত্ব বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-114",
+      "text": "হিসাব সমীকরণের সঠিক সম্প্রসারিতরূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ=দায়−মূলধন + খরচ + উত্তোলন−আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ=দায় + মূলধন−আয় + খরচ−উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ=দায় + মূলধন + আয়−খরচ−উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ=দায়−মূলধন + উত্তোলন + আয়−খরচ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-115",
+      "text": "বাকিতে পণ্য ক্রয় ২,০০০ টাকা সমীকরণে প্রভাব কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ বৃদ্ধি ও দায় হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায় বৃদ্ধি ও মালিকানা স্বত্ব হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ হ্রাস ও দায় বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ বৃদ্ধি ও মালিকানা স্বত্ব বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-116",
+      "text": "কখন মালিকানা স্বত্ব বৃদ্ধি পায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যয় বৃদ্ধি পেলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্ষতি হলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ বৃদ্ধি পেলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয় বা মুনাফা হলে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-117",
+      "text": "মালিকের স্বত্বাধিকার ৬০,০০০ টাকা। মোট সম্পদ ৮০,০০০ টাকা হলে দায়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৫,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-118",
+      "text": "কোনটি ব্যবসায়ের মূলধনের হ্রাস ঘটায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-119",
+      "text": "হিসাব তথ্যের বাহ্যিক ব্যবহারকারী হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পাওনাদার"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবস্থাপক"
+        },
+        {
+          "label": "iii",
+          "text": "সরকার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-120",
+      "text": "ক্রেডিট দ্বারা কোনটি বুঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ ও দায় বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ হ্রাস ও দায় বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ ও দায় হ্রাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ বৃদ্ধি ও দায় হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-121",
+      "text": "হিসাব সমীকরণ হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "A = L + OE + E − R − D"
+        },
+        {
+          "label": "ii",
+          "text": "A = L + OE"
+        },
+        {
+          "label": "iii",
+          "text": "A = L + (OE + R − E − D)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-122",
+      "text": "১ মার্চ তারিখে জনাব লিটনের মূলধনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব লিটন ২০২৪ সালের ১ মার্চ তারিখে নগদ ৫০,০০০ টাকা, ১,০০,০০০ টাকার পণ্য এবং ৫০,০০০ টাকার ঋণ নিয়ে ব্যবসায় শুরু করেন। মার্চ মাসে তাঁর অন্যান্য লেনদেনগুলো ছিল: ব্যক্তিগত অর্থে স্ত্রীর জন্য অলংকার ক্রয় ১০,০০০ টাকা, ব্যবসায় হতে ছেলের স্কুলের বেতন প্রদান ২,৫০০ টাকা, অতিরিক্ত মূলধন আনয়ন ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৫৭,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৭৭,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৮২,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,২৭,৫০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ছাপা উত্তর (খ) মার্চ মাস শেষের মূলধন: প্রারম্ভিক মূলধন (৫০,০০০ + ১,০০,০০০ + ঋণের নগদ ৫০,০০০ − ঋণ ৫০,০০০ = ১,৫০,০০০) − উত্তোলন ২,৫০০ + অতিরিক্ত মূলধন ৩০,০০০ = ১,৭৭,৫০০ টাকা (ব্যক্তিগত অর্থে অলংকার ক্রয় ব্যবসায়ের লেনদেন নয়); ১ মার্চের মূলধন ১,৫০,০০০ টাকা কোনো বিকল্পে নেই — sattacademy-তেও (খ)।"
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-123",
+      "text": "জনাব লিটনের মালিকানা স্বত্ব পরিবর্তন হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব লিটন ২০২৪ সালের ১ মার্চ তারিখে নগদ ৫০,০০০ টাকা, ১,০০,০০০ টাকার পণ্য এবং ৫০,০০০ টাকার ঋণ নিয়ে ব্যবসায় শুরু করেন। মার্চ মাসে তাঁর অন্যান্য লেনদেনগুলো ছিল: ব্যক্তিগত অর্থে স্ত্রীর জন্য অলংকার ক্রয় ১০,০০০ টাকা, ব্যবসায় হতে ছেলের স্কুলের বেতন প্রদান ২,৫০০ টাকা, অতিরিক্ত মূলধন আনয়ন ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্ত্রীর জন্য অলংকার ক্রয় দ্বারা"
+        },
+        {
+          "label": "ii",
+          "text": "ছেলের স্কুলের বেতন প্রদান দ্বারা"
+        },
+        {
+          "label": "iii",
+          "text": "অতিরিক্ত মূলধন আনয়ন দ্বারা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 10,
         "session": null
       },
       "tags": [],

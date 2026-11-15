@@ -220,9 +220,9 @@
       "text": "উদ্দীপক ও আলোচ্য কবিতায় প্রকাশ পেয়েছে—",
       "text_en": null,
       "image": null,
-      "stem": "\"গাহি সাম্যের গান—\nমানুষের চেয়ে বড় কিছু নাই, নহে কিছু মহীয়ান।\"",
+      "stem": "গাহি সাম্যের গান— / মানুষের চেয়ে বড় কিছু নাই, নহে কিছু মহীয়ান।",
       "stem_image": null,
-      "group": "bangla_1st-2025-DIB-14-15",
+      "group": "bangla_1st-2024-DB-27-28",
       "statements": [
         {
           "label": "i",
@@ -263,11 +263,19 @@
       "answer_source": "printed",
       "explanation": null,
       "source": {
-        "board": "DIB",
-        "year": "2025",
-        "qno": 15,
+        "board": "DB",
+        "year": "2024",
+        "qno": 28,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 15,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -590,7 +598,7 @@
       "image": null,
       "stem": "'অন্যের কল্যাণে আত্মনিবেদন করলেই মানুষের প্রকৃত সত্তা উন্মোচিত হয়।'",
       "stem_image": null,
-      "group": "bangla_1st-2026-ALL-20-21",
+      "group": "bangla_1st-2026-ALL-28-29",
       "options": [
         {
           "label": "a",
@@ -619,63 +627,7 @@
       "source": {
         "board": "ALL",
         "year": "2026",
-        "qno": 20,
-        "session": null
-      },
-      "tags": [],
-      "difficulty": null
-    },
-    {
-      "id": "bangla_1st-ch21-mcq-016",
-      "text": "উক্ত রচনায় প্রকাশ পেয়েছে—",
-      "text_en": null,
-      "image": null,
-      "stem": "'অন্যের কল্যাণে আত্মনিবেদন করলেই মানুষের প্রকৃত সত্তা উন্মোচিত হয়।'",
-      "stem_image": null,
-      "group": "bangla_1st-2026-ALL-20-21",
-      "statements": [
-        {
-          "label": "i",
-          "text": "প্রীতিময় পরিবেশ সৃষ্টির আকাঙ্ক্ষা"
-        },
-        {
-          "label": "ii",
-          "text": "অস্তিত্ব রক্ষায় বুদ্ধিদীপ্ত ও সাহসী সংগ্রাম"
-        },
-        {
-          "label": "iii",
-          "text": "অসহায় মানুষের দায়িত্বশীল ও মানবিক জীবন যুদ্ধ"
-        }
-      ],
-      "options": [
-        {
-          "label": "a",
-          "text": "i",
-          "image": null
-        },
-        {
-          "label": "b",
-          "text": "i ও iii",
-          "image": null
-        },
-        {
-          "label": "c",
-          "text": "ii ও iii",
-          "image": null
-        },
-        {
-          "label": "d",
-          "text": "i, ii ও iii",
-          "image": null
-        }
-      ],
-      "answer": "a",
-      "answer_source": "derived",
-      "explanation": null,
-      "source": {
-        "board": "ALL",
-        "year": "2026",
-        "qno": 21,
+        "qno": 28,
         "session": null
       },
       "tags": [],
@@ -714,8 +666,1168 @@
       "source": {
         "board": "ALL",
         "year": "2026",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-018",
+      "text": "উক্ত রচনায় প্রকাশ পেয়েছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "'অন্যের কল্যাণে আত্মনিবেদন করলেই মানুষের প্রকৃত সত্তা উন্মোচিত হয়।'",
+      "stem_image": null,
+      "group": "bangla_1st-2026-ALL-28-29",
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রীতিময় পরিবেশ সৃষ্টির আকাঙ্ক্ষা"
+        },
+        {
+          "label": "ii",
+          "text": "অস্তিত্ব রক্ষায় বুদ্ধিদীপ্ত ও সাহসী সংগ্রাম"
+        },
+        {
+          "label": "iii",
+          "text": "অসহায় মানুষের দায়িত্বশীল ও মানবিক জীবন যুদ্ধ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "'প্রতিদান' কবিতায় প্রীতিময় পরিবেশ সৃষ্টির আকাঙ্ক্ষা (i) স্পষ্ট; অপকারীর উপকারে মানবিক দায়িত্ববোধ (iii) অংশত মেলে, সাহসী সংগ্রাম (ii) নেই — তাই (খ); যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-019",
+      "text": "'প্রতিদান' কবিতাটি জসীমউদ্দীনের কোন কাব্যগ্রন্থ থেকে সংকলিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নকসী কাঁথা মাঠ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধানক্ষেত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বালুচর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রঙিলা নায়ের মাঝি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 16,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2024",
+          "qno": 26,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-020",
+      "text": "\"যে গেছে বুকেতে আঘাত হানিয়া তার লাগি আমি কাঁদি।\"—এ পঙ্ক্তি দ্বারা বোঝানো হয়েছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সহমর্মিতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আত্মসুখ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরোপকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সর্বংসহা মনোভাব",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-021",
+      "text": "'প্রতিদান' কবিতাটি কোন কাব্যগ্রন্থ থেকে সংকলন করা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাখালী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বালুচর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধানখেত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নক্সী কাঁথার মাঠ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-022",
+      "text": "'প্রতিদান' কবিতায় 'বুকভরা গান' বলতে কী বুঝানো হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আশ্রয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপহার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুখ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভালোবাসা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2024",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-023",
+      "text": "উদ্দীপকের মধ্যবয়স্ক লোকটির আচরণ 'প্রতিদান' কবিতার সঙ্গে কীভাবে প্রাসঙ্গিক?",
+      "text_en": null,
+      "image": null,
+      "stem": "খরস্রোতা নদীতে পড়ে ডুবে যাচ্ছিলো এক কিশোর। তাকে বাঁচাতে মধ্যবয়স্ক এক লোক নদীতে ঝাঁপিয়ে পড়লেন। লোকটা নিজের জীবন বিপন্ন করে সেই কিশোরকে তুলে আনলেন নদী থেকে। ছেলেটি কোনো কথা না বলে চলে গেলো।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "পরোপকারে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কৃতজ্ঞতাবোধে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জীবনের ঝুঁকি গ্রহণে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষুদ্র স্বার্থে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-024",
+      "text": "উদ্দীপক ও 'প্রতিদান' কবিতার মিল কোন বিবেচনায় যথার্থ?",
+      "text_en": null,
+      "image": null,
+      "stem": "খরস্রোতা নদীতে পড়ে ডুবে যাচ্ছিলো এক কিশোর। তাকে বাঁচাতে মধ্যবয়স্ক এক লোক নদীতে ঝাঁপিয়ে পড়লেন। লোকটা নিজের জীবন বিপন্ন করে সেই কিশোরকে তুলে আনলেন নদী থেকে। ছেলেটি কোনো কথা না বলে চলে গেলো।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-CUB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলভাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শৈলিতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঘটনায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উদাহরণে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-025",
+      "text": "'প্রতিদান' কবিতায় কবি 'বিষে-ভরা বাণ' এর পরিবর্তে কী দেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফুলমাল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বুকভরা গান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফুলমালঞ্চ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিঠুরিয়া বাণী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2024",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-026",
+      "text": "উদ্দীপকের ভাব 'প্রতিদান' কবিতার কোন ভাবটিকে ধারণ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "গাহি সাম্যের গান— / মানুষের চেয়ে বড় কিছু নাই, নহে কিছু মহীয়ান।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-DB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিবাদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হিংসা-বিদ্বেষপূর্ণ মনোভাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাগরণ চিন্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাম্যবাদ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2024",
         "qno": 27,
         "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-028",
+      "text": "উদ্দীপকের বৃদ্ধ মা-বাবার ক্ষমাশীলতার সঙ্গে 'প্রতিদান' কবিতার কোন পঙ্ক্তির মিল আছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "করোনা মহামারীর সময় করোনাক্রান্ত বৃদ্ধ মা-বাবাকে ছেড়ে রবিন তার স্ত্রী-সন্তানদের নিয়ে অন্যত্র চলে যায়। প্রতিবেশীদের সহযোগিতায় তার বৃদ্ধ মা-বাবা সুস্থ হন। করোনা শেষে রবিন কাছে এলে তারা রবিনকে বুকে জড়িয়ে কেঁদে ফেলেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-DIB-25-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "কত ঠাঁই হতে কত কী যে আনি' সাজাই নিরন্তর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দীঘল রজনী তার তরে জাগি' ঘুম যে হরেছে মোর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রঙিন ফুলের সোহাগ-জড়ান ফুলমালঞ্চ ধরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে গেছে বুকেতে আঘাত হানিয়া তার লাগি আমি কাঁদি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-029",
+      "text": "উপর্যুক্ত মিলের কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "করোনা মহামারীর সময় করোনাক্রান্ত বৃদ্ধ মা-বাবাকে ছেড়ে রবিন তার স্ত্রী-সন্তানদের নিয়ে অন্যত্র চলে যায়। প্রতিবেশীদের সহযোগিতায় তার বৃদ্ধ মা-বাবা সুস্থ হন। করোনা শেষে রবিন কাছে এলে তারা রবিনকে বুকে জড়িয়ে কেঁদে ফেলেন।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-DIB-25-26",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্ষমাশীলতা"
+        },
+        {
+          "label": "ii",
+          "text": "নির্ভরশীলতা"
+        },
+        {
+          "label": "iii",
+          "text": "ভালোবাসা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2024",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-030",
+      "text": "উদ্দীপকের বিষয়বস্তু তোমার পঠিত কোন রচনার সাথে সাদৃশ্যপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "গরিবের মেয়ে পিয়ারী একদিন আশ্রয় খুঁজেছিল ধনীর দুলাল অজেনের মধ্যে। অজেন তার মূল্য দেয়নি। হারিয়ে যাওয়া পিয়ারী একদিন দেখতে পায় করোনা আক্রান্ত অজেন একাকী পড়ে আছে হাসপাতালের বিছানায়। সুখের দিনে চারপাশ ঘিরে থাকত যারা, তারা কেউ কাছে নেই। দিনরাত সেবা দিয়ে পিয়ারী অজেনকে সুস্থ করে তোলে। অতীতে অবজ্ঞা ও অবহেলার কথা তার একবারও মনে পড়েনি।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-JB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "তাহারেই পড়ে মনে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিদান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিলাসী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মানব-কল্যাণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-031",
+      "text": "উক্ত সাদৃশ্যের কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "গরিবের মেয়ে পিয়ারী একদিন আশ্রয় খুঁজেছিল ধনীর দুলাল অজেনের মধ্যে। অজেন তার মূল্য দেয়নি। হারিয়ে যাওয়া পিয়ারী একদিন দেখতে পায় করোনা আক্রান্ত অজেন একাকী পড়ে আছে হাসপাতালের বিছানায়। সুখের দিনে চারপাশ ঘিরে থাকত যারা, তারা কেউ কাছে নেই। দিনরাত সেবা দিয়ে পিয়ারী অজেনকে সুস্থ করে তোলে। অতীতে অবজ্ঞা ও অবহেলার কথা তার একবারও মনে পড়েনি।",
+      "stem_image": null,
+      "group": "bangla_1st-2024-JB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমৃদ্ধ হৃদয়বৃত্তি"
+        },
+        {
+          "label": "ii",
+          "text": "উভয়ের অসহায়ত্ব"
+        },
+        {
+          "label": "iii",
+          "text": "নির্মোহ ঔদার্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2024",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-032",
+      "text": "'প্রতিদান' কবিতায় কেমন রজনী জাগার কথা বলা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুখের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দীঘল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শংকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শীতের",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2024",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-033",
+      "text": "প্রতিদান কবিতার মূল উপজীব্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্ষমাশীলতা"
+        },
+        {
+          "label": "ii",
+          "text": "উদারতা"
+        },
+        {
+          "label": "iii",
+          "text": "পরার্থপরতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2024",
+          "qno": 30,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-034",
+      "text": "উদ্দীপকের ভাব 'প্রতিদান' কবিতার কোন চরণে অনুপস্থিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মেরেছো কলসির কানা, তাই বলে কি প্রেম দেব না?",
+      "stem_image": null,
+      "group": "bangla_1st-2023-BB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "আমার এ ঘর ভাঙিয়াছে যেবা আমি বাঁধি তার ঘর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আপন করিতে কাঁদিয়া বেড়াই যে মোরে করেছে পর।",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আমার এ কূল ভাঙিয়াছে যেবা আমি কূল বাঁধি,",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রঙিন ফুলের সোহাগ-জড়ান ফুল মালঞ্চ ধরি।",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-035",
+      "text": "উদ্দীপকে 'প্রতিদান' কবিতার যে বিষয়টি ফুটে উঠেছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মেরেছো কলসির কানা, তাই বলে কি প্রেম দেব না?",
+      "stem_image": null,
+      "group": "bangla_1st-2023-BB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "মহানুভবতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভালোবাসা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রত্যুপকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরোপকার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-036",
+      "text": "'প্রতিদান' কবিতায় কবির কোন চেতনা প্রকাশ পেয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উদারতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উদাসীনতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিমুখতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নির্লিপ্ততা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-037",
+      "text": "'প্রতিদান' কবিতায় উল্লিখিত রজনী কেমন ছিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দীঘল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জ্যোৎস্নাশোভিত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেঘাচ্ছন্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অন্ধকারাচ্ছন্ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-038",
+      "text": "\"আমার এ ঘর ভাঙিয়াছে যেবা আমি বাঁধি তার ঘর\"—এই চরণে কবি কী বুঝিয়েছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরোপকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আত্মগ্লানি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সর্বংসহা মনোভাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কৃতজ্ঞতাবোধ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-039",
+      "text": "\"কাঁটা পেয়ে তারে ফুল করি দান\"—চরণটিতে কবি কী বুঝিয়েছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৃতজ্ঞতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরার্থপরতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কৃতঘ্নতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অপচিকির্ষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-040",
+      "text": "কবি জসীমউদ্দীন কত খ্রিস্টাব্দে জন্মগ্রহণ করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯০১ খ্রি.",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৯০৩ খ্রি.",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯০৫ খ্রি.",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯০৭ খ্রি.",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-041",
+      "text": "'প্রতিদান' কবিতায় কবি কার ঘর বাঁধেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যে কবির ঘর ভেঙেছে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যে কবির ঘর বেঁধেছে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যে কবির ঘর নিয়ে গেছে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে কবিকে ঘর দিয়েছে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-042",
+      "text": "উদ্দীপকের সাথে 'প্রতিদান' কবিতার কোন দিকটি সামঞ্জস্যপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "পরার্থে আপন সুখ দিয়ে বিসর্জন, / তুমিও হওগো ধন্য তরুর মতন।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-SB-25-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "সহনশীলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্ষমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরার্থপরতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অনিষ্টকারীর মঙ্গল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-043",
+      "text": "অনুচ্ছেদ ও 'প্রতিদান' কবিতা অনুসারে মানবজীবন কখন সার্থক হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "পরার্থে আপন সুখ দিয়ে বিসর্জন, / তুমিও হওগো ধন্য তরুর মতন।",
+      "stem_image": null,
+      "group": "bangla_1st-2023-SB-25-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "সুখ বিসর্জন দিলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দুঃখে জীবন কাটালে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আত্মকেন্দ্রিক হলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আত্মত্যাগ ও পরোপকার করলে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-044",
+      "text": "জসীম উদ্দীনকে কোন বিশ্ববিদ্যালয় ডি-লিট ডিগ্রি প্রদান করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কলকাতা বিশ্ববিদ্যালয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দিল্লি বিশ্ববিদ্যালয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঢাকা বিশ্ববিদ্যালয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রবীন্দ্র ভারতী বিশ্ববিদ্যালয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "bangla_1st-ch21-mcq-045",
+      "text": "'প্রতিদান' কবিতায় কবি কার জন্য দীঘল রজনী জেগে থাকেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কবিকে পর করে যে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কবির ঘুম হরণ করে যে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কবির ঘর ভাঙে যে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কবির বুকে আঘাত করে যে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 19
       },
       "tags": [],
       "difficulty": null

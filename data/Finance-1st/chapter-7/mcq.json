@@ -1,0 +1,215 @@
+{
+  "subject": "finance_1st",
+  "chapter": 7,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "finance_1st-ch7-mcq-001",
+      "text": "সংরক্ষিত আয়ের ব্যয় নির্ণয়ে ভিত্তি হিসেবে কোনটি ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণপত্রের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ শেয়ারের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রাধিকার শেয়ারের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-002",
+      "text": "কাম্য মূলধন কাঠামো বলতে কী বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফার্মের সর্বোচ্চ মূল্য ও সর্বোচ্চ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ফার্মের সর্বোচ্চ মূল্য ও সর্বোচ্চ আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফার্মের সর্বোচ্চ মূল্য ও সর্বনিম্ন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফার্মের সর্বনিম্ন মূল্য ও সর্বনিম্ন ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-003",
+      "text": "সাধারণ শেয়ারের ব্যয় নির্ণয়ের মডেল হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিএপিএম মডেল"
+        },
+        {
+          "label": "ii",
+          "text": "শূন্য লভ্যাংশ বৃদ্ধি মডেল"
+        },
+        {
+          "label": "iii",
+          "text": "স্থির লভ্যাংশ বৃদ্ধি মডেল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-004",
+      "text": "CAPM মডেল দ্বারা নিচের কোনটির ব্যয় নির্ণয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবসায় ঋণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জমাতিরিক্ত ঋণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-005",
+      "text": "ইকুইটি মূলধন ও ঋণ মূলধনের মিশ্রণকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন ব্যবস্থাপনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন কাঠামো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

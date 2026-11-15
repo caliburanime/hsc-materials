@@ -3080,6 +3080,1242 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-074",
+      "text": "একটি সম্পদের পুস্তক মূল্য ২,৫০০ টাকা এবং পুঞ্জিভূত অবচয় ৫০০ টাকা হলে, যদি সেটি ২,০০০ টাকায় বিক্রয় করা হয়, তাহলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০০ টাকা ক্ষতি হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫০০ টাকা লাভ হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,০০০ টাকা ক্ষতি হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,০০০ টাকা লাভ হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পুস্তক মূল্য ২,৫০০ টাকা ধরলে বিক্রয়ে ৫০০ টাকা ক্ষতি (ক); কিন্তু ২,৫০০ টাকা ক্রয়মূল্য ধরলে পুস্তক মূল্য ২,০০০ টাকা হয় এবং লাভ-ক্ষতি শূন্য — প্রশ্নটির শব্দচয়ন অস্পষ্ট।"
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-075",
+      "text": "আসবাবপত্র অথবা দালানকোঠা প্রভৃতির ক্ষেত্রে অবচয় ধার্যের কোন পদ্ধতিটি অধিক উপযোগী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রমহ্রসমান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরলরৈখিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্ষ সংখ্যার সমষ্টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন একক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-076",
+      "text": "দালানকোঠা, আসবাবপত্র ও কলকব্জা ইত্যাদি স্থায়ী সম্পত্তির উপর অবচয় নির্ণয়ের উপযুক্ত পদ্ধতি নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রমহ্রাসমান জের পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বার্ষিক সমকিস্তি পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্ষ সংখ্যার সমষ্টি পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্য ঘণ্টা হার পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-077",
+      "text": "প্রাথমিক খরচ কোন ধরনের সম্পদ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থায়ী সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চলতি সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অলীক সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অস্পর্শনীয় সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-078",
+      "text": "মেশিনের বার্ষিক অবচয়ের পরিমাণ হবে কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান ট্রেডার্স ২০২৪ সালের ১ জানুয়ারি তারিখ মেশিনক্রয় ও সংস্থাপন বাবদ খরচ করেন যথাক্রমে ৬,০০,০০০ টাকা ও ৫০,০০০ টাকা। মেশিনের আয়ুষ্কাল ধরা হয় ১০ বছর ও ভগ্নাবশেষ মূল্য ৪০,০০০ টাকা ধরেন। তিনি সরলরৈখিক পদ্ধতিতে অবচয় ধার্য করেন।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-079",
+      "text": "মূলধন জাতীয় ব্যয়ের উদাহরণ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্ল্যান্ট ক্রয়"
+        },
+        {
+          "label": "ii",
+          "text": "প্ল্যান্ট সংস্থাপন খরচ"
+        },
+        {
+          "label": "iii",
+          "text": "প্ল্যান্ট মেরামত খরচ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-080",
+      "text": "পুঞ্জিভূত অবচয় কোন ধরনের হিসাব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিপরীত সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "খরচ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-081",
+      "text": "সরলরৈখিক পদ্ধতিতে ২০২৪ সালের অবচয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২২ সালের ১ জানুয়ারি তারিখে ১,০০,০০০ টাকা দিয়ে একটি মেশিন ক্রয় করা হল। মেশিনের প্রত্যাশিত আয়ুষ্কাল ১০ বছর এবং ভগ্নাবশেষ মূল্য ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১১,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-082",
+      "text": "ক্রমহ্রাসমান পদ্ধতিতে ২০২৫ সালের অবচয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২২ সালের ১ জানুয়ারি তারিখে ১,০০,০০০ টাকা দিয়ে একটি মেশিন ক্রয় করা হল। মেশিনের প্রত্যাশিত আয়ুষ্কাল ১০ বছর এবং ভগ্নাবশেষ মূল্য ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-BB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "২০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২,৮০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০,২৪০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-083",
+      "text": "সম্পত্তির কোন ধরনের মূল্যকে অবচয় বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবহৃত মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অব্যবহৃত মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভগ্নাবশেষ মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিক্রয় মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-084",
+      "text": "বিলম্বিত বিজ্ঞাপন খরচ কোন প্রকার সম্পদ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিপরীত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থায়ী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চলতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অলীক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-085",
+      "text": "প্রথম বছর শেষে যন্ত্রপাতির বহিমূল্য কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান এর ব্যবসায়ের যন্ত্রপাতির ক্রয়মূল্য ৩,০০,০০০ টাকা, সংস্থাপন ব্যয় ৪০,০০০ টাকা এবং পরিবহন ব্যয় ১০,০০০ টাকা। যন্ত্রপাতির আনুমানিক আয়ুষ্কাল ১০ বছর। জনাব রহমান ক্রমহ্রাসমান জের পদ্ধতিতে অবচয় ধার্যের সিদ্ধান্ত নেয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,৭২,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,০০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "আয়ুষ্কাল ১০ বছর ধরে সরলরৈখিক হারের দ্বিগুণ (২০%) ক্রমহ্রাসমান হারে: ৩,৫০,০০০ × ৮০% = ২,৮০,০০০ টাকা — sattacademy-তেও (গ)।"
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-086",
+      "text": "প্রথম বছরে ক্রমহ্রাসমান জের পদ্ধতির পরিবর্তে সরল রৈখিক পদ্ধতিতে অবচয় ধরা হলে ব্যবসায়ের—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান এর ব্যবসায়ের যন্ত্রপাতির ক্রয়মূল্য ৩,০০,০০০ টাকা, সংস্থাপন ব্যয় ৪০,০০০ টাকা এবং পরিবহন ব্যয় ১০,০০০ টাকা। যন্ত্রপাতির আনুমানিক আয়ুষ্কাল ১০ বছর। জনাব রহমান ক্রমহ্রাসমান জের পদ্ধতিতে অবচয় ধার্যের সিদ্ধান্ত নেয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-CB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অবচয়ের পরিমাণ হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "মুনাফায় কোন প্রভাব পড়বে না"
+        },
+        {
+          "label": "iii",
+          "text": "নিট মুনাফা বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-087",
+      "text": "অবচয় নির্ধারণে বিবেচ্য বিষয় হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্রয়মূল্য"
+        },
+        {
+          "label": "ii",
+          "text": "কার্যকর আয়ুষ্কাল"
+        },
+        {
+          "label": "iii",
+          "text": "ভগ্নাবশেষ মূল্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 11,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-088",
+      "text": "পুঞ্জীভূত অবচয় কী জাতীয় হিসাব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দায় হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মালিকানা স্বত্ব হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিপরীত সম্পদ হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-089",
+      "text": "মূলধন জাতীয় ব্যয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেতন খরচ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাহাজ ভাড়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পত্তি ক্রয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পণ্য ক্রয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-090",
+      "text": "নিম্নের কোন সম্পত্তির অবচয় ধার্য করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দালানকোঠা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ট্রেডমার্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্যাটেন্ট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-091",
+      "text": "মেশিনের অর্জনমূল্য কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আরাফাত আলী ১লা জানুয়ারি ২০২৪ সালে একটি মেশিন ক্রয় করে, যার ক্রয়মূল্য ৬,০০,০০০ টাকা, সংস্থাপন ব্যয় ৪০,০০০ টাকা এবং পরিবহণ খরচ ১০,০০০ টাকা। মেশিনের আনুমানিক আয়ুষ্কাল ১০ বছর। ক্রমহ্রাসমান জের পদ্ধতিতে অবচয় ধার্য করা হয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,১০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬,৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬,৫০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-092",
+      "text": "প্রথম বছর শেষে মেশিনের বহিমূল্য কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আরাফাত আলী ১লা জানুয়ারি ২০২৪ সালে একটি মেশিন ক্রয় করে, যার ক্রয়মূল্য ৬,০০,০০০ টাকা, সংস্থাপন ব্যয় ৪০,০০০ টাকা এবং পরিবহণ খরচ ১০,০০০ টাকা। মেশিনের আনুমানিক আয়ুষ্কাল ১০ বছর। ক্রমহ্রাসমান জের পদ্ধতিতে অবচয় ধার্য করা হয়।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,২০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,৯২,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬,০০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-093",
+      "text": "যদি ক্রমহ্রাসমান জের পদ্ধতিতে বার্ষিক অবচয় ধার্য হয় তবে প্রথম বছর সরলরৈখিক পদ্ধতির অবচয়ের তুলনায় আর্থিক অবস্থার বিবরণীতে স্থায়ী সম্পদের পরিমাণ কত টাকা হ্রাস পাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান ট্রেডার্স ২০২৪ সালের ১ জানুয়ারি তারিখ মেশিনক্রয় ও সংস্থাপন বাবদ খরচ করেন যথাক্রমে ৬,০০,০০০ টাকা ও ৫০,০০০ টাকা। মেশিনের আয়ুষ্কাল ধরা হয় ১০ বছর ও ভগ্নাবশেষ মূল্য ৪০,০০০ টাকা ধরেন। তিনি সরলরৈখিক পদ্ধতিতে অবচয় ধার্য করেন।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-JB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৯,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "হার উল্লেখ নেই; সরলরৈখিক হারের দ্বিগুণ (১০ বছর → ২০%) ধরলে ক্রমহ্রাসমান অবচয় ৬,৫০,০০০ × ২০% = ১,৩০,০০০ টাকা; পার্থক্য ১,৩০,০০০ − ৬১,০০০ = ৬৯,০০০ টাকা (ঘ, ছাপা উত্তর)।"
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-094",
+      "text": "কোন পদ্ধতিতে সকল আর্থিক বছরে অবচয়ের পরিমাণ সমান থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রম-হ্রাসমান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরলরৈখিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্ষগুণন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-095",
+      "text": "সরলরৈখিক পদ্ধতিতে ২০২৪ সনের অবচয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালের ১ এপ্রিল তারিখ মিতা এন্টারপ্রাইজ ৯৪,০০০ টাকায় একটি যন্ত্র ক্রয় করেন এবং যন্ত্রটি ১৪,০০০ টাকায় সংস্থাপন করে। যন্ত্রটির অনুমানিক আয়ুষ্কাল ধরা হয়েছে ৫ বছর এবং আয়ুষ্কাল শেষে ভগ্নাবশেষ মূল্য ৮,০০০ টাকা। প্রতিষ্ঠানটি প্রতি বছর ৩১ ডিসেম্বর তারিখে হিসাব শেষ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২১,৬০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-096",
+      "text": "যদি প্রতিষ্ঠানটি ক্রমহ্রাসমান জের পদ্ধতিতে অবচয় ধার্য করে তবে অবচয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "২০২৪ সালের ১ এপ্রিল তারিখ মিতা এন্টারপ্রাইজ ৯৪,০০০ টাকায় একটি যন্ত্র ক্রয় করেন এবং যন্ত্রটি ১৪,০০০ টাকায় সংস্থাপন করে। যন্ত্রটির অনুমানিক আয়ুষ্কাল ধরা হয়েছে ৫ বছর এবং আয়ুষ্কাল শেষে ভগ্নাবশেষ মূল্য ৮,০০০ টাকা। প্রতিষ্ঠানটি প্রতি বছর ৩১ ডিসেম্বর তারিখে হিসাব শেষ করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-MB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "আয়ুষ্কাল ৫ বছর → সরলরৈখিক হার ২০%; ক্রমহ্রাসমান জের পদ্ধতিতে তার দ্বিগুণ ৪০% ধরা হয়েছে (ছাপা উত্তর)।"
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-097",
+      "text": "পুঞ্জিভূত অবচয় কোন ধরনের হিসাব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিপরীত সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানা স্বত্ব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-098",
+      "text": "নিচের কোনটি কন্ট্রা সম্পদ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যন্ত্রপাতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুনাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্রন্থস্বত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুঞ্জীভূত অবচয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-099",
+      "text": "ক্রম-হ্রাসমান জের পদ্ধতিতে ২০২৪ সালের মেশিনের অবচয়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন ২০২৩ সালের ১ জানুয়ারি তারিখে ব্যবসায়ের জন্য ১,৮০,০০০ টাকায় একটি মেশিন ক্রয় করেন, যার সংস্থাপন ব্যয় হয় ২০,০০০ টাকা। ধারণা করা হয় মেশিনটির আয়ুষ্কাল ১০ বছর এবং ভগ্নাবশেষ মূল্য ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৭,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "আয়ুষ্কাল ১০ বছর → সরলরৈখিক হারের দ্বিগুণ ২০% ক্রমহ্রাসমান হার: ২০২৩ সালে ২,০০,০০০ × ২০% = ৪০,০০০; ২০২৪ সালে ১,৬০,০০০ × ২০% = ৩২,০০০ টাকা।"
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-100",
+      "text": "মেশিনের সংস্থাপন ব্যয়কে মুনাফা জাতীয় ব্যয় ধরে হিসাবভুক্ত করা হলে মামুনের ব্যবসায়ের আর্থিক বিবরণীতে কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন ২০২৩ সালের ১ জানুয়ারি তারিখে ব্যবসায়ের জন্য ১,৮০,০০০ টাকায় একটি মেশিন ক্রয় করেন, যার সংস্থাপন ব্যয় হয় ২০,০০০ টাকা। ধারণা করা হয় মেশিনটির আয়ুষ্কাল ১০ বছর এবং ভগ্নাবশেষ মূল্য ৩০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-SB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মেশিনের মূল্য ২০,০০০ টাকা কম প্রদর্শিত হবে"
+        },
+        {
+          "label": "ii",
+          "text": "নিট লাভ ২০,০০০ টাকা কম প্রদর্শিত হবে"
+        },
+        {
+          "label": "iii",
+          "text": "সম্পদ ও দায় পার্শ্ব ২০,০০০ টাকা কম প্রদর্শিত হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-101",
+      "text": "মূলধন জাতীয় ব্যয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেশিন সংস্থাপন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আসবাবপত্র মেরামত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পণ্য ক্রয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভাড়া প্রদান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch8-mcq-102",
+      "text": "নিচের কোনটি অস্পর্শনীয় সম্পদ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রদেয় হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুনাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইজারা সম্পত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাপ্য হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

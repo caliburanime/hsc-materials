@@ -119,6 +119,104 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "business_org_1st-ch7-mcq-004",
+      "text": "উদ্দীপকের সংস্থাটি কোন ধরনের ব্যবসায়ের উদাহরণ?",
+      "text_en": null,
+      "image": null,
+      "stem": "সরকার দেশের সাধারণ মানুষের কাছে সুলভ মূল্যে বিদ্যুৎ ও জ্বালানি পৌঁছে দেওয়ার জন্য একটি সংস্থা পরিচালনা করে, সংস্থাটির প্রধান লক্ষ্য মুনাফা অর্জন নয় বরং জনকল্যাণ।",
+      "stem_image": null,
+      "group": "business_org_1st-2026-ALL-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "রাষ্ট্রীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমবায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথমূলধনি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অংশীদারি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_1st-ch7-mcq-005",
+      "text": "উদ্দীপকের ব্যবসায়ের ক্ষেত্রে প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "সরকার দেশের সাধারণ মানুষের কাছে সুলভ মূল্যে বিদ্যুৎ ও জ্বালানি পৌঁছে দেওয়ার জন্য একটি সংস্থা পরিচালনা করে, সংস্থাটির প্রধান লক্ষ্য মুনাফা অর্জন নয় বরং জনকল্যাণ।",
+      "stem_image": null,
+      "group": "business_org_1st-2026-ALL-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিশেষ আইন দ্বারা গঠিত"
+        },
+        {
+          "label": "ii",
+          "text": "রাষ্ট্র কর্তৃক নিয়ন্ত্রণ ও তদারকি"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যক্তিগত সমাজের মালিকানা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

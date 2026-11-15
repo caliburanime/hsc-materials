@@ -1,0 +1,85 @@
+{
+  "subject": "business_org_1st",
+  "chapter": 11,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "business_org_1st-ch11-mcq-001",
+      "text": "ই-কমার্সের কোন মডেলে সরাসরি ভোক্তাকে পণ্য দেওয়া হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "B2B",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "C2C",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "B2C",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "G2B",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_1st-ch11-mcq-002",
+      "text": "ই-টেইলর (e-tailer) কাকে বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অনলাইন পাইকারী বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনলাইন খুচরা বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুরিয়ার সার্ভিস কোম্পানি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওয়েবসাইট নির্মাতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}
