@@ -1,0 +1,1626 @@
+{
+  "subject": "finance_2nd",
+  "chapter": 6,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "finance_2nd-ch6-mcq-001",
+      "text": "কোন দলিল স্বীকৃতির পর আইনসম্মত দলিলে পরিণত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিনিময় বিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অঙ্গীকারপত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক নোট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-002",
+      "text": "উদ্দীপকের চেকটি কোন ধরনের চেক?",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকে প্রদর্শিত চেকটি লক্ষ কর:",
+      "stem_image": "assets/finance_2nd-2023-BB-18-19-stem.svg",
+      "group": "finance_2nd-2023-BB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশেষভাবে দাগকাটা চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ দাগকাটা চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপহার চেক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-003",
+      "text": "উদ্দীপকে প্রদর্শিত চেকের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "উদ্দীপকে প্রদর্শিত চেকটি লক্ষ কর:",
+      "stem_image": "assets/finance_2nd-2023-BB-18-19-stem.svg",
+      "group": "finance_2nd-2023-BB-18-19",
+      "statements": [
+        {
+          "label": "i",
+          "text": "জনাব জামিল এ চেককে দাগবিহীন চেকে রূপান্তর করতে পারেন"
+        },
+        {
+          "label": "ii",
+          "text": "নির্দিষ্ট কোনো ব্যাংকে জামিল সাহেবের হিসাবে জমা দিয়ে টাকা উত্তোলন করা যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "এ চেকের মাধ্যমে ঋণ আমানত সৃষ্টি করা যাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "BB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-004",
+      "text": "প্রতিশ্রুতি পত্র-এর ক্ষেত্রে প্রয়োজন হয় না কোনটির?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গ্রাহকের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রস্তুতকারীর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক হিসাবের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বাক্ষরের",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-005",
+      "text": "বিশেষ দাগকাটা চেকের উদ্দেশ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জালিয়াতি রোধ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রমাণ্য দলিল"
+        },
+        {
+          "label": "iii",
+          "text": "দ্রুত অর্থ সংগ্রহ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-006",
+      "text": "একটি চেকের মেয়াদকাল কত মাস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-007",
+      "text": "চেকের আদেষ্টা কে?",
+      "text_en": null,
+      "image": null,
+      "stem": "X একটি চেক প্রস্তুত করে Y কে প্রদান করে। Y চেকটি Z এর নিকট অনুমোদন করে এবং অনুমোদনের সময় চেকের উল্টো পিঠে W এর নাম লিখে দেয়। ফলে Z চেকটি হস্তান্তর করতে চাইলেও ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-CB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "X",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Y",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Z",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-008",
+      "text": "চেকটিতে Y কোন ধরনের অনুমোদন করেছিলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "X একটি চেক প্রস্তুত করে Y কে প্রদান করে। Y চেকটি Z এর নিকট অনুমোদন করে এবং অনুমোদনের সময় চেকের উল্টো পিঠে W এর নাম লিখে দেয়। ফলে Z চেকটি হস্তান্তর করতে চাইলেও ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-CB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শর্ত সাপেক্ষ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফাঁকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সীমিত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CB",
+        "year": "2023",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন ও sattacademy উভয়ই (খ) শর্ত সাপেক্ষ দেখায়; কিন্তু অনুমোদনের পর প্রাপক (Z) চেকটি আর হস্তান্তর করতে পারছে না — হস্তান্তর নিষেধকারী অনুমোদন সীমিত অনুমোদন (ঘ); যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-009",
+      "text": "চাহিবামাত্র অর্থ প্রদানের আদেশদানের আইনগত ক্ষমতা কোন পক্ষের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাপক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দেনাদার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রাহক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-010",
+      "text": "আদেষ্টা চেকের উল্টো পিঠে কোনো কিছু না লিখে শুধু তার স্বাক্ষর প্রদান করলে সেটি হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাঁকা অনুমোদন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশেষ অনুমোদন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সীমিত অনুমোদন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শর্তসাপেক্ষে অনুমোদন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-011",
+      "text": "বিনিময় বিলের পক্ষসমূহ হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আদেষ্টা"
+        },
+        {
+          "label": "ii",
+          "text": "আদিষ্ট"
+        },
+        {
+          "label": "iii",
+          "text": "আমানতদার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-012",
+      "text": "উদ্দীপকে উল্লিখিত চেকের ক্ষেত্রে সুরমা ইনস্যুরেন্স কোম্পানি হচ্ছে চেকের—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস আমিনা সুরমা ইনস্যুরেন্স লি. এর নিকট হতে একটি চেক পান। চেকটির বাম কোণায় আড়াআড়ি দাগের মাঝে 'সোনালী ব্যাংক' শব্দগুলো লেখা ছিল। তিনি চেকটি সোনালী ব্যাংকে তার হিসাবে জমা করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-CUB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "আদেষ্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আদিষ্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন (খ) আদিষ্ট-এ; কিন্তু সুরমা ইনস্যুরেন্স চেকটি লিখে মিসেস আমিনাকে দিয়েছে, তাই এটি চেকের আদেষ্টা (ক); আদিষ্ট হলো ব্যাংক।"
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-013",
+      "text": "চেকটি কোন ধরনের চেক?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস আমিনা সুরমা ইনস্যুরেন্স লি. এর নিকট হতে একটি চেক পান। চেকটির বাম কোণায় আড়াআড়ি দাগের মাঝে 'সোনালী ব্যাংক' শব্দগুলো লেখা ছিল। তিনি চেকটি সোনালী ব্যাংকে তার হিসাবে জমা করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-CUB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ দাগকাটা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশেষ দাগকাটা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হুকুম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অনুমোদন প্রাপ্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "CUB",
+        "year": "2023",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-014",
+      "text": "কোন ধরনের চেকে ঝুঁকি বেশি থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাহক চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুকুম চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দাগকাটা চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশেষ চেক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-015",
+      "text": "বিনিময় বিলে কে স্বীকৃতি প্রদান করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আদেষ্টা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আদিষ্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাপক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন (ক) ব্যাংক-এ; কিন্তু বিনিময় বিলে আদিষ্ট (দেনাদার) স্বীকৃতি দেয় — sattacademy-ও (গ)।"
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-016",
+      "text": "জনাব রহমান এর চেকটি কোন ধরনের চেক?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান মি. হক এর কাছ থেকে ১,০০,০০০ টাকার একটি চেক পেয়েছিলেন। কিন্তু ভুলক্রমে তিনি তা ব্যাংকে উপস্থাপন করেন নি। কিছুদিন পর তিনি চেকটি ব্যাংকে জমা দিলে ব্যাংক টাকা প্রদানে অস্বীকৃতি জানায়।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-DB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাসি চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মার্কেট চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপহার চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভ্রমণকারীর চেক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-017",
+      "text": "জনাব রহমান কতদিন পর চেকটি ব্যাংকে জমা দিয়েছিলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান মি. হক এর কাছ থেকে ১,০০,০০০ টাকার একটি চেক পেয়েছিলেন। কিন্তু ভুলক্রমে তিনি তা ব্যাংকে উপস্থাপন করেন নি। কিছুদিন পর তিনি চেকটি ব্যাংকে জমা দিলে ব্যাংক টাকা প্রদানে অস্বীকৃতি জানায়।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-DB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩ মাস পর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪ মাস পর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫ মাস পর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬ মাস পর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-018",
+      "text": "চেকে দাগ কাটার সুবিধা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্রুত অর্থ সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরাপত্তা বিধান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবাধে হস্তান্তর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সহজ লেনদেন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-019",
+      "text": "ফয়সাল সাহেবের এই চেকটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "ফয়সাল সাহেব ১০ মে ২০২৩ তারিখের একটি চেক ২ মে ২০২৩ তারিখে ব্যাংকে উপস্থাপন করলে ব্যাংক তাকে টাকা প্রদানে অস্বীকৃতি জানালেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-DIB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "পূর্ববর্তী তারিখের চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরবর্তী তারিখের চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাতিল চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফাঁকা চেক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-020",
+      "text": "ব্যাংক টাকা প্রদানে অস্বীকৃতি জানানোর কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "ফয়সাল সাহেব ১০ মে ২০২৩ তারিখের একটি চেক ২ মে ২০২৩ তারিখে ব্যাংকে উপস্থাপন করলে ব্যাংক তাকে টাকা প্রদানে অস্বীকৃতি জানালেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-DIB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "নির্ধারিত তারিখের পূর্বে চেকটি উপস্থাপন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হিসাবে যথেষ্ট পরিমাণ টাকা না থাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চেকে তারিখ ভুল থাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নমুনা স্বাক্ষরে মিল না থাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-021",
+      "text": "চেক বই হারিয়ে গেলে তাৎক্ষণিকভাবে কী ব্যবস্থা নিতে হয়?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পত্রিকায় বিজ্ঞপ্তি দিতে হয়"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাংকে জানাতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "থানায় জিডি করতে হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-022",
+      "text": "জনাব হিশাম তার চেকটিকে কী চেকে পরিণত করলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "অধিক নিরাপদ করার জন্য জনাব হিশাম তার বাহক চেকের বাম কোণায় আড়াআড়ি ২টি সমান্তরাল সরলরেখা অঙ্কন করলেন। এই চেকের প্রাপক জনাব জিশান তার ব্যাংক হিসাবে চেকটি জমা দিয়ে টাকা সংগ্রহ করলেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাহক চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুকুম চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দাগ কাটা চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফাঁকা চেক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 2
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-023",
+      "text": "চেকটির প্রাপক জনাব জিশানের ব্যাংক হিসাব না থাকলে কী অসুবিধা হতো?",
+      "text_en": null,
+      "image": null,
+      "stem": "অধিক নিরাপদ করার জন্য জনাব হিশাম তার বাহক চেকের বাম কোণায় আড়াআড়ি ২টি সমান্তরাল সরলরেখা অঙ্কন করলেন। এই চেকের প্রাপক জনাব জিশান তার ব্যাংক হিসাবে চেকটি জমা দিয়ে টাকা সংগ্রহ করলেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "চেক হস্তান্তর করা যেত না",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চেকের টাকা পেতে দেরি হতো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চেকের টাকা সংগ্রহ করা যেত না",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তার ব্যবসায় ঝুঁকির মধ্যে পড়ে যেত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 3
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-024",
+      "text": "যে কারণে চেকের অমর্যাদা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারিখ না লিখলে"
+        },
+        {
+          "label": "ii",
+          "text": "টাকার অঙ্ক না লিখলে"
+        },
+        {
+          "label": "iii",
+          "text": "আমানতকারীর স্বাক্ষর না থাকলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 4
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-025",
+      "text": "একটি বৈধ চেকের মেয়াদ কত দিন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৮০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 5
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-026",
+      "text": "উদ্দীপকের চেকটি কোন ধরনের?",
+      "text_en": null,
+      "image": "assets/finance_2nd-ch6-mcq-026-fig.svg",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভ্রমণকারীর চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপহার চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিশেষ দাগকাটা চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাধারণ দাগকাটা চেক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 10
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং দাগ (গ) বিশেষ দাগকাটায়; কিন্তু দাগের মাঝে কোনো ব্যাংকের নাম নেই, শুধু 'প্রাপকের হিসাবে' লেখা — এটি সাধারণ দাগকাটার একটি রূপ (ঘ); যাচাই প্রয়োজন।"
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-027",
+      "text": "হুকুম চেকের সমস্যা নয় নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লিখতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্থ সংগ্রহে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হস্তান্তরে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিরাপত্তায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 24
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-028",
+      "text": "২০-০৩-২০২৩ তারিখে ইস্যুকৃত চেকে ২০-০২-২০২৩ লিখা থাকলে সেটি কোন ধরনের চেক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাঁকা চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্ব তারিখের চেক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরবর্তী তারিখের চেক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাসি চেক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 25
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-029",
+      "text": "A ১,০০,০০০ টাকা মূল্যের পণ্য B এর নিকট ২ মাসের জন্য বাকিতে বিক্রয় করলেন এবং B যথাসময়ে টাকা পরিশোধ করবেন মর্মে নির্ধারিত ফর্মে স্বাক্ষর করলেন। B এর স্বাক্ষরকৃত ফর্মটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিনিময় বিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অঙ্গীকারপত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফাঁকা অনুমোদন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পূর্ণ অনুমোদন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "MB",
+        "year": "2023",
+        "qno": 26
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-030",
+      "text": "ব্যাংকের প্রতি গ্রাহকের অর্থ পরিশোধের লিখিত আদেশকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চেক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রমিসরি নোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক ড্রাফট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-031",
+      "text": "চেকে জালিয়াতি ও প্রতারণার বিরুদ্ধে ব্যাংকের রক্ষাকবচ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চেকে প্রদত্ত স্বাক্ষরের সাথে নমুনা স্বাক্ষর সতর্কভাবে মিলানো"
+        },
+        {
+          "label": "ii",
+          "text": "চেকের তারিখের সঠিকতা নিরূপণ"
+        },
+        {
+          "label": "iii",
+          "text": "টাকার পরিমাণের সঠিকতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-032",
+      "text": "উদ্দীপকে উল্লিখিত মিজান চেকের কোন পক্ষ?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাশেদ তার দেনাদার জনাব সাইফুলের কাছ থেকে ২ লক্ষ টাকার একটি চেক পান। তিনি অর্থ সংগ্রহের জন্য তার অফিসের হিসাব রক্ষক মিজানকে চেকটি প্রদান করেন। মিজান টাকা উত্তোলনের জন্য ব্যাংকে যাওয়ার পথে চেকটি হারিয়ে ফেলে।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-RB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "অনুমোদনকারী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধারক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আদেষ্টা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আদিষ্ট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-033",
+      "text": "চেক হারানোর পর মিজানের তাৎক্ষণিক কী ব্যবস্থা নেওয়া উচিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাশেদ তার দেনাদার জনাব সাইফুলের কাছ থেকে ২ লক্ষ টাকার একটি চেক পান। তিনি অর্থ সংগ্রহের জন্য তার অফিসের হিসাব রক্ষক মিজানকে চেকটি প্রদান করেন। মিজান টাকা উত্তোলনের জন্য ব্যাংকে যাওয়ার পথে চেকটি হারিয়ে ফেলে।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-RB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যাংকে জানানো"
+        },
+        {
+          "label": "ii",
+          "text": "থানায় জি, ডি করা"
+        },
+        {
+          "label": "iii",
+          "text": "কাউকে না জানানো"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-034",
+      "text": "বিনিময় বিলে সাধারণত কয়টি পক্ষ থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "RB",
+        "year": "2023",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-035",
+      "text": "চেকের আদেষ্টা কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাহক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিসাবের ধারক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-036",
+      "text": "কোন ধরনের চেকের জন্য নিকাশঘর ব্যবস্থার সহায়তা প্রয়োজন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফাঁকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হুকুম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাহক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দাগকাটা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "কোচিং সেন্টারের চিহ্ন ও sattacademy উভয়ই (গ) বাহক দেখায়; কিন্তু দাগকাটা চেকের অর্থ নগদে নয়, ব্যাংক হিসাবের মাধ্যমে (নিকাশঘর হয়ে) সংগ্রহ করতে হয় — তাই (ঘ)।"
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-037",
+      "text": "কেন চেকে দাগ কাটা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরকারের নির্দেশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চেক বাতিলকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সহজে অর্থ উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জালিয়াতি ও প্রতারণা রোধ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch6-mcq-038",
+      "text": "নিচের কোনটি সঠিক দাগ কাটা চেকের নমুনা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": null,
+          "image": "assets/finance_2nd-ch6-mcq-038-opt-a.svg"
+        },
+        {
+          "label": "b",
+          "text": null,
+          "image": "assets/finance_2nd-ch6-mcq-038-opt-b.svg"
+        },
+        {
+          "label": "c",
+          "text": null,
+          "image": "assets/finance_2nd-ch6-mcq-038-opt-c.svg"
+        },
+        {
+          "label": "d",
+          "text": null,
+          "image": "assets/finance_2nd-ch6-mcq-038-opt-d.svg"
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "SB",
+        "year": "2023",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

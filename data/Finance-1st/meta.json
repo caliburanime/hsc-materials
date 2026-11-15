@@ -1,0 +1,101 @@
+{
+  "subject_id": "finance_1st",
+  "subject_name": "ফিন্যান্স, ব্যাংকিং ও বিমা প্রথম পত্র",
+  "subject_name_en": "Finance, Banking and Insurance 1st Paper",
+  "subject_code": 292,
+  "total_chapters": 9,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "অর্থায়নের সূচনা",
+      "name_en": "Introduction to Finance"
+    },
+    {
+      "number": 2,
+      "name": "আর্থিক বাজারের আইনগত দিকসমূহ",
+      "name_en": "Legal Aspects of Financial Markets"
+    },
+    {
+      "number": 3,
+      "name": "অর্থের সময় মূল্য",
+      "name_en": "Time Value of Money"
+    },
+    {
+      "number": 4,
+      "name": "আর্থিক বিশ্লেষণ",
+      "name_en": "Financial Analysis"
+    },
+    {
+      "number": 5,
+      "name": "স্বল্প ও মধ্যমেয়াদি অর্থায়ন",
+      "name_en": "Short and Medium-term Financing"
+    },
+    {
+      "number": 6,
+      "name": "দীর্ঘমেয়াদি অর্থায়ন",
+      "name_en": "Long-term Financing"
+    },
+    {
+      "number": 7,
+      "name": "মূলধন ব্যয়",
+      "name_en": "Cost of Capital"
+    },
+    {
+      "number": 8,
+      "name": "মূলধন বাজেটিং ও বিনিয়োগ সিদ্ধান্ত",
+      "name_en": "Capital Budgeting and Investment Decisions"
+    },
+    {
+      "number": 9,
+      "name": "ঝুঁকি ও মুনাফার হার",
+      "name_en": "Risk and Rate of Return"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": []
+}

@@ -1,0 +1,85 @@
+{
+  "subject": "finance_2nd",
+  "chapter": 8,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "finance_2nd-ch8-mcq-001",
+      "text": "SWIFT কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একটি ব্যাংকিং সংস্থা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একটি পরিশোধ পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ক্রেডিট রেটিং সংস্থা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একটি আন্তর্জাতিক ব্যাংক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch8-mcq-002",
+      "text": "SWIFT কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একটি ব্যাংকিং সংস্থা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রেডিট রেটিং সংস্থা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একটি পরিশোধ পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একটি আন্তর্জাতিক ব্যাংক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DIB",
+        "year": "2023",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

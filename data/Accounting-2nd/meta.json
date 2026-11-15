@@ -1,0 +1,108 @@
+{
+  "subject_id": "accounting_2nd",
+  "subject_name": "হিসাববিজ্ঞান দ্বিতীয় পত্র",
+  "subject_name_en": "Accounting 2nd Paper",
+  "subject_code": 254,
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "অব্যবসায়ী প্রতিষ্ঠানের হিসাব",
+      "name_en": "Accounts of Non-trading Organisations"
+    },
+    {
+      "number": 2,
+      "name": "অংশীদারি ব্যবসায়ের হিসাব",
+      "name_en": "Partnership Accounts"
+    },
+    {
+      "number": 3,
+      "name": "নগদ প্রবাহ বিবরণী",
+      "name_en": "Cash Flow Statement"
+    },
+    {
+      "number": 4,
+      "name": "যৌথমূলধনী কোম্পানির মূলধন",
+      "name_en": "Share Capital of Joint Stock Companies"
+    },
+    {
+      "number": 5,
+      "name": "যৌথমূলধনী কোম্পানির আর্থিক বিবরণী",
+      "name_en": "Financial Statements of Joint Stock Companies"
+    },
+    {
+      "number": 6,
+      "name": "আর্থিক বিবরণী বিশ্লেষণ",
+      "name_en": "Financial Statement Analysis"
+    },
+    {
+      "number": 7,
+      "name": "উৎপাদন ব্যয় হিসাব এবং মজুরি ও বেতন বিবরণী",
+      "name_en": "Cost Sheet and Wages & Salary Statement"
+    },
+    {
+      "number": 8,
+      "name": "মজুদপণ্যের হিসাবরক্ষণ পদ্ধতি",
+      "name_en": "Inventory Accounting Methods"
+    },
+    {
+      "number": 9,
+      "name": "ব্যয় ও ব্যয়ের শ্রেণিবিভাগ",
+      "name_en": "Costs and Cost Classification"
+    },
+    {
+      "number": 10,
+      "name": "ব্যবস্থাপনা হিসাববিজ্ঞান পরিচিতি",
+      "name_en": "Introduction to Management Accounting"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2024"
+  ]
+}

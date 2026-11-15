@@ -1,0 +1,90 @@
+{
+  "subject": "finance_2nd",
+  "chapter": 13,
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "finance_2nd-ch13-mcq-001",
+      "text": "মি. ইসলাম কোন ধরনের বিমা করে ছিলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. ইসলাম তার পাটের গুদাম বিমা করেছিলেন। কিন্তু পাটের সঠিক পরিমাণ উল্লেখ না করার কারণে বিমা কোম্পানি তার বিমাচুক্তি বাতিল করেছে।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-DB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নৌ-বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্ঘটনা বিমা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "DB",
+        "year": "2023",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch13-mcq-002",
+      "text": "জনাব কিসমত কোন প্রকারের বিমা করতে সম্মত হলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব কিসমত একজন পুস্তক ব্যবসায়ী। তিনি এর আগে কখনও বিমা করেননি। তিনি বর্তমানে এমন একটি জায়গায় গুদাম ভাড়া নিয়েছেন তার পাশেই রয়েছে দাহ্য বস্তুর গুদাম। তিনি শঙ্কিত হলেন এবং একজন বিমা প্রতিনিধির পরামর্শ নিলেন। বিমা প্রতিনিধির পরামর্শে তিনি বিমা করতে সম্মত হলেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2023-JB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "দুর্ঘটনা বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নৌ-বিমা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": null,
+      "source": {
+        "board": "JB",
+        "year": "2023",
+        "qno": 18
+      },
+      "tags": [],
+      "difficulty": null
+    }
+  ]
+}

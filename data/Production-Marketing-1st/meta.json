@@ -1,0 +1,108 @@
+{
+  "subject_id": "production_marketing_1st",
+  "subject_name": "উৎপাদন ব্যবস্থাপনা ও বিপণন প্রথম পত্র",
+  "subject_name_en": "Production Management and Marketing 1st Paper",
+  "subject_code": 286,
+  "total_chapters": 10,
+  "chapters": [
+    {
+      "number": 1,
+      "name": "উৎপাদন",
+      "name_en": "Production"
+    },
+    {
+      "number": 2,
+      "name": "উৎপাদনের উপকরণ",
+      "name_en": "Factors of Production"
+    },
+    {
+      "number": 3,
+      "name": "উৎপাদনের মাত্রা",
+      "name_en": "Scale of Production"
+    },
+    {
+      "number": 4,
+      "name": "সামষ্টিক পর্যায়ে উৎপাদন",
+      "name_en": "Aggregate Production"
+    },
+    {
+      "number": 5,
+      "name": "উৎপাদন ব্যবস্থাপনা",
+      "name_en": "Production Management"
+    },
+    {
+      "number": 6,
+      "name": "পণ্য ডিজাইন",
+      "name_en": "Product Design"
+    },
+    {
+      "number": 7,
+      "name": "মান ব্যবস্থাপনা",
+      "name_en": "Quality Management"
+    },
+    {
+      "number": 8,
+      "name": "উৎপাদন ক্ষমতা",
+      "name_en": "Production Capacity"
+    },
+    {
+      "number": 9,
+      "name": "ব্যবসায়ের অবস্থান",
+      "name_en": "Business Location"
+    },
+    {
+      "number": 10,
+      "name": "লে-আউট বা বিন্যাস",
+      "name_en": "Layout"
+    }
+  ],
+  "boards": [
+    {
+      "code": "ALL",
+      "name": "সকল বোর্ড (অভিন্ন প্রশ্ন)"
+    },
+    {
+      "code": "DB",
+      "name": "ঢাকা বোর্ড"
+    },
+    {
+      "code": "RB",
+      "name": "রাজশাহী বোর্ড"
+    },
+    {
+      "code": "CB",
+      "name": "চট্টগ্রাম বোর্ড"
+    },
+    {
+      "code": "JB",
+      "name": "যশোর বোর্ড"
+    },
+    {
+      "code": "SB",
+      "name": "সিলেট বোর্ড"
+    },
+    {
+      "code": "BB",
+      "name": "বরিশাল বোর্ড"
+    },
+    {
+      "code": "DIB",
+      "name": "দিনাজপুর বোর্ড"
+    },
+    {
+      "code": "CUB",
+      "name": "কুমিল্লা বোর্ড"
+    },
+    {
+      "code": "MB",
+      "name": "ময়মনসিংহ বোর্ড"
+    },
+    {
+      "code": "MAD",
+      "name": "মাদ্রাসা বোর্ড"
+    }
+  ],
+  "years_available": [
+    "2023"
+  ]
+}
