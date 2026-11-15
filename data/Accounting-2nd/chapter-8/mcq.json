@@ -46,7 +46,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের আগমন (প্রাপ্তি), নির্গমন (ইস্যু) ও উদ্বৃত্তের পরিমাণ লেখা হয়; এতে মূল্য লেখা হয় না। তাই (i) ও (ii) সঠিক।",
       "source": {
         "board": "BB",
         "year": "2024",
@@ -85,7 +85,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "নিত্য (অবিরত) মজুদ পদ্ধতি মজুদ সংরক্ষণের বৈজ্ঞানিক পদ্ধতি, কারণ এতে প্রতিটি লেনদেনের সাথে সাথে মজুদ হালনাগাদ হয়।",
       "source": {
         "board": "BB",
         "year": "2024",
@@ -124,7 +124,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পচনশীল দ্রব্য আগে ক্রয় করা মাল আগে ব্যবহার বা বিক্রয় করতে হয়, তাই FIFO পদ্ধতি অধিক কার্যকর।",
       "source": {
         "board": "CB",
         "year": "2024",
@@ -163,7 +163,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ক্রয়মূল্য ক্রমান্বয়ে বাড়লে মোট মূল্য বাড়ে, ফলে মোট মূল্যকে মোট পরিমাণ দিয়ে ভাগ করে পাওয়া ভারযুক্ত গড় দরও বৃদ্ধি পায়।",
       "source": {
         "board": "CB",
         "year": "2024",
@@ -216,7 +216,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের আগমন (ii) ও নির্গমন (iii) লেখা হয়। মালের মূল্য (i) লেখা হয় না, তা মাল খতিয়ানে থাকে।",
       "source": {
         "board": "CUB",
         "year": "2024",
@@ -258,7 +258,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: বিক্রয় ২,০০০ একক = ১,৫০০ × ১০ + ৫০০ × ২০\nসমাপনী মজুদ = (১,০০০ − ৫০০) × ২০ + ৫০০ × ১৫ = ১০,০০০ + ৭,৫০০ = ১৭,৫০০ টাকা",
       "source": {
         "board": "CUB",
         "year": "2024",
@@ -300,7 +300,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "২০ জানুয়ারি বিক্রয়ের সময় গড় দর = \\( \\frac{১৫,০০০ + ২০,০০০}{২,৫০০} \\) = ১৪ টাকা\nবিক্রীত পণ্যের ব্যয় = ২,০০০ × ১৪ = ২৮,০০০ টাকা",
       "source": {
         "board": "CUB",
         "year": "2024",
@@ -339,7 +339,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ড গুদামে মাল রাখার স্থানেই সংরক্ষিত হয়, যাতে মালের আগমন-নির্গমন সাথে সাথে লেখা যায়।",
       "source": {
         "board": "DB",
         "year": "2024",
@@ -378,7 +378,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভারযুক্ত গড় পদ্ধতিতে মজুদ মালের মোট মূল্যকে মোট পরিমাণ দিয়ে ভাগ করে একক প্রতি দর নির্ণয় করা হয়।",
       "source": {
         "board": "DB",
         "year": "2024",
@@ -417,7 +417,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ক্রয় অধিযাচন পত্র গুদাম রক্ষক প্রস্তুত করেন, যখন মজুদ পুনঃফরমায়েশ মাত্রায় পৌঁছায়।",
       "source": {
         "board": "DB",
         "year": "2024",
@@ -470,7 +470,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মাল ইস্যুর সময় (তারিখ), প্রাপ্তির পরিমাণ ও ইস্যুকৃত মালের পরিমাণ লেখা থাকে, তাই (i), (ii) ও (iii) সঠিক।",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -512,7 +512,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ৭০০ একক ইস্যু = ৫০০ × ২০ + ২০০ × ২৫ = ১০,০০০ + ৫,০০০ = ১৫,০০০ টাকা",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -554,7 +554,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "উদ্বৃত্ত = ৫০০ + ৩০০ − ৭০০ + ৪০০ − ২০০ = ৩০০ একক",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -593,7 +593,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দাম কমতে থাকলে পুরনো উচ্চ দরের মাল আগে ইস্যু হয় বলে FIFO-তে ব্যয় বেশি ও মুনাফা কম দেখানো হয়, যা রক্ষণশীলতার নীতির সাথে সঙ্গতিপূর্ণ; তাই এটি গ্রহণযোগ্য।",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -632,7 +632,7 @@
       ],
       "answer": "c",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্তের পরিমাণ লেখা থাকে; মূল্য লেখা হয় না।",
       "source": {
         "board": "JB",
         "year": "2024",
@@ -671,7 +671,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "১ জুলাই: ১০০ কেজি × ১০; ১৫ জুলাই ৫০ কেজি ইস্যু, বাকি ৫০ × ১০ = ৫০০ টাকা।\n২০ জুলাই ক্রয় = ১৫০ × ১৫ = ২,২৫০ টাকা\nগুদামের মূল্য = ৫০০ + ২,২৫০ = ২,৭৫০ টাকা",
       "source": {
         "board": "JB",
         "year": "2024",
@@ -724,7 +724,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "মাল খতিয়ানের উপরের ডান পাশে মালের সর্বোচ্চ মাত্রা, সর্বনিম্ন মাত্রা ও পুনঃফরমায়েশ মাত্রা লেখা থাকে।",
       "source": {
         "board": "JB",
         "year": "2024",
@@ -763,7 +763,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ফুয়েলিং স্টেশনে একই জ্বালানি মিশ্রিত অবস্থায় থাকে, আলাদা করা যায় না; তাই ভারযুক্ত গড় পদ্ধতি সবচেয়ে উপযোগী।",
       "source": {
         "board": "MB",
         "year": "2024",
@@ -803,7 +803,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দাম বাড়তে থাকলে FIFO-তে পুরনো কম দরের মাল আগে ইস্যু হয়, ফলে সমাপনী মজুদে সাম্প্রতিক বেশি দরের মাল থাকে এবং এর মূল্য বেশি হয়।",
       "source": {
         "board": "MB",
         "year": "2024",
@@ -857,7 +857,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের আগমন (ii) ও নির্গমন (iii) লেখা হয়। মালের দর (i) থাকে না।",
       "source": {
         "board": "MB",
         "year": "2024",
@@ -896,7 +896,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দাম উঠানামা করলে ভারযুক্ত গড় পদ্ধতি দামের ওঠানামার প্রভাবকে গড় করে ইস্যু মূল্য নির্ধারণ করে, তাই এটি অধিক যুক্তিযুক্ত।",
       "source": {
         "board": "RB",
         "year": "2024",
@@ -935,7 +935,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ড থেকে মজুদের পরিমাণ জানা যায়; এতে মূল্য লেখা হয় না।",
       "source": {
         "board": "RB",
         "year": "2024",
@@ -974,7 +974,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভারযুক্ত গড় পদ্ধতিতে মজুদ মালের মোট মূল্যকে মোট পরিমাণ দিয়ে ভাগ করে একক প্রতি মূল্য নির্ণয় করা হয়।",
       "source": {
         "board": "RB",
         "year": "2024",
@@ -1016,7 +1016,7 @@
       ],
       "answer": "c",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "মোট মূল্য = ২০০ × ২০ + ৩০০ × ৩০ = ৪,০০০ + ৯,০০০ = ১৩,০০০ টাকা\nগড় দর = ১৩,০০০ ÷ ৫০০ = ২৬ টাকা",
       "source": {
         "board": "SB",
         "year": "2024",
@@ -1058,7 +1058,7 @@
       ],
       "answer": "b",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "FIFO: ২৫০ একক ইস্যু = ২০০ × ২০ + ৫০ × ৩০ = ৪,০০০ + ১,৫০০ = ৫,৫০০ টাকা",
       "source": {
         "board": "SB",
         "year": "2024",
@@ -1111,7 +1111,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুনাফাবিহীন বিক্রয় (ক্রয়মূল্যে বিক্রয়) ক্রয় (ii) ও বিক্রয় (iii) উভয় থেকে বাদ দিতে হয়; সমাপনী মজুদ থেকে নয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -1150,7 +1150,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুদ্রা সংকোচনে দাম কমতে থাকে, তখন FIFO পদ্ধতি উপযুক্ত।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -1203,7 +1203,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মাল খতিয়ান (i), অবিরত মজুদ তালিকা (ii) ও বিন কার্ড (iii)—তিনটিই মজুদ মাল নিয়ন্ত্রণের কার্যকর হাতিয়ার।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -1242,7 +1242,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নিত্য মজুদ ব্যবস্থায় প্রতিটি আগমন ও নির্গমনের সাথে সাথে হালনাগাদ হয়, তাই সমাপনী মজুদের পরিমাণ প্রতিদিনই জানা যায়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1281,7 +1281,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পচনশীল পণ্য আগে এলে আগে ব্যবহার করতে হয়, তাই FIFO পদ্ধতি অধিক কার্যকরী।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1321,7 +1321,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মাল অধিযাচনপত্র উৎপাদন বিভাগের ফোরম্যান প্রস্তুত করেন এবং গুদাম থেকে মাল চান।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1360,7 +1360,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FOB destination শর্তে মাল গন্তব্যে পৌঁছানো পর্যন্ত বহনখরচ বিক্রেতা বহন করে এবং মালিকানাও গন্তব্যে হস্তান্তর হয়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1399,7 +1399,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "উৎপাদনকারী প্রতিষ্ঠানে তিন ধরনের মজুদ থাকে: কাঁচামাল, কার্য-চলমান (অসমাপ্ত) পণ্য ও তৈরি পণ্য।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1452,7 +1452,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মাল খতিয়ানে মালের ক্রয় মূল্য (i), ক্রয়ের পরিমাণ (ii) এবং আগমন ও নির্গমন (iii) উল্লেখ থাকে, কারণ এতে পরিমাণ ও মূল্য উভয়ই লেখা হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1494,7 +1494,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ১২ ডিসেম্বর ১৫০ একক বিক্রয় প্রারম্ভিক মজুদ (৫ টাকা) থেকে; বাকি ৫০ × ৫ = ২৫০।\nসমাপনী = ২৫০ + ১০০ × ৬ + ১২০ × ৫ = ২৫০ + ৬০০ + ৬০০ = ১,৪৫০ টাকা",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1536,7 +1536,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিক্রয় = ১৫০ × ৯ = ১,৩৫০ টাকা\nবিক্রীত পণ্যের ব্যয় (FIFO) = ১৫০ × ৫ = ৭৫০ টাকা\nমুনাফা = ১,৩৫০ − ৭৫০ = ৬০০ টাকা",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1575,7 +1575,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ড গুদামরক্ষক সংরক্ষণ করেন, কারণ মাল গ্রহণ ও ইস্যু তাঁর তত্ত্বাবধানে হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1614,7 +1614,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "IAS-02 অনুযায়ী মজুদ মূল্যায়নে LIFO পদ্ধতি নিষিদ্ধ; FIFO ও ভারযুক্ত গড় অনুমোদিত।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1668,7 +1668,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মাল খতিয়ান সংরক্ষণের (মজুদ মূল্যায়নের) পদ্ধতি FIFO (iii) ও LIFO (ii)। কালান্তিক মজুদ পদ্ধতি মজুদ নির্ণয়ের ভিন্ন ব্যবস্থা, তাই (i) নয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1708,7 +1708,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্তের পরিমাণ লেখা হয়; মূল্য নয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1748,7 +1748,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিক্রিত পণ্য বিক্রয়ের পর মজুদে থাকে না, তাই এটি মজুদ পণ্যের অন্তর্ভুক্ত নয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -1790,7 +1790,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ৬০০ একক ইস্যু = ৫০০ × ২০ + ১০০ × ২২ = ১০,০০০ + ২,২০০ = ১২,২০০ টাকা",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -1846,7 +1846,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দাম কমতে থাকায় FIFO-তে ব্যয় বেশি ও মুনাফা কম। ভারযুক্ত গড়ে ব্যয় কম, তাই (i) নিট মুনাফা অধিক দেখানো হবে, (ii) রক্ষণশীলতা মতবাদ অমান্য হবে এবং (iii) ধারাবাহিকতা (ক্রমমূল্য) ধারণা অমান্য হবে। তিনটিই সঠিক।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -1885,7 +1885,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দাম কমতে থাকলে FIFO পদ্ধতি বেশি বিবেচ্য, কারণ এতে মুনাফা কম দেখানো হয় ও রক্ষণশীলতা রক্ষা হয়।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1924,7 +1924,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ড গুদামে মাল রাখার স্থানে সংরক্ষণ করা হয়।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1966,7 +1966,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ৭,০০০ একক ইস্যু = ২,০০০ (৩ টাকা) + ৫,০০০ (৪ টাকা)\nসমাপনী = (২,০০০ + ৮,০০০ − ৭,০০০) = ৩,০০০ একক × ৪ = ১২,০০০ টাকা",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -2008,7 +2008,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিক্রয়যোগ্য পণ্যের ব্যয় = প্রারম্ভিক + ক্রয় = ২,০০০ × ৩ + ৮,০০০ × ৪ = ৬,০০০ + ৩২,০০০ = ৩৮,০০০ টাকা",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -2064,7 +2064,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভারযুক্ত গড় একক ব্যয় = ৩৮,০০০ ÷ ১০,০০০ = ৩.৮০ টাকা, তাই (i) ভুল।\n(ii) সমাপনী মজুদ = ৩,০০০ × ৩.৮ = ১১,৪০০ টাকা—সঠিক।\n(iii) FIFO তে বিক্রীত পণ্যের ব্যয় ২৬,০০০ এবং ভারযুক্ত গড়ে ৭,০০০ × ৩.৮ = ২৬,৬০০ টাকা; অর্থাৎ ৬০০ টাকা বেশি, কম নয়। তাই (iii) ভুল; কেবল (ii) সঠিক।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -2104,7 +2104,7 @@
       ],
       "answer": "c",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "বিন কার্ড গুদামরক্ষক সংরক্ষণ করেন।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -2146,7 +2146,7 @@
       ],
       "answer": "b",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "FIFO: ২৮০ কেজি ইস্যু = ২০০ × ১৫ + ৮০ × ২০ = ৩,০০০ + ১,৬০০ = ৪,৬০০ টাকা\nসমাপনী মজুদ = ২২০ কেজি × ২০ = ৪,৪০০ টাকা",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -2188,7 +2188,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "মোট মূল্য = ২০০ × ১৫ + ৩০০ × ২০ = ৩,০০০ + ৬,০০০ = ৯,০০০ টাকা\nগড় দর = ৯,০০০ ÷ ৫০০ = ১৮ টাকা",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -2227,7 +2227,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্তের পরিমাণ লেখা হয়; মূল্য লেখা হয় না।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -2269,7 +2269,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সমাপনী মজুদ = ২,০০০ + ২,৫০০ − ২,২৫০ = ২,২৫০ কেজি",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -2311,7 +2311,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ২,২৫০ কেজি ইস্যু = ২,০০০ × ১৫ + ২৫০ × ১৬ = ৩০,০০০ + ৪,০০০ = ৩৪,০০০ টাকা",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -2350,7 +2350,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পচনশীল পণ্য আগে এলে আগে ব্যবহার করতে হয়, তাই FIFO যুক্তিযুক্ত।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -2393,7 +2393,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "FIFO: ১,০০০ একক ইস্যু = ৬০০ × ১০ + ৪০০ × ১২ = ৬,০০০ + ৪,৮০০ = ১০,৮০০ টাকা",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -2435,7 +2435,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ইস্যুর সময় গড় দর = \\( \\frac{৬,০০০ + ১০,৮০০}{১,৫০০} \\) = ১১.২০ টাকা\nসমাপনী মজুদ = ৫০০ একক × ১১.২০ = ৫,৬০০ টাকা",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -2474,7 +2474,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ক্রয়াদেশ (অর্ডার) দেওয়া ও মাল সরবরাহ পাওয়ার মধ্যবর্তী সময়কালকে লিড টাইম বলে।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -2513,7 +2513,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিন কার্ডে মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্তের পরিমাণ উল্লেখ থাকে; এখানে ইস্যু ও উদ্বৃত্তের পরিমাণ সম্বলিত বিকল্পটি নির্ধারিত উত্তর।",
       "source": {
         "board": "SB",
         "year": "2023",

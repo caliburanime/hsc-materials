@@ -32,7 +32,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "গড় মুনাফার হার (ARR) পদ্ধতিতে গড় কর-পরবর্তী মুনাফা ব্যবহার করা হয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -85,7 +85,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "আধুনিকীকরণ, পুনঃস্থাপন ও বাজার সম্প্রসারণ—সবই দীর্ঘমেয়াদি বিনিয়োগ সিদ্ধান্ত, তাই মূলধন বাজেটিং-এর আওতাভুক্ত।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -127,7 +127,7 @@
       ],
       "answer": "b",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "প্রকল্প X-এর বার্ষিক আন্তঃপ্রবাহ সমান, তাই\nপে-ব্যাক সময় = \\(\\frac{50{,}000}{20{,}000} = 2.5\\) বছর",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -169,7 +169,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "প্রকল্প X-এর NPV = ২০,০০০ × ৩.৭৯০৮ − ৫০,০০০ ≈ ২৫,৮১৬ টাকা।\nপ্রকল্প Y-এর NPV = ৩০,০০০ × ৩.৭৯০৮ − ১,০০,০০০ ≈ ১৩,৭২৪ টাকা।\nX-এর NPV বেশি, তাই NPV মানদণ্ডে X গ্রহণযোগ্য।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -208,7 +208,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দীর্ঘমেয়াদি বিনিয়োগ সিদ্ধান্ত গ্রহণের প্রক্রিয়াকে মূলধন বাজেটিং বলে।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -247,7 +247,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মূলধন বাজেটিং-এর সনাতনী (অবাট্টাকৃত) পদ্ধতি হলো পে-ব্যাক সময় ও গড় মুনাফার হার (ARR)। NPV, IRR ও PI বাট্টাকৃত পদ্ধতি।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -300,7 +300,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মূলধন বাজেটিং-এর পদ্ধতি হলো পে-ব্যাক সময় (i) ও গড় মুনাফার হার (iii)। \"নিট মুনাফার হার\" এর কোনো পদ্ধতি নয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -339,7 +339,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "IRR মূলধন ব্যয়ের চেয়ে বেশি হলে প্রকল্প গ্রহণযোগ্য। বাকি অবস্থাগুলোতে প্রকল্প বর্জনীয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -378,7 +378,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুনাফা অর্জন সূচক (PI) ১-এর কম হলে নগদ আন্তঃপ্রবাহের বর্তমান মূল্য বিনিয়োগের চেয়ে কম হয় (NPV ঋণাত্মক); তাই স্বাধীন প্রকল্প গ্রহণযোগ্য নয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -417,7 +417,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "যন্ত্রপাতি ক্রয় দীর্ঘমেয়াদি স্থায়ী সম্পত্তিতে বিনিয়োগ, তাই এটি মূলধন বাজেটিং সিদ্ধান্ত। কাঁচামাল, মজুদ পণ্য ও জ্বালানী ক্রয় চলতি কার্যক্রমের অংশ।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -459,7 +459,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ক্রমযোজিত নগদ আন্তঃপ্রবাহ (৩য় বছর) = ৬০,০০০ + ৮০,০০০ + ১,০০,০০০ = ২,৪০,০০০ টাকা",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -501,7 +501,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "২ বছরে ক্রমযোজিত আন্তঃপ্রবাহ = ১,৪০,০০০ টাকা\nবাকি = ১,৫০,০০০ − ১,৪০,০০০ = ১০,০০০ টাকা\nPBP = ২ + \\(\\frac{10{,}000}{1{,}00{,}000}\\) = ২.১০ বছর",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -540,7 +540,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একটি প্রকল্প গ্রহণ করলে অন্যটি বর্জন করতে হয়—এমন প্রকল্পকে পরস্পর বর্জনশীল প্রকল্প বলে।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -579,7 +579,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিনিয়োগ পরিশোধকাল (পে-ব্যাক) অবাট্টাকৃত পদ্ধতি, কারণ এতে অর্থের সময়মূল্য বিবেচিত হয় না। NPV, IRR ও PI বাট্টাকৃত পদ্ধতি।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -618,7 +618,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নিট বর্তমান মূল্য (NPV) ধনাত্মক হলে নগদ আন্তঃপ্রবাহের বর্তমান মূল্য বিনিয়োগের চেয়ে বেশি, তাই প্রকল্প গ্রহণযোগ্য।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -657,7 +657,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সমান বার্ষিক আন্তঃপ্রবাহের ক্ষেত্রে পে-ব্যাক সময় = প্রাথমিক নগদ বহিঃপ্রবাহ ÷ বার্ষিক নগদ আন্তঃপ্রবাহ।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -696,7 +696,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পরস্পর বর্জনশীল প্রকল্পের IRR মূলধন ব্যয় (১৫%) এর চেয়ে বেশি হলে তবেই গ্রহণযোগ্য। A (১২%) ও B (১৪%) উভয়ের IRR ১৫%-এর কম, তাই দুটিই বর্জনীয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -735,7 +735,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ARR = \\(\\frac{\\text{গড় নিট মুনাফা}}{\\text{প্রাথমিক বিনিয়োগ}} \\times 100\\)\n= \\(\\frac{25{,}000}{1{,}00{,}000} \\times 100 = 25\\%\\)",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -774,7 +774,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "গড় মুনাফার হার পদ্ধতিতে কর-পরবর্তী (নিট) মুনাফা ধরা হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -814,7 +814,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "IRR বাট্টার হার (মূলধন ব্যয়) এর চেয়ে বেশি হলে প্রকল্প লাভজনক। (গ)-তে ১৫% > ১২%। (ক) ও (খ)-তে NPV শূন্য এবং (ঘ)-তে IRR কম, তাই লাভজনক নয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -853,7 +853,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নগদ আন্তঃপ্রবাহ ও নগদ বহিঃপ্রবাহের বর্তমান মূল্যের পার্থক্য হলো নিট বর্তমান মূল্য (NPV)।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -895,7 +895,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বার্ষিক অবচয় = \\(\\frac{1{,}00{,}000 - 20{,}000}{10} = 8{,}000\\) টাকা",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -951,7 +951,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মেশিন ক্রয় দীর্ঘমেয়াদি পরিকল্পনা (ii), এর মাধ্যমে অধিক মুনাফা (i) অর্জনের আশা করা হয় এবং এ থেকে নিয়মিত নগদ প্রবাহ (iii) পাওয়া যায়; তাই তিনটিই সঠিক।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -990,7 +990,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পরিশোধকাল পদ্ধতিতে কত সময়ে বিনিয়োগকৃত অর্থ ফেরত পাওয়া যায় তা বিবেচনা করা হয়। এটি অর্থের সময়মূল্য ও পরবর্তী নগদ প্রবাহ বিবেচনা করে না।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1029,7 +1029,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "IRR হলো সেই বাট্টার হার যেখানে নগদ আন্তঃপ্রবাহের বর্তমান মূল্য = বহিঃপ্রবাহের বর্তমান মূল্য; তাই IRR-এ NPV = ০।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1071,7 +1071,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পে-ব্যাক সময় = \\(\\frac{1{,}00{,}000}{18{,}000} = 5.55\\) বছর",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1113,7 +1113,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "৯% হারে ৭ বছরের বার্ষিকীর বর্তমান মূল্য গুণক = ৫.০৩৩\nআন্তঃপ্রবাহের বর্তমান মূল্য = ১৮,০০০ × ৫.০৩৩ ≈ ৯০,৫৯৩ টাকা\nNPV = ৯০,৫৯৩ − ১,০০,০০০ ≈ −৯,৪০৭ টাকা",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1166,7 +1166,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাট্টাকৃত কৌশল হলো NPV (i) ও IRR (ii), যেখানে অর্থের সময়মূল্য বিবেচিত হয়। গড় উপার্জনের হার (iii) অবাট্টাকৃত সনাতনী কৌশল।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1205,7 +1205,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রকল্পের শুরুতে যে প্রাথমিক নগদ বহিঃপ্রবাহ হয় তাকে বিনিয়োগ প্রবাহ বলে।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1244,7 +1244,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মূলধন বাজেটিং-এর প্রথম ধাপ প্রকল্প প্রণয়ন (প্রকল্পের ধারণা ও প্রস্তাব তৈরি); এরপর মূল্যায়ন, নির্বাচন ও বাস্তবায়ন হয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1297,7 +1297,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "অর্থের সময়মূল্য বিবেচনা করা হয় বাট্টাকৃত পদ্ধতিতে: IRR (i) ও NPV (iii)। ARR-এ এটি বিবেচিত হয় না।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1339,7 +1339,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "তৃতীয় বছরের ক্রমযোজিত প্রবাহ = ২০,০০০ + ৩০,০০০ + ৪০,০০০ = ৯০,০০০ টাকা",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1381,7 +1381,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "৩ বছরে ক্রমযোজিত প্রবাহ = ৯০,০০০ টাকা; বাকি = ১০,০০০ টাকা\nPBP = ৩ + \\(\\frac{10{,}000}{40{,}000}\\) = ৩.২৫ বছর = ৩ বছর ৩ মাস",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1420,7 +1420,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ARR (গড় মুনাফার হার) সনাতন বা অবাট্টাকৃত পদ্ধতি; NPV, PI ও IRR আধুনিক বাট্টাকৃত পদ্ধতি।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1459,7 +1459,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "NPV শূন্য বা ধনাত্মক (NPV ≥ ০) হলে প্রকল্প গ্রহণযোগ্য হয়।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1498,7 +1498,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "২ বছরে ক্রমযোজিত প্রবাহ = ৬২,৫০০ + ৫৩,৫০০ = ১,১৬,০০০ টাকা\nবাকি = ১,৫০,০০০ − ১,১৬,০০০ = ৩৪,০০০ টাকা\nPBP = ২ + \\(\\frac{34{,}000}{54{,}500}\\) ≈ ২.৬২ বছর, যা প্রদত্ত বিকল্পগুলোর মধ্যে ২.৬৩ বছরের নিকটতম।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1538,7 +1538,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পুঁজি ফেরতকাল প্রকল্পের আয়ুষ্কালের চেয়ে বেশি হলে আয়ুষ্কালের মধ্যে বিনিয়োগ ফেরত আসে না, তাই প্রকল্প বাতিলযোগ্য।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1577,7 +1577,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "IRR হলো যে হারে NPV = ০ হয়। NPV শূন্য হলে IRR মূলধন ব্যয়ের সমান, অর্থাৎ ১০%।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1616,7 +1616,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পে-ব্যাক সময় পদ্ধতিতে অর্থের সময়মূল্য বিবেচনা করা হয় না। NPV, IRR ও PI বাট্টাকৃত পদ্ধতি।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1658,7 +1658,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "৪র্থ বছরের ক্রমযোজিত প্রবাহ = ২০,০০০ + ২৫,০০০ + ৫৫,০০০ + ৪২,০০০ = ১,৪২,০০০ টাকা",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1700,7 +1700,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "৪ বছরে ক্রমযোজিত প্রবাহ = ১,৪২,০০০ টাকা; বাকি = ১,৫০,০০০ − ১,৪২,০০০ = ৮,০০০ টাকা\nপরিশোধকাল = ৪ + \\(\\frac{8{,}000}{45{,}000}\\) = ৪.১৮ বছর",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1753,7 +1753,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ARR = \\(\\frac{\\text{গড় নিট মুনাফা}}{\\text{গড় বিনিয়োগ}} \\times 100\\), যেখানে গড় নিট মুনাফা নির্ণয়ে নিট মুনাফা ও বছরের সংখ্যা লাগে। তাই (i), (ii) ও (iii) সবই প্রয়োজন।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1795,7 +1795,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "৫ বছরের ১০% বার্ষিকী গুণক = ৩.৭৯০৮\nআন্তঃপ্রবাহের বর্তমান মূল্য = ১৪,০০০ × ৩.৭৯০৮ ≈ ৫৩,০৭১ টাকা\nNPV = ৫৩,০৭১ − ৫০,০০০ = ৩,০৭১ টাকা",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1850,7 +1850,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাট্টার হার কমালে বর্তমান মূল্য বাড়ে, আন্তঃপ্রবাহ বাড়ালে বা বহিঃপ্রবাহ কমালেও NPV বাড়ে। তাই (i), (ii) ও (iii) সবই সঠিক।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -1889,7 +1889,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পে-ব্যাক সময় (PBP) সনাতন কৌশল। NPV, IRR ও PI আধুনিক বাট্টাকৃত কৌশল।",
       "source": {
         "board": "DIB",
         "year": "2023",

@@ -32,7 +32,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "বাজার ঝুঁকি অধিহার = \\((R_m - R_f) \\times \\beta_A\\); অর্থাৎ বাজার ঝুঁকি প্রিমিয়ামকে সংশ্লিষ্ট সম্পদের বিটা দ্বারা গুণ করা হয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -85,7 +85,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "CAPM-এর অনুমান: মুদ্রাবাজার দক্ষ, আয়কর নেই এবং মুদ্রাস্ফীতি নেই। তাই (i), (ii) ও (iii) সবই সঠিক।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -124,7 +124,7 @@
       ],
       "answer": "b",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "\\(R_i = R_f + (R_m - R_f)\\beta\\)\n= ৫ + (১০ − ৫) × ১.৫ = ৫ + ৭.৫ = ১২.৫%",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -163,7 +163,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "হ্যারি মার্কোভিজ ১৯৫২ সালে পোর্টফোলিও তত্ত্ব উদ্ভাবন করেন।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -202,7 +202,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি বেশি হলে প্রত্যাশিত আয়ও বেশি হয়, তাই আয় ও ঝুঁকির সম্পর্ক ধনাত্মক।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -241,7 +241,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সুদের হার সমগ্র বাজারকে প্রভাবিত করে, তাই এটি বাজার ঝুঁকির উপাদান। শ্রমিক ধর্মঘট, কাঁচামালের মূল্য ও চাহিদার পরিবর্তন প্রতিষ্ঠানভিত্তিক বা ব্যবসায়িক ঝুঁকির উপাদান।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -280,7 +280,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ট্রেজারি বিল সরকার ইস্যু করে বলে এতে অর্থ ফেরত না পাওয়ার ঝুঁকি নেই; তাই এটি ঝুঁকিমুক্ত সিকিউরিটি।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -319,7 +319,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাজার আয়ের হার ও ঝুঁকিমুক্ত আয়ের হারের ব্যবধান (\\(R_m - R_f\\)) হলো ঝুঁকি প্রিমিয়াম।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -358,7 +358,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কোম্পানির ঋণ বেশি থাকলে সুদ ও আসল পরিশোধে ব্যর্থতার কারণে আর্থিক ঝুঁকি দেখা দেয়, যা দ্রুত কোম্পানির বিলোপ ঘটাতে পারে।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -397,7 +397,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\(R_i = R_f + (R_m - R_f)\\beta\\)\n= ৬ + (১০ − ৬) × ০.৫০ = ৬ + ২ = ৮%",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -436,7 +436,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "CAPM-এর পূর্ণরূপ Capital Asset Pricing Model।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -475,7 +475,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পোর্টফোলিও গঠনের মূল উদ্দেশ্য বিভিন্ন সিকিউরিটিতে বিনিয়োগ করে ঝুঁকি হ্রাস করা।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -514,7 +514,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একাধিক প্রকল্পের প্রত্যাশিত আয় ভিন্ন হলে প্রতি একক আয়ের ঝুঁকি দেখাতে বিভেদাংক (পরিমিত ব্যবধান ÷ প্রত্যাশিত আয়) উত্তম কৌশল।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -568,7 +568,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সরকারি বন্ড (i) ও ট্রেজারি বিলের (ii) আয়ের হারকে ঝুঁকিমুক্ত আয়ের হার ধরা হয়। কর্পোরেট বন্ডে ঝুঁকি আছে, তাই (iii) সঠিক নয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -610,7 +610,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\(R_i = R_f + (R_m - R_f)\\beta\\)\n= ৯ + (১২ − ৯) × ২.৮০ = ৯ + ৮.৪ = ১৭.৪০%",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -652,7 +652,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নতুন \\(R_i = ৯ + (১৪ − ৯) × ২.৮০ = ৯ + ১৪ = ২৩\\%\\)\nপূর্বের আয় ১৭.৪০%।\nপরিবর্তন = ২৩ − ১৭.৪ = ৫.৬০% বৃদ্ধি",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -691,7 +691,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুদ্রাস্ফীতি সমগ্র অর্থনীতিকে প্রভাবিত করে এবং ক্রয়ক্ষমতা হ্রাস করে, যা বাজার ঝুঁকির (ক্রয়ক্ষমতা ঝুঁকি) অন্তর্ভুক্ত।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -733,7 +733,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যাশিত আয় = \\(\\frac{10 + 17 + 15}{3} = 14\\%\\)",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -775,7 +775,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "গড় = ১৪%; বিচ্যুতি: −৪, +৩, +১\nবিচ্যুতির বর্গের যোগফল = ১৬ + ৯ + ১ = ২৬\nআদর্শ বিচ্যুতি = \\(\\sqrt{\\frac{26}{3-1}} = \\sqrt{13} = 3.61\\)",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -814,7 +814,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কোম্পানি ঝুঁকি (অবাজার ঝুঁকি) পোর্টফোলিও বৈচিত্র্যায়ণের মাধ্যমে কমানো যায়। রাজনৈতিক ঝুঁকি, মূল্যস্ফীতি ও বাজার ঝুঁকি সমগ্র বাজারকে প্রভাবিত করে বলে বৈচিত্র্যায়ণে দূর হয় না।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -853,7 +853,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সমগ্র বাজারের বিটা (β) সবসময় ১ ধরা হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -893,7 +893,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "দুটি সিকিউরিটির প্রত্যাশিত আয় সমান হলে যার পরিমিত ব্যবধান (আদর্শ বিচ্যুতি) কম, তার ঝুঁকিও কম; তাই ঝুঁকি তুলনায় পরিমিত ব্যবধান ব্যবহৃত হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -932,7 +932,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি অধিহার = \\((R_m - R_f)\\beta_i\\), যেখানে \\(\\beta_i\\) সংশ্লিষ্ট সম্পদের বিটা।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -971,7 +971,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঋণ মূলধন ব্যবহারে নির্দিষ্ট সুদ পরিশোধের দায় থাকে, ফলে আর্থিক ঝুঁকির সৃষ্টি হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1010,7 +1010,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যাশিত আয় থেকে প্রকৃত আয়ের পরিবর্তনশীলতাকে ঝুঁকি বলে।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1049,7 +1049,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পোর্টফোলিও তৈরির উদ্দেশ্য একাধিক সিকিউরিটিতে বিনিয়োগ করে মোট ঝুঁকি হ্রাস করা।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1091,7 +1091,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একাধিক কোম্পানির শেয়ারে বিনিয়োগ (পোর্টফোলিও বৈচিত্র্যায়ণ) করলে একটির ক্ষতি অন্যটির লাভে পুষিয়ে যায়, ফলে ঝুঁকি হ্রাস পায়। তবে বাজার ঝুঁকি থাকায় তা শূন্য হয় না।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1130,7 +1130,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি বেশি হলে প্রত্যাশিত মুনাফাও বেশি হয়, তাই ঝুঁকি ও মুনাফার সম্পর্ক ধনাত্মক।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1169,7 +1169,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কাঁচামালের মূল্যের হ্রাস-বৃদ্ধি উৎপাদন ব্যয় ও মুনাফাকে প্রভাবিত করে, যা ব্যবসায়িক ঝুঁকি সৃষ্টি করে।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1222,7 +1222,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "রাজস্ব নীতি (i), সরকারি নীতির পরিবর্তন (ii) ও ঘূর্ণিঝড় (iii) সবই সমগ্র বাজারকে প্রভাবিত করে, তাই এগুলো বাজার ঝুঁকির উৎস।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1261,7 +1261,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পোর্টফোলিওতে সিকিউরিটির সংখ্যা বাড়ালে কোম্পানি-নির্দিষ্ট (অবাজার) ঝুঁকি হ্রাস পায়।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1300,7 +1300,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি পরিমাপের সবচেয়ে গ্রহণযোগ্য পদ্ধতি পরিমিত ব্যবধান (আদর্শ বিচ্যুতি), কারণ এর একক মূল আয়ের এককের সমান।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1339,7 +1339,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি সৃষ্টি হয় ভবিষ্যৎ আয়ের অনিশ্চয়তা থেকে।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1378,7 +1378,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "CAPM-এর পূর্ণরূপ Capital Assets Pricing Model।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1417,7 +1417,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি পরিমাপের উৎকৃষ্ট পদ্ধতি আদর্শ বিচ্যুতি (পরিমিত ব্যবধান)।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1459,7 +1459,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "আরমান কম ঝুঁকির প্রকল্প চান; আদর্শ বিচ্যুতি যত কম, ঝুঁকিও তত কম। গোলাপের আদর্শ বিচ্যুতি সবচেয়ে কম (৬%), তাই এটিই উপযুক্ত।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1501,7 +1501,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিভেদাংক = \\(\\frac{\\text{আদর্শ বিচ্যুতি}}{\\text{প্রত্যাশিত আয়}} \\times 100\\)\n= \\(\\frac{8.5}{18} \\times 100 = 47.22\\% \\approx 47\\%\\)",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1540,7 +1540,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যাশিত আয় = \\(\\frac{12 + 14 + 16}{3} = 14\\%\\)",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1579,7 +1579,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "CAPM-এর পূর্ণরূপ Capital Assets Pricing Model।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1618,7 +1618,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সমগ্র বাজারের বিটা ১.০; এটিই বাজার ঝুঁকির মান।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1657,7 +1657,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি পরিমাপের উৎকৃষ্ট পদ্ধতি আদর্শ বিচ্যুতি।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1699,7 +1699,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রশ্নের প্রদত্ত বিকল্পে ঝুঁকি প্রিমিয়াম বলতে বাজার ঝুঁকি প্রিমিয়াম ধরা হয়েছে:\nঝুঁকি প্রিমিয়াম = \\(R_m - R_f\\) = ১২ − ৭.৫ = ৪.৫%",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1741,7 +1741,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\(R_i = 7.5 + (12 - 7.5) \\times 1.5\\)\n= ৭.৫ + ৬.৭৫ = ১৪.২৫%",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1794,7 +1794,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুদ্রাস্ফীতির ফলে কাঁচামালের মূল্য (i) ও উৎপাদন খরচ (ii) বাড়ে। এতে সাধারণত বিনিয়োগ বাড়ে না, তাই (iii) সঠিক নয়।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1833,7 +1833,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাজার ঝুঁকি সমগ্র অর্থনীতিকে প্রভাবিত করে, তাই বৈচিত্র্যায়ণের মাধ্যমেও এটি পরিহার করা যায় না। কোম্পানি, আর্থিক ও ব্যবসায়িক ঝুঁকি কমানো বা এড়ানো সম্ভব।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1872,7 +1872,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "গড় আয় = \\(\\frac{14 + 15 + 25}{3} = \\frac{54}{3} = 18\\%\\)",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1914,7 +1914,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পোর্টফোলিও আয় = (০.৪০ × ১০) + (০.৬০ × ১২) = ৪ + ৭.২ = ১১.২০%",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1956,7 +1956,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "আয়ের হার অপরিবর্তিত থেকে B-এর পরিমিত ব্যবধান (ঝুঁকি) বাড়লে একই আয়ের জন্য বেশি ঝুঁকি নিতে হয়; তাই B-এ বিনিয়োগ কমিয়ে A-তে বাড়ানো যুক্তিযুক্ত।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1995,7 +1995,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পোর্টফোলিও বৈচিত্র্যায়ণের মূল উদ্দেশ্য ঝুঁকি হ্রাস করা।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -2051,7 +2051,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুরগির খামার ও আপেল কুল চাষে বিনিয়োগ করায় ঝুঁকি কমেছে (i) এবং একটিতে ক্ষতি হলেও অন্যটির লাভে সামগ্রিক লাভ ধরে রাখা গেছে (ii)। খামার পরিকল্পনা সহজ হওয়ার কোনো ইঙ্গিত নেই, তাই (iii) সঠিক নয়।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -2090,7 +2090,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "জ্বালাও-পোড়াও, হরতাল-ধর্মঘট ও যুদ্ধ-বিগ্রহ মানুষের সৃষ্ট। ঘূর্ণিঝড়-জলোচ্ছ্বাস প্রাকৃতিক দুর্যোগ।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2129,7 +2129,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি বেশি হলে প্রত্যাশিত আয় বেশি হয়, তাই আয় ও ঝুঁকির সম্পর্ক ধনাত্মক।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2168,7 +2168,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঋণ মূলধন ব্যবহারের ফলে সুদ পরিশোধের বাধ্যবাধকতা থেকে যে ঝুঁকি সৃষ্টি হয় তা আর্থিক ঝুঁকি।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -2206,7 +2206,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুদ্রাস্ফীতি সমগ্র অর্থনীতিকে প্রভাবিত করে এবং ক্রয়ক্ষমতা কমায়, তাই এটি বাজার ঝুঁকির সাথে সম্পর্কিত।",
       "source": {
         "board": "DIB",
         "year": "2023",

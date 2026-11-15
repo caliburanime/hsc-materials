@@ -32,7 +32,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "উৎপাদন একক বাড়লে মোট স্থির ব্যয় অপরিবর্তিত থাকায় একক প্রতি স্থির ব্যয় হ্রাস পায়।",
       "source": {
         "board": "CB",
         "year": "2024",
@@ -72,7 +72,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একক প্রতি ব্যয় = ২,০০০ ÷ ১০০ = ২০ টাকা\nব্যয় = বিক্রয়মূল্যের ৮০%, তাই বিক্রয়মূল্য = ২০ ÷ ০.৮ = ২৫ টাকা",
       "source": {
         "board": "CB",
         "year": "2024",
@@ -111,7 +111,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ শ্রম + কারখানা (উৎপাদন) উপরিখরচ।",
       "source": {
         "board": "DB",
         "year": "2024",
@@ -150,7 +150,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একক প্রতি ব্যয় = ১,০০০ ÷ ২০ = ৫০ টাকা\nবিক্রয়মূল্য = ৫০ ÷ ০.৮ = ৬২.৫০ টাকা",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -189,7 +189,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিক্রয়মূল্য = ৮০০ × ৩ = ২,৪০০ টাকা\nলাভ = ২,৪০০ − ৮০০ = ১,৬০০ টাকা",
       "source": {
         "board": "DIB",
         "year": "2024",
@@ -228,7 +228,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ মজুরি + কারখানা উপরিব্যয় = ২০,০০০ + ১,০০,০০০ = ১,২০,০০০ টাকা। অন্যান্য উপরিব্যয় এতে ধরা হয় না।",
       "source": {
         "board": "MB",
         "year": "2024",
@@ -281,7 +281,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যক্ষ কাঁচামাল (i) ও প্রত্যক্ষ মজুরি (iii) উৎপাদনের পরিমাণের সাথে পরিবর্তিত হয়, তাই পরিবর্তনশীল ব্যয়। অবচয় স্থির ব্যয়।",
       "source": {
         "board": "RB",
         "year": "2024",
@@ -320,7 +320,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিজ্ঞাপন ব্যয় বিক্রয় প্রসার ও বিপণনের সাথে সম্পর্কিত, তাই এটি বিপণন ব্যয়।",
       "source": {
         "board": "RB",
         "year": "2024",
@@ -359,7 +359,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একক প্রতি ব্যয় = ৩০০ ÷ ১০ = ৩০ টাকা\nব্যয় = বিক্রয়মূল্যের ৭৫%, তাই বিক্রয়মূল্য = ৩০ ÷ ০.৭৫ = ৪০ টাকা",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -398,7 +398,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিদ্যুৎ খরচের একটি অংশ স্থির (নির্ধারিত চার্জ) এবং একটি অংশ ব্যবহারের সাথে পরিবর্তিত হয়, তাই এটি আধা-পরিবর্তনশীল ব্যয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -451,7 +451,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নিমজ্জিত ব্যয় অতীতে সংঘটিত (iii) এবং ভবিষ্যৎ সিদ্ধান্তে প্রভাব ফেলে না বলে অপ্রাসঙ্গিক ব্যয় (ii)। এটি প্রাসঙ্গিক নয়।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -490,7 +490,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যক্ষ কাঁচামাল ব্যয় মুখ্য ব্যয়ের উপাদান। কারখানা উপরিব্যয়, অফিস ও বিক্রয় খরচ মুখ্য ব্যয়ের অন্তর্ভুক্ত নয়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -529,7 +529,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যক্ষ কাঁচামাল উৎপাদিত পণ্যের সাথে সরাসরি শনাক্তযোগ্য, তাই এটি প্রত্যক্ষ ব্যয় ও মুখ্য ব্যয়ের অংশ; কারখানা উপরিব্যয় নয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -582,7 +582,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "যন্ত্রপাতির অবচয় (i) ও পরোক্ষ মজুরি (iii) কারখানা উপরিব্যয়। জাহাজ ভাড়া বিক্রয় ও বিতরণ উপরিব্যয়ের অন্তর্ভুক্ত।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -635,7 +635,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কাঁচামাল, শ্রম ও অন্যান্য ব্যয়—এ তিনটিই ব্যয়ের উপাদান।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -674,7 +674,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কারখানা ভাড়া উৎপাদনের সাথে সরাসরি শনাক্ত করা যায় না, তাই পরোক্ষ ব্যয়। অন্যগুলো প্রত্যক্ষ ব্যয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -713,7 +713,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রত্যক্ষ কাঁচামাল মুখ্য ব্যয়ের অন্তর্ভুক্ত; কারখানা ভাড়া, প্রশাসনিক ও বিক্রয় খরচ নয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -752,7 +752,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "আচরণের ভিত্তিতে উৎপাদন ব্যয় তিন প্রকার: স্থির, পরিবর্তনশীল ও আধা-পরিবর্তনশীল ব্যয়।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -791,7 +791,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিজ্ঞাপন ব্যয় বিক্রয় ও বণ্টন উপরিব্যয়ের অন্তর্ভুক্ত। অতিরিক্ত সময়ের মজুরি কারখানা ব্যয় এবং অফিস কর্মচারীদের বেতন প্রশাসনিক ব্যয়।",
       "source": {
         "board": "SB",
         "year": "2023",

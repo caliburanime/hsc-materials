@@ -32,7 +32,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "অর্থের সময়মূল্য নির্ণয়ের মূল কারণ সুদের হার; সুদের কারণে আজকের অর্থের মূল্য ভবিষ্যতের একই পরিমাণ অর্থ থেকে বেশি।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -71,7 +71,7 @@
       ],
       "answer": "c",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "ঋণ পরিশোধ সূচিতে কিস্তি সমান থাকে; সুদ ক্রমে কমে এবং আসল পরিশোধের অংশ ক্রমান্বয়ে বাড়ে।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -113,7 +113,7 @@
       ],
       "answer": "d",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "এশিয়া ব্যাংক বার্ষিক চক্রবৃদ্ধি দেয়।\n\\( FV = PV(1+i)^n = 1{,}00{,}000 \\times (1.10)^5 \\)\n\\( = 1{,}00{,}000 \\times 1.61051 = 1{,}61{,}051 \\) টাকা (প্রায় ১,৬১,০৫০)।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -169,7 +169,7 @@
       ],
       "answer": "a",
       "answer_source": "printed",
-      "explanation": null,
+      "explanation": "দুই ব্যাংকের সুদের হার তুলনার জন্য কার্যকরী সুদের হার (i) নির্ণয় করতে হয় এবং ভবিষ্যৎ মূল্য (ii) নির্ণয় করে মেয়াদ শেষে প্রাপ্তি জানা যায়। জমার পরিমাণ আগেই জানা থাকায় বর্তমান মূল্য (iii) নির্ণয়ের প্রয়োজন হয় না।",
       "source": {
         "board": "ALL",
         "year": "2026",
@@ -211,7 +211,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "জনাব সাজু একবারে ৫,০০,০০০ টাকা জমা দিয়েছেন এবং মেয়াদ শেষে একবারেই ফেরত পাবেন, তাই এটি এককালীন নগদ প্রবাহ।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -253,7 +253,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ত্রৈমাসিক চক্রবৃদ্ধিতে \\( m = 4 \\), \\( i = 8\\% \\)।\n\\( EIR = \\left(1+\\frac{0.08}{4}\\right)^4 - 1 = (1.02)^4 - 1 \\)\n\\( = 1.0824 - 1 = 0.0824 = 8.24\\% \\)",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -292,7 +292,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধি সুদে সুদাসলের (আসল + পূর্ববর্তী সুদ) উপর সুদ ধরা হয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -331,7 +331,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কার্যকরী সুদের হার নির্ণয়ের সূত্র \\( EIR = \\left(1+\\frac{i}{m}\\right)^m - 1 \\), যেখানে \\( m \\) হলো বছরে চক্রবৃদ্ধির সংখ্যা।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -370,7 +370,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সময়ের সাথে মুদ্রাস্ফীতির ফলে দ্রব্যমূল্য বাড়ে এবং অর্থের ক্রয়ক্ষমতা কমে।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -417,7 +417,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভবিষ্যৎ অর্থকে বাট্টা হার দিয়ে বাট্টাকরণ করে যে মূল্য পাওয়া যায় তা বর্তমান মূল্য।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -470,7 +470,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঋণ পরিশোধ তালিকায় প্রতিটি কিস্তির পরিমাণ (i), তার মধ্যে সুদের অংশ (ii) এবং আসল পরিশোধের অংশ (iii) দেখানো হয়।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -509,7 +509,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বছরে ৪ বার, অর্থাৎ প্রতি তিন মাসে একবার চক্রবৃদ্ধি হয়, তাই চক্রবৃদ্ধির সংখ্যা ৪।",
       "source": {
         "board": "DB",
         "year": "2023",
@@ -548,7 +548,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কার্যকরি সুদের হার নির্ণয়ের সূত্র \\( EIR = \\left(1+\\frac{i}{m}\\right)^m - 1 \\)।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -587,7 +587,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভবিষ্যৎ মূল্য নির্ণয়ের কৌশলকে চক্রবৃদ্ধিকরণ (Compounding) বলে; বর্তমান মূল্য নির্ণয়ের কৌশলকে বাট্টাকরণ বলে।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -626,7 +626,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধি পদ্ধতিতে প্রতি সময়ে সুদাসলের (আসল ও পূর্বের সুদ) উপর সুদ ধরা হয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -668,7 +668,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিধি ৭২ অনুযায়ী দ্বিগুণ হওয়ার সময় \\( = \\frac{72}{\\text{সুদের হার}} = \\frac{72}{8} = 9 \\) বছর।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -710,7 +710,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "অর্ধ-বার্ষিক চক্রবৃদ্ধিতে \\( m = 2 \\)।\n\\( EIR = \\left(1+\\frac{0.08}{2}\\right)^2 - 1 = (1.04)^2 - 1 = 0.0816 = 8.16\\% \\)",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -749,7 +749,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সাধারণ বার্ষিক বৃত্তিতে প্রতিটি কিস্তি প্রতি মেয়াদের শেষে পরিশোধ করা হয়।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -803,7 +803,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঋণ পরিশোধ সূচির প্রতি কিস্তিতে আসল টাকা (i) ও সুদ (ii) থাকে। কমিশন (iii) এতে বিবেচিত হয় না।",
       "source": {
         "board": "RB",
         "year": "2023",
@@ -842,7 +842,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একক নগদ প্রবাহের ভবিষ্যৎ মূল্যের সূত্র \\( FV = PV(1+i)^n \\)।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -895,7 +895,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "অর্থের সময়মূল্য নির্ণয়ে সময়কাল (i), সুদের হার (ii) এবং চক্রবৃদ্ধির সংখ্যা (iii) বিবেচনা করা হয়।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -937,7 +937,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "জনাব বাবু একবার জমা দিয়ে মেয়াদ শেষে একবারেই ফেরত পান, তাই এটি একক (এককালীন) নগদ প্রবাহ।",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -979,7 +979,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "টাকা দ্বিগুণ হয়েছে, তাই \\( FV = 2PV \\)।\n\\( 2 = (1+i)^6 \\Rightarrow 1+i = 2^{1/6} = 1.1225 \\)\n\\( i = 0.1225 = 12.25\\% \\)",
       "source": {
         "board": "CB",
         "year": "2023",
@@ -1018,7 +1018,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "প্রতি বছরের শুরুতে সমপরিমাণ অর্থ প্রদান বা গ্রহণ করাকে অগ্রীম বার্ষিকী বলে।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1057,7 +1057,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বিধি ৭২ অনুযায়ী সুদের হার \\( = \\frac{72}{9} = 8\\% \\)।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1110,7 +1110,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মুদ্রাস্ফীতি (i), অনিশ্চয়তা (ii) ও বিনিয়োগের সুযোগ (iii)—তিনটিই মানুষকে বর্তমান অর্থ পছন্দ করতে বাধ্য করে।",
       "source": {
         "board": "JB",
         "year": "2023",
@@ -1163,7 +1163,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সময়ের সাথে দ্রব্যমূল্য বাড়ে (iii) ও অর্থের ক্রয়ক্ষমতা কমে (i)। অর্থের মূল্য বাড়ে না, তাই ii সঠিক নয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1202,7 +1202,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "পাক্ষিক চক্রবৃদ্ধিতে বছরে ২৪ বার (প্রতি ১৫ দিনে একবার) চক্রবৃদ্ধি হয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1241,7 +1241,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধির সংখ্যা যত বেশি, ভবিষ্যৎ মূল্য তত বেশি। বিকল্পগুলোর মধ্যে পাক্ষিকে বছরে সর্বাধিক (২৪) বার চক্রবৃদ্ধি হয়।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1280,7 +1280,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধিকরণে অর্থ বাড়ে আর বাট্টাকরণে কমে, অর্থাৎ দুটি পরস্পর বিপরীতমুখী প্রক্রিয়া।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1322,7 +1322,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "একবারে ২৭,০০০ টাকা জমা দিয়ে মেয়াদ শেষে একবারেই তোলা হবে, তাই এটি এককালীন নগদ প্রবাহ।",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1364,7 +1364,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\( FV = 27{,}000 \\times (1.12)^{10} \\)\n\\( = 27{,}000 \\times 3.1058 \\approx 83{,}858 \\) টাকা",
       "source": {
         "board": "CUB",
         "year": "2023",
@@ -1403,7 +1403,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "কিস্তি \\( = \\frac{\\text{ঋণ}}{PVIFA_{10\\%,5}} = \\frac{2{,}00{,}000}{3.7908} \\)\n\\( \\approx 52{,}760 \\) টাকা",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1445,7 +1445,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মি. আবীর একবার জমা দিয়ে মেয়াদ শেষে একবারেই টাকা পাবেন, তাই এটি এককালীন নগদ প্রবাহ।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1487,7 +1487,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\( 2 = (1+i)^5 \\Rightarrow 1+i = 2^{1/5} = 1.1487 \\)\nসুদের হার \\( i = 0.1487 = 14.87\\% \\)",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1541,7 +1541,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভোগ (i), অর্থের তারল্য (ii) ও সুদহার (iii) অর্থের সময়মূল্যের নির্ধারক।",
       "source": {
         "board": "MB",
         "year": "2023",
@@ -1580,7 +1580,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "অসীম বার্ষিক বৃত্তির (চিরস্থায়ী) বর্তমান মূল্য \\( = \\frac{1{,}000}{0.10} = 10{,}000 \\) টাকা।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1633,7 +1633,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ভবিষ্যৎ মূল্য \\( FV = PV(1+i)^n \\) সূত্রে বর্তমান মূল্য, সুদের হার ও বছরের সংখ্যা তিনটিই প্রয়োজন।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1675,7 +1675,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "মি. হানিফ একবারে ২০,০০০ টাকা জমা দিয়েছেন এবং মেয়াদ শেষে একবারেই ফেরত পাবেন, তাই এটি এককালীন নগদ প্রবাহ।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1717,7 +1717,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\( FV = 20{,}000 \\times (1.10)^{10} = 20{,}000 \\times 2.5937 \\)\n\\( \\approx 51{,}875 \\) টাকা",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1756,7 +1756,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাট্টাকরণে চক্রবৃদ্ধির সংখ্যা যত বেশি, বর্তমান মূল্য তত কম। বিকল্পগুলোর মধ্যে পাক্ষিকে সংখ্যা সর্বাধিক, তাই এর বর্তমান মূল্য সর্বনিম্ন।",
       "source": {
         "board": "SB",
         "year": "2023",
@@ -1795,7 +1795,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "বাট্টাকরণ (বর্তমান মূল্য নির্ণয়) এর বিপরীত পদ্ধতি চক্রবৃদ্ধিকরণ (ভবিষ্যৎ মূল্য নির্ণয়)।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1848,7 +1848,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধি সুদে সুদাসলের উপর সুদ ধরা হয় (i) এবং বিগত বছরের সুদ আসলের সাথে যোগ হয় (iii)। শুধু আসলের উপর সুদ ধরা সরল সুদের বৈশিষ্ট্য (ii)।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1887,7 +1887,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "নগদ প্রবাহের বর্তমান মূল্য নির্ণয়ে ভবিষ্যৎ নগদ প্রবাহকে বাট্টা হার দিয়ে বাট্টাকরণ করতে হয়, তাই বাট্টার হার প্রয়োজন।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1940,7 +1940,7 @@
       ],
       "answer": "c",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ঝুঁকি হ্রাস অর্থের সময় পছন্দের কারণ নয়। ভোগ অগ্রাধিকার (ii) ও অনিশ্চয়তা (iii) কারণ, কেননা মানুষ বর্তমান ভোগকে অগ্রাধিকার দেয় এবং ভবিষ্যৎ অনিশ্চিত মনে করে।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -1979,7 +1979,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "চক্রবৃদ্ধির সংখ্যা বেশি হলে অর্থ দ্বিগুণ হওয়ার সময় নির্ণয়ে সাধারণ বিধি ৭২-এর পরিবর্তে বিধি-৬৯ ব্যবহার করা হয়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2018,7 +2018,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সরল সুদ \\( SI = P \\times i \\times n \\), যেখানে \\( P \\) আসল, \\( i \\) সুদের হার, \\( n \\) সময়।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2060,7 +2060,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "\\( PV = \\frac{FV}{(1+i)^n} = \\frac{50{,}00{,}000}{(1.09)^5} \\)\n\\( = 50{,}00{,}000 \\times 0.6499 \\approx 32{,}49{,}659 \\) টাকা",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2102,7 +2102,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "ব্যাংকে টাকা জমা রাখায় মিস শামীমা যে সুদ পাচ্ছেন, তা ট্রাক কেনার জন্য এখন টাকা খরচ না করার ত্যাগের বিপরীতে প্রাপ্ত সুবিধা, যা সুযোগ ব্যয়ের ধারণা।",
       "source": {
         "board": "BB",
         "year": "2023",
@@ -2141,7 +2141,7 @@
       ],
       "answer": "a",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "জানুয়ারি ১ তারিখে, অর্থাৎ বছরের শুরুতে প্রতি বছর সমান ২,০০০ টাকা জমা হলে তা অগ্রিম বার্ষিক বৃত্তি।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -2180,7 +2180,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "PVIF-এর পূর্ণরূপ Present Value Interest Factor।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -2221,7 +2221,7 @@
       ],
       "answer": "b",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "সরল সুদ \\( = 1{,}200 \\times 0.06 \\times 3 = 216 \\) টাকা।",
       "source": {
         "board": "DIB",
         "year": "2023",
@@ -2276,7 +2276,7 @@
       ],
       "answer": "d",
       "answer_source": "derived",
-      "explanation": null,
+      "explanation": "i: \\( FV = 1{,}200 \\times (1.06)^3 = 1{,}200 \\times 1.1910 \\approx 1{,}429 \\) টাকা, সঠিক।\nii: চক্রবৃদ্ধি সুদ \\( = 1{,}429 - 1{,}200 = 229 \\) টাকা, সঠিক।\niii: \\( 229 > 216 \\), তাই চক্রবৃদ্ধি সুদ সরল সুদের চেয়ে বেশি, সঠিক।",
       "source": {
         "board": "DIB",
         "year": "2023",
