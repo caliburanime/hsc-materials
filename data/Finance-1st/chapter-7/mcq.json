@@ -210,6 +210,137 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-006",
+      "text": "ঋণের ব্যয় পরিবর্তন হয় কোনটির কারণে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুদ্রাস্ফীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুদ্রানীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লভ্যাংশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জামানত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মুদ্রাস্ফীতির ফলে সুদের হার ও অর্থের ক্রয়ক্ষমতা পরিবর্তিত হয়, ফলে ঋণের প্রকৃত ব্যয়ও পরিবর্তিত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-007",
+      "text": "উত্তরণ ব্যয়ের উপাদান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অবলেখকের কমিশন"
+        },
+        {
+          "label": "ii",
+          "text": "আইন ফি"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রয় কমিশন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উত্তরণ ব্যয় (Flotation Cost) হলো সিকিউরিটি ইস্যুর ব্যয়; অবলেখকের কমিশন, আইন ফি ও বিক্রয় কমিশন সবই এর অন্তর্ভুক্ত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch7-mcq-008",
+      "text": "বন্ড ইস্যুকরণ ব্যয়কে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উত্তরণ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুপন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণের ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বন্ড বা সিকিউরিটি ইস্যু করতে যে ব্যয় হয় তাকে উত্তরণ ব্যয় (Flotation Cost) বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

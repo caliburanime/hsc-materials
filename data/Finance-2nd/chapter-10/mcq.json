@@ -818,6 +818,14 @@
         "qno": 25,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 18,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1625,6 +1633,1789 @@
         "board": "SB",
         "year": "2023",
         "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-039",
+      "text": "নিচের কোনটির মাধ্যমে বিমা ব্যবসায়ের উদ্ভব হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নৌ বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চৌর্য বিমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমুদ্রপথে বাণিজ্যের ঝুঁকি মোকাবেলায় প্রথম নৌ বিমার উদ্ভব হয়, পরে অন্যান্য বিমা বিকশিত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-040",
+      "text": "বাংলাদেশে বিমা ব্যবসায়ের নিয়ন্ত্রক সংস্থা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "MRA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "BSEC",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "IDRA",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাংলাদেশে বিমা ব্যবসায়ের নিয়ন্ত্রক সংস্থা বিমা উন্নয়ন ও নিয়ন্ত্রণ কর্তৃপক্ষ (IDRA)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-041",
+      "text": "ক্ষতিপূরণের চুক্তি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অগ্নি বিমা"
+        },
+        {
+          "label": "ii",
+          "text": "জীবন বিমা"
+        },
+        {
+          "label": "iii",
+          "text": "নৌ বিমা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অগ্নি ও নৌ বিমা প্রকৃত ক্ষতির পরিমাণ অনুযায়ী ক্ষতিপূরণের চুক্তি। জীবন বিমা ক্ষতিপূরণের চুক্তি নয়, এটি নিশ্চয়তার চুক্তি।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-042",
+      "text": "উদ্দীপকে জনাব নাসির কোন ধরনের বিমা করতে চেয়েছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব নাসির দীর্ঘদিন ধরে একটি বাড়িতে ভাড়া থাকেন। তিনি নিজ নামে বাড়িটির বিমা করতে চাইলে বিমা কোম্পানি তাতে অপারগতা প্রকাশ করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-BB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "দায় বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সামাজিক বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পত্তি বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্ঘটনা বিমা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জনাব নাসির ভাড়া বাসার বিমা করতে চেয়েছেন; বাড়ি একটি সম্পত্তি, তাই এটি সম্পত্তি বিমা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-043",
+      "text": "উদ্দীপকে বিমা কোম্পানি কর্তৃক জনাব নাসিরের প্রস্তাব প্রত্যাখানের কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব নাসির দীর্ঘদিন ধরে একটি বাড়িতে ভাড়া থাকেন। তিনি নিজ নামে বাড়িটির বিমা করতে চাইলে বিমা কোম্পানি তাতে অপারগতা প্রকাশ করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-BB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকির আধিক্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নির্দিষ্টতার অভাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চূড়ান্ত সদ্বিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিমাযোগ্য স্বার্থের অনুপস্থিতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জনাব নাসির ভাড়াটিয়া, বাড়ির মালিক নন; বাড়ি নষ্ট হলে তাঁর আর্থিক ক্ষতি নেই। তাই বিমাযোগ্য স্বার্থ না থাকায় কোম্পানি প্রস্তাব প্রত্যাখ্যান করেছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-044",
+      "text": "বিমা চুক্তির সাধারণ উপাদানসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্বেচ্ছাসায়"
+        },
+        {
+          "label": "ii",
+          "text": "প্রস্তাব ও স্বীকৃতি"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যক্ষ কারণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্বেচ্ছাসম্মতি এবং প্রস্তাব ও স্বীকৃতি বিমা চুক্তির সাধারণ উপাদান। প্রত্যক্ষ কারণ বিমার একটি মূলনীতি, চুক্তির সাধারণ উপাদান নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-045",
+      "text": "বিমা কোম্পানি কর্তৃক অন্যের ঝুঁকি বহন করার বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রিমিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিমাকারী ঝুঁকি গ্রহণের বিনিময়ে বিমাগ্রহীতার কাছ থেকে যে অর্থ নেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-046",
+      "text": "বিমা কোম্পানি কর্তৃক অন্যের ঝুঁকি গ্রহণের বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রিমিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিমাকারী ঝুঁকি গ্রহণের বিনিময়ে বিমাগ্রহীতার কাছ থেকে যে অর্থ নেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-047",
+      "text": "বিমাকৃত বিষয়বস্তুর ওপর বিমা গ্রহীতার আর্থিক স্বার্থকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জনস্বার্থ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বস্তুগত স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইনগত স্বার্থ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিমাকৃত বিষয়বস্তুর ক্ষতিতে বিমাগ্রহীতার যে আর্থিক ক্ষতি হয়, সেই আর্থিক স্বার্থকে বিমাযোগ্য স্বার্থ বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-048",
+      "text": "নিচের কোনটি বিমা চুক্তির সাধারণ উপাদান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চূড়ান্ত সদ্বিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রস্তাব ও স্বীকৃতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থলাভিষিক্তকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যক্ষ কারণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রস্তাব ও স্বীকৃতি বিমা চুক্তির সাধারণ উপাদান। চূড়ান্ত সদ্বিশ্বাস, স্থলাভিষিক্তকরণ ও প্রত্যক্ষ কারণ বিমার মূলনীতি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-049",
+      "text": "উদ্দীপকে যে নীতির কারণে জনাব আকাশ তার গাড়িটি বিমা কোম্পানিকে দিয়ে দিতে বাধ্য হয় সেটির বৈশিষ্ট্যসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আকাশ তার ব্যক্তিগত গাড়িটি ১০ লক্ষ টাকায় বিমা করেন। গাড়িটি দুর্ঘটনায় সম্পূর্ণ ক্ষতিগ্রস্ত হলে বিমা কোম্পানি ক্ষতিপূরণ প্রদান করে। ক্ষতিগ্রস্ত গাড়িটি বিমা কোম্পানি নিয়ে যেতে চাইলে জনাব আকাশ প্রথমে বাধা দেন। কিন্তু পরবর্তীতে গাড়িটি দিয়ে দিতে বাধ্য হন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CB-14-15",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমাকৃত সম্পত্তি সম্পূর্ণ ক্ষতিগ্রস্ত হবে"
+        },
+        {
+          "label": "ii",
+          "text": "বিমাকারী বিমা গ্রহীতাকে সম্পূর্ণ ক্ষতিপূরণ দিবে"
+        },
+        {
+          "label": "iii",
+          "text": "ক্ষতিগ্রস্ত সম্পত্তির মালিকানা বিমাকারীর নিকট হস্তান্তরিত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জনাব আকাশের ক্ষেত্রে স্থলাভিষিক্তকরণ নীতি প্রযোজ্য। এ নীতিতে সম্পত্তি সম্পূর্ণ ক্ষতিগ্রস্ত হলে বিমাকারী পূর্ণ ক্ষতিপূরণ দেয় এবং ক্ষতিগ্রস্ত সম্পত্তির মালিকানা বিমাকারীর কাছে চলে যায়; তাই (i), (ii) ও (iii) সবই সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-050",
+      "text": "পুনঃবিমার ক্ষেত্রে থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একাধিক বিমা গ্রহীতা"
+        },
+        {
+          "label": "ii",
+          "text": "একাধিক বিমাকারী"
+        },
+        {
+          "label": "iii",
+          "text": "একক বিমাগ্রহীতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পুনঃবিমায় মূল বিমাকারী নিজে বিমাগ্রহীতা হিসেবে ঝুঁকির একটি অংশ একাধিক বিমাকারীর কাছে হস্তান্তর করে; তাই বিমাগ্রহীতা একক এবং বিমাকারী একাধিক। একাধিক বিমাগ্রহীতা থাকে না, তাই (i) ভুল।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-051",
+      "text": "নিচের কোন ক্ষেত্রে বিমাযোগ্য স্বার্থ বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রেতার জীবনে ক্রেতার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পাওনাদারের জীবনে দেনাদারের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দেনাদারের জীবনে পাওনাদারের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দেনাদারের জীবনে জামিনদারের",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পাওনাদারের আর্থিক ক্ষতি হয় দেনাদারের মৃত্যুতে, তাই দেনাদারের জীবনে পাওনাদারের বিমাযোগ্য স্বার্থ বিদ্যমান।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-052",
+      "text": "বিমার উদ্দেশ্য হলো:",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়ের সাশ্রয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্থ স্থানান্তর",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিমার মূল উদ্দেশ্য ঝুঁকির আর্থিক প্রভাব হ্রাস করা, অর্থাৎ ঝুঁকি বহু বিমাগ্রহীতার মধ্যে ভাগ করে ক্ষতি কমানো।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-053",
+      "text": "জনাব অনিল কোন ধরনের বিমা করতে চেয়েছিলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব অনিল দীর্ঘদিন একটি বাসায় ভাড়া থাকেন। তিনি নিজ নামে ভবনটির বিমা করতে চাইলে বিমা কোম্পানি তার প্রস্তাবে অস্বীকৃতি জানায়।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CUB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায় বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পত্তি বিমা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভবনের ক্ষতি আগুন থেকে রক্ষার উদ্দেশ্যে বিমা চাইলে তা অগ্নি বিমা (সম্পত্তি বিমারই একটি প্রকার)। বিমাযোগ্য স্বার্থ না থাকায় প্রস্তাব গৃহীত হয়নি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-054",
+      "text": "বিমা কোম্পানি কর্তৃক প্রস্তাবটি প্রত্যাখ্যানের কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব অনিল দীর্ঘদিন একটি বাসায় ভাড়া থাকেন। তিনি নিজ নামে ভবনটির বিমা করতে চাইলে বিমা কোম্পানি তার প্রস্তাবে অস্বীকৃতি জানায়।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CUB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "চূড়ান্ত সদ্বিশ্বাসের অভাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমাযোগ্য স্বার্থের অভাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝুঁকির আধিক্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যক্ষ কারণ সম্পর্কিত সমস্যা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জনাব অনিল ভাড়াটিয়া, ভবনের মালিক নন, তাই ভবন নষ্ট হলে তাঁর আর্থিক ক্ষতি নেই। বিমাযোগ্য স্বার্থ না থাকায় প্রস্তাব প্রত্যাখ্যাত হয়েছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-055",
+      "text": "বিমার অপরিহার্য উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একাধিক পক্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রস্তাব ও স্বীকৃতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বেচ্ছাসায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমাযোগ্য স্বার্থ ছাড়া বিমা চুক্তি বৈধ হয় না, তাই এটি বিমার অপরিহার্য উপাদান।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-056",
+      "text": "মি. আবুল জীবন বিমা চুক্তি সম্পাদনকালে কম প্রিমিয়াম প্রদানের উদ্দেশ্যে তার বয়স ২ বছর কম উল্লেখ করেছেন। তিনি বিমার কোন নীতি ভঙ্গ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থলাভিষিক্ততা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রত্যক্ষ কারণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরম সদ্বিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বয়স কম দেখিয়ে সত্য গোপন করায় মি. আবুল পরম সদ্বিশ্বাস (চূড়ান্ত সদ্বিশ্বাস) নীতি ভঙ্গ করেছেন; এ নীতিতে সব প্রয়োজনীয় তথ্য সত্যভাবে প্রকাশ করতে হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-057",
+      "text": "উদ্দীপকে উল্লিখিত ব্যক্তির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "লন্ডনে এক ব্যক্তির একটি কফির দোকান ছিল। ঐ দোকানে নাবিকদের যাতায়াত ছিল। তিনি নাবিকদের সাথে জাহাজ সংক্রান্ত বিষয় নিয়ে আলাপ করতেন। এক সময় ঐ দোকানটি বিমা ব্যবসায়ের যোগাযোগ কেন্দ্র হিসাবে গড়ে ওঠে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "এডাম এম. লয়েডস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এডওয়ার্ড লয়েড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এম. এন. মিশ্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিকোলাস বারবান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "লন্ডনে কফি হাউসের মাধ্যমে নৌ বিমা ব্যবসায়ের যোগাযোগ কেন্দ্র গড়ে তোলেন এডওয়ার্ড লয়েড, যা থেকে পরবর্তীতে লয়েডস অব লন্ডন গড়ে ওঠে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-058",
+      "text": "উল্লিখিত ব্যক্তির দোকানে যে বিমার সম্পৃক্ততা লক্ষণীয় ছিল তার তাৎপর্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "লন্ডনে এক ব্যক্তির একটি কফির দোকান ছিল। ঐ দোকানে নাবিকদের যাতায়াত ছিল। তিনি নাবিকদের সাথে জাহাজ সংক্রান্ত বিষয় নিয়ে আলাপ করতেন। এক সময় ঐ দোকানটি বিমা ব্যবসায়ের যোগাযোগ কেন্দ্র হিসাবে গড়ে ওঠে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "আর্থিক নিরাপত্তা"
+        },
+        {
+          "label": "ii",
+          "text": "বৈদেশিক বাণিজ্যের সম্প্রসারণ"
+        },
+        {
+          "label": "iii",
+          "text": "ঝুঁকি হ্রাস"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নৌ বিমা পণ্য ও জাহাজের আর্থিক নিরাপত্তা দেয়, ঝুঁকি হ্রাস করে এবং বৈদেশিক বাণিজ্য সম্প্রসারণে সহায়তা করে; তাই (i), (ii) ও (iii) সবই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-059",
+      "text": "জনাব আহমেদ কোন ধরনের বিমা করতে চেয়েছিলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আহমেদ দীর্ঘদিন একটি ভাড়া বাসায় থাকেন। নিজের নামে ভবনটি বিমা করতে গেলে বিমাকারী কোম্পানি এতে অপারগতা প্রকাশ করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DIB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পত্তি বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নৌ-বিমা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ভবনের বিমা সম্পত্তি বিমার অন্তর্ভুক্ত; জনাব আহমেদ ভবনটি নিজ নামে বিমা করতে চেয়েছেন।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-060",
+      "text": "বিমা কোম্পানি কর্তৃক বিমা প্রস্তাবটি প্রত্যাখানের কারণ কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আহমেদ দীর্ঘদিন একটি ভাড়া বাসায় থাকেন। নিজের নামে ভবনটি বিমা করতে গেলে বিমাকারী কোম্পানি এতে অপারগতা প্রকাশ করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DIB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকির আধিক্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমাযোগ্য স্বার্থের অভাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সদ্বিশ্বাসের অভাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নির্দিষ্টতার অভাব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জনাব আহমেদ ভাড়াটিয়া, ভবনের মালিক নন; ভবন ক্ষতিগ্রস্ত হলে তাঁর আর্থিক ক্ষতি নেই। তাই বিমাযোগ্য স্বার্থের অভাবে প্রস্তাব প্রত্যাখ্যাত হয়েছে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-061",
+      "text": "স্থলাভিষিক্তকরণ নীতি প্রযোজ্য নয় কোন বিমার ক্ষেত্রে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পত্তি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নৌ-বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জীবন বিমা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্থলাভিষিক্তকরণ নীতি ক্ষতিপূরণের চুক্তিতে প্রযোজ্য। জীবন বিমা ক্ষতিপূরণের চুক্তি নয়, তাই এতে এ নীতি প্রযোজ্য নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-062",
+      "text": "নিচের কোনটি বিমার প্রধান উদ্দেশ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি নির্মূল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি বণ্টন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝুঁকি নিয়ন্ত্রণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঝুঁকি সৃষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমার প্রধান উদ্দেশ্য ঝুঁকি বণ্টন; বহু বিমাগ্রহীতার প্রিমিয়াম থেকে অল্প কয়েকজনের ক্ষতি পূরণ করা হয়। ঝুঁকি নির্মূল করা যায় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-063",
+      "text": "বাংলাদেশের বিমা প্রতিষ্ঠানগুলো বর্তমানে কত সালের আইন অনুযায়ী পরিচালিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯৯১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৯৯৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯৯৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০১০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাংলাদেশে বিমা প্রতিষ্ঠানগুলো বর্তমানে ২০১০ সালের বিমা আইন অনুযায়ী পরিচালিত হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-064",
+      "text": "বিমার প্রধান কাজ হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিশ্চয়তা প্রদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দক্ষতা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্থনৈতিক অগ্রগতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুঁজি সরবরাহ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিমার প্রধান কাজ ক্ষতির ঝুঁকি থেকে আর্থিক নিশ্চয়তা প্রদান করা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-065",
+      "text": "বিমা পলিসিতে ঝুঁকি গ্রহণের বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমর্পণ মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুদ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি গ্রহণের বিনিময়ে বিমাগ্রহীতা বিমাকারীকে যে অর্থ দেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-066",
+      "text": "কোন বিমায় বিমাগ্রহীতা ও বিমাকারী উভয়ই বিমা কোম্পানি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গোষ্ঠী বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যুগ্ম বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সহ-বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুনঃবিমা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পুনঃবিমায় এক বিমা কোম্পানি (মূল বিমাকারী) ঝুঁকির অংশ অন্য বিমা কোম্পানির কাছে বিমা করে, ফলে বিমাগ্রহীতা ও বিমাকারী উভয়ই বিমা কোম্পানি।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-067",
+      "text": "ব্যবসায় ঝুঁকি দূরীকরণের উপায় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা অর্জন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেয়ার বিক্রয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিমাকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণ গ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিমা করালে ঝুঁকির আর্থিক ক্ষতি বিমাকারীর ওপর হস্তান্তরিত হয়, তাই বিমাকরণ ব্যবসায় ঝুঁকি দূরীকরণের উপায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-068",
+      "text": "আর্থিক ক্ষতির সম্ভাবনাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অপচয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবচয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আর্থিক ক্ষতির সম্ভাবনাকে ঝুঁকি বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-069",
+      "text": "উদ্দীপকে বর্ণিত মাহিন বিমা কোম্পানির নিকট কত টাকার ক্ষতিপূরণ পাবেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "সাফিন তার বন্ধু মাহিনের গার্মেন্টস-এর জন্য বিমা করতে চান। সব বিমা কোম্পানিই সাফিনের প্রস্তাব প্রত্যাখ্যান করে। অবশেষে সাফিনের পরামর্শে মাহিন 'X' ও 'Y' নামক দুটি বিমা কোম্পানির নিকট বিমা চুক্তি করে যার মোট মূল্য ১ কোটি টাকা। কিছুদিন পর অগ্নিকাণ্ডে মাহিনের ৫০ লক্ষ টাকার ক্ষতি হয় এবং কোম্পানিগুলো সাফিনের বিমা দাবি প্রত্যাখ্যান করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-MB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৫ লক্ষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫০ লক্ষ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭৫ লক্ষ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১ কোটি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আর্থিক ক্ষতিপূরণ নীতি অনুযায়ী প্রকৃত ক্ষতির বেশি পাওয়া যায় না। দুই কোম্পানিতে মোট ১ কোটি টাকা বিমা থাকলেও প্রকৃত ক্ষতি ৫০ লক্ষ টাকা, তাই মাহিন ৫০ লক্ষ টাকা পাবেন, যা দুই কোম্পানি আনুপাতিক হারে ভাগ করে দেবে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-070",
+      "text": "কোন কারণে বিমা কোম্পানিগুলো সাফিনের বিমা দাবি প্রত্যাখ্যান করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সাফিন তার বন্ধু মাহিনের গার্মেন্টস-এর জন্য বিমা করতে চান। সব বিমা কোম্পানিই সাফিনের প্রস্তাব প্রত্যাখ্যান করে। অবশেষে সাফিনের পরামর্শে মাহিন 'X' ও 'Y' নামক দুটি বিমা কোম্পানির নিকট বিমা চুক্তি করে যার মোট মূল্য ১ কোটি টাকা। কিছুদিন পর অগ্নিকাণ্ডে মাহিনের ৫০ লক্ষ টাকার ক্ষতি হয় এবং কোম্পানিগুলো সাফিনের বিমা দাবি প্রত্যাখ্যান করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-MB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "আইনগত সম্পর্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৈধ প্রতিদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক ক্ষতিপূরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সাফিন মাহিনের গার্মেন্টসের মালিক নন, ক্ষতিতে তাঁর আর্থিক ক্ষতি নেই। তাই বিমাযোগ্য স্বার্থ না থাকায় দাবি প্রত্যাখ্যাত হয়েছে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-071",
+      "text": "বিমাকারী কর্তৃক অন্যের ঝুঁকি গ্রহণের বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমাকারী ঝুঁকি গ্রহণের বিনিময়ে যে অর্থ নেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-072",
+      "text": "বিমা চুক্তির আইনগত উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৈধ প্রতিদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থলাভিষিক্তকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রত্যক্ষ কারণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বৈধ প্রতিদান (প্রিমিয়াম) চুক্তি আইনের উপাদান হিসেবে বিমা চুক্তির আইনগত উপাদান। স্থলাভিষিক্তকরণ, প্রত্যক্ষ কারণ ও বিমাযোগ্য স্বার্থ বিমার নীতি।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-073",
+      "text": "কোন নীতির ভিত্তিতে একই সম্পত্তি একাধিক বিমাকারীর নিকট বিমা করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রত্যক্ষ কারণ নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আনুপাতিক অংশগ্রহণ নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থলাভিষিক্তকরণ নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক ক্ষতিপূরণ নীতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আনুপাতিক অংশগ্রহণ নীতিতে একই সম্পত্তি একাধিক বিমাকারীর কাছে বিমা করা যায়; ক্ষতি হলে প্রকৃত ক্ষতির বেশি না হয়ে বিমাকারীরা নিজ নিজ বিমার অনুপাতে ক্ষতিপূরণ দেয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-074",
+      "text": "সবচেয়ে পুরাতন বিমা হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নৌ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শস্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমার সবচেয়ে পুরাতন রূপ নৌ বিমা, যার উদ্ভব সমুদ্রপথে বাণিজ্যের ঝুঁকি থেকে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-075",
+      "text": "বিমাকারী কর্তৃক অন্যের ঝুঁকি গ্রহণের বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিমাকারী ঝুঁকি গ্রহণের বিনিময়ে যে অর্থ নেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-076",
+      "text": "বিমা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি প্রতিরোধকারীর ব্যবসায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকির বিপক্ষে আর্থিক প্রতিরক্ষা ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পত্তির ঝুঁকি মোকাবেলাকারী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জীবনের ঝুঁকি গ্রহণকারী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমা হলো ঝুঁকির বিপক্ষে আর্থিক প্রতিরক্ষা ব্যবস্থা, যাতে ক্ষতি ঘটলে আর্থিক সুরক্ষা পাওয়া যায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-077",
+      "text": "বিমাযোগ্য স্বার্থ নেই, এমন ক্ষেত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিজের জীবনে নিজের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দেনাদারের জীবনে পাওনাদারের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্ত্রীর জীবনে স্বামীর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পাওনাদারের জীবনে দেনাদারের",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দেনাদারের জীবনে পাওনাদারের বিমাযোগ্য স্বার্থ আছে, কিন্তু পাওনাদারের জীবনে দেনাদারের আর্থিক স্বার্থ নেই। তাই (ঘ) এমন ক্ষেত্র।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-078",
+      "text": "বাংলাদেশের বিমা ব্যবসায়ের নিয়ন্ত্রক সংস্থাকে সংক্ষেপে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "IDRB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BDRA",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "IDRAB",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "IDRA",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাংলাদেশে বিমা ব্যবসায়ের নিয়ন্ত্রক সংস্থা বিমা উন্নয়ন ও নিয়ন্ত্রণ কর্তৃপক্ষ, সংক্ষেপে IDRA।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-079",
+      "text": "বিমা প্রতিনিধির কোম্পানি মি. X এর সাথে বিমা চুক্তি সম্পাদনের ক্ষেত্রে নিচের কোন মূলনীতি অনুসরণ করবে বলে তুমি মনে করো?",
+      "text_en": null,
+      "image": null,
+      "stem": "X একজন বিশিষ্ট ব্যবসায়ী তিনি মৌসুমি পণ্য একটি গুদামে মজুদ করেছেন যার পাশেই রয়েছে একটি রাসায়নিক দ্রব্য উৎপাদনের কারখানা। একজন বিমা প্রতিনিধি X কে বিমা পলিসি গ্রহণের জন্য অনুরোধ জানালে তিনি রাজী হন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-SB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "বিমাযোগ্য স্বার্থ নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপুল সংখ্যায় পলিসি সংগ্রহের নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝুঁকি ও মুনাফা নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আনুপাতিক অংশগ্রহণের নীতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিমা চুক্তির জন্য প্রথম শর্ত হলো বিমাযোগ্য স্বার্থ; X গুদামের পণ্যের মালিক, তাই পণ্যে তাঁর আর্থিক স্বার্থ আছে এবং বিমা কোম্পানি এ নীতি অনুসরণ করবে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-080",
+      "text": "দ্বৈত বিমার মুখ্য উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন গঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রাহক সন্তুষ্টি অর্জন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দ্বৈত বিমায় একাধিক বিমাকারীর মধ্যে ঝুঁকি ভাগ হয়, ফলে প্রতিটি বিমাকারীর ঝুঁকি হ্রাস পায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch10-mcq-081",
+      "text": "ঝুঁকি গ্রহণের বিনিময় মূল্যকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নগদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ঝুঁকি গ্রহণের বিনিময়ে বিমাগ্রহীতা বিমাকারীকে যে অর্থ দেয় তাকে প্রিমিয়াম বলে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 1,
         "session": null
       },
       "tags": [],

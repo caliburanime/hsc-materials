@@ -287,6 +287,14 @@
         "qno": 9,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 5,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2211,6 +2219,2529 @@
         "board": "DIB",
         "year": "2023",
         "qno": 14
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-055",
+      "text": "শেয়ারের মূল্য বৃদ্ধির ফলে যে লাভ হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নীট লাভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধনী লাভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা জাতীয় লাভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোট লাভ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শেয়ারের বাজার মূল্য বৃদ্ধির ফলে যে লাভ হয় তাকে মূলধনী লাভ (Capital Gain) বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-056",
+      "text": "অর্থনৈতিক অনিশ্চয়তা থেকে কোন ধরনের ঝুঁকি সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায়িক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্থিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাজার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দেশের অর্থনৈতিক অনিশ্চয়তা, মন্দা, মুদ্রাস্ফীতি ইত্যাদি সমগ্র বাজারকে প্রভাবিত করে, ফলে বাজার ঝুঁকির সৃষ্টি হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-057",
+      "text": "উক্ত বিনিয়োগ থেকে কোনটি সাধিত হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব জাওয়াদ কোম্পানি 'ক' তে ৬০,০০০ টাকা এবং কোম্পানি 'খ' তে ৪০,০০০ টাকা বিনিয়োগ করেন। দু'টি কোম্পানির আয়ের হার যথাক্রমে ১০% ও ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-BB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যয় বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারল্য ঘাটতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একাধিক কোম্পানিতে বিনিয়োগ (পোর্টফোলিও) করলে একটির ক্ষতি অন্যটির লাভে পুষিয়ে যেতে পারে, ফলে ঝুঁকি হ্রাস পায়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-058",
+      "text": "পোর্টফোলিও আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব জাওয়াদ কোম্পানি 'ক' তে ৬০,০০০ টাকা এবং কোম্পানি 'খ' তে ৪০,০০০ টাকা বিনিয়োগ করেন। দু'টি কোম্পানির আয়ের হার যথাক্রমে ১০% ও ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-BB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০.৮%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১.২%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২.৪%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পোর্টফোলিও আয়ের হার \\( = 0.6 \\times 10\\% + 0.4 \\times 12\\% = 6\\% + 4.8\\% = 10.8\\% \\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-059",
+      "text": "CAPM. এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Capital Asset Product Model",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Capital Asset Pricing Model",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Capital Asset Pricing Method",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Capital Asset Product Method",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "CAPM-এর পূর্ণরূপ Capital Asset Pricing Model।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-060",
+      "text": "বাজার আয় ও ঝুঁকিমুক্ত আয়ের ব্যবধান নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কোম্পানি ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যাশিত আয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাজার আয়ের হার ও ঝুঁকিমুক্ত আয়ের হারের পার্থক্য \\( (R_m - R_f) \\) কে ঝুঁকি প্রিমিয়াম বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-061",
+      "text": "পোর্টফোলিও বৈচিত্র্যকরণের উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয় হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারল্য বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লভ্যাংশ বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিভিন্ন সিকিউরিটিতে বিনিয়োগ ছড়িয়ে দিলে (বৈচিত্র্যকরণ) অপদ্ধতিগত ঝুঁকি কমে, এটিই এর উদ্দেশ্য।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-062",
+      "text": "দেউলিয়াত্ব ঝুঁকি মুক্ত সিকিউরিটি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয় বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্পোরেট বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিউনিসিপাল বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বন্ড সরকার ইস্যু করে, তাই এতে দেউলিয়াত্বের ঝুঁকি থাকে না।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-063",
+      "text": "CAPM এর অনুমিত শর্তাবলি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অর্থনীতিতে মুদ্রাস্ফীতি নেই"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধন বাজার সর্বদা দক্ষ হবে"
+        },
+        {
+          "label": "iii",
+          "text": "আয়কর নেই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "CAPM-এর অনুমিত শর্ত: অর্থনীতিতে মুদ্রাস্ফীতি নেই, মূলধন বাজার দক্ষ এবং আয়কর নেই। তিনটিই সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-064",
+      "text": "ঝুঁকি ও মুনাফার মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরপেক্ষ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধণাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণাত্মক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি বেশি হলে বিনিয়োগকারী বেশি আয় প্রত্যাশা করে, তাই ঝুঁকি ও আয়ের সম্পর্ক ধনাত্মক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-065",
+      "text": "দেশি মুদ্রার তুলনায় বিদেশি মুদ্রার দাম কমে গেলে কোন ঝুঁকির সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তারল্য ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুদহার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিময় হার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোম্পানি ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিদেশি মুদ্রার বিনিময় হার পরিবর্তনের কারণে যে ঝুঁকি দেখা দেয় তা বিনিময় হার ঝুঁকি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-066",
+      "text": "একটি ঘটনায় আর্থিক ক্ষতির সম্ভাবনা থাকলে তাকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনিশ্চয়তা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফার হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষতির হার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কোনো ঘটনায় আর্থিক ক্ষতির সম্ভাবনাকে ঝুঁকি বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-067",
+      "text": "বাজার ঝুঁকির মান ০.৭৫, ঝুঁকিমুক্ত আয়ের হার ৬% এবং বাজার আয়ের হার ১১% হলে কোনো সিকিউরিটির প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯.৭৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১১%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "CAPM: \\( R_i = R_f + \\beta (R_m - R_f) \\)\n\\( = 6 + 0.75 \\times (11 - 6) = 6 + 3.75 = 9.75\\% \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-068",
+      "text": "ঋণের সুদ পরিশোধে অক্ষম হলে কোন ঝুঁকির সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারল্য ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঋণের সুদ ও কিস্তি পরিশোধে অক্ষমতার সম্ভাবনা থেকে যে ঝুঁকি হয় তা আর্থিক ঝুঁকি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-069",
+      "text": "পোর্টফোলিও গঠনের উদ্দেশ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যয় হ্রাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা হ্রাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিভিন্ন সিকিউরিটিতে বিনিয়োগের মাধ্যমে পোর্টফোলিও গঠন করলে মোট ঝুঁকি কমে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-070",
+      "text": "মার্কেট বেটা (β) এর আদর্শ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−১.০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "০.৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১.০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাজারের বেটা (β) এর মান ১.০ ধরা হয়, তুলনার মানদণ্ড হিসেবে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-071",
+      "text": "পরিচালন আয় হতে ব্যয় মেটাতে না পারার সম্ভাবনাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায়িক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদ হার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তারল্য ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিচালন আয় দিয়ে পরিচালন ব্যয় মেটাতে না পারার সম্ভাবনাকে ব্যবসায়িক ঝুঁকি বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-072",
+      "text": "কোন ধরনের ঝুঁকি পরিহার করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায়িক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পোর্টফোলিও ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাজার ঝুঁকি (পদ্ধতিগত ঝুঁকি) সমগ্র বাজারকে প্রভাবিত করে, তাই বৈচিত্র্যকরণ দিয়েও পরিহার করা যায় না।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-073",
+      "text": "মিঃ সবুজের অতিরিক্ত অর্থ সংগ্রহ করায় কোন ধরনের ঝুঁকি সৃষ্টি হল?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ সবুজ ব্যবসা শুরু করার জন্য নিজের গচ্ছিত অর্থ যথেষ্ট না হওয়ায় অতিরিক্ত অর্থ ব্যাংক থেকে ঋণ নিলেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-26-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায় ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাংক ঋণ নিলে সুদ ও আসল পরিশোধের বাধ্যবাধকতা তৈরি হয়, ফলে আর্থিক ঝুঁকির সৃষ্টি হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-074",
+      "text": "ঝুঁকি মুক্ত আয়ের হার ৬% বাজার আয়ের হার ১২% এবং বিটার মান ০.৫ হলে প্রত্যাশিত আয়ের হার কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৮%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( R = 6 + 0.5 \\times (12 - 6) = 6 + 3 = 9\\% \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-075",
+      "text": "পোর্টফোলিও বিনিয়োগের উদ্দেশ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয় হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পোর্টফোলিও বিনিয়োগের মূল উদ্দেশ্য বিনিয়োগ ছড়িয়ে ঝুঁকি হ্রাস করা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-076",
+      "text": "ঝুঁকি হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পরিহার যোগ্য"
+        },
+        {
+          "label": "ii",
+          "text": "পরিমাপ যোগ্য"
+        },
+        {
+          "label": "iii",
+          "text": "অনিশ্চয়তা হতে সৃষ্ট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি আংশিক পরিহারযোগ্য (বৈচিত্র্যকরণে), পরিমাপযোগ্য (পরিমিত ব্যবধান, বিভেদাঙ্ক, বিটা ইত্যাদি দ্বারা) এবং ভবিষ্যৎ অনিশ্চয়তা থেকে সৃষ্ট। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-077",
+      "text": "ঝুঁকিমুক্ত সিকিউরিটি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্পোরেট বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রেজারী বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বন্ড সরকার ইস্যু করে বলে তা ঝুঁকিমুক্ত সিকিউরিটি হিসেবে ধরা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-078",
+      "text": "ঝুঁকি ও আয়ের মধ্যে সম্পর্ক কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিম্নমুখী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণাত্মক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি বাড়লে প্রত্যাশিত আয়ও বাড়ে, তাই সম্পর্ক ধনাত্মক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-079",
+      "text": "নিচের কোনটি ঝুঁকিমুক্ত সিকিউরিটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রেজারি বিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিউচুয়াল ফান্ড",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বিল সরকার ইস্যু করে, তাই এটি ঝুঁকিমুক্ত সিকিউরিটি।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-080",
+      "text": "ডেলটা লিঃ এর ঝুঁকি প্রিমিয়াম কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ডেলটা লিঃ এর ঝুঁকিমুক্ত আয়ের হার ৮%। মার্কেট পোর্টফোলিও আয়ের হার ১২% এবং বিটা সহগ ১.৫%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি প্রিমিয়াম \\( = R_m - R_f = 12\\% - 8\\% = 4\\% \\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "মুদ্রিত উত্তর (খ) ৪% = বাজার ঝুঁকি প্রিমিয়াম \\( (R_m - R_f) \\)। প্রতিষ্ঠানটির নিজস্ব ঝুঁকি প্রিমিয়াম \\( \\beta (R_m - R_f) = 1.5 \\times 4\\% = 6\\% \\) (ঘ) ধরলেও যুক্তিসঙ্গত।"
+    },
+    {
+      "id": "finance_1st-ch9-mcq-081",
+      "text": "ডেলটা লিঃ এর প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "ডেলটা লিঃ এর ঝুঁকিমুক্ত আয়ের হার ৮%। মার্কেট পোর্টফোলিও আয়ের হার ১২% এবং বিটা সহগ ১.৫%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৬%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( R = R_f + \\beta (R_m - R_f) = 8 + 1.5 \\times 4 = 14\\% \\)",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-082",
+      "text": "CAPM এর অনুমিত শর্তাবলি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অর্থনীতিতে মূল্যস্ফীতি থাকবে না"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধন বাজার দক্ষ হবে"
+        },
+        {
+          "label": "iii",
+          "text": "কোনো আয়কর থাকবে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "CAPM-এর শর্ত: মূল্যস্ফীতি নেই, মূলধন বাজার দক্ষ এবং আয়কর নেই। তিনটিই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-083",
+      "text": "একাধিক লাভজনক প্রকল্পে বিনিয়োগ করা হলে তাকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থের সময়মূল্য নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পোর্টফোলিও নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারল্য নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপযুক্ততার নীতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "একাধিক লাভজনক প্রকল্পে বিনিয়োগ ছড়িয়ে দেওয়াকে পোর্টফোলিও নীতি বলা হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-084",
+      "text": "আর্থিক ঝুঁকির উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণ মূলধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেয়ার মূলধন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্থনৈতিক মন্দা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূল্যস্ফীতি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণ মূলধন ব্যবহার করলে সুদ পরিশোধের বাধ্যবাধকতা থাকে, যা আর্থিক ঝুঁকির মূল উৎস।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-085",
+      "text": "জনাব 'P'-এর বিনিয়োগ থেকে লাভের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'P', 'SR' গ্রুপের প্রতিটি শেয়ার ২০০ টাকায় ক্রয় করে ১ বছর পর ২৫০ টাকায় বিক্রয় করেন। উক্ত বছর কোম্পানি শেয়ার প্রতি ১০ টাকা লভ্যাংশ প্রদান করে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬০%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আয়ের হার \\( = \\frac{(250 - 200) + 10}{200} \\times 100 = \\frac{60}{200} \\times 100 = 30\\% \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-086",
+      "text": "শেয়ারের বিক্রয় মূল্য ২০ টাকা কম হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'P', 'SR' গ্রুপের প্রতিটি শেয়ার ২০০ টাকায় ক্রয় করে ১ বছর পর ২৫০ টাকায় বিক্রয় করেন। উক্ত বছর কোম্পানি শেয়ার প্রতি ১০ টাকা লভ্যাংশ প্রদান করে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "আয়ের হার হবে ২০%"
+        },
+        {
+          "label": "ii",
+          "text": "শেয়ার প্রতি মোট মুনাফা হবে ৪০ টাকা"
+        },
+        {
+          "label": "iii",
+          "text": "আয়ের হার হবে ২৫%"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিক্রয় মূল্য ২৩০ টাকা হলে মূলধনী লাভ ৩০ + লভ্যাংশ ১০ = ৪০ টাকা (ii সঠিক)।\nআয়ের হার \\( = \\frac{40}{200} = 20\\% \\) (i সঠিক, iii ভুল)।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-087",
+      "text": "নিচের কোন ধরনের ঝুঁকি বিনিয়োগকারীর নিয়ন্ত্রণে থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাজার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফটকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাজনৈতিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিনিয়োগকারী ঋণ-মূলধনের অনুপাত নির্ধারণ করে নিজে আর্থিক ঝুঁকি নিয়ন্ত্রণ করতে পারেন; বাজার, ফটকা ও রাজনৈতিক ঝুঁকি তাঁর নিয়ন্ত্রণের বাইরে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-088",
+      "text": "মুদ্রাস্ফীতির কারণে বাড়ে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিনিয়োগ"
+        },
+        {
+          "label": "ii",
+          "text": "উৎপাদন খরচ"
+        },
+        {
+          "label": "iii",
+          "text": "কাঁচামালের মূল্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুদ্রাস্ফীতিতে কাঁচামালের দাম (iii) ও উৎপাদন খরচ (ii) বাড়ে। বিনিয়োগ বাড়ে না, বরং অনিশ্চয়তায় কমে, তাই i ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-089",
+      "text": "'Q' লি. এর ঝুঁকিমুক্ত আয়ের হার ৫%, পোর্টফোলিও বাজার আয়ের হার ১৫% এবং বিটা সহগ ১.৫। 'Q' লি. এর ঝুঁকি প্রিমিয়াম কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি প্রিমিয়াম \\( = R_m - R_f = 15\\% - 5\\% = 10\\% \\)",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "মুদ্রিত উত্তর (খ) ১০% = বাজার ঝুঁকি প্রিমিয়াম \\( (R_m - R_f) \\)। প্রতিষ্ঠানটির নিজস্ব ঝুঁকি প্রিমিয়াম \\( \\beta (R_m - R_f) = 1.5 \\times 10\\% = 15\\% \\) (গ) ধরলেও যুক্তিসঙ্গত।"
+    },
+    {
+      "id": "finance_1st-ch9-mcq-090",
+      "text": "মোট ঝুঁকির উপাদান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পরিহারযোগ্য ঝুঁকি"
+        },
+        {
+          "label": "ii",
+          "text": "অপরিহারযোগ্য ঝুঁকি"
+        },
+        {
+          "label": "iii",
+          "text": "সুদ হার ঝুঁকি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মোট ঝুঁকি = পরিহারযোগ্য (অপদ্ধতিগত) ঝুঁকি + অপরিহারযোগ্য (পদ্ধতিগত) ঝুঁকি। সুদ হার ঝুঁকি স্বতন্ত্র উপাদান নয়, বাজার ঝুঁকির অংশ।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-091",
+      "text": "একটি কোম্পানির সাধারণ শেয়ারের ঝুঁকি ১.৫০, ট্রেজারি বন্ডের সুদের হার ৬% এবং বাজার আয়ের হার ১৪% হলে, বিনিয়োগকারীদের প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( R = 6 + 1.5 \\times (14 - 6) = 6 + 12 = 18\\% \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-092",
+      "text": "সিকিউরিটি 'ক' ও 'খ' এর আয়ের হার যথাক্রমে ১৫% ও ১২%। সিকিউরিটি 'ক' তে বিনিয়োগ করা হয়েছে ৬০%। এক্ষেত্রে পোর্টফোলিও প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১০.৬০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১.৯০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২.৮০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৩.৮০%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পোর্টফোলিও আয় \\( = 0.6 \\times 15\\% + 0.4 \\times 12\\% = 9 + 4.8 = 13.8\\% \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-093",
+      "text": "'FXD' কোম্পানির আয়ের হার ১৬% ও পরিমিত ব্যবধান ৬% হলে, বিভেদাঙ্ক কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০.৮%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৯.৩%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৭.৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩২.৪%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিভেদাঙ্ক \\( = \\frac{\\text{পরিমিত ব্যবধান}}{\\text{গড় আয়}} \\times 100 = \\frac{6}{16} \\times 100 = 37.5\\% \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-094",
+      "text": "নিচের কোনটি পোর্টফোলিও বিনিয়োগের উদ্দেশ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি হ্রাস করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনিশ্চয়তা হ্রাস করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিয়োগ বৃদ্ধি করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা বৃদ্ধি করা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পোর্টফোলিও বিনিয়োগের উদ্দেশ্য বিনিয়োগ বৈচিত্র্যকরণের মাধ্যমে ঝুঁকি হ্রাস করা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-095",
+      "text": "বিটা (β) দ্বারা কী পরিমাপ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোট ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিটা (β) সমগ্র বাজারের তুলনায় সিকিউরিটির সংবেদনশীলতা, অর্থাৎ বাজার (পদ্ধতিগত) ঝুঁকি পরিমাপ করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-096",
+      "text": "দুটি সিকিউরিটি গড় আয়ের হার সমান হলে নিচের কোনটি ঝুঁকি পরিমাপের সর্বোচ্চ পদ্ধতি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিমিত ব্যবধান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিটা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিভেদাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরিসর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গড় আয় সমান হলে ঝুঁকির তুলনার জন্য বিভেদাঙ্ক (প্রতি একক আয়ে ঝুঁকি) সর্বোত্তম পরিমাপ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-097",
+      "text": "ঝুঁকির তুলনামূলক প্রকাশকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিভেদাঙ্ক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্ভাবনা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আদর্শ বিচ্যুতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গড় ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বিভেদাঙ্ক (Coefficient of Variation) পরিমিত ব্যবধানকে গড় আয় দিয়ে ভাগ করে ঝুঁকির আপেক্ষিক (তুলনামূলক) পরিমাপ দেয়। আদর্শ বিচ্যুতি ঝুঁকির পরম পরিমাপ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (গ) আদর্শ বিচ্যুতি, যা ঝুঁকির পরম পরিমাপ; ঝুঁকির আপেক্ষিক বা তুলনামূলক পরিমাপ বিভেদাঙ্ক, তাই (ক)।"
+    },
+    {
+      "id": "finance_1st-ch9-mcq-098",
+      "text": "প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্টকের বিটার মান ১.৯০, বাজারে গড় আয়ের হার ১১% এবং ঝুঁকিমুক্ত আয়ের হার ৮%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০.৭০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১.৭০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২.৭০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৩.৭০%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "\\( R = 8 + 1.9 \\times (11 - 8) = 8 + 5.7 = 13.7\\% \\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-099",
+      "text": "বাজার আয়ের হার বৃদ্ধি পেয়ে ১৩% হলে, প্রত্যাশিত আয়ের হারে কী পরিবর্তন হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি স্টকের বিটার মান ১.৯০, বাজারে গড় আয়ের হার ১১% এবং ঝুঁকিমুক্ত আয়ের হার ৮%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬.১০% বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭.১০% হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮.৩০% হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩.৮০% বৃদ্ধি পাবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নতুন \\( R = 8 + 1.9 \\times (13 - 8) = 8 + 9.5 = 17.5\\% \\)\nপরিবর্তন \\( = 17.5 - 13.7 = 3.8\\% \\) বৃদ্ধি",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-100",
+      "text": "মার্কোইজ কতসালে পোর্টফোলিও থিউরি দেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯১৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৯২০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯৫০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯৫২",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হ্যারি মার্কোইজ ১৯৫২ সালে পোর্টফোলিও থিউরি প্রদান করেন।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-101",
+      "text": "ক্ষতির সম্ভাবনাকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অনিশ্চয়তা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নীট ক্ষতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোট ক্ষতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্ষতির সম্ভাবনাকে ঝুঁকি বলে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-102",
+      "text": "পোর্টফোলিও বিনিয়োগ করার উদ্দেশ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রয় বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝুঁকি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পোর্টফোলিও বিনিয়োগের উদ্দেশ্য বৈচিত্র্যকরণের মাধ্যমে ঝুঁকি হ্রাস করা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-103",
+      "text": "কোন ঝুঁকি পরিহার করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বাধীন ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোম্পানি ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বাজার ঝুঁকি (পদ্ধতিগত ঝুঁকি) সমগ্র বাজারকে প্রভাবিত করে, তাই বৈচিত্র্যকরণ দ্বারা পরিহার করা যায় না। একক বা কোম্পানি ঝুঁকি পরিহারযোগ্য।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-104",
+      "text": "ঝুঁকি ও আয়ের মধ্যে কেমন সম্পর্ক বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিম্নমুখী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বেশি ঝুঁকিতে বেশি আয় প্রত্যাশিত হয়, তাই ঝুঁকি ও আয়ের সম্পর্ক ধনাত্মক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-105",
+      "text": "প্রত্যাশিত আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. কাফি ২০২১ সালে ABC কোম্পানির একটি শেয়ার ৭০০ টাকায় ক্রয় করেন। বছর শেষে তিনি ৩৫ টাকা লভ্যাংশ পেয়েছেন এবং ৮৪০ টাকায় শেয়ারটি বিক্রি করে দিয়েছেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-21-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের নিয়মে এখানে লভ্যাংশ আয়ের হার ধরা হয়েছে:\n\\( \\frac{35}{700} \\times 100 = 5\\% \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-106",
+      "text": "মি. কাফির মূলধন জাতীয় লাভের শতকরা হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. কাফি ২০২১ সালে ABC কোম্পানির একটি শেয়ার ৭০০ টাকায় ক্রয় করেন। বছর শেষে তিনি ৩৫ টাকা লভ্যাংশ পেয়েছেন এবং ৮৪০ টাকায় শেয়ারটি বিক্রি করে দিয়েছেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-21-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূলধনী লাভ \\( = 840 - 700 = 140 \\) টাকা\nহার \\( = \\frac{140}{700} \\times 100 = 20\\% \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-107",
+      "text": "মি. কাফির মোট প্রতিদানের হার হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. কাফি ২০২১ সালে ABC কোম্পানির একটি শেয়ার ৭০০ টাকায় ক্রয় করেন। বছর শেষে তিনি ৩৫ টাকা লভ্যাংশ পেয়েছেন এবং ৮৪০ টাকায় শেয়ারটি বিক্রি করে দিয়েছেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-21-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৫%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মোট প্রতিদান \\( = \\) লভ্যাংশ + মূলধনী লাভ \\( = 35 + 140 = 175 \\) টাকা\nহার \\( = \\frac{175}{700} \\times 100 = 25\\% \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-108",
+      "text": "কোনটি বিমাযোগ্য ঝুঁকি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মানবিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবসায়িক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফটকা ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিমাযোগ্য ঝুঁকি হলো ক্ষতির সম্ভাবনা থেকে সৃষ্ট ঝুঁকি, যেমন ব্যবসায়ে অগ্নি, চুরি ইত্যাদি; ফটকা ঝুঁকি বিমাযোগ্য নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-109",
+      "text": "দেশের অর্থনৈতিক ও রাজনৈতিক অবস্থা পরিবর্তনের ফলে যে ঝুঁকির উদ্ভব হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারল্য ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাজার ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কোম্পানি ঝুঁকি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দেশের অর্থনৈতিক ও রাজনৈতিক অবস্থার পরিবর্তন সমগ্র বাজারকে প্রভাবিত করে, যা বাজার ঝুঁকি।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-110",
+      "text": "CAPM মডেল উদ্ভাবন করেন কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হ্যারি মার্কওইজ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্টিফেন গ্রীণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উইলিয়াম শার্প",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মডিগ্লিয়ানি ও মিলার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উইলিয়াম শার্প CAPM মডেল উদ্ভাবন করেন; মার্কোইজ পোর্টফোলিও থিউরির প্রবক্তা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-111",
+      "text": "বাজার আয়ের হার যদি ঝুঁকিমুক্ত আয়ের হারের চেয়ে কম হয় তবে, ঝুঁকি প্রিমিয়াম কেমন হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ঝুঁকি প্রিমিয়াম \\( = R_m - R_f \\)। \\( R_m < R_f \\) হলে মান ঋণাত্মক হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-112",
+      "text": "XYZ কোম্পানির বিটা ১.৫ গড় আয়ের হার ১৫% এবং ট্রেজারি বিলের আয়ের হার ৫% হলে প্রয়োজনীয় আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২২.৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৭.৫%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( R = 5 + 1.5 \\times (15 - 5) = 5 + 15 = 20\\% \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-113",
+      "text": "সিকিউরিটি-A এর পরিমিত ব্যবধান কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'ক' একটি সিকিউরিটিতে বিনিয়োগ করতে আগ্রহী। বিনিয়োগের জন্য প্রয়োজনীয় তথ্যাবলি: সিকিউরিটি-A — প্রত্যাশিত আয় ১০%, পরিমিত ব্যবধান ?, বিভেদাঙ্ক ২২.৮%; সিকিউরিটি-B — প্রত্যাশিত আয় ১২%, পরিমিত ব্যবধান ২.৫%, বিভেদাঙ্ক ২০.৮৩%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "২.৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২.২৮%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২.২৮%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২২.৮%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিভেদাঙ্ক \\( = \\frac{\\text{পরিমিত ব্যবধান}}{\\text{গড় আয়}} \\times 100 \\)\n\\( 22.8 = \\frac{SD}{10} \\times 100 \\Rightarrow SD = 2.28\\% \\)",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch9-mcq-114",
+      "text": "জনাব 'ক' এর বিনিয়োগ সিদ্ধান্তের জন্য প্রযোজ্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'ক' একটি সিকিউরিটিতে বিনিয়োগ করতে আগ্রহী। বিনিয়োগের জন্য প্রয়োজনীয় তথ্যাবলি: সিকিউরিটি-A — প্রত্যাশিত আয় ১০%, পরিমিত ব্যবধান ?, বিভেদাঙ্ক ২২.৮%; সিকিউরিটি-B — প্রত্যাশিত আয় ১২%, পরিমিত ব্যবধান ২.৫%, বিভেদাঙ্ক ২০.৮৩%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সিকিউরিটি 'B' কম ঝুঁকিপূর্ণ"
+        },
+        {
+          "label": "ii",
+          "text": "সিকিউরিটি 'A' গ্রহণযোগ্য"
+        },
+        {
+          "label": "iii",
+          "text": "সিকিউরিটি 'B' অধিক উপার্জনকারী"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "B-এর বিভেদাঙ্ক (২০.৮৩%) A-এর (২২.৮%) চেয়ে কম, তাই B কম ঝুঁকিপূর্ণ (i সঠিক)। B-এর আয় (১২%) বেশি (iii সঠিক)। A অধিক ঝুঁকিপূর্ণ ও কম আয়ের, তাই গ্রহণযোগ্য নয় (ii ভুল)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (গ) ii ও iii; কিন্তু B-এর বিভেদাঙ্ক (২০.৮৩%) A-এর (২২.৮%) চেয়ে কম, অর্থাৎ B কম ঝুঁকিপূর্ণ (i সঠিক) এবং B-এর প্রত্যাশিত আয়ও বেশি (iii সঠিক) — তাই A নয়, B গ্রহণযোগ্য (ii ভুল); উত্তর (খ)।"
+    },
+    {
+      "id": "finance_1st-ch9-mcq-115",
+      "text": "শেয়ারের মূল্য বৃদ্ধির ফলে যে লাভ হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোট লাভ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট লাভ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধনী লাভ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বণ্টনকৃত লাভ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শেয়ারের মূল্য বৃদ্ধিজনিত লাভকে মূলধনী লাভ বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
       },
       "tags": [],
       "difficulty": null

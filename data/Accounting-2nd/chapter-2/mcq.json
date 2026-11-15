@@ -4039,6 +4039,1853 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-097",
+      "text": "মি. রহমান একটি অংশীদারি কারবারের একজন অংশীদার। তিনি চুক্তি অনুযায়ী প্রতি মাসের মাঝামাঝি সময়ে ৫% হারে সুদ প্রদান সাপেক্ষে ২০০০ টাকা উত্তোলন করেন। তার উত্তোলনের উপর বার্ষিক সুদ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রতি মাসের মাঝামাঝি উত্তোলনে গড় সময় ৬ মাস।\nমোট উত্তোলন = ২,০০০ × ১২ = ২৪,০০০ টাকা\nসুদ = \\( ২৪,০০০ \\times \\frac{৫}{১০০} \\times \\frac{৬}{১২} = ৬০০ \\) টাকা",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-098",
+      "text": "অংশীদারি ব্যবসায়ের মূলভিত্তি কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চুক্তিপত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি ব্যবসায় অংশীদারদের মধ্যকার চুক্তির ভিত্তিতে গড়ে ওঠে, তাই এর মূলভিত্তি চুক্তিপত্র।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-099",
+      "text": "A ও B এর প্রারম্ভিক মূলধন কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "A ও B দুইজন অংশীদার। কারবারের মুনাফা ২ : ১ অনুপাতে বণ্টন করে থাকে। বছর শেষে তাদের মূলধনের উদ্বৃত্ত যথাক্রমে ১,০০,০০০ ও ১,৮০,০০০ টাকা। বছর শেষে কারবারের নিট লাভ ২৭,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-BB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,১৮,০০০ ও ১,৮৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮২,০০০ ও ১,৭১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,০৯,০০০ ও ১,৯৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,২৭,০০০ ও ২,০৭,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উত্তোলন নেই, তাই প্রারম্ভিক মূলধন = সমাপনী মূলধন − মুনাফার অংশ।\nA এর মুনাফা = \\( ২৭,০০০ \\times \\frac{২}{৩} = ১৮,০০০ \\); B এর মুনাফা = ৯,০০০\nA = ১,০০,০০০ − ১৮,০০০ = ৮২,০০০ টাকা\nB = ১,৮০,০০০ − ৯,০০০ = ১,৭১,০০০ টাকা",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-100",
+      "text": "অংশীদারি কারবারে মূলধনের সুদ ধার্য করলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "A ও B দুইজন অংশীদার। কারবারের মুনাফা ২ : ১ অনুপাতে বণ্টন করে থাকে। বছর শেষে তাদের মূলধনের উদ্বৃত্ত যথাক্রমে ১,০০,০০০ ও ১,৮০,০০০ টাকা। বছর শেষে কারবারের নিট লাভ ২৭,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-BB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "নিট লাভ বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট লাভ হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বণ্টনযোগ্য লাভ বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বণ্টনযোগ্য লাভ হ্রাস পাবে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "মূলধনের সুদ লাভ-লোকসান আবণ্টন হিসাবের ডেবিট দিকে যায়, ফলে বণ্টনযোগ্য লাভ হ্রাস পায়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (খ) নিট লাভ হ্রাস পাবে; কিন্তু মূলধনের সুদ লাভ-লোকসান আবণ্টন হিসাবের ডেবিটে বসে — নিট লাভ অপরিবর্তিত থাকে, বণ্টনযোগ্য লাভ কমে। তাই (ঘ)।"
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-101",
+      "text": "অংশীদারি কারবারে চলতি হিসাবের ক্রেডিট উদ্বৃত্ত অংশীদারের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি হিসাবের ক্রেডিট উদ্বৃত্ত কারবারের নিকট অংশীদারের পাওনা নির্দেশ করে, তাই এটি কারবারের দায়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-102",
+      "text": "অংশীদারি ব্যবসায়ের মূল ভিত্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চুক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আস্থা অর্জন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা অর্জন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি ব্যবসায় অংশীদারদের মধ্যকার চুক্তির মাধ্যমে সৃষ্টি হয়, তাই এর মূল ভিত্তি চুক্তি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-103",
+      "text": "প্রত্যেক মাসের প্রথমে উত্তোলন করা হলে মোট উত্তোলনের উপর গড়ে কত মাসের সুদ ধরতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫.৫",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬.৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি মাসের শুরুতে উত্তোলন করলে প্রথম উত্তোলনের ১২ মাস ও শেষটির ১ মাস সুদ ধরা হয়। গড় = \\( \\frac{১২+১}{২} = ৬.৫ \\) মাস।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-104",
+      "text": "আলমের মূলধনের সুদের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "আলম, রফিক ও সফিক একটি অংশীদারি ব্যবসায়ের তিনজন অংশীদার। তাদের প্রারম্ভিক মূলধন ছিল যথাক্রমে ৬,০০,০০০ টাকা, ৪,০০,০০০ টাকা এবং ২,০০,০০০ টাকা। এপ্রিল মাসের ১ তারিখে আলম ব্যবসায়ে ৬০,০০০ টাকা অতিরিক্ত মূলধন সরবরাহ করেন এবং একই তারিখে সফিক ৩০,০০০ টাকা ঋণ হিসাবে আনয়ন করেন। অংশীদারি চুক্তিপত্রে মূলধনের উপর সুদের হার ১০% হলেও ঋণের সুদের হারের কোনো উল্লেখ ছিল না।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৪,৫০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৬,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আলমের প্রারম্ভিক মূলধন ৬,০০,০০০ টাকার ১২ মাসের সুদ = ৬০,০০০ টাকা।\nঅতিরিক্ত ৬০,০০০ টাকার ৯ মাসের সুদ = \\( ৬০,০০০ \\times ১০\\% \\times \\frac{৯}{১২} = ৪,৫০০ \\) টাকা\nমোট = ৬০,০০০ + ৪,৫০০ = ৬৪,৫০০ টাকা",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-105",
+      "text": "সফিকের ঋণের সুদের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "আলম, রফিক ও সফিক একটি অংশীদারি ব্যবসায়ের তিনজন অংশীদার। তাদের প্রারম্ভিক মূলধন ছিল যথাক্রমে ৬,০০,০০০ টাকা, ৪,০০,০০০ টাকা এবং ২,০০,০০০ টাকা। এপ্রিল মাসের ১ তারিখে আলম ব্যবসায়ে ৬০,০০০ টাকা অতিরিক্ত মূলধন সরবরাহ করেন এবং একই তারিখে সফিক ৩০,০০০ টাকা ঋণ হিসাবে আনয়ন করেন। অংশীদারি চুক্তিপত্রে মূলধনের উপর সুদের হার ১০% হলেও ঋণের সুদের হারের কোনো উল্লেখ ছিল না।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৩৫০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৫০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৮০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণের সুদের হার উল্লেখ না থাকলে চুক্তির অবর্তমানে ৬% হারে সুদ প্রদেয়।\nসুদ = \\( ৩০,০০০ \\times ৬\\% \\times \\frac{৯}{১২} = ১,৩৫০ \\) টাকা",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-106",
+      "text": "রিফাত, সিফাত এবং কামাল তিনজন একটি অংশীদারি ব্যবসায়ের অংশীদার। তাদের বণ্টনযোগ্য মুনাফার পরিমাণ ১,২০,০০০ টাকা। মুনাফা বণ্টনের অনুপাত \\( \\frac{1}{2} : \\frac{1}{3} : \\frac{1}{6} \\) হলে সিফাতের মুনাফার পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অনুপাত \\( \\frac{১}{২} : \\frac{১}{৩} : \\frac{১}{৬} = ৩ : ২ : ১ \\)\nসিফাতের অংশ = \\( ১,২০,০০০ \\times \\frac{২}{৬} = ৪০,০০০ \\) টাকা",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-107",
+      "text": "অংশীদারি কারবারের বণ্টনকৃত মুনাফা স্থির মূলধন পদ্ধতিতে কোন হিসাবে যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণ হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উত্তোলন হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্থির মূলধন পদ্ধতিতে মূলধন হিসাব অপরিবর্তিত থাকে; মুনাফার অংশ, সুদ, বেতন ইত্যাদি চলতি হিসাবে লিপিবদ্ধ হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-108",
+      "text": "প্রতি মাসের শেষে ৪,০০০ টাকা করে সারা বছর উত্তোলন করলে, ১০% হারে উত্তোলনের সুদ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,৬০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রতি মাসের শেষে উত্তোলনে গড় সময় ৫.৫ মাস।\nমোট উত্তোলন = ৪,০০০ × ১২ = ৪৮,০০০ টাকা\nসুদ = \\( ৪৮,০০০ \\times ১০\\% \\times \\frac{৫.৫}{১২} = ২,২০০ \\) টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-109",
+      "text": "অংশীদারদের চলতি হিসাবের ক্রেডিট উদ্বৃত্ত কোনটি প্রকাশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চলতি হিসাবের ক্রেডিট উদ্বৃত্ত কারবারের নিকট অংশীদারের পাওনা, তাই এটি দায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-110",
+      "text": "উক্ত কারবারের বণ্টনযোগ্য মুনাফার পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "রুবি, মিতা এবং রিমু একটি অংশীদারি কারবারের তিনজন অংশীদার। তাদের লাভ লোকসান বণ্টনের অনুপাত যথাক্রমে ৩ : ২ : ১। ২০২৪ সালের ১ জানুয়ারি তারিখে তাদের মূলধন হিসাবের উদ্বৃত্ত ছিল যথাক্রমে ২,৫০,০০০ টাকা, ১,৫০,০০০ টাকা এবং ২,০০,০০০ টাকা। মিতা কারবার পরিচালনার জন্য মাসিক ৫,০০০ টাকা বেতন পাবে। চুক্তি অনুযায়ী মূলধনের উপর ৫% হারে সুদ ধার্য করতে হবে। বছর শেষে কারবারের নিট মুনাফার পরিমাণ দাঁড়ায় ২,০১,৫০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,১১,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৪১,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৬৬,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৭১,৫০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মূলধনের সুদ = ৬,০০,০০০ × ৫% = ৩০,০০০ টাকা\nমিতার বেতন = ৫,০০০ × ১২ = ৬০,০০০ টাকা\nবণ্টনযোগ্য মুনাফা = ২,০১,৫০০ − ৩০,০০০ − ৬০,০০০ = ১,১১,৫০০ টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-111",
+      "text": "'রুবি' লাভের অংশ বাবদ কত টাকা পাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রুবি, মিতা এবং রিমু একটি অংশীদারি কারবারের তিনজন অংশীদার। তাদের লাভ লোকসান বণ্টনের অনুপাত যথাক্রমে ৩ : ২ : ১। ২০২৪ সালের ১ জানুয়ারি তারিখে তাদের মূলধন হিসাবের উদ্বৃত্ত ছিল যথাক্রমে ২,৫০,০০০ টাকা, ১,৫০,০০০ টাকা এবং ২,০০,০০০ টাকা। মিতা কারবার পরিচালনার জন্য মাসিক ৫,০০০ টাকা বেতন পাবে। চুক্তি অনুযায়ী মূলধনের উপর ৫% হারে সুদ ধার্য করতে হবে। বছর শেষে কারবারের নিট মুনাফার পরিমাণ দাঁড়ায় ২,০১,৫০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৭,১৬৭ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৫,৭৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮৩,২৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮৫,৭৫০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বণ্টনযোগ্য মুনাফা ১,১১,৫০০ টাকা (৩ : ২ : ১ অনুপাতে)।\nরুবির অংশ = \\( ১,১১,৫০০ \\times \\frac{৩}{৬} = ৫৫,৭৫০ \\) টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-112",
+      "text": "বৈশিষ্ট্য অনুযায়ী অংশীদারি ব্যবসায়ের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সর্বনিম্ন সদস্য সংখ্যা ২ জন"
+        },
+        {
+          "label": "ii",
+          "text": "চুক্তি লিখিত হওয়া অত্যাবশ্যকীয়"
+        },
+        {
+          "label": "iii",
+          "text": "অংশীদারদের দায়ের পরিমাণ অসীম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সঠিক: অংশীদারি ব্যবসায় কমপক্ষে ২ জন সদস্য লাগে।\n(ii) ভুল: চুক্তি মৌখিক হলেও চলে, লিখিত হওয়া বাধ্যতামূলক নয়।\n(iii) সঠিক: অংশীদারদের দায় অসীম।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-113",
+      "text": "কোনটি অংশীদারি ব্যবসায়ের উপাদান নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একাধিক সদস্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা অর্জন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন অনুপাতে মুনাফা বণ্টন বাধ্যতামূলক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পারস্পরিক আস্থা ও বিশ্বাস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি ব্যবসায় মুনাফা বণ্টন চুক্তি অনুযায়ী হয়; মূলধন অনুপাতে বণ্টন বাধ্যতামূলক নয়। চুক্তির অবর্তমানে সমানভাবে বণ্টিত হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-114",
+      "text": "অংশীদারি চুক্তির অবর্তমানে প্রযোজ্য নীতিমালা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমপরিমাণ মূলধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমপরিমাণ উত্তোলন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধনের সুদের হার ৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণের সুদের হার ৬%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চুক্তির অবর্তমানে অংশীদারের ঋণের ওপর বার্ষিক ৬% হারে সুদ প্রদান করতে হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-115",
+      "text": "অংশীদারি ব্যবসায়ের লাভ-লোকসান আবণ্টন হিসাবের ক্রেডিট দিকের দফা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অংশীদারদের বেতন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারদের মূলধনের সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অংশীদারদের ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অংশীদারদের উত্তোলনের সুদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উত্তোলনের সুদ অংশীদারদের নিকট থেকে কারবারের আয়, তাই লাভ-লোকসান আবণ্টন হিসাবের ক্রেডিট দিকে বসে। বাকিগুলো ডেবিট দিকের দফা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-116",
+      "text": "উত্তোলনের সুদ ধার্য করলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোটলাভ বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিটলাভ হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বণ্টনযোগ্য লাভ বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বণ্টনযোগ্য লাভ হ্রাস পাবে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উত্তোলনের সুদ কারবারের আয় হিসেবে আবণ্টন হিসাবের ক্রেডিট দিকে যায়, ফলে বণ্টনযোগ্য লাভ বৃদ্ধি পায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-117",
+      "text": "চুক্তির অবর্তমানে অংশীদারদের ঋণের সুদের বিধান কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫.৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬.৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চুক্তির অবর্তমানে অংশীদারের ঋণের ওপর বার্ষিক ৬% হারে সুদ প্রদেয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-118",
+      "text": "কারবারের মোট মূলধনের সুদ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "বুধ ও শুক্র একটি অংশীদারি কারবারের দুজন অংশীদার। তাদের প্রারম্ভিক মূলধন ছিল যথাক্রমে ১,৬০,০০০ টাকা এবং ১,৫০,০০০ টাকা। বছরের মাঝামাঝি সময়ে বুধ আরও ৫০,০০০ টাকা মূলধন সরবরাহ করে কিন্তু কারবার পরিচালনায় অংশগ্রহণ করে না। মূলধনের সুদের হার ১০%।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DIB-19-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৩,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩১,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বুধের মূলধনের সুদ = ১,৬০,০০০ × ১০% = ১৬,০০০ টাকা\nবুধের অতিরিক্ত ৫০,০০০ টাকার ৬ মাসের সুদ = \\( ৫০,০০০ \\times ১০\\% \\times \\frac{৬}{১২} = ২,৫০০ \\) টাকা\nশুক্রের সুদ = ১,৫০,০০০ × ১০% = ১৫,০০০ টাকা\nমোট = ১৬,০০০ + ২,৫০০ + ১৫,০০০ = ৩৩,৫০০ টাকা",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-119",
+      "text": "ব্যাংকিং অংশীদারি কারবারের সর্বোচ্চ সদস্য সংখ্যা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৭ জন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮ জন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০ জন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০ জন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যাংকিং অংশীদারি কারবারে সর্বোচ্চ ১০ জন এবং অন্য কারবারে সর্বোচ্চ ২০ জন সদস্য থাকতে পারে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-120",
+      "text": "স্থায়ী মূলধন পদ্ধতিতে তৈরি করতে হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "লাভ-লোকসান আবণ্টন হিসাব"
+        },
+        {
+          "label": "ii",
+          "text": "অংশীদারদের মূলধন হিসাব"
+        },
+        {
+          "label": "iii",
+          "text": "অংশীদারদের চলতি হিসাব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থায়ী মূলধন পদ্ধতিতে (ii) অংশীদারদের মূলধন হিসাব ও (iii) চলতি হিসাব উভয়ই রাখা হয়। (i) লাভ-লোকসান আবণ্টন হিসাব উভয় পদ্ধতিতেই তৈরি হয়, তাই এটি এই পদ্ধতির বিশেষত্ব নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-121",
+      "text": "অংশীদারদের মূলধন অনুপাতে মুনাফা বণ্টন করলে মুন কত টাকা পাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান, মুন ও স্টার একটি অংশীদারি কারবারের তিনজন অংশীদার। ০১-০১-২০২৪ তারিখে তাদের মূলধন ছিল যথাক্রমে ৩০,০০০ টাকা, ২০,০০০ টাকা ও ১০,০০০ টাকা। ২০২৪ সালে নিট মুনাফা দাঁড়ায় ২১,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২১,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূলধন অনুপাত = ৩০,০০০ : ২০,০০০ : ১০,০০০ = ৩ : ২ : ১\nমুনের অংশ = \\( ২১,০০০ \\times \\frac{২}{৬} = ৭,০০০ \\) টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-122",
+      "text": "স্টার এর উত্তোলন ৩,০০০ টাকা এবং মুনাফা সমান অনুপাতে ভাগ করা হলে তার সমাপনী মূলধন কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সান, মুন ও স্টার একটি অংশীদারি কারবারের তিনজন অংশীদার। ০১-০১-২০২৪ তারিখে তাদের মূলধন ছিল যথাক্রমে ৩০,০০০ টাকা, ২০,০০০ টাকা ও ১০,০০০ টাকা। ২০২৪ সালে নিট মুনাফা দাঁড়ায় ২১,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৪,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমান অনুপাতে মুনাফা ভাগ হলে স্টারের অংশ = ২১,০০০ ÷ ৩ = ৭,০০০ টাকা\nসমাপনী মূলধন = ১০,০০০ + ৭,০০০ − ৩,০০০ = ১৪,০০০ টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-123",
+      "text": "অংশীদারদের চলতি হিসাবের ক্রেডিট উদ্বৃত্ত কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি হিসাবের ক্রেডিট উদ্বৃত্ত কারবারের নিকট অংশীদারের পাওনা, তাই এটি দায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-124",
+      "text": "চুক্তির অবর্তমানে অংশীদারি কারবারের মূলধনের উপর কত হারে সুদ ধার্য করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি চুক্তির অবর্তমানে মূলধনের ওপর কোনো সুদ ধার্য করা হয় না, অর্থাৎ সুদের হার ০%।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-125",
+      "text": "চুক্তিতে না থাকলেও অংশীদার নিচের কোনটি দাবি করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেতন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধনের সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কমিশন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চুক্তি না থাকলেও অংশীদারের ঋণের ওপর ৬% হারে সুদ পাওয়ার অধিকার আছে। বেতন, কমিশন ও মূলধনের সুদ চুক্তি ছাড়া প্রাপ্য নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-126",
+      "text": "জনাব জামালের উত্তোলনের উপর সুদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব জামাল এবং জনাব কামাল একটি অংশীদারি কারবারের দুইজন অংশীদার। জনাব জামাল প্রতি মাসের শুরুতে সারা বছর ধরে ১,৫০০ টাকা এবং জনাব কামাল বছরের মাঝামাঝি সময়ে নগদ ২০,০০০ টাকা উত্তোলন করে। উভয় উত্তোলনের উপর ১০% সুদ ধার্য করতে হবে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-MB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮২৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯৭৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৮০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতি মাসের শুরুতে উত্তোলনে গড় সময় ৬.৫ মাস।\nমোট উত্তোলন = ১,৫০০ × ১২ = ১৮,০০০ টাকা\nসুদ = \\( ১৮,০০০ \\times ১০\\% \\times \\frac{৬.৫}{১২} = ৯৭৫ \\) টাকা",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-127",
+      "text": "উত্তোলনের সুদের হার ১০% এর পরিবর্তে ৮% হলে পরিবর্তনশীল মূলধন পদ্ধতিতে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব জামাল এবং জনাব কামাল একটি অংশীদারি কারবারের দুইজন অংশীদার। জনাব জামাল প্রতি মাসের শুরুতে সারা বছর ধরে ১,৫০০ টাকা এবং জনাব কামাল বছরের মাঝামাঝি সময়ে নগদ ২০,০০০ টাকা উত্তোলন করে। উভয় উত্তোলনের উপর ১০% সুদ ধার্য করতে হবে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-MB-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অংশীদারদের মূলধন বৃদ্ধি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "মুনাফা বণ্টন অনুপাত পরিবর্তিত হবে"
+        },
+        {
+          "label": "iii",
+          "text": "বণ্টনযোগ্য মুনাফা হ্রাস পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "(i) সঠিক: সুদের হার কমলে উত্তোলনের সুদ কমে, ফলে অংশীদারদের মূলধন থেকে কম কাটা হয় এবং মূলধন বৃদ্ধি পায়।\n(ii) ভুল: মুনাফা বণ্টনের অনুপাত চুক্তি দ্বারা নির্ধারিত, তা অপরিবর্তিত থাকে।\n(iii) সঠিক: উত্তোলনের সুদ কমলে আবণ্টন হিসাবের আয় কমে, ফলে বণ্টনযোগ্য মুনাফা হ্রাস পায়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-128",
+      "text": "অংশীদারদের চলতি হিসাবের ডেবিট উদ্বৃত্ত ব্যবসায়ের কী প্রকাশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চলতি হিসাবের ডেবিট উদ্বৃত্ত কারবারের নিকট অংশীদারের দেনা বোঝায়, যা কারবারের সম্পদ হিসেবে দেখানো হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-129",
+      "text": "উক্ত বছরে মূলধন অনুপাতে মুনাফা বণ্টিত হলে রহিম কত টাকা মুনাফা পাবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাম, রহিম ও জন যথাক্রমে ৩,০০,০০০ টাকা, ২,০০,০০০ টাকা ও ১,০০,০০০ টাকা মূলধন নিয়ে অংশীদারি ব্যবসায় শুরু করেন। রহিম ব্যবসা পরিচালনার জন্য বার্ষিক ৩৬,০০০ টাকা বেতন পাবে। মূলধনের উপর ১০% সুদ ধার্য করতে হবে। বছর শেষে মুনাফার পরিমাণ ছিল ১,৫০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মূলধনের সুদ = ৬,০০,০০০ × ১০% = ৬০,০০০ টাকা\nবণ্টনযোগ্য মুনাফা = ১,৫০,০০০ − ৬০,০০০ − ৩৬,০০০ = ৫৪,০০০ টাকা\nমূলধন অনুপাত ৩ : ২ : ১; রহিমের অংশ = \\( ৫৪,০০০ \\times \\frac{২}{৬} = ১৮,০০০ \\) টাকা",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-130",
+      "text": "উদ্দীপকে মূলধনের সুদ প্রদানের হার উল্লেখ না থাকলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "রাম, রহিম ও জন যথাক্রমে ৩,০০,০০০ টাকা, ২,০০,০০০ টাকা ও ১,০০,০০০ টাকা মূলধন নিয়ে অংশীদারি ব্যবসায় শুরু করেন। রহিম ব্যবসা পরিচালনার জন্য বার্ষিক ৩৬,০০০ টাকা বেতন পাবে। মূলধনের উপর ১০% সুদ ধার্য করতে হবে। বছর শেষে মুনাফার পরিমাণ ছিল ১,৫০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-2-3",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অংশীদারগণ ৬% হারে মূলধনের সুদ পাওয়ার অধিকারী"
+        },
+        {
+          "label": "ii",
+          "text": "অংশীদারগণ মূলধনের সুদ পাওয়ার অধিকারী হবে না"
+        },
+        {
+          "label": "iii",
+          "text": "মূলধন হিসাবে মূলধনের সুদ যুক্ত হবে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "(i) ভুল: চুক্তিতে হার না থাকলে মূলধনের ওপর সুদ দেওয়া হয় না।\n(ii) সঠিক: অংশীদাররা মূলধনের সুদ পাওয়ার অধিকারী নন।\n(iii) সঠিক: সুদ ধার্য না হওয়ায় মূলধন হিসাবে সুদ যুক্ত হবে না।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-131",
+      "text": "অংশীদারি ব্যবসায়ের ক্ষেত্রে উত্তোলনের সুদ কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খরচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উত্তোলনের সুদ অংশীদারের নিকট থেকে কারবারের প্রাপ্য, তাই এটি কারবারের আয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-132",
+      "text": "অংশীদারি চুক্তি ছাড়া একজন অংশীদার নিচের কোনটি প্রাপ্য হবেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধনের সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বেতন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কমিশন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চুক্তি না থাকলেও অংশীদার ঋণের ওপর ৬% হারে সুদ পান। মূলধনের সুদ, বেতন ও কমিশন চুক্তি ছাড়া প্রাপ্য নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-133",
+      "text": "অংশীদারি ব্যবসায় নিবন্ধনের দ্বারা কোনটি ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আইন সত্তার সৃষ্টি হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খরচ বাড়ে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "খরচ কমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায় কমে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নিবন্ধনের ফলে অংশীদারি কারবার আইনগত সত্তা অর্জন করে, যা মামলা করা ও মামলার সম্মুখীন হওয়ার সুযোগ দেয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "মুদ্রিত উত্তর (ক); তবে নিবন্ধন করলেও অংশীদারি ব্যবসায় আলাদা আইনগত সত্তা পায় না — নিবন্ধনের ফলে মূলত তৃতীয় পক্ষের বিরুদ্ধে মামলা করার অধিকার জন্মায়। বিকল্পগুলোর মধ্যে (ক)-ই নিকটতম।"
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-134",
+      "text": "নিচের কোনটি অংশীদারি ব্যবসায়ে বাধ্যতামূলক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিবন্ধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দলিল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চুক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইনগত সত্তা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি ব্যবসায় চুক্তি ছাড়া গঠিত হয় না, তাই চুক্তি বাধ্যতামূলক। নিবন্ধন ও দলিল বাধ্যতামূলক নয় এবং সাধারণ অংশীদারি কারবারের পৃথক আইনগত সত্তা নেই।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-135",
+      "text": "অংশীদারি ব্যবসায়ের বৈশিষ্ট্যসমূহ হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চুক্তি নির্ভর"
+        },
+        {
+          "label": "ii",
+          "text": "অসীম দায়"
+        },
+        {
+          "label": "iii",
+          "text": "বাধ্যতামূলক নিবন্ধন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "(i) সঠিক: অংশীদারি ব্যবসায় চুক্তিনির্ভর।\n(ii) সঠিক: অংশীদারদের দায় অসীম।\n(iii) ভুল: নিবন্ধন বাধ্যতামূলক নয়, ঐচ্ছিক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-136",
+      "text": "উদ্দীপকের আলোকে অংশীদারদের মোট উত্তোলনের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "'ক', 'খ' ও 'গ' একটি অংশীদারি ব্যবসায়ের তিনজন অংশীদার। 'ক' প্রতি মাসের শুরুতে ১,০০০ টাকা, 'খ' প্রতি মাসের মাঝামাঝি ৮০০ টাকা এবং 'গ' প্রতি মাসের শেষে ৬০০ টাকা করে সারা বছর ধরে নগদ উত্তোলন করেন। উত্তোলনের সুদ ১০% এবং হিসাবকাল ১ বছর।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২৬,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৮,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩১,২০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "'ক' এর উত্তোলন = ১,০০০ × ১২ = ১২,০০০ টাকা\n'খ' এর উত্তোলন = ৮০০ × ১২ = ৯,৬০০ টাকা\n'গ' এর উত্তোলন = ৬০০ × ১২ = ৭,২০০ টাকা\nমোট = ১২,০০০ + ৯,৬০০ + ৭,২০০ = ২৮,৮০০ টাকা",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-137",
+      "text": "'গ' এর উত্তোলনের সুদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "'ক', 'খ' ও 'গ' একটি অংশীদারি ব্যবসায়ের তিনজন অংশীদার। 'ক' প্রতি মাসের শুরুতে ১,০০০ টাকা, 'খ' প্রতি মাসের মাঝামাঝি ৮০০ টাকা এবং 'গ' প্রতি মাসের শেষে ৬০০ টাকা করে সারা বছর ধরে নগদ উত্তোলন করেন। উত্তোলনের সুদ ১০% এবং হিসাবকাল ১ বছর।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-SB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩৩০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৯০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭২০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মাসের শেষে উত্তোলনে গড় সময় ৫.৫ মাস।\n'গ' এর সুদ = \\( ৭,২০০ \\times ১০\\% \\times \\frac{৫.৫}{১২} = ৩৩০ \\) টাকা",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-138",
+      "text": "অংশীদারদের চলতি হিসাবের ক্রেডিট জের কি প্রকাশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি হিসাবের ক্রেডিট জের কারবারের নিকট অংশীদারের পাওনা, তাই এটি দায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-139",
+      "text": "চুক্তিতে উল্লেখ না থাকলেও অংশীদারি কারবারে সুদ ধরতে হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঋণের ওপর"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধনের ওপর"
+        },
+        {
+          "label": "iii",
+          "text": "উত্তোলনের ওপর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চুক্তি না থাকলেও কেবল (i) ঋণের ওপর ৬% হারে সুদ ধরতে হয়। মূলধন ও উত্তোলনের ওপর সুদ চুক্তিতে উল্লেখ থাকলেই ধরা হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch2-mcq-140",
+      "text": "প্রতি মাসের শুরুতে সারা বছর ধরে উত্তোলন করলে উত্তোলনের সুদ ধরা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫.৫ মাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬ মাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬.৫ মাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২ মাস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মাসের শুরুতে উত্তোলনে প্রথম উত্তোলনের ১২ মাস ও শেষ উত্তোলনের ১ মাস সুদ ধরা হয়; গড় ৬.৫ মাস।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

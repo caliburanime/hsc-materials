@@ -2197,18 +2197,26 @@
           "image": null
         }
       ],
-      "answer": "b",
+      "answer": "a",
       "answer_source": "derived",
-      "explanation": "দায়-সম্পত্তি অনুপাত মোট সম্পত্তির তুলনায় দায়ের পরিমাণ দেখিয়ে ঋণ পরিশোধ ক্ষমতা নির্দেশ করে। বাকিগুলো তারল্য বা কার্যদক্ষতার অনুপাত।",
+      "explanation": "চলতি অনুপাত চলতি সম্পদ ও চলতি দায়ের তুলনা করে স্বল্পমেয়াদি ঋণ পরিশোধ ক্ষমতা নির্দেশ করে। মজুদ ও সম্পদ আবর্তন অনুপাত কার্যদক্ষতার এবং দায়-সম্পত্তি অনুপাত দীর্ঘমেয়াদি স্বচ্ছলতার অনুপাত।",
       "source": {
         "board": "CUB",
         "year": "2023",
         "qno": 18,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 12,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null,
-      "review_note": "sattacademy-তে উত্তর (ক) চলতি অনুপাত; কিন্তু চলতি অনুপাত তারল্য অনুপাত — ঋণ পরিশোধ ক্ষমতা (সচ্ছলতা) নির্দেশক অনুপাত হলো দায়-সম্পত্তি অনুপাত (খ)। যাচাই প্রয়োজন।"
+      "review_note": "sattacademy ও ২০২৫ সালের দিনাজপুর বোর্ডের (একই প্রশ্ন) উত্তর (ক) চলতি অনুপাত — স্বল্পমেয়াদি ঋণ পরিশোধ ক্ষমতা নির্দেশ করে; দীর্ঘমেয়াদি সচ্ছলতা বোঝাতে দায়-সম্পত্তি অনুপাতও যুক্তিসঙ্গত।"
     },
     {
       "id": "accounting_2nd-ch6-mcq-053",
@@ -3365,6 +3373,1823 @@
         "board": "SB",
         "year": "2023",
         "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-082",
+      "text": "চলতি অনুপাতের আদর্শ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩ : ২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১ : ২",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাতের আদর্শ মান ২ : ১।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-083",
+      "text": "নিচের কোনটি তারল্য অনুপাত নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট লাভ অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নিপরীক্ষা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি মূলধন অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মোট লাভ অনুপাত লাভজনকতার (মুনাফা অর্জন) অনুপাত; বাকিগুলো তারল্য অনুপাত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-084",
+      "text": "করিম লিঃ কোম্পানির বিক্রয়ের পরিমাণ ১৬,০০,০০০ টাকা। বিক্রয় ফেরত ১,৪০,০০০ টাকা, বিক্রয় বাট্টা ১,১০,০০০ টাকা, মোট লাভ ৫,০০,০০০ টাকা ও নীট লাভ ২,৫০,০০০ টাকা। কোম্পানির মোট লাভ অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৩.৮৮%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৩.৩৩%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৫.৭১%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৭.০৪%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিট বিক্রয় = ১৬,০০,০০০ − ১,৪০,০০০ − ১,১০,০০০ = ১৩,৫০,০০০ টাকা\nমোট লাভ অনুপাত = (৫,০০,০০০ ÷ ১৩,৫০,০০০) × ১০০ = ৩৭.০৪%।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-085",
+      "text": "মোট লাভ অনুপাত দ্বারা যাচাই করা হয় প্রতিষ্ঠানের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক সচ্ছলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবস্থাপকীয় দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণ পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মোট লাভ অনুপাত বিক্রয়ের তুলনায় মোট মুনাফার হার দেখায়, যা প্রতিষ্ঠানের মুনাফা অর্জন ক্ষমতা নির্দেশ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-086",
+      "text": "নিচের কোনটি ত্বরিত সম্পদ নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রাপ্য হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক জমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রিম খরচ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অগ্রিম খরচ নগদে রূপান্তরযোগ্য নয়, তাই এটি ত্বরিত (তরল) সম্পদ নয়। নগদ, প্রাপ্য হিসাব ও ব্যাংক জমা ত্বরিত সম্পদ।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-087",
+      "text": "আর্থিক বিবরণী বিশ্লেষণের উদ্দেশ্য হলো ব্যবসায়ের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারল্য ক্ষমতা যাচাই"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবস্থাপনার দক্ষতা যাচাই"
+        },
+        {
+          "label": "iii",
+          "text": "মুনাফা অর্জন ক্ষমতা যাচাই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আর্থিক বিবরণী বিশ্লেষণের মাধ্যমে তারল্য, ব্যবস্থাপনার দক্ষতা ও মুনাফা অর্জন ক্ষমতা—তিনটিই যাচাই করা যায়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-088",
+      "text": "চলতি অনুপাতের আদর্শ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১ : ২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১ : ৩",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২ : ১",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাতের আদর্শ মান ২ : ১।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-089",
+      "text": "একটি ফার্মের চলতি সম্পদ ২,০০,০০০ টাকা ও চলতি অনুপাত ২.৫ : ১ হলে চলতি দায়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,২০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,০০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাত = চলতি সম্পদ ÷ চলতি দায়\n২.৫ = ২,০০,০০০ ÷ চলতি দায়\nচলতি দায় = ২,০০,০০০ ÷ ২.৫ = ৮০,০০০ টাকা।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-090",
+      "text": "মোট সম্পদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্থায়ী সম্পদ ৬,০০,০০০ টাকা, চলতি দায় ১,০০,০০০ টাকা, চলতি মূলধন ৩,০০,০০০ টাকা, শেয়ার অবহার ২০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,২০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০,২০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি সম্পদ = চলতি মূলধন + চলতি দায়:\n\\( 3{,}00{,}000 + 1{,}00{,}000 = 4{,}00{,}000 \\) টাকা\nশেয়ার অবহার (বাট্টা) একটি কাল্পনিক সম্পদ, যা আর্থিক অবস্থার বিবরণীর সম্পদ পাশে দেখানো হয়:\n\\( 6{,}00{,}000 + 4{,}00{,}000 + 20{,}000 = 10{,}20{,}000 \\) টাকা (ঘ)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-091",
+      "text": "ব্যাংক জমাতিরিক্ত ১৭,০০০ টাকা হলে, ত্বরিৎ দায়ের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্থায়ী সম্পদ ৬,০০,০০০ টাকা, চলতি দায় ১,০০,০০০ টাকা, চলতি মূলধন ৩,০০,০০০ টাকা, শেয়ার অবহার ২০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,১৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ত্বরিত দায় = চলতি দায় − ব্যাংক জমাতিরিক্ত\n= ১,০০,০০০ − ১৭,০০০ = ৮৩,০০০ টাকা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-092",
+      "text": "বিক্রয়ের উপর মুনাফার হার ২০% হলে, বিক্রীত পণ্যের ব্যয়ের উপর মুনাফার হার কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৬.৬৭%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৩.৩৩%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ধরি বিক্রয় ১০০ টাকা, মুনাফা ২০ টাকা, তাই বিক্রীত পণ্যের ব্যয় ৮০ টাকা।\nব্যয়ের উপর মুনাফার হার = (২০ ÷ ৮০) × ১০০ = ২৫%।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-093",
+      "text": "চলতি অনুপাতের উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা প্রদর্শন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারল্য প্রদর্শন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্যদক্ষতা প্রদর্শন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সচ্ছলতা প্রদর্শন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাত চলতি সম্পদ দিয়ে চলতি দায় পরিশোধের সামর্থ্য দেখায়, অর্থাৎ প্রতিষ্ঠানের তারল্য প্রদর্শন করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-094",
+      "text": "দায়-মালিকানা অনুপাত নির্ণয়ে প্রয়োজন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দীর্ঘ মেয়াদি দায়"
+        },
+        {
+          "label": "ii",
+          "text": "চলতি দায়"
+        },
+        {
+          "label": "iii",
+          "text": "মালিকানা তহবিল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দায়-মালিকানা অনুপাত = মোট দায় (দীর্ঘমেয়াদি দায় + চলতি দায়) ÷ মালিকানা তহবিল। তাই তিনটি উপাদানই প্রয়োজন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-095",
+      "text": "কোনটি মুনাফা অর্জন ক্ষমতা যাচাইয়ের অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োজিত মূলধনের আয় অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিনিয়োজিত মূলধনের আয় অনুপাত মুনাফা অর্জন ক্ষমতা যাচাই করে। চলতি ও কার্যকরী মূলধন অনুপাত তারল্যের এবং দায়-মালিকানা অনুপাত স্বচ্ছলতার অনুপাত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-096",
+      "text": "কোনটি স্বচ্ছলতার ক্ষমতা যাচাইয়ের অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোট মুনাফা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায় মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তরল অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দায়-মালিকানা অনুপাত দীর্ঘমেয়াদি স্বচ্ছলতা (সচ্ছলতা) যাচাইয়ের অনুপাত। মোট মুনাফা অনুপাত লাভজনকতার এবং তরল ও কার্যকরী মূলধন অনুপাত তারল্যের অনুপাত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-097",
+      "text": "তরল অনুপাতের আদর্শ মান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "০.৫ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "০.২৫ : ১",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তরল অনুপাতের আদর্শ মান ১ : ১।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-098",
+      "text": "চলতি সম্পদের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান ৯০,০০০ টাকা, মজুত পণ্য ২০,০০০ টাকা, প্রাপ্য হিসাব ৪০,০০০ টাকা, প্রদেয় হিসাব ২৫,০০০ টাকা এবং ব্যাংক জমাতিরিক্ত ৫০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "৯০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,১০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৫০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,০০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চলতি সম্পদ = নগদান + মজুত পণ্য + প্রাপ্য হিসাব = ৯০,০০০ + ২০,০০০ + ৪০,০০০ = ১,৫০,০০০ টাকা।\nপ্রদেয় হিসাব ও ব্যাংক জমাতিরিক্ত দায়, তাই চলতি সম্পদে ধরা হয় না।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-099",
+      "text": "কার্যকরী মূলধনের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "নগদান ৯০,০০০ টাকা, মজুত পণ্য ২০,০০০ টাকা, প্রাপ্য হিসাব ৪০,০০০ টাকা, প্রদেয় হিসাব ২৫,০০০ টাকা এবং ব্যাংক জমাতিরিক্ত ৫০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "৭৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৯০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,১০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৫০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চলতি দায় = প্রদেয় হিসাব + ব্যাংক জমাতিরিক্ত = ২৫,০০০ + ৫০,০০০ = ৭৫,০০০ টাকা\nকার্যকরী মূলধন = চলতি সম্পদ − চলতি দায় = ১,৫০,০০০ − ৭৫,০০০ = ৭৫,০০০ টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-100",
+      "text": "অনুপাত হলো দুটি রাশির—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যোগফল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গুণফল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভাগফল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিয়োগফল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অনুপাত হলো একটি রাশিকে অপর রাশি দিয়ে ভাগ করে প্রাপ্ত ভাগফল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-101",
+      "text": "চলতি অনুপাত ৩ : ১ এবং চলতি সম্পত্তি ১৮,০০০ টাকা হলে চলতি দায় কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাত = চলতি সম্পদ ÷ চলতি দায়\nচলতি দায় = ১৮,০০০ ÷ ৩ = ৬,০০০ টাকা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-102",
+      "text": "তরল সম্পদ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যাংক জমা"
+        },
+        {
+          "label": "ii",
+          "text": "সমাপনী মজুদ"
+        },
+        {
+          "label": "iii",
+          "text": "প্রাপ্য বিল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাংক জমা (i) ও প্রাপ্য বিল (iii) দ্রুত নগদে রূপান্তরযোগ্য, তাই তরল সম্পদ। সমাপনী মজুদ (ii) বিক্রি না হওয়া পর্যন্ত নগদ হয় না, তাই তরল সম্পদ নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-103",
+      "text": "মোট লাভ অনুপাত দ্বারা যাচাই করা হয় প্রতিষ্ঠানের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক স্বচ্ছলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবস্থাপনীয় দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণ পরিশোধ ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মোট লাভ অনুপাত বিক্রয়ের উপর মোট মুনাফার হার দেখায়, যা প্রতিষ্ঠানের মুনাফা অর্জন ক্ষমতা নির্দেশ করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-104",
+      "text": "নিটলাভ অনুপাত দ্বারা যাচাই করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক সচ্ছলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবস্থাপকীয় দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঋণ পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিট লাভ অনুপাত বিক্রয়ের উপর নিট মুনাফার হার দেখায়, যা মুনাফা অর্জন ক্ষমতা যাচাই করে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-105",
+      "text": "নিচের কোনটি তারল্য মাপক অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন গিয়ারিং অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দেনাদার আবর্তন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাত চলতি সম্পদ ও চলতি দায়ের তুলনা করে তারল্য মাপে। অন্যগুলো যথাক্রমে মূলধন কাঠামো, কার্যদক্ষতা ও দীর্ঘমেয়াদি স্বচ্ছলতার অনুপাত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-106",
+      "text": "চলতি অনুপাতের আদর্শ মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩ : ২",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চলতি অনুপাতের আদর্শ মান ২ : ১।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-107",
+      "text": "কার্যকরী মূলধন অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্থায়ী সম্পদ ৬,০০,০০০ টাকা, কার্যকরী মূলধন ৩,০০,০০০ টাকা ও চলতি দায় ১,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "১ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬ : ১",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কার্যকরী মূলধন অনুপাত = কার্যকরী মূলধন ÷ চলতি দায় = ৩,০০,০০০ ÷ ১,০০,০০০ = ৩ : ১।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-108",
+      "text": "মোট চলতি সম্পদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "স্থায়ী সম্পদ ৬,০০,০০০ টাকা, কার্যকরী মূলধন ৩,০০,০০০ টাকা ও চলতি দায় ১,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি সম্পদ = কার্যকরী মূলধন + চলতি দায় = ৩,০০,০০০ + ১,০০,০০০ = ৪,০০,০০০ টাকা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-109",
+      "text": "নিচের কোন অনুপাতটি স্বল্পকালীন তারল্যের মাপকাঠি হিসাবে বিবেচিত হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ত্বরিত অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দায়-মালিকানা অনুপাত দীর্ঘমেয়াদি স্বচ্ছলতার অনুপাত; ত্বরিত, কার্যকরী মূলধন ও চলতি অনুপাত স্বল্পকালীন তারল্য মাপে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-110",
+      "text": "নিট কার্যকরী মূলধনের পরিমাণ ৬০,০০০ টাকা এবং চলতি অনুপাত ৭ : ৫ হলে চলতি সম্পদের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৫০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ধরি চলতি সম্পদ = ৭ অংশ, চলতি দায় = ৫ অংশ। নিট কার্যকরী মূলধন = ২ অংশ = ৬০,০০০ টাকা\n১ অংশ = ৩০,০০০ টাকা, তাই চলতি সম্পদ = ৭ × ৩০,০০০ = ২,১০,০০০ টাকা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-111",
+      "text": "মালিকানা স্বত্বের পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "রতন লিমিটেড-এর ৩১ ডিসেম্বর, ২০২৪ তারিখে মোট সম্পদ ৪০,০০,০০০ টাকার মধ্যে চলতি সম্পদের পরিমাণ ৫,০০,০০০ টাকা। কোম্পানির মোট বহির্দায়ের পরিমাণ ২৫,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-MB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২০,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৫,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মালিকানা স্বত্ব = মোট সম্পদ − বহির্দায় = ৪০,০০,০০০ − ২৫,০০,০০০ = ১৫,০০,০০০ টাকা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-112",
+      "text": "রতন লিমিটেড-এর দায়-মোট সম্পত্তি অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "রতন লিমিটেড-এর ৩১ ডিসেম্বর, ২০২৪ তারিখে মোট সম্পদ ৪০,০০,০০০ টাকার মধ্যে চলতি সম্পদের পরিমাণ ৫,০০,০০০ টাকা। কোম্পানির মোট বহির্দায়ের পরিমাণ ২৫,০০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-MB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "০.৭১৪ : ১",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "০.৬২৫ : ১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "০.৫৫৬ : ১",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "০.৫০ : ১",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দায়-মোট সম্পত্তি অনুপাত = বহির্দায় ÷ মোট সম্পত্তি = ২৫,০০,০০০ ÷ ৪০,০০,০০০ = ০.৬২৫ : ১।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-113",
+      "text": "তারল্য অনুপাত কী নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বল্পমেয়াদি দায় পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দীর্ঘমেয়াদি দায় পরিশোধের ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরিচালন দক্ষতার পরিমাপ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তারল্য অনুপাত চলতি সম্পদ দিয়ে স্বল্পমেয়াদি (চলতি) দায় পরিশোধের ক্ষমতা নির্দেশ করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-114",
+      "text": "বিক্রিত পণ্যের ব্যয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিট বিক্রয় ৪২,০০০ টাকা, মোট লাভ ৮,৪০০ টাকা, প্রারম্ভিক মজুদ ৪,০০০ টাকা ও সমাপনী মজুদ ৬,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮,৪০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৩,৬০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০,৪০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫২,৫০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিক্রীত পণ্যের ব্যয় = নিট বিক্রয় − মোট লাভ = ৪২,০০০ − ৮,৪০০ = ৩৩,৬০০ টাকা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-115",
+      "text": "মজুদ আবর্তন অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "নিট বিক্রয় ৪২,০০০ টাকা, মোট লাভ ৮,৪০০ টাকা, প্রারম্ভিক মজুদ ৪,০০০ টাকা ও সমাপনী মজুদ ৬,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩.৩২ বার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪.৩২ বার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫.৩২ বার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬.৭২ বার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গড় মজুদ = (৪,০০০ + ৬,০০০) ÷ ২ = ৫,০০০ টাকা\nমজুদ আবর্তন অনুপাত = বিক্রীত পণ্যের ব্যয় ÷ গড় মজুদ = ৩৩,৬০০ ÷ ৫,০০০ = ৬.৭২ বার।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-116",
+      "text": "তরল সম্পদ (−) মজুদ পণ্য (−) অগ্রিম খরচ = কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অলীক সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থায়ী সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অস্পর্শনীয় সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তরল সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তরল (ত্বরিত) সম্পদ = চলতি সম্পদ − মজুদ পণ্য − অগ্রিম খরচ। প্রশ্নে সূত্রের শুরুতে 'চলতি সম্পদ'-এর স্থলে 'তরল সম্পদ' ছাপা হয়েছে; সূত্রটি যে সম্পদ নির্ণয় করে তা হলো তরল সম্পদ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "প্রশ্নে মুদ্রণ ত্রুটি: শুরুর পদটি 'চলতি সম্পদ' হওয়ার কথা — চলতি সম্পদ − মজুদ পণ্য − অগ্রিম খরচ = তরল সম্পদ। | উত্তর যাচাই: প্রশ্নের সূত্রটি ত্রুটিপূর্ণ: তরল সম্পদ থেকে মজুদ ও অগ্রিম খরচ বাদ দেওয়ার কথা নয়; চলতি সম্পদ − মজুদ − অগ্রিম খরচ = তরল সম্পদ। ছাপা অনুযায়ী কোনো বিকল্প যথাযথ নয়, তবে মূল উদ্দেশ্য অনুযায়ী (ঘ) গ্রহণযোগ্য।"
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-117",
+      "text": "নিট বিক্রয় ৪২,০০০ টাকা, মোট লাভ ১০,৫০০ টাকা এবং পরিচালন খরচ ২,১০০ টাকা। নিট লাভের হার কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিট মুনাফা = মোট লাভ − পরিচালন খরচ = ১০,৫০০ − ২,১০০ = ৮,৪০০ টাকা\nনিট লাভের হার = (৮,৪০০ ÷ ৪২,০০০) × ১০০ = ২০%।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-118",
+      "text": "কোন অনুপাতটি দীর্ঘমেয়াদী স্বচ্ছলতার নির্দেশক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন গিয়ারিং অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিট মুনাফা অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দায়-মালিকানা অনুপাত দীর্ঘমেয়াদি স্বচ্ছলতা নির্দেশ করে। চলতি অনুপাত তারল্য এবং নিট মুনাফা অনুপাত লাভজনকতার সূচক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-119",
+      "text": "মোট ব্যয় ৩,০০,০০০ টাকা, বিক্রয় মূল্যের উপর লাভের হার ২৫% হলে মুনাফা কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬২,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিক্রয় মূল্যের ২৫% লাভ হলে ব্যয় = বিক্রয়ের ৭৫%\nবিক্রয় = ৩,০০,০০০ ÷ ০.৭৫ = ৪,০০,০০০ টাকা\nমুনাফা = ৪,০০,০০০ − ৩,০০,০০০ = ১,০০,০০০ টাকা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-120",
+      "text": "বহির্দায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিষ্ঠানের সম্পত্তির উপর তৃতীয় পক্ষের পাওনা"
+        },
+        {
+          "label": "ii",
+          "text": "মোট চলতি দায় ও দীর্ঘমেয়াদি ঋণ"
+        },
+        {
+          "label": "iii",
+          "text": "এর পরিমাণ মূলধন তহবিলের সমপরিমাণ হওয়া উচিত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বহির্দায় হলো প্রতিষ্ঠানের সম্পত্তির উপর তৃতীয় পক্ষের পাওনা (i), যা মোট চলতি দায় ও দীর্ঘমেয়াদি ঋণের সমষ্টি (ii)। বহির্দায় মূলধন তহবিলের সমান হতে হবে এমন কোনো বাধ্যবাধকতা নেই, তাই (iii) ভুল।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-121",
+      "text": "চলতি মূলধন অনুপাত নির্ণয়ের সূত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি সম্পদ ÷ চলতি দায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চলতি মূলধন ÷ মোট দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চলতি মূলধন ÷ চলতি দায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তড়িৎ সম্পদ ÷ তড়িৎ দায়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের সূত্র অনুযায়ী চলতি মূলধন (কার্যকরী মূলধন) অনুপাত = চলতি মূলধন ÷ চলতি দায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-122",
+      "text": "কোনটি ব্যবসায় প্রতিষ্ঠানের দ্রুত তরল সম্পদ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ তহবিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মজুদ পণ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপ্য হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রাপ্য নোট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নগদ তহবিল সরাসরি নগদ, তাই এটি সবচেয়ে দ্রুত তরল সম্পদ। প্রাপ্য হিসাব ও প্রাপ্য নোট আদায় সাপেক্ষ এবং মজুদ পণ্য বিক্রয় সাপেক্ষ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-123",
+      "text": "নিচের কোনটি দীর্ঘমেয়াদী স্বচ্ছলতা অনুপাত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারল্য অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায়-মালিকানা অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্যকরী মূলধন অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দায়-মালিকানা অনুপাত দীর্ঘমেয়াদি স্বচ্ছলতা যাচাই করে। চলতি, তারল্য ও কার্যকরী মূলধন অনুপাত স্বল্পমেয়াদি তারল্যের অনুপাত।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-124",
+      "text": "অনুপাত বিশ্লেষণের মাধ্যমে যাচাই করা হয় ব্যবসায়ের—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দক্ষতা"
+        },
+        {
+          "label": "ii",
+          "text": "স্বচ্ছলতা"
+        },
+        {
+          "label": "iii",
+          "text": "লাভজনকতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অনুপাত বিশ্লেষণে ব্যবসায়ের দক্ষতা, স্বচ্ছলতা ও লাভজনকতা—তিনটিই যাচাই করা যায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch6-mcq-125",
+      "text": "নিট বিক্রয় ১,৬৮,০০০ টাকা, মোট লাভ ৪২,০০০ টাকা এবং পরিচালন ব্যয় ৮,৪০০ টাকা। নিট লাভের অনুপাত কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩০%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিট মুনাফা = মোট লাভ − পরিচালন ব্যয় = ৪২,০০০ − ৮,৪০০ = ৩৩,৬০০ টাকা\nনিট লাভ অনুপাত = (৩৩,৬০০ ÷ ১,৬৮,০০০) × ১০০ = ২০%।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 28,
         "session": null
       },
       "tags": [],

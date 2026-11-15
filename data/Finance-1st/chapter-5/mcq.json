@@ -367,6 +367,232 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch5-mcq-010",
+      "text": "তারল্য ঘাটতি হওয়ার কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেশি বিনিয়োগ"
+        },
+        {
+          "label": "ii",
+          "text": "অধিক বাকিতে বিক্রয়"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণ পরিশোধ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অতিরিক্ত বিনিয়োগে নগদ আটকে যায়, বাকিতে বিক্রয়ে নগদ আসে দেরিতে এবং ঋণ পরিশোধে নগদ বের হয়। তাই তিনটি কারণেই তারল্য ঘাটতি হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch5-mcq-011",
+      "text": "চলতি সম্পদে বিনিয়োগ অপর্যাপ্ত হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎপাদন হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "দেউলিয়াত্ব ঝুঁকি বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "মুনাফা বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি সম্পদ অপর্যাপ্ত হলে কাঁচামাল ইত্যাদির অভাবে উৎপাদন কমে (i) এবং দায় পরিশোধের সামর্থ্য কমায় দেউলিয়াত্বের ঝুঁকি বাড়ে (ii)। অলস সম্পদ কম থাকায় বিনিয়োগ লাভজনক খাতে যায়, ফলে মুনাফা বৃদ্ধি পায় (iii)। এখানে মুনাফা ও তারল্য বিপরীতমুখী।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch5-mcq-012",
+      "text": "ট্রেজারি বিল কে ইস্যু করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কেন্দ্রীয় ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সরকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাণিজ্যিক ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশেষায়িত ব্যাংক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বিল সরকার স্বল্পমেয়াদি ঋণ সংগ্রহের জন্য ইস্যু করে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch5-mcq-013",
+      "text": "নিচের কোনটি তারল্যের সাথে সম্পর্কিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থির ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থায়ী সম্পদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৈচিত্র্যায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি সম্পদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তারল্য মানে সহজে নগদে রূপান্তরযোগ্য সম্পদ; চলতি সম্পদ দ্রুত নগদে রূপান্তরযোগ্য বলে তারল্যের সাথে সম্পর্কিত।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch5-mcq-014",
+      "text": "তাৎক্ষণিকভাবে ব্যবসায়িক সংকট উত্তরণে 'P' ট্রেডার্স কোন ব্যবস্থা গ্রহণ করতে পারে?",
+      "text_en": null,
+      "image": null,
+      "stem": "'P' ট্রেডার্স তার মূলধনের অধিকাংশ অর্থ একটি প্রকল্পে বিনিয়োগ করল। কিছুদিন পর পাওনাদারদের পাওনা অর্থ পরিশোধে ব্যর্থ হওয়ায় প্রতিষ্ঠানটি ব্যবসায়িক সংকটে পড়ে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার ইস্যু",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রাধিকার শেয়ার ইস্যু",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দীর্ঘমেয়াদি ঋণ গ্রহণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বল্পমেয়াদি ঋণ গ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তাৎক্ষণিক সংকট উত্তরণে পাওনাদারদের পাওনা মেটাতে দ্রুত সংগ্রহযোগ্য স্বল্পমেয়াদি ঋণ উপযুক্ত। শেয়ার বা দীর্ঘমেয়াদি ঋণ সংগ্রহে সময় লাগে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

@@ -1558,6 +1558,14 @@
         "qno": 25,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DB",
+          "year": "2025",
+          "qno": 4,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1859,6 +1867,1786 @@
         "board": "ALL",
         "year": "2026",
         "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-045",
+      "text": "কর্মীসংস্থান প্রক্রিয়ার অন্তর্ভুক্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মী সংগ্রহ"
+        },
+        {
+          "label": "ii",
+          "text": "কর্মী নির্বাচন"
+        },
+        {
+          "label": "iii",
+          "text": "কর্মী প্রশিক্ষণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কর্মীসংস্থান প্রক্রিয়ায় কর্মী সংগ্রহ, নির্বাচন, নিয়োগ ও প্রশিক্ষণ অন্তর্ভুক্ত। তাই i, ii ও iii সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-046",
+      "text": "নিচের কোনটি প্রশিক্ষণ পদ্ধতির বহির্ভূত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সেমিনার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পদ পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিক্ষানবিশ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পদোন্নতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সেমিনার, পদ পরিবর্তন ও শিক্ষানবিশ প্রশিক্ষণ পদ্ধতি। পদোন্নতি কর্মীর পদমর্যাদা বৃদ্ধি, এটি প্রশিক্ষণ পদ্ধতি নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-047",
+      "text": "নিচের কোনটি নির্বাচন প্রক্রিয়ার বহির্ভূত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লিখিত পরীক্ষা গ্রহণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিজ্ঞাপন প্রদান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাক্ষাৎকার গ্রহণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ডাক্তারী পরীক্ষা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "লিখিত পরীক্ষা, সাক্ষাৎকার ও ডাক্তারি পরীক্ষা নির্বাচন প্রক্রিয়ার অংশ। বিজ্ঞাপন প্রদান কর্মী সংগ্রহের কাজ, নির্বাচনের নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-048",
+      "text": "উদ্দীপকের পরীক্ষা গ্রহণ নিচের কোনটির সাথে সম্পৃক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন গ্রিন লি. এর ব্যবস্থাপনা পরিচালক। এই প্রতিষ্ঠানের বিক্রয় ব্যবস্থাপকের শূন্য পদ পূরণের জন্য কর্মীদের মধ্য থেকে পরীক্ষা ও পূর্বের অভিজ্ঞতা বিবেচনা করে প্রার্থী বাছাই করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-BB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মী নিয়োগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী উন্নয়ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরীক্ষা ও অভিজ্ঞতা বিবেচনা করে প্রার্থী বাছাই করা কর্মী নির্বাচনের কাজ।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-049",
+      "text": "এই ধরনের কর্মীসংস্থানের ফলে গ্রিন লি. যেসব সুবিধা পায় তা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন গ্রিন লি. এর ব্যবস্থাপনা পরিচালক। এই প্রতিষ্ঠানের বিক্রয় ব্যবস্থাপকের শূন্য পদ পূরণের জন্য কর্মীদের মধ্য থেকে পরীক্ষা ও পূর্বের অভিজ্ঞতা বিবেচনা করে প্রার্থী বাছাই করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-BB-5-6",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অভ্যন্তরীণ কর্মীদের উদ্বুদ্ধকরণ"
+        },
+        {
+          "label": "ii",
+          "text": "কার্য পরিবেশের সাথে খাপ খাওয়ানো"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদনশীলতা বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কর্মীদের মধ্য থেকে পদোন্নতি দিলে অভ্যন্তরীণ কর্মীরা উদ্বুদ্ধ হয় এবং তারা কার্যপরিবেশের সাথে আগে থেকেই পরিচিত থাকে (i, ii)। তবে উৎপাদনশীলতা বৃদ্ধি এর নিশ্চিত সুবিধা নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-050",
+      "text": "কর্মী সংগ্রহের অভ্যন্তরীণ উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পদোন্নতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিজ্ঞাপন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিক্ষা প্রতিষ্ঠান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৃত্তিমূলক প্রশিক্ষণ কেন্দ্র",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পদোন্নতি প্রতিষ্ঠানের ভেতরের কর্মীদের মধ্য থেকে হয়, তাই এটি কর্মী সংগ্রহের অভ্যন্তরীণ উৎস। অন্যগুলো বাহ্যিক উৎস।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-051",
+      "text": "কর্মী নির্বাচন প্রক্রিয়ার অন্তর্ভুক্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিজ্ঞপ্তি প্রদান"
+        },
+        {
+          "label": "ii",
+          "text": "আবেদনপত্র বাছাই"
+        },
+        {
+          "label": "iii",
+          "text": "সাক্ষাৎকার গ্রহণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আবেদনপত্র বাছাই ও সাক্ষাৎকার গ্রহণ নির্বাচন প্রক্রিয়ার অংশ (ii, iii)। বিজ্ঞপ্তি প্রদান কর্মী সংগ্রহের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-052",
+      "text": "উদ্দীপকে কর্মী সংগ্রহের কোন উৎস ব্যবহার করা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "শাপলা ব্যাংক লি. এর নির্বাহী নিয়োগের প্রয়োজন। পরিচালনা পর্ষদের চেয়ারম্যান জনাব তালুকদার বিভিন্ন উৎস থেকে নির্বাহী সংগ্রহের সুবিধা-অসুবিধা বিবেচনা করে তার পরিচিত জনাব সাজেদ চৌধুরীকে নির্বাহী হিসাবে নিয়োগ দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-CB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "বিজ্ঞাপন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেধার শিকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাহ্যিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভ্যন্তরীণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নির্বাহী নিয়োগে প্রতিষ্ঠানের পরিচিত ও বিশ্বস্ত ব্যক্তিকে বেছে নেওয়া হয়েছে, যা পাঠ্যবইয়ের প্রশ্নকাঠামো অনুযায়ী অভ্যন্তরীণ উৎসের উদাহরণ হিসেবে ধরা হয়েছে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-053",
+      "text": "বর্ণিত উৎস হতে কর্মী সংগ্রহের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "শাপলা ব্যাংক লি. এর নির্বাহী নিয়োগের প্রয়োজন। পরিচালনা পর্ষদের চেয়ারম্যান জনাব তালুকদার বিভিন্ন উৎস থেকে নির্বাহী সংগ্রহের সুবিধা-অসুবিধা বিবেচনা করে তার পরিচিত জনাব সাজেদ চৌধুরীকে নির্বাহী হিসাবে নিয়োগ দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-CB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যয় হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "আনুষ্ঠানিকতা বেশি পালন করতে হয়"
+        },
+        {
+          "label": "iii",
+          "text": "বিশ্বস্ত কর্মী নিয়োগ করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অভ্যন্তরীণ উৎসে সংগ্রহে বিজ্ঞাপন ইত্যাদির ব্যয় কমে এবং পরিচিত ও বিশ্বস্ত কর্মী পাওয়া যায় (i, iii)। আনুষ্ঠানিকতা কম পালন করতে হয়, তাই ii সঠিক নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-054",
+      "text": "প্রশিক্ষণের মাধ্যমে কর্মীর কী বৃদ্ধি পায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কার্যদক্ষতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মে অনীহা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রম-ঘূর্ণায়মানতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জ্ঞান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণের মাধ্যমে কর্মীর জ্ঞান ও দক্ষতা বাড়ে; এর প্রধান ফল কার্যদক্ষতা বৃদ্ধি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-055",
+      "text": "কর্মী নির্বাচনের অন্তর্ভুক্ত বিষয় হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিজ্ঞাপন প্রদান"
+        },
+        {
+          "label": "ii",
+          "text": "আবেদনপত্র বাছাই"
+        },
+        {
+          "label": "iii",
+          "text": "সাক্ষাৎকার গ্রহণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আবেদনপত্র বাছাই ও সাক্ষাৎকার গ্রহণ নির্বাচনের অংশ। বিজ্ঞাপন প্রদান কর্মী সংগ্রহের কাজ, তাই i সঠিক নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-056",
+      "text": "কাজের বাইরে প্রশিক্ষণ পদ্ধতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিক্ষানবিস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পদ পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রবেশনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ওয়ার্কশপ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ওয়ার্কশপ কাজের বাইরে প্রশিক্ষণ পদ্ধতি। শিক্ষানবিস, পদ পরিবর্তন ও প্রবেশনা কাজের মাধ্যমে প্রশিক্ষণের পদ্ধতি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-057",
+      "text": "শ্রম ঘূর্ণায়মানতা হ্রাসকল্পে কোন উৎস হতে কর্মী সংগ্রহ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রশিক্ষণ কেন্দ্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিজ্ঞাপন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আউটসোর্সিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পদোন্নতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পদোন্নতিতে নিজ প্রতিষ্ঠানের কর্মীরা উৎসাহিত হয়ে প্রতিষ্ঠান ছাড়তে চায় না, ফলে শ্রম ঘূর্ণায়মানতা কমে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-058",
+      "text": "কাজের প্রতি আগ্রহ যাচাইয়ের পরীক্ষা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বুদ্ধিমত্তা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রবণতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যক্তিত্ব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রবণতা পরীক্ষায় কাজের প্রতি প্রার্থীর আগ্রহ ও ঝোঁক যাচাই করা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-059",
+      "text": "অভ্যন্তরীণ উৎস থেকে কর্মী সংগ্রহের সুবিধা নিচের কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নতুন মেধা ও চিন্তার প্রবেশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কাজের স্বাভাবিক ধারা রক্ষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যথেষ্ট কর্মী সংগ্রহের সুযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী পুনঃসংগ্রহ নিষ্প্রয়োজন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অভ্যন্তরীণ উৎসে কর্মীরা প্রতিষ্ঠানের কাজের ধারার সাথে পরিচিত থাকে বলে কাজের স্বাভাবিক ধারা রক্ষা পায়। বাকিগুলো বাহ্যিক উৎসের সুবিধা বা অপ্রাসঙ্গিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-060",
+      "text": "উদ্দীপকে বর্ণিত অফিসারদের নিয়োগ কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "'পদ্মফুল ব্যাংক' আবেদনকারী অনেক প্রার্থী থেকে ২০ জন প্রবেশনারী জুনিয়র অফিসারকে নিয়োগ প্রদান করে। তারা যোগদান করলে ব্যাংকের মানবসম্পদ ব্যবস্থাপক কাজের মাধ্যমে প্রশিক্ষণ প্রদান করে তাঁদেরকে দক্ষ ব্যাংকার হিসেবে তৈরির পরিকল্পনা করলেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাময়িক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চুক্তিভিত্তিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থায়ী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আউটসোর্সিং",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আবেদনকারীদের মধ্য থেকে নির্বাচন করে প্রবেশনারী অফিসার হিসেবে নিয়োগ দেওয়া হয়েছে, যা স্থায়ী নিয়োগের অংশ হিসেবে ধরা হয়েছে (প্রবেশন শেষে স্থায়ী হবেন)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-061",
+      "text": "নিয়োগকৃত অফিসারদের প্রশিক্ষণ প্রদানের পদ্ধতি হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "'পদ্মফুল ব্যাংক' আবেদনকারী অনেক প্রার্থী থেকে ২০ জন প্রবেশনারী জুনিয়র অফিসারকে নিয়োগ প্রদান করে। তারা যোগদান করলে ব্যাংকের মানবসম্পদ ব্যবস্থাপক কাজের মাধ্যমে প্রশিক্ষণ প্রদান করে তাঁদেরকে দক্ষ ব্যাংকার হিসেবে তৈরির পরিকল্পনা করলেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DB-6-7",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পদ আবর্তন"
+        },
+        {
+          "label": "ii",
+          "text": "পর্যবেক্ষণ"
+        },
+        {
+          "label": "iii",
+          "text": "প্রবেশনা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পদ আবর্তন, পর্যবেক্ষণ ও প্রবেশনা, তিনটিই কাজের মাধ্যমে প্রশিক্ষণ পদ্ধতি। তাই i, ii ও iii সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-062",
+      "text": "কর্মী সংগ্রহের প্রথম কাজ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বুদ্ধিমত্তা যাচাই",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দক্ষতা যাচাই",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাহিদা নির্ধারণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কর্মী সংগ্রহের প্রথম কাজ হলো কর্মীর চাহিদা নির্ধারণ; এরপর উৎস নির্ধারণ ও আবেদন আহ্বান করা হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-063",
+      "text": "মেট্রোরেল সম্প্রসারণ প্রকল্পে কিছু সংখ্যক নিরাপত্তাকর্মী দরকার। এজন্য কর্মী সংগ্রহের কোন উৎসটি উত্তম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাকরি সন্ধানী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আউট সোর্সিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাকরি বিনিয়োগ কেন্দ্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৃত্তিমূলক প্রশিক্ষণ কেন্দ্র",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মেট্রোরেল প্রকল্পে অল্প সময়ের জন্য কিছু নিরাপত্তাকর্মী প্রয়োজন, যা আউটসোর্সিংয়ের মাধ্যমে সহজে ও কম ঝামেলায় পাওয়া যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-064",
+      "text": "নিচের কোন পরীক্ষা দ্বারা চাকরি প্রার্থীর রুচি, অভ্যাস ও পছন্দ-অপছন্দ জানা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রবণতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বুদ্ধিমত্তা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যক্তিত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যোগ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যক্তিত্ব পরীক্ষায় প্রার্থীর রুচি, অভ্যাস ও পছন্দ-অপছন্দ জানা যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-065",
+      "text": "জনাব রুনুর প্রতিষ্ঠানে বিক্রয় ব্যবস্থাপক বাছাইয়ের কাজটি কোনটির সঙ্গে সম্পৃক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রুনু 'X' লি. এর এম. ডি.। এই প্রতিষ্ঠানের বিক্রয় ব্যবস্থাপকের পদ ফাঁকা হয়েছে। তিনি তার প্রতিষ্ঠানের কর্মীদের মধ্য থেকে পরীক্ষা ও পূর্বের অভিজ্ঞতা বিবেচনা করে লোক বাছাই করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DIB-21-22",
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মী নিয়োগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী উন্নয়ন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রতিষ্ঠানের কর্মীদের মধ্য থেকে পরীক্ষা ও অভিজ্ঞতা বিবেচনা করে বাছাই করা কর্মী নির্বাচনের কাজ।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-066",
+      "text": "এ ধরনের নিয়োগের ফলে 'X' লি. যে সব সুবিধা পায় সেগুলো হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রুনু 'X' লি. এর এম. ডি.। এই প্রতিষ্ঠানের বিক্রয় ব্যবস্থাপকের পদ ফাঁকা হয়েছে। তিনি তার প্রতিষ্ঠানের কর্মীদের মধ্য থেকে পরীক্ষা ও পূর্বের অভিজ্ঞতা বিবেচনা করে লোক বাছাই করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DIB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অভ্যন্তরীণ কর্মীদের উদ্বুদ্ধকরণ"
+        },
+        {
+          "label": "ii",
+          "text": "কার্যপরিবেশের সঙ্গে খাপ খাওয়ানো"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদনশীলতা বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অভ্যন্তরীণ উৎসে কর্মীরা উদ্বুদ্ধ হয় এবং কার্যপরিবেশের সাথে সহজে খাপ খাইয়ে নেয় (i, ii)। উৎপাদনশীলতা বৃদ্ধি এর নিশ্চিত সুবিধা নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-067",
+      "text": "নিম্নের কোনটি দ্বারা কর্মীদের দীর্ঘমেয়াদে উৎপাদনশীলতা বৃদ্ধি পায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রেষণা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রশিক্ষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নেতৃত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমন্বয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণ কর্মীর দক্ষতা ও জ্ঞান বাড়ায়, ফলে দীর্ঘমেয়াদে উৎপাদনশীলতা বৃদ্ধি পায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-068",
+      "text": "লার্জ ফার্মা লিঃ প্রতিষ্ঠানের বাইরে থেকে বেশ কিছু নতুন অভিজ্ঞ মার্কেটিং অফিসার নিয়োগ করতে চান। কর্মী সংগ্রহের জন্য অধিক গ্রহণযোগ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রমিক সংঘের সুপারিশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃত্তিমূলক প্রশিক্ষণ কেন্দ্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফার্মের নোটিশ বোর্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পত্রিকায় বিজ্ঞপ্তি প্রদান",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাইরে থেকে অভিজ্ঞ কর্মী পেতে পত্রিকায় বিজ্ঞপ্তি দিলে বহু যোগ্য প্রার্থী আবেদন করতে পারে, তাই এটি অধিক গ্রহণযোগ্য।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-069",
+      "text": "পদোন্নতির ভিত্তি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "জ্যেষ্ঠতা"
+        },
+        {
+          "label": "ii",
+          "text": "যোগ্যতা"
+        },
+        {
+          "label": "iii",
+          "text": "জ্যেষ্ঠতা ও যোগ্যতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পদোন্নতি জ্যেষ্ঠতা, যোগ্যতা অথবা জ্যেষ্ঠতা ও যোগ্যতা, তিনটির যেকোনো ভিত্তিতে হতে পারে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-070",
+      "text": "কোনটি কর্মী সংগ্রহের অভ্যন্তরীণ উৎস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাক্তন কর্মী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বদলি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মেধা শিকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রমিক সংঘ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পদোন্নতি ও বদলি অভ্যন্তরীণ উৎস। শ্রমিক সংঘ কর্মী সংগ্রহের বাহ্যিক উৎস। তাই (ঘ) অভ্যন্তরীণ উৎস নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (ঘ) রাখা হয়েছে; পাঠ্যবইভেদে শ্রমিক সংঘকে বাহ্যিক উৎস হিসেবেও ধরা হয়, আর বদলি (খ) সাধারণত অভ্যন্তরীণ উৎস। | উত্তর যাচাই: প্রদত্ত উত্তর (ঘ) শ্রমিক সংঘ বাহ্যিক উৎস; অভ্যন্তরীণ উৎস হলো (খ) বদলি (এবং (ক) প্রাক্তন কর্মীও অভ্যন্তরীণ ধরা যায়)। তাই সঠিক উত্তর (খ) বলে মনে হয়।"
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-071",
+      "text": "কর্মীদের কাজের মাধ্যমে প্রশিক্ষণ দেওয়া হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পদ পরিবর্তন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বক্তৃতা পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সেমিনার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অধিবেশন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পদ পরিবর্তন (জব রোটেশন) কাজের মাধ্যমে প্রশিক্ষণ পদ্ধতি। বক্তৃতা, সেমিনার ও অধিবেশন কাজের বাইরের পদ্ধতি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-072",
+      "text": "নিচের কোনটি কর্মী নিয়োগের অভ্যন্তরীণ উৎস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পদোন্নতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাকুরি সন্ধানী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিক্ষা প্রতিষ্ঠান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিজ্ঞাপন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পদোন্নতি প্রতিষ্ঠানের ভেতরের কর্মীদের মধ্য থেকে হয়, তাই এটি অভ্যন্তরীণ উৎস। অন্যগুলো বাহ্যিক।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-073",
+      "text": "উদ্দীপকে মি. হাবিবের পরবর্তী কাজ কর্মীসংস্থান প্রক্রিয়ার কোন ধাপের সাথে সম্পৃক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. হাবিব একটি বৃহদায়তন প্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক। প্রতিষ্ঠানটির বাজারজাতকরণ বিভাগে কয়েকজন বিক্রয়কর্মী পদে নিয়োগ দেয়ার জন্য দৈনিক পত্রিকায় বিজ্ঞপ্তি দেন। আবেদন যাচাই করে তিনি যোগ্য প্রার্থীদের সাক্ষাৎকার গ্রহণের চিঠি দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-MB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মী উন্নয়ন ও মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী নিয়োগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিজ্ঞাপন দিয়ে আবেদন নেওয়া এবং যোগ্য প্রার্থীদের সাক্ষাৎকারে ডাকা কর্মী নির্বাচনের ধাপ। সাক্ষাৎকারে ডাকার চিঠি দেওয়া নিয়োগ নয়, নিয়োগ হয় নির্বাচনের পর।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (ঘ) রাখা হয়েছে; সাক্ষাৎকার গ্রহণ নিজেই কর্মী নির্বাচন প্রক্রিয়ার অংশ, তাই (খ) কর্মী নির্বাচনও যুক্তিসংগত উত্তর হতে পারে। | উত্তর যাচাই: সাক্ষাৎকারের চিঠি পাঠানো ও সাক্ষাৎকার গ্রহণ কর্মী নির্বাচনের ধাপ; নিয়োগ এর পরের ধাপ। তাই সঠিক উত্তর (খ) কর্মী নির্বাচন বলে মনে হয়।"
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-074",
+      "text": "উদ্দীপকে বর্ণিত পদ্ধতিতে কর্মী সংগ্রহের কারণ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. হাবিব একটি বৃহদায়তন প্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক। প্রতিষ্ঠানটির বাজারজাতকরণ বিভাগে কয়েকজন বিক্রয়কর্মী পদে নিয়োগ দেয়ার জন্য দৈনিক পত্রিকায় বিজ্ঞপ্তি দেন। আবেদন যাচাই করে তিনি যোগ্য প্রার্থীদের সাক্ষাৎকার গ্রহণের চিঠি দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-MB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "যোগ্য কর্মী নির্বাচন"
+        },
+        {
+          "label": "ii",
+          "text": "নিয়োগ সংক্রান্ত ব্যয় হ্রাস"
+        },
+        {
+          "label": "iii",
+          "text": "প্রশাসনিক জটিলতা হ্রাস"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পত্রিকায় বিজ্ঞাপনের মাধ্যমে বহু প্রার্থীর মধ্য থেকে যোগ্য কর্মী নির্বাচন করা যায় (i) এবং প্রশাসনিক জটিলতা কমে (iii)। বাহ্যিক উৎসে ব্যয় বেশি হয়, তাই ii সঠিক নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-075",
+      "text": "প্রশিক্ষণের মাধ্যমে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দক্ষতা বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "কার্য সন্তুষ্টি বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "পরোক্ষ ব্যয় বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণে কর্মীর দক্ষতা ও কার্য সন্তুষ্টি বাড়ে (i, ii)। পরোক্ষ ব্যয় বৃদ্ধি প্রশিক্ষণের সুবিধা নয়; বরং অপচয় কমে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-076",
+      "text": "কর্মীসংস্থান প্রক্রিয়ার ধাপ কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবই অনুযায়ী কর্মীসংস্থান প্রক্রিয়ার ধাপ ৪টি: কর্মী সংগ্রহ, নির্বাচন, নিয়োগ ও প্রশিক্ষণ/উন্নয়ন।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-077",
+      "text": "কর্মীদের প্রশিক্ষণ দেওয়ার সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মীদের জ্ঞান বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "কর্মীদের দক্ষতা বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "শ্রম ঘূর্ণায়মানতার হার হ্রাস পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণে কর্মীদের জ্ঞান ও দক্ষতা বাড়ে এবং কাজে সন্তুষ্টির ফলে শ্রম ঘূর্ণায়মানতার হার কমে। তাই i, ii ও iii সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-078",
+      "text": "প্রতিষ্ঠান প্রধান কর্তৃক সাক্ষাৎকার গ্রহণ কর্মীসংস্থান প্রক্রিয়ার কোন কাজের সাথে সম্পর্কিত?",
+      "text_en": null,
+      "image": null,
+      "stem": "প্রতিষ্ঠান প্রধান জনাব ইয়াকুব আলী শিক্ষক নিয়োগ দেওয়ার জন্য জাতীয় পত্রিকায় বিজ্ঞাপন দিলেন। আবেদনপত্র জমা হবার পরে তা বাছাই করে যোগ্য কর্মীদের সাক্ষাৎকারের ব্যবস্থা করেন তিনি।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-RB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উন্নয়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিয়োগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আবেদন বাছাইয়ের পর সাক্ষাৎকার গ্রহণ কর্মী নির্বাচন প্রক্রিয়ার অংশ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-079",
+      "text": "জনাব ইয়াকুব আলী যে উৎস থেকে কর্মী সংগ্রহ করেছেন তার সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "প্রতিষ্ঠান প্রধান জনাব ইয়াকুব আলী শিক্ষক নিয়োগ দেওয়ার জন্য জাতীয় পত্রিকায় বিজ্ঞাপন দিলেন। আবেদনপত্র জমা হবার পরে তা বাছাই করে যোগ্য কর্মীদের সাক্ষাৎকারের ব্যবস্থা করেন তিনি।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-RB-7-8",
+      "statements": [
+        {
+          "label": "i",
+          "text": "যোগ্য কর্মী নির্বাচন"
+        },
+        {
+          "label": "ii",
+          "text": "নতুন চিন্তা ও মেধার আগমন"
+        },
+        {
+          "label": "iii",
+          "text": "বিদ্যমান কর্মীদের উৎসাহ বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পত্রিকায় বিজ্ঞাপন বাহ্যিক উৎস, যেখানে যোগ্য কর্মী বেছে নেওয়া যায় এবং নতুন চিন্তা ও মেধা আসে (i, ii)। বিদ্যমান কর্মীদের উৎসাহ বৃদ্ধি অভ্যন্তরীণ উৎসের সুবিধা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-080",
+      "text": "মানবসম্পদ ব্যবস্থাপনার প্রথম কাজ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মানবসম্পদ পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রশিক্ষণ ও উন্নয়ন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মানবসম্পদ ব্যবস্থাপনার প্রথম কাজ হলো মানবসম্পদ পরিকল্পনা, অর্থাৎ কত ও কেমন কর্মী লাগবে তা নির্ধারণ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-081",
+      "text": "প্রতিষ্ঠানের শূন্যপদ পূরণের প্রথম পদক্ষেপকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মী নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী প্রশিক্ষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মী সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মী নিয়োগ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শূন্যপদ পূরণের প্রথম পদক্ষেপ হলো কর্মী সংগ্রহ, অর্থাৎ সম্ভাব্য প্রার্থীদের আবেদনে উৎসাহিত করা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-082",
+      "text": "কর্মী নির্বাচন প্রক্রিয়ার অন্তর্ভুক্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎস নির্ধারণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পদোন্নতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিজ্ঞপ্তি প্রদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাক্ষাৎকার গ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাক্ষাৎকার গ্রহণ নির্বাচন প্রক্রিয়ার অংশ। উৎস নির্ধারণ ও বিজ্ঞপ্তি প্রদান সংগ্রহের এবং পদোন্নতি অভ্যন্তরীণ উৎসের বিষয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-083",
+      "text": "নিচের কোনটি কাজের মাধ্যমে প্রশিক্ষণ পদ্ধতি নয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সেমিনার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিক্ষানবিস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রবেশন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পর্যবেক্ষণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শিক্ষানবিস, প্রবেশন ও পর্যবেক্ষণ কাজের মাধ্যমে প্রশিক্ষণ পদ্ধতি। সেমিনার কাজের বাইরের পদ্ধতি।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch5-mcq-084",
+      "text": "প্রশিক্ষণের ফলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মীদের দক্ষতা বাড়ে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতিষ্ঠানের উৎপাদন বৃদ্ধি পায়"
+        },
+        {
+          "label": "iii",
+          "text": "অপচয় বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণে কর্মীর দক্ষতা বাড়ে ও প্রতিষ্ঠানের উৎপাদন বৃদ্ধি পায় (i, ii)। অপচয় বৃদ্ধি পায় না, বরং কমে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 29,
         "session": null
       },
       "tags": [],

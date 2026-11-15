@@ -125,6 +125,180 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch14-mcq-004",
+      "text": "উদ্দীপকে জনাব আকাশ তার গাড়িটির জন্য কোন ধরনের বিমা করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আকাশ তার ব্যক্তিগত গাড়িটি ১০ লক্ষ টাকায় বিমা করেন। গাড়িটি দুর্ঘটনায় সম্পূর্ণ ক্ষতিগ্রস্ত হলে বিমা কোম্পানি ক্ষতিপূরণ প্রদান করে। ক্ষতিগ্রস্ত গাড়িটি বিমা কোম্পানি নিয়ে যেতে চাইলে জনাব আকাশ প্রথমে বাধা দেন। কিন্তু পরবর্তীতে গাড়িটি দিয়ে দিতে বাধ্য হন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পত্তি বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দায় বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চৌর্য বিমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যক্তিগত গাড়ি একটি সম্পত্তি; সম্পত্তির ক্ষতি পূরণের জন্য করা বিমা সম্পত্তি বিমা।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch14-mcq-005",
+      "text": "সাধারণ বিমার অন্তর্ভুক্ত—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অগ্নি বিমা"
+        },
+        {
+          "label": "ii",
+          "text": "যন্ত্রপাতি বিমা"
+        },
+        {
+          "label": "iii",
+          "text": "পেনশন বিমা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অগ্নি ও যন্ত্রপাতি বিমা সাধারণ বিমার অন্তর্ভুক্ত। পেনশন বিমা জীবন বিমার অন্তর্ভুক্ত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch14-mcq-006",
+      "text": "কোনটি সাধারণ বিমার আওতাভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বাস্থ্য বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিক্ষা বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গোষ্ঠী বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শস্য বিমা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শস্য বিমা সাধারণ বিমার অন্তর্ভুক্ত। স্বাস্থ্য, শিক্ষা ও গোষ্ঠী বিমা জীবন বিমার আওতাভুক্ত।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch14-mcq-007",
+      "text": "শস্য বিমার ক্ষেত্রে অর্থনৈতিক ঝুঁকির অন্তর্ভুক্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চুরি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনাবৃষ্টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল্য হ্রাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্নিসংযোগ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "শস্যের মূল্য হ্রাস অর্থনৈতিক ঝুঁকি। চুরি ও অগ্নিসংযোগ নৈতিক ঝুঁকি এবং অনাবৃষ্টি প্রাকৃতিক ঝুঁকি।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "অনাবৃষ্টি প্রাকৃতিক ঝুঁকি; বাজারে শস্যের মূল্য হ্রাস অর্থনৈতিক ঝুঁকি, তাই (গ)। উদ্ভাসের চিহ্ন (খ), বিজনেস টাইটানের চিহ্ন (গ)।"
     }
   ]
 }

@@ -170,6 +170,12 @@
           "session": null
         },
         {
+          "board": "CUB",
+          "year": "2025",
+          "qno": 29,
+          "session": null
+        },
+        {
           "board": "DIB",
           "year": "2025",
           "qno": 6,
@@ -1327,6 +1333,14 @@
         "year": "2023",
         "qno": 21
       },
+      "also_in": [
+        {
+          "board": "CUB",
+          "year": "2025",
+          "qno": 18,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -5126,6 +5140,569 @@
         "board": "SB",
         "year": "2025",
         "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-124",
+      "text": "হিসাব সমীকরণের সম্প্রসারিত রূপটি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\( A = L + (OE - D + E) \\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\( A = L + (C - I - E - D) \\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\( A = L + (C + I - E + D) \\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\( A = L + (C + I - E - D) \\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হিসাব সমীকরণের সম্প্রসারিত রূপে মালিকানাস্বত্ব (OE) = মূলধন (C) + আয় (I) − ব্যয় (E) − উত্তোলন (D)। তাই \\( A = L + (C + I - E - D) \\), যা (ঘ)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-125",
+      "text": "হিসাববিজ্ঞানের মুখ্য উদ্দেশ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আর্থিক তথ্য সরবরাহ করা"
+        },
+        {
+          "label": "ii",
+          "text": "লেনদেনের স্থায়ী হিসাব সংরক্ষণ করা"
+        },
+        {
+          "label": "iii",
+          "text": "সঠিক আর্থিক ফলাফল নির্ণয় করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তিনটি বিবৃতিই সঠিক: হিসাববিজ্ঞান আর্থিক তথ্য সরবরাহ করে, লেনদেনের স্থায়ী হিসাব রাখে এবং সঠিক আর্থিক ফলাফল (লাভ-ক্ষতি) নির্ণয় করে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-126",
+      "text": "৫০,০০০ টাকা দিয়ে ধারে কম্পিউটার ক্রয় করলে হিসাব সমীকরণের কোন কোন উপাদান প্রভাবিত করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "A ও OE উপাদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A ও L উপাদান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "L ও OE উপাদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A, L ও OE উপাদান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ধারে কম্পিউটার কেনায় সম্পদ (A) ৫০,০০০ টাকা বাড়ে এবং দায় (L) (পাওনাদার) ৫০,০০০ টাকা বাড়ে। মালিকানাস্বত্ব অপরিবর্তিত থাকে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-127",
+      "text": "আধুনিক হিসাববিজ্ঞানের মূল ভিত্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঘটনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লেনদেন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "একতরফা দাখিলা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দু'তরফা দাখিলা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "দু'তরফা দাখিলা পদ্ধতিতে প্রতিটি লেনদেনের দুটি দিক (ডেবিট ও ক্রেডিট) লিপিবদ্ধ হয়; এটিই আধুনিক হিসাববিজ্ঞানের মূল ভিত্তি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-128",
+      "text": "অনুপার্জিত আয় একটি—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আয় হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায় হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানা স্বত্ব হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অনুপার্জিত আয় হলো আয় পাওয়া গেছে কিন্তু সেবা/পণ্য এখনো প্রদান করা হয়নি; ভবিষ্যতে সেবা দেওয়ার দায় থাকায় এটি দায় হিসাব।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-129",
+      "text": "হিসাববিজ্ঞানের দ্বৈতসত্তা বলতে কোনটিকে বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লেনদেনের দুটি দিক লিপিবদ্ধকরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাবেদায় লিপিবদ্ধকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেবিট- ক্রেডিট বিশ্লেষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গাণিতিক বিশুদ্ধতা যাচাইকরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দ্বৈতসত্তা অনুযায়ী প্রতিটি লেনদেনের দুটি দিক থাকে এবং দুটি দিকই লিপিবদ্ধ করতে হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-130",
+      "text": "দু'তরফা দাখিলা পদ্ধতির উৎপত্তিকাল কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৩৯৪ খ্রিষ্টাব্দে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৪৯৪ খ্রিষ্টাব্দে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯৩২ খ্রিষ্টাব্দে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯৯৪ খ্রিষ্টাব্দে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দু'তরফা দাখিলা পদ্ধতি ১৪৯৪ খ্রিষ্টাব্দে ইতালির লুকা প্যাসিওলি তাঁর গ্রন্থে প্রকাশ করেন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-131",
+      "text": "দু'তরফা দাখিলা পদ্ধতি একটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পূর্ণাঙ্গ পদ্ধতি"
+        },
+        {
+          "label": "ii",
+          "text": "বিজ্ঞানসম্মত পদ্ধতি"
+        },
+        {
+          "label": "iii",
+          "text": "ত্রুটিযুক্ত পদ্ধতি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দু'তরফা দাখিলা পদ্ধতি পূর্ণাঙ্গ ও বিজ্ঞানসম্মত, তাই (i) ও (ii) সঠিক। এটি ত্রুটিমুক্ত পদ্ধতি (রেওয়ামিলের মাধ্যমে গাণিতিক শুদ্ধতা যাচাই করা যায়), তাই (iii) ভুল।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-132",
+      "text": "বাকিতে পণ্য ক্রয় করা হলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সম্পদ হ্রাস পায়"
+        },
+        {
+          "label": "ii",
+          "text": "মালিকানাস্বত্ব হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "দায় বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের পর্যায়বৃত্ত পদ্ধতিতে পণ্য ক্রয় একটি খরচ। খরচ বাড়লে মালিকানাস্বত্ব হ্রাস পায় (ii সত্য)। বাকিতে কেনায় পাওনাদারের কাছে দায় বৃদ্ধি পায় (iii সত্য)। নগদ বা অন্য কোনো সম্পদ কমে না, তাই (i) মিথ্যা। কাজেই (গ)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-133",
+      "text": "নিম্নের কোনটি হিসাব তথ্যের অভ্যন্তরীণ ব্যবহারকারী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবস্থাপক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পাওনাদার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিয়োগকারী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরকার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপক প্রতিষ্ঠানের ভেতরের ব্যবহারকারী। পাওনাদার, বিনিয়োগকারী ও সরকার বাহ্যিক ব্যবহারকারী।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-134",
+      "text": "ধারে ক্রয়কৃত পণ্য ফেরত প্রদান করা হলে হিসাব সমীকরণের কী পরিবর্তন ঘটে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "L বৃদ্ধি ও OE বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "A হ্রাস ও L হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "L হ্রাস ও OE বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A হ্রাস ও OE হ্রাস",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পর্যায়বৃত্ত পদ্ধতিতে ক্রয় খরচ হিসেবে লেখা হয়; ক্রয় ফেরত সেই খরচ কমায়, ফলে মালিকানাস্বত্ব (OE) বৃদ্ধি পায়। আর ধারে কেনা পণ্য ফেরত দেওয়ায় পাওনাদারের কাছে দায় (L) হ্রাস পায়। তাই (গ) L হ্রাস ও OE বৃদ্ধি।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-135",
+      "text": "'সাধারণ সঞ্চিতি' কোন শ্রেণির হিসাব?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "খরচ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানাস্বত্ব",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাধারণ সঞ্চিতি মুনাফা থেকে গঠিত হয় এবং এটি মালিকানাস্বত্বের অংশ।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch1-mcq-136",
+      "text": "যখন কোনো লেনদেনের ফলে হিসাব সমীকরণে সম্পদ বৃদ্ধি পায় তখন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মালিকানাস্বত্ব বৃদ্ধি পেতে পারে"
+        },
+        {
+          "label": "ii",
+          "text": "দায় বৃদ্ধি পেতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "অন্য সম্পদ হ্রাস পেতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্পদ বাড়লে: (i) মালিক মূলধন দিলে মালিকানাস্বত্ব বাড়তে পারে; (ii) ধারে সম্পদ কিনলে দায় বাড়তে পারে; (iii) নগদে সম্পদ কিনলে অন্য সম্পদ (নগদ) কমতে পারে। তিনটিই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20,
         "session": null
       },
       "tags": [],

@@ -85,6 +85,102 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch13-mcq-003",
+      "text": "X কোন ধরনের বিমাপত্র গ্রহণ করবেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "X একজন বিশিষ্ট ব্যবসায়ী তিনি মৌসুমি পণ্য একটি গুদামে মজুদ করেছেন যার পাশেই রয়েছে একটি রাসায়নিক দ্রব্য উৎপাদনের কারখানা। একজন বিমা প্রতিনিধি X কে বিমা পলিসি গ্রহণের জন্য অনুরোধ জানালে তিনি রাজী হন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-SB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নৌ বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দুর্ঘটনা বিমা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "X-এর মজুদ করা পণ্যের পাশে রাসায়নিক কারখানা থাকায় আগুনের ঝুঁকি বেশি, তাই তাঁর জন্য উপযোগী বিমা অগ্নি বিমা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch13-mcq-004",
+      "text": "অগ্নি বিমায় নৈতিক ঝুঁকির কারণসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অবহেলা"
+        },
+        {
+          "label": "ii",
+          "text": "স্বেচ্ছায় অগ্নিসংযোগ"
+        },
+        {
+          "label": "iii",
+          "text": "ত্রুটিপূর্ণ তাপ ব্যবস্থা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "অবহেলা ও স্বেচ্ছায় অগ্নিসংযোগ মানুষের অসততা বা মনোভাব-সংক্রান্ত নৈতিক ঝুঁকি। ত্রুটিপূর্ণ তাপ ব্যবস্থা বস্তুগত ঝুঁকি, তাই (iii) ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "ত্রুটিপূর্ণ তাপ ব্যবস্থা ভৌত (physical) ঝুঁকি, নৈতিক ঝুঁকি নয়, তাই (ক)। উদ্ভাসের চিহ্ন (ঘ), বিজনেস টাইটানের চিহ্ন (ক)।"
     }
   ]
 }

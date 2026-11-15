@@ -766,6 +766,573 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-019",
+      "text": "নিচের কোনটি ব্যাংকিং সেবা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আমানতের উপর সুদ প্রদান করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণ আদায়ের নোটিশ প্রদান করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক স্বচ্ছলতার সনদ ইস্যু করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক সম্পর্কে বিজ্ঞাপন প্রচার করা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আমানতের উপর সুদ প্রদান ব্যাংকের একটি প্রত্যক্ষ ব্যাংকিং সেবা। বাকিগুলো ব্যাংকের সাধারণ বা আনুষঙ্গিক কার্যক্রম, মূল সেবা নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-020",
+      "text": "ব্যাংকের তারল্য সংরক্ষণে তরল সম্পদ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভল্টে রক্ষিত নগদ অর্থ"
+        },
+        {
+          "label": "ii",
+          "text": "কেন্দ্রীয় ব্যাংকে রক্ষিত অর্থ"
+        },
+        {
+          "label": "iii",
+          "text": "ক্রয়কৃত সরকারি ট্রেজারি বিল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভল্টের নগদ অর্থ, কেন্দ্রীয় ব্যাংকে রক্ষিত অর্থ এবং সরকারি ট্রেজারি বিল সহজেই নগদে রূপান্তরযোগ্য, তাই তিনটিই তরল সম্পদ।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-021",
+      "text": "বার্তা ব্যাংক একটি—",
+      "text_en": null,
+      "image": null,
+      "stem": "বার্তা ব্যাংক একটি নতুন ব্যাংক। ব্যাংকটি আমানত গ্রহণ ও ঋণদানসহ বিভিন্ন কার্যক্রম পরিচালনা করে আসছে। কিন্তু পুরাতন অনেক প্রতিষ্ঠিত ব্যাংক থাকায় প্রতিযোগিতায় পড়েছে। তাই প্রতিযোগিতায় টিকে থাকতে হলে ব্যাংকটিকে আরো কার্যকর ব্যবস্থা গ্রহণ করতে হবে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-JB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "চেইন ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রুপ ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিশ্র ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাণিজ্যিক ব্যাংক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বার্তা ব্যাংক আমানত গ্রহণ ও ঋণদানসহ সাধারণ ব্যাংকিং কাজ করে, তাই এটি একটি বাণিজ্যিক ব্যাংক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-022",
+      "text": "বার্তা ব্যাংকের কার্যকর ব্যবস্থা গ্রহণের জন্য পরামর্শ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "বার্তা ব্যাংক একটি নতুন ব্যাংক। ব্যাংকটি আমানত গ্রহণ ও ঋণদানসহ বিভিন্ন কার্যক্রম পরিচালনা করে আসছে। কিন্তু পুরাতন অনেক প্রতিষ্ঠিত ব্যাংক থাকায় প্রতিযোগিতায় পড়েছে। তাই প্রতিযোগিতায় টিকে থাকতে হলে ব্যাংকটিকে আরো কার্যকর ব্যবস্থা গ্রহণ করতে হবে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-JB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঋণদানের ক্ষেত্র সৃষ্টি"
+        },
+        {
+          "label": "ii",
+          "text": "আমানত সংগ্রহের সামর্থ্য বৃদ্ধি"
+        },
+        {
+          "label": "iii",
+          "text": "গ্রাহক সন্তুষ্টি নিশ্চিতকরণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঋণদানের ক্ষেত্র সৃষ্টি, আমানত সংগ্রহের সামর্থ্য বৃদ্ধি ও গ্রাহক সন্তুষ্টি নিশ্চিত করা—তিনটিই নতুন ব্যাংকের প্রতিযোগিতায় টিকে থাকার কার্যকর ব্যবস্থা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-023",
+      "text": "ব্যাংকের কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আমানত গ্রহণ"
+        },
+        {
+          "label": "ii",
+          "text": "মুনাফা অর্জন"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণ প্রদান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আমানত গ্রহণ, ঋণ প্রদান এবং মুনাফা অর্জন—তিনটিই ব্যাংকের কাজ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-024",
+      "text": "ব্যাংক ব্যবসায়ের কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরামর্শ দান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরাপত্তা প্রদান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নোট ও মুদ্রার প্রচলন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুদ্রার প্রচার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিরাপত্তা প্রদান (যেমন মূল্যবান সামগ্রী ও অর্থ নিরাপদে রাখা) ব্যাংক ব্যবসায়ের কাজ। নোট ও মুদ্রার প্রচলন কেন্দ্রীয় ব্যাংকের কাজ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-025",
+      "text": "কোনটি ব্যাংকের অন্যতম পুঁজি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গ্রাহক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আদর্শ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুনাম",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সুনাম ব্যাংকের অন্যতম পুঁজি, কারণ সুনামের উপর ভিত্তি করেই গ্রাহকের আস্থা ও আমানত অর্জিত হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-026",
+      "text": "ব্যাংকের কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আমানত গ্রহণ"
+        },
+        {
+          "label": "ii",
+          "text": "ঋণ প্রদান"
+        },
+        {
+          "label": "iii",
+          "text": "অর্থ স্থানান্তর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আমানত গ্রহণ, ঋণ প্রদান ও অর্থ স্থানান্তর—তিনটিই ব্যাংকের কাজ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-027",
+      "text": "বাণিজ্যিক ব্যাংকের নীতিমালাসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তারল্য"
+        },
+        {
+          "label": "ii",
+          "text": "মুনাফাযোগ্যতা"
+        },
+        {
+          "label": "iii",
+          "text": "গোপনীয়তা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "তারল্য, মুনাফাযোগ্যতা ও গোপনীয়তা—তিনটিই বাণিজ্যিক ব্যাংকের নীতিমালার অন্তর্ভুক্ত।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-028",
+      "text": "উদ্দীপকে উল্লিখিত পিপলস্ ট্রাস্ট ব্যাংকের গৃহীত কার্যক্রমের প্রভাব কী হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "সারা একাদশ শ্রেণির একজন শিক্ষার্থী। এসএসসি পরীক্ষায় কৃতিত্বপূর্ণ ফলাফলের জন্য সে পিপলস্ ট্রাস্ট ব্যাংকের নিকট থেকে প্রতি মাসে ২,০০০ টাকা করে শিক্ষা বৃত্তি পায়।",
+      "stem_image": null,
+      "group": "finance_2nd-2026-ALL-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "সচ্ছলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিরাপত্তা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুনাম অর্জন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিনিয়োগ বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "শিক্ষা বৃত্তি প্রদান ব্যাংকের সামাজিক দায়বদ্ধতামূলক কাজ, যা ব্যাংকের সুনাম অর্জনে সহায়তা করে।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-029",
+      "text": "জনাব সফির গৃহীত ঋণের সাথে কোন ঋণের সাদৃশ্য খুঁজে পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সফি একজন তৈরি পোশাক রপ্তানিকারক। ব্যাংকে তার ৩০ লক্ষ টাকা জমা আছে। নতুন ক্রয়াদেশের জন্য টাকার প্রয়োজন হওয়ায় নিয়ম-নীতি অনুসরণ করে তিনি ব্যাংক থেকে ৫০ লক্ষ টাকা উত্তোলন করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2026-ALL-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ ঋণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ ঋণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বন্ধকী ঋণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জমাতিরিক্ত ঋণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "জনাব সফির জমা ৩০ লক্ষ টাকা, কিন্তু উত্তোলন ৫০ লক্ষ টাকা, অর্থাৎ জমার অতিরিক্ত ২০ লক্ষ টাকা তিনি নিয়েছেন। এটি জমাতিরিক্ত ঋণের বৈশিষ্ট্য।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch3-mcq-030",
+      "text": "উদ্দীপকে ব্যাংক কর্তৃক প্রদত্ত ঋণের মাধ্যমে বৃদ্ধি পাবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সফি একজন তৈরি পোশাক রপ্তানিকারক। ব্যাংকে তার ৩০ লক্ষ টাকা জমা আছে। নতুন ক্রয়াদেশের জন্য টাকার প্রয়োজন হওয়ায় নিয়ম-নীতি অনুসরণ করে তিনি ব্যাংক থেকে ৫০ লক্ষ টাকা উত্তোলন করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2026-ALL-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিনিময় হার"
+        },
+        {
+          "label": "ii",
+          "text": "মুনাফা"
+        },
+        {
+          "label": "iii",
+          "text": "বৈদেশিক আয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "ঋণ প্রদানের ফলে ব্যাংকের সুদ-আয় ও মুনাফা বাড়ে। ঋণ রপ্তানি কার্যক্রমে ব্যবহৃত হলে বৈদেশিক আয়ও বাড়ে। বিনিময় হার ঋণ দ্বারা সরাসরি বাড়ে না, তাই i ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

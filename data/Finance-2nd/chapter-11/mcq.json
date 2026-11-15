@@ -1452,6 +1452,1416 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-035",
+      "text": "উদ্দীপকে জনাব রহমান বিমা ব্যবসায়ের কোন নীতিটি ভঙ্গ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান তার ১০ বছর মেয়াদি বিমা পত্রটি বিমা দাবি পরিশোধের জন্য পেশ করেছেন। তার প্রকৃত বয়স ৪৫ হলেও তিনি বিমাপত্রে ৪০ বছর উল্লেখ করেছিলেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-BB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চূড়ান্ত সদ্বিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিকটতম কারণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থলাভিষিক্তকরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রকৃত বয়স ৪৫ হওয়া সত্ত্বেও ৪০ উল্লেখ করে জনাব রহমান সত্য তথ্য গোপন করেছেন; এতে চূড়ান্ত সদ্বিশ্বাস নীতি ভঙ্গ হয়েছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-036",
+      "text": "উদ্দীপকে উল্লিখিত পরিস্থিতিতে বিমা কোম্পানির করণীয় কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান তার ১০ বছর মেয়াদি বিমা পত্রটি বিমা দাবি পরিশোধের জন্য পেশ করেছেন। তার প্রকৃত বয়স ৪৫ হলেও তিনি বিমাপত্রে ৪০ বছর উল্লেখ করেছিলেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-BB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "সমর্পণ মূল্য পরিশোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পূর্ণ দাবি পরিশোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিমাদাবি প্রত্যাখ্যান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রিমিয়াম ফেরৎদান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চূড়ান্ত সদ্বিশ্বাস নীতি ভঙ্গ করে মিথ্যা বয়স উল্লেখ করায় বিমা চুক্তি বাতিলযোগ্য হয়; তাই বিমা কোম্পানি দাবি প্রত্যাখ্যান করবে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-037",
+      "text": "কোন বিমায় বোনাস প্রদান করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নৌ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় বিমাকারী মুনাফার অংশ বোনাস হিসেবে বিমাগ্রহীতাকে দেয়; অন্যান্য সাধারণ বিমায় বোনাস দেওয়া হয় না।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-038",
+      "text": "উদ্দীপকে মি. আবীর কোন ধরনের জীবন বিমাপত্র খোলেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আবীর একজন বৈমানিক। তিনি এককালীন ১২ লক্ষ টাকা দিয়ে ৩ বছরের জন্য একটি জীবন বিমা করেন। ৩ বছর অতিবাহিত হওয়ার পর তিনি বিমাদাবি করলে বিমা কোম্পানি তা প্রত্যাখ্যান করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CB-17-18",
+      "options": [
+        {
+          "label": "a",
+          "text": "মেয়াদি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আজীবন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাময়িক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উত্তরজীবী",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নির্দিষ্ট ৩ বছরের জন্য বিমা করা হয়েছে এবং এ সময়ে মৃত্যু না হওয়ায় দাবি পাওয়া যায়নি; এটি সাময়িক জীবন বিমাপত্রের বৈশিষ্ট্য।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-039",
+      "text": "উদ্দীপকে উল্লিখিত বিমাপত্রটির ক্ষেত্রে প্রযোজ্য বিষয়সমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আবীর একজন বৈমানিক। তিনি এককালীন ১২ লক্ষ টাকা দিয়ে ৩ বছরের জন্য একটি জীবন বিমা করেন। ৩ বছর অতিবাহিত হওয়ার পর তিনি বিমাদাবি করলে বিমা কোম্পানি তা প্রত্যাখ্যান করে।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-CB-17-18",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমাগ্রহীতা বিমাদাবি করতে পারে"
+        },
+        {
+          "label": "ii",
+          "text": "নমিনি ক্ষতিপূরণ পায়"
+        },
+        {
+          "label": "iii",
+          "text": "ঝুঁকিপূর্ণ কাজে নিয়োজিত ব্যক্তিরা বিমাপত্র গ্রহণ করেন।"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাময়িক বিমায় মেয়াদের মধ্যে মৃত্যু হলে মনোনীত ব্যক্তি (নমিনি) টাকা পায়, বিমাগ্রহীতা নিজে দাবি করতে পারে না; তাই (i) ভুল। ঝুঁকিপূর্ণ কাজে নিয়োজিতরা সাধারণত এ বিমা নেন; তাই (ii) ও (iii) সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-040",
+      "text": "কোন ধরনের বিমায় বার্ষিক বৃত্তি প্রদান করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নৌ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শস্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জীবন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় বার্ষিক বৃত্তি পাওয়া যায়; অন্যান্য সাধারণ বিমায় বার্ষিক বৃত্তি দেওয়া হয় না।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-041",
+      "text": "মি. শুভ তার বন্ধু ও অংশীদার মি. দিপনের জীবন বিমা করতে চাইলে বিমা কোম্পানি রাজি হয়নি। অথচ স্ত্রীর জীবন বিমা করতে তারা সম্মত। শুধু তাই নয় অনেক ধরনের ঝুঁকি অন্তর্ভুক্ত করতেও রাজি। মি. শুভ তার স্ত্রীর জীবন বিমা পত্রে যে সকল ঝুঁকি অন্তর্ভুক্ত করতে পারবে তা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মৃত্যু"
+        },
+        {
+          "label": "ii",
+          "text": "মাতৃত্ব"
+        },
+        {
+          "label": "iii",
+          "text": "বেকারত্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্ত্রীর জীবনে বিমাযোগ্য স্বার্থ আছে, তাই মৃত্যু ও মাতৃত্বের ঝুঁকি অন্তর্ভুক্ত করা যায়। বেকারত্ব জীবন বিমার ঝুঁকি নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-042",
+      "text": "কোন বিমাপত্রে ঋণ সুবিধা পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাময়িক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেয়াদি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আজীবন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রুপ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মেয়াদি বিমাপত্রে সমর্পণ মূল্য ও জমাকৃত প্রিমিয়ামের ভিত্তিতে ঋণ সুবিধা পাওয়া যায়; সাময়িক বিমাপত্রে এ সুবিধা নেই।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-043",
+      "text": "সমর্পণ মূল্যের পরিমাণ নির্ভর করে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিমাকারীর ইচ্ছার উপর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমা গ্রহীতার ইচ্ছার উপর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরকারের উপর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রিমিয়াম পরিশোধের পরিমাণের উপর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমর্পণ মূল্য বিমাগ্রহীতার পরিশোধিত প্রিমিয়ামের পরিমাণের ওপর নির্ভর করে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-044",
+      "text": "মি. জব্বার বিমাকারী হতে যে অর্থ গ্রহণ করেন তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. জব্বার ১০ বছর মেয়াদি একটি বিমাপত্র গ্রহণ করেন। হঠাৎ অসুস্থতার কারণে ৪ বছর পর আর প্রিমিয়াম প্রদান করতে পারছেন না। তাই বাধ্য হয়ে তিনি বিমাপত্রটি বন্ধ করে বিমাকারীর নিকট হতে কিছু আর্থিক সুবিধা নেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমর্পণ মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রিমিয়াম",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মেয়াদ শেষের আগে প্রিমিয়াম বন্ধ করে বিমাপত্র সমর্পণ করলে বিমাকারী যে অর্থ ফেরত দেয় তাকে সমর্পণ মূল্য বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-045",
+      "text": "উদ্দীপকে উল্লিখিত এ ধরনের আর্থিক সুবিধা প্রাপ্তির ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. জব্বার ১০ বছর মেয়াদি একটি বিমাপত্র গ্রহণ করেন। হঠাৎ অসুস্থতার কারণে ৪ বছর পর আর প্রিমিয়াম প্রদান করতে পারছেন না। তাই বাধ্য হয়ে তিনি বিমাপত্রটি বন্ধ করে বিমাকারীর নিকট হতে কিছু আর্থিক সুবিধা নেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-DB-27-28",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমাপত্রটি কমপক্ষে ২ বছর চালু রাখতে হয়"
+        },
+        {
+          "label": "ii",
+          "text": "প্রাপ্ত প্রিমিয়াম হতে একটি অংশ বিমা গ্রহীতাকে দেয়া হয়"
+        },
+        {
+          "label": "iii",
+          "text": "মেয়াদি ও আজীবন বিমাপত্রের বেলায়ই এরূপ মূল্য প্রদান করা হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমর্পণ মূল্য পেতে বিমাপত্র নির্দিষ্ট সময় চালু রাখতে হয়, প্রাপ্ত প্রিমিয়ামের একটি অংশ ফেরত দেওয়া হয় এবং তা মেয়াদি ও আজীবন বিমাপত্রে প্রযোজ্য; তাই (i), (ii) ও (iii) সবই সঠিক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-046",
+      "text": "জীবন বিমা ক্ষতিপূরণের—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চুক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চুক্তি নয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাজী চুক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থলাভিষিক্তকরণের চুক্তি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমা ক্ষতিপূরণের চুক্তি নয়, কারণ মানুষের জীবনের আর্থিক মূল্য নির্ণয় করা যায় না; এটি নিশ্চয়তার চুক্তি।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-047",
+      "text": "জীবন বিমার অত্যাবশ্যকীয় উপাদান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমাযোগ্য স্বার্থ"
+        },
+        {
+          "label": "ii",
+          "text": "সদ্বিশ্বাস"
+        },
+        {
+          "label": "iii",
+          "text": "নিকটতম কারণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমার অত্যাবশ্যকীয় উপাদান বিমাযোগ্য স্বার্থ, চূড়ান্ত সদ্বিশ্বাস ও নিকটতম (প্রত্যক্ষ) কারণ; তাই (i), (ii) ও (iii) সবই সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-048",
+      "text": "বিমাপত্র সমর্পণ করে যে প্রতিদান চাওয়া হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমর্পণ মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিদান মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লভ্যাংশ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মেয়াদ শেষের আগে বিমাপত্র সমর্পণ করে বিমাগ্রহীতা যে অর্থ ফেরত চান তাকে সমর্পণ মূল্য বলে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-049",
+      "text": "মি. নাজিফের বিমাপত্রটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. নাজিফ ১০ বছর মেয়াদী একটি বিমা চুক্তি করেছেন। তিনি নিয়মিত প্রিমিয়াম পরিশোধ করেছেন। মেয়াদ শেষে তিনি বিমা কোম্পানির কাছে বিমা দাবি পেশ করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-JB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "মেয়াদি বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আজীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাময়িক বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্ষতিপূরণ বিমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নির্দিষ্ট ১০ বছর পর মেয়াদ শেষে বিমা দাবি পাওয়া যায়, এটি মেয়াদি বিমার বৈশিষ্ট্য।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-050",
+      "text": "মি. নাজিফ বিমা দাবি পাবেন কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. নাজিফ ১০ বছর মেয়াদী একটি বিমা চুক্তি করেছেন। তিনি নিয়মিত প্রিমিয়াম পরিশোধ করেছেন। মেয়াদ শেষে তিনি বিমা কোম্পানির কাছে বিমা দাবি পেশ করেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-JB-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমা কোম্পানি ভুল করেছে"
+        },
+        {
+          "label": "ii",
+          "text": "প্রিমিয়াম পরিশোধ করেছেন"
+        },
+        {
+          "label": "iii",
+          "text": "ক্ষতিপূরণের নীতি প্রযোজ্য নয় বলে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মি. নাজিফ নিয়মিত প্রিমিয়াম দিয়েছেন (ii) এবং জীবন বিমায় ক্ষতিপূরণ নীতি প্রযোজ্য নয় বলে মেয়াদ শেষে নির্ধারিত অর্থ পান (iii)। বিমা কোম্পানির ভুলের কারণে নয়, তাই (i) ভুল।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-051",
+      "text": "নিচের কোনটি জীবন বিমা সংশ্লিষ্ট?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্ষতি পূরণের চুক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থলাভিষিক্তকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রত্যক্ষ কারণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আনুপাতিক অংশগ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রত্যক্ষ কারণ নীতি জীবন বিমায় প্রযোজ্য। ক্ষতিপূরণ, স্থলাভিষিক্তকরণ ও আনুপাতিক অংশগ্রহণ নীতি জীবন বিমায় প্রযোজ্য নয়, কারণ এটি ক্ষতিপূরণের চুক্তি নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-052",
+      "text": "মৃত্যুহার পঞ্জি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জন প্রতি মৃত্যুহার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিমাকৃত ব্যক্তির সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বার্ষিক মৃত্যুর সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হাজারপ্রতি মৃত্যুহার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মৃত্যুহার পঞ্জিতে নির্দিষ্ট বয়সের প্রতি হাজার ব্যক্তির মধ্যে কতজনের মৃত্যু হয় তা দেখানো হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-053",
+      "text": "কোন ধরনের জীবন বিমা পত্রে প্রিমিয়ামের হার বেশি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেয়াদি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাময়িক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আজীবন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গ্রুপ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মেয়াদি বিমাপত্রে মৃত্যু হোক বা না হোক মেয়াদ শেষে টাকা পাওয়া যায়, ফলে এতে প্রিমিয়ামের হার তুলনামূলক বেশি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-054",
+      "text": "জীবন বিমায় বিমা দাবি পরিশোধ করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমাকৃত ব্যক্তির মৃত্যুতে"
+        },
+        {
+          "label": "ii",
+          "text": "নির্দিষ্ট মেয়াদ শেষে"
+        },
+        {
+          "label": "iii",
+          "text": "বিমাকারীর অন্যান্য ক্ষয়-ক্ষতিতে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় মৃত্যু হলে অথবা মেয়াদ শেষে বিমা দাবি পরিশোধ করা হয়। বিমাকারীর অন্যান্য ক্ষয়ক্ষতির জন্য দাবি পরিশোধ করা হয় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-055",
+      "text": "বিমাকৃত ব্যক্তি মারা গেলে বিমা দাবি কাকে পরিশোধ করা হবে তা পূর্বে নির্ধারণ করাকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিমাযোগ্য স্বার্থ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মনোনয়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিশ্চয়তা প্রদান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিমাকৃত ব্যক্তির মৃত্যু হলে বিমা দাবি কে পাবে তা আগেভাগে নির্ধারণ করাকে মনোনয়ন বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-056",
+      "text": "জীবন বিমাকে কীসের চুক্তি বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক চুক্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিশ্রুতির চুক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৈজ্ঞানিক চুক্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিশ্চয়তার চুক্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় মৃত্যু বা মেয়াদ শেষে নির্দিষ্ট অর্থ পাওয়ার নিশ্চয়তা থাকে, তাই একে নিশ্চয়তার চুক্তি বলা হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-057",
+      "text": "কোন বিমাকে নিশ্চয়তার চুক্তি বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নৌ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "গবাদি পশু",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় মৃত্যু অবধারিত হওয়ায় বিমা অর্থ পাওয়ার নিশ্চয়তা থাকে, তাই জীবন বিমাকে নিশ্চয়তার চুক্তি বলা হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-058",
+      "text": "জীবন বিমা কীভাবে মুদ্রাস্ফীতি হ্রাস করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজারে অর্থের যোগান হ্রাস করে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মসংস্থান সৃষ্টি করে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জাতীয় আয় বৃদ্ধি করে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমা কোম্পানি সংগৃহীত প্রিমিয়াম বিনিয়োগ করে, ফলে অতিরিক্ত ক্রয়ক্ষমতা শোষিত হয় এবং মুদ্রাস্ফীতি হ্রাস পায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-059",
+      "text": "জীবন বিমার মৌলিক বিষয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রিমিয়াম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্ষতিপূরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মানুষের জীবন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমার মূল বিষয়বস্তু মানুষের জীবন।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-060",
+      "text": "কোন ধরনের বিমাপত্রে বোনাস প্রদান করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নৌ বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শস্য বিমা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জীবন বিমায় বিমাকারীর মুনাফার একটি অংশ বোনাস হিসেবে বিমাগ্রহীতাকে দেওয়া হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-061",
+      "text": "মি. P কোন ধরনের জীবন বিমা পলিসি গ্রহণ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. P একজন প্রবাসী। তিনি প্রবাসে যাওয়ার পূর্বে নিজের জীবনের জন্য স্বল্প প্রিমিয়ামে একটি বিমা পলিসি গ্রহণ করেছেন। দেশে ফিরে এসে তিনি আবার বিমা পলিসিটি নবায়ন করবেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "আজীবন বিমাপত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাময়িক বিমাপত্র",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ মেয়াদি বিমাপত্র",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশুদ্ধ মেয়াদি বিমাপত্র",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্বল্প সময়ের জন্য (প্রবাসে থাকাকালীন) স্বল্প প্রিমিয়ামে নেওয়া এবং পরে নবায়নযোগ্য বিমাপত্র সাময়িক বিমাপত্র।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-062",
+      "text": "মি. P এর বিমা পলিসিতে প্রিমিয়াম তুলনামূলক কম হওয়ার কারণ হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. P একজন প্রবাসী। তিনি প্রবাসে যাওয়ার পূর্বে নিজের জীবনের জন্য স্বল্প প্রিমিয়ামে একটি বিমা পলিসি গ্রহণ করেছেন। দেশে ফিরে এসে তিনি আবার বিমা পলিসিটি নবায়ন করবেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2025-SB-23-24",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মি. P মারা গেলেই বিমাকারী বিমাদাবি পূরণ করবে"
+        },
+        {
+          "label": "ii",
+          "text": "মি. P স্বল্প সময়ের জন্য বিমাপত্র গ্রহণ করেছেন"
+        },
+        {
+          "label": "iii",
+          "text": "মি. P মারা না গেলেও বিমাপত্রটি নবায়ন করা যাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাময়িক বিমায় নির্দিষ্ট স্বল্প মেয়াদে মৃত্যু হলেই দাবি পরিশোধ হয় (i), মেয়াদ কম (ii) এবং মৃত্যু না হলেও নবায়ন করা যায় (iii); এ কারণে প্রিমিয়াম কম।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-063",
+      "text": "জীবন বিমা চুক্তির প্রিমিয়ামের হার নির্ধারণের ক্ষেত্রে বিমা কোম্পানি বিবেচনা করে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিমা গ্রহীতার বয়স"
+        },
+        {
+          "label": "ii",
+          "text": "বিমা গ্রহীতার সামাজিক মর্যাদা"
+        },
+        {
+          "label": "iii",
+          "text": "বিমাকৃত অর্থের পরিমাণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রিমিয়াম নির্ধারণে বিমাগ্রহীতার বয়স ও বিমাকৃত অর্থের পরিমাণ বিবেচনা করা হয়। সামাজিক মর্যাদা বিবেচ্য নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-064",
+      "text": "নিচের কোন বিমার ক্ষেত্রে গ্রুপ বিমা প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নৌ বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্নি বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শস্য বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জীবন বিমা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "derived",
+      "explanation": "গ্রুপ বিমা জীবন বিমার একটি প্রকার, যেখানে একটি প্রতিষ্ঠানের সব কর্মীকে একটি পলিসির আওতায় আনা হয়।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-065",
+      "text": "উদ্দীপকে জনাব হারুনের জন্য সুবিধাজনক বিমা কোনটি?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব হারুন একজন চাকুরিজীবী। তিনি তার অবর্তমানে পরিবারের সদস্যদের আর্থিক অনিশ্চয়তার কথা ভেবে বিমা করার সিদ্ধান্ত নিয়েছেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2026-ALL-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "জীবন বিমা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বাস্থ্য বিমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গোষ্ঠী বিমা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্নি বিমা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "পরিবারের আর্থিক নিরাপত্তার জন্য মৃত্যুর পর পরিবার অর্থ পাবে এমন বিমা হলো জীবন বিমা।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch11-mcq-066",
+      "text": "উদ্দীপকে উল্লিখিত বিমাটি ব্যক্তিগত ও পারিবারিক ক্ষেত্রে যে ভূমিকা রাখতে পারে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব হারুন একজন চাকুরিজীবী। তিনি তার অবর্তমানে পরিবারের সদস্যদের আর্থিক অনিশ্চয়তার কথা ভেবে বিমা করার সিদ্ধান্ত নিয়েছেন।",
+      "stem_image": null,
+      "group": "finance_2nd-2026-ALL-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেকারত্ব হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "সঞ্চয় সৃষ্টি"
+        },
+        {
+          "label": "iii",
+          "text": "আর্থিক নিরাপত্তা বিধান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "জীবন বিমা সঞ্চয় সৃষ্টি করে এবং পরিবারকে আর্থিক নিরাপত্তা দেয়। বেকারত্ব হ্রাসে এর প্রত্যক্ষ ভূমিকা নেই, তাই (i) ভুল।",
+      "source": {
+        "board": "ALL",
+        "year": "2026",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

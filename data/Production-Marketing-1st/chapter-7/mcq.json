@@ -173,6 +173,14 @@
         "qno": 22,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 21,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2512,6 +2520,14 @@
         "qno": 9,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2025",
+          "qno": 23,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2627,6 +2643,2041 @@
         "board": "ALL",
         "year": "2026",
         "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-062",
+      "text": "উদ্দীপকের প্রতিষ্ঠানটি প্রথম পর্যায়ে মান উন্নয়নের জন্য কোন ধরনের ব্যয় করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি প্রতিষ্ঠানে উৎপাদিত পণ্যের মান নিম্ন হওয়ায়, মান তত্ত্বাবধানের জন্য একজন পরিদর্শক নিয়োগ দেয়া হয়। পরবর্তীতে পণ্যের মান ভালো হওয়া সত্ত্বেও পণ্যটি গ্রাহক আকৃষ্ট করতে সক্ষম না হওয়ায় প্রতিষ্ঠানটি পণ্যের ২ বছরের ওয়ারেন্টি প্রদানের ব্যবস্থা করে। ফলে বাজারে পণ্যটির অবস্থান দৃঢ় হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভ্যন্তরীণ ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাহ্যিক ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূল্যায়ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মান তত্ত্বাবধানের জন্য পরিদর্শক নিয়োগ, অর্থাৎ পরিদর্শন ও পরীক্ষণ, মূল্যায়ন ব্যয়ের অন্তর্ভুক্ত। এটি প্রথম পর্যায়ের ব্যয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-063",
+      "text": "বাজারে পণ্যের অবস্থান সুদৃঢ় করতে ব্যয় করা হয়—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি প্রতিষ্ঠানে উৎপাদিত পণ্যের মান নিম্ন হওয়ায়, মান তত্ত্বাবধানের জন্য একজন পরিদর্শক নিয়োগ দেয়া হয়। পরবর্তীতে পণ্যের মান ভালো হওয়া সত্ত্বেও পণ্যটি গ্রাহক আকৃষ্ট করতে সক্ষম না হওয়ায় প্রতিষ্ঠানটি পণ্যের ২ বছরের ওয়ারেন্টি প্রদানের ব্যবস্থা করে। ফলে বাজারে পণ্যটির অবস্থান দৃঢ় হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিরোধ"
+        },
+        {
+          "label": "ii",
+          "text": "বাহ্যিক ব্যর্থতা"
+        },
+        {
+          "label": "iii",
+          "text": "মূল্যায়ন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রতিষ্ঠান পরিদর্শক নিয়োগে মূল্যায়ন ব্যয় করেছে এবং ওয়ারেন্টি দিয়ে বাহ্যিক ব্যর্থতার ব্যয় করেছে। মান ধরে রাখার জন্য প্রতিরোধ ব্যয়ও এ ব্যয়কাঠামোর অংশ, তাই পাঠ্যবই অনুযায়ী তিনটিই সঠিক।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-064",
+      "text": "নিচের কোনটি বাহ্যিক ব্যর্থতা ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রশিক্ষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওয়ারেন্টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিদর্শন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুনঃ কার্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ওয়ারেন্টি বাহ্যিক ব্যর্থতা ব্যয়, কারণ বিক্রয়ের পর ত্রুটির জন্য ক্রেতাকে সেবা বা ক্ষতিপূরণ দিতে এ ব্যয় হয়। প্রশিক্ষণ প্রতিরোধ, পরিদর্শন মূল্যায়ন এবং পুনঃকাজ অভ্যন্তরীণ ব্যর্থতা ব্যয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-065",
+      "text": "কোন সনদ শুধুমাত্র পণ্য ও সেবার নকশাকরণের সাথে জড়িত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO-9000",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO-9001",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO-9002",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO-9003",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ISO-9001 পণ্য ও সেবার নকশা ও উন্নয়নের মানদণ্ড নির্দেশ করে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-066",
+      "text": "নিচের কোনটি পরিসংখ্যানিক মান নিয়ন্ত্রণ ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভ্যন্তরীণ ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক ব্যর্থতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পরিসংখ্যানিক মান নিয়ন্ত্রণে নমুনা পরীক্ষা ও পরিদর্শন করা হয়, যা মূল্যায়ন ব্যয়ের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-067",
+      "text": "নিচের কোনটি পরিবেশ বিষয়ক ব্যবস্থাপনা পদ্ধতি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO-৯০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO-৯০০১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO-৯০০২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO-১৪০০০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ISO-14000 পরিবেশ ব্যবস্থাপনা পদ্ধতির মানদণ্ড। ISO-9000 সিরিজ মান ব্যবস্থাপনার সাথে সম্পর্কিত।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-068",
+      "text": "মান ব্যবস্থাপনা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মান নির্ধারণ"
+        },
+        {
+          "label": "ii",
+          "text": "পণ্যের রং"
+        },
+        {
+          "label": "iii",
+          "text": "পণ্যের আকার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মান ব্যবস্থাপনায় মান নির্ধারণ (i) এবং পণ্যের রং (ii) ও আকারের (iii) মতো বৈশিষ্ট্যের মান ঠিক করা হয়। তাই তিনটিই অন্তর্ভুক্ত।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-069",
+      "text": "জনাব শাকিল সিলেটে একটি মানসম্মত কমলার জুস কারখানা স্থাপন করেন। জুস রপ্তানির বিষয়টি বিবেচনা করে একটি আন্তর্জাতিক মানসনদ গ্রহণ করেন। উল্লিখিত উদ্দীপকের প্রতিষ্ঠানটির সনদের নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BSTI",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "EPZ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CAB",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রপ্তানির জন্য আন্তর্জাতিক মানসনদ হলো ISO। BSTI দেশীয় সংস্থা।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-070",
+      "text": "প্রশিক্ষণ ব্যয় হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধমূলক ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণ ব্যয় ত্রুটি আগেই রোধ করে, তাই এটি প্রতিরোধমূলক ব্যয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-071",
+      "text": "বাহ্যিক ব্যর্থতায় ব্যয়ের সাথে জড়িত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ওয়ারেন্টি"
+        },
+        {
+          "label": "ii",
+          "text": "মামলা খরচ"
+        },
+        {
+          "label": "iii",
+          "text": "পুনঃ কার্য ব্যয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ওয়ারেন্টি (i) ও মামলা খরচ (ii) বিক্রয়ের পরের বাহ্যিক ব্যর্থতা ব্যয়। পুনঃকার্য ব্যয় (iii) বিক্রয়ের আগে হয়, তাই এটি অভ্যন্তরীণ ব্যর্থতা ব্যয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-072",
+      "text": "আইএসও ১৪০০০ নিচের কোনটির সাথে সম্পর্কযুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পণ্যের মান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পণ্যের ডিজাইন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিবেশ সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেতা সন্তুষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ISO-14000 পরিবেশ ব্যবস্থাপনা ও পরিবেশ সংরক্ষণের সাথে সম্পর্কিত।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-073",
+      "text": "জনাব তারিককে ১০,০০০ টাকা প্রদান কোন ব্যয়ের অন্তর্গত?",
+      "text_en": null,
+      "image": null,
+      "stem": "অ্যাপল কোম্পানির উৎপাদিত 'মডার্ন টাচ-১২' মোবাইলটি ত্রুটিপূর্ণ হওয়ায় তার কারণ উদঘাটনের জন্য জনাব তারিককে ১০,০০০ টাকা পারিশ্রমিকের বিনিময়ে নিয়োগ দেয়া হয়। জনাব তারিক পরীক্ষা-নিরীক্ষা করে রিপোর্ট প্রদান করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "নিবারণ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ ব্যর্থতার ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্রুটি চিহ্নিতকরণ ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ত্রুটির কারণ খুঁজতে পরীক্ষা-নিরীক্ষার জন্য প্রদত্ত অর্থ মূল্যায়ন ব্যয়ের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-074",
+      "text": "অ্যাপল কোম্পানির নেয়া পদক্ষেপের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "অ্যাপল কোম্পানির উৎপাদিত 'মডার্ন টাচ-১২' মোবাইলটি ত্রুটিপূর্ণ হওয়ায় তার কারণ উদঘাটনের জন্য জনাব তারিককে ১০,০০০ টাকা পারিশ্রমিকের বিনিময়ে নিয়োগ দেয়া হয়। জনাব তারিক পরীক্ষা-নিরীক্ষা করে রিপোর্ট প্রদান করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-9-10",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিম্নমানের কারণ উদঘাটন হয়"
+        },
+        {
+          "label": "ii",
+          "text": "মানসম্পন্ন পণ্য উৎপাদন হয়"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদন পরবর্তী ব্যয় এড়ানো যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পরীক্ষা-নিরীক্ষায় নিম্নমানের কারণ জানা যায় (i), ফলে মানসম্পন্ন পণ্য উৎপাদন হয় (ii) এবং বিক্রয়-পরবর্তী ব্যয় এড়ানো যায় (iii)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-075",
+      "text": "বেঞ্চমার্কিং বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ত্রুটি চিহ্নিতকরণ ব্যয় হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "পণ্যের গুণগত মান সম্পর্কে নিশ্চয়তা"
+        },
+        {
+          "label": "iii",
+          "text": "ক্রেতার সন্তুষ্টি স্থির করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বেঞ্চমার্কিং হলো সেরা প্রতিষ্ঠানের মানের সাথে তুলনা করে গুণগত মান নিশ্চিত করা (ii) ও ক্রেতার সন্তুষ্টি নির্ধারণ করা (iii)। ত্রুটি চিহ্নিতকরণ ব্যয় হ্রাস (i) এর সংজ্ঞা নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-076",
+      "text": "মান ব্যবস্থাপনার জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "W. Edwards Deming",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Lee J. Krajewski",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Lary P. Ritzman",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Kenneth Rose",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "W. Edwards Deming কে মান ব্যবস্থাপনার জনক বলা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-077",
+      "text": "BSTI এর কাজ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজারজাতকরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বণ্টন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মান নিয়ন্ত্রণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোগ বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "BSTI (বাংলাদেশ স্ট্যান্ডার্ডস অ্যান্ড টেস্টিং ইনস্টিটিউশন) এর কাজ পণ্যের মান নির্ধারণ ও নিয়ন্ত্রণ করা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-078",
+      "text": "সার্বিক মান ব্যবস্থাপনার মূল লক্ষ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পণ্যের মান নির্ধারণ করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পণ্যের ধারাবাহিক মান উন্নয়ন করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিষ্ঠানের মুনাফা অর্জন করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পণ্যের গবেষণা বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সার্বিক মান ব্যবস্থাপনার (TQM) মূল লক্ষ্য পণ্যের ধারাবাহিক মান উন্নয়ন করা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-079",
+      "text": "মান ব্যবস্থাপনার জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Henri Fayol",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Kenneth Rose",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "L.H.C Trippet",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "W. Edwards Deming",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "W. Edwards Deming মান ব্যবস্থাপনার জনক।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-080",
+      "text": "'পুনঃকাজ করার ব্যয়' কোন ধরনের নিম্নমানজনিত ব্যয়ের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক ব্যর্থতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পুনঃকাজ বিক্রয়ের আগে ত্রুটি ধরা পড়লে করা হয়, তাই এর ব্যয় অভ্যন্তরীণ ব্যর্থতা ব্যয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-081",
+      "text": "\"মেঘনা ইলেকট্রনিক্স\" উৎপাদন প্রক্রিয়ার যে ব্যয় করেছে তা কোন ধরনের ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"মেঘনা ইলেকট্রনিক্স\" উৎপাদিত মোবাইল সেটের মান বৃদ্ধি ও বাজার সম্প্রসারণের জন্য উৎপাদন প্রক্রিয়ার ত্রুটি সংশোধন ও কর্মীদের প্রশিক্ষণদানের ব্যবস্থা গ্রহণ করে। কিন্তু নিয়মিত পরিদর্শন ও পরীক্ষণ কার্য সম্পাদন করে না। ফলে পণ্যের মান নিম্ন হয় এবং প্রতিষ্ঠানটি ক্ষতির সম্মুখীন হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "বাহ্যিক ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভ্যন্তরীণ ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিবারণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রক্রিয়ার ত্রুটি সংশোধন ও কর্মী প্রশিক্ষণ ত্রুটি আগেই রোধ করার ব্যয়, যা প্রতিরোধ বা নিবারণ ব্যয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-082",
+      "text": "\"মেঘনা ইলেকট্রনিক্স\" এর ব্যর্থতার কারণ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"মেঘনা ইলেকট্রনিক্স\" উৎপাদিত মোবাইল সেটের মান বৃদ্ধি ও বাজার সম্প্রসারণের জন্য উৎপাদন প্রক্রিয়ার ত্রুটি সংশোধন ও কর্মীদের প্রশিক্ষণদানের ব্যবস্থা গ্রহণ করে। কিন্তু নিয়মিত পরিদর্শন ও পরীক্ষণ কার্য সম্পাদন করে না। ফলে পণ্যের মান নিম্ন হয় এবং প্রতিষ্ঠানটি ক্ষতির সম্মুখীন হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মূল্যায়ন না করা"
+        },
+        {
+          "label": "ii",
+          "text": "ওয়ারেন্টি না দেয়া"
+        },
+        {
+          "label": "iii",
+          "text": "প্রশিক্ষণ ব্যয় না করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রতিষ্ঠানটি নিয়মিত পরিদর্শন ও পরীক্ষণ, অর্থাৎ মূল্যায়ন, করেনি (i), ফলে মান নিম্ন হয়েছে। ওয়ারেন্টির কথা বা প্রশিক্ষণ বাদ দেওয়ার কথা উদ্দীপকে নেই; প্রশিক্ষণ দেওয়া হয়েছে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-084",
+      "text": "BSTI সনদটি কোনটির সাথে সম্পর্কিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিবেশ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নৈতিকতা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "BSTI সনদ পণ্যের মানের সাথে সম্পর্কিত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-085",
+      "text": "ওয়ারেন্টি কোন ধরনের ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ বিচ্যুতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক বিচ্যুতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ওয়ারেন্টি বিক্রয়ের পরে ক্রেতাকে দেওয়া সেবা, তাই এটি বাহ্যিক ব্যর্থতা ব্যয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-086",
+      "text": "পণ্যের মান নির্ধারণের আন্তর্জাতিক সংস্থাটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "BTTB",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "BSTI",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "WTO",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ISO (International Organization for Standardization) পণ্যের মান নির্ধারণের আন্তর্জাতিক সংস্থা। BSTI দেশীয় সংস্থা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-087",
+      "text": "কোনটি প্রতিরোধ ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রশিক্ষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিদর্শন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরীক্ষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুনঃকার্য",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণ প্রতিরোধ ব্যয়। পরিদর্শন ও পরীক্ষণ মূল্যায়ন ব্যয় এবং পুনঃকার্য অভ্যন্তরীণ ব্যর্থতা ব্যয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-088",
+      "text": "উদ্দীপকে বিশেষজ্ঞদের প্রদত্ত ২ লক্ষ টাকা কোন ধরনের ব্যয়ের অন্তর্গত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. শামীমের কারখানায় প্রতিমাসে বেশ কিছু পণ্য ত্রুটিযুক্ত হওয়ায় তিনি উৎপাদন কার্যক্রম তদারকির জন্য ২ জন বিশেষজ্ঞ নিয়োগ দেন। এজন্য তাকে অতিরিক্ত ২ লক্ষ টাকা খরচ করতে হয়। উৎপাদন কাজ পরিদর্শন ও পরীক্ষা করে বিশেষজ্ঞরা বিষয়টি কর্তৃপক্ষকে অবহিত করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধমূলক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ বিচ্যুতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক বিচ্যুতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিশেষজ্ঞদের দিয়ে পরিদর্শন ও পরীক্ষণ করানো মূল্যায়ন ব্যয়ের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-089",
+      "text": "মি. শামীমের গৃহীত পদক্ষেপের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. শামীমের কারখানায় প্রতিমাসে বেশ কিছু পণ্য ত্রুটিযুক্ত হওয়ায় তিনি উৎপাদন কার্যক্রম তদারকির জন্য ২ জন বিশেষজ্ঞ নিয়োগ দেন। এজন্য তাকে অতিরিক্ত ২ লক্ষ টাকা খরচ করতে হয়। উৎপাদন কাজ পরিদর্শন ও পরীক্ষা করে বিশেষজ্ঞরা বিষয়টি কর্তৃপক্ষকে অবহিত করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-29-30",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিম্নমান পরিমাপ করা সহজ হয়"
+        },
+        {
+          "label": "ii",
+          "text": "উৎপাদন পরবর্তী ব্যয় এড়ানো যায়"
+        },
+        {
+          "label": "iii",
+          "text": "নিম্নমানের কারণ উদঘাটন করা যায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পরিদর্শনে নিম্নমান পরিমাপ সহজ হয় (i), উৎপাদন-পরবর্তী ব্যয় এড়ানো যায় (ii) এবং নিম্নমানের কারণ উদঘাটন করা যায় (iii)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-090",
+      "text": "মান ব্যবস্থাপনার জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "F.W. Taylor",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "W. Edwards Deming",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Kenneth Rose",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Henri Fayol",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "W. Edwards Deming মান ব্যবস্থাপনার জনক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-091",
+      "text": "উদ্দীপকের প্রতিষ্ঠানটি দেশিয় কোন সংস্থার অনুমোদন প্রাপ্ত।",
+      "text_en": null,
+      "image": null,
+      "stem": "মাসুদ ফুড লিমিটেড বাংলাদেশের একটি স্বীকৃত মান সংস্থার সনদ প্রাপ্ত জনপ্রিয় খাদ্যদ্রব্য উৎপাদন ও বিক্রয়কারী প্রতিষ্ঠান। সম্প্রতি প্রতিষ্ঠানটি বিদেশের বাজারে প্রবেশের জন্য আন্তর্জাতিকভাবে স্বীকৃত মান সংস্থায় আবেদন করে। সেই সংস্থার একটি প্রতিনিধিদল মাসুদ ফুড লিমিটেডের কারখানা পরিদর্শন করে পরিবেশ বিষয়ক ব্যবস্থাপনা পদ্ধতি নিয়ে অসন্তোষ প্রকাশ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-JB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO—9000",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "BSTI",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO—14000",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "TQM",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাংলাদেশের স্বীকৃত মান সংস্থা BSTI, অর্থাৎ প্রতিষ্ঠানটি দেশীয় সংস্থা BSTI এর সনদ পেয়েছে। ISO আন্তর্জাতিক সংস্থা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-092",
+      "text": "আন্তর্জাতিক মান সংস্থার প্রতিনিধিদল যে বিষয়ের উপর অসন্তোষ প্রকাশ করেছেন সেই মান দলিলের নিয়ম-কানুনের আওতাভুক্ত বিষয় হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মাসুদ ফুড লিমিটেড বাংলাদেশের একটি স্বীকৃত মান সংস্থার সনদ প্রাপ্ত জনপ্রিয় খাদ্যদ্রব্য উৎপাদন ও বিক্রয়কারী প্রতিষ্ঠান। সম্প্রতি প্রতিষ্ঠানটি বিদেশের বাজারে প্রবেশের জন্য আন্তর্জাতিকভাবে স্বীকৃত মান সংস্থায় আবেদন করে। সেই সংস্থার একটি প্রতিনিধিদল মাসুদ ফুড লিমিটেডের কারখানা পরিদর্শন করে পরিবেশ বিষয়ক ব্যবস্থাপনা পদ্ধতি নিয়ে অসন্তোষ প্রকাশ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-JB-6-7",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পণ্যের গুণগত মান"
+        },
+        {
+          "label": "ii",
+          "text": "কারখানার পরিবেশ"
+        },
+        {
+          "label": "iii",
+          "text": "কারখানার বর্জ্য অপসারণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পরিবেশ ব্যবস্থাপনার মান দলিল ISO-14000, যার আওতায় কারখানার পরিবেশ (ii) ও বর্জ্য অপসারণ (iii) পড়ে। পণ্যের গুণগত মান (i) ISO-9000 সিরিজের বিষয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-093",
+      "text": "নমুনায়ন তত্ত্বের উদ্ভাবক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "L.H.C Tippet",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Charles Babbage",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "James Steuart",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Walter Shewhart",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নমুনায়ন তত্ত্বের উদ্ভাবক হিসেবে L.H.C. Tippett এর নাম পাঠ্যবইয়ে উল্লিখিত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2025",
+          "qno": 25,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-094",
+      "text": "মান নিয়ন্ত্রণ কার্যক্রমের উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মানের সাথে কার্যফলের তুলনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ত্রুটি চিহ্নিত করণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মান নিশ্চিত করণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ত্রুটি সংশোধন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মান নিয়ন্ত্রণের উদ্দেশ্য পাঠ্যবই অনুযায়ী ত্রুটি সংশোধন করা, যাতে নির্ধারিত মান বজায় থাকে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-095",
+      "text": "নিচের কোনটি পরিবেশ বিষয়ক ব্যবস্থাপনা দলিল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO—9001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO—9002",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO—9003",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO—14000",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ISO-14000 পরিবেশ ব্যবস্থাপনা দলিল। ISO-9001, 9002 ও 9003 মান ব্যবস্থাপনার সাথে সম্পর্কিত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-096",
+      "text": "মান ব্যবস্থাপনার একটি দর্শন হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রেতা বা ভোক্তা সন্তুষ্টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মী সন্তুষ্টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিক্রেতা সন্তুষ্টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদক সন্তুষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মান ব্যবস্থাপনার একটি মূল দর্শন ক্রেতা বা ভোক্তার সন্তুষ্টি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-097",
+      "text": "ওয়ারেন্টি কোন ধরনের ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রিভেনশন কস্ট",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এপ্রাইজাল কস্ট",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ইন্টার্নাল কস্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এক্সটারনাল ফেইলিউর কস্ট",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ওয়ারেন্টি বিক্রয়ের পরে হওয়া ব্যয়, তাই এটি এক্সটারনাল (বাহ্যিক) ফেইলিউর কস্ট।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-098",
+      "text": "নিম্নমান জনিত পণ্য উৎপাদনের একটি পরিণতি হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাজার শেয়ার বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাজার শেয়ার হারানো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রতিযোগিতার শক্ত অবস্থান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিযোগিতামূলক মূল্য বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিম্নমানের পণ্য ক্রেতার আস্থা নষ্ট করে, ফলে প্রতিষ্ঠান বাজার শেয়ার হারায়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-099",
+      "text": "মান নিয়ন্ত্রণের কার্যাবলি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আদর্শ মান নির্ধারণ"
+        },
+        {
+          "label": "ii",
+          "text": "উন্নত পণ্য উৎপাদন"
+        },
+        {
+          "label": "iii",
+          "text": "ভুল-ত্রুটি সংশোধন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মান নিয়ন্ত্রণে আদর্শ মান নির্ধারণ (i), উন্নত পণ্য উৎপাদন (ii) ও ভুল-ত্রুটি সংশোধন (iii) করা হয়। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-100",
+      "text": "ভিশন লিমিটেড এর ফ্যানের পাঁচ বছরের গ্যারান্টি কোন ধরনের ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "ভিশন লিমিটেড বিভিন্ন ধরনের ফ্যান উৎপাদন ও বাজারজাতকরণ করে। এটি ক্রেতাদের পাঁচ বছরের গ্যারান্টি দিয়ে থাকে। সম্প্রতি প্রতিষ্ঠানটি আই.এস.ও (ISO) সনদ লাভ করেছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রতিরোধ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যায়ন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক ব্যর্থতার ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পাঁচ বছরের গ্যারান্টি বিক্রয়ের পরের সেবা, যা বাহ্যিক ব্যর্থতার ব্যয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-101",
+      "text": "ভিশন লিমিটেড আই.এস.ও সনদ লাভের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "ভিশন লিমিটেড বিভিন্ন ধরনের ফ্যান উৎপাদন ও বাজারজাতকরণ করে। এটি ক্রেতাদের পাঁচ বছরের গ্যারান্টি দিয়ে থাকে। সম্প্রতি প্রতিষ্ঠানটি আই.এস.ও (ISO) সনদ লাভ করেছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "আন্তর্জাতিক স্বীকৃতি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "উৎপাদন বৃদ্ধি পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "রপ্তানির সুযোগ পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ISO সনদে আন্তর্জাতিক স্বীকৃতি (i) ও রপ্তানির সুযোগ (iii) পাওয়া যায়। উৎপাদন বৃদ্ধি (ii) সনদের সরাসরি ফল নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-102",
+      "text": "মান ব্যবস্থাপনার জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "W. Edwards Deming",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Kenneth Rose",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Robert Wen",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Elton Mayo",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "W. Edwards Deming মান ব্যবস্থাপনার জনক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-103",
+      "text": "কোন সনদ শুধু পণ্য ও সেবার নকশাকরণের সাথে জড়িত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO—9001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO—9002",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO—9003",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO—9004",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ISO-9001 পণ্য ও সেবার নকশাকরণ ও উন্নয়নের সাথে জড়িত।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-104",
+      "text": "'শ্রাবন গার্মেন্টস' মানসম্পন্ন পণ্য উৎপাদনের নিমিত্তে উৎপাদন বিভাগের ৫০ জন কর্মীকে প্রশিক্ষণের উদ্দেশ্যে জার্মানিতে পাঠায়। এ জন্য প্রতিষ্ঠানটিকে ২০ লক্ষ টাকা ব্যয় করতে হয়। এক্ষেত্রে শ্রাবন গার্মেন্টস কর্তৃক সম্পাদিত ব্যয় কোন ধরনের ব্যয়ের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রতিরোধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাহ্যিক ব্যর্থতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভ্যন্তরীণ ব্যর্থতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কর্মীদের প্রশিক্ষণে ব্যয় ত্রুটি আগেই রোধ করার জন্য, তাই এটি প্রতিরোধ ব্যয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-105",
+      "text": "'পরিবেশ বিষয়ক ব্যবস্থাপনা দলিল' হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO—9001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO—9002",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO—9003",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO—14000",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ISO-14000 পরিবেশ ব্যবস্থাপনা দলিল।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-106",
+      "text": "কোন সনদটি উৎপাদন প্রক্রিয়ার সাথে সম্পৃক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ISO—9001",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ISO—9002",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ISO—9003",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ISO—9004",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "ISO-9002 উৎপাদন ও সংস্থাপন প্রক্রিয়ার মানদণ্ড, আর ISO-9003 চূড়ান্ত পরিদর্শন ও পরীক্ষার মানদণ্ড।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (গ) ISO-9003, যা চূড়ান্ত পরিদর্শন ও পরীক্ষার মানদণ্ড; উৎপাদন ও স্থাপন প্রক্রিয়ার মানদণ্ড ISO-9002, তাই (খ)।"
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-107",
+      "text": "BSTI কোন ধরনের প্রতিষ্ঠান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায়িক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যক্তি মালিকানাধীন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আন্তর্জাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাননিয়ন্ত্রণকারী",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "BSTI দেশের পণ্যের মান নির্ধারণ ও নিয়ন্ত্রণকারী সরকারি প্রতিষ্ঠান।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-108",
+      "text": "\"স্টার ইলেকট্রনিক্স\" কর্তৃক সম্পাদিত ব্যয়ের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "\"স্টার ইলেকট্রনিক্স\" তাদের উৎপাদিত পণ্যের মান বৃদ্ধি ও বাজার সম্প্রসারণের জন্য উৎপাদন প্রক্রিয়ার পুনঃবিন্যাস ও কর্মীদের প্রশিক্ষণদানের ব্যবস্থা করেন। এতে প্রতিষ্ঠানটি আর্থিকভাবে লাভবান হচ্ছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-21-22",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাহ্যিক বিচ্যুতি ব্যয় কমবে"
+        },
+        {
+          "label": "ii",
+          "text": "একক প্রতি উৎপাদন ব্যয় বেড়ে যাবে"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যবসায়ের সুনাম বৃদ্ধি পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণ ও প্রক্রিয়ার পুনঃবিন্যাস ত্রুটি কমিয়ে বাহ্যিক বিচ্যুতি ব্যয় কমায় (i) এবং সুনাম বাড়ায় (iii)। উদ্দীপকে প্রতিষ্ঠান লাভবান হচ্ছে, তাই একক প্রতি ব্যয় বাড়ার (ii) কথা সঠিক নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch7-mcq-109",
+      "text": "কখন পণ্যের মান নির্ধারণ করতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদনের পূর্বে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদনকালীন সময়ে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনের পরে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাজারজাত করার পূর্বে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পণ্যের মান উৎপাদনের পূর্বেই নির্ধারণ করতে হয়, যাতে উৎপাদন সেই মান অনুযায়ী হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
         "session": null
       },
       "tags": [],

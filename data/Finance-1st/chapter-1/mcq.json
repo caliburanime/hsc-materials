@@ -978,6 +978,14 @@
         "qno": 1,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DB",
+          "year": "2025",
+          "qno": 19,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1720,6 +1728,1435 @@
         "board": "DIB",
         "year": "2023",
         "qno": 8
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-041",
+      "text": "মুনাফা সর্বাধিকরণে কোনটি বিবেচনা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রকল্পের ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্থের সময় মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রকল্পের মোট আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রকল্পের নগদ প্রবাহ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুনাফা সর্বাধিকরণে শুধু প্রকল্পের মোট আয় বিবেচনা করা হয়; ঝুঁকি, অর্থের সময়মূল্য ও নগদ প্রবাহ বিবেচনা করা হয় না। তাই উত্তর (গ)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-042",
+      "text": "জনাব রহমান বিনিয়োগের ক্ষেত্রে কোন নীতি অনুসরণ করছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান একজন ব্যাংকার। তিনি ৭ লক্ষ টাকা বিনিয়োগ করতে চাচ্ছেন। উক্ত টাকার মধ্যে ৫ লক্ষ টাকা ব্যাংকে FDR করতে চাচ্ছেন এবং অবশিষ্ট ২ লক্ষ টাকা দিয়ে যমুনা অয়েল কোম্পানীর শেয়ার ক্রয় করতে চাচ্ছেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-BB-27-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "তারল্য ও মুনাফা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি ও মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোর্ট ফোলিও বৈচিত্র্যায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্থের সময় মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জনাব রহমান ৫ লক্ষ টাকা নিরাপদ FDR-এ এবং ২ লক্ষ টাকা শেয়ারে বিনিয়োগ করেছেন। অর্থাৎ একাধিক খাতে বিনিয়োগ করে ঝুঁকি ছড়িয়ে দিচ্ছেন, যা পোর্টফোলিও বৈচিত্র্যায়ন নীতি।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-043",
+      "text": "জনাব লিনা খান একটি প্রতিষ্ঠানে কর্মরত আছেন। তিনি প্রতিষ্ঠানের অর্থ বিনিয়োগ ও ঋণ গ্রহণ সংক্রান্ত বিষয়সমূহের সিদ্ধান্ত নিয়ে থাকেন। জনাব লিনা খান কোন ধরনের কর্মকর্তা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হিসাবরক্ষক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিচালক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক ব্যবস্থাপক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উদ্যোক্তা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রতিষ্ঠানের অর্থ বিনিয়োগ ও ঋণ গ্রহণ সংক্রান্ত সিদ্ধান্ত নেওয়া আর্থিক ব্যবস্থাপকের কাজ।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-044",
+      "text": "কোন অর্থায়নে প্রথমে ব্যয়ের পরিমাণ নির্ধারণ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরকারি অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পারিবারিক অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবসায় অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অব্যবসায় অর্থায়ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরকারি অর্থায়নে সরকার প্রথমে প্রয়োজনীয় ব্যয়ের পরিমাণ নির্ধারণ করে, পরে সেই ব্যয় মেটাতে কর ইত্যাদির মাধ্যমে আয়ের উৎস ঠিক করে। ব্যবসায়ে এর উল্টো, আয় অনুযায়ী ব্যয় নির্ধারিত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-045",
+      "text": "ফাস্ট লি. অর্থায়নের কোন কার্যাবলি সম্পন্ন করেছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "ফাস্ট লি. ব্যবসায় সম্প্রসারণের জন্য একটি মেশিন ক্রয় করেছে। মেশিনটি ব্যবহারের মাধ্যমে কোম্পানিটি উৎপাদন ও বিক্রয় বৃদ্ধির দ্বারা অর্থায়নের চূড়ান্ত লক্ষ্য অর্জনে সক্ষম হবে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "তহবিল সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বল্পমেয়াদি সম্পদ ব্যবস্থাপনা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তহবিল বণ্টন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ফাস্ট লি. মেশিন ক্রয় করে দীর্ঘমেয়াদি সম্পদে বিনিয়োগ করেছে। দীর্ঘমেয়াদি স্থায়ী সম্পদে বিনিয়োগ সংক্রান্ত সিদ্ধান্ত হলো মূলধন বাজেটিং।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-046",
+      "text": "ফাস্ট লি. অর্থায়নের যে লক্ষ্য অর্জন করবে বলে প্রত্যাশা করা হচ্ছে তার সুবিধা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "ফাস্ট লি. ব্যবসায় সম্প্রসারণের জন্য একটি মেশিন ক্রয় করেছে। মেশিনটি ব্যবহারের মাধ্যমে কোম্পানিটি উৎপাদন ও বিক্রয় বৃদ্ধির দ্বারা অর্থায়নের চূড়ান্ত লক্ষ্য অর্জনে সক্ষম হবে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নগদ প্রবাহ বিবেচনা করা"
+        },
+        {
+          "label": "ii",
+          "text": "অর্থের সময়মূল্য বিবেচনা করা"
+        },
+        {
+          "label": "iii",
+          "text": "ঝুঁকি বিবেচনা করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উদ্দীপকে অর্থায়নের চূড়ান্ত লক্ষ্য হলো সম্পদ সর্বাধিকরণ। এতে নগদ প্রবাহ, অর্থের সময়মূল্য ও ঝুঁকি তিনটিই বিবেচনা করা হয়। তাই i, ii ও iii সবগুলোই সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-047",
+      "text": "তারল্য ও মুনাফার মধ্যে সম্পর্ক কীরূপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরলরৈখিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিপরীত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ধনাত্মক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তারল্য বাড়লে অলস নগদ বেশি থাকে ফলে মুনাফা কমে, আর তারল্য কমালে মুনাফা বাড়ে। তাই দুটির সম্পর্ক বিপরীত।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-048",
+      "text": "মুনাফা সর্বাধিকরণে কোনটি বিবেচনা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থের সময় মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রকল্পের ঝুঁকি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রকল্পের নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রকল্পের মোট আয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মুনাফা সর্বাধিকরণে প্রকল্পের মোট আয়কে বিবেচনা করা হয়; ঝুঁকি, সময়মূল্য ও নগদ প্রবাহ বিবেচনায় আসে না (সম্পদ সর্বাধিকরণে আসে)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-049",
+      "text": "সরকারি অর্থায়নের মূল উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সামাজিক কল্যাণ সাধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা অর্জন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ সর্বাধিকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জনপ্রিয়তা বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরকারি অর্থায়নের মূল উদ্দেশ্য মুনাফা নয়, বরং সামাজিক কল্যাণ সাধন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-050",
+      "text": "অর্থায়নের কার্যাবলি হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তহবিল সংগ্রহ"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধন বাজেটিং"
+        },
+        {
+          "label": "iii",
+          "text": "সামাজিক দায়বদ্ধতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তহবিল সংগ্রহ ও মূলধন বাজেটিং অর্থায়নের কার্যাবলি। সামাজিক দায়বদ্ধতা অর্থায়নের কার্যাবলি নয়, এটি দায়িত্ব ও নৈতিকতার বিষয়। তাই i ও ii সঠিক।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-051",
+      "text": "নিচের কোনটি অভ্যন্তরীণ অর্থায়নের উৎস?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শিল্প ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাণিজ্যিক ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কেন্দ্রীয় ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়কর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আয়কর সরকারের নিজস্ব দেশীয় (অভ্যন্তরীণ) রাজস্ব আয়। শিল্প, বাণিজ্যিক ও কেন্দ্রীয় ব্যাংক থেকে ঋণ নিলে তা ব্যাংকিং খাতের ঋণ হিসেবে গণ্য হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-052",
+      "text": "'ক' ব্যাংকের উক্ত উদ্যোগ গ্রহণ ব্যবসায়ের কোনটির সাথে সম্পর্কযুক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "'ক' ব্যাংক গরীব ও মেধাবি শিক্ষার্থীদের জন্য শিক্ষাবৃত্তি প্রদান করে থাকে। এতে করে এর গ্রাহকরা ব্যাংকটির প্রতি আশ্বস্ত ও সন্তুষ্ট।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "সামাজিক দায়বদ্ধতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নৈতিকতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল্যবোধ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ সর্বাধিকরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গরীব ও মেধাবী শিক্ষার্থীদের বৃত্তি দেওয়া সমাজের প্রতি ব্যাংকের দায়িত্ব পালন, অর্থাৎ সামাজিক দায়বদ্ধতা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-053",
+      "text": "উক্ত শিক্ষাবৃত্তি কর্মসূচি গ্রহণ করা কার দায়িত্ব?",
+      "text_en": null,
+      "image": null,
+      "stem": "'ক' ব্যাংক গরীব ও মেধাবি শিক্ষার্থীদের জন্য শিক্ষাবৃত্তি প্রদান করে থাকে। এতে করে এর গ্রাহকরা ব্যাংকটির প্রতি আশ্বস্ত ও সন্তুষ্ট।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংকের চেয়ারম্যানের",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাংকের শেয়ারহোল্ডারের",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংকের আর্থিক ব্যবস্থাপকের",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংকের শ্রমিক-কর্মচারীদের",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "এ ধরনের কর্মসূচি গ্রহণ ও বাস্তবায়নের সিদ্ধান্ত আর্থিক ব্যবস্থাপকের দায়িত্বের মধ্যে পড়ে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-054",
+      "text": "সরকারি অর্থায়নের উৎস হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ট্রেজারি বিল"
+        },
+        {
+          "label": "ii",
+          "text": "আয়কর"
+        },
+        {
+          "label": "iii",
+          "text": "আমদানি শুল্ক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বিল সরকারের ঋণ সংগ্রহের মাধ্যম, আর আয়কর ও আমদানি শুল্ক রাজস্ব আয়। তিনটিই সরকারি অর্থায়নের উৎস।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-055",
+      "text": "অর্থায়নের প্রাথমিক কাজ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "তহবিল বণ্টন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তহবিল সংগ্রহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তহবিল সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তহবিল ব্যবস্থাপনা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অর্থায়নের প্রথম ও প্রাথমিক কাজ হলো তহবিল সংগ্রহ, এরপর সংগৃহীত তহবিল বণ্টন বা বিনিয়োগ করা হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-056",
+      "text": "একজন বিনিয়োগকারী নিচের কোনটি অনুসরণ করে ঝুঁকি নিয়ন্ত্রণ করে থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি ও মুনাফার নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারল্য ও মুনাফার নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোর্টফোলিও ও বৈচিত্রায়ন নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপযুক্ততার নীতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিনিয়োগকারী একাধিক খাতে বিনিয়োগ করে (পোর্টফোলিও ও বৈচিত্র্যায়ন নীতি) ঝুঁকি কমিয়ে নিয়ন্ত্রণ করে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-057",
+      "text": "নিচের কোনটি অর্থের সময় মূল্য বিবেচনা করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূল্য সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফা সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন সর্বোচ্চকরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সম্পদ সর্বোচ্চকরণে নগদ প্রবাহ, ঝুঁকি ও অর্থের সময়মূল্য বিবেচনা করা হয়, যা মুনাফা সর্বোচ্চকরণে করা হয় না।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-058",
+      "text": "তারল্যের পরিমাণ বৃদ্ধি পেলে মুনাফা—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রমশ বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তারল্য বাড়লে অর্থ অলস পড়ে থাকে, বিনিয়োগ কমে যায় ফলে মুনাফা হ্রাস পায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-059",
+      "text": "উদ্দীপকে জনাব আকতারের ব্যবসায়ের মূল লক্ষ্য কী ছিল?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আকতার মুনাফা লাভের প্রত্যাশায় ব্যবসায়ে মূলধন বিনিয়োগ করেন এবং নির্দিষ্ট সময় শেষে প্রত্যাশিত মুনাফা অর্জনে ব্যর্থ হন। তিনি পুনরায় বেশি মুনাফার প্রত্যাশায় একাধিক প্রকল্পে বিনিয়োগ করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যক্তিগত সুনাম অর্জন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ সর্বাধিকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সামাজিক কল্যাণ সাধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা সর্বাধিকরণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জনাব আকতার মুনাফা লাভের প্রত্যাশায় বিনিয়োগ করেছেন, তাই তাঁর মূল লক্ষ্য ছিল মুনাফা সর্বাধিকরণ।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-060",
+      "text": "জনাব আকতার পুনরায় ব্যবসায়ে বিনিয়োগের ক্ষেত্রে নিচের কোন নীতিটি অনুসরণ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আকতার মুনাফা লাভের প্রত্যাশায় ব্যবসায়ে মূলধন বিনিয়োগ করেন এবং নির্দিষ্ট সময় শেষে প্রত্যাশিত মুনাফা অর্জনে ব্যর্থ হন। তিনি পুনরায় বেশি মুনাফার প্রত্যাশায় একাধিক প্রকল্পে বিনিয়োগ করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "তারল্য ও মুনাফা নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঝুঁকি ও মুনাফা নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোর্টফোলিও ও বৈচিত্র্যায়ণ নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উপযুক্ততার নীতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তিনি বেশি মুনাফার আশায় একাধিক প্রকল্পে বিনিয়োগ করেছেন, অর্থাৎ ঝুঁকি বিভিন্ন খাতে ছড়িয়ে দিয়েছেন। এটি পোর্টফোলিও ও বৈচিত্র্যায়ণ নীতি।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-061",
+      "text": "একটি ফার্মের মূললক্ষ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সামাজিক কল্যাণ সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্থের সময় মূল্য সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা সর্বোচ্চকরণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "আধুনিক অর্থায়নে ফার্মের মূল লক্ষ্য সম্পদ সর্বোচ্চকরণ, কারণ এতে মালিকের সম্পদের বাজার মূল্য বৃদ্ধি পায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-062",
+      "text": "সম্পদ সর্বোচ্চকরণের নির্দেশক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শেয়ার প্রতি লভ্যাংশ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেয়ার প্রতি আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শেয়ার প্রতি লিখিতমূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শেয়ার প্রতি বাজার মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্পদ সর্বোচ্চকরণের নির্দেশক হলো শেয়ারের বাজার মূল্য; বাজার মূল্য বাড়লে শেয়ারহোল্ডারের সম্পদ বাড়ে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-063",
+      "text": "তারল্য ও মুনাফার মধ্যে সম্পর্ক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিরপেক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তারল্য ও মুনাফার সম্পর্ক বিপরীতমুখী, অর্থাৎ ঋণাত্মক। একটি বাড়লে অপরটি কমে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-064",
+      "text": "অর্থায়নের কার্যাবলি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "তহবিল সংগ্রহ"
+        },
+        {
+          "label": "ii",
+          "text": "তহবিল বণ্টন"
+        },
+        {
+          "label": "iii",
+          "text": "তহবিল বিনিয়োগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তহবিল সংগ্রহ, তহবিল বণ্টন ও তহবিল বিনিয়োগ তিনটিই অর্থায়নের কার্যাবলি।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-065",
+      "text": "অর্থায়নে সামাজিক দায়বদ্ধতা বলতে বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি ও মুনাফার সমন্বয় সাধন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগকারীর স্বার্থ রক্ষা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা সর্বোচ্চকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ সর্বোচ্চকরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অর্থায়নে সামাজিক দায়বদ্ধতা বলতে বিনিয়োগকারীসহ সংশ্লিষ্ট পক্ষের স্বার্থ রক্ষার দায়িত্ব বোঝায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-066",
+      "text": "সম্পদ সর্বোচ্চকরণ নীতির মূল লক্ষ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি সম্পদ বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট বর্তমান মূল্য বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থায়ী সম্পদ বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সম্পদ সর্বোচ্চকরণ নীতির মূল লক্ষ্য প্রকল্পের নিট বর্তমান মূল্য (NPV) বৃদ্ধি করা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-067",
+      "text": "মি. আরিফ অর্থায়নের কোন নীতি অনুসরণ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আরিফ একটি কোম্পানির আর্থিক ব্যবস্থাপক। একটি লাভজনক প্রকল্পে বিনিয়োগের জন্য তিনি X ব্যাংক হতে ১২% সুদে ৩০ লক্ষ টাকা ঋণ গ্রহণ করেন। বছর শেষে উক্ত প্রকল্প হতে ৫ লক্ষ টাকা মুনাফা অর্জন করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "পোর্টফোলিও বৈচিত্র্যায়ন নীতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নগদ প্রবাহ নীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ঝুঁকি ও মুনাফার সমন্বয়করণ নীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তারল্য ও মুনাফার অর্জন ক্ষমতার নীতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "তিনি ১২% সুদে ঋণ নিয়ে (ঝুঁকি) প্রকল্পে বিনিয়োগ করে মুনাফা আশা করেছেন। অর্থাৎ ঝুঁকি ও মুনাফার মধ্যে সমন্বয় করেছেন।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-068",
+      "text": "মি. আরিফ কর্তৃক গৃহীত সিদ্ধান্তসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. আরিফ একটি কোম্পানির আর্থিক ব্যবস্থাপক। একটি লাভজনক প্রকল্পে বিনিয়োগের জন্য তিনি X ব্যাংক হতে ১২% সুদে ৩০ লক্ষ টাকা ঋণ গ্রহণ করেন। বছর শেষে উক্ত প্রকল্প হতে ৫ লক্ষ টাকা মুনাফা অর্জন করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "লভ্যাংশ সিদ্ধান্ত"
+        },
+        {
+          "label": "ii",
+          "text": "অর্থায়ন সিদ্ধান্ত"
+        },
+        {
+          "label": "iii",
+          "text": "বিনিয়োগ সিদ্ধান্ত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যাংক ঋণ নেওয়া অর্থায়ন সিদ্ধান্ত (ii) এবং প্রকল্পে বিনিয়োগ করা বিনিয়োগ সিদ্ধান্ত (iii)। উদ্দীপকে লভ্যাংশের কোনো সিদ্ধান্ত নেই, তাই i ভুল।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-069",
+      "text": "আর্থিক ব্যবস্থাপককে নিচের কোন বিষয়ের মধ্যে সমন্বয় সাধন করতে হয়?",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঝুঁকি ও আয়"
+        },
+        {
+          "label": "ii",
+          "text": "উৎপাদন ও বণ্টন"
+        },
+        {
+          "label": "iii",
+          "text": "তারল্য ও মুনাফা অর্জন ক্ষমতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আর্থিক ব্যবস্থাপককে ঝুঁকি ও আয় এবং তারল্য ও মুনাফা অর্জন ক্ষমতার মধ্যে সমন্বয় করতে হয়। উৎপাদন ও বণ্টন তার সমন্বয়ের বিষয় নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-070",
+      "text": "ফার্মের চূড়ান্ত লক্ষ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবসায় সম্প্রসারণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদ সর্বাধিকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা সর্বাধিকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সামাজিক কল্যাণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফার্মের চূড়ান্ত লক্ষ্য সম্পদ সর্বাধিকরণ; মুনাফা সর্বাধিকরণ তার একটি অংশমাত্র।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-071",
+      "text": "অর্থায়নের মৌলিক সিদ্ধান্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আর্থিক সিদ্ধান্ত"
+        },
+        {
+          "label": "ii",
+          "text": "লভ্যাংশ সিদ্ধান্ত"
+        },
+        {
+          "label": "iii",
+          "text": "বিনিয়োগ সিদ্ধান্ত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অর্থায়নের তিনটি মৌলিক সিদ্ধান্ত হলো বিনিয়োগ, আর্থিক (অর্থায়ন) ও লভ্যাংশ সিদ্ধান্ত।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-072",
+      "text": "অর্থায়নের সামাজিক দায়বদ্ধতা হতে পারে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতিষ্ঠানের সম্পদ সর্বোচ্চকরণ"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রেতাদের স্বার্থ সংরক্ষণ"
+        },
+        {
+          "label": "iii",
+          "text": "শ্রমিক কর্মচারিদের প্রতি দায়িত্ব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্রেতাদের স্বার্থ সংরক্ষণ ও শ্রমিক-কর্মচারীদের প্রতি দায়িত্ব সামাজিক দায়বদ্ধতার অংশ। সম্পদ সর্বোচ্চকরণ প্রতিষ্ঠানের লক্ষ্য, দায়বদ্ধতা নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch1-mcq-073",
+      "text": "'P' ট্রেডার্স অর্থায়নের কোন নীতি অনুসরণ করেনি?",
+      "text_en": null,
+      "image": null,
+      "stem": "'P' ট্রেডার্স তার মূলধনের অধিকাংশ অর্থ একটি প্রকল্পে বিনিয়োগ করল। কিছুদিন পর পাওনাদারদের পাওনা অর্থ পরিশোধে ব্যর্থ হওয়ায় প্রতিষ্ঠানটি ব্যবসায়িক সংকটে পড়ে।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "ঝুঁকি ও মুনাফা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তারল্য ও মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পোর্টফোলিও",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লভ্যাংশ প্রদান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "P ট্রেডার্স অধিকাংশ মূলধন একটি প্রকল্পেই বিনিয়োগ করেছে, ফলে ঝুঁকি ছড়ায়নি। তাই সে পোর্টফোলিও (বৈচিত্র্যায়ন) নীতি অনুসরণ করেনি।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
       },
       "tags": [],
       "difficulty": null

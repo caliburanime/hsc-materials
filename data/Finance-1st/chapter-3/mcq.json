@@ -2284,6 +2284,2142 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-054",
+      "text": "কোন চক্রবৃদ্ধিতে ভবিষ্যৎ মূল্য সর্বাধিক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মাসিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ত্রৈমাসিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ষাণ্মাসিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বার্ষিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চক্রবৃদ্ধির সংখ্যা যত বেশি হয় ভবিষ্যৎ মূল্য তত বেশি হয়। মাসিক চক্রবৃদ্ধিতে বছরে ১২ বার হয়, যা অন্যগুলোর চেয়ে বেশি।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-055",
+      "text": "ভবিষ্যৎ প্রাপ্তির চেয়ে বর্তমান প্রাপ্তি অধিক পছন্দনীয় কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "দ্রব্যের মূল্য হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "সুযোগ ব্যয়"
+        },
+        {
+          "label": "iii",
+          "text": "অনিশ্চিত ভবিষ্যত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বর্তমান অর্থ বিনিয়োগ করে আয় করা যায় (সুযোগ ব্যয়) এবং ভবিষ্যৎ অনিশ্চিত। দ্রব্যমূল্য হ্রাস নয়, বরং মূল্যবৃদ্ধি (মুদ্রাস্ফীতি) বর্তমান প্রাপ্তিকে পছন্দনীয় করে, তাই i ভুল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-056",
+      "text": "'রুল ৭২' অনুযায়ী ৯% সুদে ৫,০০০ টাকা কত বছরে ১০,০০০ টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রুল ৭২ অনুযায়ী দ্বিগুণ হওয়ার সময় = \\( \\frac{72}{9} = 8 \\) বছর। ৫,০০০ টাকা ১০,০০০ টাকা (দ্বিগুণ) হতে ৮ বছর লাগবে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-057",
+      "text": "সুদের হার বছরে ২ বার হিসাব করলে এবং আসলের সাথে সুদ যোগ করলে বছর শেষে তাকে কী বলা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মাসিক চক্রবৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ষান্মাসিক চক্রবৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ত্রৈমাসিক চক্রবৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বার্ষিক চক্রবৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বছরে ২ বার (৬ মাস পরপর) সুদ আসলের সাথে যোগ হলে তাকে ষান্মাসিক চক্রবৃদ্ধি বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-058",
+      "text": "ভবিষ্যতে প্রাপ্ত টাকার বাট্টাকৃত মূল্যকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভবিষ্যত মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এককালীন মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভবিষ্যতে প্রাপ্ত অর্থকে বাট্টাকরণ করে যে মূল্য পাওয়া যায় তা বর্তমান মূল্য।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-059",
+      "text": "প্রতি বছরের সমপরিমাণ অর্থ প্রদান করা হলে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চিরস্থায়ী বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিলম্বিত বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রিম বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাধারণ বার্ষিক বৃত্তি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রতি বছরের শেষে সমপরিমাণ অর্থ প্রদান বা গ্রহণকে সাধারণ বার্ষিক বৃত্তি বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-060",
+      "text": "কার্যকরী সুদের হার নির্ণয়ে কোন বিষয়ের প্রভাব সমন্বয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বছরের সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চক্রবৃদ্ধির সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুদ্রাস্ফীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুদের হার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কার্যকরী সুদের হার (EIR) = \\( (1+\\frac{i}{m})^m - 1 \\)। এতে বছরে চক্রবৃদ্ধির সংখ্যা (m) এর প্রভাব সমন্বয় করা হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-061",
+      "text": "জনাব রাফিকে প্রতি কিস্তিতে কত টাকা পরিশোধ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাফি ১৪% সুদ হারে ৫ বছরের জন্য ৪,০০,০০০ টাকা ব্যাংক ঋণ নিয়েছেন। তিনি বার্ষিক সমপরিমাণ অর্থ কিস্তি হিসেবে প্রদান করবেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-23-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,০২,২০৫",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,১৬,৫১৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,০৭,৭৪৭",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০,১৬৬",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কিস্তি = \\( \\frac{PV}{PVIFA(14\\%,5)} \\)\nPVIFA = \\( \\frac{1-(1.14)^{-5}}{0.14} = 3.43308 \\)\nকিস্তি = \\( \\frac{4,00,000}{3.43308} \\approx 1,16,513 \\) টাকা",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-062",
+      "text": "\\( PV = \\frac{A}{i} \\) সূত্রটি দ্বারা নিচের কোনটি নির্ণয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিলম্বিত বৃত্তির বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চিরস্থায়ী বৃত্তির বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রিম বৃত্তির বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাধারণ বৃত্তির বর্তমান মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( PV = \\frac{A}{i} \\) চিরস্থায়ী বৃত্তির বর্তমান মূল্য নির্ণয়ের সূত্র, যেখানে A হলো প্রতি বছরের নির্দিষ্ট অর্থ।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-063",
+      "text": "সরল সুদ কীসের উপর গণনা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আসল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুদাসল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল সুদ শুধু আসলের উপর গণনা করা হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-064",
+      "text": "অর্থের সময়মূল্য নির্ণয়ে নিচের কোনটি বিবেচনা করা হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুদাসলের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদের হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আসলের পরিমাণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সময়মূল্য নির্ণয়ে আসল, সুদের হার ও সময় বিবেচনা করা হয়। সুদাসল হলো এগুলো থেকে প্রাপ্ত ফল, তাই এটি নির্ধারক নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-065",
+      "text": "বার্ষিক ৮% সরল সুদে ৫,০০০ টাকার ১০ বছর পরের ভবিষ্যৎ মূল্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০,৭৯৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল সুদ = \\( 5000 \\times 0.08 \\times 10 = 4000 \\) টাকা\nভবিষ্যৎ মূল্য = ৫,০০০ + ৪,০০০ = ৯,০০০ টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-066",
+      "text": "EAR এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Earning Annual Rate",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Efficient Annual Rate",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Effective Annual Rate",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Evaluate Annual Rate",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "EAR এর পূর্ণরূপ Effective Annual Rate, অর্থাৎ কার্যকরী বার্ষিক হার।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-067",
+      "text": "মিঃ রাকিব ব্যাংকে জমাকৃত টাকা কে কোন ধরনের নগদ প্রবাহের অর্ন্তভুক্ত করা হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ রাকিব 'X' ব্যাংকের একটি স্কীমে ১,০০,০০০ টাকা জমা করেন। 'X' ব্যাংক থেকে তিনি ৫ বছরে ১০% হারে চক্রবৃদ্ধি সুদ পাবেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রিম বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এককালীন নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মিশ্র নগদ প্রবাহ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জনাব রাকিব শুধু শুরুতে একবারই ১,০০,০০০ টাকা জমা করেছেন, তাই এটি এককালীন নগদ প্রবাহ।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-068",
+      "text": "মিঃ রাকিব ৫ বছর শেষে কত টাকা পাবেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ রাকিব 'X' ব্যাংকের একটি স্কীমে ১,০০,০০০ টাকা জমা করেন। 'X' ব্যাংক থেকে তিনি ৫ বছরে ১০% হারে চক্রবৃদ্ধি সুদ পাবেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৫১,০৫১ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৬১,০৫১ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৬২,০৫১ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৬৫,০৫১ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( FV = 1,00,000 \\times (1.10)^5 = 1,00,000 \\times 1.61051 = 1,61,051 \\) টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-069",
+      "text": "অর্থের সময় মূল্যের নির্ধারক কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণের কিস্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাট্টার হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভবিষ্যৎ মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অর্থের সময়মূল্য সুদ বা বাট্টার হারের উপর নির্ভর করে, তাই বাট্টার হার এর নির্ধারক। বর্তমান মূল্য ও ভবিষ্যৎ মূল্য এর ফলাফল।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-070",
+      "text": "চক্রবৃদ্ধির সংখ্যা বাড়লে কোন মূল্য বাড়বে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভবিষ্যৎ মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চক্রবৃদ্ধির সংখ্যা বাড়লে সুদাসল বেড়ে ভবিষ্যৎ মূল্য বৃদ্ধি পায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-071",
+      "text": "৭২ বিধি অনুসারে ৯% হার সুদে কোন আসল কত বছরে দ্বিগুণ হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১১ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২ বছর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "৭২ বিধি অনুযায়ী দ্বিগুণ হওয়ার সময় = \\( \\frac{72}{9} = 8 \\) বছর।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-072",
+      "text": "কার্যকরী সুদের হার নির্ণয়ে কোন বিষয়ের প্রভাব সমন্বয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চক্রবৃদ্ধির সংখ্যা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুদ্রাস্ফীতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবচয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেয়াদ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কার্যকরী সুদের হার নির্ণয়ে বছরে চক্রবৃদ্ধির সংখ্যার প্রভাব সমন্বয় করা হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-073",
+      "text": "বাট্টাকরণ পদ্ধতিটি—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বর্তমান মূল্যের সাথে সম্পৃক্ত"
+        },
+        {
+          "label": "ii",
+          "text": "চক্রবৃদ্ধিকরণের বিপরীত"
+        },
+        {
+          "label": "iii",
+          "text": "বাট্টার পরিমাণ নির্ধারণ প্রক্রিয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বাট্টাকরণ বর্তমান মূল্য নির্ণয়ের পদ্ধতি এবং চক্রবৃদ্ধিকরণের বিপরীত, তাই i ও ii সঠিক। বাট্টার পরিমাণ নির্ধারণ নয়, বর্তমান মূল্য নির্ণয়ই এর মূল কাজ, তাই iii ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-074",
+      "text": "জনাব রাকিবকে ব্যাংকে কত টাকা জমা রাখতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাকিব একজন বিনিয়োগকারী। তার একটি প্রকল্পে বিনিয়োগের জন্য ৫ বছর পর ৫,০০,০০০ টাকা প্রয়োজন। এ জন্য তিনি ৯% হার সুদে ৫ বছরের জন্য কিছু পরিমাণ টাকা ব্যাংকে জমা রাখতে চান।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,০১,৪০৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,১২,৯৭২ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,২৪,৯৬৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৩০,৩৩৮ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "\\( PV = \\frac{5,00,000}{(1.09)^5} = \\frac{5,00,000}{1.538624} \\approx 3,24,966 \\) টাকা",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-075",
+      "text": "যদি সুদের হার ১০% হয় তাহলে জনাব রাকিবকে কত টাকা ব্যাংকে জমা রাখতে হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাকিব একজন বিনিয়োগকারী। তার একটি প্রকল্পে বিনিয়োগের জন্য ৫ বছর পর ৫,০০,০০০ টাকা প্রয়োজন। এ জন্য তিনি ৯% হার সুদে ৫ বছরের জন্য কিছু পরিমাণ টাকা ব্যাংকে জমা রাখতে চান।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,০১,৪৬০.৬৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩,১০,৪৬০.৬৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,১৯,৫৬০.৭৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৯১,৪৬০.৬৭ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( PV = \\frac{5,00,000}{(1.10)^5} = \\frac{5,00,000}{1.61051} \\approx 3,10,460.66 \\) টাকা",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-076",
+      "text": "প্রতিবছর সমপরিমাণ টাকা জমা বা উত্তোলন করা হলে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বার্ষিকী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চক্রবৃদ্ধিকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভবিষ্যৎ মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রতি বছর সমপরিমাণ অর্থ জমা বা উত্তোলনের ধারাকে বার্ষিকী (বৃত্তি) বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-077",
+      "text": "মি. সাব্বির একটি ব্যাংকে ১০% সুদে ৫ বছরের জন্য ১০,০০০ টাকা জমা রাখেন। ৫ বছর পর জমাকৃত টাকার ভবিষ্যৎ মূল্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫,১০৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬,১০৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৬,৫১০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭,১০৫ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( FV = 10,000 \\times (1.10)^5 = 10,000 \\times 1.61051 = 16,105 \\) টাকা",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-078",
+      "text": "অর্থায়নে বাট্টাকরণ অর্থ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "একটি বাট্টার হার"
+        },
+        {
+          "label": "ii",
+          "text": "বর্তমান মূল্য নির্ণয়ের একটি কৌশল"
+        },
+        {
+          "label": "iii",
+          "text": "চক্রবৃদ্ধিকরণের বিপরীত"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বাট্টাকরণ বর্তমান মূল্য নির্ণয়ের কৌশল এবং চক্রবৃদ্ধিকরণের বিপরীত। বাট্টার হার একটি উপাদান, বাট্টাকরণের অর্থ নয়, তাই i ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-079",
+      "text": "৫ বছর পর সরল সুদের পরিমাণ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রুবেল ৫% সুদে ২,০০০ টাকা ঋণ গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫২৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬২৫ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল সুদ = \\( 2000 \\times 0.05 \\times 5 = 500 \\) টাকা",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-080",
+      "text": "চক্রবৃদ্ধি সুদে ৪ বছর পর—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রুবেল ৫% সুদে ২,০০০ টাকা ঋণ গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সুদাসল ২,৪৩১ টাকা হবে"
+        },
+        {
+          "label": "ii",
+          "text": "সুদ ৪৩১ টাকা হবে"
+        },
+        {
+          "label": "iii",
+          "text": "চক্রবৃদ্ধি সুদ সরল সুদের দ্বিগুণ হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সুদাসল = \\( 2000 \\times (1.05)^4 = 2000 \\times 1.21551 \\approx 2,431 \\) টাকা (i সঠিক)\nসুদ = ২,৪৩১ − ২,০০০ = ৪৩১ টাকা (ii সঠিক)\nসরল সুদ = ২০০০ × ০.০৫ × ৪ = ৪০০ টাকা; ৪৩১ টাকা ৪০০ এর দ্বিগুণ নয়, তাই iii ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-081",
+      "text": "কার্যকরী সুদের হার নির্ণয়ের সূত্র কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\( EIR = (1 + i)^n - 1 \\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\( EIR = \\left(1 + \\frac{i}{m}\\right)^{mn} - 1 \\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\( EIR = \\left(1 + \\frac{i}{m}\\right)^{n} - 1 \\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\( EIR = \\left(1 + \\frac{i}{m}\\right)^{m} - 1 \\)",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কার্যকরী সুদের হার = \\( \\left(1+\\frac{i}{m}\\right)^m - 1 \\), যেখানে m হলো বছরে চক্রবৃদ্ধির সংখ্যা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-082",
+      "text": "বিনিয়োগকৃত অর্থের বর্তমান মূল্য ও ভবিষ্যৎ মূল্য কখন সমান হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মেয়াদকাল শূন্য হলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মেয়াদকাল ১ বছর হলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদের হার ১% হলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বার্ষিক চক্রবৃদ্ধির সংখ্যা ১ হলে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( FV = PV(1+i)^n \\)-এ n = 0 হলে \\( FV = PV \\)। অর্থাৎ মেয়াদকাল শূন্য হলে দুটি সমান।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-083",
+      "text": "৬৯ বিধি অনুসারে চক্রবৃদ্ধি সুদের হার ১০% হলে ১০০০ টাকা দ্বিগুণ হতে কত সময় লাগবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬.৯ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭.২৫ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭.৫০ বছর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "৬৯ বিধি অনুযায়ী দ্বিগুণ হওয়ার সময় = \\( 0.35 + \\frac{69}{10} = 0.35 + 6.9 = 7.25 \\) বছর।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-084",
+      "text": "সময়ের পরিবর্তনের সাথে সাথে অর্থের ক্রয় ক্ষমতা হ্রাস পাবার প্রধান কারণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিনিময় হার বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুদ্রা সংকোচন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুদ্রাস্ফীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক জমার হার বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুদ্রাস্ফীতিতে দ্রব্যমূল্য বাড়ে ফলে একই অর্থ দিয়ে কম দ্রব্য কেনা যায়, অর্থাৎ ক্রয়ক্ষমতা কমে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-085",
+      "text": "কোন প্রকারের সুদে সুদের পরিমাণ একই থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরল সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চক্রবৃদ্ধি সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নামিক সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কার্যকরি সুদ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সরল সুদে প্রতি বছর শুধু আসলের উপর সুদ গণনা হয়, তাই প্রতি বছর সুদের পরিমাণ একই থাকে। চক্রবৃদ্ধিতে সুদ বছরে বছরে বাড়ে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-086",
+      "text": "অর্থের সময় মূল্যের ধারণাটি কোন ক্ষেত্রে ব্যবহৃত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক সিদ্ধান্ত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগ সিদ্ধান্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লভ্যাংশ সিদ্ধান্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরিচালন সিদ্ধান্ত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অর্থের সময়মূল্য বিনিয়োগ প্রকল্পের নগদ প্রবাহ মূল্যায়নে ব্যবহৃত হয়, তাই এটি বিনিয়োগ সিদ্ধান্তে ব্যবহৃত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-087",
+      "text": "একটি সময় রেখায় ০ বছরে কোনো প্রবাহ নেই এবং ১, ২, ৩ ও ৪ বছর শেষে প্রতিবছর ৭০০০ টাকা করে নগদ প্রবাহ দেখানো হয়েছে। সময় রেখাটি কোন ধরনের নগদ প্রবাহ নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মিশ্র নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রিম বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এককালীন নগদ প্রবাহ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "০ বছরে কোনো প্রবাহ নেই এবং প্রতি বছর শেষে সমপরিমাণ ৭,০০০ টাকা প্রবাহ থাকলে তা সাধারণ বার্ষিক বৃত্তি।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-088",
+      "text": "ঋণ পরিশোধের তালিকায় প্রদর্শন করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বার্ষিক সুদের পরিমাণ"
+        },
+        {
+          "label": "ii",
+          "text": "বার্ষিক আসল পরিশোধ"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণ প্রক্রিয়ার চার্জ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণ পরিশোধ সূচিতে প্রতি বছরের সুদ ও আসল পরিশোধের পরিমাণ দেখানো হয়। প্রক্রিয়ার চার্জ এতে দেখানো হয় না।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-089",
+      "text": "জনাব জামান শতকরা ১২% সুদে তার ব্যাংক হিসাবে ১০০০ টাকা জমা করলে ৩ বছর পর মোট কত টাকা পাবেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪০৪.৯৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫০৭ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮২০.৭৮ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯১৫ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "\\( FV = 1000 \\times (1.12)^3 = 1000 \\times 1.404928 \\approx 1404.93 \\) টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-090",
+      "text": "প্রতিবছর শুধু আসলের উপর যে সুদ প্রদান করা হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চক্রবৃদ্ধি সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিট সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরল সুদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রতি বছর শুধু আসলের উপর যে সুদ দেওয়া হয় তা সরল সুদ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-091",
+      "text": "জনাব রহমানের ১ম প্রস্তাবটি কোন ধরনের নগদ প্রবাহ?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আবদুর রহমান একটি লটারি জিতেছে। কর্তৃপক্ষ তাকে দুটি প্রস্তাব দিয়েছেন। (১) এককালীন ১,৮০,০০০ টাকা প্রদান করা হবে অথবা (২) প্রতি বছর শেষে ২৫,০০০ টাকা প্রদান করা হবে। বাজার সুদের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "এককালীন নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চিরস্থায়ী বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ বার্ষিক বৃত্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রিম বার্ষিক বৃত্তি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "১ম প্রস্তাবে একবারেই ১,৮০,০০০ টাকা দেওয়া হবে, তাই এটি এককালীন নগদ প্রবাহ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-092",
+      "text": "উদ্দীপকের ২য় প্রস্তাবের বর্তমানে মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব আবদুর রহমান একটি লটারি জিতেছে। কর্তৃপক্ষ তাকে দুটি প্রস্তাব দিয়েছেন। (১) এককালীন ১,৮০,০০০ টাকা প্রদান করা হবে অথবা (২) প্রতি বছর শেষে ২৫,০০০ টাকা প্রদান করা হবে। বাজার সুদের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "২,০৬,৩৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২,০৭,৩৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২,০৮,৩৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,০৯,৩৩৩.৩৩ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "২য় প্রস্তাবে সময়কাল উল্লেখ নেই, তাই এটিকে চিরস্থায়ী বৃত্তি ধরে হিসাব করা হয়।\n\\( PV = \\frac{A}{i} = \\frac{25,000}{0.12} = 2,08,333.33 \\) টাকা",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-093",
+      "text": "ঋণ পরিশোধ সূচি হতে জানা যায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রতি কিস্তিতে পরিশোধিত সুদের পরিমাণ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রতি কিস্তিতে পরিশোধিত আসলের পরিমাণ"
+        },
+        {
+          "label": "iii",
+          "text": "ঋণের কিস্তির পরিমাণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ঋণ পরিশোধ সূচি থেকে প্রতি কিস্তির পরিমাণ এবং তাতে সুদ ও আসলের অংশ জানা যায়। তাই i, ii ও iii সবই সঠিক।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-094",
+      "text": "মিসেস স্বর্ণা ১০% সরল সুদে ১,৬০,০০০ টাকা ধার গ্রহণ করেন। ২ বছর পর তাকে কত টাকা সুদ পরিশোধ করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩১,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৩,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সুদ = \\( 1,60,000 \\times 0.10 \\times 2 = 32,000 \\) টাকা",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-095",
+      "text": "চক্রবৃদ্ধি করণের মাধ্যমে কী করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থের ভবিষ্যত মূল্য নির্ণয় করা হয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্থের বর্তমান মূল্য নির্ণয় করা হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ বার্ষিক বৃত্তির বর্তমান মূল্য নির্ণয় করা হয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রিম বার্ষিক বৃত্তির বর্তমান মূল্য নির্ণয় করা হয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চক্রবৃদ্ধিকরণের মাধ্যমে বর্তমান অর্থের ভবিষ্যৎ মূল্য নির্ণয় করা হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-096",
+      "text": "অর্থের সময় মূল্যের নির্ধারক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সুদের হার"
+        },
+        {
+          "label": "ii",
+          "text": "মেয়াদ বা সময়"
+        },
+        {
+          "label": "iii",
+          "text": "মুদ্রাস্ফীতির হার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অর্থের সময়মূল্য সুদের হার, মেয়াদ এবং মুদ্রাস্ফীতির হার দ্বারা প্রভাবিত হয়, তাই তিনটিই নির্ধারক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-097",
+      "text": "বাৎসরিক চক্রবৃদ্ধির সংখ্যা প্রকাশ করা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "n দ্বারা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "r দ্বারা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "m দ্বারা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i দ্বারা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বছরে চক্রবৃদ্ধির সংখ্যা m দ্বারা, আর বছরের সংখ্যা n দ্বারা প্রকাশ করা হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-098",
+      "text": "অর্ধবার্ষিক চক্রবৃদ্ধির ক্ষেত্রে 'm' এর মান কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১২",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অর্ধবার্ষিক অর্থাৎ বছরে ২ বার চক্রবৃদ্ধি হয়, তাই \\( m = 2 \\)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-099",
+      "text": "অর্থের সময় মূল্য সময় রেখার ০ বছরে ঋণাত্মক মান দ্বারা কী বুঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ বহিঃ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নগদ আন্তঃ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ আন্তঃ ও বহিঃ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রমযোজিত নগদ প্রবাহ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সময়রেখায় ০ বছরে ঋণাত্মক মান মানে ঐ সময়ে অর্থ বের হয়ে যাওয়া অর্থাৎ নগদ বহিঃপ্রবাহ (বিনিয়োগ)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-100",
+      "text": "অধিক সুদ পাওয়া যায় কোনটিতে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৈনিক চক্রবৃদ্ধিতে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবিরত চক্রবৃদ্ধিতে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বার্ষিক চক্রবৃদ্ধিতে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্ধ বার্ষিক চক্রবৃদ্ধিতে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "derived",
+      "explanation": "অবিরত চক্রবৃদ্ধিতে চক্রবৃদ্ধির সংখ্যা সর্বোচ্চ (অসীম) হওয়ায় সুদ সর্বাধিক হয়, যা দৈনিক চক্রবৃদ্ধির চেয়েও বেশি। দৈনিক চক্রবৃদ্ধি এর পরের স্থানে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (ক) দৈনিক চক্রবৃদ্ধি; চক্রবৃদ্ধির সংখ্যা যত বাড়ে সুদ তত বাড়ে, আর অবিরত চক্রবৃদ্ধিতে তা সর্বোচ্চ, তাই (খ)।"
+    },
+    {
+      "id": "finance_1st-ch3-mcq-101",
+      "text": "উদ্দীপকে উল্লিখিত 'P' ব্যাংকের সুদের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'M' ১০,০০০ টাকা কোনো ব্যাংকের স্থায়ী হিসাবে জমা রাখতে চান। 'P' ব্যাংক তাকে উক্ত অর্থের বিপরীতে ৪ বছরে ২০,০০০ টাকা প্রদান করার প্রস্তাব দেয়।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২২%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৪%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "\\( 20,000 = 10,000 \\times (1+i)^4 \\), অর্থাৎ \\( (1+i)^4 = 2 \\)\nFVIF সারণি অনুযায়ী ৪ বছরে ১৮% এ ১.৯৩৯, ২০% এ ২.০৭৪; সুতরাং হার ১৮% এর কাছাকাছি (প্রায় ১৮.৯২%)। প্রদত্ত বিকল্পের মধ্যে ১৮% নিকটতম।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: প্রকৃত হার \\( 2^{1/4}-1 \\approx 18.92\\% \\), যা কোনো বিকল্পের সঠিক মান নয়; ১৮% এ ৪ বছরে ১৯,৩৮৮ টাকা হয়। বিকল্পগুলোর মধ্যে (খ) ১৮% নিকটতম, তাই (খ) গ্রহণযোগ্য হলেও প্রশ্নটি সামান্য ত্রুটিপূর্ণ।"
+    },
+    {
+      "id": "finance_1st-ch3-mcq-102",
+      "text": "'P' ব্যাংক দ্বি-মাসিক চক্রবৃদ্ধি সুদ প্রদান করলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'M' ১০,০০০ টাকা কোনো ব্যাংকের স্থায়ী হিসাবে জমা রাখতে চান। 'P' ব্যাংক তাকে উক্ত অর্থের বিপরীতে ৪ বছরে ২০,০০০ টাকা প্রদান করার প্রস্তাব দেয়।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-13-14",
+      "statements": [
+        {
+          "label": "i",
+          "text": "২০,০০০ টাকা পেতে ৪ বছরের বেশি সময় লাগবে"
+        },
+        {
+          "label": "ii",
+          "text": "২০,০০০ টাকা পেতে ৪ বছরের কম সময় লাগবে"
+        },
+        {
+          "label": "iii",
+          "text": "বছরে চক্রবৃদ্ধির সংখ্যা ৬ হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "দ্বি-মাসিক চক্রবৃদ্ধিতে বছরে ৬ বার সুদ যুক্ত হয় (iii সঠিক)। চক্রবৃদ্ধির সংখ্যা বাড়ায় ভবিষ্যৎ মূল্য দ্রুত বাড়ে, তাই ২০,০০০ টাকা পেতে ৪ বছরের কম সময় লাগবে (ii সঠিক, i ভুল)।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-103",
+      "text": "চক্রবৃদ্ধিকরণের বিপরীত পদ্ধতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আনুপাতিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভবিষ্যতমূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাট্টাকরণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বাট্টাকরণ চক্রবৃদ্ধিকরণের বিপরীত পদ্ধতি; চক্রবৃদ্ধিকরণে ভবিষ্যৎ মূল্য এবং বাট্টাকরণে বর্তমান মূল্য নির্ণয় করা হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch3-mcq-104",
+      "text": "ঋণ পরিশোধ সূচিতে কোনটি ক্রমান্বয়ে কমতে থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুদের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আসল অর্থের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদাসলের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঋণের কিস্তির পরিমাণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণ পরিশোধ সূচিতে কিস্তি স্থির থাকে, কিন্তু অবশিষ্ট আসল কমতে থাকায় সুদের পরিমাণ ক্রমান্বয়ে কমে এবং আসল পরিশোধের অংশ বাড়ে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

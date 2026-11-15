@@ -3551,6 +3551,137 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch4-mcq-085",
+      "text": "রেওয়ামিল প্রস্তুতের উদ্দেশ্যে হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "হিসাবের গাণিতিক শুদ্ধতা যাচাই করা"
+        },
+        {
+          "label": "ii",
+          "text": "হিসাবসমূহ সংক্ষিপ্ত করা"
+        },
+        {
+          "label": "iii",
+          "text": "হিসাবের ফলাফল নির্ণয় করা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রেওয়ামিল তৈরির উদ্দেশ্য হলো খতিয়ানের ডেবিট ও ক্রেডিট জেরের মিল দেখে হিসাবের গাণিতিক শুদ্ধতা যাচাই করা (i সত্য) এবং সব খতিয়ান হিসাবের জের এক জায়গায় সংক্ষেপে উপস্থাপন করা (ii সত্য)। ফলাফল (লাভ-ক্ষতি) নির্ণয় হয় আয় বিবরণী ও আর্থিক অবস্থার বিবরণী দ্বারা, রেওয়ামিল দ্বারা নয় (iii মিথ্যা)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch4-mcq-086",
+      "text": "অফিসে ব্যবহারের উদ্দেশ্যে আসবাবপত্র ক্রয় করে 'ক্রয় হিসাবে' ডেবিট করা হলে কোন ধরনের ভুল সংঘটিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লেখার ভুল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিপূরক ভুল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নীতিগত ভুল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বেদাখিলার ভুল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আসবাবপত্র স্থায়ী সম্পদ, তাই 'আসবাবপত্র হিসাব' ডেবিট হওয়ার কথা। এটিকে 'ক্রয় হিসাব' ডেবিট করায় সম্পদ ও খরচ/পণ্যের মূলনীতি লঙ্ঘিত হয়েছে। এটি নীতিগত ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch4-mcq-087",
+      "text": "নিম্নের কোনটি রেওয়ামিলে ক্রেডিট পাশে বসে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাপ্য কমিশন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অনুপার্জিত সেবা আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপ্য সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দেনাদার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অনুপার্জিত সেবা আয় আগাম প্রাপ্ত আয়, যা দায়; দায়ের জের ক্রেডিট পাশে বসে। প্রাপ্য কমিশন, প্রাপ্য সুদ ও দেনাদার সম্পদ, তাই এগুলোর জের ডেবিট পাশে বসে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

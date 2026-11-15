@@ -1626,6 +1626,14 @@
         "qno": 3,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "CUB",
+          "year": "2025",
+          "qno": 7,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -3487,6 +3495,14 @@
         "qno": 10,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "MB",
+          "year": "2025",
+          "qno": 30,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -4209,6 +4225,3576 @@
         "board": "ALL",
         "year": "2026",
         "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-100",
+      "text": "উৎপাদন কী সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভোগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাহিদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন হলো উপযোগ সৃষ্টির প্রক্রিয়া; তাই উৎপাদন উপযোগ সৃষ্টি করে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-101",
+      "text": "উৎপাদনের আওতা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "উপযোগ সৃষ্টি"
+        },
+        {
+          "label": "ii",
+          "text": "উপকরণ সংগ্রহ"
+        },
+        {
+          "label": "iii",
+          "text": "রূপান্তর প্রক্রিয়া"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উপকরণ সংগ্রহ, রূপান্তর প্রক্রিয়া ও এর মাধ্যমে উপযোগ সৃষ্টি—তিনটিই উৎপাদনের আওতাভুক্ত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-102",
+      "text": "সর্বপ্রথম শিল্প বিপ্লব কোথায় সংঘটিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ইতালি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইংল্যান্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জার্মানি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফ্রান্স",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "১৭৫০ সালের দিকে ইংল্যান্ডে সর্বপ্রথম শিল্প বিপ্লব সংঘটিত হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-103",
+      "text": "মল্লি তার মোবাইল ফোনটি বন্ধু জয়ের মধ্যস্থতায় পপির নিকট ১৫,০০০ টাকায় বিক্রয় করে। এখানে কোন ধরনের উপযোগ সৃষ্টি হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রযুক্তিগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবাগত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্রয়-বিক্রয়ের মাধ্যমে পণ্যের মালিকানা মল্লি থেকে পপির কাছে হস্তান্তর হয়েছে; এতে স্বত্বগত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-104",
+      "text": "কনক লি. এর ২০২৪ সালে যন্ত্রের উৎপাদনশীলতা কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "কনক লি. এর ২০২৩ সালে সার্বিক উৎপাদনশীলতা ছিল ১.৫০। ২০২৪ সালে ৪,০০,০০০ টাকার কাঁচামাল, মজুরি বাবদ ১,০০,০০০ টাকা এবং যন্ত্রপাতি বাবদ ৮০,০০০ টাকা ব্যয় করে ৮,০০,০০০ টাকা মূল্যের পণ্য উৎপাদন করে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "১.৩৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১০",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যন্ত্রের উৎপাদনশীলতা = \\( \\frac{\\text{উৎপাদনের মূল্য}}{\\text{যন্ত্রপাতির ব্যয়}} \\)\n= \\( \\frac{8,00,000}{80,000} = 10 \\)",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-105",
+      "text": "কনক লি. এর বর্তমান অবস্থার কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "কনক লি. এর ২০২৩ সালে সার্বিক উৎপাদনশীলতা ছিল ১.৫০। ২০২৪ সালে ৪,০০,০০০ টাকার কাঁচামাল, মজুরি বাবদ ১,০০,০০০ টাকা এবং যন্ত্রপাতি বাবদ ৮০,০০০ টাকা ব্যয় করে ৮,০০,০০০ টাকা মূল্যের পণ্য উৎপাদন করে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-11-12",
+      "statements": [
+        {
+          "label": "i",
+          "text": "শ্রমিকের মনোবল হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "বিক্রয় হ্রাস"
+        },
+        {
+          "label": "iii",
+          "text": "যন্ত্রপাতির কার্যক্ষমতা হ্রাস"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সার্বিক উৎপাদনশীলতা (২০২৪) = \\( \\frac{8,00,000}{4,00,000+1,00,000+80,000} \\approx 1.38 \\), যা ২০২৩ সালের ১.৫০ এর চেয়ে কম। এর কারণ শ্রমিকের মনোবল হ্রাস (i) ও যন্ত্রপাতির কার্যক্ষমতা হ্রাস (iii); উৎপাদন ও উপকরণের তথ্যে বিক্রয় হ্রাসের কোনো ইঙ্গিত নেই, তাই (ii) নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-106",
+      "text": "উৎপাদনশীলতা হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কাঁচামাল ও উৎপাদনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম ও উৎপাদনের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদন ও উপকরণের অনুপাত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন ও উৎপাদনশীলতার অনুপাত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা = উৎপাদন ÷ উপকরণ; অর্থাৎ উৎপাদন ও উপকরণের অনুপাত।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-107",
+      "text": "উদ্দীপকের মিসেস রিংকি কোন ধরনের ভোগ্য পণ্যের ক্রেতা?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস রিংকি ওয়াশিং মেশিন ক্রয়ের জন্য গত কয়েকদিন যাবৎ বিভিন্ন ব্র্যান্ডের শো-রুমে যান। প্রত্যেকটি ব্র্যান্ডের ওয়াশিং মেশিনের মূল্য, গুণাগুণ ওয়ারেন্টি ইত্যাদি যাচাইয়ের পর সিয়াং কোম্পানির ওয়াশিং মেশিন ক্রয় করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "অযাচিত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুবিধা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিশিষ্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শপিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যাচাই-বাছাই, মূল্য-গুণাগুণ তুলনা করে ক্রয় করা ওয়াশিং মেশিনের মতো পণ্য শপিং পণ্য।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-108",
+      "text": "উদ্দীপকে এ ধরনের পণ্যের ক্ষেত্রে প্রযোজ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস রিংকি ওয়াশিং মেশিন ক্রয়ের জন্য গত কয়েকদিন যাবৎ বিভিন্ন ব্র্যান্ডের শো-রুমে যান। প্রত্যেকটি ব্র্যান্ডের ওয়াশিং মেশিনের মূল্য, গুণাগুণ ওয়ারেন্টি ইত্যাদি যাচাইয়ের পর সিয়াং কোম্পানির ওয়াশিং মেশিন ক্রয় করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-26-27",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এ পণ্য ক্রয়ে বেশি অপব্যয় হয়"
+        },
+        {
+          "label": "ii",
+          "text": "এ পণ্য দীর্ঘ সময় ব্যবহার করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "এ পণ্য ক্রয় করতে বেশি সময় ব্যয় করতে হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শপিং পণ্য ব্যয়বহুল ও দীর্ঘস্থায়ী (i, ii সঠিক)। এ পণ্য কেনার আগে তুলনা ও যাচাইয়ে বেশি সময় লাগে, তাই (iii) ভুল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-109",
+      "text": "নিচের কোনটি সেবার বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্পর্শনীয়তা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিবর্তনশীলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবিনশ্বরতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সেবার বৈশিষ্ট্য হলো অস্পর্শনীয়তা, অবিচ্ছিন্নতা, নশ্বরতা ও বৈসাদৃশ্যতা (পরিবর্তনশীলতা)। অন্য অপশনগুলো সেবার বৈশিষ্ট্য নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-110",
+      "text": "কোনো পণ্য বা সেবার অভাব মোচনের ক্ষমতাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সন্তুষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পণ্য বা সেবার অভাব মোচনের ক্ষমতাকে উপযোগ বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-111",
+      "text": "পণ্য বা সেবা ক্রয়-বিক্রয়ের মাধ্যমে কোন ধরনের উপযোগ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্রয়-বিক্রয়ে মালিকানা হস্তান্তরিত হয়, ফলে স্বত্বগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-112",
+      "text": "রাষ্ট্রীয় দৃষ্টিকোণ থেকে উৎপাদনশীলতার গুরুত্ব হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মসংস্থান সৃষ্টি"
+        },
+        {
+          "label": "ii",
+          "text": "অর্থনৈতিক প্রবৃদ্ধি"
+        },
+        {
+          "label": "iii",
+          "text": "মুনাফা অর্জন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা বাড়লে কর্মসংস্থান সৃষ্টি ও অর্থনৈতিক প্রবৃদ্ধি হয় (i, ii)। মুনাফা অর্জন প্রতিষ্ঠানের দৃষ্টিকোণের গুরুত্ব, রাষ্ট্রীয় নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-113",
+      "text": "জনাব মামুনের মৎস্য সরবরাহের ফলে কোন ধরনের উপযোগ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন মির্জাপুরের বিভিন্ন মাছ চাষির কাছ থেকে বিভিন্নজাতের মাছ সংগ্রহ করে ঢাকার বাজারে সরবরাহ করেন। সন্তোষজনক মুনাফা হওয়ায় তিনি ব্যবসায় সম্প্রসারণের লক্ষ্যে আরো অর্থ বিনিয়োগের সিদ্ধান্ত নেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CB-13-14",
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবাগত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মির্জাপুর থেকে মাছ ঢাকার বাজারে আনায় স্থান পরিবর্তনের মাধ্যমে স্থানগত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-114",
+      "text": "উদ্দীপকে জনাব মামুনের ব্যবসায় সম্প্রসারণের সিদ্ধান্তের যৌক্তিকতা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মামুন মির্জাপুরের বিভিন্ন মাছ চাষির কাছ থেকে বিভিন্নজাতের মাছ সংগ্রহ করে ঢাকার বাজারে সরবরাহ করেন। সন্তোষজনক মুনাফা হওয়ায় তিনি ব্যবসায় সম্প্রসারণের লক্ষ্যে আরো অর্থ বিনিয়োগের সিদ্ধান্ত নেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CB-13-14",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বণ্টন ব্যবস্থার উন্নয়ন"
+        },
+        {
+          "label": "ii",
+          "text": "সর্বোচ্চ মুনাফা অর্জন"
+        },
+        {
+          "label": "iii",
+          "text": "হিমাগার ব্যবস্থার উন্নয়ন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সম্প্রসারণের ফলে বণ্টন ব্যবস্থার উন্নয়ন হবে ও মুনাফা সর্বোচ্চ হবে (i, ii)। উদ্দীপকে হিমাগার ব্যবস্থার কথা নেই।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-115",
+      "text": "উৎপাদনের অর্থনৈতিক গুরুত্ব হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মসংস্থান সৃষ্টি"
+        },
+        {
+          "label": "ii",
+          "text": "চাহিদা পূরণ"
+        },
+        {
+          "label": "iii",
+          "text": "পণ্য উন্নয়ন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের অর্থনৈতিক গুরুত্ব হলো কর্মসংস্থান সৃষ্টি (i) ও পণ্য উন্নয়ন (iii)। চাহিদা পূরণ এ প্রশ্নের নির্ধারিত গুরুত্বের মধ্যে ধরা হয়নি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-116",
+      "text": "নিচের কোনটি সেবার বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবিনশ্বর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাদৃশ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অবিচ্ছিন্নতা (সেবা প্রদান ও গ্রহণ একসাথে ঘটে) সেবার বৈশিষ্ট্য। দৃশ্যমানতা, অবিনশ্বরতা ও সাদৃশ্যতা সেবার বৈশিষ্ট্য নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-117",
+      "text": "উল্লিখিত উদ্দীপকে সেবার কোন বৈশিষ্ট্য ফুটে উঠেছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মনিকা একটি বিয়ের অনুষ্ঠান উপলক্ষ্যে সাজার জন্য সাভারের বধুয়া বিউটি পার্লারে যান। বিউটিশিয়ান মুক্তা তাকে সুন্দরভাবে সাজিয়ে দেন যা সবার কাছে প্রশংসিত হয়। পরবর্তীতে বৌভাতে যাওয়ার জন্য একই বিউটিশিয়ানের কাছ থেকে সেজে আসেন কিন্তু এদিনের সাজ প্রশংসিত হলেও পূর্বের ন্যায় না হওয়ায় তার মন খারাপ হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "অদৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নশ্বরতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৈসাদৃশ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "একই বিউটিশিয়ানের সেবার মান প্রতিবার সমান না হওয়া সেবার বৈসাদৃশ্যতা (পরিবর্তনশীলতা) বৈশিষ্ট্য।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-118",
+      "text": "সেবাখাতের অন্তর্ভুক্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "শিক্ষা"
+        },
+        {
+          "label": "ii",
+          "text": "শিল্প"
+        },
+        {
+          "label": "iii",
+          "text": "স্বাস্থ্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শিক্ষা ও স্বাস্থ্য সেবা খাতের অন্তর্ভুক্ত; শিল্প আলাদা খাত।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-119",
+      "text": "উৎপাদনশীলতা বৃদ্ধির কারণে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রয় বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "একক প্রতি উৎপাদন ব্যয় হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "অপচয় বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা বাড়লে বিক্রয় বৃদ্ধি পায় ও একক প্রতি উৎপাদন ব্যয় কমে (i, ii)। এতে অপচয় কমে, বাড়ে না; তাই (iii) ভুল।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-120",
+      "text": "নিচের কোনটি সেবার বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরিবর্তনশীলতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাদৃশ্যতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবিনশ্বরতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পরিবর্তনশীলতা (বৈসাদৃশ্যতা) সেবার বৈশিষ্ট্য। দৃশ্যমানতা, সাদৃশ্যতা ও অবিনশ্বরতা সেবার বৈশিষ্ট্য নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-121",
+      "text": "পরিবহণ কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বত্বগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পরিবহণ পণ্যকে এক স্থান থেকে অন্য স্থানে নেয়, ফলে স্থানগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-122",
+      "text": "সংরক্ষণ প্রক্রিয়ার মাধ্যমে কোন ধরনের উপযোগ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সেবাগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সংরক্ষণ করে পরে ব্যবহার বা বিক্রির সুযোগ সৃষ্টি হয়, ফলে সময়গত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-123",
+      "text": "জনাব রোবায়েত এর প্রতিষ্ঠানটি কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রোবায়েত হোসেন মুন্সিগঞ্জে একটি হিমাগার স্থাপন করেন। স্থানীয়ভাবে উৎপাদিত আলু, পিঁয়াজ, টমেটোর মৌসুমভিত্তিক দাম কম থাকায় এবং স্থানীয় চাহিদা না থাকায় তিনি পণ্যগুলো সংরক্ষণ করেন। পরবর্তীতে দাম বৃদ্ধি পেলে এগুলো বিক্রি করেন। এতে উৎপাদনকারী, ক্রেতা সকলেই উপকৃত হন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মালিকানাগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থানগত",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মৌসুমে সংরক্ষণ করে পরে দাম বাড়লে বিক্রি করায় সময়গত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-124",
+      "text": "জনাব রোবায়েত এর কার্যক্রমের মাধ্যমে যে সুবিধা পাওয়া যায়—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রোবায়েত হোসেন মুন্সিগঞ্জে একটি হিমাগার স্থাপন করেন। স্থানীয়ভাবে উৎপাদিত আলু, পিঁয়াজ, টমেটোর মৌসুমভিত্তিক দাম কম থাকায় এবং স্থানীয় চাহিদা না থাকায় তিনি পণ্যগুলো সংরক্ষণ করেন। পরবর্তীতে দাম বৃদ্ধি পেলে এগুলো বিক্রি করেন। এতে উৎপাদনকারী, ক্রেতা সকলেই উপকৃত হন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-16-17",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বেকারত্ব হ্রাস"
+        },
+        {
+          "label": "ii",
+          "text": "ভোক্তার সন্তুষ্টি বিধান"
+        },
+        {
+          "label": "iii",
+          "text": "চাহিদা ও যোগানের সমতা বিধান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "হিমাগারের ফলে চাহিদা ও যোগানের সমতা আসে (iii) এবং ভোক্তার সন্তুষ্টি বিধান হয় (ii)। উদ্দীপকে বেকারত্ব হ্রাসের কথা নেই।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-125",
+      "text": "রাজশাহীর উৎপাদিত আম বরিশাল আনার ফলে কোন উপযোগ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সেবাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রাজশাহী থেকে আম বরিশালে আনায় স্থানগত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-126",
+      "text": "উকিলের পরামর্শ কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেবাগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্থানগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উকিলের পরামর্শ একটি সেবা; এতে সেবাগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-127",
+      "text": "শিল্প বিপ্লব কত সাল থেকে শুরু হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭৫০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৮৫০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৯৫০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯৭০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শিল্প বিপ্লব ১৭৫০ সাল থেকে শুরু হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2025",
+          "qno": 30,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-128",
+      "text": "পণ্য বা সেবা কর্তৃক মানুষের অভাব মেটানোর ক্ষমতাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাহিদা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পণ্য বা সেবার অভাব মেটানোর ক্ষমতাকে উপযোগ বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-129",
+      "text": "উৎপাদন ও উপকরণের অনুপাতকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদন মাত্রা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনশীলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন ব্যবস্থাপনা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন (আউটপুট) ও উপকরণ (ইনপুট) এর অনুপাতকে উৎপাদনশীলতা বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-130",
+      "text": "উৎপাদনের বহির্ভূত প্রক্রিয়া হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "রূপান্তর"
+        },
+        {
+          "label": "ii",
+          "text": "বিনিময়"
+        },
+        {
+          "label": "iii",
+          "text": "বণ্টন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "রূপান্তর উৎপাদন প্রক্রিয়ার অংশ। বিনিময় ও বণ্টন উৎপাদনের পরবর্তী কার্যক্রম, তাই উৎপাদনের বহির্ভূত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-131",
+      "text": "জনাব মাজেদ কোন ধরনের উপযোগ সৃষ্টি করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মাজেদ বেকার যুবকদের আত্মকর্মসংস্থান সৃষ্টির উদ্দেশ্যে একটি ট্রেনিং সেন্টার গড়ে তোলেন। এখান থেকে হাঁস-মুরগি ও গবাদীপশু পালনের উপর ৩০ দিনব্যাপী যুবকদের প্রশিক্ষণ প্রদান করা হয়। তারা প্রশিক্ষণপ্রাপ্ত হয়ে বিভিন্ন স্থানে খামার প্রতিষ্ঠা করে। এর ফলে অল্প দিনের মধ্যে জনাব মাজেদের এলাকার বেকারত্ব হ্রাস পায়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-18-19",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবাগত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণ প্রদান একটি সেবামূলক কাজ; এতে সেবাগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-132",
+      "text": "দেশের অর্থনৈতিক উন্নয়নে জনাব মাজেদের ভূমিকা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব মাজেদ বেকার যুবকদের আত্মকর্মসংস্থান সৃষ্টির উদ্দেশ্যে একটি ট্রেনিং সেন্টার গড়ে তোলেন। এখান থেকে হাঁস-মুরগি ও গবাদীপশু পালনের উপর ৩০ দিনব্যাপী যুবকদের প্রশিক্ষণ প্রদান করা হয়। তারা প্রশিক্ষণপ্রাপ্ত হয়ে বিভিন্ন স্থানে খামার প্রতিষ্ঠা করে। এর ফলে অল্প দিনের মধ্যে জনাব মাজেদের এলাকার বেকারত্ব হ্রাস পায়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-18-19",
+      "statements": [
+        {
+          "label": "i",
+          "text": "উৎপাদন বৃদ্ধি"
+        },
+        {
+          "label": "ii",
+          "text": "মনোবল বৃদ্ধি"
+        },
+        {
+          "label": "iii",
+          "text": "মূল্য বৃদ্ধি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণে উৎপাদন ও মনোবল বৃদ্ধি পায় (i, ii)। এতে মূল্য বৃদ্ধি অর্থনৈতিক উন্নয়নে ভূমিকা নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-133",
+      "text": "নিচের কোনটি উৎপাদনশীলতা বৃদ্ধিতে সহায়তা করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বণ্টন ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গবেষণা ও উন্নয়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মোড়কীকরণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গবেষণা ও উন্নয়নের মাধ্যমে উন্নত পদ্ধতি ও প্রযুক্তি আসে, যা উৎপাদনশীলতা বাড়াতে সহায়তা করে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-134",
+      "text": "সেবার বৈশিষ্ট্যের বহির্ভূত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নশ্বরতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৈসাদৃশ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সেবা অদৃশ্যমান; তাই দৃশ্যমানতা সেবার বৈশিষ্ট্যের বহির্ভূত।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-135",
+      "text": "উৎপাদন কী সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চাহিদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রয়োজন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের ফলে উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-136",
+      "text": "উৎপাদনের খাত কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের খাত তিনটি—কৃষি, শিল্প ও সেবা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-137",
+      "text": "কোনটি সেবাগত উপযোগের অন্তর্গত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মা কর্তৃক সন্তান লালন-পালন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অন্ধকে রাস্তা পারাপারে সহায়তা করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিক্ষক কর্তৃক শ্রেণিকক্ষে ছাত্রদের পাঠদান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সন্তান কর্তৃক অসুস্থ পিতামাতার সেবা করা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শ্রেণিকক্ষে শিক্ষকের পাঠদান পেশাগত সেবা, যা সেবাগত উপযোগ সৃষ্টি করে। অন্য অপশনগুলো স্নেহ বা মানবিক দায়িত্বমূলক কাজ, বাণিজ্যিক সেবা নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-138",
+      "text": "মি. তসিরের কর্মকাণ্ড উৎপাদনের কোন খাতের অন্তর্গত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. তসির অনাবাদি ১০ বিঘা জমিতে পুকুর খনন করে মাছ চাষ করেন। পাশাপাশি তিনি একটি পোল্ট্রি ফার্মও স্থাপন করেন। ফার্মের মুরগির বিষ্ঠা দিয়ে মাছের খাবার তৈরি করে তিনি সেগুলো পুকুরে দেন। এইসব কর্মকাণ্ড পরিচালনার জন্য তিনি বেশ কিছু শ্রমিক নিয়োগ দিয়েছেন। ফলে তার এই খাত থেকে প্রচুর মুনাফা অর্জনের পাশাপাশি এলাকায় মাছ ও মুরগির পর্যাপ্ত সরবরাহ নিশ্চিত হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-19-20",
+      "options": [
+        {
+          "label": "a",
+          "text": "কৃষি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিল্প",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মাছ চাষ ও পোল্ট্রি ফার্ম কৃষি খাতের অন্তর্গত।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-139",
+      "text": "মি. তসিরের কর্মকাণ্ডের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. তসির অনাবাদি ১০ বিঘা জমিতে পুকুর খনন করে মাছ চাষ করেন। পাশাপাশি তিনি একটি পোল্ট্রি ফার্মও স্থাপন করেন। ফার্মের মুরগির বিষ্ঠা দিয়ে মাছের খাবার তৈরি করে তিনি সেগুলো পুকুরে দেন। এইসব কর্মকাণ্ড পরিচালনার জন্য তিনি বেশ কিছু শ্রমিক নিয়োগ দিয়েছেন। ফলে তার এই খাত থেকে প্রচুর মুনাফা অর্জনের পাশাপাশি এলাকায় মাছ ও মুরগির পর্যাপ্ত সরবরাহ নিশ্চিত হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-19-20",
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রাকৃতিক সম্পদের সুষ্ঠু ব্যবহার নিশ্চিত হয়"
+        },
+        {
+          "label": "ii",
+          "text": "কর্মসংস্থানের সুযোগ সৃষ্টি হয়"
+        },
+        {
+          "label": "iii",
+          "text": "জীবন যাত্রার মান উন্নত হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রাকৃতিক সম্পদের সুষ্ঠু ব্যবহার, কর্মসংস্থান সৃষ্টি ও জীবনযাত্রার মান উন্নয়ন—তিনটিই কর্মকাণ্ডের ফল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-140",
+      "text": "শিল্পীর গান কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবাগত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গান একটি সেবা; এতে সেবাগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-141",
+      "text": "হাবিব নদী থেকে মাছ সংগ্রহ করে জীবিকা নির্বাহ করে। হাবিবের কাজ উৎপাদনের কোন খাতের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৃষি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিল্প",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরকারি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নদী থেকে মাছ আহরণ আহরণ শিল্পের অন্তর্ভুক্ত, তাই এটি শিল্প খাতের কাজ।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-142",
+      "text": "শিল্প বিপ্লবের সময়কাল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭৫০—১৮৪০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৭৫০—১৮৫০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৭৫০—১৮৬০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭৫০—১৮৭০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শিল্প বিপ্লবের সময়কাল ১৭৫০—১৮৫০ সাল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-143",
+      "text": "সেবার বৈশিষ্ট্যের বহির্ভূত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নশ্বরতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৈসাদৃশ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সেবা অদৃশ্যমান; তাই দৃশ্যমানতা সেবার বৈশিষ্ট্য নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-144",
+      "text": "উদ্দীপকে মিসেস স্মৃতির ক্ষেত্রে সেবার কোন বৈশিষ্ট্যটিকে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস স্মৃতি ঢাকা যাবার জন্য বিমান টিকিট কিনলেন। কিন্তু ব্যস্ততার কারণে তিনি ঢাকায় যেতে পারলেন না এতে তিনি কাঙ্ক্ষিত সেবা পেলেন না। অপরদিকে মিসেস মৌসুমী দাঁতের ডাক্তারের নিকট গেলেন। কিন্তু ডাক্তার না থাকায় তিনি কাঙ্ক্ষিত সেবাটি পেলেন না।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-25-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "অদৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নশ্বরতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বৈসাদৃশ্যতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "টিকিট কেনার পর না যাওয়ায় সেবা বৃথা গেল, যা সংরক্ষণ করা যায় না; এটি নশ্বরতা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-145",
+      "text": "উদ্দীপকে উভয়ের ক্ষেত্রে সেবার যে বৈশিষ্ট্যকে নির্দেশ করে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস স্মৃতি ঢাকা যাবার জন্য বিমান টিকিট কিনলেন। কিন্তু ব্যস্ততার কারণে তিনি ঢাকায় যেতে পারলেন না এতে তিনি কাঙ্ক্ষিত সেবা পেলেন না। অপরদিকে মিসেস মৌসুমী দাঁতের ডাক্তারের নিকট গেলেন। কিন্তু ডাক্তার না থাকায় তিনি কাঙ্ক্ষিত সেবাটি পেলেন না।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-25-26",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নশ্বরতা"
+        },
+        {
+          "label": "ii",
+          "text": "অবিচ্ছিন্নতা"
+        },
+        {
+          "label": "iii",
+          "text": "বৈসাদৃশ্যতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্মৃতির ক্ষেত্রে সেবা সংরক্ষণ করা যায়নি (নশ্বরতা) এবং মৌসুমীর ক্ষেত্রে ডাক্তার না থাকায় সেবা প্রদানকারীকে সেবা থেকে আলাদা করা যায়নি (অবিচ্ছিন্নতা)। বৈসাদৃশ্যতা এখানে প্রযোজ্য নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-146",
+      "text": "নিচের কোনটি অদৃশ্যমান কিন্তু ভোক্তার প্রয়োজন ও অভাবের সন্তুষ্টি বিধান করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পণ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্রব্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চাহিদা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সেবা অদৃশ্য হলেও ভোক্তার অভাব ও প্রয়োজন পূরণ করে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-147",
+      "text": "উৎপাদনশীলতা কমে গেলে কীরূপ চ্যালেঞ্জ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রমিকের মজুরি বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মুনাফার পরিমাণ বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মান সম্পন্ন পণ্য ভোগের সুযোগ ঘটে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পণ্যের মূল্য বৃদ্ধি পায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা কমলে একক প্রতি ব্যয় বাড়ে, ফলে পণ্যের মূল্য বৃদ্ধি পায়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-148",
+      "text": "উদ্দীপকে সেবার কোন বৈশিষ্ট্যের কথা বলা হয়েছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "\"সেভেন স্টার\" কুয়াকাটার একটি নামকরা আবাসিক হোটেল। সম্প্রতি আশেপাশে সমমানের অনেক হোটেল তৈরি হওয়ায় চলতি বছর সেভেন স্টার এর অনেক রুম খালি থাকে। ফলে প্রতিষ্ঠানটির প্রত্যাশিত সফলতা অর্জন ব্যাহত হওয়ার সম্ভাবনা দেখা দেয়। এ পরিস্থিতিতে প্রতিষ্ঠানটির কর্তৃপক্ষ দেশি-বিদেশি পর্যটকদের জন্য বিশেষ বিশেষ চাহিদা পূরণের অফার প্রদান করে। ফলে দ্রুততম সময়ের মধ্যে হোটেলের রুমগুলো পর্যটকে ভরে যায়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-JB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "অস্পর্শনীয়তা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবিচ্ছিন্নতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বৈসাদৃশ্যতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নশ্বরতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "খালি রুমের সেবা সংরক্ষণ করা যায় না, নষ্ট হয়ে যায়; এটি সেবার নশ্বরতা। অফার দিয়ে রুম ভরানো এ কারণেই।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-149",
+      "text": "হিমাগার কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "হিমাগারে পণ্য সংরক্ষণ করে পরে ব্যবহারের সুযোগ হয়, ফলে সময়গত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-150",
+      "text": "স্বত্বগত উপযোগ কীভাবে সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পণ্য উৎপাদনের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রয়-বিক্রয়ের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পণ্য স্থানান্তরের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পণ্য সংরক্ষণের মাধ্যমে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্রয়-বিক্রয়ের মাধ্যমে মালিকানা হস্তান্তরিত হয়ে স্বত্বগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-151",
+      "text": "উৎপাদনের সামাজিক গুরুত্ব কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কর্মসংস্থান সৃষ্টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূল্যস্ফীতি হ্রাস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মানব কল্যাণ সাধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদের সঠিক ব্যবহার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মানব কল্যাণ সাধন উৎপাদনের সামাজিক গুরুত্ব। কর্মসংস্থান ও সম্পদের সঠিক ব্যবহার অর্থনৈতিক গুরুত্ব।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-152",
+      "text": "জনাব রহমান প্রথম দিকে কোন ধরনের উপযোগ সৃষ্টি করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান রাজশাহীতে নিজস্ব জমিতে একটি আম বাগান করেন। তার বাগানের উৎপাদিত আম তিনি একটি পরিবহণ সংস্থার সহযোগিতা নিয়ে দিনাজপুর, ময়মনসিংহ এবং ঢাকায় বিভিন্ন দোকানে বিক্রয় করেন। চলতি মৌসুমে প্রচুর আম উৎপাদিত হয়। কিন্তু পর্যাপ্ত পরিমাণে বিক্রয় না হওয়ায় বেশ কিছু আম নষ্ট হয়ে যায়। তাই তিনি আম থেকে জেলি, আচার ও জুস তৈরির জন্য সেবু জুস ফ্যাক্টরি নামে একটি উৎপাদন প্রতিষ্ঠান স্থাপনের সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-JB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বত্বগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আম রাজশাহী থেকে অন্যান্য স্থানে পাঠিয়ে বিক্রি করায় প্রথমে স্থানগত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-153",
+      "text": "জনাব রহমান এর সিদ্ধান্ত বাস্তবায়িত হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহমান রাজশাহীতে নিজস্ব জমিতে একটি আম বাগান করেন। তার বাগানের উৎপাদিত আম তিনি একটি পরিবহণ সংস্থার সহযোগিতা নিয়ে দিনাজপুর, ময়মনসিংহ এবং ঢাকায় বিভিন্ন দোকানে বিক্রয় করেন। চলতি মৌসুমে প্রচুর আম উৎপাদিত হয়। কিন্তু পর্যাপ্ত পরিমাণে বিক্রয় না হওয়ায় বেশ কিছু আম নষ্ট হয়ে যায়। তাই তিনি আম থেকে জেলি, আচার ও জুস তৈরির জন্য সেবু জুস ফ্যাক্টরি নামে একটি উৎপাদন প্রতিষ্ঠান স্থাপনের সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-JB-28-29",
+      "statements": [
+        {
+          "label": "i",
+          "text": "পণ্যের উপযোগিতা বৃদ্ধি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "অপচয়ের পরিমাণ হ্রাস পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "পণ্য দীর্ঘমেয়াদে ধরে রাখা সহজ হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রক্রিয়াজাতকরণ কারখানা স্থাপন হলে আমের উপযোগিতা বাড়বে, অপচয় কমবে এবং জেলি, আচার, জুস দীর্ঘদিন সংরক্ষণ করা যাবে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-154",
+      "text": "যে পণ্য পারিবারিক ভোগের জন্য ক্রয় করা হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শপিং পণ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অযাচিত পণ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোগ্য পণ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশিষ্ট পণ্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পারিবারিক ভোগের জন্য ক্রয় করা পণ্যকে ভোগ্য পণ্য বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-155",
+      "text": "সেবা গ্রহণের ক্ষেত্রে সেবা গ্রহীতার কোনটি থাকা আবশ্যক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থ ব্যয়ের ইচ্ছা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মানসিক প্রস্তুতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যক্তিগত উপস্থিতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শারীরিক সামর্থ্য",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সেবা প্রদান ও গ্রহণ একসাথে ঘটে, তাই সেবা গ্রহণে গ্রহীতার ব্যক্তিগত উপস্থিতি আবশ্যক।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-156",
+      "text": "মিসেস ফারহানার ক্রয়কৃত পণ্যটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস ফারহানা একটি ফ্রিজ কেনার জন্য বেশ কয়েক দিন যাবত বিভিন্ন ব্রান্ডের শো-রুমে যান। তিনি প্রত্যেকটি ব্রান্ডের ফ্রিজের গুণাগুণ, বৈশিষ্ট্য, মূল্য প্রভৃতি তুলনামূলক যাচাইয়ের পর ওয়ালটন ব্রান্ডের একটি ফ্রিজ ক্রয় করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-6-7",
+      "options": [
+        {
+          "label": "a",
+          "text": "সুবিধা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শপিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "লোভনীয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিশিষ্ট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "গুণাগুণ, বৈশিষ্ট্য ও মূল্য তুলনা করে ক্রয় করা ফ্রিজ শপিং পণ্য।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-157",
+      "text": "মিসেস ফারহানার ক্রয়কৃত পণ্যটির ক্ষেত্রে প্রযোজ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিসেস ফারহানা একটি ফ্রিজ কেনার জন্য বেশ কয়েক দিন যাবত বিভিন্ন ব্রান্ডের শো-রুমে যান। তিনি প্রত্যেকটি ব্রান্ডের ফ্রিজের গুণাগুণ, বৈশিষ্ট্য, মূল্য প্রভৃতি তুলনামূলক যাচাইয়ের পর ওয়ালটন ব্রান্ডের একটি ফ্রিজ ক্রয় করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-6-7",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এটির একক প্রতি দাম তুলনামূলক বেশি"
+        },
+        {
+          "label": "ii",
+          "text": "এটি দীর্ঘদিন ব্যবহার করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "এটি কিনতে বেশি সময় ব্যয় করতে হয় না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শপিং পণ্যের দাম তুলনামূলক বেশি ও তা দীর্ঘদিন ব্যবহার করা যায় (i, ii)। এ পণ্য কিনতে যাচাইয়ে বেশি সময় লাগে, তাই (iii) ভুল।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-158",
+      "text": "মূল্যের মাধ্যমে কে মুনাফা অর্জন করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রেতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সরবরাহকারী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোক্তা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পণ্যের মূল্য থেকে বিক্রেতা মুনাফা অর্জন করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-159",
+      "text": "পণ্য ব্যয়ের সাথে কী যোগ করে বিক্রয়যোগ্য মূল্য নির্ধারণ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি কোম্পানির উৎপাদিত পণ্য মূল্য একক প্রতি ব্যয় ৪৭ টাকা। কোম্পানি একক প্রতি ৩ টাকা মুনাফা করতে চাইলে একটি পদ্ধতিতে মূল্য নির্ণয় করতে হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লোকসান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যয়ের সাথে কাঙ্ক্ষিত মুনাফা যোগ করে বিক্রয়মূল্য নির্ধারণ করা হয়; যেমন \\( 47 + 3 = 50 \\) টাকা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-160",
+      "text": "ব্যয়ের উপর ভিত্তি করে কোন পদ্ধতিতে মূল্য নির্ধারণ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি কোম্পানির উৎপাদিত পণ্য মূল্য একক প্রতি ব্যয় ৪৭ টাকা। কোম্পানি একক প্রতি ৩ টাকা মুনাফা করতে চাইলে একটি পদ্ধতিতে মূল্য নির্ণয় করতে হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভ্যালু ভিত্তিক মূল্য নির্ধারণ পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দরপত্র ভিত্তিক মূল্য নির্ধারণ পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "চাহিদা ভিত্তিক মূল্য নির্ধারণ পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয় ভিত্তিক মূল্য নির্ধারণ পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্যয়ের সাথে মুনাফা যোগ করে মূল্য নির্ধারণ করা হলে তা ব্যয় ভিত্তিক মূল্য নির্ধারণ পদ্ধতি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-161",
+      "text": "উৎপাদনের মাধ্যমে পণ্যের কী সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভোগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাহিদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিকানা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের মাধ্যমে পণ্যে উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-162",
+      "text": "কোনটি উৎপাদনশীলতার সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোট উৎপাদনের মূল্য ÷ মোট উপকরণের মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট উৎপাদিত পণ্য ÷ মোট শ্রমের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোট উৎপাদিত পণ্য ÷ মোট যন্ত্রপাতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইনপুট ÷ আউটপুট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা = মোট উৎপাদনের মূল্য ÷ মোট উপকরণের মূল্য। (খ) ও (গ) আংশিক উৎপাদনশীলতা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-163",
+      "text": "পরিবহণ কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রূপগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পরিবহণ স্থানগত উপযোগ সৃষ্টি করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-164",
+      "text": "উৎপাদনের খাত হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "কৃষি"
+        },
+        {
+          "label": "ii",
+          "text": "শিল্প"
+        },
+        {
+          "label": "iii",
+          "text": "সেবা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কৃষি, শিল্প ও সেবা—তিনটিই উৎপাদনের খাত।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-165",
+      "text": "জনাব রায়হান যশোর কোর্ট স্টেশন এলাকার একজন ফার্নিচার কারখানার মালিক। তিনি কাঠ দিয়ে ফার্নিচার তৈরি করেন এবং অর্ডার মোতাবেক সরবরাহ করেন। মানসম্মত ফার্নিচার তৈরি করায় তার সুখ্যাতি বৃদ্ধি পায়। উদ্দীপকে জনাব রায়হান কোন ধরনের উপযোগ সৃষ্টি করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্বত্বগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কাঠকে ফার্নিচারে রূপান্তর করায় রূপগত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-166",
+      "text": "উৎপাদনের পরিমাণ ও ব্যবহৃত উপকরণের অনুপাতকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনশীলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন মাত্রা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের পরিমাণ ও ব্যবহৃত উপকরণের অনুপাতকে উৎপাদনশীলতা বলে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-167",
+      "text": "কোন ক্ষেত্রে পণ্য ও সেবার সাদৃশ্যতা পরিলক্ষিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নশ্বরতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উপযোগিতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দৃশ্যমানতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অস্পর্শনীয়তা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পণ্য ও সেবা উভয়ই মানুষের অভাব পূরণ করে উপযোগ সৃষ্টি করে; তাই উপযোগিতায় সাদৃশ্য আছে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-168",
+      "text": "উৎপাদন কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উপযোগ সৃষ্টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চাহিদা সৃষ্টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভাব পূরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেতা সন্তুষ্টি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন হলো উপযোগ সৃষ্টির প্রক্রিয়া।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-169",
+      "text": "হিমাগারে আলু সংরক্ষণের মাধ্যমে কোন ধরনের উপযোগ সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময়গত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবাগত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হিমাগারে সংরক্ষণ করে আলু পরে ব্যবহারের সুযোগ হয়; এতে সময়গত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-170",
+      "text": "'পি.এস. ফ্যাশন' এর ২০২২ সালের শ্রমের উৎপাদনশীলতা কত।",
+      "text_en": null,
+      "image": null,
+      "stem": "'পি.এস.ফ্যাশন' এর ২০২২ সালের মোট উৎপাদিত পণ্যের বিক্রয়মূল্য ছিল ৭০,০০,০০০ টাকা। উক্ত পণ্যগুলো উৎপাদনে কাঁচামালের ব্যয় ছিল ৩০,০০,০০০ টাকা, যন্ত্রপাতির ব্যয় ছিল ১০,০০,০০০ টাকা এবং শ্রমের ব্যয় ছিল ২৫,০০,০০০ টাকা। কোম্পানিটির ২০২০ ও ২০২১ সালের শ্রমের উৎপাদনশীলতা ছিল যথাক্রমে ৩.২ ও ৩। কর্তৃপক্ষ বিষয়টি নিয়ে চিন্তিত।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-RB-20-21",
+      "options": [
+        {
+          "label": "a",
+          "text": "১.০৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২.৩৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২.৮০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শ্রমের উৎপাদনশীলতা = \\( \\frac{\\text{উৎপাদনের মূল্য}}{\\text{শ্রমের ব্যয়}} \\)\n= \\( \\frac{70,00,000}{25,00,000} = 2.8 \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-171",
+      "text": "'পি. এস. ফ্যাশন' এর কর্তৃপক্ষের চিন্তা দূরীকরণে করণীয় হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "'পি.এস.ফ্যাশন' এর ২০২২ সালের মোট উৎপাদিত পণ্যের বিক্রয়মূল্য ছিল ৭০,০০,০০০ টাকা। উক্ত পণ্যগুলো উৎপাদনে কাঁচামালের ব্যয় ছিল ৩০,০০,০০০ টাকা, যন্ত্রপাতির ব্যয় ছিল ১০,০০,০০০ টাকা এবং শ্রমের ব্যয় ছিল ২৫,০০,০০০ টাকা। কোম্পানিটির ২০২০ ও ২০২১ সালের শ্রমের উৎপাদনশীলতা ছিল যথাক্রমে ৩.২ ও ৩। কর্তৃপক্ষ বিষয়টি নিয়ে চিন্তিত।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-RB-20-21",
+      "statements": [
+        {
+          "label": "i",
+          "text": "শ্রমিকদের প্রশিক্ষণ প্রদান"
+        },
+        {
+          "label": "ii",
+          "text": "উন্নত কাঁচামাল ব্যবহার"
+        },
+        {
+          "label": "iii",
+          "text": "উন্নত কার্য পরিবেশ সৃষ্টি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শ্রমিকদের প্রশিক্ষণ (i) ও উন্নত কার্য পরিবেশ (iii) শ্রমের উৎপাদনশীলতা বাড়ায়, যা ২০২২ সালে কমে গেছে। কর্তৃপক্ষের চিন্তা এ প্রশ্নে শ্রমের উৎপাদনশীলতা নিয়ে, তাই কাঁচামাল (ii) এখানে ধরা হয়নি।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-172",
+      "text": "তথ্য ও যোগাযোগ প্রযুক্তি কোন খাতের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কৃষি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শিল্প",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পর্যটন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তথ্য ও যোগাযোগ প্রযুক্তি সেবা খাতের অন্তর্ভুক্ত।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-173",
+      "text": "উদ্দীপকে মিস্ নিলা কোন ধরনের পণ্য ক্রয় করেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিস্ নিলা অনেক যাচাই-বাছাই ও তুলনামূলক বিশ্লেষণের পর প্রসিদ্ধ ব্রান্ডের একটি এন্ড্রয়েড টিভি ক্রয় করেন। উক্ত টিভি ব্যবহার করে তিনি খুবই সন্তুষ্ট।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "সুবিধাজনক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শপিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিশিষ্ট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অযাচিত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যাচাই-বাছাই ও তুলনামূলক বিশ্লেষণ করে ক্রয় করা টিভি শপিং পণ্য।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-174",
+      "text": "মিস্ নিলার ক্রয়কৃত পণ্যের ক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মিস্ নিলা অনেক যাচাই-বাছাই ও তুলনামূলক বিশ্লেষণের পর প্রসিদ্ধ ব্রান্ডের একটি এন্ড্রয়েড টিভি ক্রয় করেন। উক্ত টিভি ব্যবহার করে তিনি খুবই সন্তুষ্ট।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ক্রয়ে বেশি সময় ও অর্থ ব্যয় হয় না"
+        },
+        {
+          "label": "ii",
+          "text": "দীর্ঘমেয়াদে ব্যবহার করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "বিক্রয়োত্তর সেবার প্রয়োজন হয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শপিং পণ্য দীর্ঘমেয়াদে ব্যবহার করা যায় এবং বিক্রয়োত্তর সেবা প্রয়োজন হয় (ii, iii)। ক্রয়ে বেশি সময় ও অর্থ লাগে, তাই (i) ভুল।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-175",
+      "text": "দ্রব্য ও সেবা সৃষ্টির প্রক্রিয়া হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনশীলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন ব্যবস্থাপনা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দ্রব্য ও সেবা সৃষ্টির প্রক্রিয়াকে উৎপাদন বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-176",
+      "text": "উৎপাদনের ফলে কী সৃষ্টি হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পণ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সেবা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উপযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের ফলে উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-177",
+      "text": "ক্রয়-বিক্রয় কোন ধরনের উপযোগ সৃষ্টি করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্রয়-বিক্রয়ে মালিকানা হস্তান্তর হয়, ফলে স্বত্বগত উপযোগ সৃষ্টি হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-178",
+      "text": "উৎপাদনশীলতা বৃদ্ধির ফলে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোট উৎপাদন বৃদ্ধি পায়"
+        },
+        {
+          "label": "ii",
+          "text": "একক প্রতি ব্যয় হ্রাস পায়"
+        },
+        {
+          "label": "iii",
+          "text": "প্রতিযোগিতা বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনশীলতা বাড়লে মোট উৎপাদন বাড়ে ও একক প্রতি ব্যয় কমে (i, ii)। প্রতিযোগিতা বৃদ্ধি এর সরাসরি ফল নয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-179",
+      "text": "জনাব সুজনের প্রতিষ্ঠানটি কোন ধরনের উপযোগ সৃষ্টি করছে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সুজন বগুড়ায় একটি আলুর হিমাগার স্থাপন করেন। বগুড়ায় উৎপাদিত আলুর মৌসুমভিত্তিক মূল্য কম থাকায় চাষিরা এখানে আলু সংরক্ষণ করে। পরবর্তিতে চাহিদামত বিক্রয় করেন। এতে তারা আলুর উপযুক্ত মূল্য পান এবং লাভবান হন। এতে ভোক্তা, উৎপাদনকারী ও সংশ্লিষ্ট সকলেই উপকৃত হচ্ছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বত্বগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রূপগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সময়গত",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আলু সংরক্ষণ করে পরে চাহিদামতো বিক্রি করায় সময়গত উপযোগ সৃষ্টি হয়েছে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-180",
+      "text": "উদ্দীপকে উল্লিখিত কার্যক্রমের মাধ্যমে যে সুবিধা পাওয়া যায় তা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সুজন বগুড়ায় একটি আলুর হিমাগার স্থাপন করেন। বগুড়ায় উৎপাদিত আলুর মৌসুমভিত্তিক মূল্য কম থাকায় চাষিরা এখানে আলু সংরক্ষণ করে। পরবর্তিতে চাহিদামত বিক্রয় করেন। এতে তারা আলুর উপযুক্ত মূল্য পান এবং লাভবান হন। এতে ভোক্তা, উৎপাদনকারী ও সংশ্লিষ্ট সকলেই উপকৃত হচ্ছে।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-28-29",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ভোক্তার সন্তুষ্টি অর্জন"
+        },
+        {
+          "label": "ii",
+          "text": "কর্মসংস্থান সৃষ্টি"
+        },
+        {
+          "label": "iii",
+          "text": "ন্যায্য মূল্য প্রাপ্তি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হিমাগারের ফলে ভোক্তার সন্তুষ্টি অর্জন (i) ও ন্যায্য মূল্য প্রাপ্তি (iii) ঘটে। উদ্দীপকে কর্মসংস্থানের উল্লেখ নেই।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch1-mcq-181",
+      "text": "\"উৎপাদন হচ্ছে একটি প্রক্রিয়া যার দ্বারা পণ্য ও সেবা তৈরি হয়।\" উক্তিটি কার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ই এস বাফা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রেমন্ড আর মেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফ্রেসার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ফিলিপ কটলার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ই এস বাফা (E. S. Buffa) বলেছেন, উৎপাদন একটি প্রক্রিয়া যার দ্বারা পণ্য ও সেবা তৈরি হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 30,
         "session": null
       },
       "tags": [],

@@ -57,6 +57,84 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch7-mcq-002",
+      "text": "ব্যাংক তহবিলের প্রধান উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লভ্যাংশ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আমানত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কমিশন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আমানত ব্যাংক তহবিলের প্রধান উৎস, কারণ গ্রাহকের জমা অর্থই ব্যাংকের ঋণদানের মূল ভিত্তি।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_2nd-ch7-mcq-003",
+      "text": "LIBOR এর পূর্ণাঙ্গ রূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Lending Rate of International Bank",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Liberal Bank Offer Rate",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "London Interbank Offered Rate",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "London International Offer Rate",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "LIBOR-এর পূর্ণরূপ London Interbank Offered Rate, যা লন্ডনের ব্যাংকগুলোর মধ্যে স্বল্পমেয়াদি ঋণের সুদের হার।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

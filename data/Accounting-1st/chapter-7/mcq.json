@@ -2352,6 +2352,279 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-061",
+      "text": "মুনাফা জাতীয় হিসাব বন্ধ করার জন্য কোন দাখিলার প্রয়োজন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রারম্ভিক জাবেদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সমন্বয় জাবেদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমাপনী জাবেদা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংশোধনী জাবেদা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়, ব্যয় ও লাভ-ক্ষতির মতো মুনাফা জাতীয় (অস্থায়ী) হিসাবের জের শূন্য করে সেগুলো লাভ-ক্ষতি/আয় সারসংক্ষেপ হিসাবে স্থানান্তরের জন্য সমাপনী জাবেদা দেওয়া হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-062",
+      "text": "মেঘনা ট্রেডার্স-এর রেওয়ামিলে ১০ মাসের বেতন ১৫,০০০ টাকা দেওয়া আছে। উক্ত বছরের বকেয়া বেতন কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৮,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মাসিক বেতন = ১৫,০০০ ÷ ১০ = ১,৫০০ টাকা\nবকেয়া মাস = ১২ − ১০ = ২ মাস\nবকেয়া বেতন = ১,৫০০ × ২ = ৩,০০০ টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-063",
+      "text": "মূলধনের সুদ ৫,০০০ টাকা। এর জন্য কোন হিসাব ক্রেডিট করতে হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রদেয় সুদ হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রাপ্ত সুদ হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধনের সুদ হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মূলধনের সুদ মালিকের পাওনা, তাই মূলধন বৃদ্ধি পায়। দাখিলা: মূলধনের সুদ হিসাব ডেবিট ৫,০০০ এবং মূলধন হিসাব ক্রেডিট ৫,০০০।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-064",
+      "text": "অগ্রিম খরচ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দায়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "খরচ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অগ্রিম খরচ হলো আগাম পরিশোধিত খরচ, যার সেবা ভবিষ্যতে পাওয়া যাবে। তাই এটি সম্পদ (চলতি সম্পদ) হিসেবে আর্থিক অবস্থার বিবরণীতে দেখানো হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-065",
+      "text": "কোনটি হিসাব চক্রের ঐচ্ছিক ধাপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কার্যপত্র",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক বিবরণী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কার্যপত্র হিসাব চক্রের বাধ্যতামূলক ধাপ নয়; এটি সমন্বয় ও আর্থিক বিবরণী প্রস্তুতে সহায়ক ঐচ্ছিক ধাপ। জাবেদা, খতিয়ান ও আর্থিক বিবরণী অবশ্যই করতে হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-066",
+      "text": "উত্তোলন কার্যপত্রের কোথায় দেখানো হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশদ আয় বিবরণীর ডেবিটে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিশদ আয় বিবরণীর ক্রেডিটে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক অবস্থার বিবরণীর ডেবিটে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক অবস্থার বিবরণীর ক্রেডিটে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উত্তোলন মালিকানা স্বত্ব (মূলধন) হ্রাস করে, তাই এর জের ডেবিট। এটি আয়-ব্যয় সংক্রান্ত নয় বলে কার্যপত্রে বিশদ আয় বিবরণীতে নয়, আর্থিক অবস্থার বিবরণীর ডেবিট কলামে দেখানো হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch7-mcq-067",
+      "text": "সমাপনী জাবেদার পর কোন হিসাবের জের শূন্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিমা সেলামি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অগ্রিম ভাড়া",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বকেয়া বেতন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পুঞ্জীভূত অবচয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সমাপনী জাবেদায় কেবল অস্থায়ী (আয়-ব্যয় জাতীয়) হিসাব বন্ধ হয়। বিমা সেলামি খরচ, তাই বন্ধ হয়ে জের শূন্য হবে। অগ্রিম ভাড়া (সম্পদ), বকেয়া বেতন (দায়) ও পুঞ্জীভূত অবচয় স্থায়ী হিসাব, এদের জের পরবর্তী বছরে যায়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

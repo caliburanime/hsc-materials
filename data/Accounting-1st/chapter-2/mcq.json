@@ -53,6 +53,14 @@
         "qno": 2,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "CUB",
+          "year": "2025",
+          "qno": 22,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -5323,6 +5331,488 @@
         "board": "SB",
         "year": "2025",
         "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-127",
+      "text": "জার্নাল শব্দটির উৎপত্তি হয়েছে কোন শব্দ হতে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জার্মানি শব্দ থেকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হিন্দি শব্দ থেকে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফরাসি শব্দ থেকে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আরবি শব্দ থেকে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "জার্নাল (Journal) শব্দটি ফরাসি 'Jour' শব্দ থেকে এসেছে, যার অর্থ দিন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-128",
+      "text": "কখন নগদান বইতে (ক)/(C) লিখতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক ঋণ পরিশোধ করলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চেকে পণ্য বিক্রয় করলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মালিক কর্তৃক চেক গৃহীত হলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যাংক চেক প্রত্যাখ্যান করলে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নগদান বইতে (ক)/(C) লেখা হয় বিপরীত দাখিলার (Contra) ক্ষেত্রে, অর্থাৎ যখন একই লেনদেনে নগদ ও ব্যাংক উভয় দিকেই থাকে (যেমন নগদ জমা বা ব্যাংক থেকে নগদ উত্তোলন)। প্রদত্ত বিকল্পগুলোর মধ্যে ব্যাংক ঋণ পরিশোধ, চেকে বিক্রয় বা চেক প্রত্যাখ্যান কোনোটিতেই নগদ ও ব্যাংক একসাথে জড়িত নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (ক)/(C) চিহ্ন বিপরীত দাখিলার (নগদ-ব্যাংক) ক্ষেত্রে প্রযোজ্য; কোনো বিকল্পেই এমন লেনদেন নেই, তাই প্রশ্নটি ত্রুটিপূর্ণ বলে মনে হয়।"
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-129",
+      "text": "ভাউচার কত প্রকার?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২ প্রকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩ প্রকার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪ প্রকার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬ প্রকার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভাউচার দুই প্রকার: নগদ ভাউচার (প্রাপ্তি ও প্রদান) এবং জাবেদা ভাউচার (প্রচলিত পাঠ্যবই অনুযায়ী)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-130",
+      "text": "ক্যাশ মেমো কে তৈরি করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিক্রেতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রেতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দেনাদার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পাওনাদার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ক্যাশ মেমো পণ্য বিক্রির সময় বিক্রেতা তৈরি করে ক্রেতাকে প্রদান করেন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-131",
+      "text": "জাবেদার অপরিহার্য বিষয় নয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাখ্যা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শিরোনাম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারিখ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমষ্টি নির্ণয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জাবেদায় তারিখ, শিরোনাম (হিসাবের নাম), ডেবিট-ক্রেডিট ও ব্যাখ্যা থাকা আবশ্যক। সমষ্টি নির্ণয় অপরিহার্য নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-132",
+      "text": "রাসেল ট্রেডার্স বিক্রেতাকে ১৫ মার্চ তারিখে কত টাকা প্রদান করবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাসেল ট্রেডার্স ২০২৪ সালের ৫ মার্চ তারিখে ৪/১০, এন/৩০ শর্তে ৪০,০০০ টাকা মূল্যের পণ্য ২৫% বাট্টায় ক্রয় করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৭,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২৮,৮০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৬,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাট্টা বাদে মূল্য = \\( 40,000 - 40,000 \\times 25\\% = 30,000 \\) টাকা।\n৪/১০, এন/৩০ অর্থ ১০ দিনের মধ্যে পরিশোধে ৪% নগদ বাট্টা। ৫ মার্চ থেকে ১৫ মার্চ ১০ দিনের মধ্যে।\nনগদ বাট্টা = \\( 30,000 \\times 4\\% = 1,200 \\)\nপ্রদেয় = \\( 30,000 - 1,200 = 28,800 \\) টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-133",
+      "text": "রাসেল ট্রেডার্স বিক্রেতাকে ৪ এপ্রিল তারিখে কত টাকা প্রদান করবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাসেল ট্রেডার্স ২০২৪ সালের ৫ মার্চ তারিখে ৪/১০, এন/৩০ শর্তে ৪০,০০০ টাকা মূল্যের পণ্য ২৫% বাট্টায় ক্রয় করে।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৭,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩৬,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩৮,৪০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "৫ মার্চ থেকে ৩০ দিন পূর্ণ হয় ৪ এপ্রিল, অর্থাৎ বাট্টার সময় শেষ; কোনো নগদ বাট্টা নেই।\nপ্রদেয় = \\( 40,000 - 40,000 \\times 25\\% = 30,000 \\) টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-134",
+      "text": "জাহান ট্রেডার্স ১ জুলাই ২০২৪ তারিখে অফিসে ব্যবহারের জন্য ১৫% ভ্যাটসহ ৬৯,০০০ টাকায় আসবাবপত্র ক্রয় করে এবং বহন খরচ বাবদ ১,০০০ টাকা প্রদান করে। জাহান ট্রেডার্স আসবাবপত্র হিসাবে কত টাকা ডেবিট করবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৬০,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬১,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৯,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভ্যাটসহ মূল্য ৬৯,০০০ টাকা হলে ভ্যাট বাদে ক্রয়মূল্য:\n\\( 69{,}000 \\times \\frac{100}{115} = 60{,}000 \\) টাকা\nভ্যাট ৯,০০০ টাকা উপকরণ কর হিসেবে আলাদা (ভ্যাট চলতি হিসাবে) লেখা হয়। বহন খরচ সম্পদের ব্যয়ের অংশ:\n\\( 60{,}000 + 1{,}000 = 61{,}000 \\) টাকা (খ)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-135",
+      "text": "২০২৪ সালে বিক্রয় ভ্যাটের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ব্যবসায় প্রতিষ্ঠানে ২০২৪ সালে ১৫% ভ্যাটসহ পণ্য বিক্রয় ১,১৮,০০০ টাকা এবং বিক্রয় ফেরত ৩,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫,৩৯১",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৭,২৫০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭,৭০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "derived",
+      "explanation": "বিক্রয় ফেরত বাদে ভ্যাটসহ বিক্রয় = \\( 1,18,000 - 3,000 = 1,15,000 \\) টাকা।\nভ্যাট = \\( 1,15,000 \\times \\frac{15}{115} = 15,000 \\) টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (খ) ১৫,৩৯১ — বিক্রয় ফেরত বাদ না দিয়ে ১,১৮,০০০ × ১৫/১১৫। বিক্রয় ফেরত বাদে নিট বিক্রয় ১,১৫,০০০ টাকার ভ্যাট = ১,১৫,০০০ × ১৫/১১৫ = ১৫,০০০ টাকা (ক)।"
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-136",
+      "text": "বিক্রেতার নিকট প্রাপ্ত ভ্যাট হচ্ছে—",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি ব্যবসায় প্রতিষ্ঠানে ২০২৪ সালে ১৫% ভ্যাটসহ পণ্য বিক্রয় ১,১৮,০০০ টাকা এবং বিক্রয় ফেরত ৩,০০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_1st-2025-DB-10-11",
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বিক্রেতা ক্রেতার কাছ থেকে ভ্যাট আদায় করে সরকারকে পরিশোধ করে, তাই এটি বিক্রেতার জন্য দায়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-137",
+      "text": "নিম্নের কোনটি ক্রেতা তৈরি করেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চালান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্যাশমেমো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডেবিট নোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ক্রেডিট নোট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ডেবিট নোট ক্রেতা তৈরি করেন (পণ্য ফেরতের জন্য বিক্রেতাকে পাঠান)। চালান ও ক্যাশমেমো বিক্রেতা এবং ক্রেডিট নোট বিক্রেতা তৈরি করেন।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch2-mcq-138",
+      "text": "নিচের কোনটি হিসাবের পাকা বই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জাবেদা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খতিয়ান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রেওয়ামিল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আর্থিক বিবরণী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "খতিয়ান হিসাবের পাকা বই (চূড়ান্ত বই)। জাবেদা হলো কাঁচা বই।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
         "session": null
       },
       "tags": [],

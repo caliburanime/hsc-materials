@@ -3712,6 +3712,1337 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-090",
+      "text": "সুমনের স্বাভাবিক মজুরি কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "আহাদ জুট মিলে সপ্তাহে ৪৮ ঘণ্টা কাজ হয়। সুমন উক্ত প্রতিষ্ঠানের একজন শ্রমিক। সে জানুয়ারি মাসের প্রথম সপ্তাহে ৬০ ঘণ্টা কাজ করে। ঘণ্টা প্রতি স্বাভাবিক মজুরি ৩০ টাকা। অতিরিক্ত সময়ের মজুরি স্বাভাবিক মজুরির দ্বিগুণ। মূল মজুরির ৫০% বাড়িভাড়া ভাতা পায় এবং ৫% কল্যাণ তহবিলে জমা করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-BB-3-4",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৫২০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২১৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৪৪০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্বাভাবিক মজুরি = সাপ্তাহিক স্বাভাবিক কর্মঘণ্টা × ঘণ্টা প্রতি মজুরি = ৪৮ × ৩০ = ১,৪৪০ টাকা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-091",
+      "text": "অতিরিক্ত সময়ের মজুরি দেড় গুণ করা হলে, মজুরি বিবরণীতে প্রভাবিত হবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "আহাদ জুট মিলে সপ্তাহে ৪৮ ঘণ্টা কাজ হয়। সুমন উক্ত প্রতিষ্ঠানের একজন শ্রমিক। সে জানুয়ারি মাসের প্রথম সপ্তাহে ৬০ ঘণ্টা কাজ করে। ঘণ্টা প্রতি স্বাভাবিক মজুরি ৩০ টাকা। অতিরিক্ত সময়ের মজুরি স্বাভাবিক মজুরির দ্বিগুণ। মূল মজুরির ৫০% বাড়িভাড়া ভাতা পায় এবং ৫% কল্যাণ তহবিলে জমা করে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-BB-3-4",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মোট উপার্জন হ্রাস পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "মোট উপার্জন বৃদ্ধি পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "নিট মজুরি হ্রাস পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অতিরিক্ত সময় = ৬০ − ৪৮ = ১২ ঘণ্টা। দ্বিগুণ হারে ওভারটাইম = ১২ × ৬০ = ৭২০ টাকা; দেড় গুণ হলে ১২ × ৪৫ = ৫৪০ টাকা।\nতাই মোট উপার্জন কমবে (i)। বাড়িভাড়া ও কল্যাণ তহবিল মূল মজুরির উপর নির্ভরশীল বলে অপরিবর্তিত থাকে, ফলে নিট মজুরিও কমবে (iii)। মোট উপার্জন বাড়বে (ii) ভুল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-092",
+      "text": "উৎপাদন ব্যয় বিবরণী প্রস্তুতের মূল উদ্দেশ্য কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উচ্চ মুনাফা করা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রত্যাশিত মুনাফা করা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যয় নির্ধারণ করা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুদ্রাস্ফীতি কমানো",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন ব্যয় বিবরণীর মূল উদ্দেশ্য পণ্য উৎপাদনের মোট ও একক ব্যয় নির্ধারণ করা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-093",
+      "text": "প্রত্যক্ষ কাঁচামাল ১৫,০০০ টাকা, প্রত্যক্ষ মজুরি ৭,০০০ টাকা, কারখানার উপরি ব্যয় প্রত্যক্ষ মজুরির ৪০% হলে কারখানার ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২৪,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৭,৮০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয় = ১৫,০০০ + ৭,০০০ = ২২,০০০ টাকা\nকারখানা উপরিব্যয় = ৭,০০০ × ৪০% = ২,৮০০ টাকা\nকারখানা ব্যয় = ২২,০০০ + ২,৮০০ = ২৪,৮০০ টাকা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-094",
+      "text": "উৎপাদনকারী প্রতিষ্ঠানের রূপান্তর ব্যয়ের উপাদান—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রত্যক্ষ শ্রম"
+        },
+        {
+          "label": "ii",
+          "text": "কারখানা উপরিব্যয়"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যক্ষ কাঁচামাল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ শ্রম + কারখানা উপরিব্যয়। প্রত্যক্ষ কাঁচামাল রূপান্তর ব্যয়ের অংশ নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-095",
+      "text": "একটি উৎপাদন প্রতিষ্ঠানের কাঁচামাল ক্রয় ৩০,০০০ টাকা, প্রত্যক্ষ মজুরি ৭,০০০ টাকা, কারখানা ভাড়া ৪,০০০ টাকা, মুখ্য ব্যয় ৫৩,০০০ টাকা, পরোক্ষ মজুরি ৩,০০০ টাকা, অফিস কর্মচারীদের বেতন ৬,০০০ টাকা হলে কারখানার উৎপাদন ব্যয় কত হবে।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,০৩,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কারখানা উপরিব্যয় = কারখানা ভাড়া + পরোক্ষ মজুরি = ৪,০০০ + ৩,০০০ = ৭,০০০ টাকা। অফিস কর্মচারীদের বেতন কারখানা ব্যয়ে ধরা হয় না।\nকারখানা ব্যয় = মুখ্য ব্যয় + কারখানা উপরিব্যয় = ৫৩,০০০ + ৭,০০০ = ৬০,০০০ টাকা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-096",
+      "text": "৪০ একক পণ্যের উৎপাদন ব্যয় ৮০০ টাকা। কোম্পানি বিক্রয়মূল্যের উপর ২০% মুনাফা করে। প্রতি একক পণ্যের বিক্রয়মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২৫ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "একক প্রতি উৎপাদন ব্যয় = ৮০০ ÷ ৪০ = ২০ টাকা\nবিক্রয়মূল্যের ২০% লাভ হলে ব্যয় = ৮০%, তাই বিক্রয়মূল্য = ২০ ÷ ০.৮ = ২৫ টাকা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-097",
+      "text": "'অতিরিক্ত সময়ের মজুরি' কোন ধরনের ব্যয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রত্যক্ষ ব্যয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রয় উপরিব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রশাসনিক উপরিব্যয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কারখানা উপরিব্যয়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অতিরিক্ত সময়ের মজুরি নির্দিষ্ট উৎপাদনের সাথে সরাসরি সম্পর্কিত হলে তা প্রত্যক্ষ ব্যয় হিসেবে ধরা হয় (পাঠ্যবইয়ের প্রদত্ত উত্তর অনুযায়ী)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-098",
+      "text": "কারখানা উপরিব্যয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি দ্রব্য উৎপাদনে কাঁচামাল ব্যয় ১২,০০০ টাকা, শ্রম ব্যয় ৮,০০০ টাকা। কারখানা উপরিব্যয় মুখ্য ব্যয়ের ৩০%। প্রশাসনিক উপরিব্যয় কারখানা ব্যয়ের ২০%।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয় = ১২,০০০ + ৮,০০০ = ২০,০০০ টাকা\nকারখানা উপরিব্যয় = ২০,০০০ × ৩০% = ৬,০০০ টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-099",
+      "text": "প্রশাসনিক উপরিব্যয়ের পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "একটি দ্রব্য উৎপাদনে কাঁচামাল ব্যয় ১২,০০০ টাকা, শ্রম ব্যয় ৮,০০০ টাকা। কারখানা উপরিব্যয় মুখ্য ব্যয়ের ৩০%। প্রশাসনিক উপরিব্যয় কারখানা ব্যয়ের ২০%।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫,২০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২০,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কারখানা ব্যয় = ২০,০০০ + ৬,০০০ = ২৬,০০০ টাকা\nপ্রশাসনিক উপরিব্যয় = ২৬,০০০ × ২০% = ৫,২০০ টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-100",
+      "text": "জীবনযাত্রার ব্যয় বৃদ্ধির ফলে যে সুবিধা দেওয়া হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিশেষ সুবিধা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ওভারটাইম মজুরি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহার্ঘ ভাতা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "জীবনযাত্রার ব্যয় বৃদ্ধির ফলে শ্রমিক-কর্মচারীদের যে অতিরিক্ত ভাতা দেওয়া হয় তাকে মহার্ঘ ভাতা বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-101",
+      "text": "কোনটি অনার্থিক সুবিধা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোনাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রভিডেন্ট ফান্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রশিক্ষণের ব্যবস্থা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মহার্ঘ ভাতা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণের ব্যবস্থা নগদ অর্থ নয়, তাই এটি অনার্থিক সুবিধা। বোনাস, প্রভিডেন্ট ফান্ড ও মহার্ঘ ভাতা আর্থিক সুবিধা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-102",
+      "text": "উৎপাদন ব্যয় হিসাবের উদ্দেশ্য—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যয় নির্ণয়"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যয় নিয়ন্ত্রণ"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যয় লিপিবদ্ধকরণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন ব্যয় হিসাবের উদ্দেশ্য ব্যয় নির্ণয় (i), ব্যয় নিয়ন্ত্রণ (ii) ও ব্যয় লিপিবদ্ধকরণ (iii)—তিনটিই।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-103",
+      "text": "একটি পণ্যের কাঁচামালের ব্যয় ৪০,০০০ টাকা, প্রত্যক্ষ মজুরি ৩২,০০০ টাকা, বিক্রয় উপরিব্যয় ১২,০০০ টাকা এবং রূপান্তর ব্যয় ৮০,০০০ টাকা। পণ্যটির উৎপাদন উপরিব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫২,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ মজুরি + কারখানা উপরিব্যয়\n৮০,০০০ = ৩২,০০০ + কারখানা উপরিব্যয়\nকারখানা (উৎপাদন) উপরিব্যয় = ৪৮,০০০ টাকা।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-104",
+      "text": "কোনটি মুখ্য ব্যয়ের উপাদান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভাড়া প্রদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরোক্ষ কাঁচামাল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রত্যক্ষ শ্রম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কারখানার বিমা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয় = প্রত্যক্ষ মাল + প্রত্যক্ষ শ্রম + প্রত্যক্ষ খরচ। তাই প্রত্যক্ষ শ্রম মুখ্য ব্যয়ের উপাদান; বাকিগুলো কারখানা উপরিব্যয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-105",
+      "text": "মুখ্য ব্যয়ের উপাদান হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিক্রয় উপরি খরচ"
+        },
+        {
+          "label": "ii",
+          "text": "প্রত্যক্ষ মজুরি"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যক্ষ খরচ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয়ের উপাদান প্রত্যক্ষ মজুরি (ii) ও প্রত্যক্ষ খরচ (iii)। বিক্রয় উপরিখরচ (i) মুখ্য ব্যয়ের অংশ নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-106",
+      "text": "বাংলাদেশের শ্রম আইন অনুযায়ী একজন শ্রমিককে দৈনিক কত ঘণ্টা কাজ করতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯ ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮ ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৭ ঘণ্টা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬ ঘণ্টা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাংলাদেশ শ্রম আইন অনুযায়ী একজন শ্রমিকের স্বাভাবিক কর্মঘণ্টা দৈনিক ৮ ঘণ্টা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-107",
+      "text": "উৎপাদন খরচের অন্তর্ভুক্ত হবে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "পরোক্ষ কাঁচামাল"
+        },
+        {
+          "label": "ii",
+          "text": "হিসাব রক্ষকের বেতন"
+        },
+        {
+          "label": "iii",
+          "text": "কারখানা ব্যবস্থাপকের বেতন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পরোক্ষ কাঁচামাল (i) ও কারখানা ব্যবস্থাপকের বেতন (iii) কারখানা উপরিব্যয়, তাই উৎপাদন খরচের অংশ। হিসাব রক্ষকের বেতন (ii) অফিস ও প্রশাসনিক ব্যয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-108",
+      "text": "নিচের কোনটি অনার্থিক সুবিধা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাড়ি ভাড়া ভাতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যাতায়াত ভাতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আনুতোষিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চিকিৎসা সুবিধা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চিকিৎসা সুবিধা সরাসরি নগদ অর্থ নয়, তাই এটি অনার্থিক সুবিধা। বাড়িভাড়া, যাতায়াত ভাতা ও আনুতোষিক আর্থিক সুবিধা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-109",
+      "text": "নিচের কোনটি উৎপাদন ব্যয় বিবরণীতে অন্তর্ভুক্ত হবে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যন্ত্রপাতির অবচয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণের সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরোক্ষ কাঁচামাল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরোক্ষ মজুরি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ঋণের সুদ আর্থিক ব্যয়, উৎপাদন ব্যয় নয়। তাই তা উৎপাদন ব্যয় বিবরণীতে অন্তর্ভুক্ত হয় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-110",
+      "text": "নিচের কোনটি রূপান্তর ব্যয় নির্ণয়ের সূত্র?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রত্যক্ষ মাল + প্রত্যক্ষ মজুরি + অন্যান্য প্রত্যক্ষ খরচ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রত্যক্ষ মাল + প্রত্যক্ষ মজুরি + কারখানা উপরিখরচ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রত্যক্ষ মাল + কারখানা উপরিখরচ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রত্যক্ষ মজুরি + কারখানা উপরিখরচ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ মজুরি + কারখানা উপরিখরচ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-111",
+      "text": "কন্ট্রিবিউটরি ভবিষ্য তহবিলে জমা করেন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিয়োগকর্তা"
+        },
+        {
+          "label": "ii",
+          "text": "কর্মী"
+        },
+        {
+          "label": "iii",
+          "text": "সরকার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কন্ট্রিবিউটরি ভবিষ্য তহবিলে নিয়োগকর্তা (i) ও কর্মী (ii) উভয়েই চাঁদা জমা করেন; সরকার করে না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-112",
+      "text": "উৎপাদন ব্যয় হিসাববিজ্ঞানের প্রথম ও প্রধান উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যয় নির্ধারণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যয় নিয়ন্ত্রণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যয় সংকোচন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যয় বিশ্লেষণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন ব্যয় হিসাববিজ্ঞানের প্রথম ও প্রধান উদ্দেশ্য হলো ব্যয় নির্ধারণ (নির্ণয়)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-113",
+      "text": "সাপ্তাহিক মূল মজুরির পরিমাণ কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো একটি উৎপাদনকারী প্রতিষ্ঠানে দৈনিক ৮ ঘণ্টা স্বাভাবিক কর্ম ঘণ্টা হারে কাজ করতে হয়। ঘণ্টা প্রতি স্বাভাবিক মজুরি ১০ টাকা, কোনো এক সপ্তাহে ০৭(সাত) দিন কারখানা ৭০ ঘণ্টা চালু ছিল। ওভারটাইম মজুরি হার স্বাভাবিক মজুরি হারের দ্বিগুণ।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সাপ্তাহিক স্বাভাবিক কর্মঘণ্টা = ৭ × ৮ = ৫৬ ঘণ্টা\nমূল মজুরি = ৫৬ × ১০ = ৫৬০ টাকা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-114",
+      "text": "জনপ্রতি ওভার টাইম মজুরির পরিমাণ কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কোনো একটি উৎপাদনকারী প্রতিষ্ঠানে দৈনিক ৮ ঘণ্টা স্বাভাবিক কর্ম ঘণ্টা হারে কাজ করতে হয়। ঘণ্টা প্রতি স্বাভাবিক মজুরি ১০ টাকা, কোনো এক সপ্তাহে ০৭(সাত) দিন কারখানা ৭০ ঘণ্টা চালু ছিল। ওভারটাইম মজুরি হার স্বাভাবিক মজুরি হারের দ্বিগুণ।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-RB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,১২০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৪০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ওভারটাইম ঘণ্টা = ৭০ − ৫৬ = ১৪ ঘণ্টা\nওভারটাইম মজুরি = ১৪ × (১০ × ২) = ২৮০ টাকা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-115",
+      "text": "১০টি টেবিলের উৎপাদন ব্যয় ১২,০০০ টাকা। কোম্পানি বিক্রয়মূল্যের উপর ২০% মুনাফা করতে চায়, তাহলে প্রতিটি টেবিলের বিক্রয়মূল্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,২০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৪৪০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৫০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "একক প্রতি উৎপাদন ব্যয় = ১২,০০০ ÷ ১০ = ১,২০০ টাকা\nবিক্রয়মূল্যের ২০% লাভ হলে ব্যয় = ৮০%, তাই বিক্রয়মূল্য = ১,২০০ ÷ ০.৮ = ১,৫০০ টাকা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-116",
+      "text": "কাঁচামালের ব্যয় ৪,০০০ টাকা, প্রত্যক্ষ মজুরি ২,০০০ টাকা এবং কারখানা উপরিব্যয় ৩,০০০ টাকা হলে রূপান্তরিত ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৯,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রূপান্তর ব্যয় = প্রত্যক্ষ মজুরি + কারখানা উপরিব্যয় = ২,০০০ + ৩,০০০ = ৫,০০০ টাকা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-117",
+      "text": "যে কার্ডে শ্রমিকদের কাজের সময়ের হিসাব রাখা হয় তাকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিন কার্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সময় কার্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জব কার্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আইডি কার্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে কার্ডে শ্রমিকদের কাজের সময়ের হিসাব রাখা হয় তাকে সময় কার্ড বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-118",
+      "text": "কোম্পানির মুখ্য ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "X. Co. লিঃ ঔষধ উৎপাদনে নিয়োজিত। কোম্পানির ব্যবহৃত কাঁচামাল ৪,০০,০০০ টাকা, মজুরি ১,৬০,০০০ টাকা এবং কারখানা উপরিব্যয় মজুরির ৫০%।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪,৮০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫,৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬,৪০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয় = কাঁচামাল + মজুরি = ৪,০০,০০০ + ১,৬০,০০০ = ৫,৬০,০০০ টাকা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-119",
+      "text": "কোম্পানির কারখানা ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "X. Co. লিঃ ঔষধ উৎপাদনে নিয়োজিত। কোম্পানির ব্যবহৃত কাঁচামাল ৪,০০,০০০ টাকা, মজুরি ১,৬০,০০০ টাকা এবং কারখানা উপরিব্যয় মজুরির ৫০%।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-SB-23-24",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬,৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫,৬০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪,০০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২,৪০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কারখানা উপরিব্যয় = ১,৬০,০০০ × ৫০% = ৮০,০০০ টাকা\nকারখানা ব্যয় = মুখ্য ব্যয় + কারখানা উপরিব্যয় = ৫,৬০,০০০ + ৮০,০০০ = ৬,৪০,০০০ টাকা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch7-mcq-120",
+      "text": "মুখ্য ব্যয়ের অন্তর্ভুক্ত হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রত্যক্ষ কাঁচামাল"
+        },
+        {
+          "label": "ii",
+          "text": "পরোক্ষ শ্রম"
+        },
+        {
+          "label": "iii",
+          "text": "প্রত্যক্ষ শ্রম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মুখ্য ব্যয় = প্রত্যক্ষ কাঁচামাল + প্রত্যক্ষ শ্রম + প্রত্যক্ষ খরচ। পরোক্ষ শ্রম (ii) কারখানা উপরিব্যয়ের অংশ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

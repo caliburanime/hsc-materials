@@ -1897,6 +1897,2508 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-046",
+      "text": "কোনটি মূলধন বাজেটিং মূল্যায়নের সনাতন কৌশল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিশোধকাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ মুনাফার হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাট্টাকৃত পরিশোধ কাল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিশোধকাল ও গড় মুনাফার হার অর্থের সময়মূল্য বিবেচনা করে না, এগুলো সনাতন (অবাট্টাকৃত) কৌশল। NPV, IRR ও বাট্টাকৃত পরিশোধকাল আধুনিক (বাট্টাকৃত) কৌশল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-047",
+      "text": "দীর্ঘ মেয়াদী ভিত্তিতে লাভজনক প্রকল্পে বিনিয়োগ সিদ্ধান্তকে বলা হয়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অর্থের সময় মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন কাঠামো",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দীর্ঘমেয়াদে লাভজনক প্রকল্পে বিনিয়োগ সিদ্ধান্ত গ্রহণের প্রক্রিয়াকে মূলধন বাজেটিং বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-048",
+      "text": "যে ক্ষেত্রে একটি প্রকল্প গ্রহণ করা হলে অপর প্রকল্পটি বাদ দিতে হবে তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিপূরক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্বাধীন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নির্ভরশীল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরস্পর বর্জনশীল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "একটি প্রকল্প গ্রহণ করলে অন্যটি বাদ দিতে হলে প্রকল্পগুলোকে পরস্পর বর্জনশীল প্রকল্প বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-049",
+      "text": "মূলধন বাজেটিং-এ বাট্টাকৃত পদ্ধতি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "NPV"
+        },
+        {
+          "label": "ii",
+          "text": "IRR"
+        },
+        {
+          "label": "iii",
+          "text": "PBP"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বাট্টাকৃত পদ্ধতিতে অর্থের সময়মূল্য বিবেচিত হয়; NPV ও IRR বাট্টাকৃত পদ্ধতি (i, ii)। পে-ব্যাক পিরিয়ড (PBP) অবাট্টাকৃত পদ্ধতি, তাই iii সঠিক নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-050",
+      "text": "মোট মুনাফা থেকে কর বাদ দিলে নিচের কোনটি পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মোট মুনাফা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট মুনাফা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ আন্তঃপ্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবচয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মোট মুনাফা থেকে কর বাদ দিলে নিট মুনাফা (কর পরবর্তী মুনাফা) পাওয়া যায়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-051",
+      "text": "নিচের কোনটি মূলধন বাজেটিং এর প্রথম ধাপ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রকল্প মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্রকল্প বাস্তবায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রকল্প উদ্ভাবন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রকল্প বিশ্লেষণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূলধন বাজেটিং-এর প্রথম ধাপ হলো প্রকল্প উদ্ভাবন (বিনিয়োগ সুযোগ খুঁজে বের করা); এরপর নির্বাচন, মূল্যায়ন ও বাস্তবায়ন।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-052",
+      "text": "উদ্দীপকে উল্লিখিত প্রকল্পটির গড় মুনাফার হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কর্ণফুলী শিপইয়ার্ড নতুন একটি প্রকল্পে ২,০০,০০০ টাকা বিনিয়োগ করার পরিকল্পনা করছে যার গড় কর পরবর্তী নিট মুনাফা ৭০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-3-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪০%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০%",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "গড় মুনাফার হার \\( = \\frac{\\text{গড় নিট মুনাফা}}{\\text{গড় বিনিয়োগ}} \\times 100 \\)\nভগ্নাবশেষ মূল্য না থাকলে গড় বিনিয়োগ \\( = \\frac{200000}{2} = 100000 \\) টাকা\n\\( = \\frac{70000}{100000} \\times 100 = 70\\% \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-053",
+      "text": "মূলধন বাজেটিং এর সীমাবদ্ধতা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "চাহিদার পরিবর্তন"
+        },
+        {
+          "label": "ii",
+          "text": "উৎপাদন ব্যয়ের পরিবর্তন"
+        },
+        {
+          "label": "iii",
+          "text": "মূলধন ব্যয়ের পরিবর্তন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চাহিদা, উৎপাদন ব্যয় ও মূলধন ব্যয় পরিবর্তনশীল হওয়ায় ভবিষ্যৎ নগদ প্রবাহের পূর্বাভাস অনিশ্চিত হয়; তাই তিনটিই মূলধন বাজেটিং-এর সীমাবদ্ধতা।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-054",
+      "text": "বিনিয়োগকৃত অর্থকে বার্ষিক সমান নগদ প্রবাহ দ্বারা ভাগ করলে কী পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গড় মুনাফার হার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পে-ব্যাক পিরিয়ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিট বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আন্তঃআয় হার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক পিরিয়ড \\( = \\frac{\\text{প্রারম্ভিক বিনিয়োগ}}{\\text{বার্ষিক সমান নগদ প্রবাহ}} \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-055",
+      "text": "যে বাট্টার হারে একটি প্রকল্পের নগদ আন্তঃপ্রবাহের বর্তমান মূল্য ও নগদ বহিঃপ্রবাহ সমান হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গড় মুনাফার হার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অভ্যন্তরীণ আয়ের হার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর পূর্ববর্তী আয়ের হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর পরবর্তী আয়ের হার",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যে বাট্টার হারে নগদ আন্তঃপ্রবাহের বর্তমান মূল্য ও নগদ বহিঃপ্রবাহ সমান হয় (NPV = 0), তাকে অভ্যন্তরীণ আয়ের হার (IRR) বলে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-056",
+      "text": "ABC প্রকল্পের নগদ আন্তঃপ্রবাহের মোট বর্তমান মূল্য ৪৮,৩৫০ টাকা ও নগদ বহিঃপ্রবাহ ৪৮,০০০ টাকা হলে নিট বর্তমান মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "−৩৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৮,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪৮,৩৫০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "NPV = আন্তঃপ্রবাহের বর্তমান মূল্য − বহিঃপ্রবাহ\n\\( = 48350 - 48000 = 350 \\) টাকা",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-057",
+      "text": "মোট মুনাফা থেকে কর বাদ দিলে পাওয়া যায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ আন্তঃপ্রবাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নগদ বহিঃপ্রবাহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর পরবর্তী নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর পরবর্তী মুনাফা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মোট মুনাফা থেকে কর বাদ দিলে কর পরবর্তী মুনাফা পাওয়া যায়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-058",
+      "text": "স্থায়ী সম্পত্তিতে বিনিয়োগ সিদ্ধান্তকে বলে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রকল্প নির্বাচন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন ব্যয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ বহিঃ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "স্থায়ী সম্পত্তিতে বিনিয়োগ সংক্রান্ত দীর্ঘমেয়াদি সিদ্ধান্তকে মূলধন বাজেটিং বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-059",
+      "text": "কোন সম্পত্তির অর্থনৈতিক জীবনকাল শেষে যে মূল্য অবশিষ্ট থাকে তা হল—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অবচয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রয় মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নগদ আন্তঃ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভগ্নাবশেষ মূল্য",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সম্পত্তির অর্থনৈতিক জীবনকাল শেষে যে অবশিষ্ট মূল্য থাকে তাকে ভগ্নাবশেষ মূল্য (Scrap/Salvage Value) বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-060",
+      "text": "মূলধন বাজেটিং এর অবাট্টাকৃত পদ্ধতি হল—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আন্তঃআয়ের হার"
+        },
+        {
+          "label": "ii",
+          "text": "পে-ব্যাক সময়"
+        },
+        {
+          "label": "iii",
+          "text": "গড় মুনাফার হার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক সময় (ii) ও গড় মুনাফার হার (iii) অর্থের সময়মূল্য বিবেচনা করে না, তাই অবাট্টাকৃত। আন্তঃআয়ের হার (IRR) বাট্টাকৃত পদ্ধতি।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-061",
+      "text": "যে বাট্টার হারে NPV = 0 হয়, তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নামিক হার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্যকরী সুদের হার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গড় আয়ের হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অভ্যন্তরীণ আয়ের হার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যে বাট্টার হারে NPV শূন্য হয় তাকে অভ্যন্তরীণ আয়ের হার (IRR) বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-062",
+      "text": "প্রকল্পটির ৩য় বছরে ক্রমযোজিত নগদ প্রবাহ কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ ফারদিন একটি লাভজনক প্রকল্পে ১,২০,০০০ টাকা বিনিয়োগ করলেন। যা থেকে আগামী পাঁচ বছর যাবত বার্ষিক নগদ প্রবাহ পাওয়া যাবে যথাক্রমে ২৪,০০০ টাকা, ১৬,০০০ টাকা, ৫০,০০০ টাকা, ২৪,০০০ টাকা এবং ৬০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৪,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৩০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্রমযোজিত নগদ প্রবাহ (৩য় বছর) \\( = 24000 + 16000 + 50000 = 90000 \\) টাকা",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-063",
+      "text": "প্রকল্পটির পে-ব্যাক সময় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ ফারদিন একটি লাভজনক প্রকল্পে ১,২০,০০০ টাকা বিনিয়োগ করলেন। যা থেকে আগামী পাঁচ বছর যাবত বার্ষিক নগদ প্রবাহ পাওয়া যাবে যথাক্রমে ২৪,০০০ টাকা, ১৬,০০০ টাকা, ৫০,০০০ টাকা, ২৪,০০০ টাকা এবং ৬০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-22-23",
+      "options": [
+        {
+          "label": "a",
+          "text": "৪ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪.১ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪.৫ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৪.৮ বছর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ক্রমযোজিত প্রবাহ: ১ম বছর ২৪,০০০; ২য় ৪০,০০০; ৩য় ৯০,০০০; ৪র্থ ১,১৪,০০০; ৫ম ১,৭৪,০০০\n৪ বছরে বাকি \\( 120000 - 114000 = 6000 \\) টাকা\nপে-ব্যাক \\( = 4 + \\frac{6000}{60000} = 4.1 \\) বছর",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-064",
+      "text": "প্রকল্প মূল্যায়নের কোন পদ্ধতিটি অর্থের সময়মূল্যকে বিবেচনা করে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পে-ব্যাক সময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ আয়ের হার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাট্টাকৃত পরিশোধকাল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক সময় পদ্ধতিতে নগদ প্রবাহকে বাট্টা করা হয় না, ফলে অর্থের সময়মূল্য বিবেচিত হয় না।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-065",
+      "text": "নিম্নের কোন ক্ষেত্রে প্রকল্প গ্রহণযোগ্য হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\( NPV \\ge 0 \\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\( NPV = 0 \\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\( NPV \\le 0 \\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\( NPV < -1 \\)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের নিয়মে NPV শূন্য বা ধনাত্মক (\\( NPV \\ge 0 \\)) হলে প্রকল্প গ্রহণযোগ্য।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-066",
+      "text": "প্রকল্প গ্রহণ করার ক্ষেত্রে বিবেচনা করা হয়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিট বর্তমান মূল্য"
+        },
+        {
+          "label": "ii",
+          "text": "অভ্যন্তরীণ আয়ের হার"
+        },
+        {
+          "label": "iii",
+          "text": "বর্তমান মূল্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রকল্প গ্রহণের ক্ষেত্রে নিট বর্তমান মূল্য (NPV) ও অভ্যন্তরীণ আয়ের হার (IRR) বিবেচনা করা হয়। শুধু 'বর্তমান মূল্য' নিজে গ্রহণ-মানদণ্ড নয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-067",
+      "text": "মূলধন বাজেটিং সিদ্ধান্ত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জ্বালানি ক্রয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যন্ত্রপাতি ক্রয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পণ্য ক্রয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাঁচামাল ক্রয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "যন্ত্রপাতি ক্রয় স্থায়ী সম্পত্তিতে দীর্ঘমেয়াদি বিনিয়োগ, তাই এটি মূলধন বাজেটিং সিদ্ধান্ত। জ্বালানি, পণ্য ও কাঁচামাল ক্রয় চলতি কার্যক্রমের অংশ।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-068",
+      "text": "বিনিয়োগ সিদ্ধান্তের মূল লক্ষ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিনিয়োগ বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সম্পদ বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তারল্য বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিনিয়োগ সিদ্ধান্তের মূল লক্ষ্য হলো বিনিয়োগ থেকে সর্বাধিক মুনাফা অর্জন করা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের উত্তর (ক) মুনাফা বৃদ্ধি (পাঠ্যবই, পৃ. ৬৯৪ উদ্ধৃত); sattacademy-তে উত্তর (গ) সম্পদ বৃদ্ধি — অর্থায়নের সামগ্রিক লক্ষ্য সম্পদ সর্বোচ্চকরণ হওয়ায় (গ)-ও যুক্তিসঙ্গত।"
+    },
+    {
+      "id": "finance_1st-ch8-mcq-069",
+      "text": "স্থায়ী সম্পত্তি ক্রয়ের জন্য বিনিয়োগ সিদ্ধান্তকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ বহিঃপ্রবাহ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন কাঠামো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রকল্প নির্বাচন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থায়ী সম্পত্তি ক্রয়ের জন্য দীর্ঘমেয়াদি বিনিয়োগ সিদ্ধান্তকে মূলধন বাজেটিং বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-070",
+      "text": "একটি স্বাধীন প্রকল্প সাধারণত গ্রহণযোগ্য হয় না যখন—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "\\( PI > 1 \\)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "\\( PI < 1 \\)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "\\( PI = 0 \\)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "\\( PI = 1 \\)",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "স্বাধীন প্রকল্প গ্রহণযোগ্য হতে হলে \\( PI \\ge 1 \\) হতে হয়। \\( PI < 1 \\) হলে আন্তঃপ্রবাহের বর্তমান মূল্য বিনিয়োগের চেয়ে কম, তাই প্রকল্প গ্রহণযোগ্য নয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-071",
+      "text": "A প্রকল্পের গড় উপার্জন হার ২৫% এবং গড় বিনিয়োগ ২,০০,০০০ টাকা হলে প্রকল্পটির গড় নীট মুনাফা কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,০০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "গড় নিট মুনাফা = হার × গড় বিনিয়োগ\n\\( = 25\\% \\times 200000 = 50000 \\) টাকা",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-072",
+      "text": "বাট্টার হার আন্তঃহারের চেয়ে বেশি হলে নিট বর্তমান মূল্য হবে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শূন্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিনিয়োগের দ্বিগুণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাট্টার হার IRR-এর চেয়ে বেশি হলে আন্তঃপ্রবাহের বর্তমান মূল্য বিনিয়োগের চেয়ে কম হয়, ফলে NPV ঋণাত্মক হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-073",
+      "text": "XYZ কোম্পানির NPV কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "XYZ কোম্পানি ১,০০,০০০ টাকা দিয়ে একটি মেশিন ক্রয় করতে চায়। মেশিনটি থেকে আগামী ৫ বছর পর্যন্ত প্রতি বছর কর পরবর্তী আন্তঃপ্রবাহ হবে ৩০,০০০ টাকা। মূলধন ব্যয় ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-12-13",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৩,৭৩০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৩,৯২০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৪,১৬৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৪,৫৩৭ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "PVAF (১০%, ৫ বছর) \\( = 3.791 \\)\nআন্তঃপ্রবাহের বর্তমান মূল্য \\( = 30000 \\times 3.791 = 113730 \\) টাকা\nNPV \\( = 113730 - 100000 = 13730 \\) টাকা",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-074",
+      "text": "XYZ কোম্পানি যদি তার NPV বাড়াতে চায় তবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "XYZ কোম্পানি ১,০০,০০০ টাকা দিয়ে একটি মেশিন ক্রয় করতে চায়। মেশিনটি থেকে আগামী ৫ বছর পর্যন্ত প্রতি বছর কর পরবর্তী আন্তঃপ্রবাহ হবে ৩০,০০০ টাকা। মূলধন ব্যয় ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-12-13",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বাট্টার হার কমাতে হবে"
+        },
+        {
+          "label": "ii",
+          "text": "নগদ আন্তঃপ্রবাহ বাড়াতে হবে"
+        },
+        {
+          "label": "iii",
+          "text": "নগদ আন্তঃপ্রবাহ কমাতে হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বাট্টার হার কমলে বর্তমান মূল্য বাড়ে (i সঠিক) এবং নগদ আন্তঃপ্রবাহ বাড়লেও NPV বাড়ে (ii সঠিক)। আন্তঃপ্রবাহ কমালে NPV কমে, তাই iii ভুল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-075",
+      "text": "নিচের কোন প্রকল্পটি গ্রহণ করা উচিত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যে প্রকল্পের IRR সর্বনিম্ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যে প্রকল্পের NPV সর্বনিম্ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যে প্রকল্পের ARR সর্বনিম্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যে প্রকল্পের PBP সর্বনিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক পদ্ধতিতে যে প্রকল্পের পরিশোধকাল সবচেয়ে কম, অর্থাৎ বিনিয়োগ দ্রুততম সময়ে ফেরত আসে, সেটি গ্রহণ করা উচিত। IRR, NPV ও ARR-এর ক্ষেত্রে সর্বোচ্চ মান গ্রহণযোগ্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-076",
+      "text": "পুঁজি ফেরতকাল পদ্ধতির জন্য প্রয়োজন হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নগদ আন্তঃপ্রবাহ"
+        },
+        {
+          "label": "ii",
+          "text": "বাট্টার হার"
+        },
+        {
+          "label": "iii",
+          "text": "প্রারম্ভিক বিনিয়োগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পরিশোধকাল \\( = \\frac{\\text{প্রারম্ভিক বিনিয়োগ}}{\\text{বার্ষিক নগদ আন্তঃপ্রবাহ}} \\); তাই নগদ আন্তঃপ্রবাহ (i) ও প্রারম্ভিক বিনিয়োগ (iii) প্রয়োজন। এখানে বাট্টার হার লাগে না।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-077",
+      "text": "মূলধন বাজেটিং এর আদর্শ পদ্ধতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পে-ব্যাক সময়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গড় মুনাফার হার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নীট বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আন্তঃআয়ের হার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "NPV অর্থের সময়মূল্য বিবেচনা করে এবং প্রকল্পের মোট অবদান নিরূপণ করে, তাই এটি মূলধন বাজেটিং-এর আদর্শ পদ্ধতি হিসেবে বিবেচিত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-078",
+      "text": "অবন্তী লিঃ এর বিনিয়োগ প্রকল্পের পে-ব্যাক সময় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "অবন্তী লিঃ দীর্ঘমেয়াদি বিনিয়োগ প্রকল্পের প্রাথমিক বিনিয়োগ ১০ লক্ষ টাকা এবং মেয়াদকাল ১০ বছর। প্রকল্পের বার্ষিক নীট নগদ আন্তঃপ্রবাহ ২ লক্ষ টাকা। প্রতিষ্ঠানের বাট্টার হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "২ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫ বছর",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক সময় \\( = \\frac{1000000}{200000} = 5 \\) বছর",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-079",
+      "text": "অবন্তী লিঃ এর নিট বর্তমান মূল্য কত হবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "অবন্তী লিঃ দীর্ঘমেয়াদি বিনিয়োগ প্রকল্পের প্রাথমিক বিনিয়োগ ১০ লক্ষ টাকা এবং মেয়াদকাল ১০ বছর। প্রকল্পের বার্ষিক নীট নগদ আন্তঃপ্রবাহ ২ লক্ষ টাকা। প্রতিষ্ঠানের বাট্টার হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "১,৩০,১৬০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১,৪০,০৮০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১,৫০,১৭০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,৬০,১৮০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "PVAF (১২%, ১০ বছর) \\( \\approx 5.6508 \\)\nআন্তঃপ্রবাহের বর্তমান মূল্য \\( = 200000 \\times 5.6508 \\approx 1130160 \\) টাকা\nNPV \\( = 1130160 - 1000000 = 130160 \\) টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-080",
+      "text": "সামার লিঃ এর প্রকল্পের প্রাথমিক বিনিয়োগ এর পরিমাণ ১ লক্ষ টাকা, ভগ্নাবশেষ মূল্য ১০ হাজার টাকা ও মেয়াদকাল ১০ বছর। প্রকল্পের বার্ষিক সুদ ও কর পরবর্তী মুনাফা ৮ হাজার টাকা হলে এর গড় মুনাফার হার কত হবে।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "১৪.৫৫%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৪.৭৫%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৬%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৭%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "গড় বিনিয়োগ \\( = \\frac{100000 + 10000}{2} = 55000 \\) টাকা\nগড় মুনাফার হার \\( = \\frac{8000}{55000} \\times 100 = 14.55\\% \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-081",
+      "text": "সাদাদ টেক্সটাইল লিঃ এর মেশিনটির নীট বর্তমান মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "সাদাদ টেক্সটাইল লিঃ একটি মেশিন ২,০০,০০০ টাকায় ক্রয় করে যার মেয়াদ ৫ বছর এবং বার্ষিক নীট নগদ আন্তঃপ্রবাহ ৭০,০০০ টাকা। বাট্টার হার ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬৫,৩৭০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৭৪,৮৯৬ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৮২,৭৬৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯৮,৫৪২ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "PVAF (১০%, ৫ বছর) \\( = 3.791 \\)\nআন্তঃপ্রবাহের বর্তমান মূল্য \\( = 70000 \\times 3.791 = 265370 \\) টাকা\nNPV \\( = 265370 - 200000 = 65370 \\) টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-082",
+      "text": "সাদাদ টেক্সটাইল লিঃ যদি তাদের নীট বর্তমান মূল্য বৃদ্ধি করতে চায় সেক্ষেত্রে—",
+      "text_en": null,
+      "image": null,
+      "stem": "সাদাদ টেক্সটাইল লিঃ একটি মেশিন ২,০০,০০০ টাকায় ক্রয় করে যার মেয়াদ ৫ বছর এবং বার্ষিক নীট নগদ আন্তঃপ্রবাহ ৭০,০০০ টাকা। বাট্টার হার ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-8-9",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নগদ আন্তঃপ্রবাহ বৃদ্ধি করবে"
+        },
+        {
+          "label": "ii",
+          "text": "নগদ বহিঃপ্রবাহ হ্রাস করবে"
+        },
+        {
+          "label": "iii",
+          "text": "বাট্টার হার হ্রাস করবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "আন্তঃপ্রবাহ বাড়ালে, বহিঃপ্রবাহ কমালে এবং বাট্টার হার কমালে NPV বৃদ্ধি পায়; তিনটিই সঠিক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-083",
+      "text": "কর পরবর্তী নিট মুনাফার সাথে কোনটি যোগ করলে নগদ আন্তঃপ্রবাহ পাওয়া যাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মজুদ পণ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবচয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয়কর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাঁচামাল ক্রয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অবচয় নগদ ব্যয় নয়। তাই কর পরবর্তী নিট মুনাফার সাথে অবচয় যোগ করে নগদ আন্তঃপ্রবাহ পাওয়া যায়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-084",
+      "text": "মূলধন বাজেটিং এর প্রধান উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আর্থিক পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দীর্ঘমেয়াদী বিনিয়োগ সিদ্ধান্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্বল্প মেয়াদী বিনিয়োগ সিদ্ধান্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অর্থ সংগ্রহ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূলধন বাজেটিং-এর প্রধান উদ্দেশ্য হলো দীর্ঘমেয়াদি বিনিয়োগ সিদ্ধান্ত গ্রহণ।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-085",
+      "text": "প্রকল্প মূল্যায়নে বাট্টাকৃত নগদ প্রবাহ পদ্ধতিসমূহ হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিট বর্তমান মূল্য পদ্ধতি (NPV)"
+        },
+        {
+          "label": "ii",
+          "text": "গড় মুনাফার হার পদ্ধতি (ARR)"
+        },
+        {
+          "label": "iii",
+          "text": "আন্তঃআয় হার পদ্ধতি (IRR)"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "NPV (i) ও IRR (iii) বাট্টাকৃত নগদ প্রবাহ পদ্ধতি। ARR (ii) অর্থের সময়মূল্য বিবেচনা করে না, তাই বাট্টাকৃত নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-086",
+      "text": "কোনটি বিনিয়োগ সিদ্ধান্ত গ্রহণে সহায়ক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নগদ বাট্টা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন বাজেটিং",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সামাজিক দায়িত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কারবারী বাট্টা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূলধন বাজেটিং দীর্ঘমেয়াদি বিনিয়োগ প্রকল্প মূল্যায়ন করে বিনিয়োগ সিদ্ধান্ত গ্রহণে সহায়তা করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-087",
+      "text": "মূলধন বাজেটিং এর বাট্টাকৃত নগদ প্রবাহ পদ্ধতি নয় কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিশোধ কাল (PBP)",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিট বর্তমান মূল্য (NPV)",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরিণ আয় হার (IRR)",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মুনাফা অর্জন সূচক (PI)",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পরিশোধ কাল (PBP) অর্থের সময়মূল্য বিবেচনা করে না, তাই এটি বাট্টাকৃত পদ্ধতি নয়। NPV, IRR ও PI বাট্টাকৃত পদ্ধতি।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-088",
+      "text": "নিচের কোনটি মূলধন বাজেটিং এর সিদ্ধান্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জ্বালানি ক্রয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মজুদ পণ্য ক্রয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যন্ত্রপাতি ক্রয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কাঁচামাল ক্রয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যন্ত্রপাতি ক্রয় দীর্ঘমেয়াদি স্থায়ী বিনিয়োগ, তাই এটি মূলধন বাজেটিং সিদ্ধান্ত। বাকিগুলো চলতি কার্যক্রমের ব্যয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-089",
+      "text": "উক্ত প্রকল্পের পরিশোধ কাল (PBP) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. রাউফ ৪ বছরের জন্য একটি প্রকল্পে ৫০,০০০ টাকা বিনিয়োগ করেন। উক্ত বিনিয়োগ হতে বার্ষিক নগদ আন্তঃপ্রবাহের পরিমাণ হবে যথাক্রমে ২০,০০০ টাকা, ১৮,০০০ টাকা, ১২,০০০ টাকা এবং ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "২.০০ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২.৫০ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩.০০ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩.৫০ বছর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ক্রমযোজিত প্রবাহ: ১ম বছর ২০,০০০; ২য় ৩৮,০০০; ৩য় ৫০,০০০\n৩ বছরেই ৫০,০০০ টাকা ফেরত আসে, তাই PBP = ৩.০০ বছর।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-090",
+      "text": "পরিশোধ কাল (PBP) কৌশলটির সীমাবদ্ধতা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. রাউফ ৪ বছরের জন্য একটি প্রকল্পে ৫০,০০০ টাকা বিনিয়োগ করেন। উক্ত বিনিয়োগ হতে বার্ষিক নগদ আন্তঃপ্রবাহের পরিমাণ হবে যথাক্রমে ২০,০০০ টাকা, ১৮,০০০ টাকা, ১২,০০০ টাকা এবং ১০,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঝুঁকি বিবেচনা করে না"
+        },
+        {
+          "label": "ii",
+          "text": "অর্থের সময় মূল্য বিবেচনা করে না"
+        },
+        {
+          "label": "iii",
+          "text": "বাট্টাকৃত নগদ প্রবাহ বিবেচনা করে না"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পরিশোধ কাল পদ্ধতি অর্থের সময়মূল্য বিবেচনা করে না এবং বাট্টাকৃত নগদ প্রবাহ ব্যবহার করে না; পাশাপাশি ঝুঁকিও বিবেচনা করে না। তাই তিনটিই এর সীমাবদ্ধতা।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-091",
+      "text": "প্রকল্পটির পে-ব্যাক সময় হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. মুনজ ৫ বছর মেয়াদি একটি প্রকল্পে ৪,০০,০০০ টাকা বিনিয়োগ করেছেন। বার্ষিক আন্তঃপ্রবাহ ১,০০,০০০ টাকা এবং কর পরবর্তী নগদ আন্তঃপ্রবাহের মোট বর্তমান মূল্য ৩,৭৯,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩ বছর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩.৫ বছর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪ বছর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫ বছর",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক সময় \\( = \\frac{400000}{100000} = 4 \\) বছর",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-092",
+      "text": "প্রকল্পটির নিট বর্তমান মূল্য কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. মুনজ ৫ বছর মেয়াদি একটি প্রকল্পে ৪,০০,০০০ টাকা বিনিয়োগ করেছেন। বার্ষিক আন্তঃপ্রবাহ ১,০০,০০০ টাকা এবং কর পরবর্তী নগদ আন্তঃপ্রবাহের মোট বর্তমান মূল্য ৩,৭৯,০০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "−২১,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২১,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৩,০০,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৩,৭৯,০০০",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "NPV = আন্তঃপ্রবাহের বর্তমান মূল্য − বিনিয়োগ\n\\( = 379000 - 400000 = -21000 \\) টাকা",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-093",
+      "text": "কর পূর্ববর্তী মুনাফা থেকে কর বাদ দেওয়ার পর নিচের কোনটি পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "EAT",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "EBT",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "CFBT",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "CFAT",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কর পূর্ববর্তী মুনাফা (EBT) থেকে কর বাদ দিলে কর পরবর্তী আয় (EAT) পাওয়া যায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-094",
+      "text": "মূলধন বাজেটিং এর ধাপগুলো হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রকল্প নির্বাচন"
+        },
+        {
+          "label": "ii",
+          "text": "প্রকল্প মূল্যায়ন"
+        },
+        {
+          "label": "iii",
+          "text": "প্রকল্প উদ্ভাবন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মূলধন বাজেটিং-এর ধাপ: প্রকল্প উদ্ভাবন, নির্বাচন, মূল্যায়ন ও বাস্তবায়ন। তিনটিই ধাপ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-095",
+      "text": "IRR নির্ণয়ের জন্য কমপক্ষে কয়টি বাট্টার হার প্রয়োজন হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "IRR নির্ণয়ে ইন্টারপোলেশনের জন্য অন্তত দুটি বাট্টার হার লাগে, একটি যার NPV ধনাত্মক ও অন্যটি যার NPV ঋণাত্মক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-096",
+      "text": "কোনটি প্রকল্প মূল্যায়নের গ্রহণযোগ্য মানদণ্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "IRR",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "NPV",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ARR",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "PBP",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "NPV অর্থের সময়মূল্য বিবেচনা করে ও সম্পদ সর্বোচ্চকরণ লক্ষ্যের সাথে সামঞ্জস্যপূর্ণ হওয়ায় এটি প্রকল্প মূল্যায়নের গ্রহণযোগ্য মানদণ্ড।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-097",
+      "text": "মূলধন বাজেটিং এর প্রধান কাজ হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বিনিয়োগ মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাজেট মূল্যায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বিনিয়োগ বৃদ্ধি",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মূলধন বাজেটিং-এর প্রধান কাজ বিনিয়োগ প্রকল্পসমূহ মূল্যায়ন করে সেরা প্রকল্প নির্বাচন করা।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-098",
+      "text": "IRR নির্ণয়ের সময় NPV ঋণাত্মক হলে কীভাবে ধনাত্মক করা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বাট্টার হার অপরিবর্তিত রেখে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাট্টার হার শূন্য ধরে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাট্টার হার কমিয়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাট্টার হার বাড়িয়ে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বাট্টার হার কমালে আন্তঃপ্রবাহের বর্তমান মূল্য বাড়ে, ফলে ঋণাত্মক NPV ধনাত্মক হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-099",
+      "text": "কোন ধরনের প্রকল্পের ক্ষেত্রে একটি অন্যটির সাথে প্রতিযোগিতা করে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বাধীন প্রকল্প",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরস্পর বর্জনশীল প্রকল্প",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নির্ভরশীল প্রকল্প",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দীর্ঘমেয়াদি প্রকল্প",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "স্বাধীন প্রকল্পে একটি গ্রহণ বা বর্জন অন্যটিকে প্রভাবিত করে না, তাই এরা পরস্পর প্রতিযোগিতা করে না।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-100",
+      "text": "জনাব 'ক' প্রকল্প 'A' তে বিনিয়োগ করলে কত সময়ে মূলধন ফেরত আসবে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'ক' একজন বিনিয়োগকারী। তিনি নিচের দুটি প্রকল্প থেকে যে কোনো একটি প্রকল্পে বিনিয়োগ করতে চান। প্রকল্প A: প্রাথমিক বিনিয়োগ ৬০০০ টাকা, নগদ আন্তঃপ্রবাহ ১৫০০ টাকা, নিট বর্তমান মূল্য ১০০০ টাকা, আন্তঃ আয়ের হার ২০%। প্রকল্প B: প্রাথমিক বিনিয়োগ ৮০০০ টাকা, নগদ আন্তঃপ্রবাহ ১৫০০ টাকা, নিট বর্তমান মূল্য ১৫০০ টাকা, আন্তঃ আয়ের হার ১৫%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "৩ বছরে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪ বছরে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫ বছরে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬ বছরে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পে-ব্যাক সময় \\( = \\frac{6000}{1500} = 4 \\) বছর",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-101",
+      "text": "উদ্দীপকে জনাব 'ক' যে বিনিয়োগ সিদ্ধান্ত গ্রহণ করতে পারেন তা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব 'ক' একজন বিনিয়োগকারী। তিনি নিচের দুটি প্রকল্প থেকে যে কোনো একটি প্রকল্পে বিনিয়োগ করতে চান। প্রকল্প A: প্রাথমিক বিনিয়োগ ৬০০০ টাকা, নগদ আন্তঃপ্রবাহ ১৫০০ টাকা, নিট বর্তমান মূল্য ১০০০ টাকা, আন্তঃ আয়ের হার ২০%। প্রকল্প B: প্রাথমিক বিনিয়োগ ৮০০০ টাকা, নগদ আন্তঃপ্রবাহ ১৫০০ টাকা, নিট বর্তমান মূল্য ১৫০০ টাকা, আন্তঃ আয়ের হার ১৫%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "PBP অনুযায়ী প্রকল্প- B গ্রহণযোগ্য"
+        },
+        {
+          "label": "ii",
+          "text": "NPV অনুযায়ী প্রকল্প- B গ্রহণযোগ্য"
+        },
+        {
+          "label": "iii",
+          "text": "IRR অনুযায়ী প্রকল্প- A গ্রহণযোগ্য"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "A-এর PBP ৪ বছর, B-এর \\( 8000/1500 \\approx 5.33 \\) বছর; PBP অনুযায়ী A গ্রহণযোগ্য, তাই i ভুল।\nNPV: B (১,৫০০) > A (১,০০০), তাই ii সঠিক।\nIRR: A (২০%) > B (১৫%), তাই iii সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-102",
+      "text": "মূলধন বাজেটিং এর কোন পদ্ধতিটি অধিক গ্রহণযোগ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মূলধন ফেরতকাল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গড় আয়ের হার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিট বর্তমান মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আন্তঃ আয়ের হার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "NPV অর্থের সময়মূল্য ও প্রকল্পের পুরো জীবনের নগদ প্রবাহ বিবেচনা করে এবং সম্পদ সর্বোচ্চকরণ নিশ্চিত করে, তাই এটি অধিক গ্রহণযোগ্য।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch8-mcq-103",
+      "text": "যদি 'X' প্রতিষ্ঠানের মুনাফা অর্জন সূচক ২.৫ এবং প্রাথমিক বিনিয়োগ ৩০,০০০ টাকা হয় তবে, উক্ত প্রতিষ্ঠানের নিট বর্তমান মূল্য কত টাকা হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "২৫,০০০",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩৫,০০০",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫,০০০",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭৫,০০০",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "derived",
+      "explanation": "\\( PI = \\frac{\\text{আন্তঃপ্রবাহের বর্তমান মূল্য}}{\\text{বিনিয়োগ}} \\Rightarrow PV = 2.5 \\times 30000 = 75000 \\)\nNPV \\( = 75000 - 30000 = 45000 \\) টাকা",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "পোস্টারের চিহ্ন (ঘ) ৭৫,০০০ — এটি নগদ আন্তঃপ্রবাহের বর্তমান মূল্য (২.৫ × ৩০,০০০)। নিট বর্তমান মূল্য = ৭৫,০০০ − ৩০,০০০ = ৪৫,০০০ টাকা (গ)।"
+    },
+    {
+      "id": "finance_1st-ch8-mcq-104",
+      "text": "কর পরবর্তী নগদ প্রবাহ হতে অবচয় বাদ দিলে কোনটি থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "করপূর্ব আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর পরবর্তী আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "করপূর্ব নগদ প্রবাহ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবচয় ও করপূর্ব আয়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কর পরবর্তী নগদ প্রবাহ = কর পরবর্তী আয় + অবচয়। তাই অবচয় বাদ দিলে কর পরবর্তী আয় থাকে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

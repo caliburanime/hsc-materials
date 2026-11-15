@@ -2260,6 +2260,14 @@
         "qno": 26,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "JB",
+          "year": "2025",
+          "qno": 17,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2373,6 +2381,2173 @@
         "board": "DIB",
         "year": "2023",
         "qno": 13
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-057",
+      "text": "ব্যবসায় প্রতিষ্ঠানের স্থায়ী সম্পত্তি ক্রয় ও বিনিয়োগের উদ্দেশ্যে সংগৃহীত তহবিলকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "স্বল্প মেয়াদী অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্য মেয়াদী অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দীর্ঘ মেয়াদী অর্থায়ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চলতি মূলধনের অর্থায়ন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "স্থায়ী সম্পত্তি ক্রয় ও বিনিয়োগের জন্য সংগৃহীত তহবিল দীর্ঘ মেয়াদী অর্থায়ন।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-058",
+      "text": "ট্রেজারি বন্ড ইস্যু করে কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কেন্দ্রীয় ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাণিজ্যিক ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কোম্পানী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরকার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বন্ড সরকার ইস্যু করে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-059",
+      "text": "উদ্দীপকে উল্লিখিত ABC লিঃ এর ইস্যুকৃত বন্ডের বর্তমান মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ ফয়সাল ABC লিমিটেড এর ইস্যুকৃত ১,০০০ টাকা লিখিত মূল্যের ৫ বছর মেয়াদি বন্ডে বিনিয়োগ করেছেন। তার প্রত্যাশিত আয়ের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-BB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫৬৭",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৫৮৯",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬১৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬৬৮",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বন্ডের বর্তমান মূল্য = \\( \\frac{1000}{(1.12)^5} = \\frac{1000}{1.7623} \\approx 567 \\) টাকা (কুপন সুদ উল্লেখ নেই, তাই জিরো কুপন ধরা হয়েছে)।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-060",
+      "text": "ABC লিঃ এর ইস্যুকৃত বন্ডকে কী বন্ড বলে?",
+      "text_en": null,
+      "image": null,
+      "stem": "মিঃ ফয়সাল ABC লিমিটেড এর ইস্যুকৃত ১,০০০ টাকা লিখিত মূল্যের ৫ বছর মেয়াদি বন্ডে বিনিয়োগ করেছেন। তার প্রত্যাশিত আয়ের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-BB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিরো কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাঙ্ক বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বন্ডে কোনো কুপন সুদ উল্লেখ নেই; শুধু মেয়াদ শেষে অভিহিত মূল্য পরিশোধ হয়। এটি জিরো কুপন বন্ড।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-061",
+      "text": "তহবিল সংগ্রহের জন্য অভ্যন্তরীণ উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পাওনাদার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবসায় ঋণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যাংক ঋণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অবচয় সঞ্চিতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অবচয় সঞ্চিতি প্রতিষ্ঠানের নিজস্ব অভ্যন্তরীণ উৎস। পাওনাদার, ব্যবসায় ঋণ ও ব্যাংক ঋণ বাহ্যিক উৎস।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-062",
+      "text": "দীর্ঘ মেয়াদি অর্থায়নের অভ্যন্তরীণ উৎস হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সাধারণ শেয়ার"
+        },
+        {
+          "label": "ii",
+          "text": "অবণ্টিত মুনাফা"
+        },
+        {
+          "label": "iii",
+          "text": "অবচয় তহবিল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অবণ্টিত মুনাফা ও অবচয় তহবিল দীর্ঘমেয়াদি অভ্যন্তরীণ উৎস। সাধারণ শেয়ার বিক্রি বাহ্যিক উৎস।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-063",
+      "text": "নিট আয়ের যে অংশ শেয়ার মালিকদের মধ্যে বণ্টন করা হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংরক্ষিত তহবিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "লভ্যাংশ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মোট মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নীট মুনাফা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নিট আয়ের যে অংশ শেয়ারমালিকদের মধ্যে বণ্টন করা হয় তাকে লভ্যাংশ বলে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-064",
+      "text": "নিচের কোনটি হাইব্রিড সিকিউরিটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অগ্রাধিকার শেয়ারে সাধারণ শেয়ারের (মালিকানা) ও ঋণপত্রের (নির্দিষ্ট আয়) বৈশিষ্ট্য থাকে, তাই এটি হাইব্রিড সিকিউরিটি।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-065",
+      "text": "বন্ড থেকে প্রাপ্তি নির্ণয়ের পদ্ধতি হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মেয়াদ পূর্তিতে আয়ের হার"
+        },
+        {
+          "label": "ii",
+          "text": "তলব সময় পর্যন্ত আয়ের হার"
+        },
+        {
+          "label": "iii",
+          "text": "চলতি আয়ের হার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বন্ড থেকে আয় মেয়াদ পূর্তিতে আয়ের হার (YTM), তলব সময় পর্যন্ত আয়ের হার (YTC) ও চলতি আয়ের হার (CY) দ্বারা নির্ণয় করা হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-066",
+      "text": "বন্ডের মেয়াদ পূর্তিতে আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সৈয়দ ২০০০ টাকা লিখিত মূল্যের বন্ড ক্রয় করেন, যার বাজার মূল্য ৭২০ টাকা। মেয়াদ ১০ বছর এবং কুপন হার ৭%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯.৭০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "২০.২১%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "২১.১৭%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২৪.২২%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কুপন সুদ = ২০০০ × ৭% = ১৪০ টাকা\n\\( YTM \\approx \\frac{140 + \\frac{2000-720}{10}}{\\frac{2000+720}{2}} = \\frac{140+128}{1360} = \\frac{268}{1360} \\approx 19.70\\% \\)",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-067",
+      "text": "জনাব সৈয়দের বন্ডটি ক্রয়ের যৌক্তিকতা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সৈয়দ ২০০০ টাকা লিখিত মূল্যের বন্ড ক্রয় করেন, যার বাজার মূল্য ৭২০ টাকা। মেয়াদ ১০ বছর এবং কুপন হার ৭%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CB-27-28",
+      "statements": [
+        {
+          "label": "i",
+          "text": "নিশ্চিত সুদ প্রাপ্তি"
+        },
+        {
+          "label": "ii",
+          "text": "বিনিয়োগকৃত অর্থ প্রাপ্তির নিশ্চয়তা"
+        },
+        {
+          "label": "iii",
+          "text": "কোম্পানির মালিকানা লাভ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বন্ডে নির্দিষ্ট হারে সুদ পাওয়া যায় (i) এবং মেয়াদ শেষে আসল ফেরত পাওয়া যায় (ii)। বন্ড ঋণপত্র, তাই কোম্পানির মালিকানা পাওয়া যায় না (iii ভুল)।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-068",
+      "text": "অপরিশোধিত বন্ড হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "জাঙ্ক বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পুট বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চিরস্থায়ী বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চিরস্থায়ী বন্ডের কোনো মেয়াদ নেই, আসল পরিশোধ করা হয় না, তাই এটি অপরিশোধিত বন্ড।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-069",
+      "text": "ঋণপত্রে সুনির্দিষ্টভাবে উল্লেখ থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সুদের হার"
+        },
+        {
+          "label": "ii",
+          "text": "পরিশোধের সময়"
+        },
+        {
+          "label": "iii",
+          "text": "লভ্যাংশের পরিমাণ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণপত্রে সুদের হার ও পরিশোধের সময় নির্দিষ্ট থাকে। লভ্যাংশ শেয়ারের ক্ষেত্রে প্রযোজ্য।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-070",
+      "text": "কোন বন্ডে সুদের হার উল্লেখ থাকে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চিরস্থায়ী বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিরো কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয় বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মেয়াদী বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জিরো কুপন বন্ডে কোনো নির্দিষ্ট সুদ (কুপন) থাকে না; এটি অবহারে বিক্রি হয় এবং মেয়াদ শেষে অভিহিত মূল্য পরিশোধ করা হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-071",
+      "text": "কোম্পানি কর্তৃক ইস্যুকৃত বন্ডকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্পোরেট বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মিউনিসিপ্যাল বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জাঙ্ক বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "কোম্পানি কর্তৃক ইস্যুকৃত বন্ড কর্পোরেট বন্ড।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-072",
+      "text": "কমি লিঃ এর বন্ডের চলতি আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "কমি লিঃ ১২% কুপন হারে বন্ড ইস্যু করেছে, যার অভিহিত মূল্য ১,০০০ টাকা। বন্ডের বর্তমান বাজার মূল্য ১,২০০ টাকা। প্রয়োজনীয় আয়ের হার ১১%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "১২%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৯%",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চলতি আয়ের হার = \\( \\frac{\\text{বার্ষিক কুপন সুদ}}{\\text{বাজার মূল্য}} = \\frac{120}{1200} = 10\\% \\)",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-073",
+      "text": "প্রয়োজনীয় আয়ের হার হ্রাস পেয়ে ৭% হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "কমি লিঃ ১২% কুপন হারে বন্ড ইস্যু করেছে, যার অভিহিত মূল্য ১,০০০ টাকা। বন্ডের বর্তমান বাজার মূল্য ১,২০০ টাকা। প্রয়োজনীয় আয়ের হার ১১%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-CUB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বন্ডের অন্তর্নিহিত মূল্য বৃদ্ধি পাবে"
+        },
+        {
+          "label": "ii",
+          "text": "বন্ডে বিনিয়োগ লাভজনক হবে"
+        },
+        {
+          "label": "iii",
+          "text": "বন্ডে সুদের পরিমাণ হ্রাস পাবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রয়োজনীয় আয়ের হার কমলে বন্ডের অন্তর্নিহিত মূল্য বাড়ে (i) এবং কুপন হার (১২%) প্রয়োজনীয় হারের (৭%) চেয়ে বেশি হওয়ায় বিনিয়োগ লাভজনক (ii)। কুপন সুদ নির্দিষ্ট থাকে, তাই সুদ কমে না (iii ভুল)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-074",
+      "text": "সুদের হার ও বন্ডের মূল্যের মধ্যে কোন ধরনের সম্পর্ক বিদ্যমান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধনাত্মক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ঋণাত্মক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমানুপাতিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিরপেক্ষ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সুদের হার বাড়লে বন্ডের মূল্য কমে এবং হার কমলে বন্ডের মূল্য বাড়ে। তাই সম্পর্ক ঋণাত্মক।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-075",
+      "text": "সাধারণ শেয়ারহোল্ডারগণ মুনাফার অংশ পাবেন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ঋণপত্রের ধারকদের সুদ প্রদানের পর"
+        },
+        {
+          "label": "ii",
+          "text": "অগ্রাধিকার লভ্যাংশ প্রদানের পর"
+        },
+        {
+          "label": "iii",
+          "text": "রাষ্ট্রীয় কর পরিশোধের পর"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাধারণ শেয়ারহোল্ডারগণ ঋণপত্রের সুদ, কর এবং অগ্রাধিকার লভ্যাংশ পরিশোধের পর অবশিষ্ট মুনাফার অংশ পান।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-076",
+      "text": "প্রতিষ্ঠানটি তাদের প্রয়োজনীয় তহবিল সংগ্রহের জন্য—",
+      "text_en": null,
+      "image": null,
+      "stem": "GMC একটি রপ্তানিমুখী প্রতিষ্ঠান। তাদের কার্যক্রম সম্প্রসারণের লক্ষ্যে একটি নতুন প্লান্ট স্থাপন করতে চায় যার জন্য বড় তহবিল প্রয়োজন।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "শেয়ার ইস্যু করতে পারে"
+        },
+        {
+          "label": "ii",
+          "text": "ঋণপত্র ইস্যু করতে পারে"
+        },
+        {
+          "label": "iii",
+          "text": "বাণিজ্যিক পত্র ইস্যু করতে পারে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্ল্যান স্থাপনের মতো বড় দীর্ঘমেয়াদি তহবিলের জন্য শেয়ার ও ঋণপত্র ইস্যু করা যায়। বাণিজ্যিক পত্র স্বল্পমেয়াদি অর্থায়নের উৎস।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-077",
+      "text": "YTM এর পূর্ণরূপ কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Year to Month",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Yield to Maturity",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Year to Maturity",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Yield to Month",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "YTM এর পূর্ণরূপ Yield to Maturity (মেয়াদ পূর্তিতে আয়ের হার)।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-078",
+      "text": "দীর্ঘ মেয়াদী অর্থায়নের উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রেজারি বিল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বাণিজ্যিক ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বাণিজ্যিক কাগজ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ট্রেজারি বন্ড দীর্ঘমেয়াদি অর্থায়নের উৎস। ট্রেজারি বিল ও বাণিজ্যিক কাগজ স্বল্পমেয়াদি।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-079",
+      "text": "যদি বিনিয়োগকারীর বন্ডের প্রত্যাশিত আয়ের হার ৮% হতে ১০% এ উন্নীত হয় তবে বন্ডের অন্তর্নিহিত মূল্যের উপর কী প্রভাব পড়বে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বৃদ্ধি পাবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হ্রাস পাবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অপরিবর্তিত থাকবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "দ্বিগুণ হবে",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "প্রত্যাশিত আয়ের হার বাড়লে বন্ডের ভবিষ্যৎ নগদ প্রবাহের বর্তমান মূল্য কমে, তাই অন্তর্নিহিত মূল্য হ্রাস পায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-080",
+      "text": "মি. 'ক' কোন ধরনের শেয়ার কিনেছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. 'ক' ABC লি. এর ১০০টি শেয়ার প্রতিটি ১০ টাকা করে ১,০০০ টাকায় ক্রয় করেন। তিনি ক্রয়কৃত শেয়ারের উপর নির্দিষ্ট হারে লভ্যাংশ পেলেও কোম্পানির পরিচালনায় অংশ গ্রহণ করতে পারেননি। তাছাড়া পরিচালক নিয়োগে তিনি ভোটও দিতে পারেন না।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নির্দিষ্ট হারে লভ্যাংশ পায় কিন্তু ভোটাধিকার ও পরিচালনায় অংশ নেই, এগুলো অগ্রাধিকার শেয়ারের বৈশিষ্ট্য।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-081",
+      "text": "মি. 'ক' তার ক্রয়কৃত শেয়ার কীসে রূপান্তর করতে পারেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. 'ক' ABC লি. এর ১০০টি শেয়ার প্রতিটি ১০ টাকা করে ১,০০০ টাকায় ক্রয় করেন। তিনি ক্রয়কৃত শেয়ারের উপর নির্দিষ্ট হারে লভ্যাংশ পেলেও কোম্পানির পরিচালনায় অংশ গ্রহণ করতে পারেননি। তাছাড়া পরিচালক নিয়োগে তিনি ভোটও দিতে পারেন না।",
+      "stem_image": null,
+      "group": "finance_1st-2025-DIB-9-10",
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অগ্রাধিকার শেয়ার (রূপান্তরযোগ্য হলে) সাধারণ শেয়ারে রূপান্তর করা যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-082",
+      "text": "নিচের কোনটি শংকরজাতীয় সিকিউরিটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অগ্রাধিকার শেয়ারে সাধারণ শেয়ারের ও ঋণপত্রের উভয় বৈশিষ্ট্য থাকে, তাই এটি শংকরজাতীয় সিকিউরিটি।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-083",
+      "text": "সরকারি বন্ডের প্রদত্ত সুদের হারকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরল সুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চক্রবৃদ্ধি সুদ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুপন সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ঝুঁকিমুক্ত সুদ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সরকারি বন্ডে ঋণখেলাপির ঝুঁকি নেই বলে এর সুদের হারকে ঝুঁকিমুক্ত সুদের হার বলে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-084",
+      "text": "শাপলা লিঃ এর বন্ডের চলতি আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "শাপলা লিঃ বাজারে ১২% সুদে ১০০০ টাকা সমমূল্যের বন্ড ইস্যু করেছে। যার বর্তমান বাজার মূল্য ১২০০ টাকা। বিনিয়োগকারীর প্রয়োজনীয় আয়ের হার ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "১০%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১১%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১২%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৩%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চলতি আয়ের হার = \\( \\frac{1000 \\times 12\\%}{1200} = \\frac{120}{1200} = 10\\% \\)",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-085",
+      "text": "বিনিয়োগকারীর প্রত্যাশিত আয়ের হার ৮% হলে শাপলা লিঃ এর বন্ডের অন্তর্নিহিত মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "শাপলা লিঃ বাজারে ১২% সুদে ১০০০ টাকা সমমূল্যের বন্ড ইস্যু করেছে। যার বর্তমান বাজার মূল্য ১২০০ টাকা। বিনিয়োগকারীর প্রয়োজনীয় আয়ের হার ১০%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-JB-2-3",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭৪১ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৮৭৮ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৯৫৬ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বার্ষিক সুদ = ১২০ টাকা। বন্ডটিকে চিরস্থায়ী ধরলে\n\\( V = \\frac{120}{0.08} = 1500 \\) টাকা",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-086",
+      "text": "দীর্ঘমেয়াদি অর্থায়নের অভ্যন্তরীণ উৎস কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অবচয় তহবিল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সংরক্ষিত মুনাফা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সংরক্ষিত মুনাফা কোম্পানির নিজস্ব অভ্যন্তরীণ উৎস। (খ) অবচয় তহবিলও অভ্যন্তরীণ উৎস; সাধারণ ও অগ্রাধিকার শেয়ার বাহ্যিক উৎস।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null,
+      "review_note": "উত্তর যাচাই: (খ) অবচয় তহবিল ও (গ) সংরক্ষিত মুনাফা দুটিই দীর্ঘমেয়াদি অর্থায়নের অভ্যন্তরীণ উৎস (একই অধ্যায়ের অন্য প্রশ্নেও অবচয় তহবিলকে অভ্যন্তরীণ উৎস ধরা হয়েছে), তাই একাধিক সঠিক উত্তর আছে।"
+    },
+    {
+      "id": "finance_1st-ch6-mcq-087",
+      "text": "যদি বন্ডের YTM কুপন সুদের হার থেকে কম হয় তাহলে বন্ডের বাজার মূল্য অভিহিত মূল্য থেকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বেশি হবে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কম হবে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমান হবে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমতুল্য হবে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "YTM কুপন হারের চেয়ে কম হলে বন্ড বেশি সুদ দিচ্ছে বলে বিনিয়োগকারীরা বেশি দাম দিতে রাজি থাকে, ফলে বাজার মূল্য অভিহিত মূল্যের চেয়ে বেশি (প্রিমিয়ামে) হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-088",
+      "text": "কোন বন্ডটি সাধারণত অবহারে বিক্রয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিরো কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কল বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জিরো কুপন বন্ডে সুদ দেওয়া হয় না; সুদের পরিবর্তে অভিহিত মূল্যের চেয়ে কম দামে (অবহারে) বিক্রি করা হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-089",
+      "text": "বন্ডের বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "স্থায়ী সম্পদ জামানত রাখা"
+        },
+        {
+          "label": "ii",
+          "text": "নির্দিষ্ট হারে সুদ প্রদান"
+        },
+        {
+          "label": "iii",
+          "text": "দায় পরিশোধে অগ্রাধিকার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বন্ডে স্থায়ী সম্পদ জামানত থাকতে পারে, নির্দিষ্ট হারে সুদ দিতে হয় এবং দায় পরিশোধে শেয়ারহোল্ডারদের আগে অগ্রাধিকার পায়। তাই i, ii ও iii সবই সঠিক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-090",
+      "text": "YTM এর পূর্ণরূপ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Yield to Minority",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "Yield to Maternity",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Yield to Month",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Yield to Maturity",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "YTM এর পূর্ণরূপ Yield to Maturity।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-091",
+      "text": "রাহী লি. প্রতিটি ১,০০০ টাকা মূল্যের ১০% কুপন রেটে চিরস্থায়ী বন্ড ইস্যু করেছে। কোম্পানির প্রয়োজনীয় আয়ের হার ১২% বন্ডটির বর্তমান মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৭৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৮৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৯৩৩.৩৩ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১,০৩৩.৩৩ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চিরস্থায়ী বন্ডের মূল্য = \\( \\frac{\\text{বার্ষিক সুদ}}{\\text{আয়ের হার}} = \\frac{100}{0.12} = 833.33 \\) টাকা (সুদ = ১০০০ × ১০% = ১০০)।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-092",
+      "text": "বন্ডটির চলতি আয়ের হার (CY) কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "NSRM বাংলাদেশের একটি রড উৎপাদনকারী প্রতিষ্ঠান। তারা ১২% সুদে ১০ বছর মেয়াদি বন্ড ইস্যু করে। বন্ডটির অভিহিত মূল্য ১,০০০ টাকা এবং বাজারমূল্য ৯৮০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "১১.২৪%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১২.২৪%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৩.২৪%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৪.২৪%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "চলতি আয়ের হার = \\( \\frac{120}{980} \\times 100 = 12.24\\% \\)",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-093",
+      "text": "NSRM এর ইস্যুকৃত বন্ডটি কোন ধরনের বন্ড?",
+      "text_en": null,
+      "image": null,
+      "stem": "NSRM বাংলাদেশের একটি রড উৎপাদনকারী প্রতিষ্ঠান। তারা ১২% সুদে ১০ বছর মেয়াদি বন্ড ইস্যু করে। বন্ডটির অভিহিত মূল্য ১,০০০ টাকা এবং বাজারমূল্য ৯৮০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-MB-16-17",
+      "options": [
+        {
+          "label": "a",
+          "text": "জিরো কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ট্রেজারী বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্পোরেট বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মর্টগেজ বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "কোম্পানি (NSRM) কর্তৃক ইস্যুকৃত বন্ড হওয়ায় এটি কর্পোরেট বন্ড।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-094",
+      "text": "নিয়মিত নির্দিষ্ট আয় প্রত্যাশীদের জন্য কোন বিনিয়োগটি সর্বোত্তম?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ঋণপত্রে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "জিরো কুপন বন্ডে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সাধারণ শেয়ারে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অগ্রাধিকার শেয়ারে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ঋণপত্রে নির্দিষ্ট হারে নিয়মিত সুদ পাওয়া যায়, তাই নিয়মিত নির্দিষ্ট আয় প্রত্যাশীদের জন্য এটি সর্বোত্তম। জিরো কুপন বন্ডে নিয়মিত আয় নেই।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-095",
+      "text": "মেয়াদ পূর্তির আগে কোন ধরনের বন্ডের টাকা পরিশোধ করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শূন্য কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তলবি বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "জাঙ্ক বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আয় বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "তলবি (কলযোগ্য) বন্ড ইস্যুকারী মেয়াদ পূর্তির আগেই পরিশোধ করে ডেকে নিতে পারে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-096",
+      "text": "কোন ধরনের শেয়ার হতে নির্দিষ্ট হারে আয় পাওয়া যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অগ্রাধিকার শেয়ার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সাধারণ শেয়ার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাইট শেয়ার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বোনাস শেয়ার",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অগ্রাধিকার শেয়ারে নির্দিষ্ট হারে লভ্যাংশ পাওয়া যায়, সাধারণ শেয়ারে লভ্যাংশের হার নির্দিষ্ট নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-097",
+      "text": "কোম্পানি কর্তৃক ইস্যুকৃত বন্ডটির নাম কী?",
+      "text_en": null,
+      "image": null,
+      "stem": "'শাপলা' একটি পোশাক উৎপাদনকারী কোম্পানি। উক্ত কোম্পানি দীর্ঘমেয়াদি অর্থায়নের উদ্দেশ্যে ২,০০০ টাকা মূল্যের ১০ বছর মেয়াদি বন্ড ইস্যু করে। বন্ডের বাজার মূল্য ১৫০০ টাকা। কুপন সুদের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "ট্রেজারি বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মর্টগেজ বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্পোরেট বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কোম্পানি ইস্যুকৃত বন্ড হওয়ায় এটি কর্পোরেট বন্ড।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-098",
+      "text": "মেয়াদ পূর্তিতে বন্ডটির আয়ের হার কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "'শাপলা' একটি পোশাক উৎপাদনকারী কোম্পানি। উক্ত কোম্পানি দীর্ঘমেয়াদি অর্থায়নের উদ্দেশ্যে ২,০০০ টাকা মূল্যের ১০ বছর মেয়াদি বন্ড ইস্যু করে। বন্ডের বাজার মূল্য ১৫০০ টাকা। কুপন সুদের হার ১২%।",
+      "stem_image": null,
+      "group": "finance_1st-2025-RB-14-15",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৭.৫৭%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৬.৫৭%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫.৫৭%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৪.৫৭%",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আয়ের হার (YTM) ≈ \\( \\frac{I + (F-P)/n}{(F+P)/2} \\)\nবার্ষিক সুদ \\( I = 2000 \\times 12\\% = 240 \\) টাকা\n\\( = \\frac{240 + (2000-1500)/10}{(2000+1500)/2} = \\frac{290}{1750} = 16.57\\% \\)",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-099",
+      "text": "কোম্পানির দিক থেকে বন্ডের ইতিবাচক দিক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "নির্দিষ্ট ব্যয়"
+        },
+        {
+          "label": "ii",
+          "text": "মূলধন ব্যয় হ্রাস"
+        },
+        {
+          "label": "iii",
+          "text": "করের সুবিধা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "বন্ডে সুদ নির্দিষ্ট থাকে (i), বন্ডের ব্যয় শেয়ার মূলধনের তুলনায় কম হওয়ায় মূলধন ব্যয় হ্রাস পায় (ii) এবং বন্ডের সুদ করযোগ্য আয় থেকে বাদ যায় বলে করের সুবিধা পাওয়া যায় (iii)। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-100",
+      "text": "নিচের কোনটি প্রত্যক্ষ ব্যয়মুক্ত বন্ড?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিরাপত্তামূলক বন্ড",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শূন্য কুপন বন্ড",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আয় বন্ড",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "চিরস্থায়ী বন্ড",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শূন্য কুপন বন্ডে নিয়মিত সুদ (কুপন) দেওয়া হয় না; বন্ডটি অবমূল্যে বিক্রি হয় এবং মেয়াদ শেষে অভিহিত মূল্য পরিশোধ করা হয়, তাই এতে প্রত্যক্ষ সুদ ব্যয় থাকে না।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-101",
+      "text": "চিরস্থায়ী বন্ডের ক্ষেত্রে বার্ষিক সুদের পরিমাণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমহারে বৃদ্ধি পায়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অসমান হয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমহারে হ্রাস পায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমান হয়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চিরস্থায়ী বন্ডের মেয়াদ নেই এবং প্রতি বছর একই পরিমাণ সুদ অনির্দিষ্টকাল পর্যন্ত দেওয়া হয়, তাই বার্ষিক সুদের পরিমাণ সমান থাকে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-102",
+      "text": "নিমজ্জমান তহবিল কোন প্রকার অর্থসংস্থান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রাতিষ্ঠানিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অপ্রাতিষ্ঠানিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অভ্যন্তরীণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বাহ্যিক",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিমজ্জমান তহবিল (Sinking Fund) প্রতিষ্ঠান নিজের আয় থেকে সঞ্চিত করে, তাই এটি অভ্যন্তরীণ অর্থসংস্থান।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-103",
+      "text": "কোন অবস্থায় বন্ড ক্রয় করা লাভজনক?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "বর্তমান মূল্য, বাজার মূল্য অপেক্ষা বেশি হলে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বর্তমান মূল্য, বাজার মূল্যের সমান হলে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বর্তমান মূল্য, বাজার মূল্য অপেক্ষা কম হলে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "বর্তমান মূল্য, বাজার মূল্যের সমান ও কম হলে",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বন্ডের বর্তমান (অন্তর্নিহিত) মূল্য বাজার মূল্যের চেয়ে বেশি হলে বন্ডটি অবমূল্যায়িত থাকে, অর্থাৎ কম দামে বেশি মূল্যের বন্ড পাওয়া যায়, তাই ক্রয় লাভজনক।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-104",
+      "text": "কোনো প্রতিষ্ঠানের লভ্যাংশের পরিমাণ বৃদ্ধি পেলে কোনটি হ্রাস পাবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মুনাফা অর্জন ক্ষমতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংরক্ষিত আয়ের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শেয়ারের বাজার মূল্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সম্পদ সর্বোচ্চকরণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "লভ্যাংশ বেশি দিলে মুনাফার যে অংশ ধরে রাখা হয় তা কমে যায়, ফলে সংরক্ষিত আয় হ্রাস পায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-105",
+      "text": "কোন চিরস্থায়ী বন্ডের বর্তমান মূল্য অধিক হবে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সুদ ১০০ টাকা এবং প্রত্যাশিত আয়ের হার ১১%",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সুদ ১১০ টাকা এবং প্রত্যাশিত আয়ের হার ১৬%",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদ ১২০ টাকা এবং প্রত্যাশিত আয়ের হার ১৪%",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সুদ ৯০ টাকা এবং প্রত্যাশিত আয়ের হার ১২%",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "চিরস্থায়ী বন্ডের বর্তমান মূল্য \\( = \\frac{\\text{সুদ}}{\\text{আয়ের হার}} \\)\n(ক) \\( 100/0.11 \\approx 909 \\); (খ) \\( 110/0.16 = 687.5 \\); (গ) \\( 120/0.14 \\approx 857 \\); (ঘ) \\( 90/0.12 = 750 \\)\nসর্বোচ্চ মূল্য (ক)-এ।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-106",
+      "text": "'A' লি. এর বন্ডের অন্তর্নিহিত মূল্য কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "'A' লি. প্রতিটি ৫,০০০ টাকা মূল্যের ১০ বছর মেয়াদি বন্ড ইস্যু করে যার বাজার মূল্য ৩,০০০ টাকা এবং প্রত্যাশিত আয়ের হার ১০%। আবার 'B' লি. এর বন্ডের বাজার মূল্য ১,০০০ টাকা এবং বর্তমান মূল্য ৯০০ টাকা। এছাড়া 'C' লি. এর বন্ডের বাজারমূল্য ১,২৫০ টাকা এবং অন্তর্নিহিত মূল্য ১,৩০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "১৯২৭",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০০৭",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫০২৭",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৮০৩৪",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "কুপন সুদের কথা না থাকায় বন্ডটি শূন্য কুপন ধরে অন্তর্নিহিত মূল্য \\( = \\frac{5000}{(1+0.10)^{10}} = 5000 \\times 0.3855 \\approx 1927 \\) টাকা।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch6-mcq-107",
+      "text": "উদ্দীপকের আলোকে একজন বিনিয়োগকারীর জন্য কোন বন্ড ক্রয় করা উত্তম?",
+      "text_en": null,
+      "image": null,
+      "stem": "'A' লি. প্রতিটি ৫,০০০ টাকা মূল্যের ১০ বছর মেয়াদি বন্ড ইস্যু করে যার বাজার মূল্য ৩,০০০ টাকা এবং প্রত্যাশিত আয়ের হার ১০%। আবার 'B' লি. এর বন্ডের বাজার মূল্য ১,০০০ টাকা এবং বর্তমান মূল্য ৯০০ টাকা। এছাড়া 'C' লি. এর বন্ডের বাজারমূল্য ১,২৫০ টাকা এবং অন্তর্নিহিত মূল্য ১,৩০০ টাকা।",
+      "stem_image": null,
+      "group": "finance_1st-2025-SB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "A বন্ডে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "B বন্ডে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "C বন্ডে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "A, B অথবা C বন্ডে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অন্তর্নিহিত মূল্য বাজার মূল্যের চেয়ে বেশি হলে বন্ড ক্রয় উত্তম।\nA: অন্তর্নিহিত ১,৯২৭ < বাজার ৩,০০০ (ক্রয় অনুপযুক্ত)\nB: ৯০০ < ১,০০০ (অনুপযুক্ত)\nC: ১,৩০০ > ১,২৫০ (উপযুক্ত)\nতাই C বন্ড ক্রয় করা উত্তম।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
       },
       "tags": [],
       "difficulty": null

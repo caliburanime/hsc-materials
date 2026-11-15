@@ -1402,6 +1402,20 @@
         "qno": 4,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "DIB",
+          "year": "2025",
+          "qno": 12,
+          "session": null
+        },
+        {
+          "board": "SB",
+          "year": "2025",
+          "qno": 10,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -1996,7 +2010,7 @@
       "options": [
         {
           "label": "a",
-          "text": "ইটালি",
+          "text": "ইতালি",
           "image": null
         },
         {
@@ -2016,14 +2030,22 @@
         }
       ],
       "answer": "a",
-      "answer_source": "derived",
+      "answer_source": "printed",
       "explanation": "Management শব্দটি ইতালীয় শব্দ 'Maneggiare' থেকে এসেছে, যার অর্থ হাতে ধরে প্রশিক্ষণ দেওয়া বা পরিচালনা করা।",
       "source": {
-        "board": "ALL",
-        "year": "2026",
-        "qno": 15,
+        "board": "SB",
+        "year": "2025",
+        "qno": 9,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "ALL",
+          "year": "2026",
+          "qno": 15,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2212,6 +2234,1562 @@
         "board": "ALL",
         "year": "2026",
         "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-053",
+      "text": "মধ্যযুগের ব্যবস্থাপনা উন্নয়নে অবদান রাখেন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "লুকা প্যাসিওলি"
+        },
+        {
+          "label": "ii",
+          "text": "থমাস মুর"
+        },
+        {
+          "label": "iii",
+          "text": "জেমস্ ওয়াট"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "লুকা প্যাসিওলি (দ্বৈত হিসাব পদ্ধতি) ও থমাস মুর (ইউটোপিয়া) মধ্যযুগের ব্যবস্থাপনা চিন্তায় অবদান রেখেছেন। জেমস্ ওয়াট বাষ্পীয় ইঞ্জিন আবিষ্কারক, তিনি শিল্পবিপ্লব যুগের; তাই iii সঠিক নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-054",
+      "text": "নিচের কোনটি ব্যবস্থাপনার প্রথম কাজ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মীসংস্থান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রেষণা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিয়ন্ত্রণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনা চক্রের সূচনা হয় পরিকল্পনা দিয়ে; লক্ষ্য ও কর্মপন্থা ঠিক না হলে অন্য কাজ শুরু করা যায় না।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-055",
+      "text": "শ্রমিক ব্যবস্থাপনার জনক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "হেনরি ফেয়ল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সক্রেটিস",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ডব্লিউ টেইলর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রবার্ট ওয়েন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রবার্ট ওয়েনকে শ্রমিক (কর্মী) ব্যবস্থাপনার জনক বলা হয়। কারণ তিনি শ্রমিকের কাজের পরিবেশ, মজুরি ও কল্যাণের প্রতি গুরুত্ব দেন।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-056",
+      "text": "হিসাব রক্ষকের আয়-ব্যয় বিবরণী তৈরি কোন ধরনের দক্ষতা?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মানবীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ধারণাগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমস্যা অনুধাবন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয়-ব্যয় বিবরণী তৈরি একটি নির্দিষ্ট ও বিশেষায়িত কাজ, যা সম্পাদনে বিশেষ জ্ঞান ও কৌশল প্রয়োজন। তাই এটি কারিগরি দক্ষতা।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-057",
+      "text": "তত্ত্বাবধান পর্যায়ের ব্যবস্থাপক হলো—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চেয়ারম্যান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সহকারী ব্যবস্থাপক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ফোরম্যান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "এরিয়া ম্যানেজার",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ফোরম্যান সরাসরি কর্মীদের কাজ তদারক করেন, তাই তিনি তত্ত্বাবধান (নিম্ন) পর্যায়ের ব্যবস্থাপক। চেয়ারম্যান উচ্চস্তরের এবং সহকারী ব্যবস্থাপক ও এরিয়া ম্যানেজার মধ্যস্তরের।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-058",
+      "text": "উত্তম ব্যবস্থাপনার জন্য প্রয়োজনীয় দক্ষতা হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "আন্তঃব্যক্তিক দক্ষতা"
+        },
+        {
+          "label": "ii",
+          "text": "অবদমনের দক্ষতা"
+        },
+        {
+          "label": "iii",
+          "text": "সমস্যা অনুধাবনের দক্ষতা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আন্তঃব্যক্তিক দক্ষতা (মানবীয় দক্ষতা) ও সমস্যা অনুধাবনের দক্ষতা উত্তম ব্যবস্থাপনার জন্য প্রয়োজনীয়। 'অবদমনের দক্ষতা' ব্যবস্থাপকীয় দক্ষতার অন্তর্ভুক্ত নয়, তাই ii ভুল।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-059",
+      "text": "একজন প্রধান নির্বাহী কর্মকর্তার জন্য কোন ধরনের দক্ষতা অধিক প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারণাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মানবীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যোগাযোগ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "প্রধান নির্বাহী উচ্চস্তরের ব্যবস্থাপক। তাঁকে সমগ্র প্রতিষ্ঠানকে সামগ্রিকভাবে দেখে ভবিষ্যৎ চিন্তা ও নীতি নির্ধারণ করতে হয়, তাই ধারণাগত দক্ষতা সবচেয়ে বেশি দরকার।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-060",
+      "text": "বিভাগীয় ব্যবস্থাপক ব্যবস্থাপনার কোন স্তরে কাজ করেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. সমশের আলী ভবিষ্যত সম্পর্কে চিন্তাভাবনা করে প্রতিষ্ঠানের লক্ষ্য ও উদ্দেশ্য ঠিক করেন। তিনি লক্ষ্য অর্জনে বিভাগীয় ব্যবস্থাপকদের প্রয়োজনীয় পরিকল্পনা প্রণয়নের নির্দেশ দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-CB-8-9",
+      "options": [
+        {
+          "label": "a",
+          "text": "উচ্চস্তর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্যস্তর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্নস্তর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উচ্চ ও মধ্যস্তর",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিভাগীয় ব্যবস্থাপক উচ্চস্তরের নীতি বাস্তবায়নে নিম্নস্তরের কাজ সমন্বয় করেন। তিনি মধ্যস্তরের ব্যবস্থাপক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-061",
+      "text": "উদ্দীপকের সমশের আলীর ক্ষেত্রে প্রযোজ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. সমশের আলী ভবিষ্যত সম্পর্কে চিন্তাভাবনা করে প্রতিষ্ঠানের লক্ষ্য ও উদ্দেশ্য ঠিক করেন। তিনি লক্ষ্য অর্জনে বিভাগীয় ব্যবস্থাপকদের প্রয়োজনীয় পরিকল্পনা প্রণয়নের নির্দেশ দেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-CB-8-9",
+      "statements": [
+        {
+          "label": "i",
+          "text": "তিনি ব্যবস্থাপনার উচ্চস্তরে অবস্থান করেন"
+        },
+        {
+          "label": "ii",
+          "text": "তার জন্য ধারণাগত দক্ষতা বেশি প্রয়োজন"
+        },
+        {
+          "label": "iii",
+          "text": "তিনি প্রতিষ্ঠানের নীতি প্রণয়ন ও সিদ্ধান্ত গ্রহণ করেন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমশের আলী লক্ষ্য ও উদ্দেশ্য ঠিক করেন, নীতি প্রণয়ন ও সিদ্ধান্ত গ্রহণ করেন, তাই তিনি উচ্চস্তরের ব্যবস্থাপক (i ও iii সঠিক)। উচ্চস্তরে ধারণাগত দক্ষতা সবচেয়ে বেশি প্রয়োজন, তাই ii-ও সঠিক।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-062",
+      "text": "'সুপারভাইজার' এর জন্য কোন ধরনের ব্যবস্থাপকীয় দক্ষতা বেশি প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারণাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আন্তঃব্যক্তিক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমস্যা অনুধাবন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সুপারভাইজার নিম্নস্তরের ব্যবস্থাপক, যাঁকে সরাসরি কাজ তদারক করতে হয়। তাই তাঁর কারিগরি দক্ষতা বেশি প্রয়োজন।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 13,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-063",
+      "text": "ব্যবস্থাপনার সবচেয়ে গুরুত্বপূর্ণ উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অর্থ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মানুষ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যন্ত্রপাতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার সব কাজ মানুষের মাধ্যমেই সম্পন্ন হয়। মানুষই অন্যান্য উপাদান (অর্থ, মালামাল, যন্ত্রপাতি) কার্যকরভাবে ব্যবহার করে, তাই এটি সবচেয়ে গুরুত্বপূর্ণ উপাদান।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-064",
+      "text": "হেনরি ফেয়ল ব্যবস্থাপনার কার্যাবলিকে কয়ভাগে ভাগ করেছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "হেনরি ফেয়ল ব্যবস্থাপনার কার্যাবলিকে পাঁচটি ভাগে ভাগ করেছেন: পরিকল্পনা, সংগঠন, নির্দেশনা, সমন্বয়সাধন ও নিয়ন্ত্রণ।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-065",
+      "text": "ব্যবস্থাপনা চক্রের প্রথম কাজ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর্মীসংস্থান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিয়ন্ত্রণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনা চক্র শুরু হয় পরিকল্পনা দিয়ে, এরপর সংগঠন, কর্মীসংস্থান, নির্দেশনা ও নিয়ন্ত্রণ আসে।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-066",
+      "text": "কোনটি প্রশাসনের কাজ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কর্মীসংস্থান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রশিক্ষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরিকল্পনা প্রণয়ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রশাসন উচ্চস্তরের কাজ, যেখানে লক্ষ্য, নীতি ও পরিকল্পনা প্রণয়ন করা হয়। সংগঠন, কর্মীসংস্থান ও প্রশিক্ষণ বাস্তবায়নমূলক বা ব্যবস্থাপনার কাজ।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-067",
+      "text": "ব্যবস্থাপনার নিম্নস্তরে থাকেন—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ফোরম্যান"
+        },
+        {
+          "label": "ii",
+          "text": "বিভাগীয় প্রধান"
+        },
+        {
+          "label": "iii",
+          "text": "অফিস সুপার"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ফোরম্যান ও অফিস সুপার নিম্নস্তরের ব্যবস্থাপক (i ও iii সঠিক)। বিভাগীয় প্রধান মধ্যস্তরের ব্যবস্থাপক, তাই ii ভুল।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-068",
+      "text": "নিচের কোন উপাদানটি ব্যবস্থাপনার 6'M' বহির্ভূত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মানুষ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অর্থ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সিদ্ধান্ত গ্রহণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার 6'M' হলো মানুষ (Man), অর্থ (Money), মালামাল (Material), যন্ত্রপাতি (Machine), পদ্ধতি (Method) ও বাজার (Market)। সিদ্ধান্ত গ্রহণ এর অন্তর্ভুক্ত নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-069",
+      "text": "\"ব্যবস্থাপনা সর্বজনীন\"—কথাটি কে বলেছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রবার্ট ওয়েন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "এফ. ডব্লিউ. টেইলর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সক্রেটিস",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেনরি ফেয়ল",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সক্রেটিস বলেছেন, ব্যবস্থাপনা সর্বজনীন। তাঁর মতে, ব্যক্তিগত বা সরকারি যে কোনো কাজেই ব্যবস্থাপনার প্রয়োজন হয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 10,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-070",
+      "text": "মধ্যম পর্যায়ের ব্যবস্থাপক হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যবস্থাপনা পরিচালক"
+        },
+        {
+          "label": "ii",
+          "text": "বিভাগীয় ব্যবস্থাপক"
+        },
+        {
+          "label": "iii",
+          "text": "আঞ্চলিক ব্যবস্থাপক"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিভাগীয় ব্যবস্থাপক ও আঞ্চলিক ব্যবস্থাপক মধ্যস্তরের ব্যবস্থাপক (ii ও iii সঠিক)। ব্যবস্থাপনা পরিচালক উচ্চস্তরের, তাই i ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-071",
+      "text": "ব্যবস্থাপনার প্রথম কাজ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নেতৃত্ব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিয়ন্ত্রণ",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার সূচনা হয় পরিকল্পনা দিয়ে। এরপর সংগঠন, নেতৃত্ব ও নিয়ন্ত্রণ আসে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-072",
+      "text": "উদ্দীপকে বর্ণিত মি. রহিম ব্যবস্থাপনার কোন পর্যায়ে কর্মরত?",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. রহিম একটি উৎপাদনকারী প্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক। ক্ষুদ্র প্রতিষ্ঠানটিতে মি. জসিম একজন হিসাব রক্ষক হিসেবে যাবতীয় লেনদেনের হিসাব সংরক্ষণ করেন ও প্রতিষ্ঠানের যাবতীয় সম্পদের বিবরণ স্টক রেজিস্টারে যথাযথভাবে লিপিবদ্ধ করেন। প্রতিষ্ঠানের সমস্যা সমাধান ও নীতি নির্ধারণের দায়িত্ব মি. রহিম সুষ্ঠুভাবে পালন করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DB-24-25",
+      "options": [
+        {
+          "label": "a",
+          "text": "উচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্যম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উচ্চ ও মধ্য",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "মি. রহিম ব্যবস্থাপনা পরিচালক হিসেবে সমস্যা সমাধান ও নীতি নির্ধারণ করেন। এগুলো উচ্চস্তরের ব্যবস্থাপকের কাজ।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-073",
+      "text": "উদ্দীপকে বর্ণিত মি. জসিম এর ক্ষেত্রে প্রযোজ্য হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "মি. রহিম একটি উৎপাদনকারী প্রতিষ্ঠানের ব্যবস্থাপনা পরিচালক। ক্ষুদ্র প্রতিষ্ঠানটিতে মি. জসিম একজন হিসাব রক্ষক হিসেবে যাবতীয় লেনদেনের হিসাব সংরক্ষণ করেন ও প্রতিষ্ঠানের যাবতীয় সম্পদের বিবরণ স্টক রেজিস্টারে যথাযথভাবে লিপিবদ্ধ করেন। প্রতিষ্ঠানের সমস্যা সমাধান ও নীতি নির্ধারণের দায়িত্ব মি. রহিম সুষ্ঠুভাবে পালন করেন।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-DB-24-25",
+      "statements": [
+        {
+          "label": "i",
+          "text": "তার জন্য কারিগরি দক্ষতা বেশি প্রয়োজন"
+        },
+        {
+          "label": "ii",
+          "text": "তিনি প্রতিষ্ঠানের বিভিন্ন বিভাগের মাঝে সমন্বয় সাধন করেন"
+        },
+        {
+          "label": "iii",
+          "text": "তিনি ব্যবস্থাপনার নিম্নস্তরে অবস্থান করেন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "জসিম হিসাব রক্ষক হিসেবে হিসাব সংরক্ষণ করেন, এতে কারিগরি দক্ষতা বেশি লাগে (i সঠিক) এবং তিনি নিম্নস্তরে কর্মরত (iii সঠিক)। বিভাগসমূহের সমন্বয় সাধন মধ্যস্তরের কাজ, তাই ii ভুল।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-074",
+      "text": "সর্বপ্রথম কোথায় শিল্প বিপ্লবের সূত্রপাত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ফ্রান্স",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ইটালি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্রিটেন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "জার্মানি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শিল্পবিপ্লবের সূত্রপাত হয় অষ্টাদশ শতকে ব্রিটেনে।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-075",
+      "text": "প্রতিষ্ঠানের কর্মীদের কাজ সরাসরি তদারকি করে ব্যবস্থাপনার কোন স্তর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মধ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্য ও নিম্ন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উচ্চ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "নিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিম্নস্তরের ব্যবস্থাপক (ফোরম্যান, সুপারভাইজার) কর্মীদের কাজ সরাসরি তদারক করেন।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-076",
+      "text": "\"ব্যবস্থাপনা সর্বজনীন\"—কে বলেছেন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সক্রেটিস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "প্লেটো",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "এরিস্টটল",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হেনরি ফেয়ল",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সক্রেটিস বলেছেন, ব্যবস্থাপনা সর্বজনীন।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-077",
+      "text": "আন্তঃব্যক্তিক ভূমিকা যথাযথভাবে পালনে একজন ব্যবস্থাপকের কোন ধরনের দক্ষতা থাকতে হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মানবীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কল্পনা সংক্রান্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমস্যা অনুধাবন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "আন্তঃব্যক্তিক ভূমিকা পালনে মানুষের সাথে সম্পর্ক রক্ষা, যোগাযোগ ও নেতৃত্ব দিতে হয়। এ জন্য মানবীয় দক্ষতা প্রয়োজন।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-078",
+      "text": "মধ্যম স্তরের ব্যবস্থাপক কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবস্থাপনা প্রতিনিধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মহাব্যবস্থাপক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিভাগীয় প্রধান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সচিব",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিভাগীয় প্রধান মধ্যস্তরের ব্যবস্থাপক। মহাব্যবস্থাপক, সচিব ও ব্যবস্থাপনা প্রতিনিধি উচ্চস্তরের সাথে সম্পর্কিত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-079",
+      "text": "ব্যবস্থাপনার প্রধান সর্বজনীন উদ্দেশ্য কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দক্ষতা বৃদ্ধি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পদের সর্বোচ্চ ব্যবহার",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উন্নয়ন নিশ্চিতকরণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "লক্ষ্য অর্জন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার প্রধান সর্বজনীন উদ্দেশ্য হলো প্রতিষ্ঠানের নির্ধারিত লক্ষ্য অর্জন করা। অন্যান্য উদ্দেশ্য এ লক্ষ্য অর্জনের সহায়ক।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-080",
+      "text": "ব্যবস্থাপনার নিম্নস্তরে কোন দক্ষতাটি বেশি গুরুত্বপূর্ণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ধারণাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মানবীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পরিস্থিতি অনুধাবন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিম্নস্তরে কর্মীদের সরাসরি কাজ তদারক করতে হয়, তাই এখানে কারিগরি দক্ষতা বেশি গুরুত্বপূর্ণ।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 21,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-081",
+      "text": "Code of Hammurabi রচিত হয়েছিল কোন সভ্যতাকালে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মিশরীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যাবিলনীয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গ্রিক",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রোমান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "হাম্মুরাবির আইন (Code of Hammurabi) ব্যাবিলনীয় সভ্যতায় রচিত হয়েছিল। এতে ব্যবসা ও প্রশাসনের নিয়ম লিপিবদ্ধ ছিল।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-082",
+      "text": "ব্যবস্থাপনার প্রথম কাজ কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "নিয়ন্ত্রণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরিকল্পনা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর্মীসংস্থান",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার প্রথম কাজ পরিকল্পনা। এরপর সংগঠন, কর্মীসংস্থান ও নিয়ন্ত্রণ আসে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-083",
+      "text": "প্রতিষ্ঠানের নীতি ও পরিকল্পনা প্রণয়নের দায়িত্ব ব্যবস্থাপনার কোন স্তরের?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উচ্চ ও নিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "উচ্চস্তরের ব্যবস্থাপকগণ প্রতিষ্ঠানের নীতি, উদ্দেশ্য ও পরিকল্পনা প্রণয়ন করেন।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-084",
+      "text": "অন্যদের দ্বারা কাজ করিয়ে নেয়াকে কী বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যবস্থাপনা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "দক্ষতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পেশা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "তত্ত্বাবধান",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অন্যদের দ্বারা কাজ করিয়ে নেওয়াই ব্যবস্থাপনা (মেরি পার্কার ফলেটের সংজ্ঞা অনুযায়ী)।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-085",
+      "text": "প্রতিষ্ঠানের উচ্চ পর্যায়ের ব্যবস্থাপকগণের কোন দক্ষতা বেশি থাকা প্রয়োজন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আন্তঃব্যক্তিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কারিগরি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কল্পনা সংক্রান্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমস্যা অনুধাবন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উচ্চ পর্যায়ের ব্যবস্থাপকদের সমগ্র প্রতিষ্ঠানকে সামগ্রিকভাবে দেখতে হয়, তাই তাঁদের কল্পনা সংক্রান্ত (ধারণাগত) দক্ষতা বেশি থাকা প্রয়োজন।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-086",
+      "text": "ব্যবস্থাপনার 6 'M' বলতে বুঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মৌলিক কার্যাবলি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মৌলিক উপাদানসমূহ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবস্থাপনার মূলনীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবস্থাপনা প্রক্রিয়া",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনার 6'M' হলো ছয়টি মৌলিক উপাদান: মানুষ, অর্থ, মালামাল, যন্ত্রপাতি, পদ্ধতি ও বাজার।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-087",
+      "text": "উচ্চ পর্যায়ের ব্যবস্থাপনার আওতাভুক্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ব্যবস্থাপনা পরিচালক"
+        },
+        {
+          "label": "ii",
+          "text": "বিভাগীয় ব্যবস্থাপক"
+        },
+        {
+          "label": "iii",
+          "text": "পরিচালনা পর্ষদ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনা পরিচালক ও পরিচালনা পর্ষদ উচ্চ পর্যায়ের ব্যবস্থাপনার অন্তর্ভুক্ত (i ও iii সঠিক)। বিভাগীয় ব্যবস্থাপক মধ্যস্তরের, তাই ii ভুল।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-089",
+      "text": "জনাব রহিম ব্যবস্থাপনার কোন স্তরে কর্মরত আছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহিম একটি গার্মেন্টস এর ফ্লোর সুপারভাইজার। তার অধীনস্থ শ্রমিকরা অর্ডার অনুযায়ী বিভিন্ন পোশাক তৈরি করেন। তিনি চেষ্টা করেও নির্দিষ্ট সময়ে পোশাক তৈরি শেষ করতে পারছেন না।",
+      "stem_image": null,
+      "group": "business_org_2nd-2025-SB-11-12",
+      "options": [
+        {
+          "label": "a",
+          "text": "উচ্চ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মধ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "নিম্ন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মধ্য-নিম্ন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "ফ্লোর সুপারভাইজার সরাসরি শ্রমিকদের কাজ তদারক করেন, তাই তিনি নিম্নস্তরে কর্মরত।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "business_org_2nd-ch1-mcq-090",
+      "text": "ব্যবস্থাপনা চক্র কিসের আবর্তনকে নির্দেশ করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "লক্ষ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কার্যাবলি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রীতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যবস্থাপনা চক্র পরিকল্পনা, সংগঠন, নির্দেশনা ও নিয়ন্ত্রণ—এই কার্যাবলির ধারাবাহিক আবর্তনকে নির্দেশ করে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 13,
         "session": null
       },
       "tags": [],

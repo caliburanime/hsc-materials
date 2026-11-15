@@ -334,6 +334,45 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "finance_1st-ch4-mcq-009",
+      "text": "শেয়ার প্রতি আয় নির্ণয়ের ক্ষেত্রে কোম্পানির কোন আয়কে বিবেচনা করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংরক্ষিত আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মোট আয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কর পরবর্তী আয়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কর পূর্ববর্তী আয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শেয়ার প্রতি আয় (EPS) = \\( \\frac{\\text{কর পরবর্তী নিট আয়} - \\text{অগ্রাধিকার লভ্যাংশ}}{\\text{সাধারণ শেয়ার সংখ্যা}} \\); এখানে কর পরবর্তী আয় বিবেচনা করা হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

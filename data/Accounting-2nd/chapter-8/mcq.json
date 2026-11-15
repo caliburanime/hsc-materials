@@ -2522,6 +2522,1016 @@
       },
       "tags": [],
       "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-060",
+      "text": "মজুত সংরক্ষণের বৈজ্ঞানিক পদ্ধতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিত্য মজুত পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "কালান্তিক মজুত পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "LIFO পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "FIFO পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের প্রদত্ত উত্তর অনুযায়ী FIFO (আগে আসে আগে ছাড়) পদ্ধতিটি মজুদ সংরক্ষণের বৈজ্ঞানিক পদ্ধতি হিসেবে বিবেচিত, কারণ এতে প্রকৃত ক্রয়মূল্য অনুযায়ী মাল ইস্যু ও মূল্যায়ন করা হয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-061",
+      "text": "মজুত মাল নিয়ন্ত্রণের কার্যকরী হাতিয়ার হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিন কার্ড"
+        },
+        {
+          "label": "ii",
+          "text": "মাল খতিয়ান"
+        },
+        {
+          "label": "iii",
+          "text": "অবিরত মজুত পদ্ধতি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ড (i) ও মাল খতিয়ান (ii) মজুদ মাল নিয়ন্ত্রণের হাতিয়ার। অবিরত মজুদ পদ্ধতি (iii) মজুদ হিসাবরক্ষণের পদ্ধতি, নিয়ন্ত্রণের হাতিয়ার নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-062",
+      "text": "বিন কার্ড থেকে কী জানা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মজুত মালের মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মজুত মালের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "তারিখসহ মাল প্রাপ্তি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালের নির্গমন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ডে শুধু মালের পরিমাণের হিসাব (প্রাপ্তি, ইস্যু, উদ্বৃত্ত) থাকে, মালের মূল্য থাকে না।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-063",
+      "text": "কোম্পানির সমাপনী মজুদের মূল্য কত টাকা?",
+      "text_en": null,
+      "image": null,
+      "stem": "মুনতাসির কোম্পানি FIFO পদ্ধতিতে মজুদ পণ্যের হিসাব সংরক্ষণ করে। পণ্য সংক্রান্ত তথ্যাবলি: প্রারম্ভিক মজুদ ৫,০০০ একক, একক প্রতি ব্যয় ৪ টাকা; ক্রয় ১১,০০০ একক, একক প্রতি ব্যয় ৫ টাকা; ইস্যু ১০,০০০ একক।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-15-16",
+      "options": [
+        {
+          "label": "a",
+          "text": "২৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৩০,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৫০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "FIFO-তে সমাপনী মজুদ সর্বশেষ ক্রয় থেকে গণনা হয়।\nমোট একক = ৫,০০০ + ১১,০০০ = ১৬,০০০; ইস্যুর পর সমাপনী মজুদ = ১৬,০০০ − ১০,০০০ = ৬,০০০ একক\nমূল্য = ৬,০০০ × ৫ = ৩০,০০০ টাকা।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-064",
+      "text": "যদি কোম্পানিটি ভারযুক্ত গড় পদ্ধতি ব্যবহার করতে চায় তবে—",
+      "text_en": null,
+      "image": null,
+      "stem": "মুনতাসির কোম্পানি FIFO পদ্ধতিতে মজুদ পণ্যের হিসাব সংরক্ষণ করে। পণ্য সংক্রান্ত তথ্যাবলি: প্রারম্ভিক মজুদ ৫,০০০ একক, একক প্রতি ব্যয় ৪ টাকা; ক্রয় ১১,০০০ একক, একক প্রতি ব্যয় ৫ টাকা; ইস্যু ১০,০০০ একক।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-CUB-15-16",
+      "statements": [
+        {
+          "label": "i",
+          "text": "সমাপনী মজুদের মূল্য হ্রাস পাবে ৬,০০০ টাকা"
+        },
+        {
+          "label": "ii",
+          "text": "ভারযুক্ত গড় একক ব্যয় হবে ৪.৬৮৭৫ টাকা"
+        },
+        {
+          "label": "iii",
+          "text": "সমাপনী মজুদের মূল্য হবে ২৮,১২৫ টাকা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মোট ব্যয় = (৫,০০০ × ৪) + (১১,০০০ × ৫) = ২০,০০০ + ৫৫,০০০ = ৭৫,০০০ টাকা\nভারযুক্ত গড় একক ব্যয় = ৭৫,০০০ ÷ ১৬,০০০ = ৪.৬৮৭৫ টাকা (ii সঠিক)\nসমাপনী মজুদ = ৬,০০০ × ৪.৬৮৭৫ = ২৮,১২৫ টাকা (iii সঠিক)\nমজুদ কমবে ৩০,০০০ − ২৮,১২৫ = ১,৮৭৫ টাকা, ৬,০০০ টাকা নয় (i ভুল)।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-065",
+      "text": "বাজারমূল্য নিম্নগামী হলে কোন পদ্ধতি অধিক কার্যকরী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সাধারণ গড় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আগের মাল আগে ছাড়া পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পরের মাল আগে ছাড়া পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভারযুক্ত গড় পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের প্রদত্ত উত্তর অনুযায়ী বাজারমূল্য নিম্নগামী হলে FIFO পদ্ধতি অধিক কার্যকর, কারণ এতে পুরনো (বেশি দামের) মাল আগে ইস্যু হয় এবং সমাপনী মজুদ বর্তমান বাজারদরের কাছাকাছি মূল্যে থাকে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-066",
+      "text": "উৎপাদন প্রক্রিয়া অব্যাহত রাখার জন্য যে পরিমাণ মাল সর্বদা মজুদ রাখা আবশ্যক তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "নিরাপত্তা মজুদ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সর্বোচ্চ সীমা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "গড় মজুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সর্বনিম্ন সীমা",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন প্রক্রিয়া অব্যাহত রাখতে সর্বদা যে ন্যূনতম পরিমাণ মাল মজুদ রাখা আবশ্যক তাকে সর্বনিম্ন সীমা বলে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-067",
+      "text": "চলতি বছরের সমাপনী মজুতকে পরবর্তী বছরের কী হিসেবে গণ্য করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রয়কৃত পণ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিক্রয়যোগ্য পণ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমাপনী মজুত পণ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রারম্ভিক মজুত পণ্য",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "চলতি বছরের সমাপনী মজুত পরবর্তী বছরের প্রারম্ভিক মজুত পণ্য হিসেবে গণ্য হয়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-068",
+      "text": "FIFO পদ্ধতিতে ১৫ তারিখে ইস্যুকৃত পণ্যের মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জেমিন ট্রেডার্সের ২০২৪ সালের জানুয়ারি মাসের তথ্যাদি: ১ তারিখ প্রারম্ভিক উদ্বৃত্ত ৪০০ একক, প্রতি একক ২৫ টাকা দরে; ১০ তারিখ পণ্য ক্রয় ৩০০ একক, প্রতি একক ৩০ টাকা দরে; ১৫ তারিখ পণ্য ইস্যু ৫০০ একক; ২৫ তারিখ পণ্য ক্রয় ২০০ একক, প্রতি একক ৩২ টাকা দরে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "১২,৫০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "১৩,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৬,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "FIFO-তে প্রথমে পুরনো মাল ইস্যু হয়।\n৪০০ × ২৫ = ১০,০০০ এবং ১০০ × ৩০ = ৩,০০০\nইস্যুকৃত পণ্যের মূল্য = ১০,০০০ + ৩,০০০ = ১৩,০০০ টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 7,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-069",
+      "text": "ভারযুক্ত গড় পদ্ধতিতে ২৫ তারিখে মজুদ পণ্যের মূল্য কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জেমিন ট্রেডার্সের ২০২৪ সালের জানুয়ারি মাসের তথ্যাদি: ১ তারিখ প্রারম্ভিক উদ্বৃত্ত ৪০০ একক, প্রতি একক ২৫ টাকা দরে; ১০ তারিখ পণ্য ক্রয় ৩০০ একক, প্রতি একক ৩০ টাকা দরে; ১৫ তারিখ পণ্য ইস্যু ৫০০ একক; ২৫ তারিখ পণ্য ক্রয় ২০০ একক, প্রতি একক ৩২ টাকা দরে।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-DB-7-8",
+      "options": [
+        {
+          "label": "a",
+          "text": "৫,৪২৯ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬,৪০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "১১,৮২৯ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "১৩,৫৭১ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "চলমান ভারযুক্ত গড় পদ্ধতিতে (প্রতি ক্রয়ের পর গড় নির্ণয়):\n১০ তারিখে গড় = (১০,০০০ + ৯,০০০) ÷ ৭০০ = ২৭.১৪২৯ টাকা\nইস্যুর পর অবশিষ্ট ২০০ একক × ২৭.১৪২৯ ≈ ৫,৪২৯ টাকা\n২৫ তারিখে ক্রয় ২০০ × ৩২ = ৬,৪০০ যোগ করে মজুদ = ৫,৪২৯ + ৬,৪০০ = ১১,৮২৯ টাকা।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-070",
+      "text": "মাল খতিয়ান কোথায় সংরক্ষণ করা হয়ে থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ক্রয় বিভাগে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "গুদাম ঘরে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "আর্থিক হিসাব বিভাগে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "উৎপাদন-ব্যয় বিভাগে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মাল খতিয়ান উৎপাদন-ব্যয় বিভাগে সংরক্ষণ করা হয়, কারণ এতে মালের পরিমাণ ও মূল্য উভয়ের হিসাব থাকে। গুদামে বিন কার্ড রাখা হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-071",
+      "text": "বিন কার্ডে অন্তর্ভুক্ত থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মালের পরিমাণ"
+        },
+        {
+          "label": "ii",
+          "text": "মালের মূল্য"
+        },
+        {
+          "label": "iii",
+          "text": "মালের আবর্তন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ডে মালের পরিমাণ (i) ও মালের আবর্তন বা গতিবিধি (iii) লিপিবদ্ধ থাকে; মালের মূল্য (ii) থাকে না।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-072",
+      "text": "নিত্য মজুদ ব্যবস্থায় কখন সমাপনী মজুদ পণ্যের পরিমাণ নির্ণয় করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক মাস পর পর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ছয় মাস পর পর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যে কোনো সময়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "হিসাবকাল শেষে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিত্য (অবিরত) মজুদ ব্যবস্থায় প্রতিটি লেনদেনের পর মজুদ হালনাগাদ হয়, তাই যেকোনো সময় সমাপনী মজুদের পরিমাণ জানা যায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-073",
+      "text": "মজুদ মূল্যায়নের সহজ পদ্ধতি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আগে আসে আগে ছাড় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরে আসে আগে ছাড় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভারযুক্ত গড় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সাধারণ গড় পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সাধারণ (সরল) গড় পদ্ধতি মজুদ মূল্যায়নের সবচেয়ে সহজ পদ্ধতি, কারণ এতে শুধু বিভিন্ন দরের সরল গড় নির্ণয় করা হয়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-074",
+      "text": "পচনশীল পণ্যের ক্ষেত্রে কোন পদ্ধতিতে মজুদ মাল মূল্যায়ন করা যুক্তিযুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "FIFO",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভারযুক্ত গড়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "LIFO",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরল গড়",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "পচনশীল পণ্য দ্রুত বিক্রি করতে হয়, তাই পুরনো মাল আগে ছাড়ার FIFO পদ্ধতি যুক্তিযুক্ত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-075",
+      "text": "বিন কার্ডে কোনটি লিপিবদ্ধ থাকে না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উদ্বৃত্ত মালের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মালের মূল্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রাপ্ত মালের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ইস্যুকৃত মালের পরিমাণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ডে শুধু পরিমাণের হিসাব থাকে, মালের মূল্য লিপিবদ্ধ হয় না।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-076",
+      "text": "FIFO পদ্ধতিতে ডিসেম্বর ২৫ তারিখে বিক্রীত পণ্যের ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "হাতিল লি. এর বই হতে নিচের তথ্যসমূহ নেয়া হয়েছে (২০২৪): ডিসেম্বর-১ প্রারম্ভিক উদ্বৃত্ত ১০০ একক, প্রতি একক ৩০০ টাকা; ডিসেম্বর-১২ মালক্রয় ১৭৫ একক, প্রতি একক ৩৫০ টাকা; ডিসেম্বর-২৫ মালবিক্রয় ২০০ একক, প্রতি একক ৪০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৬,৩৬৪ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৮,৭৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "FIFO: ১০০ × ৩০০ = ৩০,০০০ এবং ১০০ × ৩৫০ = ৩৫,০০০\nবিক্রীত পণ্যের ব্যয় = ৩০,০০০ + ৩৫,০০০ = ৬৫,০০০ টাকা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-077",
+      "text": "ভারযুক্তগড় পদ্ধতিতে ডিসেম্বর ২৫ তারিখে বিক্রীত পণ্যের ব্যয় কত?",
+      "text_en": null,
+      "image": null,
+      "stem": "হাতিল লি. এর বই হতে নিচের তথ্যসমূহ নেয়া হয়েছে (২০২৪): ডিসেম্বর-১ প্রারম্ভিক উদ্বৃত্ত ১০০ একক, প্রতি একক ৩০০ টাকা; ডিসেম্বর-১২ মালক্রয় ১৭৫ একক, প্রতি একক ৩৫০ টাকা; ডিসেম্বর-২৫ মালবিক্রয় ২০০ একক, প্রতি একক ৪০০ টাকা।",
+      "stem_image": null,
+      "group": "accounting_2nd-2025-JB-29-30",
+      "options": [
+        {
+          "label": "a",
+          "text": "৬৫,০০০ টাকা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬৬,৩৬৪ টাকা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৬৮,৭৫০ টাকা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৭০,০০০ টাকা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মোট ব্যয় = ৩০,০০০ + (১৭৫ × ৩৫০ = ৬১,২৫০) = ৯১,২৫০ টাকা; মোট একক ২৭৫\nভারযুক্ত গড় দর = ৯১,২৫০ ÷ ২৭৫ = ৩৩১.৮১৮\nবিক্রীত পণ্যের ব্যয় = ২০০ × ৩৩১.৮১৮ = ৬৬,৩৬৪ টাকা (প্রায়)।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-078",
+      "text": "নিচের কোনটি বিন কার্ডে অন্তর্ভুক্ত হয় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালের আগমন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মালের নির্গমন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মালের দর",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালের পরিমাণ",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ডে মালের আগমন, নির্গমন ও পরিমাণ লেখা হয়; মালের দর (মূল্য) লেখা হয় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-079",
+      "text": "পণ্যের মূল্য ক্রমাগত বৃদ্ধি পেতে থাকলে মজুদ পণ্যের হিসাবরক্ষণে কোন পদ্ধতি অধিকতর উপযোগী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "আগে আসলে আগে যায় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শেষে আসলে আগে যায় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভারযুক্ত গড় পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরল গড় পদ্ধতি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "পাঠ্যবইয়ের প্রদত্ত উত্তর অনুযায়ী মূল্য ক্রমাগত বাড়তে থাকলে LIFO (শেষে আসলে আগে যায়) পদ্ধতি উপযোগী, কারণ এতে সাম্প্রতিক (বেশি) দামের মাল ইস্যু হিসেবে ব্যয়ে ধরা হয় এবং ব্যয় ও আয়ের মধ্যে সামঞ্জস্য থাকে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-080",
+      "text": "মজুদ বলতে বুঝায়—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "দ্রব্যাদি সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "বিভিন্নভাবে মালামাল সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দ্রব্য ও সেবার সংরক্ষণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সেবার সংরক্ষণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মজুদ বলতে বিভিন্নভাবে মালামাল সংরক্ষণকে বোঝায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-081",
+      "text": "নিত্য মজুদ ব্যবস্থায় কখন সমাপনী মজুদ পণ্যের মূল্যায়ন করা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একমাস পর পর",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "তিনমাস পর পর",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "হিসাবকাল শেষে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রতিদিন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "নিত্য মজুদ ব্যবস্থায় প্রতিদিন (প্রতিটি লেনদেনের সাথে সাথে) মজুদ পণ্যের মূল্যায়ন হালনাগাদ করা হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-082",
+      "text": "বিনকার্ডে উল্লেখ থাকে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মালের প্রাপ্তি ও মূল্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূল্যসহ মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্ত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মূল্যসহ মালের প্রাপ্তি ও ইস্যু",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "বিন কার্ডে মালের প্রাপ্তি, ইস্যু ও উদ্বৃত্ত—শুধু পরিমাণ লেখা থাকে; মূল্য থাকে না।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_2nd-ch8-mcq-083",
+      "text": "মাল খতিয়ানের ডান পার্শ্বের উপরে থাকে—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মালের সর্বোচ্চ সীমা"
+        },
+        {
+          "label": "ii",
+          "text": "মালের সর্বনিম্ন সীমা"
+        },
+        {
+          "label": "iii",
+          "text": "পুনঃ ফরমায়েশ সীমা"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "মাল খতিয়ানের ডান পাশের উপরের অংশে মালের সর্বোচ্চ সীমা, সর্বনিম্ন সীমা ও পুনঃফরমায়েশ সীমা লেখা থাকে। তাই তিনটিই সঠিক।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
     }
   ]
 }

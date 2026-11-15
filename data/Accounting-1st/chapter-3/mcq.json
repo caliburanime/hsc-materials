@@ -968,6 +968,14 @@
         "qno": 19,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "CUB",
+          "year": "2025",
+          "qno": 8,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -3330,6 +3338,137 @@
         "board": "SB",
         "year": "2025",
         "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-080",
+      "text": "নগদান বই ও ব্যাংক বিবরণীর উদ্বৃত্তের গরমিলের কারণ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "ইস্যুকৃত চেক ব্যাংকে উপস্থাপিত হয়নি"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যাংক কর্তৃক সরাসরি আদায়"
+        },
+        {
+          "label": "iii",
+          "text": "ব্যাংকে জমাকৃত চেক আদায় হয়নি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "তিনটি কারণেই নগদান বই ও ব্যাংক বিবরণীর উদ্বৃত্তে গরমিল হয়: ইস্যুকৃত চেক ব্যাংকে উপস্থাপিত না হওয়া, ব্যাংক কর্তৃক সরাসরি আদায় (নগদান বইতে অলিখিত) এবং জমাকৃত চেক আদায় না হওয়া।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-081",
+      "text": "একজন শিক্ষার্থীর জন্য কোন ব্যাংক হিসাবটি প্রযোজ্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "চলতি হিসাব",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঞ্চয়ী হিসাব",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থায়ী হিসাব",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মাসিক সঞ্চয়ী হিসাব",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শিক্ষার্থীর জন্য সঞ্চয়ী হিসাব উপযোগী, কারণ এতে ক্ষুদ্র সঞ্চয় জমা রাখা যায় ও সুদ পাওয়া যায়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "accounting_1st-ch3-mcq-082",
+      "text": "ব্যাংক সমন্বয় বিবরণী কে প্রস্তুত করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ব্যাংক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "আমানতকারী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পাওনাদার",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মালিক",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ব্যাংক সমন্বয় বিবরণী আমানতকারী (হিসাবধারী) নিজের নগদান বই ও ব্যাংক বিবরণীর গরমিল মেলাতে প্রস্তুত করেন।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
         "session": null
       },
       "tags": [],

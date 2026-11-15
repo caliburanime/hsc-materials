@@ -2200,6 +2200,14 @@
         "qno": 2,
         "session": null
       },
+      "also_in": [
+        {
+          "board": "BB",
+          "year": "2025",
+          "qno": 10,
+          "session": null
+        }
+      ],
       "tags": [],
       "difficulty": null
     },
@@ -2753,6 +2761,2737 @@
         "board": "ALL",
         "year": "2026",
         "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-066",
+      "text": "উদ্দীপকে জনাব সালাম গরুর খামার স্থাপনে উৎপাদনের কোন উপকরণের সহায়তা পেয়েছেন?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সালাম নিজস্ব তহবিল ও ব্যাংকের সহায়তায় ৫ জন কর্মী নিয়ে একটি গরুর খামার স্থাপন করে। ব্যবসায়টি লাভজনক হওয়ায় আরো বৃহৎ আয়তনে সম্প্রসারণের লক্ষ্যে তাঁর ৫ জন বন্ধুকে সমঝোতার ভিত্তিতে ব্যবসায় যুক্ত হওয়ার আমন্ত্রণ জানালে তাঁরা সম্মত হয়। যদিও জনাব সালামের বন্ধুরাও একটি আলাদা খামার গড়তে চেয়েছিলেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "নিজস্ব তহবিল ও ব্যাংক ঋণ উৎপাদনের উপকরণ মূলধনের উৎস।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-067",
+      "text": "উদ্দীপকের খামারটি প্রথম ও শেষ পর্যায় পর্যন্ত সংগঠনের ধরন ছিল—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব সালাম নিজস্ব তহবিল ও ব্যাংকের সহায়তায় ৫ জন কর্মী নিয়ে একটি গরুর খামার স্থাপন করে। ব্যবসায়টি লাভজনক হওয়ায় আরো বৃহৎ আয়তনে সম্প্রসারণের লক্ষ্যে তাঁর ৫ জন বন্ধুকে সমঝোতার ভিত্তিতে ব্যবসায় যুক্ত হওয়ার আমন্ত্রণ জানালে তাঁরা সম্মত হয়। যদিও জনাব সালামের বন্ধুরাও একটি আলাদা খামার গড়তে চেয়েছিলেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-BB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "এক মালিকানা"
+        },
+        {
+          "label": "ii",
+          "text": "ব্যবসায় জোট"
+        },
+        {
+          "label": "iii",
+          "text": "অংশীদারি"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শুরুতে সালাম একা ব্যবসায় করেছেন (একমালিকানা), পরে বন্ধুদের সমঝোতার ভিত্তিতে যুক্ত করায় তা অংশীদারি হয়েছে। ব্যবসায় জোট এখানে প্রযোজ্য নয়।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-068",
+      "text": "উৎপাদনের গতিশীল উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শ্রম মানুষের দ্বারা সম্পন্ন হয় এবং এক স্থান বা পেশা থেকে অন্যত্র যেতে পারে, তাই এটি গতিশীল উপাদান।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-069",
+      "text": "কে উৎপাদনের উপাদানসমূহ একত্র করে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সরবরাহকারী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রেতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোক্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সংগঠক ভূমি, শ্রম ও মূলধন একত্র করে উৎপাদন কাজ পরিচালনা করেন।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-070",
+      "text": "মানুষের আয় বাড়লে—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সঞ্চয় ও ভোগ স্থির থাকে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভোগ ও ঋণ কমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সঞ্চয় ও ভোগ বাড়ে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভোগ ও ঋণ বাড়ে",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "আয় বাড়লে মানুষের সঞ্চয় ও ভোগ উভয়ই বাড়ে।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-071",
+      "text": "উৎপাদনের আদি উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূমি প্রকৃতির দান; এটিই উৎপাদনের আদি উপাদান।",
+      "source": {
+        "board": "BB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-072",
+      "text": "কর্মীদের কীভাবে দক্ষ ও যোগ্য করে তোলা যায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "কাজের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রেতা আকর্ষণের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনের মাধ্যমে",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "প্রশিক্ষণের মাধ্যমে",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "প্রশিক্ষণের মাধ্যমে কর্মীদের দক্ষ ও যোগ্য করে তোলা যায়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-073",
+      "text": "মুন্সিগঞ্জের ২০ জন কৃষক পারস্পরিক সহযোগিতার ভিত্তিতে একটি প্রতিষ্ঠান গড়ে তোলে। উল্লিখিত উদ্দীপকে প্রতিষ্ঠানটি কোন ধরনের সংগঠন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "একমালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাষ্ট্রীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "পারস্পরিক সহযোগিতার ভিত্তিতে গঠিত কৃষকদের প্রতিষ্ঠান সমবায় সংগঠন।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 16,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-074",
+      "text": "নিচের কোনটি ভূমির বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গতিশীল",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যোগান সীমাবদ্ধ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "স্থানান্তরযোগ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অস্থায়ী",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূমির যোগান সীমাবদ্ধ। ভূমি স্থায়ী ও অচল, গতিশীল বা স্থানান্তরযোগ্য নয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-075",
+      "text": "অংশীদারি সংগঠনের মূল ভিত্তি কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পারস্পরিক বিশ্বাস",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "চুক্তি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সীমিত দায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্মারকলিপি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি সংগঠন অংশীদারদের মধ্যকার চুক্তির ভিত্তিতে গঠিত হয়।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-076",
+      "text": "নিচের কোনটি শ্রমের বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মানবিক উপাদান",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঞ্চয়ের ফল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "প্রকৃতির দান",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমন্বিত প্রচেষ্টা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শ্রম মানুষের দ্বারা সম্পাদিত হয়, তাই এটি মানবিক উপাদান।",
+      "source": {
+        "board": "CB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-077",
+      "text": "নিচের কোনটি উৎপাদনের উপকরণ?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খনিজ তেল",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "কয়লা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কলকারখানা",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভূমি উৎপাদনের একটি উপকরণ; খনিজ তেল ও কয়লা ভূমির অংশ এবং কলকারখানা মূলধনের অংশ।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-078",
+      "text": "শ্রম বিভাগের অন্তর্ভুক্ত হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "অসম্পূর্ণ প্রক্রিয়াগত শ্রম"
+        },
+        {
+          "label": "ii",
+          "text": "মানসিক শ্রম"
+        },
+        {
+          "label": "iii",
+          "text": "আঞ্চলিক শ্রম"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "অসম্পূর্ণ প্রক্রিয়াগত ও আঞ্চলিক শ্রম বিভাগের ধরন (i, iii)। মানসিক শ্রম শ্রমের শ্রেণিবিভাগ, শ্রম বিভাগ নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 11,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-079",
+      "text": "উৎপাদনের উপকরণ কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৩টি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৪টি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৫টি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "৬টি",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের উপকরণ চারটি—ভূমি, শ্রম, মূলধন ও সংগঠন।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 14,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-080",
+      "text": "ভূমির বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রকৃতির দান"
+        },
+        {
+          "label": "ii",
+          "text": "স্থানান্তর যোগ্য"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদন ব্যয় নেই"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "ভূমি প্রকৃতির দান ও এর উৎপাদন ব্যয় নেই (i, iii)। ভূমি স্থানান্তর করা যায় না, তাই (ii) ভুল।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-081",
+      "text": "নিচের কোন সংগঠনটি চুক্তির উপর ভিত্তি করে গড়ে উঠে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "রাষ্ট্রীয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যৌথ মূলধনী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবায় সমিতি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "অংশীদারি",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি সংগঠন চুক্তির ভিত্তিতে গড়ে ওঠে।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 19,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-082",
+      "text": "জনাব রাকিবের কাজটি মূলধন গঠনের কোন পর্যায়ে পড়ে?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাকিব তার আয়ের কিছু টাকা ব্যাংকে জমা রাখেন। অন্যদিকে শোভন ব্যাংক থেকে ঋণ নিয়ে ব্যাগ তৈরির কারখানা স্থাপন করেন। তিনি শ্রমিকদের প্রাপ্য সুযোগ সুবিধা দেন না। ফলে শ্রমিকদের মধ্যে অসন্তোষ দেখা দেয় এবং কিছু শ্রমিক অন্য প্রতিষ্ঠানে চলে যায়। এতে শোভন প্রত্যাশিত মুনাফা অর্জনে ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-26-27",
+      "options": [
+        {
+          "label": "a",
+          "text": "আয়",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঞ্চয়",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিয়োগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সঞ্চয় সংগ্রহ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রাকিব আয়ের একাংশ ব্যাংকে জমা রেখেছেন, যা মূলধন গঠনের সঞ্চয় পর্যায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-083",
+      "text": "জনাব শোভনের প্রতিষ্ঠানটির ক্ষতির সম্মুখীন হওয়ার কারণ—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রাকিব তার আয়ের কিছু টাকা ব্যাংকে জমা রাখেন। অন্যদিকে শোভন ব্যাংক থেকে ঋণ নিয়ে ব্যাগ তৈরির কারখানা স্থাপন করেন। তিনি শ্রমিকদের প্রাপ্য সুযোগ সুবিধা দেন না। ফলে শ্রমিকদের মধ্যে অসন্তোষ দেখা দেয় এবং কিছু শ্রমিক অন্য প্রতিষ্ঠানে চলে যায়। এতে শোভন প্রত্যাশিত মুনাফা অর্জনে ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-CUB-26-27",
+      "statements": [
+        {
+          "label": "i",
+          "text": "মূলধনের অভাব"
+        },
+        {
+          "label": "ii",
+          "text": "মালিক-শ্রমিক বিরোধ"
+        },
+        {
+          "label": "iii",
+          "text": "সাংগঠনিক দক্ষতার অভাব"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শ্রমিকদের সুবিধা না দেওয়ায় মালিক-শ্রমিক বিরোধ (ii) এবং সংগঠকের সাংগঠনিক দক্ষতার অভাব (iii) ক্ষতির কারণ। শোভন ব্যাংক ঋণ নিয়েছেন, তাই মূলধনের অভাব (i) নয়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-084",
+      "text": "নিচের কোনটি সঞ্চয় করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শ্রম নশ্বর, তা জমিয়ে রাখা যায় না। ভূমি, মূলধন ও সংগঠন সংরক্ষণ করা যায়।",
+      "source": {
+        "board": "CUB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-085",
+      "text": "রাসেল পাড়ার সমমনা কয়েকজন ব্যক্তিকে নিয়ে সমঅধিকারের ভিত্তিতে একটি কৃষি খামার গড়ে তোলেন। রাসেল এর খামারটি হলো কোন ধরনের সংগঠন?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একমালিকানা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথমূলধনী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমবায়",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সমমনা ব্যক্তিদের নিয়ে সমঅধিকারের ভিত্তিতে গঠিত খামার সমবায় সংগঠন।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 20,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-086",
+      "text": "উৎপাদনের কোন উপাদানের যোগান দাম নেই?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভূমি প্রকৃতির দান; এর যোগান দাম বা উৎপাদন ব্যয় নেই।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 22,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-087",
+      "text": "কর্মীর যোগ্যতা, দক্ষতা ও সামর্থ্য অনুযায়ী বিভিন্ন স্তরে কাজ ভাগ করে দেওয়াকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "প্রত্যক্ষ শ্রম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "পরোক্ষ শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "দক্ষ শ্রম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রম বিভাগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "যোগ্যতা ও দক্ষতা অনুযায়ী কাজ ভাগ করে দেওয়াকে শ্রম বিভাগ বলে।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-088",
+      "text": "'সঞ্চয়পত্র ক্রয় করা' নিম্নের কোন পর্যায়ের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সঞ্চয়ের সামর্থ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঞ্চয়ের ইচ্ছা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সঞ্চয়ের গতিশীলতা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সঞ্চয়ের বিনিয়োগ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "সঞ্চয়পত্র ক্রয় সঞ্চিত অর্থ বিনিয়োগের উদাহরণ, তাই এটি সঞ্চয়ের বিনিয়োগ পর্যায়।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-089",
+      "text": "জনাব রহিম এর ব্যবসায়টি নিচের কোন সংগঠন কাঠামোর অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহিম তার দুইজন বন্ধুকে নিয়ে একটি পোশাক বিক্রয়কারী প্রতিষ্ঠান গড়ে তোলেন। তিনি ব্যবসায়ের যাবতীয় কার্যাবলি তত্ত্বাবধান করেন। ব্যবসায়ের সফলতায় উদ্বুদ্ধ হয়ে তিনি আরও ৪ জন বন্ধুকে চুক্তিবদ্ধ সম্পর্কের ভিত্তিতে ব্যবসায়ে নিযুক্ত করার সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-25-26",
+      "options": [
+        {
+          "label": "a",
+          "text": "একমালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথ উদ্যোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রহিম বন্ধুদের নিয়ে চুক্তিবদ্ধভাবে ব্যবসায় করছেন, তাই এটি অংশীদারি সংগঠন।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-090",
+      "text": "জনাব রহিমের গৃহীত সিদ্ধান্ত বাস্তবায়িত হলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব রহিম তার দুইজন বন্ধুকে নিয়ে একটি পোশাক বিক্রয়কারী প্রতিষ্ঠান গড়ে তোলেন। তিনি ব্যবসায়ের যাবতীয় কার্যাবলি তত্ত্বাবধান করেন। ব্যবসায়ের সফলতায় উদ্বুদ্ধ হয়ে তিনি আরও ৪ জন বন্ধুকে চুক্তিবদ্ধ সম্পর্কের ভিত্তিতে ব্যবসায়ে নিযুক্ত করার সিদ্ধান্ত গ্রহণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DB-25-26",
+      "statements": [
+        {
+          "label": "i",
+          "text": "বিনিয়োগ বৃদ্ধি হবে"
+        },
+        {
+          "label": "ii",
+          "text": "দায় বৃদ্ধি পাবে"
+        },
+        {
+          "label": "iii",
+          "text": "আইনি জটিলতা সৃষ্টি হবে"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "নতুন অংশীদার যুক্ত হলে বিনিয়োগ ও দায় বাড়ে (i, ii)। এটি সাধারণ চুক্তির মাধ্যমে হয়, তাই আইনি জটিলতা (iii) বাড়ে না।",
+      "source": {
+        "board": "DB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-091",
+      "text": "উৎপাদনের উপকরণ কয়টি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "৮",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "৬",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "৪",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "২",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের উপকরণ চারটি—ভূমি, শ্রম, মূলধন ও সংগঠন।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-092",
+      "text": "উৎপাদনের জীবন্ত ও গতিশীল উপাদান কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শ্রম মানুষের দ্বারা সম্পাদিত বলে জীবন্ত ও গতিশীল উপাদান।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-093",
+      "text": "কোনটি উৎপাদনের উৎপাদিত উপাদান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "মূলধন মানুষের শ্রমে উৎপাদিত সম্পদ, তাই এটি উৎপাদিত উপাদান। ভূমি প্রকৃতির দান।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 3,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-094",
+      "text": "উদ্দীপকে উল্লিখিত সংগঠনটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "রাজশাহী জেলার তাহেরপুর বাজারের কয়েকজন সবজি ব্যবসায়ী একত্রিত হয়ে নিজেদের ভাগ্যোন্নয়নের জন্য সমঅধিকারের ভিত্তিতে একটি সংগঠন গড়ে তোলেন। এর ফলে অল্পদিনের মধ্যে তারা স্বাবলম্বী হয়। কিন্তু সঠিক দিক নির্দেশনার অভাবে কিছুদিন পর সংগঠনটি আশানুরূপ ফল লাভে ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-4-5",
+      "options": [
+        {
+          "label": "a",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যৌথ মূলধনী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সমঅধিকারের ভিত্তিতে ব্যবসায়ীদের গঠিত সংগঠন সমবায়।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-095",
+      "text": "কাঙ্ক্ষিত সাফল্য অর্জনে উদ্দীপকে উল্লিখিত সংগঠনটির করণীয় হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "রাজশাহী জেলার তাহেরপুর বাজারের কয়েকজন সবজি ব্যবসায়ী একত্রিত হয়ে নিজেদের ভাগ্যোন্নয়নের জন্য সমঅধিকারের ভিত্তিতে একটি সংগঠন গড়ে তোলেন। এর ফলে অল্পদিনের মধ্যে তারা স্বাবলম্বী হয়। কিন্তু সঠিক দিক নির্দেশনার অভাবে কিছুদিন পর সংগঠনটি আশানুরূপ ফল লাভে ব্যর্থ হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-DIB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "দক্ষ ব্যবস্থাপনা গঠন"
+        },
+        {
+          "label": "ii",
+          "text": "সঠিক দায়িত্ব-কর্তব্য বণ্টন"
+        },
+        {
+          "label": "iii",
+          "text": "অধিক মূলধন বিনিয়োগ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "দক্ষ ব্যবস্থাপনা গঠন ও সঠিক দায়িত্ব-কর্তব্য বণ্টন করলে সংগঠনটি সাফল্য পাবে। সমস্যা মূলধনের নয়, দিক নির্দেশনার অভাবের।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-096",
+      "text": "কোনটি শ্রমের বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংরক্ষণযোগ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "হস্তান্তরযোগ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সঞ্চয়যোগ্য",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ধ্বংসশীল",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শ্রম নশ্বর, সংরক্ষণ করা যায় না; তাই এটি ধ্বংসশীল।",
+      "source": {
+        "board": "DIB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-097",
+      "text": "সমবায় সমিতির বৈশিষ্ট্যের বহির্ভূত কোনটি?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সদস্যদের সমান অধিকার",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "একই জাতীয় পেশার মানুষের সংগঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সদস্যদের পারস্পরিক কল্যাণ সাধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "কয়েকটি পৃথক সংগঠনের একই ব্যবস্থাপনায় একত্রীকরণ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "কয়েকটি পৃথক সংগঠনের একই ব্যবস্থাপনায় একত্রীকরণ ব্যবসায় জোটের বৈশিষ্ট্য, সমবায়ের নয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-098",
+      "text": "নিচের কোনটি উৎপাদনের উৎপাদিত উপাদান?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রম",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূলধন মানুষের শ্রমে সৃষ্ট, তাই উৎপাদিত উপাদান।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-099",
+      "text": "কোনটি ভূমির বৈশিষ্ট্য?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "গতিশীলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "স্থানান্তরযোগ্য",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অস্থায়ী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যোগান সীমাবদ্ধ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "ভূমির যোগান সীমাবদ্ধ। ভূমি স্থায়ী ও অচল।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-100",
+      "text": "শ্রমের বৈশিষ্ট্য হলো—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "মানবিক উপাদান"
+        },
+        {
+          "label": "ii",
+          "text": "নশ্বর"
+        },
+        {
+          "label": "iii",
+          "text": "অসীম যোগান"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "শ্রম মানবিক উপাদান ও নশ্বর (i, ii)। শ্রমের যোগান অসীম নয়, সীমিত।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-101",
+      "text": "জনাব মাহমুদ রাজশাহীতে \"শ্রাবন সিল্ক\" কারখানা নামে একটি প্রতিষ্ঠান স্থাপন করেন। প্রতিষ্ঠানটিতে উৎপাদিত সিল্কের শাড়ির মান যথেষ্ট ভালো হওয়ায় সারা দেশে এর চাহিদা সৃষ্টি হয়। এ ক্ষেত্রে জনাব মাহমুদ কোন ধরনের শ্রম বিভাজনকে প্রাধান্য দিয়েছেন।",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পেশাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পূর্ণ প্রক্রিয়াগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসম্পূর্ণ প্রক্রিয়াগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আঞ্চলিক",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রাজশাহী অঞ্চলে সিল্ক শাড়ি তৈরির বিশেষত্বকে গুরুত্ব দিয়ে আঞ্চলিক শ্রম বিভাজন করা হয়েছে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 8,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-102",
+      "text": "নিচের কোনটি 'সুদের হার' দ্বারা প্রভাবিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সঞ্চয়ের সামর্থ্য",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সঞ্চয়ের ইচ্ছা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "বিনিয়োগের সুযোগ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সঞ্চয় সংগ্রহ ও ঋণদান",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "সুদের হার বাড়লে মানুষ সঞ্চয়ে উৎসাহিত হয়, তাই সুদের হার সঞ্চয়ের ইচ্ছাকে প্রভাবিত করে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 9,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-103",
+      "text": "শ্রমবিভাগের প্রবক্তা কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "Henry L. Gantt",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "F.W. Harris",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "Adam Smith",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "Dupont Company",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অ্যাডাম স্মিথ শ্রম বিভাগের প্রবক্তা।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 12,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-104",
+      "text": "প্রধানত জনকল্যাণের উদ্দেশ্যে কোন সংগঠন পরিচালিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবায় সমিতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "রাষ্ট্রীয় সংগঠন",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "যৌথ উদ্যোগ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "রাষ্ট্রীয় সংগঠন প্রধানত জনকল্যাণের উদ্দেশ্যে পরিচালিত হয়।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 17,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-105",
+      "text": "সম্পদের যে অংশ পুনরায় আয় সৃষ্টিতে ব্যবহৃত হয় তাকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যে সম্পদ পুনরায় আয় সৃষ্টিতে ব্যবহৃত হয় তা মূলধন।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "also_in": [
+        {
+          "board": "RB",
+          "year": "2025",
+          "qno": 10,
+          "session": null
+        }
+      ],
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-106",
+      "text": "নিচের কোন সংগঠনের চিরন্তন অস্তিত্ব থাকে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক মালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথ মূলধনী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমবায় সমিতি",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যৌথ মূলধনী কোম্পানি আইনগত স্বতন্ত্র সত্তা, তাই এর চিরন্তন অস্তিত্ব থাকে।",
+      "source": {
+        "board": "JB",
+        "year": "2025",
+        "qno": 30,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-107",
+      "text": "উৎপাদন লজিস্টিকস বলতে কী বোঝায়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "উৎপাদন পদ্ধতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "উৎপাদনের উপকরণ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "উৎপাদনের পরিমাণ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "মান নিয়ন্ত্রণ",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদন লজিস্টিকস দ্বারা উৎপাদনের উপকরণ সংগ্রহ, সংরক্ষণ ও সরবরাহ বোঝানো হয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-108",
+      "text": "একজন সুপারভাইজারের কাজ—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "সংরক্ষণ অযোগ্য"
+        },
+        {
+          "label": "ii",
+          "text": "বিচ্ছিন্ন করা যায়"
+        },
+        {
+          "label": "iii",
+          "text": "গতিশীল"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "এখানে শ্রমের বৈশিষ্ট্য বোঝানো হয়েছে। শ্রম সংরক্ষণ করা যায় না (i) ও গতিশীল (iii); শ্রমকে শ্রমিক থেকে বিচ্ছিন্ন করা যায় না, তাই (ii) ভুল।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-109",
+      "text": "উৎপাদনের উপকরণের মধ্যে কোনটি সংরক্ষণ করা যায় না?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শ্রম নশ্বর, তাই সংরক্ষণ করা যায় না।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-110",
+      "text": "উৎপাদনের উপাদানসমূহকে একত্রিত করেন কে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সংগঠন",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ক্রেতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ভোক্তা",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সরবরাহকারী",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সংগঠন উৎপাদনের উপাদানসমূহ একত্র করে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 24,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-111",
+      "text": "সরকার কর্তৃক প্রতিষ্ঠিত ও পরিচালিত ব্যবসায় সংগঠনকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যৌথ মূলধনী",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "রাষ্ট্রীয় সংগঠন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "সরকার কর্তৃক প্রতিষ্ঠিত ও পরিচালিত সংগঠন রাষ্ট্রীয় সংগঠন।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 25,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-112",
+      "text": "শ্রমিকের স্থান, পেশা ও পেশাগত স্তর পরিবর্তনকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রমের পরিবর্তনশীলতা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রমের গতিশীলতা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রমের বিভাজন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রমের দক্ষতা",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "শ্রমিকের স্থান, পেশা ও স্তর পরিবর্তনের ক্ষমতাকে শ্রমের গতিশীলতা বলে।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-113",
+      "text": "ভূমি বলতে বোঝায়—",
+      "text_en": null,
+      "image": null,
+      "statements": [
+        {
+          "label": "i",
+          "text": "প্রাকৃতিক সকল সম্পদ"
+        },
+        {
+          "label": "ii",
+          "text": "পৃথিবীর উপরিভাগ"
+        },
+        {
+          "label": "iii",
+          "text": "মানব সৃষ্ট সম্পদ"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "ভূমি বলতে প্রাকৃতিক সকল সম্পদ ও পৃথিবীর উপরিভাগ বোঝায় (i, ii)। মানব সৃষ্ট সম্পদ ভূমি নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-114",
+      "text": "উদ্দীপকে উল্লিখিত সংগঠনটি কোন ধরনের?",
+      "text_en": null,
+      "image": null,
+      "stem": "রংপুর শহরের কয়েকজন দুগ্ধ ব্যবসায়ী একত্রিত হয়ে নিজেদের ভাগ্য উন্নয়নের জন্য একটি সংগঠন গড়ে তোলে। মাসিক চাঁদার ভিত্তিতে প্রতিষ্ঠানের অর্থ সংগ্রহ করে। ফলে তারা অল্পদিনের মধ্যে স্বাবলম্বী হয়ে দাঁড়ায়। কিন্তু কিছুদিন পর প্রতিষ্ঠানটি অদক্ষ পরিচালনার কারণে আশানুরূপ ফল লাভে বঞ্চিত হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-28-29",
+      "options": [
+        {
+          "label": "a",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যৌথ মূলধনী",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সমবায়",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মাসিক চাঁদার ভিত্তিতে ব্যবসায়ীদের গঠিত পারস্পরিক কল্যাণমূলক সংগঠন সমবায়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-115",
+      "text": "উদ্দীপকে উল্লিখিত সংগঠনটির আশানুরূপ ফল লাভে করণীয়?",
+      "text_en": null,
+      "image": null,
+      "stem": "রংপুর শহরের কয়েকজন দুগ্ধ ব্যবসায়ী একত্রিত হয়ে নিজেদের ভাগ্য উন্নয়নের জন্য একটি সংগঠন গড়ে তোলে। মাসিক চাঁদার ভিত্তিতে প্রতিষ্ঠানের অর্থ সংগ্রহ করে। ফলে তারা অল্পদিনের মধ্যে স্বাবলম্বী হয়ে দাঁড়ায়। কিন্তু কিছুদিন পর প্রতিষ্ঠানটি অদক্ষ পরিচালনার কারণে আশানুরূপ ফল লাভে বঞ্চিত হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-MB-28-29",
+      "statements": [
+        {
+          "label": "i",
+          "text": "দক্ষ ব্যবস্থাপনা"
+        },
+        {
+          "label": "ii",
+          "text": "সঠিক দায়িত্ব ও কর্তব্য বণ্টন"
+        },
+        {
+          "label": "iii",
+          "text": "অধিক মূলধন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "অদক্ষ পরিচালনার কারণে ফল পাওয়া যায়নি, তাই দক্ষ ব্যবস্থাপনা (i) ও সঠিক দায়িত্ব-কর্তব্য বণ্টন (ii) প্রয়োজন। উদ্দীপকে মাসিক চাঁদায় মূলধন সংগ্রহের কথা আছে এবং স্বাবলম্বী হওয়ার কথাও বলা হয়েছে, তাই অধিক মূলধন (iii) সমস্যার কারণ নয়।",
+      "source": {
+        "board": "MB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-116",
+      "text": "উদ্দীপকের প্রতিষ্ঠানটি কর্তৃক গৃহিত সিদ্ধান্তের ফলে যে সুবিধা পাওয়া যায় তা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "'আরিফ ফ্যাশন' তার প্রতিষ্ঠানের সকল কর্মীর দক্ষতাকে গুরুত্ব দিয়ে সে অনুযায়ী শ্রম বিভাগ প্রবর্তন করেন এবং কর্মীদের দক্ষতা অনুযায়ী বেতন ও মজুরি নির্ধারণ করেন। ফলে প্রতিষ্ঠানটি সফলতা অর্জনে সক্ষম হয়।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-RB-4-5",
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মীদের দক্ষতা বৃদ্ধি"
+        },
+        {
+          "label": "ii",
+          "text": "কাজের সময় সূচি নির্ধারণ"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদনে সময় সাশ্রয়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দক্ষতা অনুযায়ী শ্রম বিভাগের ফলে কর্মীরা একই কাজ বারবার করে দক্ষ হয় (i) এবং অল্প সময়ে বেশি উৎপাদন সম্ভব হয় (iii)। কাজের সময়সূচি নির্ধারণ (ii) শ্রম বিভাগের প্রত্যক্ষ সুবিধা নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-117",
+      "text": "প্রধানত জনকল্যাণের উদ্দেশ্যে কোন সংগঠন পরিচালিত হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "সমবায় সমিতি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যৌথ উদ্যোগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাষ্ট্রীয় সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "রাষ্ট্রীয় সংগঠন মুনাফার চেয়ে জনকল্যাণকে প্রাধান্য দিয়ে পরিচালিত হয়। সমবায় সমিতি সদস্যদের কল্যাণে এবং অন্যগুলো মুনাফার উদ্দেশ্যে গড়ে ওঠে।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 15,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-118",
+      "text": "চুক্তির মাধ্যমে প্রতিষ্ঠিত সংগঠনকে কী বলে?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "যৌথ মূলধনি কোম্পানি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "যৌথ উদ্যোগ",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "একমালিকানা",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "অংশীদারি ব্যবসায় দুই বা ততোধিক ব্যক্তির মধ্যে চুক্তির মাধ্যমে গঠিত হয়। চুক্তিই এর ভিত্তি।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 18,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-119",
+      "text": "'তাঁতীর কাপড় বুনন' কোন ধরনের শ্রম বিভাগের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "পেশাগত",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "সম্পূর্ণ প্রক্রিয়াগত",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "অসম্পূর্ণ প্রক্রিয়াগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "আঞ্চলিক",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "তাঁতী কাপড় বুননের পেশায় নিয়োজিত, অর্থাৎ শ্রম বিভাগ এখানে পেশার ভিত্তিতে হয়েছে। তাই এটি পেশাগত শ্রম বিভাগ।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 23,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-120",
+      "text": "যেখানে শ্রমের প্রয়োজন, সেখানে শ্রমিককে যেতে হয়, কারণ—",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "শ্রমের দর কষাকষির ক্ষমতা কম",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম সর্বাপেক্ষা ধ্বংসশীল উপাদান",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "শ্রমকে সংরক্ষণ করা যায় না",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "শ্রমিক ও শ্রম অবিচ্ছিন্ন অংশ",
+          "image": null
+        }
+      ],
+      "answer": "d",
+      "answer_source": "printed",
+      "explanation": "শ্রমিক ও শ্রম অবিচ্ছেদ্য, শ্রমিককে বাদ দিয়ে শ্রমকে আলাদা করা যায় না। তাই যেখানে শ্রমের প্রয়োজন সেখানে শ্রমিককে সশরীরে যেতে হয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 26,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-121",
+      "text": "জনাব শাহিনের ব্যবসায়টি কোন ধরনের ব্যবসায় সংগঠনের অন্তর্ভুক্ত?",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব শাহিন স্নাতক ডিগ্রি অর্জনের পর চাকরির পিছনে না ছুটে ব্যাংক থেকে ঋণ নিয়ে নিজ গ্রামেই তার দুইজন বন্ধুর সহযোগিতা নিয়ে একটি নার্সারি প্রতিষ্ঠা করেন। তিনি তার নার্সারিতে ফুল ও ফলের চারা বিক্রি করেন। সম্প্রতি গাছের চারার চাহিদা বৃদ্ধি পাওয়ায় তিনি আরও ৪ জন যুবককে পারিশ্রমিকের বিনিময়ে নার্সারিতে নিয়োগ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-RB-27-28",
+      "options": [
+        {
+          "label": "a",
+          "text": "একমালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথ মূলধনি",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ব্যবসায় জোট",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "জনাব শাহিন নিজে মূলধন (ঋণ) সংগ্রহ করে ব্যবসায় শুরু করেছেন এবং পারিশ্রমিকের বিনিময়ে কর্মী নিয়োগ করেছেন। বন্ধুদের সহযোগিতা শুধু সহায়তা, অংশীদারি নয়। তাই এটি একমালিকানা ব্যবসায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 27,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-122",
+      "text": "জনাব শাহিনের গৃহিত কার্যক্রমের ফলে—",
+      "text_en": null,
+      "image": null,
+      "stem": "জনাব শাহিন স্নাতক ডিগ্রি অর্জনের পর চাকরির পিছনে না ছুটে ব্যাংক থেকে ঋণ নিয়ে নিজ গ্রামেই তার দুইজন বন্ধুর সহযোগিতা নিয়ে একটি নার্সারি প্রতিষ্ঠা করেন। তিনি তার নার্সারিতে ফুল ও ফলের চারা বিক্রি করেন। সম্প্রতি গাছের চারার চাহিদা বৃদ্ধি পাওয়ায় তিনি আরও ৪ জন যুবককে পারিশ্রমিকের বিনিময়ে নার্সারিতে নিয়োগ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-RB-27-28",
+      "statements": [
+        {
+          "label": "i",
+          "text": "কর্মসংস্থান বৃদ্ধি হয়"
+        },
+        {
+          "label": "ii",
+          "text": "ক্রেতাদের আয় বৃদ্ধি হয়"
+        },
+        {
+          "label": "iii",
+          "text": "উৎপাদনশীলতা বৃদ্ধি পায়"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "নতুন ৪ জন যুবককে নিয়োগে কর্মসংস্থান বাড়ে (i) এবং চাহিদা মেটাতে উৎপাদন বাড়ায় উৎপাদনশীলতা বৃদ্ধি পায় (iii)। ক্রেতাদের আয় বৃদ্ধি (ii) এই কার্যক্রমের ফল নয়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 28,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-123",
+      "text": "নিচের কোনটি নশ্বর?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের উপকরণগুলোর মধ্যে শ্রম নশ্বর, কারণ শ্রম সংরক্ষণ করে রাখা যায় না এবং ব্যবহার না করলে তা নষ্ট হয়ে যায়।",
+      "source": {
+        "board": "RB",
+        "year": "2025",
+        "qno": 29,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-124",
+      "text": "মূলধনের পারিতোষিক কী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "মজুরি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "খাজনা",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "সুদ",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "ভাড়া",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "মূলধনের পারিতোষিক সুদ। মজুরি শ্রমের, খাজনা ভূমির এবং ভাড়া স্থায়ী সম্পদ ব্যবহারের প্রতিদান।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 1,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-125",
+      "text": "নিচের কোন সংগঠনটি কৃত্রিম ব্যক্তিস্বত্ত্বার অধিকারী?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "এক মালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথমূলধনী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "রাষ্ট্রীয়",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "যৌথমূলধনী কোম্পানি আইনের সৃষ্টি, তাই এর কৃত্রিম ব্যক্তিসত্তা আছে। এটি মালিকদের থেকে আলাদা সত্তা হিসেবে মামলা করতে ও সম্পত্তি ধারণ করতে পারে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 2,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-126",
+      "text": "একজন শিক্ষক, শিক্ষকতা ছেড়ে ব্যবসায় শুরু করলেন। একে শ্রমের কোন গতিশীলতা বলা হয়?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভৌগোলিক",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "ব্যবসায়ীক",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "পেশাগত",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "স্তরগত",
+          "image": null
+        }
+      ],
+      "answer": "c",
+      "answer_source": "printed",
+      "explanation": "শিক্ষকতা ছেড়ে ব্যবসায় যাওয়া মানে এক পেশা থেকে অন্য পেশায় যাওয়া। একে শ্রমের পেশাগত গতিশীলতা বলে।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 4,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-127",
+      "text": "সুমনা ও কামনার প্রতিষ্ঠানটি কোন ধরনের প্রতিষ্ঠান?",
+      "text_en": null,
+      "image": null,
+      "stem": "সুমনা ও কামনা দুজন বান্ধবি মিলে চুক্তির ভিত্তিতে একটি বুটিক্স পণ্য সামগ্রি তৈরির প্রতিষ্ঠান গড়ে তোলেন। বুটিক্স পণ্যের চাহিদা দিন দিন বৃদ্ধি পাওয়ায় তারা প্রতিষ্ঠানটি সম্প্রসারণ করতে চায়। ব্যাংকের উচ্চ সুদের হার এড়িয়ে তারা তাদের বন্ধু সূচনার নিকট থেকে দুই লক্ষ টাকা নেন এবং তাকে সম্পৃক্ত করে ব্যবসায় সম্প্রসারণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-5-6",
+      "options": [
+        {
+          "label": "a",
+          "text": "এক মালিকানা",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "অংশীদারি",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "যৌথমূলধনী",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সমবায়",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "দুজন বান্ধবী চুক্তির ভিত্তিতে ব্যবসায় গড়েছেন এবং পরে তৃতীয়জনকে যুক্ত করেছেন। চুক্তিভিত্তিক ও একাধিক ব্যক্তির মালিকানার এ প্রতিষ্ঠান অংশীদারি ব্যবসায়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 5,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-128",
+      "text": "বন্ধু সূচনাকে নিয়ে ব্যবসায় সম্প্রসারণের যৌক্তিকতা হলো—",
+      "text_en": null,
+      "image": null,
+      "stem": "সুমনা ও কামনা দুজন বান্ধবি মিলে চুক্তির ভিত্তিতে একটি বুটিক্স পণ্য সামগ্রি তৈরির প্রতিষ্ঠান গড়ে তোলেন। বুটিক্স পণ্যের চাহিদা দিন দিন বৃদ্ধি পাওয়ায় তারা প্রতিষ্ঠানটি সম্প্রসারণ করতে চায়। ব্যাংকের উচ্চ সুদের হার এড়িয়ে তারা তাদের বন্ধু সূচনার নিকট থেকে দুই লক্ষ টাকা নেন এবং তাকে সম্পৃক্ত করে ব্যবসায় সম্প্রসারণ করেন।",
+      "stem_image": null,
+      "group": "production_marketing_1st-2025-SB-5-6",
+      "statements": [
+        {
+          "label": "i",
+          "text": "অতিরিক্ত মূলধন বিনিয়োগ"
+        },
+        {
+          "label": "ii",
+          "text": "ঝুঁকি হ্রাস"
+        },
+        {
+          "label": "iii",
+          "text": "বণ্টন প্রণালীর উন্নয়ন"
+        }
+      ],
+      "options": [
+        {
+          "label": "a",
+          "text": "i ও ii",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "i ও iii",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "ii ও iii",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "i, ii ও iii",
+          "image": null
+        }
+      ],
+      "answer": "a",
+      "answer_source": "printed",
+      "explanation": "সূচনাকে যুক্ত করায় অতিরিক্ত মূলধন (i) আসে এবং ঝুঁকি ভাগ হওয়ায় ঝুঁকি কমে (ii)। বণ্টন প্রণালীর উন্নয়নের (iii) কোনো ইঙ্গিত উদ্দীপকে নেই।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 6,
+        "session": null
+      },
+      "tags": [],
+      "difficulty": null
+    },
+    {
+      "id": "production_marketing_1st-ch2-mcq-129",
+      "text": "উৎপাদনের কোন উপকরণ পচনশীল?",
+      "text_en": null,
+      "image": null,
+      "options": [
+        {
+          "label": "a",
+          "text": "ভূমি",
+          "image": null
+        },
+        {
+          "label": "b",
+          "text": "শ্রম",
+          "image": null
+        },
+        {
+          "label": "c",
+          "text": "মূলধন",
+          "image": null
+        },
+        {
+          "label": "d",
+          "text": "সংগঠন",
+          "image": null
+        }
+      ],
+      "answer": "b",
+      "answer_source": "printed",
+      "explanation": "উৎপাদনের উপকরণের মধ্যে শ্রম পচনশীল বা নশ্বর, কারণ শ্রম জমিয়ে রাখা যায় না এবং ব্যবহার না হলে সময় নষ্ট হয়ে শ্রম বিলীন হয়।",
+      "source": {
+        "board": "SB",
+        "year": "2025",
+        "qno": 24,
         "session": null
       },
       "tags": [],
